@@ -1,0 +1,182 @@
+{
+  "slug": "el-masnou",
+  "name": "El Masnou",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 23340,
+  "lat": 41.47978,
+  "lng": 2.3188,
+  "metaTitle": "Taller mecánico en El Masnou — Multimarca y de confianza",
+  "metaDescription": "Tu taller de confianza en El Masnou. Presupuesto cerrado, sin sorpresas. Revisión, mecánica, neumáticos y pre-ITV para todas las marcas. ¡Pide cita!",
+  "heroSubtitle": "¿Cansado de los atascos en la N-II y del salitre del Maresme? Mantén tu coche a punto para el día a día en El Masnou sin sorpresas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir en El Masnou es vivir entre dos mundos: la tranquilidad del Maresme y el ajetreo diario de quien se desplaza a Barcelona o Mataró. Si usas tu coche cada día, sabes lo que significa el tráfico lento de la N-II por la mañana o coger la C-32 buscando un respiro que no siempre llega. Este uso intensivo, de arrancar y parar constantemente, es una prueba de fuego para cualquier embrague, caja de cambios y sistema de frenos. En nuestro taller, entendemos perfectamente esta realidad. Vemos a diario coches de vecinos de Ocata, del centro o de Bellresguard con un desgaste específico, fruto de ser una ciudad dormitorio tan activa. El parque móvil aquí es variado: desde el SEAT León o el Volkswagen Golf de batalla para ir al trabajo, hasta el SUV familiar para las escapadas de fin de semana, pasando por vehículos premium de profesionales que viven en Alella o Teià.\n\nPero el mayor enemigo silencioso de tu coche en El Masnou no es el tráfico, sino el mar. La brisa marina, tan agradable en verano, está cargada de salitre. Esta salinidad se adhiere a la carrocería, a los bajos del coche y, sobre todo, al sistema de frenos y escape, acelerando la corrosión de una forma que no se ve en el interior. Unos discos de freno que en otra zona durarían más, aquí pueden presentar óxido prematuro. Por eso, una revisión en el Maresme no es igual que en otra parte. Hay que mirar con lupa esos puntos críticos. Además, la humedad constante y el calor intenso en verano ponen a prueba el sistema de aire acondicionado, que pasa de ser un lujo a una necesidad absoluta para sobrevivir a un atasco en la N-II en pleno julio.\n\nSabemos que tu coche es tu herramienta para la libertad y el trabajo. Es lo que te permite llevar a los niños al colegio, hacer la compra semanal o escaparte a la Serralada de Marina. Por eso, no solo nos centramos en la avería puntual, sino en el mantenimiento preventivo que te evitará problemas mayores. Un coche que circula por El Masnou y sus alrededores necesita una atención especial en la suspensión, por el estado de algunas calles y los innumerables badenes, y en los neumáticos, que sufren en cada rotonda de la carretera nacional. Atendemos desde el Ford Focus de 2012 hasta el Mercedes Clase A más reciente, porque conocemos las peculiaridades de cada marca y modelo en el entorno costero del Maresme.\n\nNuestro compromiso es ofrecerte un servicio de taller honesto y transparente, adaptado a las condiciones reales de El Masnou. No te contaremos historias. Si el filtro de partículas de tu diésel se satura por hacer solo trayectos cortos a Premià de Mar, te explicaremos por qué y cómo evitarlo. Si tus frenos hacen ruido, comprobaremos si es simple suciedad o el inicio de una corrosión más seria por el efecto del salitre. Realizamos diagnósticos precisos, te damos un presupuesto cerrado antes de tocar un solo tornillo y te asesoramos para que tu coche, sea de la marca que sea, siga siendo un aliado fiable para tu vida en el Maresme, y no una fuente de problemas y gastos inesperados.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu coche necesita para circular con seguridad por El Masnou, la C-32 y las carreteras del Maresme.",
+  "processIntro": "Trabajamos con transparencia total. Así es como cuidamos de tu coche en nuestro taller de El Masnou, paso a paso y sin sorpresas.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le pasa a tu coche y lo revisamos a fondo con nuestros equipos de diagnosis. Identificamos el problema real, sin especulaciones, para entender qué necesita tu vehículo para volver a estar al 100%."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te preparamos un presupuesto detallado y por escrito. El precio que ves es el que pagas, sin extras de última hora ni letra pequeña. Si surge algo nuevo durante la reparación, paramos y te consultamos primero."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No movemos una sola herramienta sin tu confirmación explícita. Tienes el control total. Puedes darnos el visto bueno por teléfono o en persona. Tú decides cuándo y cómo procedemos con la reparación de tu coche."
+    },
+    {
+      "title": "Reparación",
+      "body": "Nuestros mecánicos se ponen manos a la obra utilizando piezas de primera calidad y respetando los plazos acordados. Todas nuestras reparaciones y piezas cuentan con garantía para tu total tranquilidad en la carretera."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos en detalle el trabajo realizado. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+    }
+  ],
+  "commonIssuesIntro": "Vivir junto al mar y usar el coche a diario para ir a trabajar a Barcelona genera una serie de averías típicas que en nuestro taller de El Masnou conocemos muy bien.",
+  "commonIssues": [
+    {
+      "title": "Corrosión en frenos y sistema de escape",
+      "body": "El salitre del aire marino es implacable. Acelera la oxidación de los discos y pastillas de freno, así como del tubo de escape. En la pre-ITV, es uno de los primeros puntos que revisamos a fondo, porque sabemos que es un fallo común en coches que 'duermen' en la calle en El Masnou o Montgat. Realizamos limpiezas y sustituciones para garantizar tu seguridad."
+    },
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El tráfico de la N-II en hora punta y las calles estrechas del centro de El Masnou obligan a un uso constante del embrague y los frenos. Este 'arranca y para' reduce su vida útil. Si notas que el pedal del embrague está duro o que el coche tarda en responder al frenar, es hora de una revisión. Lo diagnosticamos y te damos la mejor solución."
+    },
+    {
+      "title": "Averías en el sistema de aire acondicionado",
+      "body": "En el Maresme, el aire acondicionado trabaja a pleno rendimiento de junio a septiembre. El calor y la humedad fuerzan el compresor y pueden provocar fugas en el circuito. Si no enfría como antes o hace ruidos extraños, probablemente necesite una recarga de gas o una revisión más profunda. No esperes al peor día de calor para revisarlo."
+    },
+    {
+      "title": "Obstrucción del filtro de partículas (FAP)",
+      "body": "Muchos diésel en El Masnou se usan para trayectos cortos: llevar a los niños al colegio, ir a comprar a Premià... Esto impide que el filtro de partículas se regenere correctamente y acaba por obstruirse, provocando una pérdida de potencia y una avería costosa. Realizamos limpiezas forzadas y te aconsejamos sobre cómo evitar este problema."
+    },
+    {
+      "title": "Dirección y suspensión afectadas",
+      "body": "Entre los badenes para reducir la velocidad, el asfalto irregular de algunas calles y las rotondas de la N-II, la suspensión y los neumáticos sufren un desgaste constante. Ruidos al girar, vibraciones en el volante o un desgaste desigual de las ruedas son síntomas claros. Realizamos alineaciones de dirección y revisiones completas del sistema de suspensión."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Expertos en el clima del Maresme",
+      "body": "Sabemos cómo el salitre y la humedad afectan a tu coche. Nuestras revisiones están adaptadas para detectar y prevenir los problemas específicos de la zona, ahorrándote dinero a largo plazo."
+    },
+    {
+      "title": "Presupuesto final, sin sustos",
+      "body": "Te damos un precio cerrado por escrito. Lo que presupuestamos es lo que pagas. Si encontramos algo más, te llamamos, te lo explicamos y tú decides. La honestidad es nuestra principal herramienta."
+    },
+    {
+      "title": "Para todas las marcas del barrio",
+      "body": "Da igual si conduces un SEAT, un BMW, un Peugeot o un Ford. Tenemos la experiencia y el equipo para trabajar con todas las marcas que se ven a diario por El Masnou y alrededores."
+    },
+    {
+      "title": "Te ayudamos con la ITV",
+      "body": "Sabemos que ir a la ITV de Mataró o Badalona puede ser un engorro. Hacemos una revisión pre-ITV exhaustiva y, si quieres, nos encargamos de llevar el coche por ti para que no pierdas tu tiempo."
+    },
+    {
+      "title": "Trato de tú a tú",
+      "body": "Somos un taller de proximidad. Nos gusta hablar contigo, explicarte las cosas de forma clara y que sientas la confianza de dejar tu coche en buenas manos. Estamos aquí, en El Masnou, para ayudarte."
+    }
+  ],
+  "testimonialsIntro": "Estas son algunas situaciones reales que nos encontramos cada día, contadas por conductores como tú de El Masnou y alrededores.",
+  "testimonials": [
+    {
+      "name": "Joan",
+      "neighborhood": "Ocata",
+      "car": "SEAT León TDI 2018",
+      "body": "Vivo a dos calles de la playa y siempre me preocupaba la ITV por el óxido en los bajos. Los llevé para la pre-ITV y me hicieron una revisión súper completa, justo en los puntos que ataca el salitre. Me cambiaron las pastillas de freno que estaban ya tocadas y pasó la ITV a la primera. Muy profesionales, saben lo que se hacen aquí en la costa.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Centre",
+      "car": "Peugeot 2008 2019",
+      "body": "El aire acondicionado dejó de enfriar justo en la primera ola de calor. Con dos niños pequeños, era un drama. Les llamé y me dieron cita rápido. Era una pequeña fuga en el circuito. Lo solucionaron en el día y a un precio razonable. Me salvaron el verano, la verdad. Un trato muy amable y cercano.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Alella",
+      "car": "BMW 320d 2017",
+      "body": "Hago cada día el trayecto Alella-Barcelona por la C-32 y el embrague empezó a patinar. En otros sitios me daban presupuestos desorbitados. Aquí me explicaron claramente qué pasaba, me dieron un presupuesto cerrado y lo cumplieron. El coche va perfecto ahora. Se nota que son serios y no intentan colártela. Merece la pena bajar a El Masnou.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Teià",
+      "car": "Ford Focus 2015",
+      "body": "Notaba una vibración rara en el volante al pasar de 100 km/h en la autopista. Pensé que sería algo grave. Resultó ser un problema de equilibrado de neumáticos y una rótula de la dirección con un poco de holgura. Me lo enseñaron en el elevador para que lo viera. Reparación rápida y el coche vuelve a ir fino. Agradezco la honestidad.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la zona de El Masnou, desde el puerto y el barrio de Ocata hasta la zona alta de Bellresguard. Nuestra ubicación nos permite atender con comodidad a clientes de los municipios colindantes que confían en un servicio profesional y cercano. Si vives en Alella, Teià, Premià de Mar o Montgat, estamos a pocos minutos. El acceso es muy sencillo tanto si vienes por la carretera N-II, que atraviesa nuestro municipio, como si prefieres coger la autopista C-32 y tomar la salida correspondiente. También estamos bien comunicados a través de las carreteras locales que conectan los pueblos del interior del Maresme con la costa. Aparcar en las inmediaciones no suele ser un problema, facilitando que nos dejes tu coche con total comodidad.",
+  "zoneNeighborhoods": [
+    "El Masnou Centre",
+    "Ocata",
+    "Bellresguard",
+    "Alella",
+    "Teià",
+    "Premià de Mar",
+    "Montgat",
+    "Masnou Alt",
+    "Can Teixidor",
+    "Santa Madrona"
+  ],
+  "zoneAccessRoutes": [
+    "N-II",
+    "C-32 (Autopista del Maresme)",
+    "B-20 (Ronda de Dalt)",
+    "BV-5002 (Carretera de la Conreria)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Realmente afecta tanto el salitre de El Masnou al coche?",
+      "a": "Sí, y mucho más de lo que parece. La salinidad del aire acelera la corrosión de todas las partes metálicas expuestas, especialmente los bajos, el sistema de escape y los componentes de los frenos. Por eso, en nuestras revisiones ponemos un énfasis especial en estos puntos, aplicando tratamientos preventivos si es necesario para alargar la vida útil de tu vehículo y garantizar tu seguridad."
+    },
+    {
+      "q": "Vivo en Alella, ¿me dais alguna facilidad para llevar el coche?",
+      "a": "¡Por supuesto! Entendemos que nuestros clientes vienen de toda la comarca. Ofrecemos un servicio de coche de cortesía (sujeto a disponibilidad, consúltanos) para que puedas seguir con tu día a día. Además, estamos muy cerca, a menos de 10 minutos en coche, por lo que dejar y recoger tu vehículo es un momento. Llámanos y vemos cómo podemos ayudarte."
+    },
+    {
+      "q": "Mi coche diésel solo lo uso para trayectos cortos por El Masnou y Premià, ¿qué mantenimiento necesita?",
+      "a": "Es una consulta muy común. El uso en trayectos cortos es perjudicial para los diésel modernos, ya que el filtro de partículas (FAP) no alcanza la temperatura para regenerarse y se obstruye. Te recomendamos que, al menos una vez a la semana, conduzcas unos 20-30 minutos por la C-32 a un régimen de revoluciones algo más alto. En el taller, podemos forzar la regeneración y revisar el estado del filtro y el aceite."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Mataró, ¿vuestra pre-ITV cubre los puntos que más miran allí?",
+      "a": "Sí. Conocemos perfectamente los criterios de las estaciones de ITV de nuestra zona, como la de Mataró o la de Badalona. Nuestra revisión pre-ITV es exhaustiva y se centra en los puntos de fallo más comunes: frenos (muy importante por la corrosión), luces, neumáticos, emisiones y holguras en la suspensión. Nuestro objetivo es que la pases a la primera y sin nervios."
+    },
+    {
+      "q": "El aire acondicionado no enfría como antes, ¿es normal por el calor del Maresme?",
+      "a": "Es normal que con el uso intensivo en veranos calurosos y húmedos como los nuestros, el sistema pierda eficacia. Todos los circuitos de aire acondicionado pierden una pequeña cantidad de gas cada año. Lo más probable es que necesite una recarga y una revisión de posibles fugas. Te recomendamos revisarlo antes de que llegue el calor fuerte para evitar sorpresas."
+    },
+    {
+      "q": "¿Por qué se gastan tanto los neumáticos en esta zona?",
+      "a": "La combinación de rotondas, especialmente en la N-II, y el asfalto de algunas calles, junto con los badenes, provoca un mayor desgaste. Además, una alineación incorrecta de la dirección, que puede desajustarse con los baches, acelera este proceso. Es crucial revisar la presión mensualmente y hacer una alineación al menos una vez al año o siempre que cambies los neumáticos."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en El Masnou",
+  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita en nuestro taller de El Masnou para revisar tu coche con la confianza y profesionalidad que buscas."
+}

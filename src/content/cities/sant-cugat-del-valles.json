@@ -1,0 +1,183 @@
+{
+  "slug": "sant-cugat-del-valles",
+  "name": "Sant Cugat del Vallès",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 79253,
+  "lat": 41.47063,
+  "lng": 2.08611,
+  "metaTitle": "Taller mecánico en Sant Cugat del Vallès — Para coches con historia",
+  "metaDescription": "Reparamos tu coche de más de 10 años en Sant Cugat del Vallès. Presupuesto cerrado para diésel, gasolina e híbridos. Pide tu cita sin compromiso.",
+  "heroSubtitle": "Sabemos que le tienes cariño a tu coche de siempre. En nuestro taller de Sant Cugat lo tratamos con el respeto y la honestidad que merece.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Entendemos perfectamente tu situación. Tienes un coche, probablemente un diésel o gasolina con más de una década, que ha sido tu compañero fiel en miles de trayectos. Quizá es ese motor TDI que te sube la Carretera de l'Arrabassada sin titubear o ese gasolina fiable con el que cruzas los túneles de Vallvidrera cada mañana para ir a Barcelona. Funciona bien, te lleva y te trae, y no tienes ninguna gana de meterte en la letra pequeña de un coche nuevo. Sin embargo, cada vez que se enciende un testigo en el cuadro o escuchas un ruido nuevo al pasar por los badenes de Coll Favà, sientes un nudo en el estómago. El miedo no es a la avería en sí, sino a la factura del taller, a esa sensación de no saber si la reparación valdrá más que el propio coche.\n\nEn Sant Cugat del Vallès, el uso del coche es intenso y particular. No es lo mismo un vehículo que solo circula por ciudad que uno que combina los trayectos cortos para llevar a los niños al colegio en Mirasol con el viaje diario por la AP-7 o la B-30 hacia los polígonos de Rubí o Cerdanyola. El desgaste es diferente. Los frenos y la suspensión sufren en las innumerables rotondas de la Ronda Nord, el embrague se resiente en el tráfico de hora punta para entrar a la C-16, y el sistema de refrigeración se pone a prueba en los veranos secos y calurosos del Vallès. Conocemos este patrón porque lo vemos cada día. Sabemos lo que significa para un coche de cierta edad enfrentarse a la rampa del parking del Mercat de Torreblanca o quedarse parado en la humedad de una mañana de invierno en La Floresta.\n\nAdemás, Sant Cugat vive una transición muy marcada. Ves cómo tus vecinos de Valldoreix o Volpelleres cambian sus coches de combustión por híbridos y eléctricos de última generación. Esto genera una doble incertidumbre. Por un lado, te preguntas cuánto tiempo más podrás seguir usando tu diésel con las Zonas de Bajas Emisiones expandiéndose. Por otro, si decides dar el salto a un híbrido de segunda mano, te enfrentas a una tecnología que desconoces. ¿Quién te va a revisar las baterías? ¿Entenderán de sistemas de propulsión eléctrica? Nuestro taller está preparado para este cambio. Somos especialistas en la mecánica robusta de los coches que han definido las últimas dos décadas, pero también contamos con la formación y el equipo de diagnosis para mantener y reparar los sistemas híbridos que ya son el presente en nuestras calles.\n\nNuestra filosofía es radicalmente simple: transparencia total. No vamos a darte un presupuesto inflado para que decidas desguazar tu coche. Haremos un diagnóstico honesto, te explicaremos las opciones que tienes en un lenguaje claro y te daremos un presupuesto cerrado. Con esa información, la decisión es tuya. A veces, una reparación de unos cientos de euros puede darte varios años más de servicio fiable, y eso, económicamente, es la decisión más inteligente. Estamos aquí para ser tus mecánicos de confianza en Sant Cugat, para alargar la vida de tu coche con sentido común y profesionalidad, no para venderte reparaciones que no necesitas. Tu coche tiene una historia; nosotros le ayudamos a continuarla.",
+  "servicesIntro": "Desde la revisión anual para tu coche familiar hasta la diagnosis de ese fallo electrónico complejo, cubrimos todas las necesidades de tu vehículo en Sant Cugat.",
+  "processIntro": "Trabajamos con un método claro y transparente para que siempre sepas qué le pasa a tu coche, cuánto cuesta y qué haremos para solucionarlo.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que te preocupa y conectamos nuestros equipos de diagnosis para identificar el origen exacto del problema. No dejamos nada al azar y analizamos tanto los fallos mecánicos como los electrónicos."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email que incluye piezas y mano de obra. El precio que ves es el precio que pagas, sin sorpresas ni costes ocultos de última hora. Lo prometemos."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni desmontamos nada hasta que nos das tu visto bueno explícito. El control lo tienes tú en todo momento. Si decides no reparar, solo se factura el diagnóstico."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía europea. Nuestros técnicos siguen los procedimientos del fabricante para asegurar una reparación duradera y fiable, informándote de los plazos en todo momento."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, contactamos contigo para confirmar que todo funciona a la perfección y estás satisfecho."
+    }
+  ],
+  "commonIssuesIntro": "El día a día en Sant Cugat, con sus rotondas, su clima y sus rutas habituales hacia Barcelona, provoca una serie de averías recurrentes que conocemos muy bien.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y bimasa",
+      "body": "El tráfico lento en la Ronda Nord y las constantes paradas y arranques para entrar a la C-16 o circular por el centro castigan el embrague. En coches diésel con años, esto a menudo implica revisar el volante bimasa para evitar vibraciones y averías mayores. Lo diagnosticamos con precisión para no cambiar piezas innecesariamente."
+    },
+    {
+      "title": "Obstrucción del filtro de partículas (FAP)",
+      "body": "Muchos diésel en Sant Cugat se usan para trayectos cortos: llevar a los niños al cole en Coll Favà, ir al supermercado... Esto impide que el FAP se regenere correctamente. Realizamos limpiezas químicas y regeneraciones forzadas para devolverle su eficacia y que pases la ITV sin problemas."
+    },
+    {
+      "title": "Holguras en suspensión y silentblocks",
+      "body": "La cantidad de badenes y rotondas en zonas residenciales como Mirasol o Valldoreix pasa factura a la suspensión. Ruidos al girar o una conducción imprecisa suelen ser síntoma de silentblocks o rótulas desgastadas. Un cambio a tiempo mejora la seguridad y evita un desgaste irregular de los neumáticos."
+    },
+    {
+      "title": "Fallos en el sistema de climatización",
+      "body": "Los veranos en el Vallès son exigentes y un aire acondicionado que no enfría lo suficiente es un problema serio. Diagnosticamos fugas en el circuito, reparamos compresores y realizamos cargas de gas para que puedas enfrentarte al calor de julio y agosto con total confort dentro de tu coche."
+    },
+    {
+      "title": "Averías eléctricas por humedad",
+      "body": "Si tu coche duerme en la calle en zonas como La Floresta, cerca del Parc de Collserola, la humedad invernal puede afectar a centralitas, sensores y conexiones. Estos fallos intermitentes son difíciles de encontrar, pero nuestra experiencia en diagnosis electrónica nos permite localizar y solucionar la causa raíz."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Diagnóstico honesto y claro",
+      "body": "Te explicamos la avería sin tecnicismos. Si una reparación no compensa por el valor del coche, seremos los primeros en decírtelo. Nuestra prioridad es tu confianza, no una factura elevada."
+    },
+    {
+      "title": "Especialistas en coches 'reales'",
+      "body": "Dominamos la mecánica de los coches de 4 a 15 años, esos que forman la mayor parte del parque móvil de Sant Cugat. Conocemos sus puntos débiles y cómo repararlos de forma eficiente."
+    },
+    {
+      "title": "Preparados para el cambio",
+      "body": "La llegada de los híbridos no nos asusta. Tenemos la formación y el equipo para realizar el mantenimiento y la diagnosis de vehículos híbridos, protegiendo tu inversión si das el salto."
+    },
+    {
+      "title": "Conocimiento local real",
+      "body": "Sabemos que no es lo mismo usar el coche para subir a la Arrabassada que para callejear por el centro. Adaptamos nuestro diagnóstico al uso real que le das a tu vehículo en nuestro entorno."
+    },
+    {
+      "title": "Sin sorpresas en la factura",
+      "body": "El presupuesto que te damos es el que pagas. Si durante la reparación surge un imprevisto, paramos y contactamos contigo. Nunca haremos un trabajo extra sin tu autorización explícita."
+    }
+  ],
+  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que resolvemos cada semana en nuestro taller de Sant Cugat.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Valldoreix",
+      "car": "Audi A6 3.0 TDI 2011",
+      "body": "Llevaba tiempo con un ruido metálico al acelerar y en el concesionario oficial me hablaban de cambiar media transmisión. Aquí encontraron que era un soporte del motor. Me explicaron el problema, me enseñaron la pieza rota y la factura fue una décima parte de lo que me temía. Un alivio.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Coll Favà",
+      "car": "Citroën C4 Picasso 2013",
+      "body": "El coche entró en modo avería por culpa del filtro de partículas. Lo uso mucho por el pueblo y apenas salgo a carretera. Me hicieron una limpieza y me dieron consejos para evitar que volviera a pasar. Muy profesionales y didácticos. Se nota que saben lo que hacen. Lo recomiendo.",
+      "rating": 5
+    },
+    {
+      "name": "David",
+      "neighborhood": "Centre",
+      "car": "Seat León 1.6 TDI 2014",
+      "body": "El embrague patinaba y me urgía repararlo porque uso el coche para trabajar. Me dieron cita rápido, cumplieron el plazo que me dijeron y el precio fue exactamente el del presupuesto. Trato cercano y profesional. Da gusto encontrar un taller así de serio en Sant Cugat.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Mirasol",
+      "car": "Toyota Prius 2015",
+      "body": "Compré el coche de segunda mano y quería una revisión a fondo del sistema híbrido antes de un viaje largo. Le hicieron un chequeo completo a la batería y a todo el sistema. Me dieron un informe muy detallado que me dejó tranquila. Aunque el coche va bien, valoro la prevención.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Sant Cugat del Vallès, desde los barrios más consolidados hasta las zonas residenciales más nuevas. Si vives o trabajas en el Centre, Eixample, Coll Favà, Sant Francesc, Volpelleres, Mirasol, Valldoreix o La Floresta, estamos a tu lado. Nuestra ubicación nos permite un acceso rápido y cómodo desde cualquier punto del municipio.\n\nAdemás, muchos de nuestros clientes vienen de localidades vecinas como Cerdanyola del Vallès, Rubí, Sant Quirze del Vallès e incluso desde los barrios de Barcelona más cercanos a Collserola. Si tu ruta diaria incluye la autopista AP-7, su lateral B-30, o los Túneles de Vallvidrera (C-16), nuestro taller es una parada conveniente para el mantenimiento y reparación de tu vehículo.",
+  "zoneNeighborhoods": [
+    "Sant Cugat Centre",
+    "Coll Favà",
+    "Volpelleres",
+    "Mirasol",
+    "Valldoreix",
+    "La Floresta",
+    "Arxiu",
+    "Sant Francesc",
+    "Can Mates",
+    "Rubí",
+    "Cerdanyola del Vallès"
+  ],
+  "zoneAccessRoutes": [
+    "AP-7",
+    "B-30",
+    "C-16 (Túneles de Vallvidrera)",
+    "BV-1417 (Carretera de l'Arrabassada)"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi diésel tiene más de 12 años, ¿merece la pena repararlo con la ZBE de Barcelona tan cerca?",
+      "a": "Es una pregunta muy pertinente. La respuesta depende del tipo de avería y de tu uso. Si usas el coche principalmente por Sant Cugat y el Vallès, la ZBE no te afecta directamente. Una reparación rentable puede darte años de servicio. Si vas a diario a Barcelona, la situación cambia. Te damos un diagnóstico honesto y un presupuesto cerrado para que puedas valorar si la inversión te compensa frente a la compra de un coche nuevo o de segunda mano con etiqueta."
+    },
+    {
+      "q": "Vivo en La Floresta y el coche duerme fuera. ¿Qué mantenimiento especial necesita?",
+      "a": "La humedad de las zonas boscosas de Collserola, especialmente en invierno, puede acelerar la corrosión de partes del escape, afectar a conexiones eléctricas y acortar la vida de la batería. Recomendamos una revisión anual de estos puntos, proteger los bornes de la batería con grasa específica y comprobar el estado de las gomas y manguitos, que pueden resecarse o agrietarse con los cambios de temperatura y humedad."
+    },
+    {
+      "q": "Uso el coche para trayectos cortos por Sant Cugat, ¿cómo evito problemas con el filtro de partículas?",
+      "a": "Es el talón de Aquiles de los diésel modernos en un entorno como Sant Cugat. Para evitar la obstrucción del FAP, te recomendamos que, al menos una o dos veces al mes, realices un trayecto por autopista (como la AP-7) durante unos 20-30 minutos a un régimen de revoluciones constante y algo elevado (sobre 2.500 rpm). Esto fuerza el ciclo de regeneración y limpia el filtro, ahorrándote costosas averías a largo plazo."
+    },
+    {
+      "q": "Tengo un BMW de 2010. ¿Usáis recambios de calidad original?",
+      "a": "Por supuesto. Para coches de gama alta fuera de garantía, utilizamos exclusivamente recambios de primeras marcas que son proveedores de los propios fabricantes (Bosch, Brembo, Sachs, etc.). Esto garantiza un rendimiento y una durabilidad idénticos al recambio original, pero con un coste más ajustado. Nunca comprometemos la calidad ni la seguridad de tu vehículo."
+    },
+    {
+      "q": "Tengo que pasar la ITV pronto. ¿Podéis hacer una revisión pre-ITV centrada en la prueba de humos de mi diésel?",
+      "a": "Sí, es uno de nuestros servicios más demandados. Hacemos una revisión pre-ITV completa que incluye frenos, luces, neumáticos, suspensión y, muy importante en tu caso, un análisis de gases de escape con nuestro opacímetro. Si los valores son altos, podemos realizar tratamientos de descarbonización o limpieza del sistema de inyección para asegurar que pases la prueba sin problemas."
+    },
+    {
+      "q": "He comprado un híbrido de segunda mano. ¿Hacéis una revisión para saber cómo está la batería?",
+      "a": "Sí. Entendemos la incertidumbre al comprar un híbrido usado. Con nuestro equipo de diagnosis específico para vehículos híbridos, podemos realizar un chequeo completo del estado de salud de la batería (SOH - State of Health), verificar el sistema de refrigeración de la misma y comprobar el correcto funcionamiento de la parte eléctrica y el motor de combustión. Te entregamos un informe para tu tranquilidad."
+    }
+  ],
+  "closingHeadline": "Tu coche de siempre, en buenas manos",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos por WhatsApp y cuéntanos qué necesita tu coche. Estamos en Sant Cugat para ayudarte."
+}

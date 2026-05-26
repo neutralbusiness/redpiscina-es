@@ -1,0 +1,190 @@
+---
+/**
+ * Formulario de contacto del subdominio. Envía leads a:
+ *   POST https://panel.neutralb.es/api/leads/network
+ *
+ * El subdominio se resuelve en cliente vía window.location.hostname
+ * (madrid.redtalleres.es → networkDomain="redtalleres.es", citySlug="madrid").
+ *
+ * Incluye:
+ *  - Honeypot (campo invisible 'hp') → bots lo rellenan, humanos no.
+ *  - Validación cliente mínima (email/phone, al menos uno).
+ *  - Mensaje de éxito/error inline (no redirect).
+ */
+interface Props {
+  city: string;
+  cityName: string;
+  networkDomain: string;
+  /** Endpoint del panel. Por defecto producción. Override desde .env si hace falta. */
+  endpoint?: string;
+}
+const { city, cityName, networkDomain, endpoint = "https://panel.neutralb.es/api/leads/network" } = Astro.props;
+---
+
+<section class="contact-section" id="contacto">
+  <div class="container">
+    <h2>¿Necesitas que veamos tu coche?</h2>
+    <p class="contact-lead">
+      Cuéntanos qué necesitas y te llamamos en menos de 24h. Sin compromiso.
+    </p>
+
+    <form id="lead-form" class="lead-form" novalidate>
+      <input type="hidden" name="networkDomain" value={networkDomain} />
+      <input type="hidden" name="citySlug" value={city} />
+      <input type="hidden" name="source" value="web_form" />
+
+      <div class="form-row">
+        <label>
+          <span>Nombre *</span>
+          <input type="text" name="name" required minlength="2" maxlength="200" autocomplete="name" />
+        </label>
+        <label>
+          <span>Teléfono</span>
+          <input type="tel" name="phone" maxlength="50" autocomplete="tel" />
+        </label>
+      </div>
+
+      <label>
+        <span>Email</span>
+        <input type="email" name="email" maxlength="254" autocomplete="email" />
+        <small>Indica al menos teléfono o email para que podamos contactarte.</small>
+      </label>
+
+      <label>
+        <span>¿Qué necesitas? (opcional)</span>
+        <textarea name="message" rows="4" maxlength="5000" placeholder={`Ej. revisión pre-ITV en ${cityName}, ruido en frenada, cambio de aceite…`}></textarea>
+      </label>
+
+      {/* Honeypot: invisible para humanos, rellenado por bots */}
+      <label class="hp" aria-hidden="true" tabindex="-1">
+        Website
+        <input type="text" name="hp" tabindex="-1" autocomplete="off" />
+      </label>
+
+      <button type="submit" class="submit-btn">Enviar</button>
+
+      <div class="form-status" role="status" aria-live="polite"></div>
+    </form>
+  </div>
+</section>
+
+<script define:vars={{ endpoint }}>
+  (() => {
+    const form = document.getElementById("lead-form");
+    if (!form) return;
+    const status = form.querySelector(".form-status");
+    const btn = form.querySelector(".submit-btn");
+
+    function setMsg(msg, ok) {
+      if (!status) return;
+      status.textContent = msg;
+      status.className = "form-status " + (ok ? "ok" : "err");
+    }
+
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      setMsg("", true);
+
+      const fd = new FormData(form);
+      const payload = {
+        networkDomain: String(fd.get("networkDomain") || ""),
+        citySlug: String(fd.get("citySlug") || ""),
+        name: String(fd.get("name") || "").trim(),
+        email: String(fd.get("email") || "").trim(),
+        phone: String(fd.get("phone") || "").trim(),
+        message: String(fd.get("message") || "").trim(),
+        source: String(fd.get("source") || "web_form"),
+        page: location.pathname,
+        hp: String(fd.get("hp") || ""),
+      };
+
+      if (!payload.name || payload.name.length < 2) {
+        setMsg("Indica tu nombre.", false);
+        return;
+      }
+      if (!payload.email && !payload.phone) {
+        setMsg("Indica email o teléfono para contactarte.", false);
+        return;
+      }
+      if (payload.email && !payload.email.includes("@")) {
+        setMsg("Email inválido.", false);
+        return;
+      }
+
+      btn.disabled = true;
+      btn.textContent = "Enviando…";
+
+      try {
+        const res = await fetch(endpoint, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload),
+        });
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok) {
+          setMsg(data.error || `Error (${res.status})`, false);
+          btn.disabled = false;
+          btn.textContent = "Enviar";
+          return;
+        }
+        setMsg("¡Gracias! Te llamamos en menos de 24h.", true);
+        form.reset();
+        btn.textContent = "Enviado";
+        // Mantener btn deshabilitado tras envío exitoso para evitar dobles
+      } catch (err) {
+        setMsg("No se pudo enviar. Inténtalo de nuevo en un momento.", false);
+        btn.disabled = false;
+        btn.textContent = "Enviar";
+      }
+    });
+  })();
+</script>
+
+<style>
+  .contact-section {
+    padding: 3rem 0;
+    background: var(--surface-alt);
+    border-top: 1px solid var(--border);
+  }
+  .contact-section h2 { margin: 0 0 0.5rem; }
+  .contact-lead { color: var(--muted); margin: 0 0 1.5rem; }
+
+  .lead-form { max-width: 640px; display: grid; gap: 1rem; }
+  .lead-form label { display: block; }
+  .lead-form label > span { display: block; font-size: 0.875rem; font-weight: 600; color: var(--ink-700); margin-bottom: 0.25rem; }
+  .lead-form input, .lead-form textarea {
+    width: 100%; padding: 0.625rem 0.875rem;
+    border: 1px solid var(--border); border-radius: var(--radius);
+    font: inherit; background: var(--surface); color: var(--text);
+  }
+  .lead-form input:focus, .lead-form textarea:focus {
+    outline: none; border-color: var(--amber-500);
+    box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.15);
+  }
+  .lead-form small { color: var(--muted); font-size: 0.75rem; margin-top: 0.25rem; display: block; }
+  .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  @media (max-width: 600px) {
+    .form-row { grid-template-columns: 1fr; }
+  }
+
+  .hp {
+    position: absolute; left: -9999px; opacity: 0;
+    height: 0; width: 0; overflow: hidden;
+    pointer-events: none;
+  }
+
+  .submit-btn {
+    padding: 0.75rem 2rem;
+    background: var(--amber-500); color: var(--ink-900);
+    border: none; border-radius: var(--radius);
+    font-weight: 600; font-size: 1rem; cursor: pointer;
+    transition: background 0.15s;
+    justify-self: start;
+  }
+  .submit-btn:hover { background: var(--amber-600); }
+  .submit-btn:disabled { opacity: 0.6; cursor: not-allowed; }
+
+  .form-status { font-size: 0.875rem; min-height: 1.25em; }
+  .form-status.ok { color: var(--green-600); }
+  .form-status.err { color: #dc2626; }
+</style>

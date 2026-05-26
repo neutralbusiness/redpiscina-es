@@ -1,0 +1,182 @@
+{
+  "slug": "santa-perpetua-de-mogoda",
+  "name": "Santa Perpètua de Mogoda",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 25048,
+  "lat": 41.53333,
+  "lng": 2.18333,
+  "metaTitle": "Taller mecánico en Santa Perpètua de Mogoda — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Santa Perpètua de Mogoda. Presupuesto cerrado para revisiones, averías y neumáticos. Pide tu cita ahora.",
+  "heroSubtitle": "Cansado de los atascos en la AP-7 y el desgaste diario? Mantenemos tu coche a punto para que solo te preocupes de conducir.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Vivir o trabajar en Santa Perpètua de Mogoda significa estar en un punto neurálgico del Vallès. Cada día, miles de coches como el tuyo circulan por la AP-7, la C-33 o la C-59 para ir a Barcelona, Sabadell, Mollet o a los polígonos industriales que nos rodean. Este uso intensivo, con sus arranques en frío por la mañana en Can Folguera, los atascos para entrar a Barcelona y los trayectos cortos a Polinyà, pasa factura a tu vehículo. El embrague sufre, los frenos se desgastan y el motor acumula un estrés que no se ve, pero que está ahí.\n\nEl parque automovilístico de Santa Perpètua es un reflejo de su gente: práctico y trabajador. Vemos a diario los SEAT León, Renault Mégane y Peugeot 308 de quienes van a la oficina, y también las furgonetas Citroën Berlingo, Ford Transit y Renault Kangoo que son la herramienta de trabajo de muchos autónomos de la zona. La mayoría son diésel o gasolina con unos cuantos años, coches fiables que necesitan un mantenimiento honesto y a un precio razonable para seguir dando guerra sin dejarte tirado en la N-152a.\n\nAdemás, el clima del Vallès tiene sus propias reglas. Los veranos calurosos ponen a prueba el sistema de refrigeración y el aire acondicionado, mientras que la humedad de los inviernos puede afectar a la batería y a los componentes electrónicos, provocando esos fallos que siempre aparecen en el peor momento. El polvo de las zonas industriales y las obras constantes también acortan la vida de los filtros de aire y habitáculo, afectando tanto al rendimiento del motor como a la calidad del aire que respiras dentro.\n\nEntendemos perfectamente estos desafíos porque son los nuestros. No somos un taller genérico; somos tu taller local en Santa Perpètua. Sabemos lo que implica depender del coche para ir a trabajar a La Llagosta o llevar a los niños al colegio en el barrio Centre. Por eso, nuestro enfoque es directo: diagnóstico claro, presupuesto cerrado sin sorpresas y reparaciones que duran. Tratamos tu coche, ya sea un utilitario de 2010 o una furgoneta de 2018, con la misma profesionalidad, asegurándonos de que esté listo para enfrentarse a la rutina del Vallès con total garantía.",
+  "servicesIntro": "Desde la revisión para pasar la ITV en Sabadell sin agobios hasta el cambio de embrague por el uso diario en la C-59, cubrimos todas tus necesidades.",
+  "processIntro": "Sabemos que tu tiempo es oro. Por eso, nuestro proceso es 100% transparente: te damos un presupuesto cerrado y no hacemos nada sin tu OK.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, lo primero es escuchar qué le ocurre. Después, conectamos nuestros equipos de diagnosis y realizamos una inspección visual para entender el origen real del problema, sin especulaciones."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Verás cada concepto claro, sin letra pequeña ni sorpresas. Es un precio final, para que sepas exactamente cuánto te va a costar la reparación."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "El coche no se toca hasta que nos das tu visto bueno. Si durante la reparación encontramos algo más, te llamamos, te lo explicamos y te damos un nuevo presupuesto. Tú siempre tienes la última palabra."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas con garantía y seguimos las especificaciones del fabricante. Nuestro equipo trabaja de forma eficiente para que tengas tu coche de vuelta lo antes posible y en perfectas condiciones."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Al recoger tu coche, te explicamos en detalle qué hemos hecho. Guardamos el historial de tu vehículo y, pasados unos días, podemos contactarte para asegurarnos de que todo funciona como la seda."
+    }
+  ],
+  "commonIssuesIntro": "El tráfico para entrar a Barcelona, el clima del Vallès y el uso intensivo de tu coche en Santa Perpètua provocan averías muy concretas que conocemos de sobra.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "Los atascos diarios en la AP-7 y la C-33 para ir a Barcelona o Sabadell son un castigo para el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Diagnosticamos el nivel de desgaste y te ofrecemos una solución duradera."
+    },
+    {
+      "title": "Filtros de partículas (FAP) obstruidos",
+      "body": "Muchos diésel que hacen trayectos cortos, como ir de Santa Perpètua a Polinyà o La Llagosta, no dan tiempo al filtro a regenerarse. Esto provoca pérdida de potencia y averías caras. Realizamos limpiezas y regeneraciones forzadas para que tu diésel respire y evites problemas mayores."
+    },
+    {
+      "title": "Problemas con el aire acondicionado",
+      "body": "El verano en el Vallès es intenso y un aire acondicionado que no enfría es un suplicio. Las altas temperaturas fuerzan el sistema. Revisamos fugas en el circuito, recargamos el gas y comprobamos el compresor para que vuelvas a pasar los meses de calor con total comodidad."
+    },
+    {
+      "title": "Suspensión y neumáticos castigados",
+      "body": "Entre los badenes de las zonas residenciales y el asfalto irregular de algunos polígonos, la suspensión y los neumáticos sufren mucho. Ruidos raros o un desgaste desigual de las ruedas son síntomas claros. Hacemos una revisión completa y alineado para garantizar tu seguridad y confort."
+    },
+    {
+      "title": "Fallos de batería en invierno",
+      "body": "La humedad del invierno en Santa Perpètua, combinada con trayectos cortos, debilita la batería. Si a tu coche le cuesta arrancar por las mañanas, no esperes a quedarte tirado. Comprobamos el estado de la batería y el alternador para asegurar que tu coche arranque siempre a la primera."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos tu día a día",
+      "body": "Sabemos lo que es coger el coche cada día en Santa Perpètua. Entendemos tus rutas, tus prisas y los problemas que eso genera en tu vehículo. Hablamos tu mismo idioma."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Sin extras inesperados ni conceptos que no entiendes. La confianza empieza por la transparencia en la factura."
+    },
+    {
+      "title": "Para todas las marcas y modelos",
+      "body": "Da igual si conduces un Dacia Sandero o un Audi A4. Tenemos la experiencia y el equipo para cuidar de cualquier coche que se mueve por el Vallès."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "No te haremos cambiar piezas que no lo necesitan. Te diremos qué es urgente reparar para tu seguridad y qué puede esperar. Tu tranquilidad es nuestra prioridad."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Todas nuestras intervenciones y las piezas que utilizamos están garantizadas. Queremos que salgas del taller con la seguridad de que el trabajo está bien hecho."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Santa Perpètua y alrededores que ya confían en nosotros para el cuidado de su coche.",
+  "testimonials": [
+    {
+      "name": "Joan",
+      "neighborhood": "La Florida",
+      "car": "SEAT León TDI 2016",
+      "body": "Hago cada día el trayecto hasta Cerdanyola y el embrague empezaba a patinar. Me dieron un presupuesto cerrado muy competitivo. Lo que más valoro es que me explicaron todo el proceso y cumplieron el plazo. El coche va perfecto ahora, incluso en los atascos de la AP-7. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Centre",
+      "car": "Peugeot 2008 2018",
+      "body": "Tenía que pasar la ITV en Sabadell y no estaba segura de si el coche estaba bien del todo. Les pedí una revisión Pre-ITV y encontraron un problema en una luz de freno y las pastillas algo gastadas. Lo arreglaron en el mismo día y pasé la inspección sin ningún fallo. Un alivio.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Polinyà",
+      "car": "Renault Kangoo 2015",
+      "body": "Soy autónomo y la furgoneta es mi oficina. Se me encendió un testigo de motor y perdía fuerza. Me la diagnosticaron rápido, era el filtro de partículas. Me explicaron por qué pasaba por mis trayectos cortos y lo solucionaron. Me salvaron de un problema gordo. Muy recomendables.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Can Folguera",
+      "car": "Ford Fiesta 2013",
+      "body": "El coche hacía un ruido raro al girar. Tardaron un poco más de lo previsto en darme el diagnóstico porque la avería era extraña, pero me mantuvieron informada en todo momento. Al final era una tontería, y la factura fue más baja de lo que esperaba. La comunicación fue muy buena.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda Santa Perpètua de Mogoda, desde el barrio de Can Folguera hasta La Florida o el Centre. Si vives o trabajas aquí, somos tu taller de proximidad. Nuestra ubicación es ideal para quienes se mueven por los municipios colindantes, ya que estamos cerca de los principales accesos. Recibimos cada día a clientes de Polinyà, La Llagosta, Mollet del Vallès y Palau-solità i Plegamans que buscan un servicio de confianza. Gracias a nuestra proximidad a vías clave como la AP-7, la C-59 y la C-33, además de la carretera local N-152a, llegar a nuestro taller es rápido y sencillo desde cualquier punto de la comarca del Vallès Occidental.",
+  "zoneNeighborhoods": [
+    "Santa Perpètua de Mogoda",
+    "Can Folguera",
+    "La Florida",
+    "Centre",
+    "Can Filuà",
+    "Polinyà",
+    "La Llagosta",
+    "Mollet del Vallès",
+    "Palau-solità i Plegamans",
+    "Sabadell"
+  ],
+  "zoneAccessRoutes": [
+    "AP-7",
+    "C-59",
+    "C-33",
+    "N-152a"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis revisión Pre-ITV para las estaciones de Sabadell o La Llagosta?",
+      "a": "Sí, por supuesto. Conocemos perfectamente los puntos que más se revisan en las estaciones de ITV de nuestra zona. Hacemos una revisión completa de los elementos de seguridad, luces, frenos, neumáticos y emisiones. Si detectamos algo, te damos presupuesto para solucionarlo y que pases la ITV a la primera sin problemas."
+    },
+    {
+      "q": "Mi coche diésel hace muchos trayectos cortos por Santa Perpètua, ¿qué mantenimiento especial necesita?",
+      "a": "Es una consulta muy común. Los diésel modernos con filtro de partículas (FAP/DPF) sufren en recorridos cortos, ya que el filtro no alcanza la temperatura para limpiarse. Te recomendamos que, una vez a la semana, salgas a la autopista (AP-7 o C-59) y conduzcas unos 15-20 minutos a un régimen más alto (unas 2.500-3.000 rpm) para forzar la regeneración. Además, es clave usar un aceite de calidad."
+    },
+    {
+      "q": "Tengo una furgoneta de trabajo, ¿entendéis las necesidades de un profesional?",
+      "a": "Totalmente. Sabemos que tu furgoneta no puede estar parada. Priorizamos las reparaciones de vehículos profesionales para minimizar el impacto en tu negocio. Entendemos el desgaste extra que sufren por la carga y el uso continuo en los polígonos de Santa Perpètua y alrededores, y nos adaptamos para darte una solución rápida y fiable."
+    },
+    {
+      "q": "¿Cuándo es la mejor época para cambiar los neumáticos en el clima del Vallès?",
+      "a": "Aunque no tenemos nieve habitualmente, el asfalto en invierno puede estar muy frío y húmedo por las mañanas, perdiendo adherencia. Los veranos son muy calurosos, lo que degrada el caucho. Lo ideal es revisar la presión mensualmente y el estado del dibujo antes del otoño (octubre) y de la primavera (abril) para asegurar un agarre óptimo todo el año."
+    },
+    {
+      "q": "El aire acondicionado de mi coche no enfría lo suficiente en verano, ¿es una recarga y ya está?",
+      "a": "No siempre. Aunque una recarga de gas es lo más habitual, la pérdida de frío puede deberse a una fuga en el circuito, un filtro sucio o un problema en el compresor. Antes de recargar sin más, hacemos una comprobación del sistema para encontrar la causa real. Así te aseguras de que la reparación sea definitiva y no tires el dinero."
+    },
+    {
+      "q": "Mi coche tiene más de 10 años, ¿vale la pena seguir reparándolo?",
+      "a": "En la mayoría de los casos, sí. Un coche bien mantenido, como un SEAT Ibiza o un Renault Clio de esa edad, puede durar muchos años más con un coste muy inferior al de uno nuevo. Te daremos un diagnóstico honesto: si la reparación es rentable y te garantiza fiabilidad, te lo diremos. Si creemos que no vale la pena, también seremos claros contigo."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Santa Perpètua",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos por WhatsApp y déjanos cuidar de tu coche como se merece aquí, en Santa Perpètua de Mogoda."
+}

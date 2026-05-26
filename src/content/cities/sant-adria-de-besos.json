@@ -1,0 +1,185 @@
+{
+  "slug": "sant-adria-de-besos",
+  "name": "Sant Adrià de Besòs",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 36669,
+  "lat": 41.43073,
+  "lng": 2.21855,
+  "metaTitle": "Taller mecánico en Sant Adrià de Besòs — Para tu furgoneta y coche",
+  "metaDescription": "Reparamos tu coche o furgoneta en Sant Adrià de Besòs con presupuesto cerrado. Expertos en vehículos de trabajo y diésel. ¡Pide tu cita ahora!",
+  "heroSubtitle": "Sabemos que tu coche parado es un día de trabajo perdido. En Sant Adrià, te damos un diagnóstico claro para que sigas facturando.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si usas tu coche o furgoneta para trabajar y te mueves cada día por Sant Adrià de Besòs, sabes que esto no es un paseo. No hablamos solo de conducir, sino de sobrevivir a la Ronda Litoral (B-10) en hora punta, de callejear por La Catalana buscando un sitio para descargar o de cruzar a Badalona o Santa Coloma por calles que ponen a prueba cualquier amortiguador. Tu vehículo no es un lujo, es tu herramienta principal. Cada mañana que arranca, es un día que puedes facturar. Entendemos perfectamente esa dependencia porque es la realidad de muchos de nuestros clientes, desde el instalador que va cargado hasta los topes al comercial que necesita una presencia impecable. El uso intensivo, el tráfico denso que te obliga a jugar con el embrague constantemente y la humedad salina que nos regala el Mediterráneo, especialmente si aparcas por la zona del Fòrum, no son precisamente amigos de la mecánica. Son factores que aceleran el desgaste de componentes clave y que exigen un mantenimiento que vaya más allá de un simple cambio de aceite.\n\nPara un autónomo o un pequeño profesional, una avería no es solo el coste de la reparación, es el lucro cesante. Es el cliente que no puedes visitar, el material que no puedes entregar, el trabajo que se queda a medias. Por eso, nuestro enfoque en Sant Adrià es radicalmente práctico. No te vamos a contar historias. Cuando tu Renault Kangoo empieza a dar tirones en plena C-31 dirección Barcelona, o tu Volkswagen Caddy diésel echa más humo de la cuenta, lo que necesitas no son promesas, sino un diagnóstico preciso y un plan de acción. Conocemos el parque móvil de la zona: vehículos con sus años, muchos diésel, que se usan para trabajar duro de lunes a viernes y, con suerte, para una escapada el fin de semana. Sabemos lo que significa que el filtro de partículas se sature por hacer demasiados trayectos cortos entre el polígono del Besòs y el centro, o que los frenos empiecen a 'cantar' por la combinación de humedad y ferodo gastado.\n\nLa geografía local impone sus reglas. No es lo mismo un coche que solo circula por el interior que uno que duerme a pocos metros del mar. La corrosión es un enemigo silencioso que ataca los bajos, los conductos de freno y las partes metálicas del motor. Además, el urbanismo de Sant Adrià y sus alrededores, con sus calles a veces estrechas, sus badenes en barrios como Sant Joan Baptista y el asfalto irregular de algunas zonas industriales, castiga la suspensión, las rótulas y los neumáticos. Un simple silentblock que empieza a dar guerra puede convertirse en un problema de seguridad y en una reparación más cara si no se atiende a tiempo. Por eso insistimos tanto en la prevención. Echarle un ojo a tiempo a esos pequeños síntomas te puede ahorrar mucha pasta y, lo que es más importante para ti, evitar que tu herramienta de trabajo te deje tirado en el peor momento posible, como de camino a un cliente importante en el 22@.\n\nNuestro compromiso es ser tu taller de confianza en Sant Adrià, el que entiende que no puedes permitirte tener el coche parado. Por eso, cada paso de nuestro proceso está diseñado para darte certidumbre. Desde el primer momento sabrás qué le pasa a tu coche, cuánto va a costar repararlo con un presupuesto cerrado y cuándo podrás volver a tenerlo en marcha. No empezamos ninguna reparación sin tu autorización explícita. Somos el mecánico del barrio que habla tu mismo idioma, que entiende la prisa del día a día y que sabe que la confianza se gana con honestidad y trabajo bien hecho, no con palabrería. Ya vivas en el centro de Sant Adrià, en La Mina o vengas de los barrios limítrofes de Badalona o Barcelona, aquí encontrarás un servicio pensado para que tu negocio no se detenga.",
+  "servicesIntro": "Desde la revisión para que tu furgoneta pase la ITV sin problemas hasta la reparación del embrague castigado por el tráfico de las Rondas, lo cubrimos todo.",
+  "processIntro": "Trabajamos con un método claro y directo para que siempre sepas qué le pasa a tu coche, cuánto cuesta y cuándo estará listo. Cero sorpresas.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y nuestros técnicos conectan el equipo de diagnosis. Identificamos el problema real, no nos quedamos en la superficie. Te explicamos la causa de la avería en un lenguaje que entiendas."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y cerrado. Incluye piezas, mano de obra e IVA. Lo que ves es lo que pagas. Te lo enviamos por WhatsApp o email para que lo revises con calma."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No movemos ni un solo tornillo sin tu visto bueno explícito. Solo cuando nos das el 'vale, adelante', nuestro equipo se pone manos a la obra. Tú tienes el control total del proceso y del gasto en todo momento."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de calidad equivalente a la original y seguimos los procedimientos del fabricante. Te mantenemos informado del progreso y cumplimos con los plazos acordados para que puedas organizar tu agenda de trabajo."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo para recoger. Te explicamos la reparación realizada, te entregamos las piezas sustituidas si quieres y nos aseguramos de que todo funciona perfectamente. Tu satisfacción es nuestra garantía."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario por Sant Adrià y las Rondas, sumado al clima costero, provoca problemas muy concretos que vemos cada día en el taller. Estos son los más habituales.",
+  "commonIssues": [
+    {
+      "title": "Embragues gastados por el tráfico de la B-10",
+      "body": "El atasco diario en la Ronda Litoral, tanto para ir a Barcelona como para volver, es un infierno para el embrague. El constante 'primera-punto muerto-primera' lo desgasta prematuramente. Si notas que el pedal está duro o que el coche patina al acelerar, es hora de revisarlo antes de quedarte tirado."
+    },
+    {
+      "title": "Filtros de partículas (FAP) obstruidos",
+      "body": "Muchos vehículos diésel de trabajo hacen trayectos cortos por Sant Adrià, Badalona o Santa Coloma. Esto impide que el filtro FAP se regenere correctamente, provocando pérdida de potencia y averías caras. Realizamos limpiezas forzadas y te aconsejamos sobre cómo evitar que vuelva a pasar."
+    },
+    {
+      "title": "Corrosión en bajos y sistema de frenos",
+      "body": "La brisa marina es estupenda, pero el salitre que trae es muy corrosivo para el metal. Los coches que duermen en la calle, especialmente en la zona del Fòrum o La Catalana, sufren oxidación en el chasis, escape y latiguillos de freno. Una revisión anual de los bajos es fundamental por seguridad."
+    },
+    {
+      "title": "Problemas de suspensión y silentblocks",
+      "body": "Entre los badenes para calmar el tráfico en zonas residenciales y el asfalto mejorable de algunas calles del Polígon del Besòs, la suspensión sufre mucho. Ruidos extraños al girar o inestabilidad en carretera suelen ser culpa de silentblocks o amortiguadores en mal estado. Lo revisamos para que conduzcas seguro."
+    },
+    {
+      "title": "Fallos en el sistema de climatización",
+      "body": "En verano, con la humedad de la costa, el aire acondicionado no es un lujo, es una necesidad, sobre todo si pasas horas en el coche. La falta de uso en invierno y la corrosión por el ambiente salino pueden provocar fugas en el circuito o averías en el compresor. Hacemos la carga y reparamos el sistema."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos tu urgencia",
+      "body": "Sabemos que tu vehículo es tu oficina. Priorizamos los diagnósticos en coches de profesionales para que sepas qué tienes y puedas decidir rápido. El objetivo es que vuelvas a la carretera cuanto antes."
+    },
+    {
+      "title": "Presupuesto sin letra pequeña",
+      "body": "Te damos un precio cerrado por escrito. Sin sorpresas, sin costes añadidos de última hora. Así puedes planificar tus gastos y evitar un agujero inesperado en la facturación del mes."
+    },
+    {
+      "title": "Hablamos claro, de tú a tú",
+      "body": "Olvídate de tecnicismos incomprensibles. Te explicamos la avería de forma sencilla para que sepas qué le pasa a tu coche y por qué es necesario repararlo. La transparencia es la base de la confianza."
+    },
+    {
+      "title": "Especialistas en vehículos de trabajo",
+      "body": "Conocemos las tripas de las furgonetas y comerciales más habituales en nuestras calles (Berlingo, Partner, Kangoo, Caddy...). Sabemos sus puntos débiles y cómo mantenerlos a punto para el duro trabajo diario."
+    },
+    {
+      "title": "A un paso de las vías principales",
+      "body": "Nuestra ubicación te permite dejarnos el coche fácilmente si te mueves por la C-31 o la Ronda Litoral, ahorrándote tiempo en desplazamientos para que puedas seguir con tu jornada."
+    }
+  ],
+  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que nos encontramos y resolvemos cada semana en Sant Adrià.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "La Catalana",
+      "car": "Citroën Berlingo 2017",
+      "body": "La furgoneta empezó a perder fuerza en plena Ronda Litoral. Un desastre, porque iba a una instalación en Barcelona. Les llamé, la traje y en un par de horas me confirmaron que era el filtro de partículas, algo típico por lo visto. Me dieron presupuesto cerrado y al día siguiente ya la tenía lista. Me salvaron la semana.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat",
+      "neighborhood": "Sant Joan Baptista",
+      "car": "Seat León TDI 2015",
+      "body": "Soy comercial y hago muchos kilómetros. Notaba un ruido raro en la rueda delantera al girar. Lo llevé para que le echaran un ojo y era una rótula de la suspensión. Me lo explicaron muy bien, me enseñaron la pieza y el precio me pareció correcto. Valoro mucho que no intenten colarte cosas que no son.",
+      "rating": 5
+    },
+    {
+      "name": "David",
+      "neighborhood": "Centre",
+      "car": "Ford Transit Connect 2016",
+      "body": "Tenía que pasar la ITV y sabía que los frenos de atrás no estaban muy católicos. Se la llevé para una pre-ITV y, efectivamente, había que cambiar pastillas y discos. Lo hicieron en el mismo día y pasó la inspección sin un solo fallo. Un servicio práctico y sin rodeos, como a mí me gusta.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Sant Roc (Badalona)",
+      "car": "Peugeot 208 2014",
+      "body": "El aire acondicionado había dejado de enfriar. Con el calor que hace aquí en verano, era imposible conducir. Me comprobaron el circuito, encontraron una pequeña fuga y lo solucionaron. El precio fue más bajo de lo que esperaba. El trato fue bueno, aunque tardaron un poco en darme cita.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio principalmente en Sant Adrià de Besòs, cubriendo todos sus barrios, desde La Catalana y el frente marítimo hasta el centro y Sant Joan Baptista. Nuestra ubicación es estratégica para profesionales y particulares que se mueven por el Barcelonès Nord. Muchos de nuestros clientes vienen de municipios vecinos con los que compartimos el día a día, como Badalona (especialmente de barrios como Sant Roc, El Remei y Gorg) y Santa Coloma de Gramenet (barrios del Fondo y Santa Rosa). También somos el taller de referencia para muchos vecinos de los barrios de Barcelona más cercanos, como El Besòs i el Maresme y La Verneda i la Pau. Si usas a diario la Ronda Litoral (B-10), la C-31 o la N-II, estamos a un paso para cualquier revisión o imprevisto.",
+  "zoneNeighborhoods": [
+    "La Catalana",
+    "Sant Joan Baptista",
+    "La Mina",
+    "Centre (Sant Adrià)",
+    "Besòs (Barcelona)",
+    "Sant Roc (Badalona)",
+    "Gorg (Badalona)",
+    "El Remei (Badalona)",
+    "Fondo (Santa Coloma)"
+  ],
+  "zoneAccessRoutes": [
+    "B-10 (Ronda Litoral)",
+    "C-31 (Autovía de Castelldefels)",
+    "N-II",
+    "B-20 (Ronda de Dalt)"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi furgoneta es diésel y hago trayectos cortos por Sant Adrià y Badalona, ¿qué mantenimiento especial necesita?",
+      "a": "Es el caso más común. Esos trayectos cortos son fatales para los sistemas anticontaminación, sobre todo el filtro de partículas (FAP) y la válvula EGR. Te recomendamos que, al menos una vez por semana, salgas a la autovía (la C-31 es perfecta para esto) y conduzcas unos 15-20 minutos a un régimen más alto (sobre 2.500 rpm) para forzar la regeneración. Además, una limpieza preventiva del sistema cada cierto tiempo te ahorrará averías muy caras."
+    },
+    {
+      "q": "Aparco cerca de la playa del Fòrum, ¿cómo afecta la sal a mi coche?",
+      "a": "El salitre del ambiente marino es muy corrosivo. Acelera la oxidación de todas las partes metálicas no protegidas: los bajos del coche, el sistema de escape, los tornillos, los conductos de freno e incluso el radiador del aire acondicionado. Te aconsejamos lavar el coche con frecuencia, prestando especial atención a los bajos, y hacer una revisión visual de estos elementos una vez al año para detectar puntos de óxido antes de que se conviertan en un problema de seguridad."
+    },
+    {
+      "q": "Tengo que pasar la ITV en la estación de Sant Adrià, ¿hacéis pre-ITV enfocada en lo que más miran allí?",
+      "a": "Sí, por supuesto. Conocemos bien la estación de ITV de Sant Adrià. Aunque los criterios son nacionales, cada estación tiene sus 'manías'. Hacemos una revisión pre-ITV completa que se centra en los puntos críticos de siempre (luces, frenos, neumáticos, emisiones), pero prestando atención extra a los silentblocks y posibles holguras en la suspensión, que son un punto de rechazo habitual. Si tu coche es diésel, nos aseguramos de que la opacidad de humos esté dentro de los límites."
+    },
+    {
+      "q": "Trabajo en Barcelona y dependo del coche. Si os lo dejo por la mañana, ¿cuándo podría tenerlo?",
+      "a": "Nuestra prioridad es la rapidez, sobre todo para vehículos de trabajo. Para mantenimientos programados (revisiones, frenos, etc.), si lo dejas a primera hora, lo más habitual es que lo tengas por la tarde. Para averías, el tiempo depende del diagnóstico y de la disponibilidad de piezas, pero te daremos un plazo estimado y fiable en cuanto sepamos qué le ocurre. Siempre te mantendremos informado."
+    },
+    {
+      "q": "Uso la Ronda Litoral (B-10) a diario. ¿Qué componentes sufren más y cómo puedo prevenirlas?",
+      "a": "La B-10 es una prueba de fuego para cualquier coche. Los componentes que más sufren son el embrague (por el constante arranque y parada), los frenos y los neumáticos. También el motor sufre al no poder refrigerar bien en atascos. Para prevenir, te recomendamos no apurar las marchas, mantener la distancia de seguridad para frenar con suavidad y revisar la presión de los neumáticos semanalmente. Una revisión anual del líquido de frenos y del estado del embrague es clave."
+    },
+    {
+      "q": "El coche 'canta' al frenar después de unos días de lluvia y humedad, ¿es grave?",
+      "a": "Es un fenómeno muy común aquí por la humedad. Generalmente, ese chirrido inicial se debe a una fina capa de óxido superficial que se forma en los discos de freno. Suele desaparecer tras las primeras frenadas. Sin embargo, si el ruido persiste, es agudo o escuchas un sonido de rozamiento metálico, podría ser un aviso de que las pastillas de freno están gastadas. En ese caso, tráelo para que lo revisemos por seguridad."
+    },
+    {
+      "q": "¿Ofrecéis alguna solución si no puedo quedarme sin vehículo mientras reparáis el mío?",
+      "a": "Entendemos perfectamente que no puedes parar tu actividad. Disponemos de un número limitado de coches de cortesía que puedes solicitar al pedir cita. Es un servicio muy demandado por nuestros clientes profesionales, por lo que te recomendamos que lo reserves con la máxima antelación posible. Consulta las condiciones de disponibilidad y uso con nuestro equipo al concertar tu cita para asegurarte de que tienes una solución de movilidad."
+    }
+  ],
+  "closingHeadline": "Tu coche a punto en Sant Adrià",
+  "closingCta": "No dejes que una avería pare tu negocio. Llámanos o envíanos un WhatsApp para pedir un diagnóstico y un presupuesto sin compromiso. Estamos en Sant Adrià de Besòs para ayudarte a seguir en marcha."
+}

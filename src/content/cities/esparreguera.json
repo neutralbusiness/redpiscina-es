@@ -1,0 +1,182 @@
+{
+  "slug": "esparreguera",
+  "name": "Esparreguera",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 21855,
+  "lat": 41.53809,
+  "lng": 1.87025,
+  "metaTitle": "Taller mecánico en Esparreguera — Multimarca y de confianza",
+  "metaDescription": "Tu taller en Esparreguera para revisiones, mecánica y neumáticos. Presupuesto cerrado y garantía. Atendemos todas las marcas. ¡Pide cita y olvídate de problemas!",
+  "heroSubtitle": "Harto del tráfico de la A-2 y de que el coche te dé problemas? En nuestro taller de Esparreguera lo dejamos a punto para que solo te preocupes de conducir.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives en Esparreguera, sabes lo que significa depender del coche cada día. Ya sea para coger la A-2 y plantarte en Barcelona para trabajar, para acercarte a Martorell o para subir a Olesa, tu vehículo es una herramienta imprescindible. Entendemos perfectamente el desgaste que supone el atasco matutino a la altura de Abrera, ese constante arranca-para que castiga el embrague y los frenos. Conocemos las cuestas de barrios como Can Rial o Mas d'en Gall y cómo afectan a la suspensión, y sabemos que el coche tiene que estar listo para cualquier escapada de fin de semana a Montserrat o más allá.\n\nEn nuestro taller de Esparreguera no vemos solo coches, vemos las herramientas de trabajo y de vida de nuestros vecinos. El parque móvil de la zona es un reflejo de nuestra gente: muchos SEAT, como es lógico estando tan cerca de la fábrica de Martorell, pero también una gran cantidad de Peugeot, Renault, Citroën y Ford que llevan años demostrando su fiabilidad. Son coches, en su mayoría diésel y gasolina de entre 5 y 15 años, que necesitan un mantenimiento honesto y a un precio razonable, lejos de los costes de los concesionarios oficiales. También vemos cada vez más híbridos y furgonetas de autónomos que necesitan su vehículo para ganarse la vida.\n\nEl clima del Baix Llobregat interior también juega su papel. Los veranos calurosos ponen a prueba el sistema de refrigeración y el aire acondicionado, que se convierten en elementos no de confort, sino de necesidad. Por otro lado, las mañanas de invierno, con la humedad del Llobregat cerca, pueden ser el golpe de gracia para una batería que ya flaquea, dejándote tirado justo cuando tienes más prisa. Estos factores, combinados con el tipo de conducción que exige la A-2 o la C-55, crean un conjunto de necesidades muy específicas para los vehículos de la zona.\n\nPor eso, nuestro enfoque es local y práctico. No te hablaremos con tecnicismos innecesarios. Te explicaremos qué le pasa a tu coche, por qué le pasa (seguramente por las condiciones que ambos conocemos) y qué opciones tienes, siempre con un presupuesto cerrado por delante. Queremos ser tu taller de confianza en Esparreguera, ese al que vienes sabiendo que seremos transparentes y que entenderemos que necesitas el coche a punto para tu día a día, sin sorpresas ni gastos imprevistos. Somos mecánicos, pero también somos de aquí.",
+  "servicesIntro": "Desde la revisión para pasar la ITV sin dramas hasta la reparación del embrague castigado por el tráfico de la A-2, cubrimos todas las necesidades de tu coche en Esparreguera.",
+  "processIntro": "Trabajamos con total transparencia. Te damos un presupuesto cerrado por adelantado y no movemos un tornillo sin tu aprobación.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que te preocupa, probamos el coche si es necesario y conectamos nuestros equipos de diagnosis para identificar el origen del problema con precisión. No dejamos nada al azar."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Verás el coste de las piezas y la mano de obra claramente desglosado. El precio que ves es el que pagas, sin sorpresas."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisamos el presupuesto contigo por teléfono y resolvemos cualquier duda. La reparación solo comienza cuando nos das tu visto bueno. Tú tienes siempre el control total sobre la intervención."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado si surge cualquier imprevisto, aunque no es lo habitual."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando recoges el coche, te explicamos el trabajo realizado. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario por la A-2, el clima variable del Vallès y las cuestas hacia Montserrat provocan una serie de averías muy típicas en los coches de Esparreguera y alrededores. Estas son las que más vemos.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico lento y las paradas constantes en la A-2 en hora punta hacia Barcelona son un castigo para el embrague y los frenos. Si notas que el pedal del embrague está duro o el coche frena menos, es hora de una revisión. Nos aseguramos de montar componentes de calidad que aguanten el ritmo diario."
+    },
+    {
+      "title": "Averías en el filtro de partículas (FAP)",
+      "body": "Muchos diésel se usan para trayectos cortos dentro de Esparreguera o en el atasco de la autovía, lo que impide que el filtro se regenere correctamente y acaba por obstruirse. Realizamos limpiezas químicas, regeneraciones forzadas y, si es necesario, la sustitución para que pases la ITV y el motor respire bien."
+    },
+    {
+      "title": "Fallos del aire acondicionado en verano",
+      "body": "El calor intenso de julio y agosto en la zona obliga al climatizador a trabajar al máximo. Esto puede provocar fugas de gas o averías en el compresor. Si notas que no enfría como antes, ven a que lo revisemos antes de que el problema (y la factura) se haga más grande."
+    },
+    {
+      "title": "Suspensión y neumáticos castigados",
+      "body": "Entre los badenes de urbanizaciones como Can Rial y las carreteras secundarias con asfalto irregular que rodean el municipio, los amortiguadores y los neumáticos sufren mucho. Unos amortiguadores en mal estado aumentan la distancia de frenado y desgastan mal las ruedas. Hacemos una revisión completa y te aconsejamos."
+    },
+    {
+      "title": "Problemas de batería en invierno",
+      "body": "Las mañanas frías y húmedas cerca del Llobregat son la prueba de fuego para las baterías. Si a tu coche le cuesta arrancar por la mañana, es muy probable que la batería esté en las últimas. La comprobamos gratuitamente y, si hace falta, la cambiamos para que no te deje tirado de camino al trabajo."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos tu rutina",
+      "body": "Sabemos lo que es el trayecto diario por la A-2 y la importancia de tener el coche siempre a punto. Hablamos tu mismo idioma y conocemos los problemas reales de conducir por Esparreguera y alrededores."
+    },
+    {
+      "title": "Un taller de proximidad",
+      "body": "Estamos en Esparreguera, para la gente de aquí y de pueblos vecinos como Olesa, Abrera o Collbató. Olvídate de tener que ir hasta un polígono lejano para un servicio de calidad y confianza."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "El precio que te damos es el que pagas. Sin extras de última hora ni conceptos que no entiendes. La claridad es nuestra norma para que puedas organizar tus gastos sin imprevistos."
+    },
+    {
+      "title": "Especialistas multimarca",
+      "body": "Reparamos todas las marcas, con especial experiencia en los modelos más comunes en la zona como SEAT, Peugeot, Renault o Ford. Tenemos el conocimiento y el equipo para cuidar de tu coche, sea cual sea."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Todas nuestras intervenciones y los recambios que utilizamos están garantizados por ley. Puedes estar tranquilo sabiendo que tu coche está en buenas manos y el trabajo bien hecho."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Aquí tienes algunos ejemplos de situaciones reales que solucionamos cada día para conductores de Esparreguera y alrededores.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "La Plana",
+      "car": "SEAT León TDI 2016",
+      "body": "Hago cada día el trayecto a Martorell y el embrague empezaba a patinar. En el concesionario me daban un presupuesto altísimo y cita para dentro de dos semanas. Aquí me lo miraron al día siguiente, me dieron un precio cerrado mucho más razonable y en dos días tenía el coche listo. Se nota que saben lo que hacen.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Can Rial",
+      "car": "Peugeot 2008 2018",
+      "body": "Tenía que pasar la ITV y quería asegurarme de que todo estaba bien. Me hicieron una revisión pre-ITV y vieron que un amortiguador delantero estaba para cambiar, seguramente de tanto badén en la urbanización. Me lo explicaron todo muy bien y me lo cambiaron rápido. La ITV la pasé a la primera. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Centre Vila",
+      "car": "Renault Kangoo 2015",
+      "body": "Soy autónomo y la furgoneta es mi oficina. En pleno julio dejó de funcionar el aire acondicionado y era imposible trabajar. Les llamé, entendieron la urgencia y me hicieron un hueco. Era una fuga en un manguito. En 24 horas estaba reparada y yo podía seguir trabajando sin asarme. Un servicio de 10.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Olesa de Montserrat",
+      "car": "Ford Focus 2013",
+      "body": "El coche hacía un ruido raro al girar y ya me temía lo peor. En otros sitios a veces parece que te quieren cambiar medio coche. Aquí fueron súper honestos, lo subieron al elevador y me enseñaron que era solo una pieza pequeña del protector del disco de freno que se había doblado. Me lo enderezaron en 10 minutos. Agradezco mucho la honradez.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller mecánico en Esparreguera da servicio a toda la zona del Baix Llobregat Nord. Si vives en cualquier barrio de la ciudad, desde el Centre Vila, La Plana o Barri Font hasta urbanizaciones como Can Rial o Mas d'en Gall, estamos a tu lado. Muchos de nuestros clientes vienen también de municipios vecinos que confían en nuestro trabajo, como Olesa de Montserrat, Abrera, Collbató e incluso Martorell, buscando una alternativa de confianza a los servicios oficiales. Nuestra ubicación es de fácil acceso desde las principales vías que conectan la comarca, como la autovía A-2, el eje del Llobregat C-55 o carreteras locales como la BV-1201.",
+  "zoneNeighborhoods": [
+    "Centre Vila",
+    "La Plana",
+    "Can Rial",
+    "Mas d'en Gall",
+    "Barri Font",
+    "El Castell",
+    "Olesa de Montserrat",
+    "Abrera",
+    "Collbató",
+    "Martorell"
+  ],
+  "zoneAccessRoutes": [
+    "A-2 (Autovía del Nordeste)",
+    "C-55 (Eix del Llobregat)",
+    "BV-1201",
+    "AP-7 (via Martorell)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la revisión pre-ITV? ¿A qué estación es mejor ir desde Esparreguera?",
+      "a": "Sí, realizamos una revisión pre-ITV completa para que vayas sobre seguro. Comprobamos los puntos clave: frenos, luces, emisiones, neumáticos, etc. Las estaciones de ITV más cercanas y habituales para los vecinos de Esparreguera son las de Abrera, Sant Andreu de la Barca o la de Sant Vicenç de Castellet. Te dejamos el coche listo para que apruebes a la primera en cualquiera de ellas."
+    },
+    {
+      "q": "Mi coche diésel hace sobre todo ciudad y atascos en la A-2, ¿debo preocuparme por el filtro de partículas?",
+      "a": "Es una preocupación muy común y justificada. Ese tipo de uso impide que el filtro de partículas (FAP) se regenere correctamente, lo que puede causar averías y un aumento del consumo. Te recomendamos que, si puedes, salgas a la autovía una vez a la semana y conduzcas a revoluciones más altas durante unos 15-20 minutos. Si ya notas tirones o se enciende el testigo, tráenoslo para hacer una diagnosis."
+    },
+    {
+      "q": "Vivo en Olesa de Montserrat, ¿me compensa llevaros el coche?",
+      "a": "Totalmente. Estamos a menos de 10 minutos en coche y muchos de nuestros clientes son de Olesa, Abrera o Collbató. Valoran nuestra transparencia, los precios ajustados en comparación con otros talleres y el trato cercano. Coger la C-55 o la A-2 es un momento y te aseguras un servicio de confianza sin tener que ir más lejos."
+    },
+    {
+      "q": "El aire acondicionado de mi coche no enfría como antes, ¿es una avería cara?",
+      "a": "No tiene por qué. Muchas veces es simplemente una falta de gas por pequeñas fugas que se producen con el tiempo. Una recarga es una operación rápida y económica. Si la avería está en el compresor u otra pieza, el coste es mayor, pero siempre te daremos un presupuesto cerrado antes de hacer nada para que tú decidas."
+    },
+    {
+      "q": "Tengo un SEAT, ¿usáis recambios originales?",
+      "a": "Trabajamos con recambios de primeras marcas que cumplen o superan las especificaciones del fabricante original, como Bosch, Valeo, Brembo, etc. Ofrecen la misma calidad y garantía a un precio más competitivo. Si un cliente nos pide expresamente un recambio original de SEAT, también podemos conseguirlo y montarlo sin problema."
+    },
+    {
+      "q": "Necesito el coche para ir a trabajar a Barcelona, ¿tenéis coche de sustitución?",
+      "a": "Sí, disponemos de coches de cortesía para nuestros clientes (consulta condiciones y disponibilidad al pedir cita). Entendemos que no puedes quedarte sin vehículo, especialmente si lo usas para el desplazamiento diario. Nuestro objetivo es que la reparación de tu coche te afecte lo menos posible a tu rutina."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Esparreguera",
+  "closingCta": "Si tu coche necesita una revisión o notas algo raro, no lo dejes pasar. Llámanos o envíanos un WhatsApp y te daremos cita en nuestro taller de Esparreguera sin ningún compromiso."
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "llefia",
+  "name": "Llefià",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 43827,
+  "lat": 41.43806,
+  "lng": 2.2195,
+  "metaTitle": "Taller mecánico en Llefià, Badalona — Presupuesto sin sorpresas",
+  "metaDescription": "Cansado de facturas infladas? En nuestro taller en Llefià (Badalona) te damos un presupuesto cerrado. Revisión, mecánica, neumáticos y Pre-ITV. Pide tu cita.",
+  "heroSubtitle": "Si estás harto de que la factura final nunca coincida con lo que te dijeron, bienvenido. Aquí, lo que presupuestamos es lo que pagas. Sin más.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Sabes lo que es conducir por Llefià a diario. Las cuestas para subir hacia La Salut o bajar buscando la C-31, el tráfico denso en la Avinguda del Marquès de Mont-roig a primera hora, o el imposible Tetris para aparcar por la noche. Tu coche sufre este trote: el embrague en las arrancadas en pendiente, los frenos en cada semáforo, la suspensión en los badenes que parecen multiplicarse. No es un uso de fin de semana por la AP-7; es una batalla diaria. Necesitas que tu coche, ya sea un diésel para ir a trabajar al polígono del Besòs o un gasolina para llevar a los niños al colegio, sea fiable. Entendemos que tu vehículo no es un lujo, es la herramienta que te permite moverte por Badalona, Santa Coloma o entrar a Barcelona por la Ronda Litoral sin depender del transporte público.\n\nEl problema es que esa necesidad te ha hecho vulnerable. Seguro que te suena esta historia: llevas el coche al taller por un ruido, te dan un precio de palabra, y al recogerlo la factura se ha duplicado. \"Es que ha salido esto\", \"hemos tenido que cambiar también aquello\", \"no te llamé para no molestar\". Frases que te hielan la sangre y te vacían el bolsillo. Esa desconfianza es agotadora. Te hace posponer revisiones necesarias por miedo al sablazo, a que te tomen por tonto por no entender de mecánica. En nuestra red de talleres partimos de una idea radicalmente opuesta: la transparencia total. No tocamos un tornillo sin tu aprobación explícita a un presupuesto detallado y por escrito que te enviamos al móvil. Se acabaron las sorpresas y las explicaciones vagas.\n\nNo somos un concesionario oficial que solo ve coches nuevos. Vivimos y trabajamos en Badalona, y conocemos el parque móvil de Llefià y sus alrededores como la palma de nuestra mano. Sabemos que por aquí lo que más se ve no son coches de alta gama, sino el Seat Ibiza del 2014, el Renault Clio que ya tiene sus años pero sigue dando guerra, el Citroën C4 diésel con más de 150.000 kilómetros o el Peugeot 308 que usas para todo. Conocemos sus puntos débiles de fábrica, los ruidos que empiezan a hacer a ciertos kilómetros y las piezas que suelen fallar. No vamos a ciegas. Este conocimiento nos permite diagnosticar más rápido y de forma más precisa, sin cambiar piezas por cambiar. Entendemos tu coche porque es el coche de nuestros vecinos.\n\nAdemás, el entorno de Llefià tiene sus propias particularidades que afectan a la mecánica. La proximidad al mar, a solo unos minutos, significa que el salitre está en el aire. Esa humedad salina es un enemigo silencioso que corroe los bajos, los discos de freno y los componentes metálicos mucho más rápido que en el interior. El uso intensivo en ciudad, con trayectos cortos para ir al centro comercial de Montigalà o moverte por Sant Roc, es fatal para los filtros de partículas de los diésel, que no llegan a regenerarse y acaban dando averías caras. Nuestro enfoque no es solo reparar lo que se rompe, sino entender por qué se rompe y aconsejarte para que puedas prevenirlo. Es la diferencia entre un simple recambista y un mecánico que de verdad se preocupa por tu coche y tu bolsillo.",
+  "servicesIntro": "Desde la revisión anual para quedarte tranquilo hasta esa avería compleja que te trae de cabeza, cubrimos las necesidades reales de tu coche en Llefià.",
+  "processIntro": "Trabajamos con un método claro y directo para que siempre sepas qué le pasa a tu coche, cuánto cuesta y tengas tú la última palabra.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Primero te escuchamos a ti. Luego, nuestros técnicos conectan el equipo de diagnosis y realizan una inspección visual completa para encontrar el origen real del problema, no solo el síntoma. Te explicamos qué hemos encontrado."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Recibirás en tu móvil o email un presupuesto detallado: piezas, mano de obra e IVA desglosados. Sin letra pequeña. El importe que ves es el importe final que pagarás, ni un céntimo más."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ninguna pieza ni empezamos a desmontar nada hasta que nos des tu visto bueno explícito. Un simple \"OK\" por WhatsApp o una llamada es suficiente. El control siempre es tuyo."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Te mantenemos informado del progreso si la reparación se alarga y cumplimos con los plazos acordados. Queremos que recuperes tu coche cuanto antes."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Al recoger tu coche, te explicamos el trabajo realizado y te enseñamos las piezas sustituidas si lo deseas. Unos días después, te contactamos para confirmar que todo funciona a la perfección."
+    }
+  ],
+  "commonIssuesIntro": "El día a día en Llefià, con sus cuestas, su tráfico y su clima costero, provoca una serie de averías muy características que vemos a diario en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Embragues y frenos que 'cantan' antes de tiempo",
+      "body": "Las calles empinadas de Llefià, La Salut y los barrios altos de Badalona obligan a un uso constante de embrague y freno. Este esfuerzo extra, sobre todo en el tráfico de para-y-arranca, acelera el desgaste de discos, pastillas y el kit de embrague. Realizamos una revisión exhaustiva y te asesoramos sobre componentes reforzados si tu rutina es especialmente exigente."
+    },
+    {
+      "title": "Filtro de partículas (FAP) obstruido",
+      "body": "Los trayectos cortos habituales en Badalona o para cruzar a Santa Coloma son el peor enemigo del diésel. El motor no alcanza la temperatura para limpiar el filtro (regeneración) y se acaba saturando. Diagnosticamos el nivel de obstrucción y realizamos limpiezas forzadas para evitar la costosa sustitución de la pieza."
+    },
+    {
+      "title": "Óxido en bajos y sistema de escape",
+      "body": "El salitre del Mediterráneo no perdona. Aunque no vivas en primera línea de playa, la brisa marina acelera la corrosión de los bajos del coche, los silentblocks y, sobre todo, el sistema de escape. En nuestras revisiones pre-ITV le echamos un ojo a fondo, porque es un motivo de rechazo directo en la estación de Badalona."
+    },
+    {
+      "title": "Holguras en la suspensión y dirección",
+      "body": "La cantidad de badenes, asfalto irregular en calles secundarias y los bordillazos al aparcar en huecos imposibles por Llefià pasan factura a la suspensión. Rótulas, silentblocks y amortiguadores sufren y generan ruidos y vibraciones. Alineamos la dirección y revisamos todo el tren de rodaje para tu seguridad."
+    },
+    {
+      "title": "Fallos eléctricos por la humedad",
+      "body": "La humedad ambiental de la zona costera puede afectar a las conexiones eléctricas y centralitas, especialmente en coches que duermen en la calle. Esto provoca fallos intermitentes, testigos que se encienden sin motivo o problemas de arranque. Contamos con equipos de diagnosis electrónica avanzada para localizar y reparar estos fallos fantasma."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Presupuestos que se cumplen",
+      "body": "Lo que te decimos que cuesta, es lo que cuesta. Nuestra principal norma es eliminar la incertidumbre y las sorpresas de la factura final. Tu confianza empieza aquí."
+    },
+    {
+      "title": "Sabemos de tu coche",
+      "body": "Estamos especializados en los coches que llenan las calles de Llefià y Badalona: SEAT, Renault, Peugeot, Citroën... Conocemos sus averías comunes y vamos al grano."
+    },
+    {
+      "title": "Te hablamos claro",
+      "body": "Olvídate de tecnicismos para liarte. Te explicamos la avería de forma que la entiendas, para que puedas tomar la mejor decisión sin sentirte presionado."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Todo nuestro trabajo y las piezas que instalamos están garantizados por escrito. Queremos que salgas del taller con total tranquilidad y seguridad."
+    },
+    {
+      "title": "A un paso de casa",
+      "body": "Estamos en la zona, somos un taller de barrio integrado en una red nacional. No tienes que cruzar media área metropolitana para tener un servicio profesional y honesto."
+    }
+  ],
+  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que resolvemos cada semana en nuestros talleres.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "La Salut",
+      "car": "Ford Focus 1.6 TDCI 2013",
+      "body": "Estaba hasta las narices de otro taller que siempre encontraba 'cositas' nuevas. Aquí fui para la revisión y me mandaron el presupuesto al WhatsApp. Claro, detallado y sin sorpresas. Me explicaron que por las cuestas del barrio las pastillas estaban para cambiar pronto, pero sin meterme prisa. Se agradece la honestidad.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Llefià",
+      "car": "SEAT Ibiza 1.2 TSI 2016",
+      "body": "Se me encendió un testigo amarillo y me asusté. En otros sitios me habrían contado una milonga. Aquí lo metieron en la máquina delante de mí, me enseñaron el fallo (era una tontería de un sensor) y me dieron el presupuesto cerrado para cambiarlo. Rápido y sin sentirme engañada por ser mujer y no entender de motores.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Sant Roc",
+      "car": "Citroën Berlingo 2011",
+      "body": "Uso la furgoneta para trabajar y no puedo tenerla parada. Me empezó a hacer un ruido raro el embrague. Les llamé, me dieron cita rápido y cumplieron el plazo que me dijeron. El precio, el que pactamos. Para un autónomo, esa seriedad no tiene precio. Sé que puedo contar con ellos.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Artigues",
+      "car": "Renault Clio 2010",
+      "body": "Tenía que pasar la ITV y el coche ya tiene sus años. Pedí la revisión Pre-ITV y me encontraron una pequeña fuga en el escape y una luz de matrícula fundida. Lo arreglaron en el momento y me ajustaron el precio. Fui a la ITV de Badalona y la pasé a la primera. Buen servicio, aunque tardaron un poco más de lo que me dijeron al principio.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller da servicio principalmente a los vecinos de Llefià, pero nuestra ubicación estratégica en Badalona nos hace accesibles para una zona mucho más amplia. Si vives o trabajas en barrios cercanos como La Salut, Sant Roc, Sant Crist o Artigues, estamos a pocos minutos. También cubrimos las necesidades de los conductores de municipios colindantes como Santa Coloma de Gramenet y Sant Adrià de Besòs, que encuentran en nuestro taller una alternativa fiable a los servicios oficiales.\n\nEl acceso es sencillo desde las principales vías que vertebran el Barcelonès Nord. Si vienes por la C-31 (la antigua autopista A-19), la salida está muy cerca. Lo mismo ocurre si te mueves por la Ronda de Dalt (B-20), conectando fácilmente con las calles principales de la ciudad. Para el tráfico local, avenidas como Alfons XIII o Marquès de Mont-roig te traen directamente a nuestra zona de influencia. Olvídate de meterte en el centro de Barcelona para una reparación de confianza.",
+  "zoneNeighborhoods": [
+    "Llefià",
+    "La Salut",
+    "Sant Roc",
+    "Artigues",
+    "Sant Crist de Can Cabanyes",
+    "El Remei",
+    "Sant Adrià de Besòs",
+    "Santa Coloma de Gramenet"
+  ],
+  "zoneAccessRoutes": [
+    "C-31 (Autopista del Maresme)",
+    "B-20 (Ronda de Dalt)",
+    "B-10 (Ronda Litoral)",
+    "Avinguda del Marquès de Mont-roig"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Es complicado aparcar cerca del taller en Llefià?",
+      "a": "Somos conscientes de que aparcar en Llefià es un desafío. Aunque no tenemos un parking privado para clientes, nuestra zona de recepción está diseñada para que puedas dejar el coche de forma segura y rápida sin tener que dar vueltas. Nosotros nos encargamos de moverlo al elevador. El objetivo es que la entrega y recogida de tu vehículo sea un trámite de pocos minutos, no un dolor de cabeza."
+    },
+    {
+      "q": "Mi coche es diésel, tiene 10 años y casi solo lo muevo por Badalona. ¿Qué debo vigilar?",
+      "a": "Ese perfil de uso es muy común aquí y el principal problema es el filtro de partículas (FAP/DPF). Los trayectos cortos no permiten que se limpie solo y acaba obstruyéndose, causando pérdida de potencia y averías costosas. Te recomendamos que, una vez a la semana, intentes salir a la C-31 o la B-20 y conduzcas unos 15-20 minutos a revoluciones un poco más altas (unas 2.500 rpm) para forzar esa limpieza y alargar su vida útil."
+    },
+    {
+      "q": "Tengo que pasar la ITV en la estación de Badalona, ¿qué miráis en la Pre-ITV?",
+      "a": "Nuestra Pre-ITV es un calco de la inspección oficial. Revisamos los puntos críticos de rechazo en la ITV de Badalona: emisiones (muy estrictos con los diésel), estado de los neumáticos, frenos (descompensación), luces, holguras en la suspensión y, muy importante en esta zona por el salitre, corrosión en los bajos o el sistema de escape. El objetivo es que vayas sobre seguro y la pases a la primera."
+    },
+    {
+      "q": "Vivo en una de las calles con más pendiente de La Salut. ¿El desgaste extra tiene un coste mayor?",
+      "a": "El desgaste es mayor, eso es un hecho físico, pero el coste de la reparación no. El precio de cambiar un kit de embrague o un juego de pastillas de freno es el mismo vivas donde vivas. Lo que sí hacemos en estos casos es recomendarte componentes de una calidad ligeramente superior, que aguantarán mejor esa exigencia extra, para que a la larga ahorres dinero al no tener que cambiarlos tan a menudo."
+    },
+    {
+      "q": "Si dais un presupuesto cerrado, ¿qué pasa si al desmontar encontráis otra avería?",
+      "a": "Es la pregunta clave y nuestra principal diferencia. Si surge un imprevisto, paramos el trabajo de inmediato. Te llamamos, te explicamos la nueva situación con fotos o vídeos si es necesario, y te damos un segundo presupuesto, aparte, para esa nueva reparación. Nunca, bajo ningún concepto, reparamos nada que no hayas autorizado previamente por escrito. Tú decides si quieres arreglarlo todo, solo lo inicial o nada."
+    },
+    {
+      "q": "Mi coche es del 2007. ¿Vale la pena repararlo o me diréis que lo cambie?",
+      "a": "Nosotros somos mecánicos, no vendedores de coches. Mientras una reparación sea segura y económicamente lógica para ti, la haremos. Estamos acostumbrados a trabajar con coches de más de 15 años, son la mayoría en nuestros barrios. Conocemos sus achaques y sabemos cómo mantenerlos en circulación de forma fiable y asequible. Nuestra recomendación siempre será la más honesta para tu situación."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Llefià con total confianza",
+  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita para diagnosticar tu coche en nuestro taller de Badalona sin que te lleves sorpresas."
+}

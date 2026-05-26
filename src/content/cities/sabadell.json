@@ -1,0 +1,191 @@
+{
+  "slug": "sabadell",
+  "name": "Sabadell",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 211734,
+  "lat": 41.54329,
+  "lng": 2.10942,
+  "metaTitle": "Taller mecánico en Sabadell — Multimarca y de confianza",
+  "metaDescription": "Tu taller mecánico en Sabadell para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Entendemos tu coche y tus rutas. Pide cita.",
+  "heroSubtitle": "Hartos del tráfico de la C-58 y de las facturas que no cuadran. Tu coche necesita un taller en Sabadell que entienda tu día a día.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Sabadell y el Vallès Occidental tiene sus propias reglas. No es lo mismo un coche que solo pisa la Gran Via que uno que se enfrenta cada mañana al atasco de la C-58 en dirección a Barcelona o Terrassa. Ese arranque y parada constante, especialmente en los accesos a Barberà o antes del nudo de la Trinitat, es una tortura para cualquier embrague y un desgaste prematuro para los frenos. Si tu rutina diaria implica este trayecto, sabes perfectamente de lo que hablamos. No es una avería, es el peaje que paga la mecánica por vivir y trabajar en una de las áreas más dinámicas de Cataluña. En nuestro taller de Sabadell, vemos a diario las consecuencias de este uso intensivo: embragues que patinan antes de tiempo, pastillas de freno cristalizadas y un estrés general en la transmisión que un coche de uso más tranquilo jamás experimentaría.\n\nEl clima del Vallès también juega su partido. Aquí no tenemos la salinidad de la costa, pero sí un contraste térmico que pone a prueba los componentes. Los veranos son un auténtico horno, con temperaturas que convierten el asfalto de la N-150 en una parrilla. Es en julio y agosto cuando los sistemas de aire acondicionado dicen basta, los manguitos se resecan y los neumáticos sufren una degradación acelerada. Y luego llega el invierno, con esas mañanas frías y húmedas, sobre todo en zonas cercanas al Ripoll, donde a las baterías les cuesta arrancar y los motores diésel más veteranos protestan. Este ciclo de calor intenso y frío húmedo es un desafío constante para el sistema eléctrico, los fluidos y la climatización de tu vehículo.\n\nEl parque automovilístico de Sabadell es un reflejo de su gente: trabajador y práctico. Aquí predominan los SEAT León e Ibiza, los Renault Clio y Mégane, los Peugeot 208 y 308, y una cantidad enorme de Citroën Berlingo, Peugeot Partner y furgonetas similares. Son los vehículos de los autónomos y pequeñas empresas que se mueven por los polígonos de Can Roqueta, Sud-Oest o Santiga. No son coches de exposición, son herramientas de trabajo y vehículos familiares que necesitan ser fiables por encima de todo. Entendemos que tu Ford Focus no es un capricho, es lo que te permite llevar a los niños al colegio en Can Llong antes de ir a trabajar. Por eso, nuestro enfoque es siempre la fiabilidad y la durabilidad, no el lujo.\n\nAdemás del desgaste por los desplazamientos interurbanos, el propio Sabadell exige mucho a la mecánica. Moverse entre barrios como La Creu Alta, Gràcia o el Centre implica un sinfín de rotondas, semáforos y badenes que castigan la suspensión y la dirección. Un simple trayecto desde el Hospital Parc Taulí hasta el Eix Macià puede suponer un esfuerzo considerable para los amortiguadores, los silentblocks y las rótulas. Este tipo de conducción urbana, sumada a los kilómetros en autopista, crea un patrón de desgaste muy específico que sabemos cómo diagnosticar y prevenir. Si notas que tu coche ya no absorbe los baches como antes o escuchas ruidos extraños al girar, es muy probable que las calles de Sabadell estén pasando factura.",
+  "servicesIntro": "Desde la revisión de tu furgoneta de trabajo hasta la distribución de tu coche familiar, cubrimos todas las necesidades de los vehículos que circulan por Sabadell.",
+  "processIntro": "Trabajamos con total transparencia para que sepas qué le pasa a tu coche, cuánto te va a costar y solo reparemos con tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando tu coche llega, nuestros técnicos lo revisan a fondo. Usamos equipos de diagnosis modernos para identificar la raíz del problema, no solo el síntoma. Escuchamos lo que nos cuentas para entender el uso que le das al vehículo."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado y por escrito, sin letra pequeña. Lo que ves es lo que pagas. Si durante la reparación surgiera algo imprevisto, que no cunda el pánico: no hacemos nada sin tu aprobación previa."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos un acto de fe. Revisas el presupuesto con calma y, solo cuando nos das tu confirmación, nos ponemos manos a la obra. El control sobre la reparación y el gasto lo tienes siempre tú. Sin sorpresas."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos siguen los procedimientos del fabricante para asegurar un trabajo bien hecho. Te mantenemos informado sobre el progreso y los plazos de entrega estimados."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando recoges tu coche, te explicamos la reparación realizada. Guardamos el historial de tu vehículo para futuros mantenimientos y te contactamos si es necesario para asegurar que todo funciona perfectamente tras la intervención."
+    }
+  ],
+  "commonIssuesIntro": "El tráfico de la C-58, el clima del Vallès y el uso diario en Sabadell provocan una serie de averías muy características que conocemos y sabemos cómo solucionar.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El trayecto diario a Barcelona o Terrassa por la C-58, con sus atascos constantes, es letal para el embrague y los frenos. El continuo pisar y soltar en primera y segunda acelera el desgaste del disco y sobrecalentando las pastillas. En nuestro taller de Sabadell revisamos y sustituimos kits de embrague y sistemas de frenado adaptándonos a este uso intensivo."
+    },
+    {
+      "title": "Fallo del aire acondicionado en verano",
+      "body": "El calor extremo del verano en Sabadell pone al límite el sistema de climatización. La falta de gas, fugas en el circuito o un compresor agotado son averías típicas de junio a septiembre. Realizamos cargas de gas, detectamos fugas con nitrógeno y reparamos o sustituimos los componentes necesarios para que vuelvas a pasar un verano fresco al volante."
+    },
+    {
+      "title": "Problemas de humos y tirones en diésel",
+      "body": "Muchos coches diésel en Sabadell hacen trayectos cortos por ciudad, lo que provoca la acumulación de carbonilla en la válvula EGR y el filtro de partículas (FAP). Esto causa tirones, pérdida de potencia y problemas de humos en la ITV. Realizamos descarbonizaciones y limpiezas de estos sistemas para que tu diésel respire mejor."
+    },
+    {
+      "title": "Amortiguadores y silentblocks castigados",
+      "body": "La cantidad de badenes en barrios como Gràcia o Can Llong, junto con el estado de algunas calles en polígonos, pasa factura a la suspensión. Si notas que el coche 'rebota' demasiado o escuchas golpes secos, es hora de revisar amortiguadores, copelas y silentblocks. Una buena suspensión es clave para tu seguridad y para pasar la ITV."
+    },
+    {
+      "title": "Baterías que mueren en invierno",
+      "body": "Las mañanas frías y húmedas del invierno vallesano son la prueba de fuego para las baterías. Una batería con algunos años puede no tener fuerza suficiente para arrancar el motor en frío. Si notas que al coche le cuesta arrancar, ven a que comprobemos el estado de tu batería y el alternador antes de que te deje tirado."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos Sabadell y sus coches",
+      "body": "No somos una franquicia sin alma. Entendemos los problemas específicos de conducir aquí, desde el tráfico de la C-58 hasta el clima. Hablamos tu mismo idioma y conocemos tu coche, ya sea un SEAT o una furgoneta."
+    },
+    {
+      "title": "Presupuestos que se cumplen",
+      "body": "Se acabó el miedo a la factura del taller. Te damos un presupuesto cerrado y claro. Si hay que hacer algo más, te llamamos, te lo explicamos y tú decides. Sin sorpresas desagradables al final."
+    },
+    {
+      "title": "Mecánica para todas las marcas",
+      "body": "Tu coche, sea de la marca que sea, está en buenas manos. Tenemos la experiencia y el equipo de diagnosis para trabajar con la mayoría de fabricantes del mercado, con la misma profesionalidad que un servicio oficial pero con un trato más cercano."
+    },
+    {
+      "title": "Obsesión por la ITV",
+      "body": "Sabemos que pasar la ITV en Sabadell puede ser complicado. Por eso, nuestra revisión Pre-ITV es exhaustiva. Revisamos los puntos críticos de fallo, especialmente en emisiones de diésel, frenos y suspensión, para que vayas sobre seguro."
+    },
+    {
+      "title": "Trato directo y honesto",
+      "body": "Aquí hablas con el mecánico, no con un comercial. Te explicamos las cosas de forma que las entiendas, sin tecnicismos innecesarios. Nuestro objetivo es que confíes en nosotros y vuelvas, no hacer la reparación más cara."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Estas son algunas situaciones típicas que hemos resuelto, contadas por conductores como tú de Sabadell.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Can Llong",
+      "car": "SEAT León TDI 2017",
+      "body": "Hago cada día Sabadell-Barcelona por la C-58 y el embrague empezó a patinar. En otros sitios me daban largas o presupuestos por las nubes. Aquí me lo explicaron claro, me dieron un precio cerrado y cumplieron el plazo. Se nota que saben lo que sufre un coche en ese atasco diario. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Centre",
+      "car": "Renault Clio 2015",
+      "body": "El aire acondicionado dejó de enfriar justo en la peor ola de calor. Llamé desesperada y me hicieron un hueco rápido. Detectaron una pequeña fuga, la repararon e hicieron la carga de gas. El trato fue súper amable y el precio, muy razonable. Me salvaron el verano, literalmente.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Gràcia",
+      "car": "Peugeot Partner 2018",
+      "body": "Uso la furgoneta para trabajar y no puede estar parada. Tenía que pasar la ITV y echaba mucho humo. Me hicieron una limpieza del sistema de inyección y el filtro de partículas y pasó sin problemas. Entienden que para un autónomo el vehículo es clave. Eficaces y rápidos.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat",
+      "neighborhood": "La Creu Alta",
+      "car": "Ford Focus 2012",
+      "body": "Notaba el coche muy inestable en las rotondas y hacía un ruido raro en los baches. Pensé que sería algo carísimo. Revisaron la suspensión y solo eran unas bieletas y los silentblocks. Me enseñaron las piezas viejas para que viera el desgaste. Un gesto de honestidad que se agradece mucho.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Sabadell y sus alrededores. Tanto si vives en barrios consolidados como el Centre, l'Eixample o Gràcia, como en zonas más nuevas como Can Llong o Castellarnau, nuestro taller es tu solución de confianza. Nuestra ubicación nos permite un acceso rápido y cómodo para clientes de municipios vecinos como Barberà del Vallès, Sant Quirze del Vallès o Castellar del Vallès. Estamos perfectamente comunicados a través de vías principales como la C-58, la N-150 o la AP-7, facilitando que puedas dejarnos tu coche de camino al trabajo o al volver a casa. Si trabajas en alguno de los polígonos industriales de la zona, como Can Roqueta, también estamos a tu alcance.",
+  "zoneNeighborhoods": [
+    "Sabadell Centre",
+    "Gràcia",
+    "Can Llong",
+    "La Creu Alta",
+    "Eixample",
+    "Creu de Barberà",
+    "Barberà del Vallès",
+    "Sant Quirze del Vallès",
+    "Castellar del Vallès",
+    "Polígon Can Roqueta"
+  ],
+  "zoneAccessRoutes": [
+    "C-58 (Autopista del Vallès)",
+    "N-150 (Carretera de Terrassa)",
+    "AP-7 (Autopista del Mediterrani)",
+    "B-140 (Carretera de Santa Perpètua)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Preparáis el coche para la ITV de Sabadell?",
+      "a": "Sí, es una de nuestras especialidades. Conocemos los puntos en los que más inciden en la estación de ITV de Sabadell, especialmente en temas de emisiones en vehículos diésel, holguras en la suspensión y eficacia de frenado. Hacemos una revisión pre-ITV completa y, si lo necesitas, podemos incluso llevar el coche por ti para que no pierdas tu tiempo."
+    },
+    {
+      "q": "Mi aire acondicionado no enfría, ¿es muy cara la reparación?",
+      "a": "No tiene por qué. Muchas veces es simplemente una recarga de gas, que es una operación rápida y económica. Si hay una fuga, el coste dependerá de dónde esté, pero siempre te daremos un presupuesto previo sin compromiso. Con el calor que hace en Sabadell en verano, es una reparación que vale la pena."
+    },
+    {
+      "q": "¿Tenéis experiencia con furgonetas de autónomos?",
+      "a": "Por supuesto. Sabemos que tu furgoneta es tu herramienta de trabajo y que necesitas que sea fiable y esté el mínimo tiempo posible parada. Estamos acostumbrados a trabajar con los modelos más comunes en Sabadell (Partner, Berlingo, Kangoo, Transit...) y priorizamos estas reparaciones para que puedas seguir facturando."
+    },
+    {
+      "q": "Hago muchos kilómetros por la C-58, ¿qué mantenimiento especial necesita mi coche?",
+      "a": "El uso intensivo en autopista y atascos requiere prestar especial atención al embrague, los frenos y los neumáticos. También es crucial hacer los cambios de aceite y filtros puntualmente, ya que el motor sufre más. Te recomendamos una revisión del estado de estos componentes al menos una vez al año para evitar averías costosas."
+    },
+    {
+      "q": "¿Es fácil aparcar cerca del taller para dejar el coche?",
+      "a": "Entendemos que aparcar en Sabadell puede ser complicado. Siempre intentamos facilitar al máximo la entrega y recogida del vehículo. Consúltanos al pedir cita y te indicaremos las mejores opciones para aparcar en la zona o cómo podemos coordinarnos para que sea lo más cómodo posible para ti."
+    },
+    {
+      "q": "Mi coche diésel no va fino en ciudad, ¿qué puede ser?",
+      "a": "Es un problema muy común en coches diésel modernos que hacen muchos trayectos cortos por Sabadell. La carbonilla se acumula en la válvula EGR y el filtro de partículas, provocando tirones y pérdida de rendimiento. Con una descarbonización o limpieza de estos sistemas, el coche suele recuperar su agilidad y reducir el consumo."
+    }
+  ],
+  "closingHeadline": "Tu coche a punto en Sabadell",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos por WhatsApp y te daremos cita en nuestro taller de Sabadell para revisar tu coche con la confianza y profesionalidad que necesitas.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Sabadell",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@tallerbarcelona.com",
+    "addressStreet": ""
+  }
+}

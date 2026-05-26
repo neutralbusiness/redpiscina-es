@@ -1,0 +1,187 @@
+{
+  "slug": "coslada",
+  "name": "Coslada",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 81860,
+  "lat": 40.42378,
+  "lng": -3.56129,
+  "metaTitle": "Taller mecánico en Coslada — Para vehículos de trabajo y particulares",
+  "metaDescription": "Servicio de mecánica en Coslada para profesionales que no pueden parar. Diagnóstico rápido, presupuesto cerrado y reparación eficiente. Pide tu cita.",
+  "heroSubtitle": "Sabemos que tu coche parado es un día perdido. Ofrecemos un diagnóstico claro y rápido para que vuelvas a la carretera.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Entendemos la realidad de Coslada. No es solo una ciudad; es uno de los pulmones logísticos de Madrid, un punto neurálgico donde un vehículo no es un lujo, sino una herramienta de trabajo indispensable. Si conduces una furgoneta de reparto por el Polígono Industrial de Coslada o el Centro de Transportes (CTC), o eres un comercial que recorre la A-2 y la M-45 a diario, sabes que cada minuto cuenta. Un testigo encendido en el salpicadero no es una simple molestia, es una amenaza directa a tu facturación. La rutina de enlazar el Puerto Seco con Barajas o de moverse entre las naves de San Fernando de Henares y Torrejón de Ardoz somete a cualquier motor, transmisión y sistema de frenado a un estrés constante. No es un uso estándar, es un uso intensivo que requiere un mantenimiento y una capacidad de respuesta que van más allá de lo convencional.\n\nEl parque móvil profesional de Coslada es un reflejo de su economía: diverso y en plena transición. Por cada furgoneta diésel Euro 4 o Euro 5 que ha demostrado su fiabilidad durante años, vemos más vehículos comerciales con etiqueta ECO, híbridos o incluso eléctricos, especialmente en la última milla. Esta dualidad presenta un desafío técnico considerable. Los problemas de un motor diésel con cientos de miles de kilómetros, como la obstrucción de la válvula EGR o la saturación del filtro de partículas por el tráfico lento en la Avenida de la Constitución, son muy distintos a los fallos en el sistema de gestión de baterías de un híbrido moderno. Nuestro equipo está formado para diagnosticar y reparar ambos mundos, comprendiendo que el propietario de un vehículo de trabajo no puede permitirse un diagnóstico erróneo o una reparación que se alarga innecesariamente. Conocemos las averías endémicas de los modelos más comunes en el transporte ligero y también invertimos en la formación y el equipo necesarios para los sistemas de propulsión más actuales.\n\nEl cambio generacional de vehículos no es una opción, es una imposición dictada por las Zonas de Bajas Emisiones (ZBE) de Madrid. Para un autónomo de Coslada, la decisión de renovar su herramienta de trabajo es una de las más importantes. ¿Merece la pena invertir en una reparación costosa de un diésel que pronto podría tener restricciones de acceso, o es el momento de dar el salto a un híbrido? Ofrecemos un servicio de diagnóstico pre-compra y asesoramiento honesto. Analizamos el estado real de tu vehículo actual para que tomes una decisión informada. Y si ya has hecho el cambio, te proporcionamos el mantenimiento especializado que estos nuevos sistemas requieren, desde la revisión del sistema eléctrico de alta tensión hasta la calibración de los sistemas ADAS, cada vez más presentes y obligatorios para la seguridad.\n\nLas condiciones de conducción en el Corredor del Henares son exigentes. El calor extremo del verano sobre el asfalto de la M-40 y la M-50 pone a prueba cualquier sistema de refrigeración y aire acondicionado, componentes críticos no solo para el confort, sino para la concentración del conductor profesional. Los inviernos, con mañanas heladoras en los polígonos abiertos, son el verdugo de las baterías y los sistemas de arranque. A esto se suma el estado variable del firme en zonas industriales, que castiga suspensiones, amortiguadores y neumáticos. Nuestro enfoque no es genérico; consideramos el 'factor Coslada' en cada diagnóstico. Una vibración al frenar no es lo mismo si el vehículo circula principalmente por el casco urbano de barrios como El Espinillo o Valleaguado, que si pasa el día entrando y saliendo de muelles de carga.\n\nPor todo esto, nuestro compromiso es ofrecer un servicio procedimental y transparente. Cuando tu vehículo entra en nuestro taller, iniciamos un proceso de diagnóstico sistemático para identificar la causa raíz del problema, no solo el síntoma. Recibirás un presupuesto cerrado y detallado, explicando qué se necesita reparar y por qué. No se realiza ningún trabajo sin tu autorización explícita. Nuestro objetivo es minimizar el tiempo de inactividad de tu vehículo, porque comprendemos que tu medio de vida depende de ello. Queremos ser tu socio de confianza para el mantenimiento y la reparación de tu herramienta más valiosa, aquí mismo, en Coslada.",
+  "servicesIntro": "Ofrecemos una cobertura integral para tu vehículo, desde el mantenimiento programado hasta la diagnosis avanzada de averías eléctricas o mecánicas.",
+  "processIntro": "Trabajamos con un método claro y transparente: diagnóstico preciso, presupuesto cerrado y tu autorización antes de cualquier intervención.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico Inicial",
+      "body": "Al recibir tu coche, conectamos nuestros equipos de diagnosis y realizamos una inspección visual y funcional para identificar con precisión el origen de la avería. No dejamos nada al azar."
+    },
+    {
+      "title": "Presupuesto Cerrado",
+      "body": "Con el diagnóstico completo, te enviamos un presupuesto detallado por WhatsApp o email. Incluye mano de obra y piezas, sin costes ocultos. Lo que ves es lo que pagas."
+    },
+    {
+      "title": "Tu Autorización",
+      "body": "Revisas el presupuesto con calma y nos das tu aprobación. Hasta que no tenemos tu 'OK' explícito, no procedemos con ninguna reparación ni pedimos ningún recambio. Tú tienes el control."
+    },
+    {
+      "title": "Reparación Eficiente",
+      "body": "Utilizamos recambios de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado sobre el progreso y los plazos estimados de la reparación."
+    },
+    {
+      "title": "Entrega y Seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, contactamos contigo para asegurar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "Los vehículos de Coslada, especialmente los de uso profesional, sufren un desgaste específico por el tráfico intenso en polígonos, las altas velocidades en la A-2 y el clima continental.",
+  "commonIssues": [
+    {
+      "title": "Obstrucción de EGR y FAP en diésel",
+      "body": "El reparto y los trayectos cortos dentro del Centro de Transportes o el Polígono de Coslada no permiten que los motores diésel alcancen la temperatura óptima para la regeneración del filtro de partículas. Esto provoca averías costosas y fallos en la ITV por emisiones. Realizamos limpiezas técnicas y diagnósticos para prevenir el problema."
+    },
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El tráfico denso en los accesos a la M-40 y las constantes paradas y arranques en zonas de carga y descarga aceleran el desgaste del embrague y los frenos. Es un problema común en furgonetas y VTCs que operan en el Corredor del Henares. Revisamos y sustituimos estos componentes con materiales de alta durabilidad."
+    },
+    {
+      "title": "Fallos en el sistema de aire acondicionado",
+      "body": "Los veranos en Madrid son implacables. Un vehículo de trabajo aparcado al sol en un polígono puede alcanzar temperaturas interiores extremas. El compresor del A/C trabaja al máximo, provocando fugas o averías. Realizamos cargas de gas con detección de fugas y reparación del sistema."
+    },
+    {
+      "title": "Problemas de batería y arranque en frío",
+      "body": "Las mañanas de invierno en Coslada, con temperaturas bajo cero, son la prueba de fuego para cualquier batería, especialmente en vehículos diésel con calentadores. Diagnosticamos el sistema de carga (alternador) y la salud de la batería para evitar que te quedes tirado a primera hora."
+    },
+    {
+      "title": "Averías en sistemas de propulsión híbrida",
+      "body": "Cada vez más VTCs y repartidores usan híbridos. Un testigo de 'fallo sistema híbrido' puede ser complejo de diagnosticar. Contamos con la formación y el equipo para trabajar con seguridad en los sistemas de alta tensión y diagnosticar problemas en la gestión electrónica de la batería."
+    },
+    {
+      "title": "Holguras en suspensión y dirección",
+      "body": "La combinación de badenes en zonas residenciales como Ciudad 70 y el firme irregular de algunas calles en los polígonos industriales castiga rótulas, silentblocks y amortiguadores. Una dirección imprecisa es un riesgo. Realizamos una revisión completa del tren de rodaje."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos tu urgencia",
+      "body": "Priorizamos el diagnóstico en vehículos de trabajo porque sabemos que tu facturación depende de ello. Nuestro objetivo es darte una respuesta clara y un plan de acción en el menor tiempo posible."
+    },
+    {
+      "title": "Diagnóstico, no suposiciones",
+      "body": "Invertimos en equipos de diagnosis multimarca para identificar la causa real del problema. No cambiamos piezas por cambiar; reparamos el origen de la avería, ahorrándote tiempo y dinero."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "Recibirás un presupuesto cerrado y por escrito antes de iniciar cualquier trabajo. La transparencia es total, permitiéndote tomar decisiones sin presión ni costes inesperados al final."
+    },
+    {
+      "title": "Especialistas en la transición",
+      "body": "Dominamos la mecánica diésel tradicional y estamos formados en las nuevas tecnologías híbridas y eléctricas. Podemos mantener tu vehículo actual o el nuevo que planeas adquirir."
+    },
+    {
+      "title": "Comunicación directa y clara",
+      "body": "Te explicamos la avería en un lenguaje que entiendes. Estamos disponibles por teléfono o WhatsApp para resolver tus dudas durante todo el proceso de reparación de tu coche en Coslada."
+    }
+  ],
+  "testimonialsIntro": "Estos son ejemplos de situaciones reales que atendemos cada día, reflejando la experiencia de conductores como tú en nuestra red de talleres.",
+  "testimonials": [
+    {
+      "name": "Javier",
+      "neighborhood": "Centro de Transportes (CTC)",
+      "car": "Ford Transit Custom 2018",
+      "body": "Mi furgoneta empezó a perder potencia de camino a una entrega en Getafe por la M-45. Me la jugaba. Les llamé, me hicieron un hueco para diagnosis esa misma mañana. Era el sensor de presión del FAP. Me dieron presupuesto cerrado, lo acepté y por la tarde ya estaba de nuevo en ruta. Para un autónomo, esa rapidez es oro.",
+      "rating": 5
+    },
+    {
+      "name": "Lucía",
+      "neighborhood": "Valleaguado",
+      "car": "Toyota Corolla Hybrid 2020",
+      "body": "Soy VTC y el coche es mi oficina. Se encendió el testigo de 'Revisar sistema híbrido' antes de ir a Barajas. Pánico. En el taller me explicaron el procedimiento de seguridad para estos coches, diagnosticaron un fallo en una celda de la batería y gestionaron la reparación. Muy profesionales, se nota que saben lo que tocan.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "El Puerto",
+      "car": "Seat León TDI 2015",
+      "body": "Uso el coche todos los días para ir a trabajar a Madrid por la A-2 y notaba un ruido raro en la suspensión delantera. Pensé que sería una fortuna. Me hicieron una revisión completa y vieron que era solo una rótula. Me enseñaron la pieza gastada. Presupuesto claro y reparación en el día. Muy honestos.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Ciudad 70",
+      "car": "Peugeot 308 2016",
+      "body": "Tenía la ITV al día siguiente y el coche echaba más humo de la cuenta. Me hicieron una pre-ITV, detectaron los gases altos y realizaron una descarbonización del motor. Pasé la inspección sin problemas. El coche va más fino ahora. Me ahorraron un segundo viaje a la estación de ITV de San Fernando.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller da servicio a toda la zona de Coslada y el Corredor del Henares. Conocemos perfectamente las necesidades de los profesionales que trabajan en el Polígono Industrial de Coslada, el Centro de Transportes (CTC) y el Puerto Seco. Damos cobertura a los barrios residenciales como La Rambla, Valleaguado, El Espinillo y Ciudad 70. Gracias a nuestra ubicación estratégica, somos un punto de referencia para conductores de municipios colindantes como San Fernando de Henares y Torrejón de Ardoz. El acceso es directo y rápido desde las principales vías que vertebran la zona, incluyendo la autovía A-2, la M-40 y la M-45, lo que permite a cualquier profesional o particular llegar al taller sin perder tiempo en callejeos innecesarios.",
+  "zoneNeighborhoods": [
+    "El Puerto",
+    "Valleaguado",
+    "La Rambla",
+    "Ciudad 70",
+    "El Espinillo-Parque Blanco",
+    "Barrio del Jarama",
+    "Polígono Industrial de Coslada",
+    "Centro de Transportes (CTC)",
+    "San Fernando de Henares",
+    "Torrejón de Ardoz"
+  ],
+  "zoneAccessRoutes": [
+    "A-2 (Autovía del Nordeste)",
+    "M-40",
+    "M-45",
+    "M-21 (Eje Aeropuerto)",
+    "M-50"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Puedo pasar una Pre-ITV para asegurar que mi diésel cumple la normativa de emisiones de Madrid?",
+      "a": "Sí, es uno de nuestros servicios más demandados. Comprobamos especialmente la opacidad de los gases, un punto crítico para los diésel que circulan por Coslada y acceden a las ZBE de Madrid. Si los valores son altos, te proponemos soluciones como la limpieza del sistema de admisión o del filtro de partículas antes de que vayas a la inspección."
+    },
+    {
+      "q": "Mi furgoneta es mi herramienta de trabajo. ¿Con qué rapidez pueden darme un diagnóstico?",
+      "a": "Entendemos tu situación. Damos prioridad a los vehículos profesionales. Nuestro objetivo es realizar un diagnóstico inicial en las primeras horas desde la recepción del vehículo para que puedas tener una idea clara del alcance de la avería, el coste y el tiempo estimado de reparación, y así poder organizarte."
+    },
+    {
+      "q": "Tengo un coche híbrido para VTC, ¿realizáis el mantenimiento de la parte eléctrica?",
+      "a": "Por supuesto. Nuestro personal técnico cuenta con la certificación necesaria para intervenir en vehículos con sistemas de alta tensión. Realizamos el mantenimiento tanto de la parte mecánica como del sistema híbrido, incluyendo diagnosis electrónica, comprobación del estado de las baterías y del sistema de refrigeración de las mismas."
+    },
+    {
+      "q": "¿Es seguro dejar la furgoneta cargada en el taller por la noche?",
+      "a": "Nuestras instalaciones están protegidas, pero siempre recomendamos que, por seguridad y política de seguros, no se dejen mercancías de valor en el interior del vehículo fuera del horario laboral. Si es inevitable, por favor, coméntalo con nuestro responsable de taller para evaluar la situación."
+    },
+    {
+      "q": "Mi coche tiene más de 300.000 km, ¿merece la pena seguir reparándolo?",
+      "a": "Es una pregunta muy común en vehículos de trabajo. Nuestro diagnóstico te dará la respuesta. Evaluaremos el estado general del motor, la transmisión y el chasis para darte una opinión profesional y honesta. A veces, una reparación a tiempo puede alargar la vida útil del vehículo de forma rentable."
+    },
+    {
+      "q": "Vengo del Centro de Transportes, ¿cómo llego más fácil al taller?",
+      "a": "Desde el CTC, la forma más directa es tomar la Avenida de José Gárate. Dependiendo de nuestra ubicación exacta dentro de la red, te proporcionaremos indicaciones precisas al pedir la cita para que llegues sin ninguna pérdida, evitando el tráfico de las horas punta en la medida de lo posible."
+    }
+  ],
+  "closingHeadline": "Tu taller de confianza en Coslada",
+  "closingCta": "Si tu coche, sea de trabajo o particular, necesita una revisión o reparación, no esperes más. Contacta con nosotros por teléfono o WhatsApp para pedir tu cita en Coslada y recibe un presupuesto claro y sin compromiso."
+}

@@ -1,0 +1,183 @@
+{
+  "slug": "caldes-de-montbui",
+  "name": "Caldes de Montbui",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 16885,
+  "lat": 41.63333,
+  "lng": 2.16667,
+  "metaTitle": "Taller mecánico en Caldes de Montbui — Multimarca y honesto",
+  "metaDescription": "¿Buscas un taller de confianza en Caldes de Montbui? Presupuesto cerrado para tu coche, sea cual sea la marca. Pide cita para revisión, averías o neumáticos.",
+  "heroSubtitle": "Deja de dar vueltas por el Vallès buscando un taller fiable. En Caldes, te damos un presupuesto cerrado para que sepas lo que pagas de antemano.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Caldes de Montbui y el Vallès Oriental tiene sus particularidades. Lo sabemos porque también las vivimos. No es lo mismo usar el coche solo para moverse por el pueblo, que hacer cada día el trayecto por la C-59 hasta Barcelona o enlazar con la AP-7 para ir a Granollers o Sabadell. Ese uso intensivo, con tramos rápidos y retenciones a primera hora, castiga el embrague, los frenos y el motor de una forma muy específica. Vemos a diario en nuestro taller coches que reflejan esta realidad: un SEAT León familiar, un Peugeot 308 diésel o un Volkswagen Golf que acumulan kilómetros de autovía y necesitan un mantenimiento riguroso para seguir siendo fiables. Entendemos que tu coche es una herramienta esencial, no un lujo, y por eso nuestro enfoque es siempre práctico y honesto, centrado en la seguridad y la durabilidad.\n\nEl clima del Vallès es otro factor clave que no se puede ignorar. Pasamos de veranos muy calurosos, donde el asfalto quema y el aire acondicionado trabaja a destajo, a inviernos fríos con heladas matutinas que ponen a prueba las baterías. Este contraste térmico acelera el envejecimiento de plásticos, manguitos y neumáticos. Un coche que duerme en la calle en la zona de Can Valls o Els Saulons no sufre lo mismo que uno guardado en garaje. Por eso, en cada revisión, prestamos especial atención al sistema de refrigeración antes de que llegue el calor de julio y al estado de la batería y los líquidos anticongelantes cuando se acerca el invierno. Son detalles que marcan la diferencia entre una pequeña revisión a tiempo y una avería cara en el peor momento.\n\nAdemás, el parque móvil de Caldes es muy variado. Conviven los coches de familias que se mueven entre el pueblo, Palau-solità i Plegamans o Santa Eulàlia de Ronçana, con las furgonetas de autónomos y pequeñas empresas que son su principal herramienta de trabajo. Un Citroën Berlingo o una Renault Kangoo que recorre los polígonos de la zona necesita una puesta a punto diferente a la de un utilitario que apenas sale del núcleo urbano. Somos un taller multimarca de verdad, acostumbrado a trabajar tanto con los motores diésel de batalla, que siguen siendo mayoría en la zona, como con los gasolina más modernos o los primeros híbridos que empiezan a verse. Cada vehículo tiene sus puntos débiles y sus necesidades, y nuestro trabajo es conocerlos para darte el mejor servicio.\n\nEn resumen, nuestro taller en Caldes de Montbui no es un simple lugar donde se cambian piezas. Es un centro donde entendemos tu coche en su contexto: el de tus trayectos diarios, el del clima local y el del tipo de vehículo que conduces. Tanto si necesitas pasar la ITV en la estación de L'Ametlla del Vallès sin sorpresas, como si has notado un ruido extraño volviendo de Sentmenat por la C-1415b o simplemente quieres hacer la revisión anual con la tranquilidad de un presupuesto cerrado y sin letra pequeña. Estamos aquí para escucharte, diagnosticar el problema con claridad y ofrecerte una solución honesta y profesional para que puedas seguir conduciendo con total confianza por Caldes y más allá.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV sin dramas hasta el cambio de embrague por el trote diario en la C-59, cubrimos toda la mecánica de tu coche.",
+  "processIntro": "En nuestro taller de Caldes, la transparencia es total: te explicamos el problema, te damos un presupuesto cerrado y no hacemos nada sin tu permiso.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, un mecánico especialista lo revisa a fondo y te escucha. Usamos equipos de diagnosis para identificar con precisión cualquier avería, sea mecánica o electrónica, y entender la causa real del problema."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin compromiso. Verás el coste de cada pieza y de la mano de obra. El precio que te damos es el que pagas, sin sorpresas de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos ni un tornillo de tu coche sin tu aprobación explícita. Te llamamos, te explicamos qué hemos encontrado y qué recomendamos hacer. Tú tienes siempre la última palabra antes de que empecemos a trabajar."
+    },
+    {
+      "title": "Reparación",
+      "body": "Realizamos la reparación utilizando piezas de primera calidad y con garantía. Nuestros mecánicos siguen los procedimientos del fabricante para asegurar un trabajo bien hecho. Te mantenemos informado sobre los plazos de la intervención."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando el coche está listo, te avisamos para que vengas a recogerlo. Te explicamos el trabajo realizado y te entregamos la factura detallada. Unos días después, contactamos contigo para asegurar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El clima del Vallès y los trayectos diarios por la C-59 o hacia polígonos cercanos provocan averías muy concretas que conocemos bien en nuestro taller de Caldes.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El uso diario del coche para ir a trabajar a Barcelona o Sabadell, con sus atascos y tramos de velocidad variable en la C-59, provoca un desgaste prematuro de embrague y frenos. En el taller revisamos el grosor de las pastillas y el recorrido del embrague para evitar averías mayores y garantizar tu seguridad."
+    },
+    {
+      "title": "Fallos del aire acondicionado",
+      "body": "Los veranos en el Vallès son muy calurosos, y un aire acondicionado que no enfría es un problema serio. El calor extremo fuerza el sistema. Realizamos cargas de gas, detectamos fugas y reparamos compresores para que puedas afrontar los meses de julio y agosto con total confort dentro de tu coche."
+    },
+    {
+      "title": "Problemas de batería en invierno",
+      "body": "Las mañanas de invierno en Caldes pueden ser frías, con heladas frecuentes que debilitan las baterías con algunos años. Si notas que a tu coche le cuesta arrancar, es una señal de aviso. Comprobamos el estado de tu batería y el alternador para que no te deje tirado en el peor momento."
+    },
+    {
+      "title": "Suspensión y neumáticos castigados",
+      "body": "Entre rotondas, badenes en el núcleo urbano y el estado de algunas carreteras comarcales como la BP-1432, la suspensión y los neumáticos sufren mucho. Unos amortiguadores en mal estado o una alineación incorrecta aumentan la distancia de frenado y el desgaste de las ruedas. Lo revisamos para tu seguridad."
+    },
+    {
+      "title": "Sobrecalentamiento del motor",
+      "body": "La combinación de altas temperaturas en verano y las retenciones de tráfico es una prueba de fuego para el sistema de refrigeración. Un termostato defectuoso o un nivel bajo de anticongelante pueden causar una avería grave. Verificamos todo el circuito para asegurar que el motor trabaje a su temperatura óptima."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches del Vallès",
+      "body": "Sabemos cómo afecta a tu coche el clima y las carreteras de aquí, desde la C-59 hasta los caminos rurales. Nuestro diagnóstico es más preciso porque conocemos el contexto."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "Te damos un precio cerrado antes de empezar. Lo que presupuestamos es lo que pagas. Si surge un imprevisto, paramos y te consultamos. La honestidad es nuestra base."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un Dacia, un BMW, un Ford o un Toyota. Tenemos la experiencia y el equipo para trabajar con la mecánica y la electrónica de cualquier marca del mercado."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "No cambiamos piezas por cambiar. Buscamos el origen real del problema y te explicamos las opciones. Si algo puede esperar, te lo diremos. Tu confianza es lo más importante."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Todo nuestro trabajo y las piezas que instalamos están garantizados por escrito. Queremos que salgas del taller con la total tranquilidad de que la reparación está bien hecha."
+    }
+  ],
+  "testimonialsIntro": "Estas son algunas situaciones típicas que nos encontramos en el taller de Caldes, para que te hagas una idea de cómo trabajamos en el día a día.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "El Centre",
+      "car": "SEAT León ST 2018",
+      "body": "Hago cada día el trayecto Caldes-Barcelona por la C-59 y empecé a notar que el embrague patinaba. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial. Me explicaron perfectamente por qué se había desgastado y en dos días tenía el coche listo. Muy profesionales y transparentes.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat",
+      "neighborhood": "Els Saulons",
+      "car": "Citroën C4 Picasso 2015",
+      "body": "Con el calor del verano, el aire acondicionado dejó de enfriar. Tenía un viaje largo con los niños y era un drama. Lo llevé por la mañana, encontraron una pequeña fuga, la repararon, recargaron el gas y por la tarde ya lo tenía. Un servicio rápido y eficaz, me salvaron las vacaciones.",
+      "rating": 5
+    },
+    {
+      "name": "Marc",
+      "neighborhood": "Palau-solità i Plegamans",
+      "car": "Renault Kangoo 2019",
+      "body": "Uso la furgoneta para trabajar y no puede estar parada. Tenía que pasar la ITV y la llevé para una revisión pre-ITV. Me ajustaron los frenos y cambiaron una bombilla. Pasó la inspección a la primera sin problemas. Me ahorraron tiempo y un posible segundo viaje a la estación. Muy recomendable.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "Can Valls",
+      "car": "Volkswagen Polo 2014",
+      "body": "El coche no arrancaba bien por las mañanas en invierno. Pensaba que sería algo caro, pero me comprobaron la batería y el alternador y vieron que la batería estaba ya en las últimas. Me la cambiaron en el momento por una de buena marca a un precio razonable. Buen trato y honestidad.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Caldes de Montbui da servicio a toda la localidad, desde el centro histórico hasta urbanizaciones como El Farell o Torre Negrell. Pero nuestra área de influencia va más allá. Muchos de nuestros clientes vienen de municipios cercanos del Vallès Oriental y Occidental porque valoran un trato cercano y profesional.\n\nRecibimos a diario conductores de Palau-solità i Plegamans, Sentmenat, Santa Eulàlia de Ronçana y Bigues i Riells. Gracias a los buenos accesos por carretera, venir al taller es cómodo y rápido. Estamos conectados directamente por la C-59, la arteria principal para quienes se mueven hacia el área de Barcelona, y también por vías como la C-1415b que enlaza con Sentmenat y la BP-1432 hacia Palau. Si buscas un taller de confianza en la zona, estamos a pocos minutos.",
+  "zoneNeighborhoods": [
+    "Caldes de Montbui Centre",
+    "Els Saulons",
+    "Can Valls",
+    "El Farell",
+    "Torre Negrell",
+    "Palau-solità i Plegamans",
+    "Sentmenat",
+    "Santa Eulàlia de Ronçana",
+    "Bigues i Riells",
+    "Lliçà d'Amunt"
+  ],
+  "zoneAccessRoutes": [
+    "C-59",
+    "AP-7",
+    "C-1415b",
+    "BP-1432",
+    "C-17"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la pre-ITV para la estación de L'Ametlla del Vallès?",
+      "a": "Sí, por supuesto. Conocemos perfectamente los puntos que revisan en la estación de ITV de L'Ametlla, que es la más cercana para la mayoría de nuestros clientes. Hacemos una revisión pre-ITV completa de frenos, luces, emisiones, neumáticos y suspensión para que vayas con la total seguridad de pasarla a la primera y te ahorres tiempo y dinero."
+    },
+    {
+      "q": "Mi coche sufre mucho en verano con el calor del Vallès, ¿qué revisión recomendáis?",
+      "a": "Es una consulta muy habitual. Para el calor intenso del Vallès, recomendamos una revisión del sistema de refrigeración (nivel y estado del anticongelante, manguitos, electroventilador) y del aire acondicionado. También es crucial verificar la presión y el estado de los neumáticos, ya que el asfalto caliente aumenta el riesgo de reventones. Con esta puesta a punto, tu coche estará preparado para el verano."
+    },
+    {
+      "q": "Voy cada día a Barcelona por la C-59, ¿qué mantenimiento específico necesita mi coche?",
+      "a": "Ese trayecto implica un desgaste superior a la media en ciertos componentes. Recomendamos acortar ligeramente los intervalos de revisión de frenos y embrague. También es importante vigilar el estado de los neumáticos por el uso en autovía y hacer una alineación de dirección al menos una vez al año para asegurar un desgaste uniforme y una conducción segura a alta velocidad."
+    },
+    {
+      "q": "Tengo una furgoneta para trabajar por los polígonos de Palau y Sentmenat, ¿hacéis reparaciones para vehículos comerciales ligeros?",
+      "a": "Sí, estamos totalmente equipados para el mantenimiento y reparación de furgonetas y vehículos comerciales ligeros. Entendemos que es tu herramienta de trabajo y priorizamos la rapidez para que esté parada el mínimo tiempo posible. Hacemos desde revisiones y cambios de aceite hasta reparaciones de motor, embrague o distribución para furgonetas de todas las marcas."
+    },
+    {
+      "q": "¿Tenéis neumáticos para el clima de aquí, que es frío en invierno y muy caluroso en verano?",
+      "a": "Sí, trabajamos con las principales marcas de neumáticos y te asesoramos sobre la mejor opción para el clima dual del Vallès. Recomendamos neumáticos 'all-season' (todo tiempo) de buena calidad para la mayoría de conductores, ya que ofrecen un gran rendimiento tanto en seco y calor como en mojado y con el frío de las mañanas de invierno, sin necesidad de tener dos juegos de ruedas."
+    },
+    {
+      "q": "Vivo en Bigues i Riells, ¿vale la pena bajar hasta Caldes para la revisión?",
+      "a": "Muchos de nuestros clientes son de Bigues i Riells. Vienen porque valoran la transparencia de nuestro presupuesto cerrado y la confianza de un trabajo bien hecho. El trayecto es corto y, a cambio, obtienes un servicio profesional y honesto que a la larga te ahorra problemas y dinero. La tranquilidad de dejar tu coche en buenas manos compensa el desplazamiento."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Caldes de Montbui",
+  "closingCta": "Pide tu presupuesto sin compromiso o reserva tu cita. Puedes llamarnos, enviarnos un WhatsApp o contactar por email. Encontrar un taller de confianza en Caldes es así de fácil."
+}

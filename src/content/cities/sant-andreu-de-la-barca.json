@@ -1,0 +1,184 @@
+{
+  "slug": "sant-andreu-de-la-barca",
+  "name": "Sant Andreu de la Barca",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 26401,
+  "lat": 41.44659,
+  "lng": 1.97187,
+  "metaTitle": "Taller mecánico en Sant Andreu de la Barca | Presupuesto cerrado",
+  "metaDescription": "Reparamos tu coche en Sant Andreu de la Barca con un presupuesto cerrado. Se acabaron las sorpresas. Expertos en averías, revisiones, ITV y neumáticos.",
+  "heroSubtitle": "¿Cansado de facturas que crecen solas y explicaciones que no entiendes? Aquí hablamos claro y el precio que te damos, es el que pagas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Sabemos lo que es vivir en Sant Andreu de la Barca. No es solo un código postal cerca de Barcelona; es el día a día de coger el coche para ir a trabajar a Martorell, al polígono El Pla o bajar a la ciudad por una A-2 que a primera hora ya es una prueba de paciencia. Es saber que tu coche no es un lujo, es la herramienta que te permite moverte. Entendemos ese mosqueo que se te queda cuando, después de dejar el coche en un taller por un ruido raro, la factura final no se parece en nada a lo que te dijeron al principio. Esa sensación de 'me la han vuelto a colar' es justo lo que queremos evitar. Porque tu coche, ya sea un diésel con sus años que sube y baja a diario o un gasolina más nuevo para los fines de semana, se merece un trato honesto, sin letra pequeña y sin sorpresas de última hora.\n\nAquí la geografía manda. Las cuestas para subir a barrios como Can Sunyer o Can Julià, o la carretera de Corbera, no perdonan. Castigan los embragues, calientan los frenos y fuerzan las cajas de cambio automáticas. Lo vemos a diario. Coches que 'cantan' al reducir o que tienen el pedal de freno más blando de la cuenta. No es una casualidad, es el peaje que pagamos por vivir en un entorno tan privilegiado pero exigente con la mecánica. Por eso, cuando nos llega un coche de la zona, no solo escuchamos el motor; miramos el desgaste de los discos de freno, comprobamos la respuesta del embrague y le echamos un ojo a la suspensión. Sabemos por dónde te mueves y qué componentes van a dar guerra antes de tiempo. No se trata de adivinar, se trata de conocer el terreno que pisas cada día.\n\nLuego está nuestro microclima particular. La proximidad del Llobregat nos regala una humedad que, sobre todo en invierno, se traduce en esa 'boira' tan característica que se pega a todo. Esta humedad no es amiga de la electrónica de tu coche. Provoca fallos en sensores, problemas de arranque en frío y acelera el desgaste de las baterías. ¿Te ha pasado que una mañana el coche decide no arrancar sin motivo aparente? Muchas veces, la culpa la tiene una batería que ha dicho basta por el frío y la humedad. O esas luces del cuadro que se encienden y apagan como una fiesta. Somos conscientes de estos problemas endémicos de la zona y nuestro diagnóstico siempre tiene en cuenta el factor ambiental. No es lo mismo un coche que duerme en garaje en el centro de Sant Andreu que uno que pasa la noche a la intemperie en La Colònia del Palau.\n\nEl parque móvil de Sant Andreu y de todo el Baix Llobregat tiene una personalidad muy marcada por la influencia de la factoría de Martorell. Hay muchos coches del grupo VAG (SEAT, Volkswagen, Audi, Skoda) en nuestras calles. Los conocemos bien. Sabemos sus puntos fuertes y también esos pequeños achaques que suelen aparecer cuando ya han pasado la garantía oficial. Entendemos perfectamente al propietario de un León FR o un Ibiza que, pasados los cuatro o cinco años, busca una alternativa de confianza al concesionario oficial. Alguien que haga el mantenimiento como es debido, que sepa dónde mirar cuando algo falla y que no le cobre cada tornillo a precio de oro. Aquí encontrarás esa profesionalidad, pero con la cercanía y la transparencia que, seguramente, has echado de menos en otros sitios.",
+  "servicesIntro": "Desde la revisión anual para quedarte tranquilo hasta esa avería compleja que no te deja dormir, cubrimos todas las necesidades de tu coche en Sant Andreu de la Barca.",
+  "processIntro": "Se acabaron las dudas y la desconfianza. Nuestro proceso está diseñado para que sepas qué le pasa a tu coche, cuánto cuesta y solo pagues cuando des tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que te preocupa y conectamos el coche a nuestros equipos. Buscamos la causa real del problema, no solo el síntoma. Te explicamos qué hemos encontrado en un lenguaje que entiendes, sin tecnicismos innecesarios."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA. Es un precio final, sin asteriscos ni sorpresas. Lo que lees es lo que será. Si algo cambiara, te lo consultaríamos antes."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu aprobación explícita. Tienes el control total. Puedes tomarte tu tiempo para decidir y, si tienes dudas, nos llamas y las resolvemos."
+    },
+    {
+      "title": "Reparación",
+      "body": "Trabajamos con recambios de primeras marcas, con la misma o superior calidad que los originales, y te informamos de los plazos. Todas nuestras reparaciones tienen garantía por ley, para tu total tranquilidad."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche esté listo. Al recogerlo, te explicamos la intervención realizada y te entregamos las piezas sustituidas si quieres. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "Las cuestas, la humedad del río Llobregat y el trote diario por la A-2 provocan un desgaste muy particular en los coches de Sant Andreu. Estos son los problemas que más vemos.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "Las subidas y bajadas constantes de zonas como Can Sunyer o para ir hacia Corbera castigan mucho la transmisión y los frenos. Si notas que el embrague patina o que el coche tarda más en frenar, no lo dejes pasar. Es un problema de seguridad típico de nuestra orografía y lo solucionamos ajustando o sustituyendo los componentes con piezas reforzadas."
+    },
+    {
+      "title": "Problemas de suspensión y neumáticos",
+      "body": "El paso diario por los polígonos industriales de la zona, junto con los kilómetros en una A-2 a menudo congestionada, pasa factura a amortiguadores y silentblocks. Un coche que 'flanea' o un desgaste irregular de los neumáticos son síntomas claros. Hacemos una revisión completa y alineado para que ruedes seguro y cómodo."
+    },
+    {
+      "title": "Fallos eléctricos por humedad",
+      "body": "La niebla y la humedad que sube del Llobregat en otoño e invierno se filtran en conexiones y centralitas. Esto provoca desde baterías que mueren sin avisar hasta fallos en sensores del motor o el ABS. Nuestro diagnóstico electrónico localiza estos fallos 'fantasma' para dar con una solución definitiva."
+    },
+    {
+      "title": "Sobrecalentamiento en atascos de verano",
+      "body": "Quedarse parado en la A-2 en pleno julio con el aire acondicionado puesto es la prueba de fuego para cualquier sistema de refrigeración. Termostatos, radiadores y electroventiladores sufren muchísimo. Hacemos limpiezas del circuito y comprobaciones para evitarte el disgusto de ver salir humo del capó."
+    },
+    {
+      "title": "Filtros de partículas (FAP/DPF) saturados",
+      "body": "Muchos diésel hacen trayectos cortos dentro de Sant Andreu o sufren los atascos de la autovía, impidiendo que el filtro se regenere correctamente. Esto provoca pérdida de potencia y averías caras. Contamos con sistemas de limpieza y regeneración forzada para devolverle la vida a tu FAP."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Presupuestos que se cumplen",
+      "body": "El precio que te damos es el que pagas. Si durante la reparación surge un imprevisto, paramos, te llamamos y tú decides. Se acabó el miedo a la factura final."
+    },
+    {
+      "title": "Conocemos los coches de aquí",
+      "body": "La influencia de Martorell es innegable. Estamos más que acostumbrados a trabajar con SEAT, VW, Audi y Skoda, conociendo sus particularidades y puntos débiles."
+    },
+    {
+      "title": "Diagnóstico sin rodeos",
+      "body": "No te vamos a intentar vender una reparación que no necesitas. Te explicamos la avería, las posibles soluciones y te recomendamos la más lógica para ti y tu coche."
+    },
+    {
+      "title": "Tú tienes el control",
+      "body": "Te mantenemos informado por WhatsApp con fotos o vídeos si es necesario. Queremos que entiendas qué le pasa a tu coche y por qué hacemos cada cosa. Transparencia total."
+    },
+    {
+      "title": "Soluciones para tu día a día",
+      "body": "Sabemos que necesitas el coche. Por eso ofrecemos coche de cortesía (sujeto a disponibilidad) y nos esforzamos por cumplir los plazos para que tu rutina se vea afectada lo mínimo."
+    }
+  ],
+  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que nos encontramos cada día en el taller de Sant Andreu de la Barca.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "El Palau",
+      "car": "SEAT León ST 2016",
+      "body": "Trabajo en Martorell y el coche es mi oficina. Empezó a hacer un ruido raro el embrague, sobre todo en la cuesta para volver a casa. En otro taller me hablaron de cambiarlo todo, una pasta. Aquí le echaron un ojo, vieron que era solo el cojinete y me dieron un presupuesto cerrado. Me explicaron todo y el precio no se movió. Da gusto encontrar gente así de legal.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Centre",
+      "car": "Peugeot 208 2018",
+      "body": "Uso el coche para ir a comprar y llevar a los niños. La batería murió de un día para otro en invierno. Llamé y me explicaron que con la humedad de aquí es normal. Me lo solucionaron el mismo día y comprobaron que el alternador cargaba bien para que no volviera a pasar. Muy profesionales y cercanos, no te tratan como si no supieras nada.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Can Sunyer",
+      "car": "Ford Focus 2012",
+      "body": "Tenía la ITV en dos semanas y el coche me daba tirones en la A-2. Estaba ya pensando en una avería gorda. Lo llevé, me dijeron que eran las bujías y un cable. Me mandaron el presupuesto al móvil, lo acepté y al día siguiente estaba listo. Pasó la ITV sin un solo fallo. Rápido, honesto y sin complicaciones.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "La Colònia del Palau",
+      "car": "Renault Clio 2014",
+      "body": "Notaba que los frenos no iban como antes, sobre todo bajando hacia el pueblo. Me daba miedo. Me revisaron todo el sistema, me enseñaron el desgaste de los discos y me dieron un presupuesto para cambiarlos. El precio me pareció correcto y el coche ahora frena perfecto. El trato fue bueno, aunque tardaron un poco más de lo previsto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda Sant Andreu de la Barca y alrededores. Si vives en el Centre, El Palau, Can Sunyer, La Colònia del Palau o El Lledoner, estamos a un paso. Nuestra ubicación es ideal para quienes se mueven por el Baix Llobregat, ya que cubrimos municipios cercanos como Martorell, Castellbisbal, Pallejà y Corbera de Llobregat. El acceso es muy sencillo tanto si vienes por la autovía A-2, que vertebra toda la comarca, como si te mueves por carreteras locales como la BV-2002. Para los que vienen de más lejos, la conexión con la AP-7 también nos sitúa en un punto estratégico. Olvídate de tener que ir hasta Barcelona para encontrar un taller de confianza.",
+  "zoneNeighborhoods": [
+    "Centre",
+    "El Palau",
+    "Can Sunyer",
+    "La Colònia del Palau",
+    "El Lledoner",
+    "Martorell",
+    "Pallejà",
+    "Castellbisbal",
+    "Corbera de Llobregat"
+  ],
+  "zoneAccessRoutes": [
+    "A-2",
+    "AP-7",
+    "BV-2002"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Las cuestas de Sant Andreu pueden de verdad estropear el cambio automático?",
+      "a": "Totalmente. Un uso intensivo en las pendientes de la zona, combinado con paradas y arranques frecuentes, sobrecalienta el aceite de la transmisión automática. Esto acelera el desgaste de sus componentes internos. Por eso, en los mantenimientos de coches automáticos de aquí, siempre recomendamos revisar el nivel y estado del aceite de la caja de cambios con más frecuencia de la que indica el fabricante."
+    },
+    {
+      "q": "Vivo en Sant Andreu pero trabajo en Barcelona. ¿Cómo me afecta la Zona de Bajas Emisiones (ZBE)?",
+      "a": "Si tu coche no tiene etiqueta ambiental de la DGT (o tiene la B y hay restricciones), no puedes entrar en la ZBE de Barcelona en días laborables. Si tu coche es diésel y tiene problemas con el filtro de partículas, es crucial mantenerlo en buen estado para no aumentar las emisiones y arriesgarte a sanciones. Hacemos puestas a punto específicas para la prueba de opacidad de la ITV, clave para los diésel."
+    },
+    {
+      "q": "Mi coche duerme en la calle cerca del río, ¿qué mantenimiento extra necesita?",
+      "a": "La humedad del Llobregat es corrosiva. Recomendamos revisar anualmente el estado de los bornes de la batería, las conexiones eléctricas principales y los bajos del coche. Un tratamiento anti-humedad en los contactos y una revisión del estado de los guardapolvos de la suspensión y dirección puede ahorrarte averías caras a largo plazo. También es clave mantener las escobillas del limpiaparabrisas en perfecto estado por la niebla."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Sant Vicenç dels Horts, ¿ofrecéis algún servicio específico?",
+      "a": "Sí. Ofrecemos una revisión Pre-ITV muy completa donde miramos los mismos puntos que el inspector: luces, frenos, holguras, neumáticos y, muy importante, emisiones. Si detectamos algo, te damos presupuesto para solucionarlo. Muchos clientes nos lo dejan por la mañana, hacemos la pre-ITV, reparamos lo necesario (previa aprobación) y por la tarde ya lo tienen listo para ir a la cita con garantías."
+    },
+    {
+      "q": "¿Es fácil aparcar cerca del taller para dejar el coche?",
+      "a": "Somos conscientes de que aparcar en Sant Andreu puede ser complicado. Disponemos de una zona reservada para la recepción y entrega de vehículos para que puedas parar cómodamente sin molestar ni dar vueltas. Una vez nos dejes las llaves, nosotros nos encargamos de mover el coche a nuestra zona de trabajo. Tu comodidad es importante para nosotros."
+    },
+    {
+      "q": "El presupuesto que me dais, ¿es muy diferente al de un concesionario oficial?",
+      "a": "Nuestro precio por hora de mano de obra es más competitivo que el de un concesionario oficial. Además, te ofrecemos la opción de montar recambios de primeras marcas que no son los del fabricante del coche, pero tienen la misma o superior calidad y garantía, a un precio más ajustado. La gran diferencia es la transparencia: nuestro presupuesto es cerrado y no varía."
+    },
+    {
+      "q": "Hago cada día el trayecto por la A-2. ¿Hay algo que deba revisar más a menudo?",
+      "a": "El tráfico intenso y los frenazos constantes de la A-2 castigan sobre todo los frenos y los neumáticos. Recomendamos revisarlos cada 10.000 km en lugar de los 15.000 o 20.000 habituales. También el embrague, si es manual. Un alineado de dirección anual es muy recomendable para contrarrestar el desgaste irregular de las ruedas y asegurar que el coche pise bien."
+    }
+  ],
+  "closingHeadline": "Tu taller de confianza en Sant Andreu de la Barca",
+  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Llámanos o envíanos un WhatsApp y cuéntanos qué le pasa a tu coche. Estamos en Sant Andreu de la Barca para ayudarte."
+}

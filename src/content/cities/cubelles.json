@@ -1,0 +1,181 @@
+{
+  "slug": "cubelles",
+  "name": "Cubelles",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 13711,
+  "lat": 41.20772,
+  "lng": 1.67267,
+  "metaTitle": "Taller mecánico en Cubelles — Multimarca y de confianza",
+  "metaDescription": "Tu taller multimarca en Cubelles. Presupuesto cerrado para revisiones, mecánica y neumáticos. Pide tu cita y conduce tranquilo por la C-31 y el Garraf.",
+  "heroSubtitle": "Cansado de no saber cuánto te va a costar el taller y si tu coche estará listo para ir a Vilanova o Barcelona? Te damos un precio cerrado.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives en Cubelles, sabes que el coche no es un lujo, es una necesidad. Lo usas para todo: para bajar a la playa, para hacer la compra semanal en Vilanova i la Geltrú, para llevar a los niños al colegio o para el trayecto diario al trabajo, ya sea en el polígono de Vilanova, en Sitges o incluso más allá, cogiendo la C-32 hacia Barcelona. Comprendemos perfectamente esta rutina y sabemos que tu vehículo, ya sea un SEAT León para ir por la C-31 o una furgoneta para tu negocio, necesita estar siempre a punto para no dejarte tirado.\n\nEl problema es que el entorno del Garraf, aunque sea un privilegio, castiga la mecánica más de lo que parece. La brisa marina, cargada de salitre, es implacable con los bajos del coche, los discos de freno y el sistema de escape, acelerando la corrosión de una forma que no se ve en el interior. En verano, el calor intenso pone a prueba el sistema de refrigeración y el aire acondicionado, sobre todo en los atascos para salir de la playa un domingo por la tarde. Y las lluvias torrenciales de otoño exigen que tus neumáticos y limpiaparabrisas estén en perfecto estado para conducir con seguridad por la C-31.\n\nEl parque móvil de Cubelles es un reflejo de su gente: coches prácticos y fiables. Vemos a diario modelos como el Peugeot 308, el Renault Clio, el Ford Focus o el Nissan Qashqai. Coches de entre 5 y 15 años, mayoritariamente diésel y gasolina, que necesitan un mantenimiento específico para su edad y el tipo de uso que se les da. No es lo mismo un coche que duerme en un garaje en el centro que uno que pasa todo el año a la intemperie en una urbanización como Mas Trader, subiendo y bajando cuestas a diario.\n\nPor eso, nuestro enfoque en Cubelles no es genérico. No tratamos a un coche que hace 80 km diarios por la C-32 igual que a uno que solo se mueve por el pueblo y hasta Cunit. Entendemos que el desgaste de tu embrague se debe al tráfico del Eixample, que tus suspensiones sufren en las rotondas de acceso y que el filtro de partículas de tu diésel necesita atención si haces muchos trayectos cortos. Te ofrecemos un servicio que tiene en cuenta dónde vives y cómo conduces, con la honestidad de un taller de proximidad y la profesionalidad de una red nacional.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV en Vilanova hasta un cambio de embrague por el trote diario, cubrimos toda la mecánica de tu coche en Cubelles.",
+  "processIntro": "Trabajamos con transparencia total. Recibes un diagnóstico claro y un presupuesto cerrado por escrito. No movemos un tornillo sin tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, lo escuchamos y lo conectamos a nuestros sistemas de diagnosis. Identificamos el origen real del problema, no solo el síntoma, para ofrecerte una solución duradera y evitar que vuelvas por lo mismo."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te entregamos un presupuesto detallado por escrito o en tu móvil. Verás el coste de las piezas y la mano de obra de forma clara. El precio que te damos es el precio que pagas, sin sorpresas ni extras de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Te explicamos la reparación con palabras sencillas. No empezamos ningún trabajo hasta que nos des tu confirmación explícita. Tienes el control total sobre lo que se le hace a tu coche y a tu bolsillo. Tú decides."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía y seguimos los procedimientos del fabricante. Nuestros mecánicos se aseguran de que cada paso se ejecute con precisión para devolverte el coche en perfectas condiciones de seguridad y funcionamiento."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Al recoger tu coche, te mostramos las piezas sustituidas y te explicamos el trabajo realizado. Nos aseguramos de que todo esté a tu gusto y hacemos un seguimiento para confirmar que la reparación ha sido un éxito."
+    }
+  ],
+  "commonIssuesIntro": "El clima de Cubelles, con su salitre y calor, y el uso diario del coche por la C-31 y la C-32, provocan una serie de averías muy características en nuestra zona.",
+  "commonIssues": [
+    {
+      "title": "Frenos y bajos oxidados por el salitre",
+      "body": "La proximidad al mar es el principal enemigo de las partes metálicas expuestas. En Cubelles, es muy común ver discos de freno, pinzas y líneas de escape con corrosión prematura. Esto no solo es un problema estético, sino que reduce la eficacia de la frenada y puede ser motivo de rechazo en la ITV. Realizamos revisiones específicas y limpiezas para mitigar este efecto."
+    },
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "La combinación de tráfico lento dentro de Cubelles, especialmente en verano, con los trayectos diarios hacia Vilanova o Sitges, somete al embrague y a los frenos a un estrés constante. Si notas que el pedal del embrague está duro o que el coche tarda en responder al frenar, es hora de una revisión. Un cambio a tiempo evita averías mayores."
+    },
+    {
+      "title": "Problemas con el aire acondicionado",
+      "body": "De junio a septiembre, el aire acondicionado no descansa. El calor intenso y la humedad de la costa del Garraf fuerzan el compresor y pueden provocar fugas de gas o la proliferación de bacterias en los conductos, causando mal olor. Una recarga y un tratamiento desinfectante antes del verano es la mejor inversión para tu confort y salud."
+    },
+    {
+      "title": "Neumáticos castigados por rotondas y autopista",
+      "body": "El día a día en Cubelles implica un uso mixto: circular a 120 km/h por la C-32 y, cinco minutos después, negociar las rotondas de acceso al pueblo. Este contraste provoca un desgaste irregular en los neumáticos si la alineación no es perfecta. Revisamos la presión y el equilibrado para alargar su vida útil y garantizar tu seguridad."
+    },
+    {
+      "title": "Obstrucción del filtro de partículas (FAP)",
+      "body": "Muchos coches diésel en Cubelles se usan para trayectos cortos: ir a la estación, al supermercado... Esto impide que el motor alcance la temperatura necesaria para que el filtro de partículas se regenere, provocando obstrucciones costosas. Si tu coche es diésel y lo usas poco por carretera, ven a que lo revisemos."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de Cubelles",
+      "body": "Sabemos qué averías son comunes en un coche que duerme en Les Salines frente a uno que sube a diario a Mas Trader. Este conocimiento local nos permite ir directos al grano y ahorrarte tiempo y dinero."
+    },
+    {
+      "title": "Presupuesto que no cambia",
+      "body": "El precio que te damos es el que pagas. Sin asteriscos, sin letra pequeña, sin llamadas a mitad de reparación para decirte que 'ha surgido algo'. Honestidad desde el primer minuto."
+    },
+    {
+      "title": "Te lo explicamos claro",
+      "body": "Olvídate del lenguaje técnico incomprensible. Te explicamos qué le pasa a tu coche, por qué ha pasado y qué opciones tienes. Queremos que entiendas la reparación y tomes la mejor decisión."
+    },
+    {
+      "title": "Garantía por escrito",
+      "body": "Todas nuestras reparaciones y los recambios que utilizamos están cubiertos por garantía. Conducirás con la tranquilidad de saber que el trabajo está bien hecho y respaldado por profesionales."
+    },
+    {
+      "title": "Agilidad para tu día a día",
+      "body": "Sabemos que necesitas el coche para todo. Nos comprometemos a cumplir los plazos de reparación para que puedas volver a tu rutina lo antes posible. La puntualidad es parte de nuestro servicio."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que atendemos cada día en nuestro taller para conductores de Cubelles y alrededores.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Mas Trader",
+      "car": "SEAT Ateca 1.5 TSI 2019",
+      "body": "Empecé a oír un ruido raro en la suspensión delantera cada vez que cogía la C-31 para ir a trabajar. Me preocupaba que fuera algo grave. Los localizaron enseguida, me pasaron un presupuesto por WhatsApp muy claro y en un día lo tenía listo. Muy profesionales y directos.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Les Salines",
+      "car": "Peugeot 208 HDI 2016",
+      "body": "Tenía que pasar la ITV en Vilanova y siempre me da pánico. Les pedí una revisión pre-ITV y me detectaron que los discos de freno traseros empezaban a estar mal por el óxido del ambiente marino. Lo arreglaron y pasé la ITV a la primera. Me ahorraron un segundo viaje y el mal trago.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Centre",
+      "car": "Ford Focus 1.0 EcoBoost 2015",
+      "body": "Soy autónomo y el coche es mi herramienta de trabajo. Se me rompió el alternador y me quedé tirado. Entendieron la urgencia, me dieron prioridad y me ofrecieron un coche de cortesía para no perder un cliente. La reparación fue rápida y el precio, el que me dijeron al principio.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "La Mota de Sant Pere",
+      "car": "Renault Clio 2013",
+      "body": "Llevé el coche para la revisión anual. El trato fue muy bueno y el precio correcto. Tardaron un día más de lo que me habían dicho porque una pieza no llegaba, pero me mantuvieron informada en todo momento por teléfono. En general, una buena experiencia, aunque la pequeña demora fue un inconveniente.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la localidad de Cubelles, desde el núcleo urbano y el Eixample hasta las urbanizaciones más alejadas como Mas Trader, Corral d'en Cona o Les Salines. Nuestra ubicación nos convierte en una opción muy cómoda no solo para los residentes de Cubelles, sino también para conductores de municipios vecinos como Cunit, o de los barrios del oeste de Vilanova i la Geltrú, como el Prat de Vilanova. Si usas a diario la C-31 para tus desplazamientos por la comarca del Garraf, o si te incorporas a la autopista C-32, nuestro taller es un punto de fácil acceso para dejar tu coche con total comodidad y seguir con tu jornada.",
+  "zoneNeighborhoods": [
+    "Centre",
+    "Eixample",
+    "La Mota de Sant Pere",
+    "Les Salines",
+    "Mas Trader",
+    "Clot del Bassó",
+    "Santa Maria",
+    "Corral d'en Cona",
+    "Cunit (municipio colindante)",
+    "Vilanova i la Geltrú (zona Prat de Vilanova)"
+  ],
+  "zoneAccessRoutes": [
+    "C-31",
+    "C-32",
+    "N-340"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la pre-ITV? ¿Dónde tengo que pasarla después?",
+      "a": "Sí, realizamos una revisión pre-ITV completa para que vayas sobre seguro. Comprobamos los mismos puntos que en la inspección oficial. La estación de ITV más cercana para los residentes de Cubelles se encuentra en Vilanova i la Geltrú, a apenas 10 minutos en coche. Te entregamos el coche listo para que la pases a la primera."
+    },
+    {
+      "q": "Vivo en Mas Trader, ¿el tipo de conducción por las cuestas afecta a mi coche?",
+      "a": "Definitivamente. El uso constante del freno en las bajadas y el esfuerzo del motor y el embrague en las subidas provocan un desgaste mayor en estos componentes. En las revisiones de coches que vienen de esta zona de Cubelles, prestamos especial atención al estado de los frenos, el embrague y la suspensión."
+    },
+    {
+      "q": "Mi coche duerme en la calle cerca de la playa. ¿Cómo puedo protegerlo del salitre?",
+      "a": "El salitre es muy corrosivo. Aunque no hay una solución mágica, lavar el coche con frecuencia, especialmente los bajos y los pasos de rueda, ayuda mucho a eliminar los depósitos de sal. En el taller, podemos revisar el estado del sistema de escape y los frenos, y aplicar productos protectores para ralentizar la oxidación."
+    },
+    {
+      "q": "Tengo un diésel y hago muchos trayectos cortos por Cubelles. ¿Es malo?",
+      "a": "Puede ser problemático para el filtro de partículas (FAP), que necesita trayectos por carretera para limpiarse. Si usas tu diésel principalmente por el pueblo, te recomendamos que al menos una vez por semana salgas a la C-31 o la C-32 y conduzcas unos 20 minutos a un ritmo constante para facilitar esa regeneración y evitar averías."
+    },
+    {
+      "q": "Mi coche es de renting, ¿puedo traerlo a vuestro taller?",
+      "a": "Nuestro servicio está enfocado en el cliente particular y el profesional autónomo. Para vehículos de renting, normalmente debes acudir a los talleres concertados por tu compañía. Consulta tu contrato, pero si te autorizan a elegir taller, estaremos encantados de darte un presupuesto para que lo aprueben."
+    },
+    {
+      "q": "¿Es fácil encontrar aparcamiento cerca para dejar el coche?",
+      "a": "Sí, lo hemos tenido en cuenta. Disponemos de una zona reservada para la recepción y entrega de vehículos de clientes. No tendrás que dar vueltas buscando sitio; podrás dejar el coche de forma rápida y cómoda para que nos pongamos a trabajar en él cuanto antes."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Cubelles",
+  "closingCta": "No dejes que una avería te complique el día a día. Pide tu presupuesto cerrado para tu coche en Cubelles. Llámanos o escríbenos un WhatsApp y te atenderemos sin compromiso."
+}

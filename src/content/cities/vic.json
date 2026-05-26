@@ -1,0 +1,182 @@
+{
+  "slug": "vic",
+  "name": "Vic",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 39844,
+  "lat": 41.93012,
+  "lng": 2.25486,
+  "metaTitle": "Taller mecánico en Vic — Multimarca y de confianza",
+  "metaDescription": "Tu taller en Vic para revisiones, mecánica y neumáticos. Presupuesto cerrado para todas las marcas. Cuidamos tu coche del frío y la niebla de Osona. Pide cita.",
+  "heroSubtitle": "Harto de la niebla helada en invierno y el calor de verano? Tu coche también lo sufre. Mantenlo a punto en Vic, sin sorpresas en la factura.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives en Vic o en cualquier pueblo de Osona, sabes que el coche no es un lujo, es una necesidad. Ya sea para bajar cada día a Granollers o Barcelona por la C-17, para cruzar el Eix Transversal (la C-25) hacia Manresa o Girona, o simplemente para moverte por la comarca, desde Tona hasta Manlleu. Conoces las caravanas matutinas en el Eix del Congost y el tráfico denso de los días de mercado en Vic. Entendemos que tu coche, ya sea un SEAT León para ir al trabajo, una furgoneta Peugeot Partner para tu negocio o un Dacia Duster para las escapadas al Montseny, tiene que estar siempre a punto.\n\nEl clima de la Plana de Vic es único y exigente con la mecánica. No hablamos de un frío cualquiera, sino de esas mañanas de invierno con heladas severas y la famosa 'boira pixanera', esa niebla densa y húmeda que lo cala todo. Esta combinación es letal para las baterías, que sufren con los arranques en frío, y para los sistemas eléctricos, que pueden verse afectados por la humedad. Luego, en verano, pasamos a un calor seco que pone a prueba el sistema de refrigeración y el aire acondicionado. Este contraste climático obliga a un mantenimiento específico que en talleres de otras zonas no siempre comprenden.\n\nNuestro trabajo consiste en conocer exactamente cómo afecta este entorno a tu vehículo. Vemos a diario coches diésel que hacen trayectos cortos entre Vic, Gurb y Roda de Ter, con los consecuentes problemas en el filtro de partículas. Atendemos a conductores que usan el coche para todo y necesitan que los frenos y el embrague respondan a la perfección en el tráfico del centro o en las rotondas de la C-17. El parque móvil de Osona es práctico: abundan los Renault Clio, Volkswagen Golf, Citroën C4 y furgonetas como la Berlingo. Son coches fiables, pero necesitan un cuidado adaptado a nuestras condiciones.\n\nPor eso, nuestro enfoque es local y directo. Cuando traes tu coche a nuestro taller en Vic, no solo vemos una matrícula, vemos a un vecino. Sabemos que necesitas soluciones, no problemas. Por eso ofrecemos un diagnóstico claro y un presupuesto cerrado. Antes de cambiar una sola pieza, te llamamos, te explicamos qué le pasa al coche en un lenguaje que entiendes y te damos el coste exacto. Sin sorpresas, sin añadidos de última hora. Tu autorización es lo primero. Desde una simple revisión para pasar la ITV de Vic sin agobios hasta una reparación compleja del motor, estamos aquí para que conducir por Osona sea seguro y tranquilo.",
+  "servicesIntro": "Desde la revisión anual para tu diésel hasta cambiar los neumáticos para el invierno de Osona, cubrimos toda la mecánica de tu coche en Vic.",
+  "processIntro": "Creemos en la transparencia total. Por eso, en nuestro taller de Vic, primero diagnosticamos y luego te damos un presupuesto cerrado. Tú decides.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando dejas tu coche, nuestros técnicos realizan una revisión completa para identificar el problema. Usamos equipos de diagnosis multimarca para ser precisos, ya sea un fallo de motor o un ruido en la suspensión."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te llamamos o enviamos por WhatsApp un presupuesto detallado y sin compromiso. El precio que te damos es el que pagas, sin sorpresas ni costes ocultos. Claridad ante todo para que decidas con total tranquilidad."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos ni un tornillo sin tu aprobación explícita. Solo cuando nos das el 'vale, adelante', nuestro equipo se pone a trabajar en la reparación de tu coche. Tú tienes siempre el control total del proceso."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan la reparación siguiendo las especificaciones del fabricante para asegurar un trabajo bien hecho y duradero. Te mantenemos informado de los plazos."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo para recoger. Te explicamos la reparación realizada y te entregamos la factura detallada. Unos días después, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El clima de la Plana de Vic, con su niebla y heladas, y el uso diario del coche por la C-17 y el Eix Transversal (C-25), provocan averías muy concretas que conocemos bien.",
+  "commonIssues": [
+    {
+      "title": "La batería muere en invierno",
+      "body": "Las mañanas de helada y niebla en Vic son la prueba de fuego para cualquier batería. El frío intenso reduce su rendimiento y, si ya tiene unos años, es habitual que un día el coche no arranque. Comprobamos su estado en cada revisión y te aconsejamos cambiarla antes de que te deje tirado una mañana de enero."
+    },
+    {
+      "title": "Filtro de partículas (FAP) obstruido",
+      "body": "Muchos diésel en Osona hacen trayectos cortos: de Vic a Manlleu, a Tona, o simplemente callejear. Esto impide que el filtro de partículas se regenere correctamente, provocando averías costosas. Realizamos limpiezas y regeneraciones forzadas para evitar que el problema vaya a más y te ahorres una buena pasta."
+    },
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico para entrar y salir de Vic en hora punta por la C-17, sumado a las rotondas y semáforos de la ciudad, castiga mucho el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de revisarlo. Un kit de embrague a tiempo evita averías mayores."
+    },
+    {
+      "title": "El aire acondicionado no enfría",
+      "body": "Después de meses sin usarlo durante el largo y frío invierno de la Plana, llega el calor de golpe y el aire acondicionado no funciona. Las fugas en el circuito o la falta de gas son habituales. Hacemos una revisión completa y recarga del sistema para que no te ases en julio."
+    },
+    {
+      "title": "Humedad en faros y fallos eléctricos",
+      "body": "La famosa 'boira' de Vic no solo es bonita, también es muy húmeda. Esta humedad se filtra en los faros, reduciendo la visibilidad, y puede provocar pequeños fallos eléctricos o corrosión en conectores. Sellamos los faros y revisamos el sistema eléctrico para que la niebla no te dé problemas."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de Osona",
+      "body": "Sabemos qué problemas dan los coches en el clima de Vic. No aplicamos soluciones genéricas, vamos directos al grano porque entendemos tu coche y el entorno por el que se mueve cada día."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "El precio que te damos es el que pagas. Se acabaron las facturas infladas y las sorpresas de última hora. La honestidad es nuestra principal herramienta de trabajo."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un Dacia, un Volkswagen o una furgoneta Ford. Tenemos la tecnología y el conocimiento para reparar y mantener cualquier vehículo que circule por Vic y la comarca."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Todas nuestras reparaciones y los recambios que instalamos están garantizados por escrito. Queremos que salgas del taller con total tranquilidad y confianza en el trabajo realizado."
+    },
+    {
+      "title": "La ITV, a la primera",
+      "body": "Conocemos perfectamente los puntos que revisan en la estación de ITV de Vic. Hacemos una revisión pre-ITV exhaustiva para que la pases sin problemas y no pierdas ni tiempo ni dinero."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Vic y la comarca de Osona que han confiado en nuestro taller para el cuidado de su coche.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "El Remei",
+      "car": "SEAT León TDI 2016",
+      "body": "Uso el coche cada día para ir a trabajar a Granollers por la C-17 y el coche empezó a dar tirones. Pensé que sería algo grave. Aquí me diagnosticaron un problema con el filtro de partículas por no hacer suficiente carretera. Me lo solucionaron rápido y me explicaron cómo evitarlo. Muy profesionales y claros.",
+      "rating": 5
+    },
+    {
+      "name": "Montse",
+      "neighborhood": "Manlleu",
+      "car": "Peugeot Partner 2018",
+      "body": "Tengo una pequeña empresa de reparto y la furgoneta es mi vida. Se me fundió una luz y en la revisión vieron que las pastillas de freno estaban en las últimas. Me dieron presupuesto al momento, lo acepté y por la tarde ya la tenía lista. Valoro mucho la rapidez porque no puedo parar.",
+      "rating": 5
+    },
+    {
+      "name": "Marc",
+      "neighborhood": "Centre",
+      "car": "Renault Clio 2012",
+      "body": "Una mañana de enero, con una helada de las buenas, el coche no arrancó. La batería murió. Les llamé, me dieron un precio por teléfono para una batería nueva y en un par de horas ya tenía el coche funcionando. Trato muy cercano y sin rodeos, que es lo que buscas en una urgencia.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "Tona",
+      "car": "Nissan Qashqai 2015",
+      "body": "Llevé el coche para la revisión anual antes de la ITV. Me encontraron un guardapolvo de la transmisión roto que seguro me habrían tirado para atrás. Me lo cambiaron y pasó la ITV sin problemas. Me ahorraron un segundo viaje y el mal rato. El precio fue correcto, quizás un poco más de lo que esperaba, pero el trabajo quedó perfecto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la comarca de Osona desde nuestro taller en Vic. Si vives en el centro, en barrios como El Remei o Sant Llàtzer, o en municipios cercanos, somos tu taller de confianza. Muchos de nuestros clientes vienen a diario de Manlleu, Tona, Taradell, Roda de Ter o Centelles, aprovechando su viaje a Vic para hacer gestiones o trabajar. Nuestro acceso es sencillo desde las principales vías que conectan la comarca, como la C-17 (el Eix del Congost), la C-25 (el Eix Transversal) y la C-153, que sube hacia Olot. No importa de qué pueblo de la Plana vengas, estamos aquí para ayudarte.",
+  "zoneNeighborhoods": [
+    "Vic Centre",
+    "El Remei",
+    "La Calla",
+    "Estadi-Universitat",
+    "Sant Llàtzer",
+    "Manlleu",
+    "Tona",
+    "Taradell",
+    "Roda de Ter",
+    "Gurb"
+  ],
+  "zoneAccessRoutes": [
+    "C-17 (Eix del Congost)",
+    "C-25 (Eix Transversal)",
+    "C-153",
+    "N-152a"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Revisáis coches para pasar la ITV en la estación de Vic?",
+      "a": "Sí, por supuesto. Conocemos muy bien los criterios de la estación de ITV de Vic. Ofrecemos un servicio de pre-ITV donde revisamos todos los puntos críticos: luces, frenos, neumáticos, emisiones, holguras... El objetivo es que la pases a la primera y te ahorres el coste y el tiempo de una segunda inspección."
+    },
+    {
+      "q": "Mi coche es diésel y solo lo uso por Vic y alrededores, ¿necesita un cuidado especial?",
+      "a": "Totalmente. Los diésel modernos con filtro de partículas (FAP) sufren mucho en trayectos cortos, ya que el motor no alcanza la temperatura para autolimpiar el filtro. Esto provoca averías. Te recomendamos que, una vez por semana, salgas a la C-17 o la C-25 y conduzcas unos 15-20 minutos a un régimen más alto (unas 2.500 rpm) para forzar la regeneración. En el taller también podemos hacer limpiezas preventivas."
+    },
+    {
+      "q": "¿De verdad hacen falta neumáticos de invierno si vivo en la Plana de Vic?",
+      "a": "No son obligatorios, pero sí muy recomendables. Con las heladas frecuentes, el hielo negro y la humedad constante de la niebla, la adherencia se reduce muchísimo. Un neumático de invierno o un buen 'todo tiempo' (All Season) te dará una seguridad en frenada y agarre que un neumático de verano no puede ofrecer por debajo de 7ºC. Es una inversión en tu seguridad y la de los tuyos."
+    },
+    {
+      "q": "La niebla me está estropeando los faros, se ven opacos y con vaho. ¿Tiene arreglo?",
+      "a": "Sí, es un problema muy común en Vic. La humedad se filtra por las juntas y el sol de verano quema el policarbonato exterior. Tenemos un tratamiento de pulido de faros que les devuelve la transparencia, mejorando muchísimo la visibilidad de noche y pasando la ITV sin problemas. Si el problema es de humedad interna, revisamos y sellamos las juntas para solucionarlo."
+    },
+    {
+      "q": "Soy de Manlleu, ¿me compensa llevar el coche a vuestro taller en Vic?",
+      "a": "Muchos de nuestros clientes son de Manlleu, Roda de Ter o Tona. Estás a apenas 10 minutos en coche. Te compensa si buscas un servicio transparente, con un presupuesto cerrado sin sorpresas y con la garantía de que entendemos los problemas específicos de los coches que circulan por nuestra comarca. Puedes combinar la visita al taller con otras gestiones en Vic."
+    },
+    {
+      "q": "Tengo una furgoneta de trabajo, ¿priorizáis las reparaciones para autónomos?",
+      "a": "Entendemos perfectamente que tu furgoneta es tu herramienta de trabajo y no puede estar parada. Siempre que sea posible, intentamos agilizar al máximo las reparaciones de vehículos profesionales para que puedas volver a la faena cuanto antes. Comunícanos tu urgencia al pedir cita y haremos todo lo posible para adaptarnos a tus necesidades."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto para Vic y Osona",
+  "closingCta": "No dejes que una avería te pare. Pide tu presupuesto cerrado para el mantenimiento o reparación de tu coche en Vic. Llámanos o envíanos un WhatsApp y te atenderemos sin compromiso."
+}

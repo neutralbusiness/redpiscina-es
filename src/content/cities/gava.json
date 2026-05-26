@@ -1,0 +1,181 @@
+{
+  "slug": "gava",
+  "name": "Gavà",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 45994,
+  "lat": 41.30605,
+  "lng": 2.00123,
+  "metaTitle": "Taller Mecánico en Gavà — Presupuestos Cerrados, Sin Sorpresas",
+  "metaDescription": "Reparamos tu coche en Gavà con un presupuesto claro y cerrado. Mecánica, revisiones, neumáticos y Pre-ITV. Pide tu diagnóstico honesto hoy.",
+  "heroSubtitle": "¿Cansado de facturas infladas y de no entender qué le pasa a tu coche? En Gavà, volvemos a lo básico: un trato honesto y un precio que no cambia.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Seamos claros: tener coche en Gavà es una necesidad, pero llevarlo al taller no debería ser una lotería. Si estás aquí, es probable que ya sepas de lo que hablamos. De ese presupuesto que empieza siendo una cosa y acaba siendo otra. De explicaciones técnicas que nadie entiende y de esa sensación de no tener el control. Conducir a diario por la C-31 hacia Barcelona o la Zona Franca ya es suficientemente estresante, con sus atascos mañaneros y frenazos inesperados, como para sumarle la desconfianza en tu mecánico. El desgaste que sufre tu embrague en el tráfico denso de la Rambla o buscando aparcamiento por el centro no es ninguna broma, y mereces saber exactamente cuánto te va a costar solucionarlo, sin rodeos ni sorpresas de última hora.\n\nAquí el coche sufre de dos maneras muy distintas. Por un lado, la batalla urbana: los semáforos de la Avinguda d'Eramprunyà, las rotondas para ir al Barnasud o al Parc del Calamot, el constante para-arranca que castiga frenos y transmisiones. Por otro, el trote de la autopista: esos kilómetros por la C-32 para evitar el colapso de la autovía, que exigen un motor afinado y unos neumáticos en perfecto estado. Y no nos olvidemos del clima. El verano gavanense, con su humedad pegajosa, pone a prueba los sistemas de refrigeración y el aire acondicionado. Y si vives o aparcas a menudo en Gavà Mar, el salitre es un enemigo silencioso que corroe la carrocería, los bajos y los contactos eléctricos. Tu coche necesita un mantenimiento que entienda esta doble vida, la de la ciudad y la del litoral.\n\nEl parque móvil de Gavà es como la propia ciudad: diverso y trabajador. Vemos a diario el diésel de batalla con más de 150.000 kilómetros que cada día se juega el tipo en la Ronda de Dalt, el coche familiar que los fines de semana sube al Parc del Garraf y el gasolina más compacto para moverse por Les Bòbiles o Can Tintorer. Son coches que tienen entre 4 y 15 años, que ya no están en garantía oficial pero que son vitales para el día a día. Por eso, cuando algo falla, no solo es una faena, es un problema logístico y económico. Entendemos que no buscas lujos, sino soluciones. Que tu coche arranque por la mañana, que pase la ITV en Sant Boi a la primera y que no te deje tirado volviendo de Castelldefels una noche de verano.\n\nNuestra propuesta es tan directa como el trayecto de la B-210 hacia la playa: transparencia total. Tu paso por el taller no será como un atasco en la C-31 a las ocho de la mañana: lleno de parones, incertidumbre y cabreos. Aquí, el proceso es lineal y claro. Primero, un diagnóstico honesto. Segundo, un presupuesto cerrado y detallado por escrito. Tercero, y más importante, no tocamos un solo tornillo sin tu autorización explícita. Se acabó el miedo a la llamada del taller. Con nosotros, la única llamada que recibirás será para confirmar lo que ya sabes y para decirte que tu coche está listo para volver a la carretera con seguridad.",
+  "servicesIntro": "Desde la revisión anual para tu coche que circula por Gavà hasta averías complejas, cubrimos todas las necesidades de tu vehículo con claridad y sin sorpresas.",
+  "processIntro": "Trabajamos con un método simple y transparente: diagnosticamos, te presentamos un presupuesto cerrado y solo actuamos con tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos el problema, conectamos el coche a nuestros equipos de diagnosis y realizamos una inspección visual completa. Identificamos el origen real de la avería, no solo el síntoma, para que no vuelvas en dos semanas por lo mismo."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos por WhatsApp o email un presupuesto detallado con mano de obra y piezas. El precio que ves es el precio que pagas. Sin asteriscos, sin letra pequeña, sin sorpresas en la factura final. Claridad ante todo."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos un cheque en blanco. Revisas el presupuesto con calma y nos das tu aprobación por escrito. Hasta que no dices \"adelante\", tu coche no se toca. Tú tienes siempre el control total sobre la reparación."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado del proceso si la reparación se alarga más de lo previsto. Eficacia y comunicación constante."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada y te entregamos la factura, que coincide con el presupuesto. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "La combinación de atascos en la C-31, la humedad de Gavà Mar y el calor del verano crea un cóctel de problemas mecánicos muy concretos que vemos cada día en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro del embrague",
+      "body": "El tráfico lento y constante para entrar a Barcelona o moverse por el centro de Gavà es un castigo para el embrague. Si notas que el pedal está duro, patina al acelerar o las marchas no entran bien, es hora de revisarlo antes de quedarte tirado en plena autovía."
+    },
+    {
+      "title": "Problemas de refrigeración en verano",
+      "body": "El calor húmedo del Baix Llobregat, sumado a un atasco a 40 grados, puede hacer que tu coche se sobrecaliente. Manguitos, termostato y radiador son puntos críticos. Una revisión a tiempo evita averías graves en el motor durante la época de más calor."
+    },
+    {
+      "title": "Fallo del filtro de partículas (FAP)",
+      "body": "Muchos diésel en Gavà hacen trayectos cortos para ir a Viladecans o al trabajo localmente. Este uso no permite que el filtro se regenere, provocando obstrucciones, pérdida de potencia y averías costosas. Lo diagnosticamos y buscamos la solución más efectiva."
+    },
+    {
+      "title": "Corrosión y fallos eléctricos por salitre",
+      "body": "Si vives o aparcas en Gavà Mar, la sal del ambiente acelera la oxidación de los bajos, el escape y, sobre todo, ataca las conexiones eléctricas. Esto puede causar fallos extraños en luces, sensores o incluso en el arranque. Es un problema local muy específico."
+    },
+    {
+      "title": "Frenos y discos cristalizados",
+      "body": "El uso intensivo de los frenos en el tráfico urbano y en las salidas de las vías rápidas como la C-32 puede sobrecalentarlos, cristalizando las pastillas. Si chirrían al frenar o notas que el coche frena menos, es un aviso de seguridad que no puedes ignorar."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Presupuestos de verdad cerrados",
+      "body": "Lo que presupuestamos es lo que pagas. Sin llamadas a mitad de reparación para añadir costes extra. Tu tranquilidad económica es nuestra prioridad."
+    },
+    {
+      "title": "Explicaciones que se entienden",
+      "body": "Te explicamos la avería en un lenguaje claro, sin tecnicismos para confundir. Si quieres, te enseñamos la pieza vieja. Queremos que entiendas qué le pasa a tu coche."
+    },
+    {
+      "title": "Centrados en coches como el tuyo",
+      "body": "Estamos acostumbrados a los coches de 4 a 15 años que circulan por Gavà y conocemos sus puntos débiles. No somos un concesionario oficial, somos un taller multimarca práctico y resolutivo."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Todas nuestras intervenciones y piezas están garantizadas por escrito. Si algo no queda bien, respondemos. Sin excusas."
+    },
+    {
+      "title": "Sin citas para dentro de un mes",
+      "body": "Sabemos que necesitas tu coche. Te damos cita con agilidad para que puedas volver a tu rutina lo antes posible, ya sea ir al trabajo o llevar a los niños al colegio."
+    }
+  ],
+  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que nos encontramos y que reflejan la experiencia de confiar en nosotros.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Gavà Mar",
+      "car": "Volkswagen Passat Variant 2015",
+      "body": "Me saltaba un chivato de motor y en otro taller me dieron un presupuesto altísimo sin explicarme bien el porqué. Aquí me hicieron un diagnóstico claro, resultó ser un sensor afectado por la humedad de la zona. Me enviaron el presupuesto cerrado, la mitad que el otro, y lo autoricé. En 24 horas tenía el coche. Se agradece la honestidad.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat",
+      "neighborhood": "Centre",
+      "car": "Seat Ibiza 2017",
+      "body": "El embrague empezó a patinar en pleno atasco en la C-31. Un desastre. Les llamé, me gestionaron la grúa y al día siguiente tenía el presupuesto. Me explicaron que por el tipo de conducción urbana que hago es normal. Me ofrecieron un coche de cortesía y cumplieron el plazo. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "David",
+      "neighborhood": "Les Bòbiles",
+      "car": "Peugeot 308 SW 2016",
+      "body": "Tenía que pasar la ITV en Sant Boi y no estaba seguro de los humos del diésel. Les pedí una revisión pre-ITV. Me revisaron todo y me recomendaron un tratamiento para el FAP. Pasé la ITV sin un solo fallo. Me ahorraron tiempo y un segundo viaje. Buen servicio.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Can Tintorer",
+      "car": "Renault Clio 2013",
+      "body": "El aire acondicionado dejó de enfriar justo en junio. Me dieron cita rápido. El diagnóstico fue claro: una pequeña fuga en el circuito. La reparación fue más barata de lo que esperaba. El único 'pero' es que tardó un día más de lo previsto porque la pieza no llegaba, pero me avisaron con tiempo.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio principalmente en Gavà, pero nuestra ubicación estratégica nos permite ser el taller de confianza para muchos conductores de municipios cercanos. Si vives o trabajas en Viladecans, Castelldefels o Sant Boi, estamos a pocos minutos. Gracias al acceso directo desde la C-31 y la C-32, venir a nuestro taller es un momento, incluso si vienes desde El Prat de Llobregat. Cubrimos todos los barrios de Gavà, desde la primera línea de mar en Gavà Mar, pasando por el núcleo urbano en el Centre y Eixample, hasta zonas residenciales como Can Tintorer, La Sentiu o Les Bòbiles. Dejarnos tu coche y volver al trabajo o a casa es fácil gracias a las buenas conexiones.",
+  "zoneNeighborhoods": [
+    "Gavà Centre",
+    "Gavà Mar",
+    "Les Bòbiles",
+    "Can Tintorer",
+    "La Sentiu",
+    "Ausiàs March",
+    "Viladecans",
+    "Castelldefels",
+    "Sant Climent de Llobregat"
+  ],
+  "zoneAccessRoutes": [
+    "C-31 (Autovia de Castelldefels)",
+    "C-32 (Autopista Pau Casals)",
+    "B-210",
+    "C-245"
+  ],
+  "faqLocal": [
+    {
+      "q": "Vivo en Gavà Mar, ¿el salitre del mar realmente daña tanto el coche?",
+      "a": "Sí, y más de lo que parece. El salitre es muy corrosivo. Acelera la oxidación de los bajos, el sistema de escape y los componentes de la suspensión. También puede dañar conexiones eléctricas y sensores, causando fallos intermitentes. Recomendamos un lavado frecuente de los bajos y una revisión anual específica de corrosión si tu coche 'duerme' cerca de la playa."
+    },
+    {
+      "q": "Voy cada día a Barcelona por la C-31. ¿Qué mantenimiento es clave para mi coche?",
+      "a": "El trayecto en la C-31 implica mucho 'acelera y frena', lo que castiga tres elementos clave: embrague, frenos y neumáticos. Es fundamental revisar el estado de las pastillas y discos con más frecuencia, así como el nivel y estado del líquido de frenos. Un buen mantenimiento del sistema de embrague previene averías costosas y te evita quedarte tirado en el carril izquierdo."
+    },
+    {
+      "q": "Tengo que pasar la ITV en la estación de Sant Boi. ¿Vuestra Pre-ITV es completa?",
+      "a": "Sí. Nuestra revisión Pre-ITV es exhaustiva y está alineada con los puntos que más se miran en las estaciones de Applus+ de la zona, como la de Sant Boi. Nos centramos en seguridad (frenos, suspensión, neumáticos, luces) y emisiones, que es un punto crítico para los diésel que circulan por el Baix Llobregat. Nuestro objetivo es que la pases a la primera."
+    },
+    {
+      "q": "Mi coche diésel hace trayectos cortos por Gavà, ¿debo preocuparme por el filtro de partículas?",
+      "a": "Definitivamente. El filtro de partículas (FAP o DPF) necesita trayectos por carretera para autolimpiarse (regenerarse). Si solo te mueves por el pueblo, es muy probable que se sature. Esto causa pérdida de potencia, aumento del consumo y una avería cara. Te recomendamos que vengas para hacer un diagnóstico y, si es necesario, forzar una regeneración o limpiarlo."
+    },
+    {
+      "q": "El aire acondicionado no enfría bien en agosto, ¿es siempre una recarga de gas?",
+      "a": "No siempre. Aunque una recarga de gas es una causa común, la pérdida de frío puede deberse a una fuga en el circuito, un fallo en el compresor o un problema eléctrico. Hacer una recarga sin encontrar la fuga es tirar el dinero. Nosotros primero comprobamos la estanqueidad del circuito para darte una solución definitiva y que no vuelvas en un mes."
+    },
+    {
+      "q": "Tengo un presupuesto de otro taller de la zona que no me convence, ¿hacéis segundas opiniones?",
+      "a": "Por supuesto. Es una de nuestras especialidades. Si tienes dudas sobre un diagnóstico o un presupuesto, tráenos tu coche. Haremos nuestra propia valoración desde cero y te daremos un presupuesto cerrado y sin compromiso. Creemos en la transparencia y en que tengas toda la información para decidir con confianza."
+    }
+  ],
+  "closingHeadline": "Tu taller en Gavà, claro y directo",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o envíanos un WhatsApp y di adiós a las sorpresas en la factura de tu taller en Gavà."
+}

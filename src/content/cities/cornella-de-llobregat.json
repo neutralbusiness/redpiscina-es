@@ -1,0 +1,182 @@
+{
+  "slug": "cornella-de-llobregat",
+  "name": "Cornellà de Llobregat",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 87173,
+  "lat": 41.35,
+  "lng": 2.08333,
+  "metaTitle": "Taller mecánico en Cornellà de Llobregat — Multimarca y honesto",
+  "metaDescription": "Taller en Cornellà para conductores que usan el coche a diario. Presupuestos cerrados para revisión, mecánica y averías. Pide tu cita ahora.",
+  "heroSubtitle": "Para ti, que cada mañana coges la B-20 o la A-2 y tu coche no es un capricho, es tu herramienta de trabajo. Aquí lo entendemos.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Revisión Pre-ITV"
+    }
+  ],
+  "introLocal": "Cornellà de Llobregat no es solo una ciudad; es un nudo de comunicaciones vital para miles de conductores que cada día se mueven por el Baix Llobregat y el área metropolitana de Barcelona. Vivir aquí significa conocer el ritmo de la A-2 a primera hora, decidir si la Ronda de Dalt (B-20) estará colapsada a la altura de Esplugues o si es mejor rodear por la C-31 para llegar al aeropuerto o a la Zona Franca. Este uso intensivo del vehículo, a menudo superando los 50 o 60 kilómetros diarios, no es una opción, es una necesidad laboral y familiar. El coche deja de ser un objeto de ocio para convertirse en una herramienta fundamental que debe ser fiable, segura y no dar sorpresas. Es el coche que te permite llegar a tu puesto en el polígono Pedrosa de L'Hospitalet, visitar a un cliente en Sant Boi o simplemente volver a casa en la Riera o Almeda después de un día largo. Entendemos que cuando tu coche falla, no solo es una molestia, es un problema que afecta directamente a tu día a día.\n\nEl parque móvil de Cornellà refleja esta realidad. No predominan los coches de fin de semana, sino los diésel y gasolina de batalla, esos Seat Ibiza, Renault Clio o Volkswagen Golf que acumulan kilómetros con una constancia admirable. Son vehículos de entre 4 y 15 años que soportan el estrés diario del tráfico interurbano: el constante juego de embrague y freno en los accesos a Barcelona, la suspensión trabajando en los badenes de barrios como Sant Ildefons o La Gavarra, y los motores forzados a regenerar filtros de partículas en trayectos que a veces no son lo suficientemente largos. El clima de la zona, con la humedad que aporta la cercanía del delta del Llobregat, también hace su parte, afectando a componentes electrónicos y acelerando la corrosión en puntos sensibles de la carrocería o el escape, sobre todo en coches que duermen en la calle, algo común en zonas densamente pobladas de la ciudad.\n\nDesde nuestra perspectiva como profesionales de la mecánica, vemos un patrón claro. Los problemas más comunes no son fruto de la casualidad, sino consecuencia directa de este ecosistema. El desgaste prematuro de embragues, la acumulación de carbonilla en los sistemas de admisión o los fallos en el sistema de refrigeración durante los atascos de julio y agosto son el pan de cada día. No es lo mismo mantener un coche que circula por carreteras abiertas que uno que pasa gran parte de su vida útil en el cinturón de Barcelona. Por eso, nuestro enfoque va más allá de la simple reparación. Se trata de un mantenimiento preventivo y un diagnóstico que tiene en cuenta cómo y por dónde conduces. Entendemos el coste de oportunidad que supone tener el coche inmovilizado y la importancia de un presupuesto cerrado para una economía familiar o de autónomo.\n\nAquí no encontrarás promesas vacías. Lo que ofrecemos es un servicio de taller mecánico anclado en la realidad de Cornellà. Conocemos las ITV de la zona, sabemos lo que implica la ZBE de Barcelona para los coches de nuestros clientes y entendemos la urgencia cuando surge una avería imprevista el día antes de un desplazamiento importante. Nuestro compromiso es la transparencia total: un diagnóstico claro, una explicación de las opciones disponibles y un precio final sin asteriscos. Porque tu tranquilidad al volante, ya sea en la carretera de Esplugues o aparcando en el barrio Centre, es el resultado de un trabajo bien hecho en el taller. Tu coche es tu herramienta, y nosotros nos encargamos de que esté siempre a punto.",
+  "servicesIntro": "Desde la revisión anual para tu coche de trabajo hasta la mecánica compleja que necesitas para seguir en la carretera, cubrimos todas las necesidades en Cornellà.",
+  "processIntro": "Trabajamos con un proceso claro y sin sorpresas. Sabrás qué le pasa a tu coche, cuánto cuesta y solo haremos lo que tú autorices.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico inicial",
+      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y realizamos una inspección completa. Usamos equipos de diagnóstico para identificar la raíz del problema, no solo los síntomas. Tu experiencia como conductor es clave."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y por escrito. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas, sin sorpresas de última hora. Te lo explicamos punto por punto."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu confirmación explícita. Tienes el control total. Puedes darnos el visto bueno por teléfono, WhatsApp o en persona. Tú decides si seguimos adelante."
+    },
+    {
+      "title": "Reparación y piezas",
+      "body": "Procedemos con la reparación utilizando recambios de calidad y siguiendo las especificaciones del fabricante. Todas nuestras intervenciones tienen garantía para que conduzcas con total tranquilidad por Cornellà y más allá."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, podemos contactarte para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+    }
+  ],
+  "commonIssuesIntro": "Los coches en Cornellà no sufren averías al azar. El uso intensivo en las rondas y el clima local generan problemas muy específicos que conocemos y sabemos solucionar.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague en atascos",
+      "body": "El trayecto diario por la B-20 o los accesos a Barcelona implica miles de cambios de marcha en tráfico lento. Este 'pisa-suelta' constante fatiga el disco de embrague y el sistema hidráulico. Detectamos los primeros síntomas, como un pedal duro o tirones al salir, para evitar que te deje tirado en plena ronda."
+    },
+    {
+      "title": "Filtro de partículas (FAP) obstruido",
+      "body": "Muchos diésel que circulan por Cornellà combinan trayectos cortos por la ciudad con autovía. Esta mezcla a menudo impide que el FAP se regenere correctamente, provocando pérdida de potencia y costosas averías. Realizamos limpiezas forzadas y diagnosticamos el sistema para mantenerlo en óptimas condiciones."
+    },
+    {
+      "title": "Problemas de suspensión y silentblocks",
+      "body": "Pasar cada día por los badenes del barrio Centre o las calles del polígono Famades castiga la suspensión. Los ruidos sordos al girar o una sensación de inestabilidad suelen ser silentblocks o amortiguadores gastados. Una revisión a tiempo mejora la seguridad y evita un desgaste irregular de los neumáticos."
+    },
+    {
+      "title": "Sistema de refrigeración bajo estrés",
+      "body": "El calor del verano en el área metropolitana, sumado a un atasco en la A-2 volviendo del trabajo, pone al límite el sistema de refrigeración. Un termostato que no abre bien o un electroventilador que falla puede causar un sobrecalentamiento grave. Verificamos todo el circuito para evitar sustos."
+    },
+    {
+      "title": "Fallos electrónicos por humedad",
+      "body": "La proximidad al Llobregat genera un ambiente húmedo que, con los años, puede afectar a centralitas y conexiones eléctricas, sobre todo en coches que duermen en la calle. Testigos que se encienden sin motivo o fallos intermitentes son síntomas que diagnosticamos con precisión para dar con el componente afectado."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos tu rutina",
+      "body": "Sabemos que tu coche es esencial para tu trabajo y tu familia. Nos adaptamos para que la reparación sea rápida y afecte lo menos posible a tu día a día en Cornellà."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Sin extras inesperados ni letra pequeña. Planifica tus gastos con la certeza de que no habrá imprevistos en la factura final."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "Te explicamos la avería de forma clara. Si algo puede esperar, te lo diremos. Nuestra prioridad es la seguridad y la confianza, no cambiar piezas innecesariamente."
+    },
+    {
+      "title": "Comunicación directa",
+      "body": "Cualquier imprevisto o consulta, te llamamos. No tomamos decisiones sin tu consentimiento. Estarás informado durante todo el proceso de reparación de tu vehículo."
+    },
+    {
+      "title": "Conocimiento local",
+      "body": "Conocemos los problemas típicos de los coches que circulan por el Baix Llobregat. Este conocimiento nos permite ir directos al grano, ahorrándote tiempo y dinero."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que hemos resuelto para conductores de Cornellà, como podrías ser tú.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Almeda",
+      "car": "Seat León ST TDI 2016",
+      "body": "Hago cada día el trayecto hasta el WTC Almeda Park y luego a Barcelona. El coche empezó a dar tirones en los atascos de la Ronda. Pensé que sería algo grave del motor. Aquí dieron rápido con el problema: el embrague estaba en las últimas. Me dieron un presupuesto cerrado y cumplieron el plazo. Fundamental para no perder días de trabajo.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "La Gavarra",
+      "car": "Peugeot 308 1.6 HDI 2013",
+      "body": "Se me encendió el testigo de fallo motor. En otro sitio me hablaron de cambiar el filtro de partículas, una pasta. Aquí lo revisaron a fondo, vieron que solo necesitaba una regeneración forzada y limpiar un sensor. Me ahorré un dineral y el coche va perfecto. Se agradece la honestidad, sobre todo con los diésel y sus historias.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Sant Ildefons",
+      "car": "Ford Focus 1.8 TDCI 2008",
+      "body": "Mi furgoneta de trabajo empezó a hacer un ruido metálico en la rueda delantera, sobre todo por los baches del barrio. Me preocupaba la seguridad. Lo revisaron y eran las copelas del amortiguador. Me lo explicaron con la pieza vieja en la mano para que lo entendiera. Buen trato y directos al problema.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Riera",
+      "car": "Renault Clio 1.2 2015",
+      "body": "Tenía que pasar la ITV y el coche no frenaba bien. Estaba un poco nerviosa porque lo uso para todo. Me ajustaron los frenos traseros y me hicieron una revisión pre-ITV completa. Pasó a la primera sin problemas. El coche de cortesía me vino genial para poder ir a buscar a los niños al cole. Buen servicio.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda Cornellà de Llobregat y sus alrededores. Si vives o trabajas en barrios como Centre, Riera, Almeda, La Gavarra, Sant Ildefons o Fontsanta-Fatjó, estamos a tu lado. Nuestra ubicación es estratégica para quienes se mueven a diario por el Baix Llobregat. Muchos de nuestros clientes vienen de municipios cercanos como L'Hospitalet de Llobregat, Sant Boi de Llobregat, Esplugues de Llobregat y Sant Joan Despí, aprovechando los rápidos accesos. Estamos conectados por las vías principales que vertebran la comarca, como la A-2, la Ronda de Dalt (B-20) y la C-31, lo que facilita enormemente dejar y recoger tu vehículo sin desviarte demasiado de tu ruta habitual.",
+  "zoneNeighborhoods": [
+    "Cornellà Centre",
+    "Riera",
+    "Almeda",
+    "La Gavarra",
+    "Sant Ildefons",
+    "Fontsanta-Fatjó",
+    "Pedró",
+    "L'Hospitalet de Llobregat",
+    "Sant Boi de Llobregat",
+    "Esplugues de Llobregat"
+  ],
+  "zoneAccessRoutes": [
+    "A-2 (Autovía del Nordeste)",
+    "B-20 (Ronda de Dalt)",
+    "C-31 (Autovía de Castelldefels)",
+    "C-245"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Tenéis en cuenta la normativa ZBE de Barcelona para las reparaciones?",
+      "a": "Sí, totalmente. Sabemos que muchos de nuestros clientes de Cornellà necesitan entrar en Barcelona a diario. Al hacer el mantenimiento o diagnóstico, te informamos si tu coche cumple la normativa y si alguna reparación, como las relacionadas con emisiones (sonda lambda, catalizador, FAP), es crucial para poder seguir circulando sin problemas y obtener la etiqueta ambiental si te corresponde."
+    },
+    {
+      "q": "Mi coche diésel hace muchos kilómetros por la A-2 y las rondas, ¿qué mantenimiento especial necesita?",
+      "a": "Un diésel de uso intensivo por autovía requiere atención específica en el sistema de inyección y el filtro de partículas (FAP). Recomendamos usar aditivos de calidad para limpiar inyectores periódicamente y realizar una descarbonización del motor cada ciertos kilómetros para evitar la acumulación de hollín. Un aceite de buena calidad y cambiado a tiempo es fundamental para proteger el turbo, que sufre mucho en estas condiciones."
+    },
+    {
+      "q": "Mi coche duerme en la calle en la zona de la Riera, ¿afecta la humedad del río?",
+      "a": "Sí, a largo plazo puede afectar. La humedad constante puede acelerar la corrosión de partes metálicas como el escape o el chasis y, sobre todo, generar fallos en conexiones eléctricas y centralitas. En las revisiones prestamos especial atención a estos puntos, comprobando el estado de los guardapolvos, aplicando sprays protectores en contactos y verificando que no haya entradas de agua al habitáculo o al motor."
+    },
+    {
+      "q": "¿Qué es lo más importante a revisar antes de la ITV si uso mucho el coche para trabajar?",
+      "a": "Para un coche de alto kilometraje, además de lo básico (luces, neumáticos), nos centramos en tres puntos críticos que la ITV mira con lupa: emisiones, frenos y holguras. Unos gases de escape altos, una frenada descompensada por el desgaste o silentblocks en mal estado en el eje delantero son causas de rechazo muy comunes en vehículos con mucho trote. Nuestra pre-ITV se enfoca en detectar y solucionar estos puntos."
+    },
+    {
+      "q": "Soy autónomo y uso una furgoneta pequeña, ¿vuestro servicio está adaptado?",
+      "a": "Por supuesto. Entendemos que una furgoneta parada es dinero que no se genera. Damos prioridad a los vehículos de trabajo para que estén el menor tiempo posible inmovilizados. Conocemos los puntos de desgaste típicos de estos vehículos (suspensión reforzada, embrague, frenos) y usamos piezas diseñadas para aguantar un uso profesional. Consulta por nuestro servicio para autónomos de Cornellà."
+    },
+    {
+      "q": "¿Cuál es la mejor hora para traer el coche y evitar el tráfico de Cornellà?",
+      "a": "Cornellà tiene horas punta complicadas, especialmente en las entradas y salidas de las rondas. Para evitar el colapso, recomendamos venir a media mañana, entre las 10:00 y las 12:30, o a primera hora de la tarde, sobre las 16:00. Las primeras horas de la mañana (de 8:00 a 9:30) y las últimas de la tarde (a partir de las 18:00) suelen ser las más congestionadas."
+    }
+  ],
+  "closingHeadline": "Tu taller de confianza en Cornellà",
+  "closingCta": "Si tu coche es tu herramienta para moverte cada día por el Baix Llobregat, necesitas un taller que lo entienda. Pídenos presupuesto sin compromiso por teléfono o WhatsApp y deja tu coche en manos de profesionales que conocen la realidad de Cornellà."
+}

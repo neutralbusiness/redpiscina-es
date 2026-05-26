@@ -1,0 +1,180 @@
+{
+  "slug": "malgrat-de-mar",
+  "name": "Malgrat de Mar",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 18472,
+  "lat": 41.64662,
+  "lng": 2.74135,
+  "metaTitle": "Taller mecánico en Malgrat de Mar — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Malgrat de Mar. Presupuesto cerrado para revisiones, averías y neumáticos. Pide tu cita y conduce con tranquilidad.",
+  "heroSubtitle": "¿Cansado de averías por el salitre y el trote del verano en Malgrat? Te damos un diagnóstico claro y un precio sin sorpresas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si conduces por Malgrat de Mar, sabes que tu coche no tiene una vida fácil. No es lo mismo usarlo solo para ir a comprar al centro que coger cada día la N-II o la C-32 para trabajar en Mataró o Barcelona. Tampoco es igual el desgaste que sufre en el tranquilo invierno que durante el caos circulatorio del verano, con las calles llenas de turistas buscando aparcamiento cerca de la playa. En nuestro taller entendemos estas diferencias porque vivimos aquí, compartimos tus mismas carreteras y sabemos exactamente lo que tu coche necesita para funcionar de forma fiable durante todo el año, ya sea un diésel con sus años o un gasolina más moderno.\n\nEl principal enemigo silencioso de tu coche en Malgrat de Mar es el salitre. La brisa marina, cargada de sal, se deposita en cada rincón del vehículo. Acelera la corrosión de los bajos, el sistema de escape y, sobre todo, los componentes de los frenos como discos y pinzas. No es raro ver coches relativamente nuevos con óxido prematuro en estas zonas. Además, esta humedad salina puede causar estragos en la electrónica, provocando fallos en sensores, conexiones y luces que parecen no tener explicación. A esto se suma el sol intenso del verano, que castiga la pintura, los plásticos exteriores y los salpicaderos, agrietándolos y quitándoles el color. Un mantenimiento preventivo que tenga en cuenta el clima del Maresme es clave para alargar la vida de tu coche.\n\nEl tipo de conducción aquí es de extremos. Por un lado, tenemos los trayectos cortos y urbanos, con constantes paradas y arranques para moverte por el pueblo o por la zona de los hoteles en verano. Esto somete a un estrés enorme al embrague, los frenos y el sistema de refrigeración, que tiene que trabajar a pleno rendimiento para evitar sobrecalentamientos en los atascos de agosto. Por otro lado, están los conductores que usan el coche para desplazamientos más largos por la N-II o la autopista C-32, donde el desgaste se concentra en neumáticos, suspensión y distribución por el kilometraje acumulado. Conocemos ambos escenarios y adaptamos nuestras revisiones para detectar los problemas típicos de cada uno antes de que se conviertan en una avería cara.\n\nEl parque móvil de Malgrat y sus alrededores (Santa Susanna, Palafolls) es muy variado, pero dominan los coches prácticos y fiables: SEAT Ibiza y León, Renault Clio y Mégane, Peugeot 208 y 308, Ford Focus... Coches que conocemos a la perfección. También vemos muchas furgonetas pequeñas y medianas, como la Citroën Berlingo, Peugeot Partner o Renault Kangoo, que son la herramienta de trabajo de muchos autónomos del sector servicios y la hostelería. Sea cual sea tu modelo, de gasolina, diésel o híbrido, tenemos la experiencia y el equipo de diagnóstico para tratarlo con la misma profesionalidad que un servicio oficial, pero con la cercanía y la honestidad de un taller de barrio.\n\nPor eso, cuando traes tu coche a nuestro taller en Malgrat de Mar, no solo ves a un mecánico. Ves a un vecino que entiende que necesitas el coche para llevar a los niños al colegio, para ir a trabajar o para que tu negocio no se pare. Te explicaremos las cosas de forma clara, sin tecnicismos innecesarios, y te daremos un presupuesto cerrado para que no haya sorpresas. Queremos ser tu taller de confianza en el Maresme, el lugar al que acudir sabiendo que cuidaremos de tu coche como si fuera nuestro, porque entendemos su valor y los desafíos únicos a los que se enfrenta cada día en nuestra costa.",
+  "servicesIntro": "Desde la revisión para pasar la ITV en Blanes sin problemas hasta cambiar el embrague gastado por el tráfico de verano, cubrimos toda la mecánica de tu coche en Malgrat.",
+  "processIntro": "Sabemos que un imprevisto en el coche es un problema. Por eso, nuestro proceso es sencillo y transparente: tú siempre tienes el control.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le pasa a tu coche y lo revisamos a fondo con nuestro equipo de diagnóstico. Identificamos el origen del problema para no dar palos de ciego y te explicamos qué hemos encontrado."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te preparamos un presupuesto detallado y por escrito, sin letra pequeña. El precio que te damos es el que pagas, sin sorpresas de última hora. Si surge algo nuevo, te consultamos primero."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos ni un solo tornillo sin tu aprobación explícita. Tú decides si quieres seguir adelante con la reparación propuesta. El control es tuyo en todo momento, sin presiones."
+    },
+    {
+      "title": "Reparación",
+      "body": "Trabajamos con recambios de primeras marcas y te informamos de los plazos. Todas nuestras reparaciones tienen garantía para que conduzcas con total tranquilidad una vez sales del taller."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, podemos contactarte para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "La combinación del salitre del Maresme, el calor del verano y el tráfico denso genera una serie de averías muy comunes en los coches de Malgrat de Mar y alrededores.",
+  "commonIssues": [
+    {
+      "title": "Corrosión en frenos y bajos",
+      "body": "La brisa marina de Malgrat acelera la oxidación. Es muy habitual ver discos de freno, pinzas y líneas de escape con corrosión prematura. Esto no solo es un problema estético, sino que reduce la eficacia de la frenada y puede provocar roturas. Hacemos revisiones específicas y tratamientos preventivos."
+    },
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico de 'para y arranca' en verano, buscando aparcamiento por la zona de la playa o en la N-II los fines de semana, castiga el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en responder, es hora de revisarlo antes de que te deje tirado."
+    },
+    {
+      "title": "Sobrecalentamiento del motor",
+      "body": "Los atascos en agosto bajo el sol son la prueba de fuego para el sistema de refrigeración. Un termostato que no abre bien, un ventilador que falla o un nivel bajo de anticongelante pueden provocar un calentón grave. Revisamos el circuito completo para que tu motor trabaje a su temperatura ideal."
+    },
+    {
+      "title": "Fallos eléctricos por humedad",
+      "body": "La humedad salina de la costa se cuela en todas partes, afectando a conexiones eléctricas, sensores del motor (ABS, ESP) y centralitas. Un testigo que se enciende sin motivo aparente suele ser el primer síntoma. Con nuestro equipo de diagnosis localizamos y solucionamos estos fallos fantasma."
+    },
+    {
+      "title": "Neumáticos dañados por el sol y la inactividad",
+      "body": "Muchos coches en Malgrat pasan largas temporadas aparcados al sol, especialmente en segundas residencias. El sol y el salitre resecan y agrietan el caucho de los neumáticos, aunque tengan poco dibujo. Esto es un peligro. Revisamos su estado y fecha de fabricación para garantizar tu seguridad."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los problemas de aquí",
+      "body": "No somos una franquicia sin alma. Entendemos cómo el salitre, el calor y el tipo de conducción en Malgrat afectan a tu coche y sabemos qué mirar para prevenir averías."
+    },
+    {
+      "title": "Presupuesto final, sin sustos",
+      "body": "El precio que te damos es el que pagas. Si durante la reparación vemos algo más, te llamaremos para explicarlo y darte un nuevo presupuesto. Tú decides siempre."
+    },
+    {
+      "title": "Hablamos tu idioma",
+      "body": "Te explicamos la avería de forma clara y sencilla, sin tecnicismos para confundirte. Queremos que entiendas qué le pasa a tu coche y por qué lo reparamos."
+    },
+    {
+      "title": "Para todas las marcas y modelos",
+      "body": "Desde el SEAT Ibiza familiar hasta la furgoneta del trabajo. Tenemos la tecnología y el conocimiento para cuidar de cualquier coche que circule por el Maresme."
+    },
+    {
+      "title": "Agilidad para que no te pares",
+      "body": "Sabemos que necesitas tu coche. Nos organizamos para ser eficientes y tener la reparación lista en el menor tiempo posible, sin comprometer la calidad del trabajo."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Aquí tienes algunos ejemplos de situaciones que hemos resuelto para conductores como tú en la zona de Malgrat.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Can Palomeres",
+      "car": "SEAT León ST 2016",
+      "body": "Dejo el coche en la calle y notaba que los frenos chirriaban un montón, sobre todo por la mañana. Pensaba que era normal por la humedad, pero aquí me explicaron que era por el óxido del salitre. Me limpiaron todo el sistema y cambiaron las pastillas. Ahora frena perfecto y sin ruidos. Un trato muy honesto.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Centre",
+      "car": "Renault Clio 2018",
+      "body": "Después del verano, el coche empezó a dar tirones en las cuestas. En el taller encontraron un problema en un sensor por la humedad. Me lo explicaron súper bien con el informe de la diagnosis y el presupuesto fue el que me dijeron al principio. Muy profesionales y cercanos, lo recomiendo.",
+      "rating": 5
+    },
+    {
+      "name": "David",
+      "neighborhood": "Palafolls",
+      "car": "Peugeot Partner 2019",
+      "body": "Uso la furgoneta para trabajar por todo el Maresme y no puedo permitirme que falle. Les traigo para todas las revisiones. Siempre me avisan de lo que tocará cambiar en la siguiente para que pueda planificar el gasto. Es la tranquilidad que necesito para mi negocio. Muy buen servicio.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Santa Susanna",
+      "car": "Ford Focus 2014",
+      "body": "Tenía que pasar la ITV y el coche echaba más humo de la cuenta. Me hicieron una puesta a punto, limpieza de inyectores y una pre-ITV. La pasó a la primera sin problemas. Me ahorraron tiempo y un posible segundo viaje a la estación de Blanes. El precio me pareció correcto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la zona de Malgrat de Mar, desde el barrio de El Castell hasta la zona marítima de Can Palomeres. Nuestra ubicación nos permite atender con agilidad a clientes de los municipios vecinos, que son parte de nuestro día a día. Si vives o trabajas en Santa Susanna, Palafolls o Pineda de Mar, estás a pocos minutos de nuestro taller. Incluso recibimos muchos clientes de Blanes, que cruzan el río Tordera buscando un servicio de confianza. Los accesos son muy sencillos, tanto si vienes por la antigua carretera N-II, que atraviesa la comarca, como si coges la salida de la autopista C-32. También estamos bien comunicados por vías locales como la BV-6001 que une con Palafolls.",
+  "zoneNeighborhoods": [
+    "Malgrat Centre",
+    "El Castell",
+    "Can Palomeres",
+    "Barri Marítim",
+    "Santa Susanna",
+    "Palafolls",
+    "Pineda de Mar",
+    "Blanes"
+  ],
+  "zoneAccessRoutes": [
+    "N-II",
+    "C-32 (Autopista del Maresme)",
+    "BV-6001",
+    "GI-600"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi coche duerme en la calle cerca de la playa en Malgrat, ¿necesita algún cuidado especial?",
+      "a": "Sí, sin duda. La salinidad del aire acelera mucho la corrosión. Te recomendamos lavarlo con frecuencia, prestando especial atención a los bajos y pasos de rueda para eliminar la sal. Además, en nuestras revisiones, comprobamos el estado de los frenos, el escape y los componentes metálicos de la suspensión, que son los más afectados."
+    },
+    {
+      "q": "Voy a la ITV de Blanes, ¿revisáis los puntos clave para asegurar que la pase?",
+      "a": "Por supuesto. Ofrecemos un servicio de pre-ITV muy completo. Revisamos los puntos que más fallos provocan en la inspección: luces, frenos, holguras en la dirección, estado de los neumáticos y, muy importante, la emisión de gases. Nuestro objetivo es que vayas a la estación de Blanes con la total seguridad de que la vas a pasar a la primera."
+    },
+    {
+      "q": "Tengo una furgoneta para mi negocio en Malgrat, ¿hacéis mantenimientos para vehículos comerciales?",
+      "a": "Sí, somos conscientes de la importancia de los vehículos de trabajo para los autónomos y empresas de la zona. Realizamos el mantenimiento y las reparaciones de la mayoría de modelos de furgonetas ligeras y medianas, adaptándonos a tus horarios para que tu negocio se vea afectado lo menos posible."
+    },
+    {
+      "q": "En verano, el coche se calienta en los atascos de la N-II, ¿es normal?",
+      "a": "No debería. Aunque el motor trabaje más en un atasco, el sistema de refrigeración debe ser capaz de mantener la temperatura estable. Si la aguja sube más de lo normal, puede ser un síntoma de un problema en el termostato, el radiador o los electroventiladores. Te recomendamos revisarlo cuanto antes para evitar una avería grave."
+    },
+    {
+      "q": "Vivo en Palafolls, ¿por qué debería bajar a vuestro taller en Malgrat?",
+      "a": "Muchos de nuestros clientes son de Palafolls. La cercanía es una ventaja, pero sobre todo valoran nuestra especialización en los problemas derivados del clima costero, que también afecta a tu coche aunque vivas un poco más hacia el interior. Además, la comunicación es muy directa por la carretera BV-6001, en menos de 10 minutos estás aquí."
+    },
+    {
+      "q": "Los plásticos de mi coche están perdiendo color por el sol, ¿se puede hacer algo?",
+      "a": "El sol del Maresme es muy agresivo con los plásticos exteriores e interiores. Aunque no es una avería mecánica, sí afecta a la estética y valor del coche. Podemos recomendarte y aplicar productos específicos para nutrir y proteger estos plásticos, recuperando parte de su aspecto original y previniendo que se agrieten."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Malgrat de Mar",
+  "closingCta": "No dejes que una pequeña avería se convierta en un gran problema. Pide tu cita en nuestro taller de Malgrat de Mar por teléfono, WhatsApp o email y conduce con total tranquilidad."
+}

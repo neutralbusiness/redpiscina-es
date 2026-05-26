@@ -1,0 +1,185 @@
+{
+  "slug": "vallirana",
+  "name": "Vallirana",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 14066,
+  "lat": 41.38676,
+  "lng": 1.93205,
+  "metaTitle": "Taller mecánico en Vallirana — Para el coche familiar que lo hace todo",
+  "metaDescription": "Mantenimiento y reparación para coches con uso mixto en Vallirana. Entendemos el desgaste de cuestas y autovía. Presupuesto cerrado. Pide tu cita.",
+  "heroSubtitle": "Tu coche sube a La Solana por la mañana, va a Barcelona por la B-24 a mediodía y de excursión el fin de semana. Necesita un mantenimiento que entienda esa doble vida.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "En Vallirana, un coche no es solo un coche; es el vehículo familiar que asume múltiples roles cada día. Por la mañana, quizás se enfrenta a las pendientes de urbanizaciones como Vallirana Parc o El Lledoner para llevar a los niños al colegio, en trayectos cortos que apenas permiten que el motor coja temperatura. A media mañana, ese mismo coche se incorpora al tráfico denso de la B-24 o la N-340, camino de Barcelona o del polígono industrial de Sant Andreu de la Barca, un viaje que pone a prueba la paciencia del conductor y la resistencia del embrague. Por la tarde, se convierte en el aliado para las compras en el centro, buscando aparcamiento en calles estrechas. Y el fin de semana, se espera que esté perfecto para una escapada a las cavas del Penedès o para bajar a las playas del Garraf. Este uso intensivo y variado, donde se mezclan cuestas pronunciadas, arranques en frío, y largos tramos de autovía, genera un tipo de desgaste muy específico que un mantenimiento genérico no siempre sabe interpretar.\n\nEl problema de este uso compartido es que cada conductor somete al vehículo a un estrés diferente. Quien lo utiliza principalmente dentro de Vallirana, para ir al CAP o al mercado, provoca una acumulación de carbonilla y un desgaste mayor en los frenos por la orografía del municipio. Quien realiza el trayecto diario por la A-2 hacia la Zona Universitaria, en cambio, somete a la distribución y al sistema de refrigeración a un esfuerzo constante, sobre todo en los atascos estivales. El resultado es un coche cuyo historial de mantenimiento no encaja con su kilometraje. Puede tener las pastillas de freno para cambiar mucho antes de lo previsto, o el filtro de partículas al borde de la saturación a pesar de hacer kilómetros por autovía. Es un desgaste silencioso y acumulativo, fruto de la propia geografía de Vallirana y su condición de ciudad residencial conectada a una gran metrópoli.\n\nEntender esta realidad es la base de nuestro trabajo. No vemos un 'Seat Ateca de 2018', sino el coche que sube cada día la cuesta de Can Rovira y que en agosto sufre la caravana de la AP-7. No diagnosticamos un 'Peugeot 3008 diésel', sino el vehículo que hace trayectos cortos entre semana y que necesita que su sistema de anticontaminación funcione sin dar avisos en el cuadro. El clima del prelitoral, con inviernos húmedos que afectan a las baterías y veranos secos y calurosos que exigen el máximo al aire acondicionado, es otro factor que incorporamos en cada revisión. Por eso, cuando nos dejas tu coche, no solo conectamos una máquina de diagnosis; te preguntamos por tus rutinas. Queremos saber si tu batalla diaria es el puerto del Ordal o las rondas de Barcelona.\n\nNuestro enfoque consiste en unificar todos esos usos en un plan de mantenimiento coherente y preventivo. El objetivo no es solo reparar la avería que surge, sino anticiparse a los problemas derivados de ese uso mixto tan característico de los coches de Vallirana. Se trata de proteger el embrague que sufre en las rampas de los parkings del centro, de cuidar el motor que no siempre llega a su temperatura óptima y de asegurar que los frenos responderán con la misma eficacia en una bajada pronunciada de La Solana que en una frenada de emergencia en la autovía. Porque sabemos que, para tu familia, este coche no es un lujo, es la herramienta que conecta vuestro hogar en Vallirana con el trabajo, el ocio y las obligaciones. Y nuestra responsabilidad es que esa herramienta sea siempre fiable.",
+  "servicesIntro": "Ofrecemos un servicio integral para el coche que lo hace todo: desde la revisión para aguantar el trote diario en Vallirana hasta la mecánica compleja.",
+  "processIntro": "Trabajamos con total transparencia para que siempre sepas qué le pasa a tu coche, cuánto costará y solo reparemos con tu autorización explícita.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico honesto",
+      "body": "Escuchamos los síntomas que has notado y realizamos una inspección completa. No nos limitamos a conectar el ordenador; examinamos el vehículo pensando en el uso que le das en las carreteras de Vallirana y alrededores."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Recibirás un presupuesto detallado por WhatsApp o email, explicando cada punto. El precio que ves es el que pagas, sin sorpresas ni extras de última hora. La claridad es fundamental para nosotros."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ninguna pieza ni empezamos ninguna reparación hasta que nos das tu visto bueno explícito. El control sobre la reparación y el gasto lo tienes tú en todo momento. Sin tu OK, no se toca nada."
+    },
+    {
+      "title": "Reparación y garantía",
+      "body": "Utilizamos recambios de primeras marcas y todas nuestras intervenciones cuentan con garantía. Te mantenemos informado de los plazos para que puedas organizarte y sepas cuándo estará listo tu coche."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando vengas a recoger tu coche, te explicaremos el trabajo realizado. Unos días después, es posible que contactemos contigo para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+    }
+  ],
+  "commonIssuesIntro": "La combinación de cuestas pronunciadas en Vallirana, el tráfico denso de la B-24 y los trayectos cortos en familia genera una serie de averías muy recurrentes en la zona.",
+  "commonIssues": [
+    {
+      "title": "Desgaste acelerado de embrague y frenos",
+      "body": "La orografía de Vallirana, con sus constantes subidas y bajadas en urbanizaciones como Can Batlle, somete al sistema de frenado y al embrague a un esfuerzo extra. El tráfico lento en la N-340 añade más tensión. Realizamos revisiones específicas de estos componentes para evitar un fallo prematuro y garantizar tu seguridad en cada pendiente."
+    },
+    {
+      "title": "Saturación del filtro de partículas (FAP/DPF)",
+      "body": "El uso del coche diésel para trayectos cortos por el pueblo (ir al colegio, a comprar) es la receta perfecta para obstruir el filtro FAP. El motor no alcanza la temperatura para regenerar. Diagnosticamos el nivel de saturación y forzamos la regeneración o limpieza antes de que la avería sea más costosa."
+    },
+    {
+      "title": "Problemas de suspensión y dirección",
+      "body": "Entre los badenes de las zonas residenciales, el asfalto irregular de algunas calles y las sinuosas carreteras hacia Cervelló o Begues, la suspensión y los neumáticos sufren mucho. Unos amortiguadores en mal estado no solo son incómodos, también alargan la distancia de frenado. Los revisamos para que el coche pise con seguridad."
+    },
+    {
+      "title": "Fallos en el sistema de refrigeración",
+      "body": "En verano, un atasco en la A-2 o subir el puerto del Ordal a baja velocidad puede llevar el sistema de refrigeración al límite. Un termostato que no abre bien o un electroventilador que falla pueden provocar un sobrecalentamiento grave. Verificamos todo el circuito para evitar que el calor te deje tirado."
+    },
+    {
+      "title": "Consumo de batería y fallos de arranque",
+      "body": "El coche familiar a menudo se usa para muchos trayectos cortos consecutivos, lo que impide que el alternador recargue la batería por completo. Esto, sumado a la humedad de los inviernos en la zona, acorta su vida útil. Comprobamos el estado de la batería y del sistema de carga para que el coche arranque siempre a la primera."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Diagnóstico contextualizado",
+      "body": "Entendemos que no es lo mismo usar el coche solo en Vallirana que para ir y volver cada día a Barcelona. Nuestro diagnóstico tiene en cuenta tu rutina para encontrar el origen real del problema."
+    },
+    {
+      "title": "Pensado para el coche familiar",
+      "body": "Sabemos que el coche es una herramienta esencial para tu familia. Por eso priorizamos la fiabilidad y la seguridad, ofreciendo soluciones duraderas que se ajustan a un presupuesto familiar."
+    },
+    {
+      "title": "Comunicación clara y directa",
+      "body": "Te explicamos las averías de forma que las entiendas, sin tecnicismos innecesarios. Sabrás qué es urgente reparar y qué puede esperar, permitiéndote tomar decisiones informadas sobre tu vehículo."
+    },
+    {
+      "title": "Especialistas en uso mixto",
+      "body": "Nuestra experiencia se centra en vehículos que combinan el desgaste urbano de parada y arranque con el de carretera. Optimizamos el mantenimiento para alargar la vida de los componentes más castigados por este uso."
+    },
+    {
+      "title": "Sin sorpresas en la factura",
+      "body": "El presupuesto que te damos es cerrado. Si durante la reparación surge un imprevisto, paramos y contactamos contigo. Nunca añadiremos un coste extra sin tu aprobación previa."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Estas son algunas situaciones reales que hemos atendido, un reflejo del día a día de los conductores de Vallirana.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Centre Vila",
+      "car": "Seat Ateca 1.5 TSI 2019",
+      "body": "Llevaba el coche a la revisión oficial pero nunca me preguntaban cómo lo usaba. Aquí fue lo primero. Mi mujer hace trayectos cortos y yo carretera. Me ajustaron el plan de mantenimiento a eso y detectaron un inicio de desgaste en los frenos que en otro sitio habrían pasado por alto. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat",
+      "neighborhood": "La Solana",
+      "car": "Peugeot 308 SW BlueHDi 2016",
+      "body": "Me saltó el aviso del filtro de partículas. Ya me veía pagando un dineral. Les expliqué que últimamente solo cogía el coche para moverme por el pueblo. Me hicieron una regeneración forzada y me dieron un par de consejos para evitar que vuelva a pasar. Me ahorraron una reparación muy cara. Agradecida es poco.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "El Lledoner",
+      "car": "Ford Focus 1.0 EcoBoost 2015",
+      "body": "Con tanta cuesta donde vivo, el embrague empezaba a patinar un poco al arrancar. En otros talleres me decían de cambiarlo directamente. Aquí lo revisaron a fondo, vieron que era un ajuste y un pequeño retén. Me explicaron la operación con fotos. Se nota que no van a la solución fácil y cara.",
+      "rating": 5
+    },
+    {
+      "name": "Sílvia",
+      "neighborhood": "Cervelló",
+      "car": "Citroën C3 Aircross 2018",
+      "body": "Aunque soy de Cervelló, bajo a Vallirana a menudo. Me recomendaron este taller y el trato fue bueno. La revisión anual fue correcta y el precio, el del presupuesto. Quizás tardaron un poco más de lo que me dijeron inicialmente, pero me avisaron con tiempo. En general, una buena experiencia.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio principalmente a conductores de Vallirana y sus distintas urbanizaciones, desde La Solana hasta Can Rovira o El Lledoner. Entendemos perfectamente los retos mecánicos que plantea la orografía de nuestro municipio. Además, nuestra ubicación es muy conveniente para vecinos de poblaciones cercanas como Cervelló, Corbera de Llobregat y La Palma de Cervelló, que utilizan la N-340 o la B-24 como vías de paso habituales. Si trabajas o vives en estas localidades y buscas un taller que comprenda el desgaste específico que supone conducir por esta zona del Baix Llobregat, estamos a tu disposición. El acceso es sencillo desde cualquiera de las carreteras principales que conectan la comarca.",
+  "zoneNeighborhoods": [
+    "Centre Vila",
+    "El Lledoner",
+    "Vallirana Parc",
+    "La Solana",
+    "Can Batlle",
+    "Can Rovira",
+    "Cervelló",
+    "Corbera de Llobregat",
+    "La Palma de Cervelló"
+  ],
+  "zoneAccessRoutes": [
+    "N-340",
+    "B-24",
+    "A-2",
+    "AP-7"
+  ],
+  "faqLocal": [
+    {
+      "q": "Vivo en una urbanización de Vallirana con muchas cuestas, ¿con qué frecuencia debo revisar los frenos?",
+      "a": "En tu caso, recomendamos una revisión del sistema de frenado (pastillas, discos y líquido) cada 15.000 km o al menos una vez al año. La conducción en pendientes constantes acelera el desgaste mucho más rápido que la media. Una revisión preventiva puede evitarte la sustitución prematura de los discos y, sobre todo, garantizar tu seguridad en las bajadas pronunciadas."
+    },
+    {
+      "q": "El coche lo usamos mi pareja y yo con estilos muy diferentes, ¿afecta al mantenimiento?",
+      "a": "Sí, y de forma significativa. Un conductor que hace principalmente autovía y otro que solo hace trayectos cortos por Vallirana someten al motor, al embrague y a los filtros a un estrés muy distinto. Es crucial que nos lo comentes en la revisión para poder adaptar el plan de mantenimiento a ese uso combinado y anticipar problemas como la cristalización de las pastillas de freno o la saturación del FAP."
+    },
+    {
+      "q": "Mi coche es diésel y casi no salgo del pueblo. ¿Debo preocuparme por el motor?",
+      "a": "Sí, es un patrón de uso problemático para los diésel modernos. Los trayectos cortos impiden que el filtro de partículas (FAP) se regenere, lo que puede llevar a averías costosas. Te recomendamos que, al menos una vez cada dos semanas, conduzcas unos 20-30 minutos por la B-24 o la A-2 a un régimen de revoluciones constante (sobre 2.500 rpm) para forzar esa limpieza. En el taller podemos comprobar su estado."
+    },
+    {
+      "q": "A menudo tengo que subir y bajar el puerto del Ordal por la N-340, ¿qué componentes sufren más?",
+      "a": "El puerto del Ordal es una prueba de fuego para varios sistemas. El motor y el sistema de refrigeración trabajan a fondo en las subidas, mientras que los frenos y la suspensión son los más castigados en las bajadas. Es vital usar el freno motor para no sobrecalentar los frenos. Recomendamos revisar el líquido de frenos anualmente, ya que con el calor pierde eficacia."
+    },
+    {
+      "q": "En verano el coche se calienta en las caravanas de la A-2, ¿qué puedo hacer?",
+      "a": "Es un síntoma de que el sistema de refrigeración puede no estar al 100%. Para prevenirlo, asegúrate de que el nivel de anticongelante es correcto y que se ha cambiado según las indicaciones del fabricante. En el taller, podemos verificar el funcionamiento del termostato y los electroventiladores, que son cruciales cuando el coche está parado o circula a baja velocidad en un atasco."
+    },
+    {
+      "q": "Paso la ITV en la estación de Sant Andreu de la Barca. ¿Vuestro servicio pre-ITV lo tiene en cuenta?",
+      "a": "Por supuesto. Conocemos los puntos críticos que suelen revisar con más detalle en las estaciones de nuestra zona, como la de Sant Andreu de la Barca o la de Sant Vicenç dels Horts. Nuestra inspección pre-ITV es exhaustiva y se centra en los fallos más comunes de suspensión, frenos, neumáticos y emisiones de gases que provocan un resultado desfavorable allí."
+    },
+    {
+      "q": "¿Es necesario pedir cita para una revisión en vuestro taller de Vallirana?",
+      "a": "Sí, siempre recomendamos pedir cita previa. De esta forma, podemos reservar el tiempo necesario para tu coche, asegurarnos de tener a un técnico disponible para atenderte sin prisas y evitarte esperas innecesarias. Para una urgencia, llámanos e intentaremos hacerte un hueco lo antes posible, pero la cita previa garantiza un mejor servicio."
+    }
+  ],
+  "closingHeadline": "El mantenimiento que tu coche familiar necesita en Vallirana",
+  "closingCta": "Hablemos del uso real que le das a tu coche y encontremos juntos la mejor solución. Pide tu cita por teléfono, WhatsApp o email y deja tu vehículo en manos que entienden los retos de conducir en Vallirana."
+}

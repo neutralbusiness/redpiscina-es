@@ -1,0 +1,182 @@
+{
+  "slug": "badajoz",
+  "name": "Badajoz",
+  "province": "Badajoz",
+  "ccaa": "Extremadura",
+  "population": 150530,
+  "lat": 38.87789,
+  "lng": -6.97061,
+  "metaTitle": "Taller mecánico en Badajoz — Multimarca y de confianza",
+  "metaDescription": "Tu taller multimarca en Badajoz para revisiones, averías y neumáticos. Presupuestos cerrados sin sorpresas. Pide tu cita y conduce tranquilo por la A-5.",
+  "heroSubtitle": "Harto de que el aire acondicionado te deje tirado en pleno agosto o de temblar con cada ruido raro camino de Portugal por la A-5?",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir en Badajoz es una experiencia única. Es saber que la A-5 no es solo una autovía, sino el cordón umbilical que nos une con Madrid y Lisboa, un camino que muchos recorremos por trabajo o para una escapada a la costa portuguesa. Es hacer la compra en El Faro o en La Plataforma, moverse entre Valdepasillas y el Casco Antiguo, o llevar a los niños al colegio en San Roque. Entendemos que tu coche, ya sea un SEAT Ibiza para callejear, una furgoneta Peugeot Partner para tu negocio o un Dacia Duster para las excursiones por la dehesa extremeña, es una herramienta fundamental en tu día a día.\n\nEl clima de Badajoz dicta las reglas del juego para la mecánica. Los veranos no perdonan: temperaturas que superan los 40 grados ponen a prueba hasta al sistema de refrigeración más robusto y convierten el aire acondicionado en un elemento no de confort, sino de supervivencia. Este calor extremo acelera el desgaste de baterías, degrada los líquidos y castiga los neumáticos sobre el asfalto ardiente. Luego llega el invierno, con mañanas frías y húmedas que exigen un extra a los sistemas de arranque y pueden revelar problemas de batería que el verano ya había empezado a gestar. El polvo en suspensión, tan característico de nuestra tierra, se cuela en cada filtro, afectando al rendimiento del motor y a la calidad del aire en el habitáculo.\n\nEl tipo de conducción aquí es mixto y exigente. No es lo mismo el constante arranca-para de la Ronda del Pilar o al buscar aparcamiento en Pardaleras, que desgasta embragues y frenos, que mantener una velocidad de crucero por la BA-20 o la A-5. Muchos de nuestros clientes combinan estos trayectos urbanos con viajes más largos por carreteras nacionales como la N-432 hacia Zafra o la EX-100 hacia Cáceres, vías que no siempre tienen un firme perfecto y que ponen a prueba la suspensión y la alineación de la dirección. Este uso variado requiere un mantenimiento que entienda y se anticipe a los problemas derivados de cada situación, desde el desgaste urbano hasta la fatiga de los materiales en largos viajes bajo el sol.\n\nPor eso, nuestro taller en Badajoz no es un taller más. Somos mecánicos que vivimos aquí, que cogemos los mismos atascos en el Puente Real y sufrimos el mismo calor. Sabemos que un coche fiable es clave para ir a trabajar a Talavera la Real, visitar a la familia en Olivenza o simplemente para tener la libertad de moverte. Tratamos cada coche, desde un Opel Corsa con diez años hasta un Volkswagen Passat más reciente, con el conocimiento de lo que significa depender de él en Extremadura. Te ofrecemos un diagnóstico honesto, un presupuesto cerrado y la tranquilidad de saber que tu vehículo está preparado para todo lo que Badajoz y sus carreteras le echen.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu coche necesita para circular con seguridad por Badajoz, desde la revisión anual hasta la reparación más compleja.",
+  "processIntro": "Así trabajamos en nuestro taller de Badajoz: con total transparencia para que sepas qué le pasa a tu coche y cuánto te va a costar desde el principio.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos qué te preocupa y realizamos una inspección inicial para entender el problema. Usamos nuestra experiencia y equipos de diagnosis para identificar la causa real de la avería."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Verás el coste de las piezas y la mano de obra de forma clara. El precio que ves es el que pagas, sin sorpresas de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni empezamos ninguna reparación hasta que nos das tu visto bueno. Tienes el control total. Si durante el proceso surgiera algo nuevo, te volveríamos a contactar."
+    },
+    {
+      "title": "Reparación",
+      "body": "Trabajamos con recambios de primeras marcas y te mantenemos informado del progreso. Nuestro objetivo es realizar una reparación duradera que te dé total tranquilidad en la carretera."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando recoges tu coche, te explicamos en detalle el trabajo realizado. Nos aseguramos de que todo esté perfecto y te contactamos pasados unos días para confirmar que el coche va como la seda."
+    }
+  ],
+  "commonIssuesIntro": "El calor extremo de Badajoz, el polvo de la dehesa y los trayectos por la A-5 y nacionales provocan averías muy concretas que conocemos y solucionamos a diario.",
+  "commonIssues": [
+    {
+      "title": "Fallo del Aire Acondicionado en Verano",
+      "body": "En Badajoz, el aire acondicionado no es un lujo, es una necesidad. Las temperaturas de más de 40°C fuerzan al máximo el compresor y todo el circuito. Las fugas de gas, los fallos del compresor y los filtros de habitáculo obstruidos por el polvo son averías típicas. Realizamos una diagnosis completa del sistema, desde la carga de gas hasta la revisión de cada componente, para que el verano no te pille desprevenido."
+    },
+    {
+      "title": "Sobrecalentamiento del Motor",
+      "body": "Un atasco en la A-5 en pleno agosto puede ser fatal para el sistema de refrigeración. El calor extremo degrada el líquido anticongelante y somete a un estrés constante al radiador y los electroventiladores. Un sobrecalentamiento puede causar una avería muy grave y cara. Revisamos manguitos, termostato, bomba de agua y la calidad del refrigerante para evitar que la aguja de la temperatura se dispare."
+    },
+    {
+      "title": "Desgaste acelerado de Neumáticos",
+      "body": "El asfalto de Badajoz en verano alcanza temperaturas muy elevadas, lo que acelera la degradación del caucho de los neumáticos y aumenta el riesgo de reventones. A esto se suma el estado de algunas carreteras comarcales. Revisamos la presión, el desgaste irregular (que puede indicar problemas de alineación) y te asesoramos sobre el neumático más adecuado para nuestro clima y tipo de carreteras."
+    },
+    {
+      "title": "Problemas con la Batería y el Arranque",
+      "body": "El calor extremo del verano acorta la vida útil de las baterías de forma silenciosa. El problema suele aparecer con los primeros fríos del invierno, cuando el motor necesita más energía para arrancar. Si notas que a tu coche le cuesta arrancar por la mañana en barrios como La Paz o Ciudad Jardín, es hora de revisar la batería y el alternador antes de que te deje tirado."
+    },
+    {
+      "title": "Filtros Obstruidos por Polvo y Polen",
+      "body": "Vivimos en un entorno con mucho polvo en suspensión y polen, especialmente en primavera. Esto satura el filtro de aire del motor, provocando una pérdida de potencia y un aumento del consumo. En los diésel, que son mayoría en el parque móvil de Badajoz, también puede afectar al filtro de partículas (FAP), sobre todo si se hacen muchos trayectos cortos por la ciudad."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos Badajoz",
+      "body": "Sabemos lo que tu coche sufre con nuestro clima y en nuestras carreteras. No te damos soluciones genéricas, sino un mantenimiento adaptado a la realidad de conducir en Extremadura."
+    },
+    {
+      "title": "Presupuesto claro, sin sustos",
+      "body": "Te damos un precio cerrado antes de empezar. Lo que apruebas es lo que pagas. La confianza es la base de nuestro trabajo."
+    },
+    {
+      "title": "Expertos en todas las marcas",
+      "body": "Da igual si conduces un Renault, un SEAT, un Opel o un Ford. Tenemos la experiencia y el equipo para cuidar de tu coche con las mismas garantías que el servicio oficial."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "Te diremos lo que es urgente reparar, lo que puede esperar y lo que no necesita tocarse. No te haremos gastar un euro de más en reparaciones innecesarias."
+    },
+    {
+      "title": "Garantía por escrito",
+      "body": "Todas nuestras reparaciones y piezas utilizadas están garantizadas. Tu tranquilidad es nuestra mejor carta de presentación."
+    }
+  ],
+  "testimonialsIntro": "No podemos usar testimonios reales por privacidad, pero estas son algunas de las situaciones que nuestros clientes de Badajoz nos traen cada día.",
+  "testimonials": [
+    {
+      "name": "Javier",
+      "neighborhood": "Valdepasillas",
+      "car": "SEAT León 1.9 TDI 2012",
+      "body": "El aire acondicionado dejó de enfriar justo una semana antes de irnos de vacaciones a la playa. Pensé que me iba a costar un dineral, pero aquí me encontraron una pequeña fuga, la repararon y recargaron el gas a un precio razonable. Me salvaron el viaje. Muy profesionales y rápidos.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "San Roque",
+      "car": "Renault Clio 1.5 dCi 2016",
+      "body": "Oía un ruido raro en la rueda delantera al girar. En otro sitio ya me estaban hablando de cambiar medio coche. Los traje aquí, lo miraron y era solo un protector de plástico suelto. Me lo aseguraron en diez minutos y no me quisieron cobrar. Esa honestidad no se paga con dinero.",
+      "rating": 5
+    },
+    {
+      "name": "Antonio",
+      "neighborhood": "Pardaleras",
+      "car": "Ford Focus 1.6 Gasolina 2010",
+      "body": "Llevé el coche para la revisión pre-ITV porque nunca la paso a la primera. Me detectaron las pastillas de freno en las últimas y una luz de matrícula fundida. Lo arreglaron en la misma mañana, lo llevé a la ITV por la tarde y la pasé sin un solo fallo. Merece la pena la tranquilidad.",
+      "rating": 5
+    },
+    {
+      "name": "Isabel",
+      "neighborhood": "Casco Antiguo",
+      "car": "Opel Corsa 2018",
+      "body": "Hice la revisión anual con ellos. El trato fue muy bueno, me explicaron todo lo que le iban a hacer al coche y me enviaron el presupuesto por WhatsApp. Cumplieron el plazo y el precio. El coche va perfecto. Quizás un poco lentos para dar la cita, pero por lo demás, bien.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Badajoz y sus alrededores. Tanto si vives en barrios como Valdepasillas, San Roque, Pardaleras, Santa Marina o el Casco Antiguo, como si vienes cada día a trabajar desde municipios cercanos como Talavera la Real, Olivenza, La Albuera o Montijo, nuestro taller está preparado para atenderte. Tenemos fácil acceso desde las principales vías que conectan la ciudad, como la A-5 (Autovía de Extremadura), ideal para quienes vienen de Mérida o entran desde Portugal, la N-432 para los que se desplazan desde el sur de la provincia, y la circunvalación BA-20, que facilita moverse de una punta a otra de Badajoz sin cruzar el centro. Llegar a nuestro taller es sencillo, vengas de donde vengas.",
+  "zoneNeighborhoods": [
+    "Valdepasillas",
+    "San Roque",
+    "Pardaleras",
+    "Casco Antiguo",
+    "Santa Marina",
+    "Ciudad Jardín",
+    "La Paz",
+    "Talavera la Real",
+    "Olivenza",
+    "La Albuera"
+  ],
+  "zoneAccessRoutes": [
+    "A-5 (Autovía de Extremadura)",
+    "N-432 (Carretera de Granada)",
+    "BA-20 (Ronda de Badajoz)",
+    "EX-100 (Carretera de Cáceres)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Mi coche necesita un aceite especial por el calor de Badajoz?",
+      "a": "Sí, es muy recomendable. Usar un aceite con la viscosidad correcta (por ejemplo, 5W-30 o 5W-40 según el fabricante) y de buena calidad es crucial. El calor extremo puede degradar un aceite de baja calidad más rápido, perdiendo su capacidad de lubricación y protección del motor. Nos aseguramos de usar siempre el aceite que tu coche necesita para el clima de Extremadura."
+    },
+    {
+      "q": "Con tanto polvo, ¿cada cuánto debo cambiar el filtro del aire?",
+      "a": "Aunque el fabricante dé un intervalo, en Badajoz recomendamos revisarlo en cada mantenimiento y, a menudo, acortar el plazo de sustitución. Un filtro de aire sucio restringe el flujo de aire al motor, lo que aumenta el consumo de combustible y reduce la potencia. Es una operación barata que tiene un gran impacto en la salud de tu motor."
+    },
+    {
+      "q": "Voy a Portugal a menudo, ¿necesito alguna revisión especial?",
+      "a": "No es necesaria una revisión 'especial', pero sí es importante tener el mantenimiento al día, sobre todo los neumáticos, frenos y luces. Los viajes frecuentes por autovía como la A-5 implican un desgaste diferente al urbano. Si haces muchos kilómetros, podemos ajustar el plan de mantenimiento para garantizar que tu coche esté siempre en perfecto estado para cruzar la frontera con seguridad."
+    },
+    {
+      "q": "¿Hacéis la pre-ITV? ¿Dónde está la estación de ITV más cercana?",
+      "a": "Sí, ofrecemos un servicio completo de pre-ITV donde revisamos los mismos puntos que en la inspección oficial para que vayas sobre seguro. La estación de ITV de Badajoz está en el Polígono Industrial El Nevero. Podemos encargarnos de la revisión, solucionar cualquier defecto que encontremos y dejar tu coche listo para pasarla a la primera."
+    },
+    {
+      "q": "Mi coche diésel hace muchos trayectos cortos por la ciudad, ¿es malo para el filtro de partículas (FAP)?",
+      "a": "Sí, es una de las peores cosas para un diésel moderno. Los trayectos cortos no permiten que el filtro de partículas alcance la temperatura necesaria para limpiarse (regenerarse), lo que provoca que se obstruya. Esto puede llevar a averías costosas. Si este es tu caso, te recomendamos salir a carretera de vez en cuando y podemos realizar limpiezas preventivas en el taller."
+    },
+    {
+      "q": "Tengo un coche con más de 10 años, ¿merece la pena seguir manteniéndolo?",
+      "a": "En la mayoría de los casos, sí. Un coche bien mantenido, aunque sea antiguo, es mucho más económico que comprar uno nuevo. En Badajoz, el parque automovilístico tiene una media de edad elevada y estamos especializados en mantener estos vehículos en perfecto estado de funcionamiento. Un mantenimiento preventivo y honesto es la clave para alargar su vida útil muchos años."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Badajoz",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos por WhatsApp y te daremos cita para revisar tu coche en Badajoz. Conduce con total tranquilidad."
+}

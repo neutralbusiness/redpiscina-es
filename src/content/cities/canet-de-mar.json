@@ -1,0 +1,179 @@
+{
+  "slug": "canet-de-mar",
+  "name": "Canet de Mar",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 14123,
+  "lat": 41.59054,
+  "lng": 2.58116,
+  "metaTitle": "Taller mecánico en Canet de Mar — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Canet de Mar. Presupuesto cerrado para revisiones, averías y neumáticos. Pide cita y olvídate de sorpresas.",
+  "heroSubtitle": "Cansado de dar vueltas por la N-II buscando un taller fiable en Canet? Pide tu presupuesto cerrado y conduce tranquilo por el Maresme.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Vivir en Canet de Mar es un privilegio. Tienes la playa a dos pasos, la tranquilidad de un pueblo y el bullicio de Barcelona a un trayecto por la C-32. Pero tu coche, el que usas para bajar a la playa, para subir a comprar al mercado o para ir a trabajar a Mataró, sufre las particularidades de nuestro entorno. No es lo mismo conducir por las calles tranquilas de Els Canyamars en invierno que aguantar el tráfico veraniego de la N-II cuando todo el mundo quiere llegar a Sant Pol. Entendemos que tu coche es una herramienta esencial para la vida en el Maresme, y por eso necesita un mantenimiento que entienda estas condiciones.\n\nEl principal enemigo silencioso de los coches en Canet es el salitre. Esa brisa marina que tanto nos gusta es muy corrosiva para la carrocería, los bajos del coche, los discos de freno y los componentes eléctricos. Un vehículo que duerme en la calle cerca del paseo marítimo envejece mucho más rápido que uno en el interior. A esto se suma la humedad constante, que puede afectar a la electrónica y generar malos olores en el sistema de climatización si no se mantiene correctamente. Son detalles que un taller genérico podría pasar por alto, pero que aquí conocemos de sobra.\n\nEl uso que le das al coche también es clave. Muchos vecinos de Canet se desplazan a diario por la comarca, con trayectos cortos que a menudo implican cuestas y curvas, como la carretera que sube hacia Sant Iscle de Vallalta. Este tipo de conducción, sumado al callejeo por el centro, castiga especialmente el embrague, los frenos y la suspensión. Por otro lado, quienes usan el coche para ir a Barcelona por la C-32 someten el motor a un régimen más constante, pero también acumulan kilómetros que exigen un seguimiento riguroso del mantenimiento programado, como el cambio de la correa de distribución o el aceite.\n\nEl parque móvil de Canet y alrededores es un reflejo de nuestra gente: práctico y trabajador. Vemos a diario los SEAT Ibiza y León, Renault Clio, Peugeot 208, Citroën C4 y Volkswagen Golf que forman el grueso de los coches familiares. También conocemos bien las furgonetas de los autónomos de la zona, como las Berlingo, Kangoo o Transit, que no pueden permitirse estar paradas. Son vehículos, en su mayoría diésel y gasolina de entre 5 y 15 años, que conocemos a la perfección. Sabemos dónde suelen fallar y cómo repararlos de forma eficaz y duradera.\n\nPor todo esto, nuestro taller en Canet no es solo un sitio donde se cambian piezas. Es un centro donde entendemos tu coche en su contexto. Sabemos que lo necesitas para llevar a los niños al colegio, para ir a la estación de tren o para escaparte el fin de semana al Montnegre. Te ofrecemos un servicio honesto, con presupuestos cerrados y sin letra pequeña, para que puedas seguir disfrutando de la vida en el Maresme con total tranquilidad.",
+  "servicesIntro": "Desde la revisión anual para tu coche de diario hasta la reparación de ese ruido raro que apareció subiendo a Sant Iscle, cubrimos todo.",
+  "processIntro": "En nuestro taller de Canet, la confianza es lo primero. Te damos un presupuesto claro y no hacemos nada sin tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos lo que te preocupa. Luego, nuestros técnicos realizan una inspección completa para identificar el origen del problema con precisión, usando equipos de diagnosis multimarca."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin compromiso. Verás el coste de las piezas y la mano de obra por separado. El precio que te damos es el precio que pagas, sin sorpresas."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos un solo tornillo sin tu aprobación explícita. Te explicamos qué hemos encontrado y las opciones que tienes. Tú decides qué hacer y cuándo. El control siempre es tuyo."
+    },
+    {
+      "title": "Reparación",
+      "body": "Una vez aprobado el presupuesto, nos ponemos manos a la obra. Usamos recambios de primeras marcas con garantía y seguimos los procedimientos del fabricante para asegurar un trabajo bien hecho y duradero."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos la reparación realizada. Guardamos un historial de tu vehículo para futuros mantenimientos y asegurar su buen estado a largo plazo."
+    }
+  ],
+  "commonIssuesIntro": "El salitre del mar, el tráfico de la N-II en verano y las cuestas hacia el interior de Canet pasan factura. Estos son los problemas que más vemos en los coches del Maresme.",
+  "commonIssues": [
+    {
+      "title": "Corrosión y óxido por el salitre",
+      "body": "La brisa marina de Canet es implacable con los metales. Acelera la oxidación de los bajos del coche, líneas de escape y componentes de freno. Es un problema silencioso que puede afectar a la seguridad y a la integridad estructural. Realizamos inspecciones específicas y aplicamos tratamientos preventivos para proteger tu vehículo de nuestro clima costero."
+    },
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El tráfico lento y las paradas constantes en la N-II, sobre todo en verano, junto con el callejeo por el centro de Canet o Arenys, castigan mucho el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche frena menos, es hora de una revisión. Conocemos este desgaste y usamos componentes reforzados."
+    },
+    {
+      "title": "Averías en el aire acondicionado",
+      "body": "Llegar a julio en el Maresme sin aire acondicionado es una tortura. La alta humedad y el calor intenso fuerzan el sistema. Los problemas más comunes son las fugas de gas, los compresores averiados o los filtros obstruidos que generan mal olor. Lo revisamos y recargamos para que pases un verano fresco."
+    },
+    {
+      "title": "Filtro de partículas (FAP) obstruido en diésel",
+      "body": "Muchos diésel en Canet hacen trayectos cortos: al supermercado, a la estación, a Sant Pol... Esto impide que el filtro de partículas se regenere correctamente y acaba por obstruirse, provocando pérdida de potencia y averías costosas. Realizamos limpiezas y regeneraciones forzadas para evitar la sustitución de la pieza."
+    },
+    {
+      "title": "Problemas de suspensión y dirección",
+      "body": "Las carreteras que conectan Canet con el interior, como la C-61 hacia Sant Celoni, tienen tramos con curvas y un firme irregular. Esto, sumado a los badenes y baches del día a día, desgasta amortiguadores, silentblocks y rótulas. Un ruido al girar o inestabilidad son síntomas claros que solucionamos para tu seguridad."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches del Maresme",
+      "body": "No somos un taller genérico. Entendemos cómo el salitre, la humedad y el tipo de carreteras de Canet afectan a tu coche. Diagnosticamos problemas que otros podrían pasar por alto."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Te lo detallamos todo por escrito antes de empezar para que no haya sustos al recoger tu coche. Transparencia total."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un SEAT para ir a trabajar a Mataró o una furgoneta para tu negocio. Tenemos el equipo y la formación para cuidar de cualquier marca y modelo."
+    },
+    {
+      "title": "Nos encargamos de la ITV",
+      "body": "Hacemos una revisión pre-ITV completa para asegurar que tu coche la pase sin problemas. Si quieres, nos encargamos de todo el proceso y te lo devolvemos con la pegatina puesta."
+    },
+    {
+      "title": "Trato cercano y de confianza",
+      "body": "Somos un taller de Canet, no una centralita anónima. Hablas directamente con el mecánico que repara tu coche, te explicamos las cosas de forma clara y resolvemos tus dudas."
+    }
+  ],
+  "testimonialsIntro": "Estas son algunas situaciones típicas que viven nuestros clientes de Canet y alrededores. Reflejan nuestro compromiso con un trabajo bien hecho.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "El Centre",
+      "car": "SEAT León 1.6 TDI 2015",
+      "body": "Tenía que pasar la ITV en Mataró y lo llevé para una revisión rápida. Me encontraron un silentblock del trapecio que estaba para cambiar. Ni me había dado cuenta del ruido. Me lo cambiaron en el día, pasé la ITV a la primera y me ahorré un segundo viaje. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Els Canyamars",
+      "car": "Peugeot 2008 1.2 PureTech 2017",
+      "body": "Justo antes de que empezara el calor fuerte, el aire acondicionado dejó de enfriar. Con los niños, es un drama. Me dieron cita rápido, encontraron una pequeña fuga en un manguito y lo solucionaron. El presupuesto fue exactamente el que me dijeron. ¡Me salvaron el verano!",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Sant Pol de Mar",
+      "car": "Renault Kangoo 1.5 dCi 2013",
+      "body": "Soy autónomo y la furgoneta es mi oficina. El embrague empezó a patinar y necesitaba una solución urgente. Entendieron el problema, me dieron prioridad y en dos días la tenía lista. El trato fue muy directo y el precio, muy correcto. Sé dónde volveré la próxima vez.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Vil·la Romana",
+      "car": "Volkswagen Golf 2.0 TDI 2011",
+      "body": "Me tocaba hacer la distribución y es una reparación que da respeto por el coste. Me explicaron todo el proceso, qué piezas se cambiaban (kit completo con bomba de agua) y me dieron un presupuesto cerrado. Cumplieron con el plazo y el coche va perfecto. Buen servicio, aunque un poco más caro que otros presupuestos que pedí.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la zona de Canet de Mar, desde el paseo marítimo hasta los barrios altos de la riera. Nuestra ubicación nos convierte en el taller de referencia para muchos conductores de los pueblos vecinos que buscan un servicio profesional y de confianza. Cubrimos toda la franja costera del Alt Maresme, siendo una opción cómoda para clientes de Arenys de Mar y Sant Pol de Mar, conectados directamente por la N-II. También damos servicio a quienes viven en el interior, como en Arenys de Munt o Sant Iscle de Vallalta, y bajan a la costa por la C-61. El acceso es fácil y rápido tanto desde la C-32 como desde la nacional.",
+  "zoneNeighborhoods": [
+    "Canet de Mar Centre",
+    "Els Canyamars",
+    "Vil·la Romana",
+    "El Pla",
+    "Arenys de Mar",
+    "Sant Pol de Mar",
+    "Arenys de Munt",
+    "Sant Iscle de Vallalta"
+  ],
+  "zoneAccessRoutes": [
+    "N-II",
+    "C-32 (Autopista del Maresme)",
+    "C-61"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Afecta mucho el salitre del mar a mi coche si vivo en Canet?",
+      "a": "Sí, y mucho. El ambiente salino acelera la corrosión de los bajos, el sistema de escape, los frenos y los contactos eléctricos. Aunque no lo veas, el daño se va produciendo. Recomendamos una revisión anual de los bajos, especialmente si aparcas cerca de la playa, para detectar y frenar el óxido a tiempo."
+    },
+    {
+      "q": "Hago muchos trayectos cortos entre Canet y Arenys, ¿es malo para mi diésel?",
+      "a": "Puede serlo. Los motores diésel modernos tienen un filtro de partículas (FAP) que necesita alcanzar alta temperatura para limpiarse. En trayectos cortos, no le da tiempo. Esto puede obstruir el filtro y causar averías. Te recomendamos que, al menos una vez a la semana, hagas un trayecto más largo por la C-32 para ayudarle a regenerar."
+    },
+    {
+      "q": "¿Tenéis experiencia con furgonetas de autónomos de la zona?",
+      "a": "Por supuesto. Sabemos que para un profesional de Canet o alrededores, la furgoneta es su herramienta de trabajo. Entendemos la urgencia y priorizamos estas reparaciones para minimizar el tiempo que está parada. Conocemos los modelos más habituales (Kangoo, Berlingo, Transit, etc.) y sus puntos débiles."
+    },
+    {
+      "q": "Mi coche se calienta en los atascos de la N-II en verano, ¿es normal?",
+      "a": "Un ligero aumento de temperatura es normal, pero si la aguja sube de forma preocupante, no lo es. Puede ser un síntoma de que el sistema de refrigeración no está al 100%: radiador sucio, electroventilador que no salta, o falta de líquido refrigerante. Con el calor del Maresme en agosto, es vital tenerlo a punto para evitar un sobrecalentamiento grave."
+    },
+    {
+      "q": "La ITV de mi zona es en Mataró, ¿revisáis los puntos clave para pasarla?",
+      "a": "Sí, ofrecemos un servicio de pre-ITV muy completo. Revisamos exactamente los mismos puntos que miran en la estación de ITV de Mataró o la que prefieras: luces, frenos, emisiones, neumáticos, holguras... Así te aseguras de ir sobre seguro y no tener que volver. Si lo prefieres, también podemos llevarlo nosotros por ti."
+    },
+    {
+      "q": "Vengo de Sant Iscle de Vallalta, ¿por qué debería bajar a vuestro taller?",
+      "a": "Entendemos que tienes talleres más cerca, pero muchos clientes del interior del Maresme nos eligen por nuestra especialización en todo tipo de marcas y la transparencia de nuestros presupuestos cerrados. El trayecto por la C-61 es corto y te aseguras un diagnóstico preciso y una reparación con garantía, sin sorpresas en la factura final."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Canet de Mar",
+  "closingCta": "No dejes que una avería te complique el día a día en el Maresme. Pídenos presupuesto sin compromiso por teléfono o WhatsApp. Estamos en Canet para ayudarte."
+}

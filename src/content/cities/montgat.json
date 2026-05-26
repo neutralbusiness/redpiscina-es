@@ -1,0 +1,181 @@
+{
+  "slug": "montgat",
+  "name": "Montgat",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 10270,
+  "lat": 41.46859,
+  "lng": 2.28001,
+  "metaTitle": "Taller mecánico en Montgat — Multimarca y de confianza",
+  "metaDescription": "Tu taller de confianza en Montgat para revisiones, mecánica y neumáticos. Presupuesto cerrado sin sorpresas. Pide cita para tu coche, sea la marca que sea.",
+  "heroSubtitle": "El embrague y los frenos de tu coche sufren con los atascos de la N-II y la C-31. Ven a nuestro taller en Montgat y déjalo a punto.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Montgat y el Maresme tiene sus particularidades. Seguramente usas el coche a diario para ir a trabajar a Barcelona, cogiendo la C-31 o la B-20 en hora punta, o quizás te mueves por la costa por la N-II. Este trayecto diario, con sus constantes paradas y arranques, es una prueba de fuego para el embrague, los frenos y la caja de cambios de tu coche. No es lo mismo hacer kilómetros por una autovía despejada que el desgaste que supone el tráfico denso para entrar y salir de la gran ciudad. Aquí entendemos perfectamente ese castigo, porque lo vivimos cada día igual que tú.\n\nAl desgaste por el uso se suma un factor que no podemos ignorar: el mar. Vivir en Montgat significa disfrutar de la playa, pero también exponer tu vehículo a la salinidad y la humedad del ambiente mediterráneo. La 'marinada' es fantástica para nosotros, pero es el enemigo silencioso de la carrocería, los bajos del coche, el sistema de escape y los componentes metálicos de la suspensión. Con el tiempo, esta exposición acelera la corrosión y puede provocar averías eléctricas o debilitar piezas clave que en un clima de interior durarían mucho más. Por eso, una revisión visual de los bajos no es un extra, es una necesidad.\n\nEl parque móvil de nuestra zona es muy característico. Vemos a diario los coches que conducen nuestros vecinos de Montgat, Tiana o El Masnou: muchos SEAT León e Ibiza, Peugeot 208 y 308, Renault Clio y algún que otro Volkswagen Golf. Son coches fiables, de entre 5 y 15 años, la mayoría diésel por el ahorro en los trayectos largos, aunque cada vez más vemos motores de gasolina y los primeros híbridos. También conocemos bien las furgonetas pequeñas de los autónomos locales, que necesitan tener su herramienta de trabajo siempre a punto y no pueden permitirse tenerla parada.\n\nSabemos que tu coche es esencial para tu vida, ya sea para llevar a los niños al colegio, ir a comprar al mercado o, sobre todo, para cumplir con tu jornada laboral. No buscas un taller impersonal en un polígono lejano de Badalona o Mataró, sino un sitio de confianza cerca de casa, que entienda los problemas específicos de tu coche por circular aquí, en la costa del Maresme. Queremos ser ese taller para ti: profesional, cercano y, sobre todo, honesto.",
+  "servicesIntro": "Desde la revisión oficial para tu coche que usas a diario para ir a Barcelona, hasta el cambio de neumáticos gastados por la N-II, cubrimos toda la mecánica.",
+  "processIntro": "Creemos en la transparencia. Te damos un presupuesto cerrado para tu coche aquí en Montgat, y no hacemos nada sin que nos des primero tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y realizamos una inspección completa. Usamos equipos de diagnosis modernos para identificar el origen exacto del problema, sin rodeos ni suposiciones."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te preparamos un presupuesto detallado y por escrito. Verás claramente el coste de las piezas y de la mano de obra. El precio que te damos es el precio final, sin sorpresas ni extras de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni desmontamos nada hasta que revises el presupuesto y nos des tu confirmación. Te explicamos cada punto para que sepas exactamente por lo que estás pagando. Tú tienes el control."
+    },
+    {
+      "title": "Reparación",
+      "body": "Trabajamos con recambios de primeras marcas, con la misma o superior calidad que los originales. Nuestros mecánicos realizan la reparación siguiendo las especificaciones del fabricante para garantizar un trabajo bien hecho y duradero."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando recoges tu coche, te explicamos la reparación realizada y te entregamos las piezas sustituidas si lo deseas. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "La sal del mar, los atascos diarios en la C-31 y el calor del verano en Montgat pasan factura a tu coche. Estos son los problemas que más vemos en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico lento para entrar a Barcelona por la Ronda o la C-31 y las constantes paradas en la N-II a su paso por el Maresme castigan el sistema de embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Cambiamos kits de embrague y sistemas de frenado con componentes de alta calidad."
+    },
+    {
+      "title": "Corrosión en bajos y escape",
+      "body": "La brisa marina de Montgat es muy agresiva con las partes metálicas del coche que no están a la vista. Los bajos, el sistema de escape y los componentes de la suspensión son los primeros en sufrir. Realizamos inspecciones para detectar óxido a tiempo y, si es necesario, reparamos o sustituimos las piezas afectadas para evitar problemas mayores y superar la ITV."
+    },
+    {
+      "title": "Averías en el aire acondicionado",
+      "body": "Los veranos en la costa son calurosos y húmedos, lo que obliga al sistema de climatización a trabajar al máximo. Es muy común que el gas pierda presión o que el compresor falle. Si tu aire acondicionado no enfría como antes, lo revisamos, recargamos el gas y comprobamos que no haya fugas para que vuelvas a conducir fresco."
+    },
+    {
+      "title": "Fallos de batería y alternador",
+      "body": "Los trayectos cortos por Montgat o Tiana, combinados con el uso intensivo de la electrónica del coche, hacen que la batería no se recargue por completo. Esto, sumado a la humedad, acorta su vida útil. Comprobamos el estado de tu batería y el sistema de carga para que tu coche arranque siempre a la primera, especialmente en las mañanas húmedas de invierno."
+    },
+    {
+      "title": "Suspensión y silentblocks dañados",
+      "body": "El asfalto irregular de algunas calles y los badenes de las zonas residenciales de Montgat y alrededores castigan los amortiguadores y los silentblocks. Si oyes ruidos extraños al pasar por un bache o notas inestabilidad, es probable que la suspensión necesite atención. Un sistema en buen estado es clave para tu seguridad y para el correcto desgaste de los neumáticos."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Te explicamos cada detalle antes de empezar y no añadimos costes inesperados. La honestidad es nuestra principal herramienta."
+    },
+    {
+      "title": "Conocemos los coches de aquí",
+      "body": "Sabemos lo que sufre un coche que circula a diario por el Maresme. Entendemos los problemas causados por la sal, la humedad y los atascos, y sabemos cómo solucionarlos de forma eficaz."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Reparamos y mantenemos cualquier marca y modelo, desde el utilitario que usas para ir a la estación hasta la furgoneta con la que trabajas. Tenemos el equipo y el conocimiento para todos."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "Si una reparación no es urgente o una pieza aún tiene vida útil, te lo diremos claramente. Nuestro objetivo es que tu coche sea seguro y fiable, no cambiar piezas por cambiar."
+    },
+    {
+      "title": "Tu taller en Montgat",
+      "body": "Estamos cerca de ti. No tienes que desplazarte a grandes polígonos industriales. Ofrecemos un servicio profesional y de calidad aquí mismo, en tu pueblo."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones que solucionamos cada día para conductores de Montgat y alrededores. Tu caso podría ser el siguiente.",
+  "testimonials": [
+    {
+      "name": "Anna",
+      "neighborhood": "Montgat Centre",
+      "car": "SEAT Ibiza 1.6 TDI 2016",
+      "body": "Hago cada día Montgat-Barcelona para ir a la oficina y el embrague empezaba a patinar en las subidas de las Rondas. Me dieron un presupuesto cerrado, que fue lo que pagué al final, y en dos días tenía el coche listo. Ahora las marchas entran suaves como el primer día. Muy profesionales y cercanos.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Tiana",
+      "car": "Peugeot 3008 2018",
+      "body": "Llegaba el verano y el aire acondicionado no enfriaba nada. Con dos niños pequeños, era un drama. Lo llevé, encontraron una pequeña fuga, la repararon y recargaron el gas. Me explicaron muy bien el problema y el precio fue razonable. Un alivio poder contar con un taller de confianza tan cerca de casa.",
+      "rating": 5
+    },
+    {
+      "name": "José",
+      "neighborhood": "El Masnou",
+      "car": "Ford Transit Connect 2015",
+      "body": "Soy autónomo y la furgoneta no puede parar. Tenía que pasar la ITV y no estaba seguro de los frenos traseros. Le hicieron una revisión pre-ITV completa, cambiaron las pastillas y ajustaron el freno de mano. La pasó a la primera sin problemas. Rapidez y eficacia, que es lo que necesito.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Les Mallorquines",
+      "car": "VW Golf 1.4 TSI 2012",
+      "body": "Escuchaba un 'clonk' metálico en la rueda delantera al girar y coger baches. Pensaba que sería algo muy caro. Resultó ser un silentblock y la rótula de suspensión. Tuvieron que pedir la pieza y tardó un día más de lo previsto, pero me mantuvieron informada en todo momento. El ruido ha desaparecido por completo.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Montgat ofrece servicio a toda la localidad, desde el centro histórico hasta los barrios de Les Mallorquines o el Turó del Mar. Por nuestra ubicación, somos la opción natural para los conductores de municipios vecinos como Tiana y Alella, que bajan a la costa para sus recados, y también para los de El Masnou. Además, muchos clientes de los barrios del norte de Badalona, como Montigalà o Canyet, nos eligen por la facilidad de acceso y un trato más personal. Llegar es muy sencillo, ya que estamos conectados directamente por la carretera N-II que atraviesa el pueblo, y a pocos minutos de las salidas de la autopista C-31 y la B-20.",
+  "zoneNeighborhoods": [
+    "Montgat Centre",
+    "Les Mallorquines",
+    "Turó del Mar",
+    "Pla de Montgat",
+    "Tiana",
+    "Alella",
+    "El Masnou",
+    "Badalona Montigalà",
+    "Badalona Canyet"
+  ],
+  "zoneAccessRoutes": [
+    "N-II",
+    "C-31",
+    "B-20 (Ronda de Dalt)",
+    "BV-5008"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Mi coche sufre más por vivir en Montgat, al lado del mar?",
+      "a": "Sí, sin duda. La salinidad del aire acelera la corrosión de las partes metálicas, especialmente los bajos, el sistema de escape y los componentes de freno y suspensión. Por eso recomendamos revisiones visuales periódicas de estas zonas, algo que en climas de interior no es tan crítico. Un buen mantenimiento preventivo puede ahorrarte averías costosas en el futuro."
+    },
+    {
+      "q": "Hago cada día el trayecto Montgat-Barcelona, ¿qué mantenimiento especial necesita mi coche?",
+      "a": "Ese tipo de trayecto, con mucho tráfico y paradas constantes, provoca un desgaste superior a la media en el embrague, los frenos y, en los diésel modernos, el filtro de partículas (FAP). Es crucial usar un aceite de calidad y respetar los intervalos de cambio, así como revisar el estado de las pastillas y discos de freno con más frecuencia. Nosotros conocemos bien este tipo de desgaste y sabemos qué puntos revisar."
+    },
+    {
+      "q": "¿Tenéis experiencia con furgonetas de autónomos de la zona?",
+      "a": "Por supuesto. Sabemos que para un profesional de Montgat, Tiana o El Masnou, la furgoneta es su oficina y su herramienta principal. Entendemos la urgencia y la necesidad de tenerla siempre a punto. Realizamos mantenimientos, reparaciones de mecánica general y revisiones pre-ITV para la mayoría de modelos de furgonetas pequeñas y medianas del mercado."
+    },
+    {
+      "q": "Tengo que pasar la ITV pronto, ¿hacéis revisión pre-ITV?",
+      "a": "Sí, es uno de nuestros servicios más demandados. Hacemos una comprobación exhaustiva de los mismos puntos que miran en la estación de ITV: luces, frenos, suspensión, neumáticos, emisiones, etc. Si detectamos cualquier problema, te damos un presupuesto para solucionarlo y que puedas ir a la inspección con la total tranquilidad de que la pasarás a la primera."
+    },
+    {
+      "q": "El aire acondicionado de mi coche ya no enfría como antes, ¿es normal por el calor de aquí?",
+      "a": "Es un problema muy común en la zona del Maresme. El calor y la humedad del verano hacen que el sistema trabaje a pleno rendimiento, lo que puede provocar pequeñas fugas o pérdida de eficacia del gas refrigerante. Lo más habitual es que necesite una recarga de gas, pero siempre comprobamos todo el circuito para asegurarnos de que no hay un problema mayor."
+    },
+    {
+      "q": "Vivo en Tiana, ¿me pilla muy lejos el taller?",
+      "a": "Al contrario, estamos muy cerca. Bajar de Tiana a Montgat por la carretera local es un trayecto de apenas cinco minutos. Muchos de nuestros clientes son de Tiana porque les resulta más cómodo y rápido que desplazarse a los polígonos de Badalona o Mataró. Puedes dejar el coche por la mañana y volver a casa fácilmente."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Montgat",
+  "closingCta": "No dejes que una avería te complique la rutina. Pide tu presupuesto cerrado para tu coche en Montgat por teléfono o a través de nuestro formulario. Te atenderemos de forma clara y profesional."
+}

@@ -1,0 +1,181 @@
+{
+  "slug": "premia-de-dalt",
+  "name": "Premià de Dalt",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 10429,
+  "lat": 41.5,
+  "lng": 2.35,
+  "metaTitle": "Taller mecánico en Premià de Dalt — Multimarca y de confianza",
+  "metaDescription": "Tu coche a punto en Premià de Dalt. Presupuestos cerrados para revisión, averías, neumáticos y más. Servicio profesional para todas las marcas. Pide tu cita.",
+  "heroSubtitle": "Para ti, que subes y bajas las cuestas de Premià de Dalt cada día. Un taller honesto con presupuesto cerrado para que conduzcas tranquilo por el Maresme.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Premià de Dalt no es como hacerlo en el llano. Es una rutina de cuestas, curvas y trayectos cortos para bajar a Premià de Mar o subir a casa en La Cisa. Y luego está el peaje diario de la C-32 para ir a trabajar a Barcelona o Mataró. Entendemos perfectamente esta realidad porque la vivimos. Sabemos que tu coche, ya sea el SUV familiar, el compacto para el día a día o esa furgoneta con la que te ganas la vida, sufre un desgaste particular. El parque móvil del Maresme es variado, con muchos SEAT, Volkswagen y Peugeot, pero también con una presencia notable de Audi y BMW que requieren un conocimiento específico. Nuestro taller está preparado para todos ellos, porque conocemos tanto la mecánica de un León TDI como la electrónica de un X3.\n\nEl clima del Maresme es agradable para vivir, pero exigente para los coches. La humedad constante y el salitre que sube desde la costa, aunque no lo veas, se come poco a poco los bajos del coche, el sistema de escape y los componentes de la suspensión. En verano, el calor pone a prueba el sistema de refrigeración y el aire acondicionado, que más que un lujo es una necesidad. Y no podemos olvidar los 'xàfecs' de otoño, esas lluvias torrenciales que convierten las calles en un desafío y ponen de manifiesto la importancia de tener neumáticos y frenos en perfecto estado. Por eso, nuestras revisiones van más allá de un simple cambio de aceite; son una inspección adaptada a las condiciones de Premià.\n\nEl uso que le das a tu coche aquí es intensivo. El 'para y arranca' constante en las rotondas de la N-II, el esfuerzo extra del motor para subir las pendientes del Barri del Gas o de la urbanización Sant Berger, y los kilómetros de autopista acumulados cada semana pasan factura. El embrague, los frenos, el filtro de partículas en los diésel y los amortiguadores son los primeros en notar este castigo. No es lo mismo un coche que circula mayoritariamente por autovía que uno que vive en la orografía de Premià de Dalt. Por eso, nuestro diagnóstico no se basa solo en lo que dice el ordenador, sino también en nuestra experiencia con cientos de coches de vecinos como tú.\n\nEntendemos que necesitas tu coche a diario y que una avería es un problema grave. Buscas un taller que no solo repare la avería, sino que entienda por qué se ha producido y te dé confianza. Un sitio donde te hablen claro, sin tecnicismos, y te ofrezcan un presupuesto cerrado para que no haya sustos al final. Ese es nuestro compromiso: ser tu taller de confianza en Premià de Dalt, el que conoce tu coche y el entorno por el que se mueve, ofreciéndote un servicio profesional y honesto para que tú solo te preocupes de conducir.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV de Mataró sin problemas hasta esa avería eléctrica que te trae de cabeza, cubrimos todas las necesidades de tu coche.",
+  "processIntro": "Creemos en la transparencia total. Por eso, antes de cambiar una sola pieza, recibirás un presupuesto detallado y cerrado. Tú decides, sin presión.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Traes tu coche y nos explicas qué le pasa. Usamos equipos de diagnosis multimarca para identificar el problema con precisión, ya sea un fallo de motor, un ruido en la suspensión o un aviso en el cuadro."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin letra pequeña. Te lo enviamos por WhatsApp o email para que lo revises con calma. El precio que ves es el que pagas."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No empezamos ninguna reparación sin tu visto bueno explícito. Te llamamos, te explicamos las opciones si las hay y solo cuando nos das el 'ok' nos ponemos manos a la obra."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas, con garantía. Nuestros mecánicos se encargan de la reparación siguiendo las especificaciones del fabricante para asegurar un trabajo bien hecho y duradero."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El clima del Maresme y las cuestas de Premià de Dalt no perdonan. Estos son los problemas que más vemos en los coches de la zona, desde el desgaste por el 'stop-and-go' hasta la corrosión.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de frenos y embrague",
+      "body": "Subir y bajar cada día desde urbanizaciones como La Cisa o Sant Berger y el tráfico denso en la C-32 hacia Barcelona castigan mucho los frenos y el embrague. Si notas que el pedal está duro o que el coche tarda en frenar, es hora de una revisión. Diagnosticamos el nivel de desgaste y sustituimos pastillas, discos o el kit de embrague para que conduzcas con total seguridad por las pendientes de Premià."
+    },
+    {
+      "title": "Problemas en filtros de partículas (FAP/DPF)",
+      "body": "Los trayectos cortos para ir a comprar a Premià de Mar o llevar a los niños al cole no permiten que los motores diésel se regeneren bien. Esto provoca obstrucciones en el filtro de partículas, pérdida de potencia y avisos en el cuadro. Realizamos limpiezas y regeneraciones forzadas para evitar una sustitución costosa y asegurar que pases la prueba de gases en la ITV."
+    },
+    {
+      "title": "Corrosión en bajos y sistema de escape",
+      "body": "Aunque estemos en 'Dalt', el salitre del mar llega con la humedad del Maresme. Esta salinidad acelera la oxidación de los bajos del coche, los silentblocks y, sobre todo, el sistema de escape. En nuestras revisiones, inspeccionamos a fondo estos componentes para detectar y frenar la corrosión a tiempo, evitando roturas y ruidos molestos."
+    },
+    {
+      "title": "Fallos en el sistema de aire acondicionado",
+      "body": "Los veranos en el Maresme son largos y calurosos. Un aire acondicionado que no enfría lo suficiente es un problema serio. Diagnosticamos fugas en el circuito, comprobamos la presión del gas y reparamos el compresor. No esperes a que llegue el calor de julio, pon a punto el climatizador y viaja fresco por la N-II o la autopista."
+    },
+    {
+      "title": "Suspensión y neumáticos castigados",
+      "body": "Las calles empinadas, los badenes de las urbanizaciones y las rotondas de acceso a la autopista ponen a prueba la suspensión. Amortiguadores gastados aumentan la distancia de frenado y desgastan mal los neumáticos. Revisamos el estado de amortiguadores, copelas y silentblocks para garantizar el confort y la seguridad de tu coche en las carreteras de la comarca."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches del Maresme",
+      "body": "Sabemos lo que sufre un coche en Premià de Dalt: las cuestas, la humedad, el tráfico de la C-32. Nuestro diagnóstico va más allá del manual, porque entendemos el uso real que le das a tu vehículo en esta zona."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Sin extras inesperados ni letra pequeña. Te enviamos un presupuesto claro y cerrado antes de hacer nada para que tú tengas siempre el control total de la reparación."
+    },
+    {
+      "title": "Todas las marcas, un solo taller",
+      "body": "Da igual si conduces un SEAT Ateca, un Audi Q5 o una furgoneta Renault Trafic. Tenemos la tecnología y la experiencia para trabajar con todas las marcas, manteniendo la garantía del fabricante."
+    },
+    {
+      "title": "Pasión por el trabajo bien hecho",
+      "body": "Somos mecánicos, no simples cambia-piezas. Nos gusta encontrar el origen del problema y solucionarlo de raíz. Tratamos cada coche como si fuera nuestro, con profesionalidad y atención al detalle."
+    },
+    {
+      "title": "Comunicación directa y clara",
+      "body": "Te mantenemos informado durante todo el proceso. Si surge cualquier duda, te llamamos. Te explicamos las cosas de forma que las entiendas, sin tecnicismos innecesarios. La confianza es nuestra prioridad."
+    }
+  ],
+  "testimonialsIntro": "Imagina a tus vecinos de Premià de Dalt contando su experiencia. Estos son algunos ejemplos de casos reales que atendemos cada día en nuestro taller.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Barri del Gas",
+      "car": "Volkswagen Tiguan 2.0 TDI 2017",
+      "body": "Uso el coche todos los días para ir a trabajar a Barcelona por la C-32 y notaba un ruido raro al frenar en las retenciones. Me diagnosticaron el desgaste de las pastillas y discos traseros. Me pasaron un presupuesto por WhatsApp, lo acepté y por la tarde ya lo tenía listo. Súper eficientes y claros, da gusto.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "La Cisa",
+      "car": "Peugeot 208 PureTech 2019",
+      "body": "Tenía que pasar la ITV en Mataró y no estaba segura de si el coche estaba bien. Les pedí una revisión pre-ITV. Me ajustaron la altura de los faros y cambiaron una bombilla fundida que ni había visto. Pasé la ITV a la primera sin problemas. Muy profesionales y honestos, no intentaron venderme nada que no necesitara.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Vilassar de Dalt",
+      "car": "Mercedes C220d 2015",
+      "body": "Me saltó el aviso de fallo de motor en plena autopista. Estaba preocupado por si era algo grave y caro. Lo diagnosticaron como un problema en un sensor del filtro de partículas. Me explicaron la causa, ligada a los trayectos cortos por el pueblo. La reparación fue más rápida y barata de lo que esperaba. Totalmente recomendables.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Nucli Antic",
+      "car": "SEAT Ibiza 1.6 TDI 2013",
+      "body": "El embrague empezaba a patinar en las cuestas para subir a casa y era un suplicio. Pedí presupuesto para el cambio de kit de embrague. El precio fue cerrado y competitivo. El coche ahora va como la seda. El trato fue muy amable, aunque tardaron un poco más de lo previsto inicialmente, pero me mantuvieron informada.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Premià de Dalt da servicio a toda la zona norte del Maresme. Si vives en el Nucli Antic, en urbanizaciones como La Cisa o Sant Berger, o en barrios como Santa Anna-Tió, estamos a tu lado. También somos el taller de confianza para muchos conductores de municipios vecinos que buscan un servicio profesional y transparente, como Premià de Mar, Vilassar de Dalt, Teià y Alella. Nuestra ubicación es de fácil acceso tanto si vienes desde la costa por la N-II y subes hacia la montaña, como si te desvías desde la autopista C-32. Muchos de nuestros clientes aprovechan la cercanía para dejar el coche por la mañana antes de ir a trabajar a Barcelona o Mataró. Cubrimos toda la zona entre El Masnou y Vilassar de Mar, ofreciendo una alternativa de calidad a los servicios oficiales.",
+  "zoneNeighborhoods": [
+    "Nucli Antic",
+    "La Cisa",
+    "Santa Anna-Tió",
+    "Barri del Gas",
+    "Premià de Mar",
+    "Vilassar de Dalt",
+    "Teià",
+    "Alella",
+    "El Masnou",
+    "Sant Berger"
+  ],
+  "zoneAccessRoutes": [
+    "C-32 (Autopista del Maresme)",
+    "N-II",
+    "BV-5021"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi coche diésel hace muchos trayectos cortos por Premià, ¿debo preocuparme por el filtro de partículas?",
+      "a": "Sí, es una de las averías más comunes en la zona. Los trayectos cortos, como ir al supermercado o bajar a Premià de Mar, no permiten que el motor alcance la temperatura para regenerar el filtro (FAP/DPF). Esto causa obstrucciones y averías costosas. Te recomendamos que, al menos una vez por semana, conduzcas unos 15-20 minutos por la C-32 a un régimen de revoluciones constante (sobre 2.500 rpm) para forzar esa limpieza y alargar su vida útil."
+    },
+    {
+      "q": "Vivo en una urbanización con cuestas muy empinadas. ¿Qué mantenimiento especial necesita mi coche?",
+      "a": "Las pendientes de zonas como La Cisa o Sant Berger exigen mucho a los frenos, la suspensión y la caja de cambios (tanto manual como automática). Recomendamos revisar el líquido de frenos y el estado de pastillas y discos con más frecuencia de la habitual. También es crucial mantener los neumáticos con la presión correcta para asegurar el agarre en subidas y bajadas, sobre todo cuando llueve."
+    },
+    {
+      "q": "La humedad y el salitre del Maresme, ¿cómo afectan realmente a mi coche?",
+      "a": "Aunque no estés en primera línea de mar, la brisa marina transporta salitre que se deposita en la carrocería y los bajos del coche. Acelera la corrosión del chasis, el sistema de escape y los componentes de la suspensión. Lavar el coche con frecuencia, especialmente los bajos, ayuda a mitigar el efecto. En nuestras revisiones, prestamos especial atención a estos puntos críticos."
+    },
+    {
+      "q": "¿Hacéis la revisión pre-ITV para la estación de Mataró?",
+      "a": "Por supuesto. Muchos de nuestros clientes de Premià de Dalt y alrededores pasan la inspección en la estación de Mataró. Conocemos perfectamente los puntos que revisan con más detalle. Hacemos una comprobación exhaustiva de luces, frenos, neumáticos, emisiones y holguras para que vayas con la total tranquilidad de que la pasarás a la primera, ahorrándote tiempo y un segundo viaje."
+    },
+    {
+      "q": "Tengo un coche con etiqueta C, ¿puedo seguir entrando en la ZBE de Barcelona desde Premià?",
+      "a": "Sí, con un coche de gasolina matriculado a partir de 2006 o diésel a partir de 2014 (etiquetas C y B), puedes acceder a la Zona de Bajas Emisiones (ZBE) de Barcelona sin problema en los horarios establecidos. Es fundamental que el coche tenga un mantenimiento correcto de emisiones para no tener problemas. Nos aseguramos de que tu vehículo cumpla siempre la normativa."
+    },
+    {
+      "q": "¿Ofrecéis coche de cortesía si dejo el mío para una reparación larga?",
+      "a": "Disponemos de un número limitado de coches de cortesía para nuestros clientes. Están sujetos a disponibilidad y se suelen reservar para reparaciones que implican inmovilizar el vehículo más de 24 horas, como un cambio de embrague o una avería de motor. Consúltanos al pedir tu cita y te confirmaremos si podemos asignarte uno."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Premià de Dalt.",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita en nuestro taller de Premià de Dalt. Así de fácil."
+}

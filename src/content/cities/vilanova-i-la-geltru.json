@@ -1,0 +1,182 @@
+{
+  "slug": "vilanova-i-la-geltru",
+  "name": "Vilanova i la Geltrú",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 65890,
+  "lat": 41.22392,
+  "lng": 1.72511,
+  "metaTitle": "Taller mecánico en Vilanova i la Geltrú — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Vilanova i la Geltrú para revisiones, mecánica y neumáticos. Presupuesto cerrado y sin sorpresas. ¡Pide tu cita ahora!",
+  "heroSubtitle": "Para ti, que usas el coche cada día por la C-32 o te mueves por Vilanova y no quieres sorpresas con el mantenimiento ni con la factura.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir en Vilanova i la Geltrú tiene sus particularidades. No es lo mismo usar el coche solo para ir a comprar al mercado del centro que coger cada mañana la C-32 para trabajar en Barcelona. Conocemos perfectamente esa rutina: el tráfico denso a la altura de Castelldefels, las frenadas constantes y el desgaste que eso supone para tu embrague y tus frenos. También sabemos lo que significa vivir junto al mar. El salitre del Garraf es implacable, no solo con la chapa, sino con componentes críticos como los discos de freno, el sistema de escape y los bajos del coche. Por eso, nuestro enfoque no es genérico; es un mantenimiento pensado para el parque móvil real de Vilanova, compuesto en su mayoría por SEAT, Peugeot, Renault y Volkswagen con unos cuantos años a sus espaldas.\n\nEntendemos que tu coche es una herramienta esencial. Quizás lo usas para llevar a los niños al colegio en La Collada, para desplazarte a tu trabajo en el polígono o para escaparte el fin de semana a Sitges por la C-31. Cada uno de estos trayectos tiene un impacto diferente en el vehículo. Los trayectos cortos por el núcleo urbano, con sus calles a veces estrechas como las del barrio de La Geltrú, son especialmente duros para los motores diésel y sus filtros de partículas. Por otro lado, la humedad constante de nuestro clima mediterráneo puede afectar a la electrónica y generar olores en el sistema de climatización, un elemento indispensable durante los veranos calurosos y húmedos que tenemos aquí.\n\nNuestro trabajo es anticiparnos a esos problemas. Cuando revisamos un coche en Vilanova, no solo miramos el kilometraje. Tenemos en cuenta si aparcas en la calle en el Barri de Mar, expuesto a la brisa marina, o si haces a menudo el trayecto hasta Vilafranca por la C-15. Esta visión local nos permite detectar un desgaste prematuro en la suspensión de un coche que circula habitualmente por zonas con badenes, o la necesidad de una limpieza del circuito de refrigeración en un vehículo que sufre los atascos veraniegos para ir a la playa de Ribes Roges. No es lo mismo un coche que solo se mueve por la ciudad que uno que sube regularmente al Parc del Garraf.\n\nPor eso, cuando buscas un taller en Vilanova i la Geltrú, no solo necesitas a alguien que sepa de mecánica, sino a alguien que entienda tu día a día. Alguien que sepa que la ITV de Sant Pere de Ribes es exigente con las emisiones y los frenos, y que prepare tu coche a conciencia para superarla sin problemas. Ofrecemos un servicio honesto, con presupuestos cerrados para que no te lleves sustos, y una comunicación clara y directa. Queremos ser tu taller de confianza, el que entiende que tu Renault Clio o tu SEAT Ibiza no es solo un número de bastidor, sino la clave de tu movilidad en el Garraf.",
+  "servicesIntro": "Desde la revisión anual para tu coche hasta la avería más compleja, cubrimos todas las necesidades de tu vehículo aquí en Vilanova i la Geltrú.",
+  "processIntro": "Trabajamos con total transparencia. Te explicamos todo claro y te damos un presupuesto cerrado. No movemos un tornillo sin tu aprobación.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, un mecánico especialista lo revisa a fondo. Escuchamos lo que te preocupa y usamos equipos de diagnosis para identificar el origen del problema con precisión, sin especulaciones."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas. Sin letra pequeña ni sorpresas de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisa el presupuesto tranquilamente. Si tienes cualquier duda, nos llamas y te la aclaramos. Solo cuando nos das tu visto bueno, empezamos a trabajar en tu coche. Tú tienes siempre el control."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan la reparación siguiendo las especificaciones del fabricante para asegurar un trabajo bien hecho y duradero. Te mantenemos informado del proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El clima costero de Vilanova, el tráfico hacia Barcelona y el tipo de recorridos urbanos provocan una serie de averías muy características en los coches de la zona.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos por la C-32",
+      "body": "El trayecto diario a Barcelona por la C-32 o la C-31 implica constantes paradas y arranques, sobre todo en los accesos. Este ritmo castiga enormemente el embrague y los frenos. En nuestro taller de Vilanova revisamos el grosor de las pastillas y discos, y el recorrido del pedal de embrague para evitar que te quedes tirado en plena autopista."
+    },
+    {
+      "title": "Corrosión acelerada por el salitre marino",
+      "body": "Vivir en el Garraf es un lujo, pero el salitre es muy corrosivo. Afecta a los bajos del coche, líneas de escape y, sobre todo, a los componentes de los frenos como discos y pinzas, que se oxidan y pueden llegar a bloquearse. Realizamos inspecciones específicas para detectar y frenar esta corrosión a tiempo."
+    },
+    {
+      "title": "Averías en el sistema de climatización",
+      "body": "Los veranos en Vilanova son calurosos y húmedos. Un aire acondicionado que no enfría lo suficiente es un problema serio. Las fugas de gas, fallos en el compresor o filtros sucios son habituales. Hacemos una diagnosis completa del sistema para que puedas afrontar el calor con garantías."
+    },
+    {
+      "title": "Filtro de partículas (DPF) atascado",
+      "body": "Muchos coches diésel en Vilanova se usan para trayectos cortos: del Prat de Vilanova al centro, de Sant Joan a la playa... Esto impide que el filtro de partículas se regenere correctamente, provocando averías costosas. Ofrecemos diagnosis y soluciones de limpieza para evitar la sustitución."
+    },
+    {
+      "title": "Problemas de suspensión y neumáticos",
+      "body": "El estado de algunas calles, los badenes en zonas residenciales como La Collada y la circulación por las carreteras con curvas como las del Pantà de Foix, exigen mucho a la suspensión y los neumáticos. Unos amortiguadores en mal estado aumentan la distancia de frenado y el desgaste de las ruedas."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de aquí",
+      "body": "Sabemos qué problemas dan los coches en Vilanova por el clima y el tipo de uso. No aplicamos soluciones genéricas, vamos directos al grano porque conocemos tu entorno."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "Te damos un precio cerrado y claro desde el principio. Lo que apruebas es lo que pagas al final. Se acabaron las facturas infladas y las sorpresas desagradables."
+    },
+    {
+      "title": "Tú decides siempre",
+      "body": "No cambiamos ni una sola pieza sin tu autorización explícita. Te explicamos qué le pasa a tu coche y te damos opciones para que tú tomes la mejor decisión."
+    },
+    {
+      "title": "Especialistas en Pre-ITV",
+      "body": "Conocemos los puntos críticos que miran en la estación de ITV de Sant Pere de Ribes. Hacemos una revisión exhaustiva para que la pases a la primera y te olvides de problemas."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un SEAT, un BMW, un Peugeot o un Hyundai. Tenemos la formación y el equipo de diagnosis para trabajar con todas las marcas con la misma calidad que el servicio oficial."
+    }
+  ],
+  "testimonialsIntro": "No nos creas sin más. Aquí tienes algunos ejemplos de casos reales de conductores de Vilanova que ya confían en nosotros para el cuidado de su coche.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Barri de Mar",
+      "car": "SEAT León ST 2017",
+      "body": "Hago cada día el trayecto Vilanova-Barcelona por la C-32 y notaba que el embrague empezaba a patinar. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial, y en dos días tenía el coche listo. Se nota que entienden el desgaste que sufrimos los que hacemos este trayecto a diario. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "La Geltrú",
+      "car": "Peugeot 2008 2018",
+      "body": "El aire acondicionado dejó de enfriar justo al empezar junio. Con dos niños pequeños, era una urgencia. Me atendieron súper rápido, encontraron una pequeña fuga, la repararon y recargaron el gas. El trato fue muy cercano y me explicaron todo el proceso. ¡Nos salvaron el verano!",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "La Collada",
+      "car": "Ford Focus 2014",
+      "body": "Tenía que pasar la ITV y siempre me da pánico. Les pedí una revisión pre-ITV y encontraron que las pastillas de freno traseras estaban en las últimas y una luz de posición fundida. Lo arreglaron en la misma mañana. Fui a la ITV de Sant Pere de Ribes y la pasé sin un solo fallo. Merece la pena la tranquilidad.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Sant Joan",
+      "car": "Renault Clio 2015",
+      "body": "El coche me daba tirones y se encendió el testigo de motor. Como solo lo uso por Vilanova, me temía lo peor con el filtro de partículas. Me hicieron una diagnosis y me confirmaron que era eso. En lugar de cambiarlo, me ofrecieron una limpieza que salió mucho más económica. El coche va perfecto ahora. Agradezco la honestidad.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda Vilanova i la Geltrú. No importa si vives en el centro, en el Prat de Vilanova, en Ribes Roges o en La Collada-Els Sis Camins. Nuestra ubicación nos convierte también en una opción muy cómoda para conductores de los municipios vecinos. Si vienes de Sitges o Sant Pere de Ribes por la C-31, o desde Cubelles, estás a pocos minutos. También somos el taller de referencia para muchos clientes de Canyelles que bajan por la C-15. Nuestro acceso es sencillo desde las principales vías que conectan la comarca del Garraf, como la C-32 (salida Vilanova), la C-31 y la C-15.",
+  "zoneNeighborhoods": [
+    "Centre Vila",
+    "Barri de Mar",
+    "La Geltrú",
+    "Sant Joan",
+    "La Collada-Els Sis Camins",
+    "Prat de Vilanova",
+    "Ribes Roges",
+    "Sitges",
+    "Sant Pere de Ribes",
+    "Cubelles"
+  ],
+  "zoneAccessRoutes": [
+    "C-32 (Autopista Pau Casals)",
+    "C-31 (Carretera de les Costes)",
+    "C-15 (Eix Diagonal)",
+    "BV-2115"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Por qué mis discos de freno se oxidan tan rápido en Vilanova?",
+      "a": "Es un efecto directo del ambiente marino. La sal y la humedad del aire (el salitre) aceleran la oxidación del metal. Aunque algo de óxido superficial es normal y se va con las primeras frenadas, una corrosión profunda puede afectar al rendimiento y la seguridad. Por eso, en Vilanova recomendamos revisar el sistema de frenos con más frecuencia, especialmente si el coche duerme en la calle cerca del mar."
+    },
+    {
+      "q": "Tengo un diésel y casi solo me muevo por la ciudad, ¿qué debo vigilar?",
+      "a": "El principal riesgo es la saturación del filtro de partículas (DPF). Estos sistemas necesitan trayectos por carretera (como por la C-32 o C-15) para alcanzar la temperatura necesaria y autolimpiarse. Si solo haces recorridos cortos por Vilanova, el filtro se atasca, provocando pérdida de potencia y averías caras. Te recomendamos salir a carretera al menos una vez por semana durante 20 minutos a un ritmo constante."
+    },
+    {
+      "q": "Voy a pasar la ITV en Sant Pere de Ribes, ¿hay algo especial que deba mirar?",
+      "a": "Sí. En la ITV de Sant Pere de Ribes, como en todas, son muy estrictos con los elementos de seguridad: frenos, neumáticos, luces y suspensión. Por la proximidad al mar, prestan especial atención a la corrosión en los bajos y en el sistema de frenado. También son rigurosos con las emisiones, sobre todo en los diésel. Nuestra revisión pre-ITV se centra en todos estos puntos críticos para que vayas sobre seguro."
+    },
+    {
+      "q": "Conduzco a menudo por las Costas del Garraf (C-31), ¿necesita mi coche un cuidado extra?",
+      "a": "Sí. Esa carretera, aunque preciosa, es exigente. Sus curvas constantes suponen un mayor trabajo para la suspensión y los neumáticos, provocando un desgaste más rápido de los flancos de las ruedas. Además, el sistema de frenos se usa intensamente. Recomendamos revisar la presión de los neumáticos con frecuencia y hacer un control de amortiguadores y frenos de forma periódica si es tu ruta habitual."
+    },
+    {
+      "q": "En verano, el coche se calienta mucho en los atascos para ir a la playa, ¿es normal?",
+      "a": "Un ligero aumento de la temperatura en un atasco puede ser normal, pero si la aguja sube a la zona roja, hay un problema en el sistema de refrigeración. El calor de Vilanova en verano, sumado al tráfico lento, pone a prueba el radiador, el ventilador y el líquido refrigerante. Es vital tener el sistema en perfecto estado para evitar un sobrecalentamiento grave del motor. Una revisión antes de la temporada de verano es muy recomendable."
+    },
+    {
+      "q": "¿Tenéis coche de cortesía? Lo necesito para seguir yendo a trabajar.",
+      "a": "Sí, disponemos de coche de cortesía para que no te quedes parado mientras reparamos el tuyo. Entendemos que muchos de nuestros clientes en Vilanova dependen del coche para su día a día, ya sea para ir a trabajar o para las tareas familiares. Este servicio está sujeto a disponibilidad, por lo que te recomendamos solicitarlo al pedir tu cita para poder garantizarlo."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Vilanova",
+  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita en nuestro taller de Vilanova i la Geltrú para revisar tu coche con la confianza que buscas."
+}

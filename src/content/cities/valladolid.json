@@ -1,0 +1,187 @@
+{
+  "slug": "valladolid",
+  "name": "Valladolid",
+  "province": "Valladolid",
+  "ccaa": "Castilla y León",
+  "population": 300618,
+  "lat": 41.65541,
+  "lng": -4.72353,
+  "metaTitle": "Taller mecánico en Valladolid — Multimarca y de confianza",
+  "metaDescription": "Tu taller mecánico en Valladolid para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. ¡Pide tu cita y conduce tranquilo!",
+  "heroSubtitle": "Para que el frío de Parquesol o el atasco en el Paseo de Zorrilla no te dejen tirado. Cuidamos tu coche en Valladolid.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives y conduces en Valladolid, sabes lo que es la exigencia. No hablamos solo del tráfico en el Paseo de Zorrilla a primera hora o de encontrar aparcamiento por el centro. Hablamos del clima de verdad, el que pone a prueba la mecánica de tu coche cada día. Esas mañanas de invierno en La Victoria o Parquesol, con heladas que te hacen dudar si el coche arrancará, o el calor asfixiante de julio en el polígono de Argales que fuerza al máximo el aire acondicionado. Tu coche, ya sea un Renault fabricado a pocos kilómetros, un SEAT para el día a día o un Peugeot familiar, sufre estas condiciones extremas y necesita un mantenimiento que las entienda.\n\nAquí no solo cambiamos aceite y filtros. Entendemos que tu rutina puede ser coger la VA-30 cada mañana desde Arroyo de la Encomienda o Zaratán, con el desgaste que eso supone para el embrague y los frenos. O que usas la A-62 para escaparte el fin de semana a Tordesillas o para ir a trabajar a Palencia. Ese uso mixto, de ciudad y autovía, requiere una atención especial a los neumáticos, la alineación y los sistemas anticontaminación de tu diésel, que a menudo no llegan a la temperatura óptima en los trayectos cortos por la ciudad, como ir de Covaresa al centro comercial Vallsur.\n\nEl parque automovilístico de Valladolid es un reflejo de su gente: trabajador y práctico. Abundan los diésel y gasolina de entre 5 y 15 años, coches que necesitan un taller que sepa ir más allá de la diagnosis por ordenador. Un taller que entienda por qué un coche que duerme en la calle en La Rondilla puede tener problemas de batería en enero, o por qué los silentblocks de la suspensión sufren más en las calles adoquinadas del centro histórico. Somos ese taller: conocemos los coches que se conducen aquí y los problemas reales que afrontan en el asfalto pucelano.\n\nPor eso, cuando buscas un taller en Valladolid, no solo necesitas a alguien que sepa de mecánica. Necesitas a un profesional que comprenda tu día a día. Que sepa que no puedes quedarte sin coche si vives en Laguna de Duero y trabajas en el centro. Que entienda la importancia de pasar la ITV a la primera para no perder tiempo ni dinero. Te ofrecemos precisamente eso: un servicio honesto, con presupuestos cerrados para que no haya sustos, y un trato cercano. Porque tu tranquilidad al volante, ya sea cruzando el Puente Colgante o en plena Autovía de Castilla, es nuestro principal objetivo.",
+  "servicesIntro": "Desde la revisión oficial para tu coche hasta la avería más compleja, cubrimos todas las necesidades de tu vehículo en Valladolid.",
+  "processIntro": "Trabajamos con total transparencia para que siempre sepas qué le pasa a tu coche y cuánto te va a costar, sin sorpresas.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le notas al coche y lo conectamos a nuestros equipos de diagnosis. Hacemos una revisión visual y mecánica completa para encontrar el origen real del problema, no solo el síntoma."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas, sin extras de última hora. Así de claro."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo hasta que nos das tu visto bueno. Si durante la reparación surge algo nuevo e inesperado, paramos y volvemos a contactarte."
+    },
+    {
+      "title": "Reparación",
+      "body": "Trabajamos con recambios de primeras marcas, con la misma calidad que los originales. Te mantenemos informado del proceso y cumplimos los plazos acordados para que te organices sin problemas."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te explicamos la reparación realizada y te entregamos las piezas sustituidas si las quieres. Unos días después, te llamamos para confirmar que todo funciona perfectamente y estás satisfecho."
+    }
+  ],
+  "commonIssuesIntro": "El clima continental de Valladolid, con su frío intenso y calor seco, junto al tráfico urbano y las autovías, provoca una serie de averías muy características en la zona.",
+  "commonIssues": [
+    {
+      "title": "Baterías que mueren en invierno",
+      "body": "El frío extremo de las mañanas en Valladolid es el peor enemigo de las baterías, sobre todo si el coche duerme en la calle. Las bajas temperaturas reducen su capacidad de arranque. Comprobamos el estado de tu batería y el alternador para que no te deje tirado en el momento más inoportuno."
+    },
+    {
+      "title": "El aire acondicionado no enfría en verano",
+      "body": "Llegar a julio y agosto con más de 35 grados y que el aire acondicionado no funcione es un clásico. El calor pucelano fuerza el sistema al máximo. Realizamos la carga de gas, buscamos fugas y revisamos el compresor para que puedas volver a conducir sin sudar la gota gorda."
+    },
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El tráfico denso para entrar y salir de la ciudad desde municipios como Laguna o Arroyo, y las constantes paradas y arranques en el centro, castigan el embrague y los frenos. Revisamos su estado y los sustituimos con componentes de calidad para garantizar tu seguridad en cada frenada."
+    },
+    {
+      "title": "Averías en filtros de partículas (FAP/DPF)",
+      "body": "Muchos diésel se usan para trayectos cortos dentro de Valladolid, de casa al trabajo, sin dar tiempo a que el motor se caliente lo suficiente para regenerar el filtro de partículas. Esto provoca obstrucciones y averías costosas. Realizamos limpiezas y diagnósticos para evitar problemas mayores."
+    },
+    {
+      "title": "Problemas de suspensión y dirección",
+      "body": "Entre los baches de algunas calles, los badenes y las rotondas de las rondas como la VA-30, la suspensión y la dirección sufren un desgaste constante. Si notas ruidos raros o imprecisión al volante, revisamos amortiguadores, silentblocks y rótulas para que tu coche pise seguro."
+    },
+    {
+      "title": "Fallos en el sistema de refrigeración",
+      "body": "El cambio brusco de temperatura entre el invierno gélido y el verano tórrido pone a prueba manguitos, termostato y radiador. Una pequeña fuga de anticongelante puede provocar un sobrecalentamiento grave en la A-62 en pleno agosto. Revisamos el circuito para prevenir averías."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos tu coche y tu ciudad",
+      "body": "Sabemos que un Renault Mégane de Valladolid no sufre lo mismo que uno de la costa. Adaptamos el mantenimiento a las condiciones reales de aquí, desde el frío a la forma de conducir."
+    },
+    {
+      "title": "Presupuestos que no cambian",
+      "body": "El precio que te damos es el que pagas. Sin letra pequeña ni sorpresas en la factura final. Creemos que la confianza empieza por la honestidad en los números."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un Ford, un Opel, un Kia o un BMW. Tenemos la tecnología y el conocimiento para cuidar de cualquier coche que circule por las calles de Valladolid."
+    },
+    {
+      "title": "Te lo explicamos todo",
+      "body": "No usamos tecnicismos para confundirte. Te explicamos la avería de forma clara y sencilla, para que entiendas qué le pasa a tu coche y por qué hay que repararlo."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Todas nuestras reparaciones y piezas están garantizadas por escrito. Es tu tranquilidad y la prueba de que confiamos plenamente en la calidad de nuestro trabajo."
+    }
+  ],
+  "testimonialsIntro": "No nos creas sin más. Estos son algunos ejemplos de casos reales de conductores de Valladolid que ya confían en nosotros.",
+  "testimonials": [
+    {
+      "name": "David",
+      "neighborhood": "Parquesol",
+      "car": "Renault Scénic dCi 2016",
+      "body": "La llevé para la revisión de los 120.000 km y el cambio de la correa de distribución. Me dieron el presupuesto cerrado por WhatsApp y cumplieron el plazo a rajatabla, que me urgía para un viaje. Muy profesionales y te explican todo. Se agradece un taller así en Valladolid.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "La Victoria",
+      "car": "SEAT Ibiza 1.2 TSI 2014",
+      "body": "El coche no arrancaba bien en frío, sobre todo con las heladas de enero. Pensé que sería una avería gorda. Lo miraron, vieron que era la batería que estaba en las últimas y me la cambiaron en la misma mañana. Rápido, honesto y a un precio razonable. Totalmente recomendable.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Covaresa",
+      "car": "Peugeot 3008 HDI 2018",
+      "body": "Tenía que pasar la ITV en Argales y no estaba seguro por el tema de los humos. Les pedí una revisión pre-ITV y me detectaron un problemilla en el sistema de inyección. Lo solucionaron y pasó la inspección sin un solo fallo. Me ahorraron tiempo y un segundo viaje.",
+      "rating": 5
+    },
+    {
+      "name": "Sara",
+      "neighborhood": "Delicias",
+      "car": "Ford Focus 1.6 2012",
+      "body": "Notaba un ruido raro al frenar. Me lo miraron enseguida y me enseñaron que las pastillas de freno estaban para cambiar. El presupuesto fue claro desde el principio y me lo tuvieron listo para el día siguiente. El trato muy bueno, aunque tardaron un poco en llamarme para recogerlo.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Valladolid y su alfoz. Si vives en barrios como Parquesol, Covaresa, La Rondilla, Delicias o La Victoria, estamos a tu lado. También somos el taller de confianza para muchos conductores que vienen a diario desde municipios cercanos como Laguna de Duero, Arroyo de la Encomienda, Zaratán, Simancas o Cigales. Nuestras instalaciones son de fácil acceso desde las principales vías que rodean la ciudad, como la ronda exterior VA-30, la Autovía de Castilla A-62 o la carretera N-601, permitiéndote dejar o recoger tu coche sin tener que callejear en exceso por el centro.",
+  "zoneNeighborhoods": [
+    "Parquesol",
+    "Covaresa",
+    "La Rondilla",
+    "Delicias",
+    "La Victoria",
+    "Huerta del Rey",
+    "Laguna de Duero",
+    "Arroyo de la Encomienda",
+    "Zaratán",
+    "Simancas"
+  ],
+  "zoneAccessRoutes": [
+    "VA-30 (Ronda Exterior de Valladolid)",
+    "A-62 (Autovía de Castilla)",
+    "N-601 (Carretera de Adanero a Gijón)",
+    "A-11 (Autovía del Duero)",
+    "VA-20 (Ronda Interior de Valladolid)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Necesito cita previa para una revisión en vuestro taller de Valladolid?",
+      "a": "Sí, siempre recomendamos pedir cita previa. Así podemos garantizar que tendremos un elevador y un mecánico disponibles para tu coche en cuanto llegue, evitando esperas innecesarias. Para una urgencia, como un pinchazo o una batería, llámanos e intentaremos hacerte un hueco lo antes posible. Queremos que tu paso por el taller sea lo más rápido y eficiente posible."
+    },
+    {
+      "q": "¿Es necesario montar neumáticos de invierno en Valladolid?",
+      "a": "No es obligatorio, pero sí muy recomendable. Los inviernos en Valladolid son fríos, con heladas frecuentes y alguna nevada ocasional. Los neumáticos de invierno ofrecen un agarre y una seguridad muy superiores por debajo de 7°C. Si usas mucho el coche a primera hora de la mañana o viajas por carreteras secundarias de la provincia, es una inversión en seguridad muy inteligente."
+    },
+    {
+      "q": "Mi coche es un Renault fabricado aquí, ¿tenéis experiencia con esta marca?",
+      "a": "Por supuesto. Siendo Valladolid la cuna de Renault en España, estamos más que acostumbrados a trabajar con toda su gama, desde un Clio hasta un Kadjar o una Trafic. Conocemos sus motorizaciones dCi y TCe a la perfección, sus puntos fuertes y sus averías más comunes. Puedes traer tu Renault con total confianza."
+    },
+    {
+      "q": "Tengo que pasar la ITV en el polígono de Argales, ¿qué incluye vuestra Pre-ITV?",
+      "a": "Nuestra revisión Pre-ITV es un chequeo completo de los mismos puntos que te mirarán en la estación de Argales o en la de San Cristóbal: alumbrado, frenos, suspensión, neumáticos, niveles y, muy importante en Valladolid, la opacidad de los gases en los diésel. Si detectamos cualquier fallo, te damos presupuesto para solucionarlo y que pases la ITV a la primera."
+    },
+    {
+      "q": "El salitre que echan en las carreteras en invierno, ¿puede dañar mi coche?",
+      "a": "Sí, la sal es muy corrosiva para los bajos del coche, el escape, los frenos y partes de la suspensión. Aunque en Valladolid no es tan agresivo como en zonas de montaña, se usa en olas de frío. Recomendamos lavar los bajos del coche con agua a presión de vez en cuando después de una helada para eliminar los restos de sal y prevenir la oxidación prematura."
+    },
+    {
+      "q": "Vivo en Laguna de Duero, ¿ofrecéis coche de cortesía?",
+      "a": "Sí, disponemos de coche de cortesía para intervenciones que requieran inmovilizar tu vehículo durante más de un día, como un cambio de embrague o una reparación de motor. Sabemos que muchos clientes dependéis del coche para venir a trabajar a Valladolid, por eso ofrecemos esta solución. Consulta la disponibilidad al pedir tu cita, ya que es un servicio sujeto a demanda."
+    }
+  ],
+  "closingHeadline": "Deja tu coche en buenas manos en Valladolid",
+  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita para cuidar de tu coche como se merece aquí, en Valladolid."
+}

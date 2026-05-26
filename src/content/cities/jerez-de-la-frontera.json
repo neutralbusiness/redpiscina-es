@@ -1,0 +1,182 @@
+{
+  "slug": "jerez-de-la-frontera",
+  "name": "Jerez de la Frontera",
+  "province": "Cádiz",
+  "ccaa": "Andalucía",
+  "population": 212879,
+  "lat": 36.68645,
+  "lng": -6.13606,
+  "metaTitle": "Taller mecánico en Jerez de la Frontera — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Jerez. Presupuesto cerrado para revisiones, averías y neumáticos. Pide cita y evita sorpresas en la factura. Servicio para todas las marcas.",
+  "heroSubtitle": "Con el calor de Jerez y el tráfico de la A-4, tu coche sufre. Déjalo en manos expertas y conduce tranquilo, sin averías inesperadas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Jerez de la Frontera tiene sus particularidades. No es lo mismo callejear por el centro, cerca del Alcázar, que coger cada día la A-4 para trabajar en Cádiz o Sevilla. Sabemos que tu coche, ya sea un Peugeot 308 para la familia, un SEAT Ibiza para moverte por la ciudad o una furgoneta para tu negocio en el polígono, es una herramienta esencial. El parque móvil jerezano es variado, pero predominan los coches diésel y gasolina de entre 5 y 15 años, vehículos que conocemos a la perfección y que necesitan un mantenimiento específico para aguantar el ritmo y el clima de nuestra tierra.\n\nEl verano en Jerez no es ninguna broma, y tu coche lo sabe. Esos picos de 40 grados ponen a prueba el sistema de refrigeración y el aire acondicionado. Cada año, vemos cómo las baterías fallan de repente por el calor extremo y cómo los manguitos y piezas de plástico se resecan. Y no solo es el calor: el polvo en suspensión de la campiña, sobre todo en época de cosecha, obstruye los filtros de aire y de habitáculo, afectando al rendimiento del motor y a la calidad del aire que respiras dentro. Un mantenimiento preventivo adaptado a estas condiciones no es un lujo, es una necesidad para evitar averías costosas y quedarte tirado en la carretera de Sanlúcar.\n\nEl uso que le das al coche también define su desgaste. Los trayectos cortos y repetidos por la ciudad, con sus innumerables rotondas y semáforos, castigan el embrague, los frenos y el sistema de arranque. Si eres de los que coge la AP-4 a diario, el desgaste se centra en neumáticos, suspensión y motor, que trabaja a altas revoluciones. Lo mismo ocurre con los vehículos de trabajo, como las furgonetas de reparto o las de los profesionales de las bodegas, que acumulan kilómetros y peso, necesitando un control riguroso de la distribución, el aceite y los frenos para ser fiables día tras día.\n\nEn nuestro taller de Jerez, entendemos esta realidad. No aplicamos soluciones genéricas, sino que diagnosticamos tu coche pensando en cómo y dónde lo usas. ¿Vas a pasar la ITV en la estación de Jerez? Hacemos una revisión pre-ITV a conciencia para que vayas sobre seguro. ¿Tu aire acondicionado ha dejado de enfriar justo cuando empieza la feria? Conocemos los puntos débiles de cada marca y modelo. Te ofrecemos un presupuesto cerrado, claro y sin letra pequeña. Queremos ser tu taller de confianza en Jerez, el sitio al que vienes sabiendo que te diremos la verdad y que solo repararemos lo que de verdad es necesario.",
+  "servicesIntro": "Ofrecemos soluciones para todos los problemas de tu coche en Jerez: desde la revisión anual y la pre-ITV hasta la avería más compleja.",
+  "processIntro": "Sabemos que ir al taller genera desconfianza. Por eso nuestro proceso es transparente: te damos un presupuesto cerrado y no movemos un tornillo sin tu OK.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, un mecánico experto lo revisa a fondo. Usamos equipos de diagnosis modernos para identificar el origen del problema, escuchando siempre lo que te preocupa para no dejar nada al azar."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin sorpresas. Verás el coste de las piezas y la mano de obra por separado. Lo que te damos es lo que pagas, ni un euro más."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos nada sin tu permiso explícito. Te explicamos la reparación necesaria y tú decides. Si durante el proceso surgiera algo nuevo e inesperado (algo muy poco común), te llamaríamos de inmediato para informarte."
+    },
+    {
+      "title": "Reparación",
+      "body": "Una vez aprobado el presupuesto, nos ponemos manos a la obra. Usamos recambios de primeras marcas con garantía y seguimos los procedimientos del fabricante para asegurar un trabajo bien hecho y duradero."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche esté listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, contactamos contigo para asegurarnos de que todo funciona perfectamente y estás satisfecho."
+    }
+  ],
+  "commonIssuesIntro": "El sol de justicia en verano, el polvo de la campiña y los atascos para salir a la playa provocan en Jerez averías muy concretas que conocemos a la perfección.",
+  "commonIssues": [
+    {
+      "title": "Fallo del aire acondicionado",
+      "body": "Llegar a julio en Jerez sin aire acondicionado es una pesadilla. El uso intensivo durante meses a más de 35ºC fuerza el compresor y puede provocar fugas de gas. Hacemos diagnósticos precisos para recargar el circuito, reparar fugas o sustituir el compresor, asegurando que vuelvas a conducir fresco."
+    },
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico de Jerez, con sus rotondas y semáforos constantes, especialmente en zonas como la Avenida de Europa o el centro, machaca los embragues y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión para tu seguridad."
+    },
+    {
+      "title": "Sobrecalentamiento del motor",
+      "body": "Un atasco en la A-4 en pleno agosto puede ser fatal para un sistema de refrigeración descuidado. Las altas temperaturas exteriores exigen que el radiador, el termostato y el electroventilador funcionen perfectamente. Revisamos el circuito y el nivel de anticongelante para evitar un calentón que puede destrozar el motor."
+    },
+    {
+      "title": "Baterías que mueren de repente",
+      "body": "El calor extremo es el peor enemigo de las baterías, acortando su vida útil drásticamente. En Jerez es muy común que una batería que funcionaba bien en primavera, falle sin previo aviso en verano. Comprobamos su estado en cada revisión para que no te deje tirado en el parking de la playa."
+    },
+    {
+      "title": "Filtros de aire y polen obstruidos",
+      "body": "El polvo de los campos de la campiña jerezana y la calima ensucian los filtros a una velocidad increíble. Un filtro de aire sucio aumenta el consumo y resta potencia al motor, mientras que un filtro de polen obstruido reduce el flujo del aire acondicionado y empeora la calidad del aire interior."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de Jerez",
+      "body": "Sabemos qué problemas dan los modelos más comunes en la zona, desde un Renault Clio a una furgoneta Berlingo, y cómo afecta nuestro clima a su mecánica. Vamos directos al grano."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Sin extras inesperados ni letra pequeña. Creemos que la confianza se basa en la transparencia total desde el primer momento."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "No te vamos a vender una reparación que no necesitas. Te explicamos claramente cuál es el problema y te damos la solución más adecuada, priorizando siempre tu seguridad y tu bolsillo."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Nuestros mecánicos tienen experiencia y formación para trabajar con cualquier marca y modelo del mercado, aplicando siempre los estándares de calidad del fabricante."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Todas nuestras reparaciones y los recambios que instalamos están garantizados por escrito. Queremos que conduzcas con total tranquilidad después de pasar por nuestro taller."
+    }
+  ],
+  "testimonialsIntro": "Nuestros clientes son de Jerez y sus alrededores. Estas son algunas de las situaciones típicas que resolvemos cada día en nuestro taller.",
+  "testimonials": [
+    {
+      "name": "Manuel",
+      "neighborhood": "La Granja",
+      "car": "SEAT León TDI 2009",
+      "body": "Se me fue el aire acondicionado a finales de junio, justo antes de irnos de vacaciones a la costa. Me dieron cita rápido, encontraron una pequeña fuga y lo solucionaron. Me explicaron todo muy claro y el precio fue el que me dijeron por teléfono. Un alivio, la verdad.",
+      "rating": 5
+    },
+    {
+      "name": "Rocío",
+      "neighborhood": "Centro",
+      "car": "Peugeot 208 2016",
+      "body": "Tenía que pasar la ITV y el coche me daba tirones al salir en primera, un suplicio para callejear por el centro. Lo llevé para la revisión pre-ITV, me ajustaron algo del embrague y pasó a la primera sin problemas. Muy profesionales y el trato muy cercano.",
+      "rating": 5
+    },
+    {
+      "name": "Antonio",
+      "neighborhood": "El Puerto de Santa María",
+      "car": "Citroën Berlingo 2018",
+      "body": "Soy autónomo y la furgoneta es mi oficina. Le tocaba la correa de distribución y no podía permitrme tenerla parada mucho tiempo. Me dieron cita rápido y cumplieron el plazo que me dijeron. Me viene genial porque están cerca de la autovía. Repetiré seguro.",
+      "rating": 5
+    },
+    {
+      "name": "Carmen",
+      "neighborhood": "Montealto",
+      "car": "Renault Clio 2012",
+      "body": "Lo llevé para la revisión anual antes de un viaje largo. El trato fue bueno y el precio correcto. Tardaron un par de horas más de lo que me habían dicho al principio, pero me avisaron por teléfono. Por lo demás, todo bien, el coche va perfecto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda Jerez de la Frontera, desde los barrios históricos como San Miguel y Santiago hasta las zonas más nuevas como Chapín o el entorno de Hipercor. Muchos de nuestros clientes vienen también de municipios cercanos, aprovechando nuestras buenas comunicaciones. Si vives en El Puerto de Santa María, Sanlúcar de Barrameda, Rota o Arcos de la Frontera, llegar a nuestro taller es muy sencillo. Estamos ubicados estratégicamente para que puedas acceder fácilmente desde las principales vías como la AP-4, la A-4 o la A-382, evitando el tráfico del centro de la ciudad.",
+  "zoneNeighborhoods": [
+    "Centro",
+    "San Miguel",
+    "Santiago",
+    "La Granja",
+    "Las Delicias",
+    "Montealto",
+    "Chapín",
+    "Icovesa",
+    "El Puerto de Santa María",
+    "Arcos de la Frontera"
+  ],
+  "zoneAccessRoutes": [
+    "AP-4 (Autopista del Sur)",
+    "A-4 (Autovía del Sur)",
+    "A-381 (Jerez - Los Barrios)",
+    "A-382 (Jerez - Arcos)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la revisión Pre-ITV para la estación de Jerez?",
+      "a": "Sí, por supuesto. Conocemos perfectamente los puntos que más miran en la ITV de Jerez. Hacemos una revisión completa de frenos, luces, emisiones, neumáticos y suspensión para que vayas con la total seguridad de que vas a pasarla a la primera, ahorrándote tiempo y dinero."
+    },
+    {
+      "q": "Mi coche se calienta en los atascos de verano, ¿es grave?",
+      "a": "Puede serlo. Que la aguja de la temperatura suba más de la cuenta en un atasco en Jerez es una señal de que el sistema de refrigeración no está funcionando al 100%. Puede ser algo sencillo como el nivel bajo de anticongelante o algo más serio como un fallo del electroventilador. Te recomendamos traerlo para un diagnóstico y evitar una avería mayor."
+    },
+    {
+      "q": "Tengo que coger la AP-4 a diario, ¿qué debería revisar más a menudo?",
+      "a": "El uso intensivo en autopista como la AP-4 exige un control riguroso de los neumáticos (presión y desgaste), la alineación de la dirección y el estado de los amortiguadores. También es crucial mantener el nivel de aceite correcto y hacer los cambios cuando toca para proteger el motor del esfuerzo continuo."
+    },
+    {
+      "q": "El aire acondicionado no enfría como antes, ¿la reparación es muy cara?",
+      "a": "No tiene por qué serlo. Muchas veces, una pérdida de frío se debe simplemente a que el circuito de gas ha perdido presión con el tiempo y solo necesita una recarga, que es una operación económica. Antes de nada, hacemos un diagnóstico para localizar el problema y te damos un presupuesto cerrado para que decidas."
+    },
+    {
+      "q": "Vivo en El Puerto de Santa María, ¿por qué debería ir a vuestro taller en Jerez?",
+      "a": "Muchos clientes de El Puerto vienen por nuestro servicio especializado y la transparencia en los presupuestos. Nuestro fácil acceso desde la A-4 te permite llegar en pocos minutos sin tener que entrar en el centro de Jerez. Para muchos, la comodidad y la confianza compensan el corto desplazamiento."
+    },
+    {
+      "q": "Tengo una furgoneta para trabajar, ¿tenéis experiencia con vehículos comerciales?",
+      "a": "Totalmente. Sabemos que tu furgoneta es tu herramienta de trabajo y no puede estar parada. Tenemos experiencia en el mantenimiento y reparación de los modelos más comunes en Jerez (Berlingo, Partner, Kangoo, Transit...) y priorizamos estas reparaciones para que puedas volver a la faena cuanto antes."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Jerez",
+  "closingCta": "No dejes que una avería te arruine el día. Pide tu presupuesto cerrado por teléfono, WhatsApp o rellenando el formulario. Te atenderemos encantados desde nuestro taller en Jerez de la Frontera."
+}

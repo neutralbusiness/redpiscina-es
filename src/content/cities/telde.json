@@ -1,0 +1,182 @@
+{
+  "slug": "telde",
+  "name": "Telde",
+  "province": "Las Palmas",
+  "ccaa": "Canarias",
+  "population": 123265,
+  "lat": 27.99243,
+  "lng": -15.41915,
+  "metaTitle": "Taller mecánico en Telde — Multimarca y de confianza",
+  "metaDescription": "Tu taller en Telde para revisiones, averías y neumáticos. Presupuesto cerrado y para todas las marcas. Cuidamos tu coche del salitre y la calima. Pide cita.",
+  "heroSubtitle": "El salitre, la calima y los kilómetros por la GC-1 desgastan tu coche. En nuestro taller de Telde lo sabemos y tenemos la solución.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives o trabajas en Telde, sabes que conducir aquí tiene sus particularidades. No es lo mismo mover el coche solo los fines de semana por la costa, entre Melenara y Salinetas, que hacer cada día el trayecto de ida y vuelta a Las Palmas por la GC-1. El tráfico denso a primera hora, las retenciones y el ritmo constante de la autopista exigen mucho a tu embrague, frenos y motor. Quizás uses tu furgoneta para repartir por el Polígono de El Goro o te muevas por el centro, entre San Gregorio y San Juan. Cada uso y cada zona de Telde implica un desgaste diferente para tu vehículo.\n\nEl clima de nuestra isla es una maravilla, pero para la mecánica de un coche es un desafío constante. La proximidad al mar en barrios como La Garita o Tufia significa que el salitre está siempre presente en el aire. Esta brisa marina, aunque agradable, es corrosiva para la chapa, los bajos del coche y componentes metálicos como los discos de freno. Por otro lado, tenemos la calima. Ese polvo sahariano tan característico no solo ensucia el coche por fuera; se cuela en el filtro del aire, ahogando al motor y aumentando el consumo, y satura el filtro del habitáculo, afectando al rendimiento del aire acondicionado justo cuando más lo necesitas.\n\nEn nuestro taller de Telde entendemos perfectamente esta realidad. Conocemos el parque móvil de la zona: desde el SEAT Ibiza o Renault Clio que se usa para ir a la universidad o al trabajo, hasta el Volkswagen Caddy o Peugeot Partner del autónomo, pasando por el Toyota o Hyundai familiar para llevar a los niños al colegio. Sabemos que la mayoría son coches de gasolina o diésel con unos cuantos años y kilómetros, vehículos que necesitan un mantenimiento preventivo y honesto para seguir siendo fiables en la subida a Valsequillo por la GC-41 o en un viaje al sur por la autopista.\n\nPor eso, nuestro enfoque no es tratar tu coche como uno más. Es entender cómo lo usas y dónde vives. Analizamos si el desgaste de tus neumáticos es coherente con las rotondas de la circunvalación (GC-10), si tus frenos sufren por el tráfico urbano o si tu sistema de refrigeración está preparado para un verano teldense. No te hablamos con tecnicismos incomprensibles, te explicamos qué le pasa a tu coche y por qué, dándote un presupuesto cerrado para que no haya sorpresas. Queremos ser tu taller de confianza en Telde, el sitio al que vienes sabiendo que cuidaremos de tu coche como si fuera nuestro.",
+  "servicesIntro": "Desde la revisión oficial para tu coche hasta averías complejas, cubrimos todas las necesidades de tu vehículo aquí en Telde.",
+  "processIntro": "Trabajamos con total transparencia. Recibes un diagnóstico claro y un presupuesto cerrado. No hacemos nada sin tu aprobación previa.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche a nuestro taller en Telde, escuchamos qué te preocupa y nuestros técnicos realizan una inspección completa para identificar el origen del problema con equipos de última generación."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Verás claramente el coste de las piezas y la mano de obra, sin sorpresas ni letra pequeña. Es un precio final, garantizado."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisas el presupuesto tranquilamente y nos das tu visto bueno. Nunca, bajo ningún concepto, empezamos una reparación o cambiamos una pieza sin que tú nos hayas dado luz verde primero."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado sobre el progreso y los plazos de la reparación de tu coche."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, contactamos contigo para asegurarnos de que todo funciona a la perfección."
+    }
+  ],
+  "commonIssuesIntro": "La combinación de salitre de la costa, calima del Sahara y el tráfico de la GC-1 provoca problemas muy concretos que vemos a diario en nuestro taller de Telde.",
+  "commonIssues": [
+    {
+      "title": "Filtros de aire y habitáculo saturados",
+      "body": "La calima es el enemigo número uno de los filtros en Gran Canaria. Un filtro de aire sucio reduce la potencia y aumenta el consumo de combustible. El del habitáculo, si está obstruido, fuerza el sistema de aire acondicionado y empeora la calidad del aire que respiras. En Telde recomendamos revisarlos con más frecuencia de lo habitual."
+    },
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico denso en la GC-1 para ir a Las Palmas, callejear por San Gregorio o las constantes rotondas de la circunvalación de Telde castigan mucho el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión para evitar averías mayores."
+    },
+    {
+      "title": "Problemas con el aire acondicionado",
+      "body": "En Telde usamos el aire acondicionado casi todo el año. El calor y la calima fuerzan el compresor y pueden obstruir el circuito. Si no enfría como antes o huele mal, probablemente necesite una recarga de gas y una limpieza de conductos para funcionar eficientemente y sin bacterias."
+    },
+    {
+      "title": "Corrosión en bajos y sistema de frenos",
+      "body": "Si vives cerca de la costa, en zonas como Melenara o La Garita, la brisa marina acelera la oxidación. Esta corrosión afecta a los bajos del coche, las líneas de escape y, peligrosamente, a los componentes de los frenos como pinzas y latiguillos. Una inspección a tiempo previene problemas de seguridad."
+    },
+    {
+      "title": "Deterioro de plásticos y gomas exteriores",
+      "body": "El sol intenso que tenemos en Canarias durante todo el año es muy agresivo con las partes de plástico y goma del coche. Escobillas del limpiaparabrisas que se resecan, molduras que pierden color y neumáticos que se cuartean son problemas comunes. Un buen mantenimiento alarga su vida útil y mejora la seguridad."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de Telde",
+      "body": "Sabemos cómo afectan la calima, el salitre y las carreteras locales a tu vehículo. Nuestro diagnóstico es más preciso porque entendemos el entorno en el que te mueves cada día."
+    },
+    {
+      "title": "Presupuestos sin sorpresas",
+      "body": "Te damos un precio cerrado y detallado antes de empezar. Lo que apruebas es lo que pagas. Sin extras inesperados ni letra pequeña al final de la factura."
+    },
+    {
+      "title": "Para todas las marcas y modelos",
+      "body": "Da igual si conduces un utilitario, un SUV, un diésel con años o una furgoneta de trabajo. Tenemos la tecnología y el conocimiento para cuidar de cualquier vehículo que circule por Telde."
+    },
+    {
+      "title": "Tú tienes el control",
+      "body": "No tocamos un solo tornillo sin tu autorización explícita. Te explicamos las opciones y tú decides qué hacer, sin presión y con toda la información sobre la mesa."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Todas nuestras reparaciones y las piezas que utilizamos están garantizadas por escrito. Tu tranquilidad es nuestra prioridad. Queremos que vuelvas porque confías en nuestro trabajo."
+    }
+  ],
+  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que resolvemos cada día en nuestro taller de Telde.",
+  "testimonials": [
+    {
+      "name": "Yeray",
+      "neighborhood": "El Calero",
+      "car": "Renault Clio 2017",
+      "body": "Hago todos los días el trayecto a Las Palmas por la GC-1 y notaba un ruido raro al frenar. Pensé que sería una pasta. Aquí me explicaron que solo eran las pastillas traseras. Me mandaron el presupuesto al móvil, di el OK y por la tarde ya lo tenía. Muy transparentes, la verdad.",
+      "rating": 5
+    },
+    {
+      "name": "Gara",
+      "neighborhood": "La Garita",
+      "car": "Nissan Qashqai 2015",
+      "body": "El aire acondicionado dejó de enfriar en pleno julio. Con los niños y el calor era imposible. Me lo solucionaron súper rápido, era una fuga pequeña en el circuito. Me enseñaron la pieza y me explicaron por qué se había picado, seguramente por el salitre de vivir al lado de la playa.",
+      "rating": 5
+    },
+    {
+      "name": "Domingo",
+      "neighborhood": "San Gregorio",
+      "car": "Citroën Berlingo 2018",
+      "body": "Uso la furgoneta para trabajar por todo Telde y no puedo permitirme tenerla parada. Me tocaba la revisión gorda, con cambio de correa de distribución. Me dieron cita enseguida y cumplieron el plazo que me dijeron. Un servicio profesional, que es lo que buscamos los autónomos.",
+      "rating": 5
+    },
+    {
+      "name": "Fátima",
+      "neighborhood": "Jinámar",
+      "car": "Opel Corsa 2014",
+      "body": "Tenía que pasar la ITV y el coche echaba mucho humo. Estaba preocupada por si no la pasaba. Les pedí una revisión pre-ITV y me ajustaron un par de cosas del motor y los filtros. Pasé la inspección sin un solo fallo. Me ahorraron tiempo y un segundo viaje a la estación.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Telde da servicio a todos los barrios y zonas del municipio. Tanto si vives en el casco, en San Juan o San Gregorio, como si resides en la costa, en barrios como La Garita, Melenara o Salinetas, estamos a tu disposición. Cubrimos también las zonas de expansión como El Calero o Lomo Cementerio y damos soporte a los profesionales del Polígono Industrial de El Goro. Gracias a nuestra ubicación estratégica y el fácil acceso desde la GC-1 y la circunvalación GC-10, también somos el taller de confianza para muchos conductores de municipios cercanos como Ingenio, Valsequillo o la zona sur de Las Palmas de Gran Canaria.",
+  "zoneNeighborhoods": [
+    "San Gregorio",
+    "San Juan",
+    "El Calero",
+    "La Garita",
+    "Melenara",
+    "Salinetas",
+    "Jinámar",
+    "El Goro",
+    "Lomo Cementerio",
+    "Casas Nuevas"
+  ],
+  "zoneAccessRoutes": [
+    "GC-1 (Autopista del Sur)",
+    "GC-10 (Circunvalación de Telde)",
+    "GC-41 (Carretera de Telde a Valsequillo)",
+    "GC-100 (Carretera de la Costa)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Cómo afecta la calima de Telde a mi coche y qué debo hacer?",
+      "a": "La calima obstruye el filtro de aire del motor, lo que le hace perder potencia y gastar más combustible. También satura el filtro del habitáculo, afectando al aire acondicionado. Recomendamos revisar y cambiar los filtros con más frecuencia de lo que indica el fabricante. Además, es aconsejable lavar el coche después de un episodio fuerte para proteger la pintura."
+    },
+    {
+      "q": "Vivo en la costa de Telde, ¿necesita mi coche un cuidado especial contra el salitre?",
+      "a": "Sí, sin duda. El ambiente salino de zonas como La Garita o Melenara acelera la corrosión de los bajos, el sistema de escape y los componentes de los frenos. Es muy recomendable lavar los bajos del coche con agua a presión de vez en cuando y realizar inspecciones visuales periódicas en el taller para detectar y tratar el óxido a tiempo."
+    },
+    {
+      "q": "Paso la ITV en la estación de Telde, ¿vuestra revisión Pre-ITV es completa?",
+      "a": "Sí. Nuestra Pre-ITV es un chequeo exhaustivo de los mismos puntos que miran en la inspección oficial de Telde: luces, frenos, suspensión, neumáticos, emisiones de gases, etc. El objetivo es que vayas sobre seguro y la pases a la primera, ahorrándote tiempo y el coste de una segunda inspección."
+    },
+    {
+      "q": "Hago muchos kilómetros por la GC-1, ¿qué mantenimiento es más importante?",
+      "a": "Si usas la GC-1 a diario, el desgaste principal se centra en neumáticos, frenos y embrague (por las retenciones). Es crucial revisar la presión y el estado de los neumáticos regularmente. También recomendamos no apurar los cambios de aceite, ya que el motor funciona a altas revoluciones de forma sostenida. Una revisión de frenos anual es fundamental por seguridad."
+    },
+    {
+      "q": "¿Tenéis experiencia con furgonetas y vehículos de autónomos?",
+      "a": "Por supuesto. Sabemos que para un profesional en Telde, la furgoneta es su herramienta de trabajo y no puede estar parada. Priorizamos la rapidez en el diagnóstico y la reparación, y entendemos el desgaste específico que sufren estos vehículos por la carga y el uso intensivo en zonas como el Polígono El Goro o el reparto urbano."
+    },
+    {
+      "q": "¿Puedo llevar mi coche para la revisión aunque esté en garantía oficial?",
+      "a": "Sí. Gracias a la normativa europea, puedes realizar la revisión oficial de tu coche en un taller multimarca como el nuestro sin perder la garantía del fabricante. Sellamos el libro de mantenimiento y utilizamos siempre piezas y lubricantes que cumplen las especificaciones de tu marca. Es la misma calidad, pero con un trato más cercano y personal."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Telde",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita en nuestro taller de Telde para revisar tu coche."
+}

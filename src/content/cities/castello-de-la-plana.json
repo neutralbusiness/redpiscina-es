@@ -1,0 +1,183 @@
+{
+  "slug": "castello-de-la-plana",
+  "name": "Castelló de la Plana",
+  "province": "Castellón",
+  "ccaa": "Comunidad Valenciana",
+  "population": 171857,
+  "lat": 39.98567,
+  "lng": -0.04935,
+  "metaTitle": "Taller mecánico en Castelló de la Plana — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Castelló. Presupuesto cerrado para revisiones, averías, neumáticos e ITV en todas las marcas. Pide tu cita ahora.",
+  "heroSubtitle": "Para ti, que usas el coche cada día por la Ronda Este o la CV-10 y no quieres sorpresas ni averías tontas en el peor momento.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Castelló tiene sus particularidades. Lo sabemos porque también las vivimos. Cogemos el coche para ir a trabajar a Vila-real por la CV-10, para llevar a los niños al colegio en la zona de Lledó, para hacer la compra o para bajar al Grao el fin de semana. Entendemos perfectamente lo que significa depender de un coche que arranque a la primera, que el aire acondicionado enfríe de verdad en julio y que los frenos respondan al instante en una de las mil rotondas de la ciudad. No eres un número más; eres un vecino de Castelló que necesita su Renault Mégane, su SEAT León o su furgoneta del trabajo a punto, sin excusas ni facturas infladas.\n\nEl clima de la Plana no perdona. El sol intenso de verano castiga la pintura y los plásticos interiores, pero sobre todo pone a prueba el sistema de climatización. Y qué decir del salitre. Si vives o trabajas cerca del Grao, sabes que la humedad y la salinidad del aire se comen poco a poco los bajos del coche, el escape y los conductos de freno. No es una exageración, es una realidad que vemos cada día en el elevador. Por eso, nuestras revisiones van más allá de un simple cambio de aceite; buscamos esos puntos débiles que el clima mediterráneo ataca sin piedad, para que una pequeña corrosión no se convierta en una avería seria y cara.\n\nConocemos el parque móvil de Castelló. No es el de una gran capital, es el de una ciudad trabajadora. Vemos a diario los Peugeot 308, los Ford Focus y los Opel Astra que circulan por la N-340. También las Citroën Berlingo y las Peugeot Partner de autónomos y pequeñas empresas del sector cerámico o de la construcción, vehículos que necesitan estar siempre en marcha. Sabemos cuáles son los fallos endémicos del motor diésel que hace muchos trayectos cortos por la ciudad, los puntos débiles de la suspensión que sufre en los polígonos o los problemas eléctricos más comunes en los modelos de entre 5 y 15 años que forman el grueso de nuestro trabajo.\n\nNuestro enfoque es sencillo: mecánica honesta y adaptada a la realidad de Castelló. No te vamos a recomendar un cambio de piezas que no necesitas ni a usar un lenguaje técnico que no entiendas. Te explicaremos qué le pasa a tu coche, por qué le pasa (seguramente por una mezcla del tráfico de la Ronda de la Magdalena y el calor del verano) y te daremos un presupuesto cerrado para solucionarlo. Queremos ser tu taller de confianza en Castelló, el sitio al que vienes tranquilo porque sabes que cuidaremos de tu coche como si fuera nuestro.",
+  "servicesIntro": "Cubrimos todo lo que tu coche necesita para moverse con seguridad por Castelló y alrededores, desde la revisión anual hasta esa avería inesperada.",
+  "processIntro": "Trabajamos con total transparencia para que sepas qué le pasa a tu coche, cuánto cuesta y decidas tú. Sin sorpresas en la factura final.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que te preocupa y conectamos nuestros equipos de diagnosis para identificar el origen exacto del problema. No dejamos nada al azar, revisamos el coche a fondo para entender la causa real."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos por WhatsApp o email un presupuesto detallado y en euros, sin letra pequeña. Incluye piezas, mano de obra e IVA. El precio que ves es el precio que pagas, ni un céntimo más."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu aprobación explícita. Tienes el control total. Si decides no reparar, solo se factura el tiempo de diagnóstico si procede."
+    },
+    {
+      "title": "Reparación",
+      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos se ponen manos a la obra para tener tu coche listo en el plazo acordado, informándote si surge cualquier imprevisto."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El calor, la humedad del mar y el tráfico diario en Castelló provocan una serie de averías muy características que vemos y solucionamos cada día en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Fallos en el aire acondicionado",
+      "body": "De junio a septiembre, el climatizador de un coche en Castelló trabaja a pleno rendimiento. El calor extremo y la humedad provocan fugas en el circuito, fallos del compresor y filtros que se saturan. Hacemos una diagnosis completa del sistema, localizamos fugas con nitrógeno y recargamos el gas para que vuelvas a pasar un verano fresco al volante."
+    },
+    {
+      "title": "Filtros de partículas (DPF) obstruidos",
+      "body": "Muchos diésel en Castelló hacen trayectos cortos: del barrio de Sensal al centro, o a la UJI. Este uso urbano impide que el filtro de partículas se regenere correctamente, provocando pérdida de potencia y averías caras. Realizamos limpiezas químicas y regeneraciones forzadas para devolverle la vida y evitar su sustitución."
+    },
+    {
+      "title": "Corrosión en bajos y sistema de escape",
+      "body": "El salitre del Grao es implacable. Acelera la oxidación de los componentes metálicos expuestos, como el escape, los silenblocks y los conductos de freno. En nuestras revisiones prestamos especial atención a estos puntos críticos, sobre todo si aparcas habitualmente cerca de la playa, para garantizar tu seguridad y evitarte sustos en la ITV."
+    },
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico de Castelló, con sus incontables rotondas y semáforos en arterias como la Ronda Mijares o la Avenida de Valencia, castiga el sistema de embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Cambiamos kits de embrague y sistemas de frenado para que conduzcas con total seguridad."
+    },
+    {
+      "title": "Problemas de suspensión y neumáticos",
+      "body": "Entre los badenes de las zonas residenciales y el asfalto a veces irregular de los polígonos industriales como el del Serrallo, la suspensión sufre. Un amortiguador en mal estado no solo es incómodo, sino que alarga la frenada y desgasta mal los neumáticos. Revisamos y sustituimos amortiguadores, silentblocks y rótulas para que tu coche pise firme."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "Te damos un precio cerrado por escrito. Lo que apruebas es lo que pagas. Si durante la reparación vemos algo más, te llamamos, te lo explicamos y tú decides. La honestidad es nuestra principal herramienta."
+    },
+    {
+      "title": "Especialistas en tu coche",
+      "body": "Conocemos perfectamente los coches que se conducen en Castelló, desde un SEAT Ibiza a una furgoneta de trabajo. Sabemos sus puntos débiles y cómo solucionarlos de forma eficaz, sin perder el tiempo."
+    },
+    {
+      "title": "Comunicación clara y directa",
+      "body": "Olvídate de tecnicismos. Te explicamos las cosas para que las entiendas, por teléfono o WhatsApp. Te enviamos fotos o vídeos si es necesario. Queremos que confíes en nosotros."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Todas nuestras intervenciones y los recambios que instalamos están cubiertos por la garantía legal. Puedes estar tranquilo, tu coche está en buenas manos y respondemos por nuestro trabajo."
+    },
+    {
+      "title": "Nos adaptamos a ti",
+      "body": "Sabemos que necesitas el coche. Intentamos darte cita lo antes posible y cumplimos los plazos. Si la reparación se alarga, consulta la disponibilidad de nuestro coche de cortesía para que no te quedes parado."
+    }
+  ],
+  "testimonialsIntro": "No nos creas sin más. Aquí tienes algunos ejemplos de situaciones reales de conductores de Castelló que ya han confiado en nosotros.",
+  "testimonials": [
+    {
+      "name": "José Manuel",
+      "neighborhood": "Grao de Castelló",
+      "car": "Renault Scénic 1.5 dCi 2015",
+      "body": "Vivimos en el Grao y la humedad nos estaba destrozando los bajos del coche. En la pre-ITV me detectaron corrosión en el escape y un conducto de freno. Me lo explicaron todo con fotos, me dieron un presupuesto muy razonable y en dos días lo tenía listo. Pasé la ITV sin problemas. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Carla",
+      "neighborhood": "Zona UJI",
+      "car": "SEAT Ibiza 1.0 TSI 2018",
+      "body": "El aire acondicionado dejó de enfriar justo a principios de verano. Con el calor que hace aquí, era imposible ir en el coche. Me dieron cita rápido, encontraron una pequeña fuga en una tubería y lo solucionaron en el mismo día. El precio, el que me dijeron al principio. Un alivio.",
+      "rating": 5
+    },
+    {
+      "name": "Marc",
+      "neighborhood": "Almassora",
+      "car": "Peugeot Partner Tepee 2016",
+      "body": "Uso la furgoneta para trabajar y me saltó el aviso de 'riesgo de obstrucción FAP'. Hago mucho reparto por Castelló y Vila-real. Me hicieron una limpieza del filtro y me explicaron cómo conducir para evitar que volviera a pasar. Me ahorraron una pasta al no tener que cambiarlo. Muy agradecido.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Sensal",
+      "car": "Ford Focus 1.6 2014",
+      "body": "Notaba un ruido raro en la rueda delantera al girar en las rotondas. Pensaba que sería algo grave. Resultó ser una rótula de la suspensión. Me cambiaron las dos del eje delantero por seguridad y el coche va como la seda. El trato fue muy bueno, aunque tardaron un poco más de lo previsto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Castelló de la Plana, desde los barrios del centro hasta el distrito marítimo del Grao, pasando por zonas como Rafalafena, Lledó o el área de la UJI. Nuestra ubicación nos permite un acceso rápido y cómodo para clientes que vienen de municipios cercanos, ya que estamos conectados con las principales vías.\n\nSi vives o trabajas en localidades colindantes como Almassora, Vila-real, Benicàssim o Borriol, llegar a nuestro taller es muy sencillo. Muchos de nuestros clientes aprovechan su trayecto diario por la CV-10 (Autovía de la Plana), la N-340 o la CS-22 para dejar su vehículo a primera hora y recogerlo al volver del trabajo. Olvídate de callejear por el centro, estamos en una zona accesible para que cuidar de tu coche sea fácil y no una pérdida de tiempo.",
+  "zoneNeighborhoods": [
+    "Castelló de la Plana",
+    "Grao de Castelló",
+    "Almassora",
+    "Vila-real",
+    "Benicàssim",
+    "Borriol",
+    "Sensal",
+    "Rafalafena",
+    "Lledó",
+    "Peri 18"
+  ],
+  "zoneAccessRoutes": [
+    "CV-10 (Autovía de la Plana)",
+    "N-340",
+    "AP-7",
+    "CS-22 (Acceso al Puerto)",
+    "CV-18 (Carretera de Almassora)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la revisión pre-ITV para la estación de Castelló?",
+      "a": "Sí, por supuesto. Conocemos perfectamente los puntos que más miran en la estación de ITV de Castelló. Hacemos una revisión exhaustiva de frenos, luces, neumáticos, emisiones y posibles holguras para que vayas con la total tranquilidad de que vas a pasarla a la primera. Si detectamos algo, te damos presupuesto para solucionarlo antes de que vayas."
+    },
+    {
+      "q": "Vivo en el Grao, ¿debería hacer algún mantenimiento especial por el salitre?",
+      "a": "Es una muy buena pregunta. La salinidad acelera la corrosión. Te recomendamos, al menos una vez al año, hacer una inspección visual de los bajos en un elevador. En nuestro taller, durante la revisión anual, prestamos especial atención al estado del sistema de escape, los conductos de freno y la cuna del motor, que son las zonas más expuestas. Así prevenimos averías graves."
+    },
+    {
+      "q": "El aire acondicionado de mi coche no enfría lo suficiente para el verano de aquí, ¿es una recarga y ya está?",
+      "a": "No siempre. Una pérdida de rendimiento suele indicar una fuga en el circuito. Antes de recargar sin más, comprobamos la estanqueidad del sistema con nitrógeno. Así nos aseguramos de que la reparación sea duradera y no tengas que volver en unas semanas. En Castelló, un A/C que funcione bien no es un lujo, es una necesidad."
+    },
+    {
+      "q": "Tengo un diésel y hago muchos trayectos cortos por la ciudad. ¿Qué puedo hacer?",
+      "a": "Es un problema muy común en Castelló. Para evitar la saturación del filtro de partículas (DPF), te recomendamos que al menos una vez por semana salgas a carretera, por ejemplo por la CV-10, y conduzcas durante unos 15-20 minutos a un régimen de unas 2.500 rpm. Esto ayuda a que el filtro se regenere. Si ya tienes problemas, podemos hacer una limpieza profesional en el taller."
+    },
+    {
+      "q": "¿Trabajáis con furgonetas de autónomos?",
+      "a": "Claro que sí. Sabemos que tu furgoneta es tu herramienta de trabajo y no puede estar parada. Damos prioridad a los vehículos profesionales para que la tengas de vuelta lo antes posible. Hacemos mantenimientos, embragues, distribuciones y cualquier avería en las furgonetas más habituales de la zona (Partner, Berlingo, Kangoo, Transit...)."
+    },
+    {
+      "q": "Voy a comprar un coche de segunda mano en Castelló, ¿podéis revisarlo antes?",
+      "a": "Sí, ofrecemos un servicio de revisión pre-compra. Es una inversión muy pequeña que te puede ahorrar mucho dinero y disgustos. Lo subimos al elevador, conectamos la diagnosis y revisamos más de 50 puntos clave del vehículo para darte un informe completo de su estado real. Así compras con total confianza."
+    }
+  ],
+  "closingHeadline": "Tu coche a punto en Castelló",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita en nuestro taller de Castelló. Estamos para ayudarte."
+}

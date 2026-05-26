@@ -1,0 +1,192 @@
+{
+  "slug": "alcala-de-henares",
+  "name": "Alcalá de Henares",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 193751,
+  "lat": 40.48205,
+  "lng": -3.35996,
+  "metaTitle": "Taller mecánico en Alcalá de Henares — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Alcalá de Henares. Presupuesto cerrado para revisiones, mecánica y neumáticos. Pide cita y olvídate de problemas.",
+  "heroSubtitle": "Para ti, que cada día coges la A-2 o callejeas por Alcalá. Mantenemos tu coche a punto para que nada te pare.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si conduces por Alcalá de Henares, sabes lo que significa depender del coche. Ya sea para el trayecto diario a Madrid por una A-2 que nunca descansa, para moverte entre el polígono de La Garena y el centro, o para llevar a los niños al colegio en El Ensanche, tu vehículo es una pieza clave. Entendemos perfectamente que un coche parado es un problema serio. Por eso, nuestro taller en Alcalá está pensado para darte soluciones reales, adaptadas a las condiciones de conducción del Corredor del Henares, donde el asfalto quema en verano y las heladas sorprenden en invierno.\n\nEl clima continental de Alcalá no da tregua. Los veranos secos y por encima de los 35 grados ponen a prueba el sistema de refrigeración y el aire acondicionado de cualquier coche, especialmente en los atascos para entrar o salir de la ciudad. En invierno, las mañanas bajo cero en barrios como Espartales o El Val son la causa principal de que muchas baterías digan basta sin previo aviso. Este contraste térmico acelera el desgaste de componentes y fluidos, algo que tenemos muy presente en cada revisión. No es lo mismo un coche que duerme en garaje en el Casco Histórico que uno que pasa la noche a la intemperie en Chorrillo.\n\nConocemos el parque móvil de la zona. Sabemos que por nuestras calles circulan muchísimos SEAT León, Renault Mégane, Peugeot 308 y Volkswagen Golf, coches de batalla para ir y volver del trabajo. También vemos a diario las furgonetas de autónomos y pymes que se mueven por los polígonos industriales como Azque o Camporroso. Sea un diésel con cientos de miles de kilómetros hechos en la A-2 o un gasolina que apenas sale del núcleo urbano, cada motor tiene unas necesidades específicas. Nuestro diagnóstico no es genérico; tiene en cuenta si tu rutina es cruzar la Vía Complutense en hora punta o hacer kilómetros por la R-2.\n\nPor eso, nuestro enfoque es local y práctico. Cuando traes tu coche, no solo vemos un modelo y un año; vemos un vehículo que sufre el tráfico de la rotonda de la Cruz Verde, que sube y baja las cuestas de Reyes Católicos y que necesita estar listo para pasar la ITV en el centro de la carretera de Daganzo. Desde una simple recarga del aire acondicionado antes de que llegue julio hasta un cambio de kit de distribución para ese coche que ya tiene sus años pero te sigue llevando a Torrejón de Ardoz cada día. Estamos aquí para que confíes en tu coche, vivas en Alcalá o en Meco, Camarma de Esteruelas o Villalbilla.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu coche necesita para circular con seguridad por Alcalá de Henares y las carreteras de Madrid.",
+  "processIntro": "Trabajamos con total transparencia. Te explicamos todo claro y te damos un presupuesto cerrado para que no haya sorpresas.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos qué le pasa a tu coche y lo revisamos a fondo. Usamos equipos de diagnosis multimarca para identificar el problema real, tanto si es un ruido extraño como un testigo encendido en el cuadro."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas, sin extras inesperados ni letra pequeña. Así de simple."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No movemos una sola tuerca sin tu confirmación explícita. Revisa el presupuesto con calma y, si estás de acuerdo, danos el visto bueno. Si decides no reparar, no hay ningún compromiso."
+    },
+    {
+      "title": "Reparación",
+      "body": "Nuestros mecánicos se ponen manos a la obra utilizando piezas de primeras marcas o equivalentes. Todas nuestras reparaciones y piezas cuentan con garantía. Te mantenemos informado de los plazos en todo momento."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche esté listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho."
+    }
+  ],
+  "commonIssuesIntro": "El calor extremo, las heladas y los atascos diarios en la A-2 provocan averías muy características en los coches de Alcalá. Estas son las que más vemos.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico denso en la Vía Complutense y los atascos diarios en la A-2 para ir a Madrid castigan el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Nos aseguramos de que respondan perfectamente en el tráfico de Alcalá."
+    },
+    {
+      "title": "Aire acondicionado que no enfría",
+      "body": "Llegar a julio en Alcalá con un aire acondicionado que solo echa aire caliente es una pesadilla. El calor extremo del Corredor del Henares fuerza el sistema. Hacemos recargas, detectamos fugas y reparamos el compresor para que puedas sobrevivir a los 40 grados del verano."
+    },
+    {
+      "title": "Fallo de batería por el frío",
+      "body": "Las mañanas de invierno en Alcalá, con heladas frecuentes, son la prueba de fuego para las baterías. Si tu coche tiene más de 4 años y duerme en la calle, es probable que un día no arranque. Comprobamos el estado de tu batería y el alternador para evitarte ese mal trago."
+    },
+    {
+      "title": "Problemas en motores diésel por trayectos cortos",
+      "body": "Muchos coches diésel en Alcalá se usan para trayectos urbanos cortos, lo que provoca acumulación de carbonilla y fallos en el filtro de partículas (FAP) o la válvula EGR. Realizamos descarbonizaciones y regeneraciones forzadas para que el motor respire y pase la ITV sin problemas de humos."
+    },
+    {
+      "title": "Ruidos en suspensión y desgaste de neumáticos",
+      "body": "Entre los badenes de barrios como El Ensanche o Espartales y el asfalto a veces irregular de algunas calles, los amortiguadores, silentblocks y rótulas sufren. Un ruido al pasar por un bache es el primer síntoma. Revisamos todo el tren de rodaje para garantizar tu seguridad y confort."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "Te damos un precio cerrado y claro desde el principio. Lo que apruebas es lo que pagas. Se acabaron las facturas infladas y las sorpresas de última hora."
+    },
+    {
+      "title": "Conocemos tu coche y tu ciudad",
+      "body": "Sabemos cómo afecta a tu coche el clima y el tráfico de Alcalá de Henares. No aplicamos soluciones genéricas, sino un mantenimiento adaptado a las condiciones locales."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un Ford, un BMW, un Dacia o un Hyundai. Tenemos la experiencia y el equipo de diagnosis para trabajar con la gran mayoría de coches del parque móvil español."
+    },
+    {
+      "title": "Transparencia total",
+      "body": "Te explicamos la avería de forma que la entiendas, sin tecnicismos innecesarios. Si quieres, te enseñamos las piezas viejas. Queremos que confíes en nosotros a largo plazo."
+    },
+    {
+      "title": "Pasamos la Pre-ITV por ti",
+      "body": "Revisamos los puntos clave y, si quieres, llevamos tu coche a la ITV de Alcalá. Te ahorramos el tiempo y la incertidumbre de no saber si la pasarás a la primera."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Estas son algunas opiniones que reflejan el tipo de servicio que nos esforzamos por dar cada día.",
+  "testimonials": [
+    {
+      "name": "Javier",
+      "neighborhood": "La Garena",
+      "car": "Volkswagen Golf TDI 2016",
+      "body": "Hago todos los días Alcalá-Madrid por la A-2 y no puedo permitirme fallos. Les traje el coche para la revisión de los 120.000 km. Me dieron el presupuesto al momento, cumplieron el plazo y el coche va finísimo. Muy profesionales, saben lo que es depender del coche para trabajar.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Reyes Católicos",
+      "car": "Peugeot 208 2014",
+      "body": "Mi coche empezó a hacer un ruido metálico horrible. Estaba preocupada por si era una avería muy cara. Aquí me explicaron que era una rótula de la suspensión. Me enseñaron la pieza dañada y el presupuesto fue muy razonable. Ahora va perfecto y sin ruidos. Un alivio.",
+      "rating": 5
+    },
+    {
+      "name": "David",
+      "neighborhood": "El Val",
+      "car": "Citroën Berlingo 2018",
+      "body": "Soy autónomo y la furgoneta es mi oficina. Se me encendió el testigo de fallo motor. Los llamé, me dieron cita para esa misma tarde y al día siguiente ya estaba reparada. Era un problema con la válvula EGR por tanto callejeo. Eficaces y entienden que tu tiempo es oro.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "El Ensanche",
+      "car": "SEAT Ateca 2019",
+      "body": "Llevé el coche para la revisión anual y para que le echaran un ojo antes de la ITV. Lo revisaron todo, me cambiaron aceite y filtros y me dijeron que los neumáticos traseros estaban al límite. Me dieron varias opciones de ruedas sin compromiso. Buen trato y honestos.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda Alcalá de Henares y sus alrededores. Tanto si vives en el centro histórico como en los barrios más nuevos como Espartales Norte o La Garena, estamos a tu disposición. Nuestra ubicación nos permite un acceso rápido y cómodo para clientes de toda la ciudad, desde El Val y el Chorrillo hasta el Ensanche y Reyes Católicos. Además, muchos de nuestros clientes vienen de municipios cercanos del Corredor del Henares como Meco, Camarma de Esteruelas, Villalbilla, Daganzo de Arriba e incluso Torrejón de Ardoz, aprovechando la buena comunicación por la A-2 y la M-300. Si buscas un taller de confianza en la zona, aquí nos tienes.",
+  "zoneNeighborhoods": [
+    "La Garena",
+    "El Ensanche",
+    "Espartales",
+    "El Val",
+    "Reyes Católicos",
+    "Chorrillo",
+    "Casco Histórico",
+    "Meco",
+    "Camarma de Esteruelas",
+    "Villalbilla"
+  ],
+  "zoneAccessRoutes": [
+    "A-2 (Autovía del Nordeste)",
+    "R-2 (Radial 2)",
+    "M-300",
+    "M-100",
+    "Vía Complutense"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Revisáis el coche para la ITV de Alcalá de Henares?",
+      "a": "Sí, por supuesto. Ofrecemos un servicio de Pre-ITV muy completo. Revisamos los puntos que suelen dar problemas en la inspección: luces, frenos, neumáticos, suspensión y emisiones de gases. Conocemos los criterios de la estación de la carretera de Daganzo y nos aseguramos de que tu coche vaya preparado para pasarla a la primera. Si quieres, podemos incluso llevarlo nosotros por ti."
+    },
+    {
+      "q": "Mi coche diésel hace mucho humo, ¿es por conducir solo por la ciudad?",
+      "a": "Es muy probable. Conducir a bajas revoluciones y en trayectos cortos por Alcalá, como ir de un barrio a otro, impide que el filtro de partículas (FAP) se regenere correctamente, acumulando carbonilla. Esto provoca humos, pérdida de potencia y averías caras a largo plazo. Podemos hacer una descarbonización o una regeneración forzada para limpiar el sistema y que vuelva a funcionar bien."
+    },
+    {
+      "q": "Vivo en Meco, ¿tenéis coche de cortesía?",
+      "a": "Sí, disponemos de coche de cortesía para nuestros clientes (sujeto a disponibilidad, consúltanos al pedir cita). Entendemos que muchos venís de pueblos cercanos como Meco, Villalbilla o Camarma y necesitáis seguir moviéndoos mientras reparamos vuestro vehículo. Nuestro objetivo es que la visita al taller te cause las menores molestias posibles."
+    },
+    {
+      "q": "El aire acondicionado no enfría nada. ¿La reparación es muy cara?",
+      "a": "No tiene por qué. La causa más común es una simple falta de gas por pequeñas fugas naturales en el circuito, y la recarga es económica. Si la fuga es mayor o el compresor está dañado, el coste sube. Lo primero que hacemos es un diagnóstico completo con un detector de fugas para darte un presupuesto exacto y que decidas sin compromiso."
+    },
+    {
+      "q": "Hago la A-2 a diario. ¿Qué mantenimiento especial necesita mi coche?",
+      "a": "Un uso intensivo en autovía como la A-2 exige prestar especial atención a los neumáticos (presión y desgaste), los frenos y el nivel de aceite y refrigerante. También es crucial respetar los intervalos de cambio del kit de distribución. En nuestras revisiones, nos fijamos en estos puntos para garantizar que tu coche sea seguro para los trayectos largos y los posibles frenazos en atascos."
+    },
+    {
+      "q": "¿Qué garantía tienen las reparaciones que hacéis en el taller?",
+      "a": "Todas nuestras reparaciones están garantizadas por ley. La garantía cubre tanto las piezas nuevas que instalamos como la mano de obra. Queremos que te vayas tranquilo y con la seguridad de que el trabajo está bien hecho. Si surgiera cualquier problema relacionado con la reparación, solo tienes que decírnoslo y lo solucionaremos."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Alcalá de Henares",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita en nuestro taller de Alcalá para revisar tu coche.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Alcalá de Henares",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@taller-madrid.es",
+    "addressStreet": ""
+  }
+}

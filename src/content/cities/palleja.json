@@ -1,0 +1,190 @@
+{
+  "slug": "palleja",
+  "name": "Pallejà",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 11134,
+  "lat": 41.42394,
+  "lng": 1.99505,
+  "metaTitle": "Taller mecánico en Pallejà — Para tu coche de trabajo y particular",
+  "metaDescription": "Reparamos tu coche o furgoneta en Pallejà con presupuesto cerrado. Entendemos tu urgencia. Pide cita para revisión, averías, neumáticos y más.",
+  "heroSubtitle": "Sabemos que tu coche parado en Pallejà es facturación que pierdes. Por eso nuestro diagnóstico es rápido y el presupuesto, transparente.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Entendemos perfectamente lo que significa depender del coche para trabajar en Pallejà. No hablamos solo de ir y volver de la oficina. Hablamos de que tu vehículo es tu herramienta principal, ya sea una furgoneta para repartir en el polígono Can Mascaró, un comercial con el que visitas clientes por todo el Baix Llobregat o un VTC que necesita máxima fiabilidad para subir y bajar a Barcelona por la A-2. Cuando ese motor no arranca por la mañana en tu garaje de Fontpineda, no es un contratiempo, es una jornada de trabajo perdida. Por eso, nuestro enfoque no es simplemente reparar coches; es devolverte tu capacidad de generar ingresos lo antes posible, con la seguridad de un trabajo bien hecho y un coste que conoces de antemano.\n\nEl clima del valle del Llobregat, aquí en Pallejà, es especialmente duro con la mecánica. No es solo el calor del verano, es esa humedad constante, casi pegajosa, que se nota especialmente en invierno. Esta humedad es un enemigo silencioso para la electrónica de tu coche. Provoca fallos en sensores, falsos contactos y acelera la corrosión en los discos de freno, que se oxidan con solo mirarlos. En invierno, esa misma humedad y frío castigan las baterías, y no es raro que un lunes por la mañana, después de un fin de semana parado, el coche se niegue a arrancar. Luego llega el verano, y los atascos en la N-II dirección Molins de Rei o en la B-24 se convierten en una prueba de fuego para el sistema de refrigeración, poniendo al límite el termostato y los electroventiladores.\n\nTu rutina diaria es un cóctel exigente para cualquier vehículo. Combinas tramos de autovía a velocidad constante por la A-2 con el callejeo y las constantes paradas en polígonos como El Molí o en los centros de Sant Andreu de la Barca y Sant Vicenç dels Horts. Esta mezcla es letal para componentes como el embrague, el filtro de partículas (FAP) en los diésel, y los frenos. Las suspensiones y los neumáticos también sufren, no solo por los kilómetros, sino por la variedad de firmes, desde el asfalto perfecto de la autovía hasta los badenes y giros cerrados de las urbanizaciones que rodean el núcleo de Pallejà. Un coche que hace 25.000 kilómetros al año en estas condiciones envejece el doble que uno que solo se usa para el ocio.\n\nEl parque móvil que vemos a diario, esos Seat León, Ford Focus, Renault Kangoo o Citroën Berlingo de entre 2010 y 2018, son coches fiables, pero ya no son nuevos. Ya han pasado su primera juventud y son mucho más sensibles a un mantenimiento deficiente. Un aceite que no es el específico, un filtro de aire sucio o unas pastillas de freno de baja calidad pueden desencadenar una avería mayor que te deje tirado en el peor momento. Para un profesional, el mantenimiento preventivo no es un gasto, es la mejor inversión para garantizar la continuidad de su actividad. Detectar un silentblock a punto de romperse o un manguito que empieza a sudar es evitar una parada de varios días y una factura mucho más elevada.\n\nPor todo esto, nuestro servicio en Pallejà está diseñado pensando en ti. No te vamos a contar historias. Hacemos un diagnóstico preciso, te presentamos un presupuesto cerrado y detallado por escrito, y no movemos un solo tornillo sin tu autorización explícita. Queremos ser tus mecánicos de confianza en la zona, el taller al que acudes sabiendo que entendemos tu prisa, que respetamos tu tiempo y que el objetivo común es que tu coche vuelva a la carretera para seguir siendo productivo. Sin sorpresas, sin demoras innecesarias y con la garantía de un trabajo profesional. Porque tu coche no es un lujo, es tu medio de vida.",
+  "servicesIntro": "Ofrecemos una cobertura integral para tu coche o vehículo de trabajo, desde el mantenimiento programado hasta la diagnosis electrónica más compleja.",
+  "processIntro": "Trabajamos con un método claro en 5 pasos para que siempre sepas qué le pasa a tu coche, cuánto cuesta y cuándo estará listo. Cero sorpresas.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos el problema y conectamos nuestros equipos de diagnosis para identificar la causa raíz de la avería. No dejamos nada al azar; buscamos el origen real para ofrecerte una solución duradera y no un simple parche temporal."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado con mano de obra y piezas. Lo que ves es lo que pagas. Te lo enviamos por WhatsApp o email para que lo revises con calma y sin compromiso."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "El coche no se toca hasta que nos das tu visto bueno explícito. Si durante la reparación surgiera algo imprevisto (algo poco común), paramos y contactamos contigo de inmediato para explicarte la situación y darte opciones."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado del progreso para que puedas organizar tu jornada de trabajo sabiendo cuándo tendrás el vehículo de vuelta."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos el coche reparado y limpio. Te explicamos en detalle el trabajo realizado y te mostramos las piezas sustituidas si lo deseas. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "La combinación de humedad del Llobregat, el tráfico denso de la A-2 y el uso intensivo como herramienta de trabajo provoca una serie de averías muy características en Pallejà.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico intermitente para entrar a Barcelona por la A-2 y el callejeo constante por los municipios del Baix Llobregat fuerzan el sistema de embrague y frenos. Diagnosticamos el desgaste real y sustituimos kits completos de embrague y sistemas de frenado para devolver la suavidad y seguridad originales, vitales si pasas horas al volante."
+    },
+    {
+      "title": "Fallos de arranque por la humedad",
+      "body": "En otoño e invierno, la humedad de Pallejà es implacable con las baterías y los sistemas de arranque. Muchos coches, sobre todo los que duermen en la calle en zonas como La Magina, sufren para arrancar. Comprobamos todo el circuito de carga (batería, alternador) para asegurar que tu jornada empieza sin contratiempos."
+    },
+    {
+      "title": "Problemas con el filtro de partículas (FAP)",
+      "body": "Si usas tu furgoneta diésel para reparto local por Pallejà, Molins de Rei y alrededores, los trayectos cortos y el tráfico lento saturan el FAP. Realizamos limpiezas químicas y regeneraciones forzadas para evitar la costosa sustitución del filtro y que pases la ITV sin problemas de humos."
+    },
+    {
+      "title": "Averías en el sistema de refrigeración",
+      "body": "El calor del verano y las largas retenciones en la B-24 son una prueba de estrés para el radiador, termostato y manguitos. Una pequeña fuga puede convertirse en un sobrecalentamiento grave. Revisamos el circuito a presión para detectar poros o abrazaderas flojas antes de que te dejen tirado."
+    },
+    {
+      "title": "Fallos en sensores por corrosión",
+      "body": "La humedad ambiental no solo afecta a la chapa, sino también a las conexiones eléctricas y sensores (ABS, aparcamiento, motor). Limpiamos y protegemos los contactos y diagnosticamos con precisión qué sensor está fallando para no cambiar piezas innecesariamente, ahorrándote dinero y futuros problemas eléctricos."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos tu urgencia",
+      "body": "Sabemos que tu coche es tu oficina. Priorizamos los diagnósticos en vehículos de trabajo para darte una respuesta rápida y que puedas tomar decisiones sobre tu agenda semanal sin demoras innecesarias."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "No cambiamos piezas por cambiar. Usamos equipos de diagnosis para encontrar el origen exacto del problema. Si una reparación sencilla es suficiente, es lo que te propondremos. Nuestra meta es una relación a largo plazo."
+    },
+    {
+      "title": "Comunicación directa",
+      "body": "Hablarás directamente con el mecánico que está revisando tu coche. Te explicaremos la avería de forma clara, sin tecnicismos confusos, para que entiendas perfectamente qué le ocurre a tu vehículo y por qué."
+    },
+    {
+      "title": "Presupuestos sin sorpresas",
+      "body": "El presupuesto que te damos es el que pagas. Cualquier imprevisto se consulta contigo antes de proceder. La transparencia es total para que puedas gestionar tus gastos profesionales con total tranquilidad."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Todo nuestro trabajo y los recambios que instalamos están garantizados por ley. Puedes volver a la carretera con la confianza de que la reparación está hecha para durar miles de kilómetros."
+    }
+  ],
+  "testimonialsIntro": "Estos son ejemplos de situaciones reales que atendemos cada día, para que veas cómo ayudamos a profesionales y particulares de Pallejà como tú.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Fontpineda",
+      "car": "Peugeot Partner 2016",
+      "body": "Soy repartidor y la furgoneta empezó a dar tirones. Me la diagnosticaron súper rápido, era un tema de inyectores. Me dieron presupuesto cerrado esa misma mañana y por la tarde del día siguiente ya la tenía lista. Para mí, que no puedo estar parado, esa agilidad no tiene precio. Muy profesionales y directos.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Centre Vila",
+      "car": "Seat León TDI 2015",
+      "body": "Trabajo de comercial y hago muchísimos kilómetros por la A-2 y la B-24. Tenía que hacerle la distribución y me daba pánico el presupuesto. Aquí me lo explicaron todo al detalle, con un precio cerrado que no se movió ni un céntimo. Me dejaron el coche perfecto. Muy serios y fiables.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "La Magina",
+      "car": "Ford Focus 2014",
+      "body": "El coche no pasó la ITV por gases. Me lo miraron y vieron que el FAP estaba muy obstruido de tanto trayecto corto para llevar a los niños y moverme por el pueblo. Me hicieron una limpieza y pasó la ITV sin problema. Te explican las cosas para que las entiendas. Se agradece la honestidad.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Can Mascaró",
+      "car": "Toyota Yaris 2017",
+      "body": "Con el teletrabajo uso poco el coche y la batería se murió. Llamé y me atendieron genial. Además de cambiarla, comprobaron que el alternador cargaba bien para asegurarse de que no volviera a pasar. El trato es muy cercano y el precio fue correcto. Se nota que saben lo que hacen.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Pallejà da servicio a toda la localidad y a los municipios colindantes del Baix Llobregat. Si vives o trabajas en barrios como el Centre, Fontpineda, La Magina o en la zona industrial de Can Mascaró, estamos a tu lado. Gracias a nuestra ubicación estratégica, somos el taller de referencia para muchos profesionales y particulares de Corbera de Llobregat, La Palma de Cervelló, Sant Andreu de la Barca y Molins de Rei, que valoran un servicio rápido y profesional.\n\nEl acceso es muy sencillo desde las principales vías que vertebran la comarca. Si vienes por la autovía A-2, la salida hacia Pallejà te deja a pocos minutos de nuestras instalaciones. También tenemos conexión directa a través de la antigua N-II, una ruta muy transitada por vehículos comerciales, y de la B-24, el enlace clave para quienes se mueven entre el Vallès y el Baix Llobregat.",
+  "zoneNeighborhoods": [
+    "Pallejà Centre",
+    "Fontpineda",
+    "La Magina",
+    "Can Mascaró",
+    "Molins de Rei",
+    "Sant Andreu de la Barca",
+    "Corbera de Llobregat",
+    "La Palma de Cervelló",
+    "Sant Vicenç dels Horts",
+    "El Papiol"
+  ],
+  "zoneAccessRoutes": [
+    "A-2",
+    "N-II",
+    "B-24",
+    "AP-2 / B-23"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Tenéis experiencia con furgonetas tipo Berlingo, Kangoo o Caddy?",
+      "a": "Por supuesto. Son el pan de cada día en nuestro taller. Conocemos a la perfección sus motores, averías comunes y puntos débiles. Entendemos que son herramientas de trabajo y las tratamos con la prioridad que merecen, desde un cambio de aceite hasta una reparación de embrague o distribución."
+    },
+    {
+      "q": "Paso muchas horas en la A-2, ¿qué mantenimiento es más importante?",
+      "a": "Para un uso intensivo en autovía, es crucial vigilar el estado de los neumáticos, la alineación de la dirección y el sistema de frenado. También recomendamos usar aceite de alta calidad y respetar los intervalos de cambio para proteger el motor en trayectos largos. Una revisión de estos puntos puede evitarte un susto y una avería costosa."
+    },
+    {
+      "q": "¿Cómo puedo proteger el coche de la humedad de la zona de Pallejà?",
+      "a": "La humedad afecta mucho a la batería y la electrónica. Aconsejamos no dejar el coche parado durante periodos muy largos. Si lo haces, arráncalo al menos una vez por semana. En el taller, podemos aplicar sprays protectores en las conexiones eléctricas clave durante las revisiones para prevenir la corrosión y los fallos de contacto."
+    },
+    {
+      "q": "Necesito pasar la ITV de mi vehículo de trabajo sin fallos. ¿Podéis ayudarme?",
+      "a": "Sí. Ofrecemos un servicio Pre-ITV exhaustivo. Revisamos los puntos críticos que más fallos provocan: frenos, suspensión, neumáticos, luces y, sobre todo, la emisión de gases, un problema común en diésel con mucho recorrido urbano. Nos aseguramos de que todo esté en orden para que la pases a la primera."
+    },
+    {
+      "q": "Si se me rompe el embrague, ¿cuánto tardáis? No puedo estar sin la furgoneta.",
+      "a": "Entendemos la urgencia. Un cambio de embrague es una reparación importante. Una vez aprobado el presupuesto, solemos tardar entre uno y dos días laborables, dependiendo del modelo y la disponibilidad de la pieza. Siempre te daremos una estimación realista y te mantendremos informado para que te organices."
+    },
+    {
+      "q": "Mi furgoneta diésel hace mucho reparto y me da problemas el filtro de partículas, ¿qué solución hay?",
+      "a": "Es un problema muy común por la conducción urbana. En lugar de cambiar el costoso filtro (FAP/DPF), primero intentamos soluciones efectivas y más económicas como la limpieza con productos químicos específicos o la regeneración forzada en el taller. Esto suele resolver el 90% de los casos de obstrucción."
+    },
+    {
+      "q": "¿Tenéis experiencia con coches VTC o taxis con alto kilometraje?",
+      "a": "Sí, trabajamos con varios profesionales del transporte de pasajeros. Sabemos que para vosotros la fiabilidad y la durabilidad de los componentes es clave. Utilizamos recambios reforzados cuando es posible y tenemos protocolos de mantenimiento preventivo específicos para vehículos que superan los 100.000 km al año."
+    },
+    {
+      "q": "Si os dejo el coche a primera hora, ¿es posible tenerlo para la tarde?",
+      "a": "Para mantenimientos programados (cambio de aceite, filtros, pastillas de freno) o reparaciones rápidas, sí, es totalmente factible. Para averías que requieren un diagnóstico más profundo, te daremos un plazo estimado tan pronto como sepamos qué ocurre. La comunicación y la claridad son nuestra prioridad para que no pierdas tiempo."
+    }
+  ],
+  "closingHeadline": "Tu taller de confianza en Pallejà",
+  "closingCta": "Si tu coche necesita una revisión o tienes una avería, no esperes más. Llámanos o escríbenos por WhatsApp y te daremos cita en Pallejà lo antes posible para que puedas seguir con tu día a día."
+}

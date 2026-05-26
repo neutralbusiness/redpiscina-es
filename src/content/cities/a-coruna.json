@@ -1,0 +1,183 @@
+{
+  "slug": "a-coruna",
+  "name": "A Coruña",
+  "province": "A Coruña",
+  "ccaa": "Galicia",
+  "population": 250438,
+  "lat": 43.37135,
+  "lng": -8.396,
+  "metaTitle": "Taller mecánico en A Coruña — Multimarca y de confianza",
+  "metaDescription": "Tu taller en A Coruña para revisiones, mecánica y averías. Presupuesto cerrado y sin sorpresas. Expertos en el clima y carreteras de Galicia. Pide cita.",
+  "heroSubtitle": "Harto de la humedad, los baches y el tráfico de Alfonso Molina? Mantenemos tu coche a punto para el día a día en A Coruña, sin sorpresas en la factura.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir en A Coruña es diferente. No es lo mismo un coche que duerme en la calle en Monte Alto, aguantando el salitre del Orzán, que uno que solo hace autovía por el interior. Aquí, la humedad constante, la lluvia fina que parece no mojar pero lo cala todo y el salitre de la costa son el día a día de tu vehículo. En nuestro taller lo sabemos porque somos de aquí. Entendemos por qué tus discos de freno se oxidan antes de tiempo o por qué las escobillas del limpiaparabrisas son un elemento de seguridad de primer nivel, no un simple accesorio. Sabemos lo que implica subir y bajar las cuestas de la ciudad o hacer el trayecto diario desde Eirís o Los Rosales hasta el polígono de A Grela.\n\nEl parque móvil coruñés es un reflejo de su gente: práctico y trabajador. Vemos a diario los coches que mueven la ciudad y su área metropolitana: el Seat León del comercial que recorre la AP-9 de punta a punta, el Citroën C4 de la familia que va a la playa de Santa Cristina en Oleiros los domingos, o el Renault Clio que lucha cada mañana en la rotonda de Pajaritas. Son coches, en su mayoría diésel de entre 5 y 15 años, que necesitan un mantenimiento que entienda su batalla diaria contra el tráfico de la Avenida de Lavedra y el clima atlántico. No es solo cambiar el aceite; es revisar los bajos en busca de óxido, comprobar que el sistema de climatización deshumedece bien para desempañar el cristal en segundos y asegurar que los neumáticos tienen el dibujo adecuado para no darte un susto en una rotonda mojada.\n\nTambién conocemos al conductor que usa el coche para escapar de la rutina. El que coge la Tercera Ronda (AC-14) para salir hacia Carballo por la AG-55 o el que se dirige hacia la A-6 para un viaje más largo. Ese uso mixto, de ciudad entre semana y carretera el fin de semana, exige una polivalencia en el mantenimiento. La suspensión sufre en los baches de algunas calles del centro, el embrague se desgasta en los atascos para entrar o salir de la ciudad y los filtros acumulan la polución urbana. Una revisión con nosotros no es un mero trámite, es una puesta a punto pensada para que tu coche responda igual de bien yendo al Marineda City un sábado que en un viaje por la Costa da Morte con niebla.\n\nPor eso, nuestro enfoque es local y honesto. No aplicamos protocolos genéricos. Cuando traes tu coche, ya sea un Peugeot 308 que vive en Culleredo o un Volkswagen Golf de Matogrande, lo diagnosticamos pensando en su entorno. Te daremos un presupuesto cerrado, claro y sin letra pequeña, explicándote qué necesita tu coche y por qué lo necesita específicamente aquí, en A Coruña. Queremos ser tu taller de confianza en la ciudad, el lugar donde sabes que tu coche está en manos de profesionales que conocen tan bien la mecánica como las carreteras por las que circulas cada día.",
+  "servicesIntro": "Desde la revisión para pasar la ITV de Pocomaco sin agobios, hasta un cambio de embrague o la diagnosis de ese testigo que se enciende con la humedad.",
+  "processIntro": "Trabajamos con total transparencia. Te explicamos qué le pasa a tu coche en cristiano y te damos un presupuesto cerrado antes de coger una sola herramienta.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le notas al coche y lo revisamos a fondo. Usamos equipos de diagnosis para detectar fallos electrónicos y nuestra experiencia para identificar problemas mecánicos comunes en el clima de A Coruña, como la corrosión o el desgaste por humedad."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Verás claramente cada pieza y la mano de obra. El precio que ves es el que pagas, sin sorpresas de última hora. Si algo surgiera, no se toca sin tu visto bueno."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No empezamos ninguna reparación hasta que nos das tu confirmación explícita. Tienes el control total. Si tienes dudas, te las resolvemos por teléfono sin ningún problema. Tu tranquilidad es lo primero para nosotros."
+    },
+    {
+      "title": "Reparación",
+      "body": "Una vez aprobado, nos ponemos manos a la obra. Utilizamos recambios de primeras marcas con garantía y seguimos los procedimientos del fabricante para asegurar un trabajo bien hecho. Te mantenemos informado de los plazos en todo momento."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando el coche está listo, te avisamos. Al recogerlo, te explicamos la reparación realizada. Guardamos el historial de tu vehículo para futuras revisiones y garantizar un seguimiento adecuado de su mantenimiento."
+    }
+  ],
+  "commonIssuesIntro": "El clima de A Coruña y el tráfico diario por la Avenida de Lavedra o la Tercera Ronda no perdonan. Estos son los problemas que más vemos y solucionamos en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de frenos y discos",
+      "body": "La combinación de humedad, salitre del mar y frenadas constantes en el tráfico urbano de A Coruña provoca que los discos se oxiden y las pastillas se cristalicen antes. Revisamos y sustituimos el sistema de frenado para que tu coche frene con seguridad, incluso en el asfalto mojado de la Avenida de Finisterre."
+    },
+    {
+      "title": "Problemas de visibilidad: escobillas y luces",
+      "body": "Con más de 150 días de lluvia al año, unas escobillas en mal estado son un peligro. El uso intensivo las desgasta rápidamente. Además, la niebla frecuente exige unos faros bien reglados. Nos aseguramos de que veas y te vean perfectamente, un básico para conducir seguro por la AP-9 o la A-6."
+    },
+    {
+      "title": "Corrosión en bajos y sistema de escape",
+      "body": "El aire marino es implacable. Los bajos del coche, el chasis y la línea de escape son los primeros en sufrir la corrosión. En cada revisión y pre-ITV, hacemos una inspección visual exhaustiva de estas zonas críticas, especialmente en coches que duermen cerca del paseo marítimo, desde Riazor a la Torre de Hércules."
+    },
+    {
+      "title": "Averías en embrague y transmisión",
+      "body": "El tráfico denso en las entradas y salidas de la ciudad, como en la AC-11 (Alfonso Molina), y las calles empinadas de barrios como Monte Alto, castigan el embrague. Si notas que el pedal está duro o patina, es hora de revisarlo antes de que te deje tirado."
+    },
+    {
+      "title": "Filtros de habitáculo y climatización",
+      "body": "La alta humedad ambiental de Galicia favorece la aparición de moho y bacterias en el sistema de climatización, causando malos olores y alergias. Un filtro de habitáculo saturado también dificulta desempañar los cristales, algo crucial para la seguridad en A Coruña. Lo cambiamos y desinfectamos el circuito."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Especialistas en el clima gallego",
+      "body": "Sabemos lo que la lluvia, la humedad y el salitre le hacen a tu coche. Nuestro mantenimiento va más allá del manual del fabricante, se adapta a las condiciones reales de A Coruña."
+    },
+    {
+      "title": "Presupuesto que no cambia",
+      "body": "El precio que te damos es el que pagas. Sin asteriscos ni sorpresas al final. Creemos en la honestidad para construir una relación de confianza a largo plazo."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Desde un Dacia Sandero a un BMW Serie 3. Tenemos la herramienta y el conocimiento para cuidar de tu coche, sea cual sea su marca, edad o modelo."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "Si una pieza aún tiene vida útil, no te diremos que la cambies. Nuestro objetivo es que tu coche funcione bien y sea seguro, no venderte reparaciones que no necesitas."
+    },
+    {
+      "title": "Cerca de ti en A Coruña",
+      "body": "Estamos ubicados para que dejar y recoger el coche no te suponga un trastorno. Damos servicio a toda la ciudad y a municipios cercanos como Oleiros, Culleredo o Arteixo."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de casos que pasan por nuestro taller. Así es como ayudamos a conductores de A Coruña como tú en su día a día.",
+  "testimonials": [
+    {
+      "name": "Manuel",
+      "neighborhood": "Monte Alto",
+      "car": "Seat León 1.9 TDI 2010",
+      "body": "Tenía los frenos que hacían un ruido horrible, sobre todo al bajar las cuestas del barrio. Me preocupaba la ITV. Aquí me explicaron que los discos estaban oxidados por la humedad. Me dieron un presupuesto cerrado, lo cumplieron y el coche ahora frena perfecto. Pasé la ITV en Pocomaco sin un solo fallo. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Os Castros",
+      "car": "Peugeot 208 Gasolina 2016",
+      "body": "Llevé el coche para la revisión anual. Siempre me da pereza, pero aquí fue rápido. Me llamaron para decirme que las escobillas estaban para cambiar, algo que ya había notado con las últimas lluvias. Agradecí el detalle. El trato fue muy cercano y el precio, el que me habían dicho. Volveré sin duda.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Culleredo",
+      "car": "Ford Focus 2.0 TDCI 2014",
+      "body": "Hago todos los días el trayecto a A Coruña por la AC-11 y el embrague empezaba a patinar en los atascos. Pensé que sería una pasta. Me dieron un diagnóstico claro y un precio razonable para el cambio de embrague y bimasa. Ahora el coche va como la seda. Se nota que entienden de coches de batalla.",
+      "rating": 5
+    },
+    {
+      "name": "Ana",
+      "neighborhood": "Matogrande",
+      "car": "Nissan Qashqai 2018",
+      "body": "Antes de irnos de vacaciones por la AP-9, lo llevé para una revisión general de seguridad. Me miraron niveles, presiones y sobre todo los neumáticos, que con el asfalto mojado de aquí no me fío. Todo correcto, solo me recomendaron rotar las ruedas. Me cobraron muy poco por la revisión. Me dio mucha tranquilidad.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de A Coruña y su área de influencia. Si vives o trabajas en barrios como Monte Alto, Zalaeta, Ensanche, Cuatro Caminos, Os Castros, Riazor o Agra do Orzán, nuestro taller es tu solución de confianza. También somos el taller de referencia para muchos conductores de los municipios colindantes que entran a la ciudad a diario, como Oleiros, Culleredo, Cambre y Arteixo. Nuestras instalaciones tienen un acceso cómodo desde las principales vías que conectan el área metropolitana, incluyendo la AP-9, la A-6, la AC-11 (Avenida Alfonso Molina) y la Tercera Ronda (AC-14), para que venir al taller te resulte sencillo y rápido.",
+  "zoneNeighborhoods": [
+    "Monte Alto",
+    "Os Castros",
+    "Cuatro Caminos",
+    "Agra do Orzán",
+    "Riazor",
+    "Matogrande",
+    "Culleredo",
+    "Oleiros",
+    "Arteixo",
+    "Ensanche"
+  ],
+  "zoneAccessRoutes": [
+    "AP-9",
+    "A-6",
+    "AC-11 (Avenida Alfonso Molina)",
+    "AC-14 (Tercera Ronda)",
+    "N-VI"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Tenéis en cuenta la corrosión por el salitre en la pre-ITV?",
+      "a": "Por supuesto. Es uno de nuestros puntos de control clave para los coches de A Coruña. Sabemos que el salitre es muy agresivo con los bajos, el escape y los componentes de la suspensión. Hacemos una inspección visual en el elevador para detectar óxido estructural o perforaciones que serían un fallo grave en la ITV de Pocomaco o la de Espíritu Santo."
+    },
+    {
+      "q": "Mi coche huele a humedad, ¿es normal en Galicia?",
+      "a": "Es un problema muy común, pero no deberías conformarte. Ese olor suele venir de la proliferación de bacterias y moho en el filtro del habitáculo o en el evaporador del aire acondicionado. Además de ser desagradable, puede afectar a personas con alergias. Recomendamos cambiar el filtro anualmente y hacer un tratamiento de desinfección. Ganarás en salud y confort."
+    },
+    {
+      "q": "¿Qué neumáticos recomendáis para el clima de A Coruña?",
+      "a": "Para conducir con seguridad aquí, la prioridad número uno es el agarre en mojado. Más que buscar neumáticos de ultra altas prestaciones para seco, recomendamos cubiertas de primeras marcas (tipo Michelin, Goodyear, Continental) con una buena calificación en la etiqueta europea para frenada en mojado (A o B). Los neumáticos 'all-season' son también una excelente opción polivalente."
+    },
+    {
+      "q": "Voy a la ITV de Pocomaco, ¿revisáis los puntos críticos para pasarla aquí?",
+      "a": "Sí, conocemos perfectamente los puntos en los que más se fijan los inspectores de las estaciones de nuestra zona. Además de los elementos obvios como luces, frenos y neumáticos, prestamos especial atención al estado de los silentblocks, posibles holguras en la dirección y, como decíamos, la corrosión en los bajos. Nuestro chequeo pre-ITV está pensado para que vayas y la pases a la primera."
+    },
+    {
+      "q": "Conduzco a diario por Alfonso Molina, ¿qué mantenimiento extra necesita mi coche?",
+      "a": "El tráfico denso y los constantes 'arranca y para' de la AC-11 castigan principalmente tres elementos: el embrague (en coches manuales), los frenos y el sistema de refrigeración. Recomendamos ser muy escrupuloso con los cambios de líquido de frenos y no apurar las pastillas. Si tu coche es manual, una conducción suave alargará la vida del embrague. Y por supuesto, vigilar la temperatura en los atascos de verano."
+    },
+    {
+      "q": "¿Ofrecéis coche de cortesía si vivo en Arteixo y lo necesito para trabajar?",
+      "a": "Sí, disponemos de coches de cortesía para minimizar las molestias mientras reparamos tu vehículo. Entendemos perfectamente que muchos de nuestros clientes dependen del coche para ir a trabajar a los polígonos o para moverse por el área metropolitana. Este servicio está sujeto a disponibilidad, por lo que te recomendamos solicitarlo al pedir tu cita para poder reservártelo."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto para A Coruña",
+  "closingCta": "Si notas algo raro en tu coche o simplemente te toca la revisión, no lo dejes pasar. Pide tu presupuesto cerrado para nuestro taller en A Coruña por teléfono, WhatsApp o email."
+}

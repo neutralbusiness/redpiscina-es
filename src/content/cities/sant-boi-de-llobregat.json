@@ -1,0 +1,191 @@
+{
+  "slug": "sant-boi-de-llobregat",
+  "name": "Sant Boi de Llobregat",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 82428,
+  "lat": 41.34357,
+  "lng": 2.03659,
+  "metaTitle": "Taller mecánico en Sant Boi de Llobregat — Multimarca y honesto",
+  "metaDescription": "Taller mecánico en Sant Boi de Llobregat con presupuesto cerrado. Revisión, averías, neumáticos, pre-ITV. Pide tu presupuesto y olvídate de sorpresas.",
+  "heroSubtitle": "Si acabas de llegar a Sant Boi y no sabes de qué taller fiarte, respira. Te damos un presupuesto cerrado antes de tocar un solo tornillo.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Aterrizar en una ciudad nueva como Sant Boi de Llobregat y que el coche empiece a dar guerra es una situación que nadie quiere. De repente, te encuentras sin tu mecánico de confianza, sin saber a qué puerta llamar en una ciudad con una enorme tradición industrial y cientos de talleres, desde los más antiguos en el barrio Centre hasta los más modernos en polígonos como Can Calderon o Les Salines. Sant Boi no es un lugar cualquiera; su historia está ligada al metal y a la mecánica, y eso es bueno y malo. Bueno, porque hay mucho conocimiento; malo, porque sin una recomendación es fácil acabar en un sitio donde el presupuesto inicial es solo una sugerencia. Entendemos esa desconfianza. Por eso, nuestro primer compromiso es la claridad: un presupuesto cerrado y detallado por escrito. No empezamos a trabajar hasta que nos das tu visto bueno, para que sepas exactamente qué se le va a hacer a tu coche y cuánto te va a costar, sin sorpresas ni letra pequeña. Es la tranquilidad que necesitas cuando estás empezando de cero en un sitio nuevo.\n\nLa vida de un coche en Sant Boi es exigente. Si te has mudado aquí, probablemente ya te hayas enfrentado al tráfico de la C-245 para ir hacia Cornellà o al de la BV-2002 hacia Sant Vicenç dels Horts. O quizás formas parte de los que cogen cada día la C-32 o la A-2 para trabajar en Barcelona. Ese trayecto diario, con sus atascos y acelerones, es un castigo para cualquier embrague y filtro de partículas, sobre todo en los diésel que tanto abundan en barrios como Marianao o Camps Blancs. A esto se suma el clima del Delta del Llobregat: una humedad constante que se come silenciosamente los componentes electrónicos, reseca las gomas y acelera la corrosión en los bajos del coche, especialmente si duerme en la calle. No es lo mismo mantener un coche en el interior que aquí, a un paso del aeropuerto y del mar. Son factores que conocemos y que tenemos en cuenta en cada diagnóstico, porque una avería nunca tiene una sola causa.\n\nPero un coche no solo sirve para ir a trabajar. Es también el que te permite escapar los fines de semana. Desde Sant Boi, tienes a tiro de piedra las curvas del Garraf por la C-31 para llegar a Sitges o las carreteras de montaña que suben hacia el Ordal. Son trayectos que ponen a prueba frenos, suspensión y neumáticos de una forma muy distinta al día a día urbano. Unos amortiguadores que parecen correctos para circular por la ciudad pueden 'cantar' sus carencias en una carretera con curvas, y unos frenos que aguantan el tráfico de la Ronda de Dalt pueden sobrecalentarse bajando un puerto. Por eso, una revisión con nosotros va más allá de un simple cambio de aceite. Le echamos un ojo a todo el conjunto, pensando en el uso real y mixto que le das al coche: la batalla de lunes a viernes y el disfrute del fin de semana. Queremos que tu coche sea tan fiable para ir a la oficina como para una escapada improvisada.\n\nEn definitiva, si buscas un taller en Sant Boi, no solo necesitas a alguien que sepa de mecánica, sino que entienda el contexto. El parque móvil de la ciudad es un reflejo de su gente: coches trabajadores, prácticos, con una media de edad que supera los diez años. Seat, Renault, Peugeot, Ford... modelos que conocemos al dedillo, con sus virtudes y sus achaques típicos. No te vamos a contar historias. Si una reparación no merece la pena, te lo diremos. Si hay una solución más económica y fiable a largo plazo, la pondremos sobre la mesa. Somos un taller de la red nacional, sí, pero con los pies en el asfalto de Sant Boi. Te ofrecemos la garantía de una gran marca y la cercanía de quien sabe perfectamente lo que tu coche necesita para moverse por el Baix Llobregat sin darte un solo dolor de cabeza.",
+  "servicesIntro": "Tanto si es la revisión anual como una avería inesperada, cubrimos las necesidades de tu coche para que circules por Sant Boi y alrededores con total seguridad.",
+  "processIntro": "Trabajamos con un proceso transparente de 5 pasos para que sepas en todo momento qué le pasa a tu coche y cuánto te va a costar, sin sorpresas.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico inicial",
+      "body": "Cuando traes tu coche, un técnico especialista lo revisa a fondo y escucha lo que te preocupa. Usamos equipos de diagnosis multimarca para identificar el origen del problema de forma precisa, no a ojo."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y por escrito. Incluye mano de obra y piezas, con el IVA desglosado. El precio que ves es el que pagas, sin extras de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos absolutamente nada sin tu consentimiento explícito. Te llamamos, te explicamos el presupuesto y resolvemos tus dudas. Solo cuando nos das el 'vale', nuestro equipo se pone manos a la obra."
+    },
+    {
+      "title": "Reparación y piezas",
+      "body": "Realizamos la reparación con piezas de primeras marcas, respetando siempre los plazos acordados. Todas nuestras intervenciones y los recambios que instalamos tienen garantía para tu total tranquilidad."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado y te entregamos la factura. Unos días después, podemos contactarte para confirmar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "La combinación de humedad del Delta, el tráfico denso hacia Barcelona y el tipo de coche que más se ve en Sant Boi genera una serie de averías muy características.",
+  "commonIssues": [
+    {
+      "title": "Embragues gastados y filtros FAP obstruidos",
+      "body": "El uso intensivo en los atascos de la C-245 y la A-2, con constantes paradas y arranques, desgasta prematuramente el embrague. En los diésel, estos trayectos cortos impiden que el filtro de partículas se regenere, provocando averías costosas. Realizamos limpiezas de FAP y sustituciones de kit de embrague con la máxima garantía."
+    },
+    {
+      "title": "Fallos en el sistema de aire acondicionado",
+      "body": "La alta humedad ambiental de Sant Boi durante todo el año fuerza el compresor del aire acondicionado y puede generar fugas en el circuito o malos olores por la proliferación de bacterias. Hacemos cargas de gas, detectamos fugas con nitrógeno y realizamos tratamientos de desinfección para que enfríe como debe."
+    },
+    {
+      "title": "Desgaste irregular de neumáticos y suspensión",
+      "body": "La cantidad de rotondas y badenes en zonas residenciales como Ciutat Cooperativa o Vinyets, sumado a la velocidad constante en vías como la C-32, provoca un desgaste desigual en neumáticos y fuerza silentblocks y amortiguadores. Un buen alineado y una revisión de la suspensión son clave para la seguridad y el ahorro."
+    },
+    {
+      "title": "Pequeños fallos eléctricos por corrosión",
+      "body": "Aunque no estés en primera línea de mar, la brisa cargada de salitre y la humedad del Llobregat acaban afectando. Conectores que fallan, luces del cuadro que se encienden sin motivo o problemas con el cierre centralizado son habituales. Revisamos y saneamos las conexiones para evitar problemas mayores."
+    },
+    {
+      "title": "Problemas de gases antes de pasar la ITV",
+      "body": "Las estaciones de ITV de la zona, como la de Sant Joan Despí, son muy estrictas con las emisiones, especialmente en coches diésel de cierta edad. Hacemos una diagnosis de gases y revisamos el sistema de inyección y escape para que pases la inspección a la primera y sin agobios."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Un presupuesto que entiendes",
+      "body": "Te explicamos cada concepto de la factura en un lenguaje claro. Ideal si vienes de fuera y no quieres que te tomen por un novato. Lo que presupuestamos es lo que pagas."
+    },
+    {
+      "title": "Diagnóstico sin rodeos",
+      "body": "No inflamos las averías. Si algo puede esperar, te lo decimos. Si algo es urgente, te explicamos por qué. Nuestra reputación se basa en la honestidad, no en la venta de reparaciones innecesarias."
+    },
+    {
+      "title": "Conocemos tu coche (y el de tus vecinos)",
+      "body": "El parque móvil de Sant Boi no tiene secretos para nosotros. Estamos acostumbrados a los problemas típicos de los modelos más comunes en la zona, lo que agiliza el diagnóstico y la reparación."
+    },
+    {
+      "title": "Garantía válida en toda España",
+      "body": "Si acabas de llegar a Sant Boi, puede que no sea tu destino definitivo. Nuestra garantía de red nacional te cubre en cualquier provincia, dándote una tranquilidad que un taller de barrio no puede ofrecer."
+    },
+    {
+      "title": "Facilidades para tu día a día",
+      "body": "Sabemos que no puedes perder el tiempo. Te ofrecemos coche de cortesía (consulta condiciones) y nos adaptamos a tus horarios para que dejar el coche en el taller no te rompa la rutina."
+    }
+  ],
+  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que nos encontramos cada día en nuestros talleres de Sant Boi.",
+  "testimonials": [
+    {
+      "name": "Joan",
+      "neighborhood": "Marianao",
+      "car": "Seat León TDI 2016",
+      "body": "Soy comercial y hago cada día la C-32. El coche empezó a perder fuerza y en otro sitio me hablaron de cambiar el turbo, una pasta. Aquí dieron con el problema real: un manguito rajado y el FAP que necesitaba una limpieza a fondo. Me lo explicaron todo, me enseñaron la pieza y el presupuesto fue cerrado desde el principio. Ahora el coche va perfecto. Muy honestos.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Vinyets-Molí Vell",
+      "car": "Renault Clio 2018",
+      "body": "Llevaba poco tiempo en Sant Boi y me tocaba la revisión gorda, la de la distribución. Pedí varios presupuestos y este fue el más claro y detallado. No era el más barato por 10 euros, pero la confianza que me dieron por teléfono no tenía precio. Cumplieron con el plazo y el precio. Coche de cortesía incluido, que me salvó la semana.",
+      "rating": 5
+    },
+    {
+      "name": "David",
+      "neighborhood": "Camps Blancs",
+      "car": "Ford Focus 2012",
+      "body": "Tenía la ITV en una semana y una luz de avería de motor encendida. Estaba convencido de que sería algo grave. Lo llevé para la pre-ITV y encontraron que era un sensor que fallaba. Me dieron presupuesto al momento, lo cambiaron y me revisaron los puntos clave. Pasé la ITV sin un solo fallo. Me ahorraron tiempo y un posible rechazo.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Centre",
+      "car": "Peugeot 208 2015",
+      "body": "El aire acondicionado no enfriaba nada, solo salía aire caliente. En verano, por aquí, eso es un suplicio. Pensaba que sería una recarga simple, pero detectaron una pequeña fuga en una tubería. Me lo enseñaron antes de reparar. Tardaron un poco más de lo previsto en recibir la pieza, pero me mantuvieron informada. El precio, el acordado.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro servicio de taller mecánico en Sant Boi de Llobregat está pensado para dar cobertura a toda la ciudad y a los municipios colindantes. Tanto si vives en barrios como Marianao, Camps Blancs o Vinyets-Molí Vell, como si trabajas en los polígonos industriales de Can Calderon o Fonollar, estamos a tu alcance. Nuestra ubicación es de fácil acceso desde las principales vías que vertebran el Baix Llobregat. Si vienes de Cornellà o Sant Joan Despí, la C-245 te deja prácticamente en la puerta. Para los que se mueven desde Viladecans o Gavà, el acceso es igual de directo. También estamos muy bien comunicados con Santa Coloma de Cervelló y Sant Vicenç dels Horts a través de la BV-2002. Y por supuesto, con una conexión rápida a las grandes autopistas como la A-2 y la C-32, facilitando que dejes tu coche sin desviarte apenas de tu ruta habitual.",
+  "zoneNeighborhoods": [
+    "Marianao",
+    "Camps Blancs",
+    "Vinyets-Molí Vell",
+    "Centre",
+    "Ciutat Cooperativa",
+    "Barriada de Casablanca",
+    "Cornellà de Llobregat",
+    "Viladecans",
+    "Sant Joan Despí",
+    "Santa Coloma de Cervelló"
+  ],
+  "zoneAccessRoutes": [
+    "C-245",
+    "C-32 (Autopista Pau Casals)",
+    "A-2 (Autovía del Nordeste)",
+    "BV-2002",
+    "B-20 (Ronda de Dalt)"
+  ],
+  "faqLocal": [
+    {
+      "q": "Vivo en Marianao y aparco en la calle, ¿qué mantenimiento especial necesita mi coche por la humedad?",
+      "a": "Es una pregunta muy inteligente. La humedad del Delta acelera la corrosión de los bajos y el escape, y puede afectar a las conexiones eléctricas. Te recomendamos una revisión anual de los bajos para aplicar protección si es necesario y limpiar los bornes de la batería para evitar sulfatación. También es clave revisar el estado de las escobillas del limpiaparabrisas, que se resecan y agrietan más rápido con los cambios de humedad y sol."
+    },
+    {
+      "q": "Voy cada día a Barcelona por la A-2. ¿Qué es lo primero que 'canta' en el coche con tanto atasco?",
+      "a": "Sin duda, el sistema de embrague y frenos. El constante 'para y arranca' somete a un estrés enorme al disco de embrague y al sistema hidráulico. Los frenos también sufren, cristalizando las pastillas y perdiendo eficacia. En los diésel, el filtro de partículas es el otro gran afectado, ya que no alcanza la temperatura para regenerarse. Una revisión periódica de estos tres puntos te evitará averías serias."
+    },
+    {
+      "q": "Tengo que pasar la ITV en la estación de Sant Joan Despí, ¿qué miráis vosotros que sea específico de allí?",
+      "a": "Conocemos bien esa estación. Son especialmente rigurosos con tres cosas: la opacidad de humos en los diésel, el estado de los silentblocks de la suspensión (los miran con lupa) y cualquier testigo de avería en el cuadro. En nuestra pre-ITV nos centramos en estos puntos, realizando una diagnosis electrónica completa, una prueba de gases y una revisión a fondo del eje delantero para que vayas sobre seguro."
+    },
+    {
+      "q": "Acabo de mudarme a Sant Boi desde el interior. ¿El salitre de la costa afecta de verdad al coche?",
+      "a": "Sí, y mucho más de lo que parece. Aunque Sant Boi no está en primera línea de mar, la brisa marina (la marinada) arrastra el salitre hacia el interior. Este se deposita en la carrocería, los bajos y el vano motor, acelerando la oxidación. Afecta a todo, desde los discos de freno hasta los radiadores. Un lavado a presión frecuente de los bajos ayuda mucho."
+    },
+    {
+      "q": "Mi coche diésel hace muchos trayectos cortos por el pueblo. ¿Cómo evito problemas con el filtro de partículas (FAP)?",
+      "a": "Es el problema más común. Para evitar que el FAP se obstruya, te recomendamos que al menos una vez por semana salgas a una vía rápida como la C-32 o la A-2 y conduzcas durante unos 15-20 minutos a un régimen estable, sobre las 2.500 revoluciones. Esto fuerza el ciclo de regeneración. Si ya es tarde y tienes el testigo encendido, tráelo para hacerle una regeneración forzada o una limpieza."
+    },
+    {
+      "q": "Trabajo en el polígono Can Calderon, ¿ofrecéis alguna facilidad para dejar y recoger el coche?",
+      "a": "Por supuesto. Entendemos perfectamente la logística de los polígonos. Puedes dejar el coche a primera hora de la mañana y, si la reparación lo permite, recogerlo al salir del trabajo. Además, para intervenciones más largas, podemos gestionarte un coche de cortesía (sujeto a disponibilidad) para que no pierdas el día de trabajo. Consúltanos tu caso y buscamos la mejor solución."
+    },
+    {
+      "q": "El coche ya tiene sus años y me da miedo que la reparación cueste más que el coche. ¿Sois claros con eso?",
+      "a": "Totalmente. Es nuestra política de honestidad. Si durante el diagnóstico vemos que el coste de la reparación es desproporcionado respecto al valor o estado general del vehículo, seremos los primeros en decírtelo. Te daremos nuestra opinión profesional y las diferentes opciones, incluyendo reparaciones con piezas de segunda mano si es viable, para que tú tomes la mejor decisión sin presiones."
+    },
+    {
+      "q": "Vengo de Cornellà, ¿me pilla muy a desmano vuestro taller en Sant Boi?",
+      "a": "Al contrario, es muy fácil llegar. La forma más directa es coger la C-245, que conecta directamente ambas ciudades. Es un trayecto de apenas 10-15 minutos dependiendo del tráfico. Muchos de nuestros clientes son de Cornellà, Sant Joan Despí o Viladecans porque valoran la transparencia y prefieren hacer un par de kilómetros extra a cambio de total confianza."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Sant Boi",
+  "closingCta": "Pide tu presupuesto cerrado por teléfono, WhatsApp o email. Nos pondremos en contacto contigo para darte una valoración honesta para tu coche aquí, en Sant Boi de Llobregat."
+}

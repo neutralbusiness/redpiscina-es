@@ -1,0 +1,182 @@
+{
+  "slug": "cordoba",
+  "name": "Córdoba",
+  "province": "Córdoba",
+  "ccaa": "Andalucía",
+  "population": 325708,
+  "lat": 37.89155,
+  "lng": -4.77275,
+  "metaTitle": "Taller mecánico en Córdoba — Multimarca y de confianza",
+  "metaDescription": "Tu taller en Córdoba para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Expertos en todas las marcas. Pide tu cita ahora.",
+  "heroSubtitle": "Conducir por Córdoba con 40 grados en verano o en el atasco de la Ronda no debería ser una preocupación para tu coche. Estamos aquí para eso.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si conduces por Córdoba, sabes que tu coche no se enfrenta a lo mismo que en otros lugares de España. El verano aquí no es una broma: los más de 40 grados que sufrimos durante semanas ponen a prueba la mecánica de cualquier vehículo. El sistema de aire acondicionado trabaja al límite, el circuito de refrigeración lucha por evitar un sobrecalentamiento en pleno atasco en la Ronda de los Tejares y la batería sufre un desgaste acelerado. No es una suposición, es una realidad que vemos cada día en nuestro taller con coches de barrios como Ciudad Jardín, Fátima o El Brillante. Entendemos que tu coche, ya sea un SEAT León para el día a día o una furgoneta Citroën Berlingo para tu negocio, necesita un mantenimiento adaptado a este clima extremo.\n\nAdemás del calor, el uso que le das a tu coche en Córdoba es particular. Combinas trayectos cortos y urbanos, con mucho para-arranca por el centro o por la zona del Zoco, con desplazamientos por autovía. Muchos cordobeses cogen la A-4 a diario para ir a polígonos como Las Quemadas o La Torrecilla, o la A-45 para escaparse a la costa. Esta mezcla es especialmente dura para los coches diésel, muy comunes en nuestro parque móvil. Los trayectos cortos ensucian el filtro de partículas (FAP) y la válvula EGR, mientras que la autovía exige que la distribución, los neumáticos y los frenos estén en perfecto estado. Conocemos bien los problemas típicos de los motores TDI, HDI y dCi que montan la mayoría de coches que circulan por nuestras calles.\n\nEl parque automovilístico de Córdoba es un reflejo de la ciudad: práctico y trabajador. Abundan los Peugeot, Renault, SEAT y Ford con unos cuantos años a sus espaldas, coches fiables que necesitan un cuidado experto para seguir siéndolo. No es lo mismo mantener un coche que duerme en la calle en el Sector Sur, soportando el sol y los cambios de temperatura, que uno que lo hace en una cochera en El Tablero. Por eso, nuestro enfoque es siempre local. Cuando nos traes tu coche, no solo vemos una marca y un modelo; vemos un vehículo que circula por la N-432 hacia la sierra, que sube las cuestas del Muriano o que se usa para repartir mercancía por el Polígono del Guadalquivir.\n\nNuestra misión es ofrecerte una solución honesta y profesional, adaptada a la realidad de conducir y mantener un coche en Córdoba. No te vamos a contar historias. Te explicaremos qué le pasa a tu vehículo, por qué le pasa (muchas veces, por las condiciones que te hemos contado) y te daremos un presupuesto cerrado para solucionarlo. Queremos ser tu taller de confianza, el lugar al que acudes sabiendo que entienden tu coche y tu contexto, ya vivas en el centro o te desplaces cada día desde pueblos cercanos como Almodóvar del Río o Fernán-Núñez. Porque tu tranquilidad al volante, incluso con el termómetro por las nubes, es nuestro principal objetivo.",
+  "servicesIntro": "Cubrimos todo lo que tu coche necesita para circular seguro por Córdoba y las carreteras de Andalucía, desde la revisión anual a la pre-ITV.",
+  "processIntro": "Sabemos que la confianza es clave. Por eso, te damos un presupuesto cerrado y no hacemos nada en tu coche sin tu aprobación explícita.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y nuestros técnicos realizan una inspección completa para identificar el origen del problema con equipos de diagnosis multimarca. No dejamos nada al azar."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin compromiso. El precio que te damos es el que pagas, sin sorpresas ni costes ocultos de última hora. Transparencia total."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ninguna pieza ni empezamos a trabajar hasta que nos das tu visto bueno. Te explicamos la reparación y solo cuando tú lo apruebas, nos ponemos manos a la obra con tu coche."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan la reparación siguiendo los estándares del fabricante para asegurar un trabajo bien hecho y duradero. Te mantenemos informado del proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos el trabajo realizado y te entregamos la factura. Unos días después, contactamos contigo para asegurar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El calor extremo de Córdoba, el tráfico urbano denso y los trayectos por la A-4 provocan un desgaste específico que vemos cada día en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Fallo del aire acondicionado en verano",
+      "body": "En Córdoba, el aire acondicionado no es un lujo, es una necesidad. Las temperaturas de más de 40°C fuerzan el compresor y todo el circuito, provocando fugas de gas o averías. Es el problema estrella de cada verano. Revisamos y reparamos el sistema para que no te quedes 'tirado' de calor en un atasco en la Avenida de Libia."
+    },
+    {
+      "title": "Sobrecalentamiento del motor",
+      "body": "El mismo calor, combinado con el tráfico lento del centro, puede llevar al sistema de refrigeración al límite. Un termostato, un manguito o un electroventilador que no funcionen bien pueden causar una avería grave. Nos aseguramos de que todo el circuito esté en perfecto estado para evitarte un susto en la cuesta del Espino."
+    },
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El trazado urbano de Córdoba, con sus calles estrechas, semáforos y badenes, especialmente en barrios como Sector Sur o Levante, castiga mucho el embrague y los frenos. Si notas que el pedal del embrague va duro o que el coche tarda en frenar, es hora de una revisión. Es un desgaste normal por el tipo de conducción en la ciudad."
+    },
+    {
+      "title": "Problemas con el filtro de partículas (FAP)",
+      "body": "El parque diésel en Córdoba es enorme. Muchos de esos coches se usan para trayectos cortos, como llevar a los niños al cole o ir a comprar al Zoco. Este uso impide que el filtro de partículas se regenere correctamente, provocando obstrucciones y averías costosas. Realizamos limpiezas y regeneraciones forzadas para evitarlo."
+    },
+    {
+      "title": "Neumáticos y amortiguadores castigados",
+      "body": "El asfalto a 60 grados en verano degrada el caucho de los neumáticos y acelera su desgaste. Además, los innumerables badenes y el estado de algunas calles secundarias en los polígonos o barrios periféricos pasan factura a los amortiguadores. Revisamos ambos elementos para garantizar tu seguridad y confort."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Especialistas en tu coche",
+      "body": "Trabajamos con todas las marcas, desde las más comunes en Córdoba como SEAT o Citroën hasta premium. Conocemos los puntos débiles y fuertes de cada una."
+    },
+    {
+      "title": "Presupuesto claro, sin sorpresas",
+      "body": "Te damos un precio cerrado antes de empezar. Lo que presupuestamos es lo que pagas. Sin asteriscos ni letra pequeña. La honestidad es nuestra principal herramienta."
+    },
+    {
+      "title": "Conocemos Córdoba y su clima",
+      "body": "No somos una franquicia sin alma. Entendemos cómo el calor y el tipo de conducción en nuestra ciudad afectan a tu coche y aplicamos soluciones preventivas."
+    },
+    {
+      "title": "Diagnóstico honesto y directo",
+      "body": "No cambiaremos una pieza si no es necesario. Te explicamos el problema de forma clara y te damos opciones. Buscamos la mejor solución para ti, no la más cara."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Todas nuestras intervenciones y los recambios que utilizamos están garantizados por escrito. Queremos que conduzcas con total tranquilidad después de pasar por nuestro taller."
+    }
+  ],
+  "testimonialsIntro": "Estos son ejemplos de situaciones reales que resolvemos a diario para conductores como tú, de barrios de toda Córdoba y sus alrededores.",
+  "testimonials": [
+    {
+      "name": "Manuel",
+      "neighborhood": "Ciudad Jardín",
+      "car": "SEAT León 1.9 TDI 2011",
+      "body": "Se me rompió el aire acondicionado a principios de junio, justo antes de que empezara el calor fuerte. Me agobié pensando en pasar el verano así. Los llamé, me dieron cita rápido, encontraron la fuga y lo recargaron. Me salvaron de asarme en el coche. Un trato muy profesional y directo.",
+      "rating": 5
+    },
+    {
+      "name": "Carmen",
+      "neighborhood": "El Brillante",
+      "car": "Peugeot 3008 1.6 HDI 2016",
+      "body": "Me saltó el chivato del filtro de partículas. Como uso el coche sobre todo por la ciudad, ya me temía lo peor. En el taller me explicaron el motivo, le hicieron una regeneración forzada y me dieron un par de consejos para evitar que volviera a pasar. Me ahorraron una reparación muy cara.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Fátima",
+      "car": "Renault Clio 1.2 2015",
+      "body": "Tenía que pasar la ITV en Las Quemadas y no estaba seguro de si pasaría. Lo llevé para una revisión pre-ITV y me detectaron las pastillas de freno delanteras bastante gastadas. No me había dado ni cuenta. Las cambiaron en el día y pasé la inspección sin un solo fallo. Muy recomendable.",
+      "rating": 5
+    },
+    {
+      "name": "Lucía",
+      "neighborhood": "Almodóvar del Río",
+      "car": "Ford Focus 1.0 EcoBoost 2018",
+      "body": "Notaba un ruido raro en la suspensión al coger baches. Como vengo a Córdoba a trabajar cada día, no podía quedarme sin coche. Me lo diagnosticaron rápido, era un silentblock. La pieza tardó un día más de lo previsto en llegar, pero me mantuvieron informada en todo momento. El coche ahora va perfecto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Córdoba y a sus alrededores. Si vives en cualquier barrio de la capital, desde Poniente hasta Levante o desde El Brillante hasta el Sector Sur, somos tu taller de confianza. Nuestra ubicación nos permite un acceso rápido desde las principales vías que conectan la ciudad, como la Ronda de Córdoba (CO-30) o la Autovía del Sur (A-4). Además, muchos de nuestros clientes vienen de municipios cercanos, ya que confían en nuestro servicio para el mantenimiento de sus coches. Si te desplazas a diario desde La Carlota, El Higuerón, Almodóvar del Río o Fernán-Núñez por la A-45 o la N-432, estamos a tu disposición para cualquier revisión o avería.",
+  "zoneNeighborhoods": [
+    "Ciudad Jardín",
+    "Zoco",
+    "El Brillante",
+    "Fátima",
+    "Sector Sur",
+    "Levante",
+    "Poniente",
+    "El Tablero",
+    "Almodóvar del Río",
+    "La Carlota"
+  ],
+  "zoneAccessRoutes": [
+    "A-4 (Autovía del Sur)",
+    "A-45 (Autovía de Málaga)",
+    "N-432 (Carretera de Granada-Badajoz)",
+    "CO-30 (Ronda de Córdoba)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Recomendáis alguna revisión especial por el calor de Córdoba?",
+      "a": "Sin duda. Antes de que llegue el verano, es fundamental revisar el sistema de aire acondicionado (carga de gas y posibles fugas), el circuito de refrigeración (nivel de anticongelante y estado de los manguitos) y la presión de los neumáticos. El calor extremo de aquí somete a estos elementos a un estrés máximo y una revisión preventiva puede evitarte una avería en el peor momento."
+    },
+    {
+      "q": "Mi coche es diésel y solo lo uso por la ciudad, ¿qué mantenimiento necesita?",
+      "a": "Este es un caso muy común en Córdoba. El uso urbano en un diésel moderno tiende a obstruir el filtro de partículas (FAP/DPF) y la válvula EGR. Te recomendamos salir a carretera de vez en cuando y conducir a revoluciones un poco más altas durante unos 15-20 minutos. Además, en el taller podemos realizar limpiezas preventivas para alargar la vida de estos componentes."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Las Quemadas, ¿vuestra pre-ITV lo cubre todo?",
+      "a": "Sí. Nuestro servicio de pre-ITV es una inspección completa donde revisamos los mismos puntos que miran en la estación de Las Quemadas o la del Polígono del Guadalquivir: luces, frenos, suspensión, neumáticos, emisiones, etc. Si detectamos cualquier defecto, te damos presupuesto para solucionarlo y que pases la ITV a la primera sin problemas."
+    },
+    {
+      "q": "Vivo en un pueblo cerca de Córdoba, ¿es un problema para dejar el coche?",
+      "a": "Para nada. Muchos clientes vienen de pueblos de la vega y la campiña. Para facilitarles la logística, ofrecemos un coche de cortesía (sujeto a disponibilidad) para que puedan seguir con su día mientras reparamos el suyo. Consúltanos al pedir tu cita para que podamos reservártelo."
+    },
+    {
+      "q": "¿Qué tipo de neumáticos son mejores para el clima de aquí?",
+      "a": "Para Córdoba, lo más recomendable son los neumáticos de verano de buena calidad o unos 'all-season' si viajas ocasionalmente a zonas más frías en invierno. Los neumáticos de invierno no tienen sentido aquí. Es crucial elegir un compuesto que soporte bien las altas temperaturas del asfalto para no comprometer la seguridad ni la durabilidad."
+    },
+    {
+      "q": "¿El polvo de la calima que a veces tenemos afecta al coche?",
+      "a": "Sí, afecta más de lo que parece. Ese polvo tan fino puede obstruir prematuramente el filtro de aire del motor y el filtro de habitáculo. Un filtro de aire sucio aumenta el consumo de combustible, y uno de habitáculo reduce el rendimiento del aire acondicionado. Recomendamos revisarlos con más frecuencia si el coche ha estado expuesto a episodios intensos de calima."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Córdoba",
+  "closingCta": "No dejes que una avería te arruine el día. Pide tu presupuesto cerrado para tu coche en Córdoba por teléfono, WhatsApp o rellenando el formulario. Te responderemos lo antes posible."
+}

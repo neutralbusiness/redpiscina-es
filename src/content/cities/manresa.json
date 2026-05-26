@@ -1,0 +1,182 @@
+{
+  "slug": "manresa",
+  "name": "Manresa",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 76250,
+  "lat": 41.72815,
+  "lng": 1.82399,
+  "metaTitle": "Taller mecánico en Manresa — Multimarca y de confianza",
+  "metaDescription": "Tu taller mecánico en Manresa para revisiones, averías y neumáticos. Presupuesto cerrado, sin sorpresas. Pide tu cita y conduce tranquilo por el Bages.",
+  "heroSubtitle": "¿Cansado de talleres que no entienden el trote diario de tu coche por la C-55 o el frío del Bages? Aquí te damos un diagnóstico claro y un precio final.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives o trabajas en Manresa, sabes que tu coche no es un lujo, es una necesidad. Ya sea para bajar cada día por la C-55 hacia la órbita de Barcelona, cruzar Cataluña por el Eix Transversal (C-25) o simplemente para moverte por los polígonos como Bufalvent, necesitas un coche que responda. En nuestro taller de Manresa entendemos perfectamente el día a día de un conductor del Bages: atascos a primera hora, trayectos largos y un clima que no perdona. Por eso, nos centramos en ofrecerte un servicio de mecánica honesto, con un presupuesto cerrado para que sepas desde el primer minuto cuánto te va a costar la reparación, sin sorpresas de última hora.\n\nEl clima del Pla de Bages es de extremos y tu coche lo nota. Los inviernos son fríos y húmedos, con esa niebla (la *boira*) tan característica que se come las baterías y puede provocar fallos eléctricos inesperados. ¿A quién no le ha costado arrancar el coche en una mañana helada en barrios como la Balconada o el Poble Nou? Luego llega el verano, con un calor seco y asfixiante que pone a prueba el sistema de refrigeración y el aire acondicionado. Un mantenimiento preventivo adaptado a este clima no es una opción, es la clave para evitar quedarte tirado de camino a Cardona o volviendo del trabajo.\n\nEl parque móvil de Manresa y comarca es variado, pero muy representativo de la clase trabajadora: vemos a diario muchos SEAT León, Renault Clio, Peugeot 308, Ford Focus y furgonetas como la Citroën Berlingo o la Peugeot Partner. Son coches fiables, la mayoría diésel o gasolina con unos cuantos años encima, que acumulan kilómetros en trayectos interurbanos. Conocemos al dedillo los puntos débiles y las virtudes de estos motores. Sabemos qué pieza tiende a fallar en ese motor TDI que sube cada día a Montserrat o qué hay que revisar en ese motor de gasolina que hace trayectos cortos por el centro.\n\nPor eso, cuando traes tu coche a nuestro taller en Manresa, no solo vemos un vehículo; vemos a un vecino de Sant Joan de Vilatorrada que necesita su furgoneta para trabajar, a una familia de la Sagrada Familia que prepara su coche para las vacaciones o a un estudiante que usa su utilitario para ir a la universidad. Hablamos tu mismo idioma. Entendemos la importancia de tener el coche listo para pasar la ITV en la estación de Manresa y la frustración que genera una avería imprevista. Nuestro compromiso es darte una solución clara, profesional y a un precio justo, para que puedas seguir con tu vida con total tranquilidad.",
+  "servicesIntro": "Desde la revisión para aguantar el trote diario por la C-25 hasta el cambio de neumáticos para el invierno del Bages, cubrimos todo lo que tu coche necesita.",
+  "processIntro": "Sabemos que necesitas tu coche para moverte por Manresa y el Bages. Por eso trabajamos con un presupuesto cerrado y te lo explicamos todo con claridad.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y nuestros técnicos realizan una inspección completa para identificar el origen del problema con precisión. No dejamos nada al azar."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te entregamos un presupuesto detallado, explicando cada punto. El precio que ves es el precio final que pagarás, sin costes ocultos ni sorpresas. La transparencia es nuestra prioridad."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No empezamos ninguna reparación ni cambiamos ninguna pieza sin tu aprobación explícita. Tienes el control total y solo procederemos cuando nos des luz verde."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas y te informamos del tiempo estimado de la reparación. Todas nuestras intervenciones están garantizadas para tu tranquilidad."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El clima del Pla de Bages, con su niebla invernal y calor de verano, y el uso intensivo del coche para ir a trabajar, provocan averías muy concretas que conocemos bien.",
+  "commonIssues": [
+    {
+      "title": "Baterías y alternadores en invierno",
+      "body": "La combinación de frío y humedad de los inviernos en Manresa es letal para las baterías. Si notas que a tu coche le cuesta arrancar por la mañana, es un aviso. Comprobamos el estado de tu batería y el alternador para que la *boira* no te deje tirado."
+    },
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico denso para entrar y salir de Manresa por la C-55 o los recorridos urbanos por el centro con sus semáforos y rotondas castigan mucho el embrague y los frenos. Si el pedal del embrague va duro o el coche frena peor, es hora de una revisión."
+    },
+    {
+      "title": "Fallos en el aire acondicionado",
+      "body": "En julio y agosto, conducir por el Bages sin aire acondicionado es una tortura. El calor extremo fuerza el sistema al máximo. Revisamos el circuito, detectamos fugas y recargamos el gas para que solo te preocupes de la carretera, no del calor."
+    },
+    {
+      "title": "Mantenimiento de la distribución",
+      "body": "Muchos de nuestros clientes hacen más de 20.000 km al año por el Eix Transversal (C-25) o autovías. Esto exige un control estricto de la correa de distribución. Un cambio a tiempo evita una avería de motor muy costosa. Lo revisamos según las indicaciones del fabricante."
+    },
+    {
+      "title": "Suspensión y silentblocks",
+      "body": "Las carreteras secundarias que conectan Manresa con pueblos como Fonollosa o Aguilar de Segarra, junto a los badenes de la ciudad, pasan factura a la suspensión. Ruidos raros al pasar por un bache o inestabilidad en curva son síntomas claros. Revisamos amortiguadores y silentblocks."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "Te damos un precio cerrado antes de empezar. Lo que presupuestamos es lo que pagas. Ni un céntimo más. Así de simple y honesto."
+    },
+    {
+      "title": "Conocemos tu coche y tu zona",
+      "body": "Sabemos cómo afecta el clima del Bages a tu vehículo y qué desgaste provocan las carreteras de aquí. No somos un taller genérico, somos tu taller local."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Reparamos y mantenemos coches de todas las marcas, desde un Dacia hasta un Mercedes. Tenemos el equipo de diagnosis y la experiencia para cuidar de tu vehículo, sea cual sea."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "Solo reparamos lo que es necesario. Si una pieza puede aguantar, te lo diremos. Nuestro objetivo es que confíes en nosotros a largo plazo, no una reparación rápida."
+    },
+    {
+      "title": "Pasamos la ITV por ti",
+      "body": "Ahorra tiempo y nervios. Hacemos una revisión pre-ITV completa, corregimos los posibles fallos y, si quieres, llevamos tu coche a la estación de Manresa por ti."
+    }
+  ],
+  "testimonialsIntro": "No nos creas sin más. Aquí tienes algunos ejemplos de situaciones reales que solucionamos cada día para conductores de Manresa y alrededores.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Passeig i Rodalies",
+      "car": "SEAT León ST 2016",
+      "body": "Hago el trayecto Manresa-Terrassa cada día por la C-55 y el embrague empezó a patinar. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial, y en dos días tenía el coche listo. El trato fue muy claro y profesional, sin rodeos. Muy recomendables.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat",
+      "neighborhood": "Valldaura",
+      "car": "Peugeot 3008 2018",
+      "body": "El aire acondicionado dejó de enfriar justo antes de irnos de vacaciones en agosto. Fue un drama. Los llamé, me dieron cita para el día siguiente y encontraron una pequeña fuga. Lo solucionaron en unas horas. Nos salvaron el viaje. ¡Un servicio de 10!",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Sant Fruitós de Bages",
+      "car": "Renault Kangoo 2014",
+      "body": "Uso la furgoneta para trabajar y no puedo permitirme tenerla parada. Tocaba hacer la distribución y me preocupaba el coste. Me explicaron todo el proceso, el precio fue el acordado y cumplieron el plazo. Se nota que saben lo que hacen. Volveré seguro.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "La Balconada",
+      "car": "Ford Fiesta 2015",
+      "body": "Tenía que pasar la ITV y siempre me pongo nerviosa. Les pedí una revisión pre-ITV. Me cambiaron una bombilla fundida y ajustaron los frenos. El coche pasó a la primera sin problemas. Me ahorraron un viaje y muchos nervios. El trato fue muy amable.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Manresa da servicio a toda la ciudad y a la comarca del Bages. Si vives en barrios como el Centre Històric, Vic-Remei, la Sagrada Família, Poble Nou o las Escodines, estamos a tu lado para cualquier necesidad de tu coche. También somos el taller de confianza para muchos conductores de municipios cercanos que vienen a Manresa a trabajar o a comprar, como Sant Joan de Vilatorrada, Sant Fruitós de Bages, El Pont de Vilomara i Rocafort o Sant Salvador de Guardiola. Gracias a nuestra ubicación, es fácil llegar a través de las principales vías de acceso como la C-25 (Eix Transversal), la C-55 o la C-37z, arterias que conectan toda la Cataluña central y que sabemos que usas a diario.",
+  "zoneNeighborhoods": [
+    "Manresa Centre",
+    "Passeig i Rodalies",
+    "Valldaura",
+    "Poble Nou",
+    "La Balconada",
+    "Sagrada Família",
+    "Sant Joan de Vilatorrada",
+    "Sant Fruitós de Bages",
+    "El Pont de Vilomara",
+    "Sant Salvador de Guardiola"
+  ],
+  "zoneAccessRoutes": [
+    "C-25 (Eix Transversal)",
+    "C-55 (Eix del Llobregat)",
+    "C-37z",
+    "Antiga carretera N-141c"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Es necesario pedir cita para la revisión si vengo de Sant Fruitós de Bages?",
+      "a": "Sí, siempre recomendamos pedir cita previa. Así podemos garantizar que te atenderemos nada más llegar y que tendremos el elevador y al técnico listos para tu coche. Entendemos que vienes de fuera y tu tiempo es oro. Llámanos o escríbenos y te daremos la primera hora disponible que te vaya bien."
+    },
+    {
+      "q": "Mi coche sufre mucho en invierno con la niebla de Manresa, ¿qué revisión recomendáis?",
+      "a": "Es una consulta muy habitual. Para el invierno del Bages, recomendamos una revisión de los 'puntos críticos': estado de la batería y del alternador, nivel y calidad del líquido anticongelante, estado de las escobillas del limpiaparabrisas y, sobre todo, el funcionamiento de todas las luces, incluidas las antiniebla. Es una revisión rápida y económica que te dará mucha seguridad."
+    },
+    {
+      "q": "Hago muchos kilómetros por el Eix Transversal (C-25), ¿cada cuánto debo revisar los neumáticos?",
+      "a": "El Eix es una vía rápida que provoca un desgaste regular pero constante. Además de revisar las presiones cada mes, te aconsejamos hacer una inspección visual de la banda de rodadura y los flancos cada 5.000 km. Si notas vibraciones o que el coche se va hacia un lado, ven a vernos para hacer un equilibrado y una alineación. La seguridad es lo primero."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Manresa, ¿ofrecéis servicio de Pre-ITV?",
+      "a": "Por supuesto. Es uno de nuestros servicios más demandados. Hacemos una revisión exhaustiva de los mismos puntos que miran en la estación de ITV de Manresa: luces, frenos, suspensión, neumáticos y emisiones. Si detectamos algo, te damos presupuesto para solucionarlo y, si quieres, nos encargamos de llevar el coche a la inspección por ti."
+    },
+    {
+      "q": "El aire acondicionado no enfría para el calor de verano del Bages, ¿lo podéis arreglar?",
+      "a": "Sí, claro. Sabemos que en verano el aire acondicionado es vital aquí. Realizamos el diagnóstico completo del sistema: comprobamos si hay fugas en el circuito, el estado del compresor y hacemos la recarga de gas si es necesario. En la mayoría de los casos es una reparación rápida para que vuelvas a conducir fresco."
+    },
+    {
+      "q": "Mi coche es diésel y ya tiene unos años, ¿qué puedo hacer para que no contamine tanto?",
+      "a": "Es una preocupación lógica. Un buen mantenimiento es clave. Te recomendamos hacer una limpieza del sistema de inyección y del filtro de partículas (FAP) o la válvula EGR. Esto no solo reduce las emisiones para pasar la ITV, sino que también mejora el rendimiento y el consumo del coche. Pregúntanos y te asesoraremos sobre la mejor opción para tu motor."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Manresa",
+  "closingCta": "Si tu coche necesita una revisión o notas algo raro, no esperes a que se convierta en una avería seria. Pide tu presupuesto cerrado para nuestro taller de Manresa por teléfono, WhatsApp o email. Conducirás más tranquilo."
+}

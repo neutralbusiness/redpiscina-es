@@ -1,0 +1,181 @@
+{
+  "slug": "san-sebastian-de-los-reyes",
+  "name": "San Sebastián de los Reyes",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 75912,
+  "lat": 40.55555,
+  "lng": -3.62733,
+  "metaTitle": "Taller mecánico en San Sebastián de los Reyes | Para coches con años",
+  "metaDescription": "¿Tu coche ya tiene unos años y temes cada visita al taller? En San Sebastián de los Reyes te damos un presupuesto cerrado y sin sorpresas. Pide tu cita.",
+  "heroSubtitle": "Si cada vez que tu coche entra al taller en Sanse cruzas los dedos, respira. Te damos un diagnóstico claro y un precio cerrado.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Entendemos perfectamente esa sensación. Tienes un coche con más de diez años, que te ha llevado y te ha traído mil veces por la A-1 para ir a trabajar a Madrid, que ha subido y bajado la Avenida de Europa incontables ocasiones y que te conoce las calles del centro de San Sebastián de los Reyes mejor que nadie. Funciona, te lleva, pero cada ruido nuevo, cada luz que se enciende en el cuadro, te provoca un nudo en el estómago. Piensas: 'a ver qué es esta vez y cuánto me va a costar'. No estás solo. La mayoría de coches que vemos a diario en nuestros talleres de Sanse son como el tuyo: vehículos fiables pero con una década de servicio, que necesitan un mecánico que entienda su edad y tus preocupaciones, no uno que solo quiera venderte una reparación carísima o, peor, que te sugiera cambiar de coche.\n\nEl clima de la Comunidad de Madrid es especialmente duro con la mecánica, y en Sanse lo sabemos bien. No es lo mismo un coche que duerme en un garaje de Tempranales que uno que pasa las noches a la intemperie en Los Arroyos. Los veranos son un horno: el asfalto quema y el sol castiga los plásticos, manguitos y el sistema de refrigeración, sobre todo en los atascos de la A-1 en julio. Luego llega el invierno, con esas heladas secas que te dejan la batería tiritando por la mañana. Ese cambio radical de más de 40 grados entre estaciones pasa factura a juntas, líquidos y componentes electrónicos. Un coche de 2010 no está fabricado con los mismos materiales que uno actual; el desgaste por los extremos climáticos de nuestra zona es acumulativo y requiere un ojo experto que sepa dónde mirar para prevenir la avería gorda, no solo para repararla cuando ya es tarde y te ha dejado tirado cerca del Plaza Norte 2.\n\nAdemás del clima, está el uso que le das. San Sebastián de los Reyes ha crecido mucho, pero sigue teniendo esa mezcla de ciudad dormitorio y núcleo con vida propia. Eso se traduce en un patrón de uso muy concreto: trayectos cortos y frecuentes. Ir al Mercadona de La Dehesa Vieja, llevar a los niños al colegio, acercarse a Alcobendas... Esos arranques en frío y viajes de menos de 15 minutos son veneno para un motor diésel con filtro de partículas y provocan un desgaste prematuro en el motor de arranque y el embrague. No es lo mismo hacer 30 kilómetros de autovía del tirón que ocho trayectos de 4 kilómetros a lo largo del día. Tu coche sufre un desgaste muy específico, diferente al de un coche que solo pisa carretera. Nosotros conocemos ese patrón y sabemos qué componentes revisar para que esos trayectos cortos no acaben en una avería seria y costosa.\n\nPor eso, nuestro enfoque es radicalmente distinto. Cuando traes tu coche a nuestro taller de San Sebastián de los Reyes, lo primero que hacemos es escucharte a ti. ¿Qué ruido hace? ¿Cuándo lo hace? ¿Qué notaste? Después, hacemos un diagnóstico completo, sí, pero te lo explicamos en un lenguaje que entiendes. Sin tecnicismos para abrumarte. Y lo más importante: te damos un presupuesto cerrado. Cerrado significa cerrado. El precio que te damos es el que pagas, ni un euro más. Si durante la reparación encontramos algo más —algo que puede pasar en un coche con años—, paramos, cogemos el móvil, te llamamos, te lo explicamos con fotos si hace falta y te damos un nuevo presupuesto para esa pieza. Nunca, jamás, tocaremos nada sin tu aprobación explícita. Se acabó el miedo a la factura al recoger el coche.\n\nNuestra misión no es cambiar piezas sin más. Es darte la tranquilidad de que tu coche, aunque ya no sea un chaval, puede seguir siendo tu compañero de viaje fiable durante mucho más tiempo. Queremos que puedas seguir moviéndote por Sanse y sus alrededores con la seguridad de que la mecánica está en buen estado y, sobre todo, con la paz mental de que tienes un taller de confianza que no te va a buscar las vueltas. Desde una revisión pre-ITV para que vayas sobre seguro al centro de la A-1, hasta una distribución o un cambio de embrague, estamos aquí para cuidar de tu coche y de tu bolsillo. Porque un coche con años bien mantenido es mucho más inteligente que una letra nueva cada mes.",
+  "servicesIntro": "Realizamos desde la revisión anual hasta la mecánica más compleja para tu coche en San Sebastián de los Reyes, siempre con precios claros.",
+  "processIntro": "Trabajamos para que no tengas sorpresas: te explicamos todo y te damos un presupuesto cerrado antes de empezar la reparación.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico y escucha",
+      "body": "Cuando llegas, no solo conectamos el coche a la máquina. Primero te escuchamos a ti. Nos cuentas qué notas y cuándo. Tu experiencia es la primera pista para un buen diagnóstico."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Analizamos el problema y calculamos el coste de la reparación, incluyendo piezas y mano de obra. Te enviamos un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos una sola pieza ni aflojamos un tornillo hasta que nos das tu visto bueno. Si durante el proceso surge un imprevisto, paramos y volvemos a contactar contigo. Tú tienes el control."
+    },
+    {
+      "title": "Reparación",
+      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan el trabajo siguiendo las especificaciones del fabricante para asegurar un resultado fiable y duradero."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos cuando tu coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El calor extremo del verano, las heladas de invierno y el tipo de conducción en Sanse provocan averías muy concretas que vemos cada día en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Baterías que fallan en invierno",
+      "body": "En San Sebastián de los Reyes, las mañanas de invierno bajo cero son la prueba de fuego para cualquier batería, sobre todo si el coche duerme en la calle. El frío intenso reduce su capacidad de entrega de corriente. Si tu coche tiene más de 4 años, es probable que un día no arranque. Comprobamos su estado real y te aconsejamos si es momento de cambiarla antes de que te deje tirado."
+    },
+    {
+      "title": "Sobrecalentamiento en atascos de la A-1",
+      "body": "Llega junio y la A-1 se convierte en un infierno. El calor, sumado al tráfico lento, fuerza al máximo el sistema de refrigeración. Un termostato perezoso o un radiador sucio pueden provocar un sobrecalentamiento. Revisamos el circuito completo para asegurar que tu coche aguanta el verano de Madrid sin sustos."
+    },
+    {
+      "title": "Filtro de partículas (FAP) obstruido",
+      "body": "El uso típico en Sanse, con muchos trayectos cortos para ir a la compra o al trabajo en Alcobendas, es el peor enemigo de los diésel modernos. El motor no alcanza la temperatura para regenerar el filtro de partículas, que acaba obstruyéndose y provocando una avería cara. Realizamos diagnosis y limpiezas forzadas para evitar su sustitución."
+    },
+    {
+      "title": "Silentblocks y suspensión castigados",
+      "body": "La proliferación de badenes en zonas residenciales como Dehesa Vieja o Tempranales, junto con el asfalto a veces irregular de las calles más antiguas, pasa factura a la suspensión. Los silentblocks se agrietan y los amortiguadores pierden eficacia, causando ruidos y un mal comportamiento. Revisamos el tren de rodaje en busca de holguras."
+    },
+    {
+      "title": "Manguitos y plásticos del motor resecos",
+      "body": "El vano motor de un coche aparcado al sol en verano en Sanse puede alcanzar temperaturas altísimas. Este calor extremo acelera el envejecimiento de los componentes de goma y plástico, como los manguitos del refrigerante o de la admisión. Una inspección visual a tiempo puede detectar una fisura antes de que cause una avería mayor."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Expertos en coches con años",
+      "body": "Nos centramos en alargar la vida de tu coche, no en venderte reparaciones innecesarias. Conocemos los puntos débiles de los modelos con más de una década y sabemos cómo cuidarlos."
+    },
+    {
+      "title": "Presupuesto a prueba de sustos",
+      "body": "Nuestra regla de oro es el presupuesto cerrado. El importe que apruebas es el importe que pagas. Se acabó la incertidumbre y el miedo a la factura final al recoger tu coche."
+    },
+    {
+      "title": "Diagnóstico claro y honesto",
+      "body": "Te explicamos la avería en un lenguaje que entiendes, separando lo urgente de lo recomendable. No te cambiaremos una pieza 'por si acaso'. Solo reparamos lo que es necesario."
+    },
+    {
+      "title": "Conocemos tu entorno",
+      "body": "Sabemos cómo afecta a tu coche conducir a diario por San Sebastián de los Reyes: el clima, el tráfico, los badenes... Nuestro diagnóstico tiene en cuenta el desgaste local real."
+    },
+    {
+      "title": "Comunicación directa y constante",
+      "body": "Te mantenemos informado durante todo el proceso. Cualquier imprevisto, te llamamos. Cualquier duda, nos preguntas. Eres parte del proceso de reparación de tu coche, no un espectador."
+    }
+  ],
+  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que nos encontramos cada día en nuestro taller de Sanse.",
+  "testimonials": [
+    {
+      "name": "Carlos",
+      "neighborhood": "Dehesa Vieja",
+      "car": "Seat León TDI 2012",
+      "body": "Tenía la luz del motor encendida y el coche no tiraba. En otro sitio me hablaron de cambiar el filtro de partículas y me dieron un presupuesto que me asustó. Aquí me explicaron que era por hacer solo ciudad por Sanse y Alcobendas. Hicieron una regeneración forzada y el coche vuelve a ir perfecto por una fracción del coste. Muy honestos.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Los Arroyos",
+      "car": "Renault Clio 2009",
+      "body": "Mi coche tiene sus años y siempre voy con miedo al taller. Me tocaba la distribución y pedí presupuesto aquí. Me lo dieron cerrado y por escrito. Cumplieron con el precio y el plazo. Te explican todo de forma que lo entiendes y te dan mucha tranquilidad. Volveré para la revisión sin dudarlo.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Centro",
+      "car": "Ford Focus 2011",
+      "body": "Notaba un ruido metálico en los baches y estaba preocupado. Lo revisaron y vieron que era un silentblock del brazo de suspensión. Me enseñaron la pieza rota y la nueva. El presupuesto fue muy razonable y el ruido ha desaparecido por completo. Se agradece que no intenten 'colarte' cosas.",
+      "rating": 5
+    },
+    {
+      "name": "Ana",
+      "neighborhood": "Alcobendas",
+      "car": "Opel Astra 2014",
+      "body": "Me recomendaron este taller y, aunque vivo en Alcobendas, me animé a probar. El trato es muy cercano y profesional. Tenía un problema con el aire acondicionado y lo solucionaron rápido. Lo que más me gustó fue que me llamaron para confirmar el presupuesto antes de hacer nada. Buen servicio.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller da servicio principalmente a conductores de San Sebastián de los Reyes, cubriendo todos sus barrios, desde los más nuevos como Tempranales y Dehesa Vieja hasta zonas más consolidadas como Los Arroyos, Rosa Luxemburgo o el casco urbano. Entendemos las necesidades de los que se mueven por los polígonos industriales como el Polígono Norte o el de Moscatelares. Además, por nuestra ubicación y excelentes comunicaciones, somos una opción muy cómoda para vecinos de Alcobendas. El acceso es sencillo y rápido a través de las grandes vías que nos rodean, como la autovía A-1, la M-50 y arterias principales como la Avenida de Europa, facilitando que puedas dejarnos tu coche y seguir con tu día sin complicaciones.",
+  "zoneNeighborhoods": [
+    "Dehesa Vieja",
+    "Los Arroyos",
+    "Tempranales",
+    "Rosa Luxemburgo",
+    "Centro Urbano",
+    "Polígono Industrial Norte",
+    "Alcobendas",
+    "La Moraleja",
+    "El Juncal"
+  ],
+  "zoneAccessRoutes": [
+    "A-1 (Autovía del Norte)",
+    "M-50",
+    "R-2 (Radial 2)",
+    "Avenida de Europa"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi coche duerme en la calle en Sanse, ¿necesita algún cuidado extra por el clima?",
+      "a": "Sí. El clima continental de Madrid es muy agresivo. En invierno, el frío intenso debilita la batería y espesa los aceites, dificultando el arranque. En verano, el sol y el calor extremo resecan plásticos y gomas del motor. Te recomendamos revisar la batería antes del invierno y el sistema de refrigeración antes del verano para evitar sorpresas desagradables."
+    },
+    {
+      "q": "Hago solo trayectos cortos por Sanse y Alcobendas, ¿es malo para mi coche diésel?",
+      "a": "Sí, es uno de los usos más perjudiciales para un diésel moderno. Estos trayectos no permiten que el filtro de partículas (FAP/DPF) se regenere correctamente, lo que provoca su obstrucción y una posible avería costosa. Si este es tu caso, es vital hacer una revisión periódica del sistema y, si es posible, realizar un trayecto más largo por autovía (como la A-1 o M-50) una vez a la semana."
+    },
+    {
+      "q": "Tengo que pasar la ITV en el centro de la A-1, ¿me ayudáis a prepararlo?",
+      "a": "Por supuesto. Ofrecemos un servicio de revisión Pre-ITV muy completo. Comprobamos los puntos clave que miran en la inspección: frenos, suspensión, neumáticos, luces y, muy importante, la emisión de gases. Si detectamos cualquier problema, te damos un presupuesto cerrado para solucionarlo y que vayas a la ITV con la total tranquilidad de que vas a pasarla a la primera."
+    },
+    {
+      "q": "Vivo en Dehesa Vieja y hay muchísimos badenes, ¿cómo afecta a mi coche?",
+      "a": "Los badenes son un castigo para la suspensión. Cada golpe, por suave que sea, se transmite a los amortiguadores, muelles, silentblocks y rótulas. Con el tiempo, esto provoca holguras, ruidos y un desgaste prematuro. En tu revisión, prestamos especial atención a estos componentes para detectar cualquier signo de fatiga y evitar problemas mayores de seguridad y confort."
+    },
+    {
+      "q": "Vuestro presupuesto es cerrado, ¿qué pasa si encontráis otra avería durante la reparación?",
+      "a": "Si al reparar el problema presupuestado descubrimos otra anomalía, detenemos el trabajo inmediatamente. Te llamaremos, te explicaremos con detalle qué hemos encontrado (incluso con fotos o vídeos si lo necesitas), te diremos la urgencia que tiene y te daremos un segundo presupuesto independiente para esa nueva tarea. Nunca repararemos nada extra sin tu consentimiento explícito."
+    },
+    {
+      "q": "Trabajo en el Polígono Industrial Norte, ¿tenéis facilidades para dejar y recoger el coche?",
+      "a": "Sí, entendemos perfectamente la logística de trabajar en los polígonos de Sanse. Ofrecemos flexibilidad en los horarios de entrega y recogida, y si lo necesitas y tenemos disponibilidad, podemos valorar opciones como un coche de cortesía (consulta condiciones) para que no pierdas tu jornada laboral. Llámanos y vemos cómo podemos adaptarnos a tu caso particular."
+    }
+  ],
+  "closingHeadline": "Deja tu coche en buenas manos en Sanse",
+  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita en nuestro taller de San Sebastián de los Reyes para que vuelvas a conducir con total tranquilidad."
+}

@@ -1,0 +1,192 @@
+{
+  "slug": "barcelona",
+  "name": "Barcelona",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 1686208,
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "metaTitle": "Taller mecánico en Barcelona — Multimarca y de confianza",
+  "metaDescription": "Tu taller mecánico en Barcelona para cualquier marca. Presupuesto cerrado y sin sorpresas. Revisiones, averías, neumáticos e ITV. Pide tu cita ahora.",
+  "heroSubtitle": "Para ti, que usas el coche en el tráfico de Barcelona, subes por la Arrabassada o coges las Rondas cada día. Cuidamos tu coche de verdad.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Expertos multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Revisión Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir en Barcelona es una historia de contrastes. Es el atasco de primera hora en la Ronda de Dalt (B-20) para ir a trabajar al Vallès, el callejeo constante por l'Eixample buscando un sitio para aparcar, o el trayecto tranquilo de fin de semana por la C-31 hacia las playas del Garraf. Cada uno de estos usos desgasta tu coche de una manera muy particular. El embrague y los frenos sufren en el interminable 'arranca-para' de la Gran Via, mientras que el motor diésel de tu coche, si apenas sale de la ciudad, lucha por mantener limpio el filtro de partículas. En nuestro taller de Barcelona, no vemos solo un coche; vemos tu coche, el que usas para llevar a los niños al cole en Sarrià, para hacer la compra en Sants o para escaparte a la montaña desde Horta.\n\nEl clima mediterráneo de Barcelona, con su humedad y salinidad, también juega su papel. Si aparcas habitualmente cerca del frente marítimo, desde la Barceloneta hasta el Fòrum, la corrosión puede empezar a afectar sigilosamente a los bajos del coche, a los conductos del aire acondicionado y a las conexiones eléctricas. Y qué decir del verano. El calor intenso pone a prueba el sistema de refrigeración y el climatizador, dos elementos que más vale tener a punto cuando la ciudad se convierte en un horno. Por eso, nuestro enfoque va más allá de una simple reparación: entendemos el ecosistema en el que se mueve tu vehículo, ya sea un SEAT León familiar, un Peugeot 208 para moverte por Gràcia o un BMW de más edad que necesita un cuidado experto para pasar la ITV y cumplir con la Zona de Bajas Emisiones (ZBE).\n\nSabemos que tu tiempo es oro y que depender del transporte público no siempre es una opción viable. Necesitas un taller que entienda la urgencia de tener el coche listo, que te dé un presupuesto claro y sin sorpresas y que no te haga perder mañanas enteras. Ya seas un autónomo que cruza la ciudad por las Rondas para visitar clientes, o una familia que usa el coche para las salidas del fin de semana, nuestro compromiso es ofrecerte un servicio honesto y profesional. Conocemos el parque automovilístico de Barcelona, dominado por coches de entre 5 y 15 años, y estamos preparados para solucionar desde el problema más común hasta esa avería eléctrica que te trae de cabeza.\n\nNuestro taller está pensado para el conductor de Barcelona y su área metropolitana. Para ti, que vienes de L'Hospitalet, Badalona, Santa Coloma o Sant Adrià, y buscas un sitio de confianza sin tener que adentrarte en el caos del centro. Te ofrecemos un diagnóstico claro, una explicación de lo que le ocurre a tu coche en un lenguaje que entiendes y la tranquilidad de saber que solo procederemos con tu autorización explícita. Porque un coche bien mantenido no es un lujo, es una necesidad para disfrutar de todo lo que Barcelona y sus alrededores te ofrecen, desde la montaña de Montjuïc hasta el Montseny.",
+  "servicesIntro": "Desde la revisión anual para tu coche antes de irte de vacaciones por la AP-7 hasta la reparación del embrague desgastado por el tráfico de la Meridiana.",
+  "processIntro": "Trabajamos con total transparencia. Primero diagnosticamos, luego te damos un presupuesto cerrado y solo reparamos con tu visto bueno. Así de simple.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico inicial",
+      "body": "Cuando traes tu coche, escuchamos qué te preocupa y nuestros técnicos realizan una inspección completa para identificar el origen del problema con precisión. No dejamos nada al azar."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas, sin costes ocultos ni sorpresas de última hora. La claridad es nuestra prioridad."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni empezamos ninguna reparación hasta que nos das tu confirmación explícita. Tienes el control total sobre lo que se le hace a tu coche y a tu bolsillo."
+    },
+    {
+      "title": "Reparación experta",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos se encargan de la reparación siguiendo los estándares del fabricante para asegurar un resultado duradero y fiable."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "Estos son los problemas que más vemos en los coches de Barcelona, causados por el tráfico denso de la ciudad, la humedad del mar y el uso diario en las Rondas.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El tráfico 'acordeón' de las Rondas (B-10, B-20) y el callejeo constante por distritos como l'Eixample o Gràcia castigan el sistema de embrague y los frenos. Realizamos sustituciones con componentes de alta calidad para que aguantes miles de kilómetros de atascos sin problemas."
+    },
+    {
+      "title": "Filtro de partículas (FAP) obstruido",
+      "body": "Muchos diésel en Barcelona no salen de la ciudad, lo que impide que el FAP se regenere correctamente. Si tu coche da tirones o ha perdido potencia, es un síntoma claro. Realizamos limpiezas químicas y regeneraciones forzadas para que vuelvas a circular sin humos y pases la ITV."
+    },
+    {
+      "title": "Averías en el sistema de aire acondicionado",
+      "body": "El verano barcelonés es largo y húmedo. Un aire acondicionado que no enfría lo suficiente es un suplicio. Diagnosticamos fugas, reparamos compresores y recargamos el gas para que puedas sobrevivir al calor, ya sea en un atasco en la Diagonal o de camino a la playa."
+    },
+    {
+      "title": "Problemas de suspensión y dirección",
+      "body": "Entre los badenes de la zona alta, los baches de algunas calles de Sant Andreu y las innumerables rotondas, la suspensión y la alineación sufren. Si notas ruidos raros o el volante no va recto, lo revisamos para garantizar tu seguridad y evitar un desgaste irregular de los neumáticos."
+    },
+    {
+      "title": "Fallos eléctricos por humedad ambiental",
+      "body": "La proximidad al mar genera un ambiente salino que, con el tiempo, puede afectar a conexiones eléctricas, sensores y centralitas. Somos expertos en diagnóstico electrónico para localizar y solucionar esos fallos fantasma que otros talleres no encuentran, muy comunes en coches que 'duermen' en Poblenou o la Barceloneta."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos tu día a día",
+      "body": "Sabemos lo que es conducir en Barcelona. Nuestros diagnósticos y recomendaciones están pensados para el uso real que le das a tu coche en esta ciudad, no para un manual."
+    },
+    {
+      "title": "Presupuesto sin letra pequeña",
+      "body": "El precio que te damos es el precio final. Si durante la reparación surge un imprevisto, paramos y te llamamos. Tú decides siempre. Cero sorpresas en la factura."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un SEAT, un Mercedes, un Toyota o un Dacia. Tenemos la tecnología y el conocimiento para cuidar de cualquier coche que circule por Barcelona."
+    },
+    {
+      "title": "Pasión por el detalle",
+      "body": "Nos gusta nuestro trabajo. Revisamos cada detalle, apretamos cada tornillo y limpiamos la zona de trabajo. Tu coche sale de nuestro taller en mejores condiciones de las que entró."
+    },
+    {
+      "title": "Te lo ponemos fácil",
+      "body": "Desde la cita previa online hasta la comunicación por WhatsApp y la opción de coche de cortesía. Nuestro objetivo es que la visita al taller te quite el menor tiempo posible."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes, tenemos conductores satisfechos. Estas son algunas opiniones que reflejan el tipo de servicio que nos esforzamos por dar cada día.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Gràcia",
+      "car": "VW Golf TDI 2015",
+      "body": "Uso el coche todos los días para ir a Sant Cugat por los túneles de Vallvidrera. Empezó a dar tirones y a echar humo. En el taller me explicaron lo del filtro de partículas de forma muy clara. Me lo solucionaron en un día y con el presupuesto que me dieron. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Mireia",
+      "neighborhood": "Poblenou",
+      "car": "Renault Clio 2018",
+      "body": "Tenía la ITV en dos semanas y el coche hacía un ruido raro al frenar. Me lo miraron todo, me cambiaron las pastillas de freno y me hicieron la revisión pre-ITV. La pasé sin ningún fallo. Me ahorraron un montón de tiempo y nervios. El trato, de 10.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Sants",
+      "car": "Ford Focus 2012",
+      "body": "El aire acondicionado dejó de enfriar justo al empezar el calor. En otros sitios me daban cita para dos semanas. Aquí me lo cogieron rápido, encontraron la fuga y me lo recargaron a un precio justo. La comunicación por WhatsApp es súper cómoda.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Sarrià-Sant Gervasi",
+      "car": "Audi A3 2016",
+      "body": "Llevaba tiempo con un testigo encendido en el cuadro y no sabía qué era. Hicieron un diagnóstico electrónico completo y dieron con el sensor que fallaba. Me gustó que no intentaran cambiar piezas por cambiar. El presupuesto fue cerrado y no hubo sorpresas. Recomendable.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller da servicio a toda Barcelona y a las ciudades de alrededor. Si vives en barrios como l'Eixample, Sants-Montjuïc, Les Corts, Sarrià, Gràcia o Sant Martí, estamos a tu alcance. También somos el taller de confianza para muchos conductores de L'Hospitalet de Llobregat, Cornellà, Badalona, Sant Adrià de Besòs y Santa Coloma de Gramenet que buscan un servicio de calidad sin las complicaciones del centro.\n\nGracias a nuestra ubicación, es muy fácil llegar a través de las principales vías de la ciudad. Puedes acceder cómodamente desde la Ronda de Dalt (B-20) o la Ronda Litoral (B-10), que conectan toda el área metropolitana, así como desde grandes ejes como la Avinguda Diagonal, la Meridiana o la Gran Via de les Corts Catalanes. Olvídate de dar vueltas, estamos bien comunicados para que dejar y recoger tu coche sea un trámite rápido y sencillo.",
+  "zoneNeighborhoods": [
+    "L'Eixample",
+    "Sants-Montjuïc",
+    "Les Corts",
+    "Sarrià-Sant Gervasi",
+    "Gràcia",
+    "Horta-Guinardó",
+    "Sant Martí",
+    "L'Hospitalet de Llobregat",
+    "Badalona",
+    "Cornellà de Llobregat"
+  ],
+  "zoneAccessRoutes": [
+    "B-20 (Ronda de Dalt)",
+    "B-10 (Ronda Litoral)",
+    "C-31 (Autovía de Castelldefels)",
+    "C-58 (Autopista del Vallès)",
+    "Avinguda Diagonal"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Puedo entrar en vuestro taller si mi coche no tiene etiqueta ambiental de la DGT?",
+      "a": "Sí. Aunque la Zona de Bajas Emisiones (ZBE) de Barcelona restringe la circulación de los vehículos más antiguos en un horario determinado, nuestro taller es accesible. Puedes traer tu coche para repararlo o hacerle el mantenimiento. Si tienes dudas sobre cómo te afecta la normativa, te asesoramos sin compromiso."
+    },
+    {
+      "q": "Hago cada día el trayecto Barcelona-Vallès por la C-58, ¿qué mantenimiento es clave?",
+      "a": "Ese trayecto diario de autopista es bueno para el motor, pero desgasta mucho los neumáticos y la suspensión. Te recomendamos revisar la presión y el alineado de las ruedas con más frecuencia. También es clave hacer los cambios de aceite y filtros puntualmente, ya que el motor trabaja a altas revoluciones de forma sostenida."
+    },
+    {
+      "q": "Vivo en el Gòtic y aparcar es una pesadilla, ¿cómo lo hago para dejaros el coche?",
+      "a": "Entendemos perfectamente la dificultad de aparcar en el centro de Barcelona. Por eso, te recomendamos que nos llames antes de venir para coordinar la entrega. Además, disponemos de un servicio de coche de cortesía (sujeto a disponibilidad) para que puedas seguir moviéndote mientras reparamos el tuyo."
+    },
+    {
+      "q": "El aire del mar de la Barceloneta está afectando a la chapa, ¿revisáis la corrosión?",
+      "a": "Por supuesto. La salinidad es un enemigo silencioso. En cada revisión, sobre todo en coches que pasan mucho tiempo cerca de la costa, inspeccionamos los bajos, pasos de rueda y puntos críticos en busca de signos de óxido. Detectar la corrosión a tiempo puede ahorrarte una reparación muy costosa en el futuro."
+    },
+    {
+      "q": "Mi coche tiene Etiqueta B, ¿vale la pena seguir manteniéndolo para circular por Barcelona?",
+      "a": "Totalmente. Un coche con Etiqueta B bien mantenido puede durar muchos años y, por ahora, puede circular sin restricciones por la ZBE de Barcelona. Invertir en un buen mantenimiento preventivo es mucho más rentable que comprar un coche nuevo. Nos aseguramos de que tu coche pase la ITV y funcione de manera eficiente."
+    },
+    {
+      "q": "¿Qué diferencia hay entre vuestra revisión pre-ITV y la que hacen en la propia estación de ITV?",
+      "a": "En la estación de ITV solo te dirán si tu coche es 'apto' o 'no apto', y si no la pasas, tienes que volver. En nuestra revisión pre-ITV, comprobamos los mismos puntos (frenos, luces, emisiones, neumáticos...) pero con un objetivo diferente: detectar y solucionar cualquier posible fallo ANTES de que vayas. Te ahorra tiempo, dinero y el mal trago de un resultado desfavorable."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Barcelona",
+  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos, envíanos un WhatsApp o rellena el formulario y te responderemos enseguida para darte cita en nuestro taller de Barcelona.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Barcelona",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@tallerbarcelona.com",
+    "addressStreet": ""
+  }
+}

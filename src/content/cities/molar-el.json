@@ -1,0 +1,180 @@
+{
+  "slug": "molar-el",
+  "name": "Molar, El",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 8226,
+  "lat": 40.70036,
+  "lng": -3.56901,
+  "metaTitle": "Taller mecánico en El Molar — Tu coche de siempre, sin sorpresas",
+  "metaDescription": "Reparamos tu coche con años de uso en El Molar. Presupuesto cerrado para que la revisión o la avería en la A-1 no te quite el sueño. Pide tu cita.",
+  "heroSubtitle": "Sabemos que cada ruido nuevo en tu coche es un dolor de cabeza, sobre todo si dependes de él para bajar a Madrid por la A-1 cada día.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Vivir en El Molar es elegir una calidad de vida, pero esa elección depende casi siempre de un motor de combustión. Tu coche no es un capricho, es la herramienta que te conecta con el trabajo en Alcobendas o San Sebastián de los Reyes, la que te permite hacer la compra grande sin malabares o la que te acerca a la sierra el fin de semana. Es, sobre todo, el protagonista silencioso del madrugón diario para coger la A-1 antes del gran atasco. Conocemos de sobra ese trayecto: el desgaste constante del embrague en el acordeón de coches a la altura del Circuito del Jarama, la tensión en la suspensión al coger el desvío hacia la oficina y el motor trabajando a pleno rendimiento para mantener el ritmo. Aquí, en la precordillera, el clima no perdona: el calor seco del verano pone a prueba el sistema de refrigeración en cada retención, y las heladas de invierno convierten cada arranque en una pequeña prueba de fe para la batería.\n\nEl problema es que tu coche, ese fiel compañero, probablemente ya tiene una década o más. Es un Seat León TDI, un Renault Clio o un Ford Focus que ya está más que pagado, pero que te mira con el testigo de avería encendido de vez en cuando. Y cada visita al taller es una lotería. Te preguntas si el presupuesto se va a disparar, si te dirán esa frase temida: «esto ya no merece la pena arreglarlo». Entendemos esa angustia. Es la de quien no quiere ni puede meterse en una letra para un coche nuevo, pero necesita la seguridad de que el actual no le va a dejar tirado en mitad de la Autovía del Norte un martes a las ocho de la mañana. Para nosotros, un coche con 150.000 o 250.000 kilómetros no es un trasto viejo, es un vehículo que, con el mantenimiento adecuado, tiene mucha vida por delante. Nuestro trabajo consiste en alargar esa vida de forma honesta y asequible.\n\nUn coche con años es como las bodegas excavadas en la roca aquí en El Molar. Por fuera, la fachada puede mostrar el paso del tiempo, no tiene el brillo de lo nuevo, pero por dentro, si está bien cuidada, protege algo valioso: tu vino, tu sustento, tu historia. Nosotros vemos tu coche igual. No nos centramos en la chapa ni en la última tecnología; nos centramos en la estructura, en el corazón que sigue latiendo. Nuestra labor no es convencerte para que cambies de 'bodega', sino asegurarnos de que la tuya sea sólida, fiable y no tenga fugas imprevistas que destrocen tu presupuesto mensual. Somos los artesanos que refuerzan las vigas, que se aseguran de que no haya humedades y que garantizan que puedas seguir confiando en ella muchos años más. Es una filosofía de reparación, no de sustitución.\n\nPor eso, nuestro enfoque es radicalmente transparente. Cuando traes tu coche, no conectamos una máquina y te damos una lista de códigos de error incomprensibles. Te escuchamos. ¿Qué ruido hace? ¿Cuándo lo notas? ¿Te pasa subiendo la cuesta de vuelta desde San Agustín del Guadalix? Investigamos la causa real y te la explicamos con palabras que entiendes. Luego, te damos un presupuesto cerrado. No una estimación, un precio final. Y solo si nos das tu visto bueno, empezamos a trabajar. Ya sea para una revisión pre-ITV que te evite el viaje en balde a la estación de San Sebastián de los Reyes, un cambio de kit de distribución que te dé tranquilidad para otros 100.000 kilómetros o una simple recarga del aire acondicionado, el proceso es el mismo. Sin sorpresas, sin jerga y sin presión. Somos el taller de El Molar para el coche que usas cada día.",
+  "servicesIntro": "Desde la revisión anual para aguantar el trote de la A-1 hasta la reparación del embrague que sufre en los atascos de entrada a Madrid.",
+  "processIntro": "Funciona así: diagnosticamos tu coche, te damos un presupuesto cerrado por escrito y no hacemos nada sin tu visto bueno. Transparencia total.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico honesto",
+      "body": "Escuchamos lo que le pasa a tu coche y lo revisamos a fondo para encontrar el origen real del problema, no solo el síntoma. Nos centramos en darte una solución duradera, especialmente si tu coche ya tiene unos cuantos kilómetros."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado y final por WhatsApp o email. El importe que ves es el que pagarás, sin añadidos de última hora. Así puedes decidir con toda la información y sin sentirte presionado."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No movemos una sola tuerca ni pedimos una pieza hasta que nos das tu confirmación explícita. El control sobre la reparación y el gasto lo tienes siempre tú. La confianza es la base de nuestro trabajo."
+    },
+    {
+      "title": "Reparación eficaz",
+      "body": "Utilizamos recambios de calidad y te informamos de los plazos. Nuestro objetivo es que tu coche vuelva a la carretera siendo fiable para tus viajes diarios por la A-1, con una reparación garantizada por escrito."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando recoges el coche, te explicamos lo que hemos hecho. Nos aseguramos de que todo esté claro y de que te vayas tranquilo. Y si tienes cualquier duda días después, estamos aquí para ayudarte."
+    }
+  ],
+  "commonIssuesIntro": "El clima continental de la Sierra Norte y los miles de kilómetros anuales por la A-1 pasan factura a cualquier coche, sobre todo si ya tiene una edad. Estos son los problemas que más vemos en vehículos de El Molar.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico lento y los atascos diarios en la A-1 en dirección a Madrid castigan el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en responder al frenar, es hora de una revisión. Un cambio a tiempo evita averías mayores y más caras."
+    },
+    {
+      "title": "Averías en diésel (FAP/EGR)",
+      "body": "Muchos coches en El Molar son diésel de hace más de diez años. Los trayectos cortos por el pueblo combinados con el ritmo variable de la autovía pueden obstruir el filtro de partículas (FAP) y la válvula EGR. Nos especializamos en diagnosticar y solucionar estos fallos de forma efectiva."
+    },
+    {
+      "title": "Baterías que mueren en invierno",
+      "body": "Las mañanas de invierno en El Molar, con heladas frecuentes, son la prueba de fuego para una batería. Si a tu coche le cuesta arrancar cuando bajan las temperaturas, es probable que la batería esté en las últimas. Comprobamos su estado para que no te deje tirado en el peor momento."
+    },
+    {
+      "title": "Fallos del aire acondicionado",
+      "body": "En verano, el sol en la A-1 es implacable. Un sistema de aire acondicionado que no enfría lo suficiente convierte el coche en un horno. Puede ser una simple falta de gas o una fuga. Lo revisamos y reparamos para que conduzcas cómodo incluso en pleno agosto."
+    },
+    {
+      "title": "Suspensión y neumáticos fatigados",
+      "body": "La combinación de kilómetros a alta velocidad en la autovía con las carreteras locales y las calles de las urbanizaciones, a veces con badenes, acelera el desgaste de amortiguadores y neumáticos. Un buen estado es clave para tu seguridad, sobre todo en los días de lluvia o hielo."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Especialistas en coches 'luchadores'",
+      "body": "Entendemos perfectamente los coches con más de 10 años. Sabemos qué duele, qué falla y cómo repararlo sin que te cueste más que el propio vehículo. Estamos de tu lado."
+    },
+    {
+      "title": "Presupuestos que se cumplen",
+      "body": "El precio que te damos es el que pagas. Sin asteriscos, sin sorpresas ni llamadas a mitad de reparación para añadir costes. La tranquilidad es lo primero."
+    },
+    {
+      "title": "El taller de tu zona",
+      "body": "No necesitas bajar hasta los polígonos de Alcobendas o San Sebastián de los Reyes. Te ofrecemos una solución local, de confianza y sin la masificación de las grandes ciudades."
+    },
+    {
+      "title": "Hablamos tu idioma, no 'mecañol'",
+      "body": "Te explicamos la avería de forma que la entiendas. Te damos opciones si las hay y te aconsejamos como si el coche fuera nuestro. Queremos que tomes la mejor decisión."
+    },
+    {
+      "title": "Mecánicos, no vendedores",
+      "body": "Nuestro objetivo es que tu coche dure más tiempo y de forma segura. No vamos a intentar venderte servicios que no necesitas ni a convencerte de que lo cambies."
+    }
+  ],
+  "testimonialsIntro": "No podemos compartir datos de clientes reales por privacidad, pero estas son historias y situaciones típicas que vivimos cada día en nuestro taller con vecinos de la zona.",
+  "testimonials": [
+    {
+      "name": "Carlos",
+      "neighborhood": "El Molar (centro)",
+      "car": "Peugeot 308 HDI 2012",
+      "body": "Se me encendió el testigo del motor y en otro sitio ya me hablaban de cambiar el FAP, un dineral. Aquí se pararon a mirar bien y encontraron un sensor que fallaba. Me explicaron todo, me enseñaron la pieza y el presupuesto fue cerrado y mucho más bajo. Mi coche sigue rodando por la A-1 como siempre. Muy honestos.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Urbanización de Pedrezuela",
+      "car": "Ford Focus 2010",
+      "body": "Uso el coche todos los días para ir a trabajar a Alcobendas y el embrague empezaba a patinar. Me daba pánico la factura. Les pedí presupuesto y fue muy claro. Me ofrecieron un coche de cortesía para no perder días de trabajo y cumplieron el plazo. El coche va suave otra vez. Un alivio encontrar gente así cerca de casa.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "San Agustín del Guadalix",
+      "car": "Renault Kangoo 2014",
+      "body": "Soy autónomo y la furgoneta es mi oficina. Tenía la ITV y no quería sorpresas. Les pedí una revisión pre-ITV y me detectaron una holgura en la dirección y un faro que no regulaba bien. Lo arreglaron en el día y pasé la ITV a la primera en la estación de S.S. de los Reyes. Eficaces y muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "El Vellón",
+      "car": "VW Polo 2011",
+      "body": "Una mañana el coche no arrancó. Llamé pensando que sería la batería y me lo confirmaron rápido. No intentaron buscar más problemas, fueron directos al grano. En un rato tenía la batería cambiada y pude ir a trabajar. El precio fue correcto. No fue una gran avería, pero la rapidez y la honestidad se agradecen.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio principalmente a conductores de El Molar y de todos los municipios cercanos que dependen de la A-1 para su día a día. Si vives en Pedrezuela, San Agustín del Guadalix, El Vellón, Venturada o incluso Torrelaguna, somos tu taller de confianza. Entendemos perfectamente las necesidades de quienes usan las carreteras de la Sierra Norte, como la M-610 o la N-320, para conectar con la autovía principal. Nuestra ubicación está pensada para ser accesible y ahorrarte el viaje a los congestionados polígonos del sur, ofreciéndote una alternativa profesional y cercana para el mantenimiento de tu vehículo.",
+  "zoneNeighborhoods": [
+    "El Molar",
+    "Pedrezuela",
+    "San Agustín del Guadalix",
+    "El Vellón",
+    "Venturada",
+    "Torrelaguna",
+    "Urbanizaciones A-1",
+    "Redueña"
+  ],
+  "zoneAccessRoutes": [
+    "A-1 (Autovía del Norte)",
+    "N-320",
+    "M-610",
+    "M-129"
+  ],
+  "faqLocal": [
+    {
+      "q": "Tengo un diésel con más de 12 años, ¿merece la pena arreglar el filtro de partículas?",
+      "a": "Es la pregunta del millón. En muchos casos, sí. Antes de recomendar un cambio, que es costoso, exploramos todas las opciones: desde una limpieza profesional del filtro hasta la revisión de los sensores que pueden estar dando una lectura falsa. Analizamos el estado general de tu coche y tu tipo de conducción para darte el mejor consejo. A veces, una solución intermedia es más que suficiente para pasar la ITV y seguir circulando sin problemas."
+    },
+    {
+      "q": "Vivo en una urbanización de Pedrezuela, hago pocos km, pero cojo la A-1 una vez por semana. ¿Qué mantenimiento es clave?",
+      "a": "Ese tipo de uso mixto (trayectos cortos y luego autovía) puede ser duro para un coche, sobre todo diésel. Te recomendamos vigilar especialmente el nivel y la calidad del aceite, ya que los arranques en frío lo degradan. También es clave sacar el coche a la A-1 y llevarlo a un régimen de revoluciones alegre durante unos 15-20 minutos para ayudar a limpiar el sistema de escape y el FAP. Y, por supuesto, una revisión anual completa."
+    },
+    {
+      "q": "Voy a pasar la ITV en la estación de San Sebastián de los Reyes, ¿qué miráis en la pre-ITV para evitar sorpresas?",
+      "a": "Conocemos bien los puntos críticos que miran en esa estación y en otras de la zona. En nuestra pre-ITV revisamos a fondo los elementos de rechazo más comunes: emisiones (especialmente en diésel antiguos), frenos (desequilibrios en la frenada), neumáticos (desgaste y presión), luces (reglaje y bombillas fundidas) y silentblocks o rótulas con holgura. Es una revisión exhaustiva para que vayas sobre seguro y no pierdas ni tiempo ni dinero."
+    },
+    {
+      "q": "Mi coche sufre mucho en los atascos de la A-1. ¿Hay algo que pueda hacer para cuidar el embrague?",
+      "a": "Totalmente. Intenta usar el punto muerto en paradas largas en lugar de mantener el embrague pisado. Al arrancar, evita acelerones bruscos y suelta el pedal de forma progresiva. Y, sobre todo, no apoyes el pie en el pedal del embrague mientras conduces. Estos pequeños gestos pueden alargar la vida del kit de embrague miles de kilómetros y ahorrarte una de las reparaciones más costosas."
+    },
+    {
+      "q": "En invierno me cuesta arrancar por las mañanas aquí en El Molar, ¿es normal?",
+      "a": "Es un síntoma muy común en esta zona por las heladas. Aunque puede parecer normal, indica que la batería está perdiendo capacidad y podría fallar en cualquier momento. Te recomendamos pasar por el taller para que comprobemos su estado de carga y el alternador. Es una prueba de cinco minutos que te puede ahorrar el mal trago de quedarte tirado una mañana fría."
+    },
+    {
+      "q": "¿Ofrecéis coche de cortesía? Lo necesito para no perder el día de trabajo en Madrid.",
+      "a": "Sí, disponemos de coche de cortesía para reparaciones que requieran inmovilizar tu vehículo durante más de una jornada. Somos muy conscientes de que en El Molar y alrededores el coche es imprescindible para trabajar. Te recomendamos solicitarlo al pedir cita para asegurar su disponibilidad, ya que es un servicio muy demandado por nuestros clientes que, como tú, dependen del coche para todo."
+    }
+  ],
+  "closingHeadline": "Tu coche tiene cuerda para rato",
+  "closingCta": "Pide tu presupuesto cerrado para tu coche en El Molar. Llámanos o envíanos un WhatsApp y te contamos qué necesita tu compañero de batallas, sin compromiso."
+}

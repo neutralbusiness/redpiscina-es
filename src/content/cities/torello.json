@@ -1,0 +1,182 @@
+{
+  "slug": "torello",
+  "name": "Torelló",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 14172,
+  "lat": 42.04627,
+  "lng": 2.26679,
+  "metaTitle": "Taller mecánico en Torelló — Multimarca y de confianza",
+  "metaDescription": "Tu taller multimarca en Torelló para revisiones, mecánica y neumáticos. Presupuestos cerrados para tu coche. Pide cita y evita sorpresas en la factura.",
+  "heroSubtitle": "Cansado de la niebla en invierno y de los talleres poco claros? En Torelló, cuidamos tu coche con la misma claridad que un día de verano.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Torelló y la comarca de Osona tiene sus particularidades. Seguramente dependes del coche para todo: para bajar a Vic o Manlleu a trabajar cada mañana por la C-17, para llevar a los niños al colegio o para escaparte el fin de semana hacia el Ripollès. Entendemos que tu coche no es un lujo, es una herramienta indispensable en tu día a día. Por eso, cuando algo falla, necesitas una solución rápida, honesta y sin rodeos. En nuestro taller de Torelló, hablamos tu mismo idioma: el de la 'feina ben feta' (el trabajo bien hecho).\n\nConocemos el parque móvil de la zona. Sabemos que en los garajes de Torelló, Sant Vicenç o Sant Pere abundan los SEAT León, Volkswagen Golf, Peugeot 308 y Renault Mégane, muchos de ellos diésel de entre 2010 y 2018, que hacen kilómetros a diario por el Eix Transversal. También vemos muchas furgonetas como la Berlingo o la Kangoo de autónomos y pequeñas empresas locales, y cómo no, los Dacia Duster y otros 4x4 de quienes viven en masías o en las afueras. Sea cual sea tu coche, lo conocemos y sabemos qué puntos débiles tiene que vigilar.\n\nEl clima de la Plana de Vic es otro factor clave que no ignoramos. La famosa 'boira' (niebla) y la humedad invernal no solo dificultan la visibilidad, sino que son el enemigo número uno de las baterías y los componentes electrónicos. Las heladas matutinas ponen a prueba el sistema de arranque y el anticongelante. Y en verano, el calor intenso exige que el sistema de refrigeración y el aire acondicionado estén en perfecto estado para no quedarte tirado subiendo hacia Bellmunt. Cada revisión que hacemos en nuestro taller de Torelló tiene en cuenta estas condiciones climáticas tan específicas.\n\nEl tipo de conducción también cuenta. El constante arranca-para para salir de Torelló por las mañanas, las rotondas de la C-17 antes de llegar a Vic y el callejeo por el pueblo castigan los embragues, frenos y filtros de partículas de los diésel. Por otro lado, las carreteras de curvas que nos rodean, como la BV-5224, exigen tener la suspensión y los neumáticos en un estado óptimo para garantizar la seguridad. Nuestro enfoque no es solo cambiar piezas; es entender cómo usas tu coche en Torelló y ofrecerte un mantenimiento preventivo que te ahorre problemas y dinero a largo plazo.",
+  "servicesIntro": "Desde la revisión para pasar la ITV en Vic sin nervios hasta cambiar un embrague gastado de tanto circular por la C-17, cubrimos toda la mecánica de tu coche.",
+  "processIntro": "Creemos en la 'feina ben feta'. Por eso, te damos un presupuesto cerrado por adelantado y no hacemos nada en tu coche sin tu aprobación.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos qué te preocupa y nuestros mecánicos realizan una inspección completa para identificar el origen real del problema, no solo el síntoma visible."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Recibirás un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas. Sin asteriscos ni sorpresas de última hora en la factura final."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Te explicamos la reparación que necesita tu coche en un lenguaje claro y sencillo. No pedimos ninguna pieza ni empezamos a trabajar hasta que nos das tu visto bueno explícito."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas con calidad equivalente a la original. Todas nuestras reparaciones están garantizadas por escrito para tu total tranquilidad y te mantenemos informado del proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te mostramos el trabajo realizado. Unos días más tarde, te contactamos para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El clima de Osona y el uso diario del coche para ir a Vic o Manlleu por la C-17 provocan averías muy concretas que conocemos y solucionamos cada día en nuestro taller de Torelló.",
+  "commonIssues": [
+    {
+      "title": "Baterías que fallan en invierno",
+      "body": "La humedad y las heladas matutinas de Torelló son letales para las baterías con algunos años. Una batería débil te dejará tirado en el peor momento. En cada revisión comprobamos su estado y te recomendamos cambiarla preventivamente si vemos que está al final de su vida útil, sobre todo si el coche duerme en la calle."
+    },
+    {
+      "title": "Desgaste prematuro de embrague",
+      "body": "El tráfico lento para salir de Torelló por las mañanas y las constantes rotondas en la C-17 camino a Vic o Manlleu fuerzan el embrague más de la cuenta. Si notas que el pedal está duro o el coche tiembla al arrancar, es un síntoma claro. Es una de las reparaciones más comunes que realizamos."
+    },
+    {
+      "title": "Filtros de partículas (DPF) obstruidos",
+      "body": "Muchos coches diésel de la zona no llegan a calentarse lo suficiente en los trayectos cortos por el pueblo, impidiendo que el filtro de partículas se regenere. Esto provoca pérdida de potencia y averías costosas. Realizamos diagnósticos y limpiezas profesionales para que pases la ITV y evites problemas mayores."
+    },
+    {
+      "title": "Suspensión y neumáticos para carreteras locales",
+      "body": "Las carreteras secundarias como la BV-5224 hacia Sant Pere o las rutas con curvas hacia el Collsacabra no siempre están en perfecto estado. Esto acelera el desgaste de amortiguadores y neumáticos. Revisamos todo el sistema de suspensión para garantizar tu seguridad y confort en cualquier carretera de la comarca."
+    },
+    {
+      "title": "Problemas con el aire acondicionado y la calefacción",
+      "body": "En Osona, el climatizador trabaja a fondo todo el año: para combatir el calor del verano y para desempañar los cristales por la humedad en invierno. Si notas que ya no enfría o calienta como antes, lo revisamos y reparamos para que viajes siempre con la temperatura y visibilidad adecuadas."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos tu rutina",
+      "body": "Sabemos que necesitas el coche para ir a trabajar a Vic, Manlleu o llevar los niños al cole. Por eso nuestro servicio es ágil y eficiente, para que estés parado el mínimo tiempo posible."
+    },
+    {
+      "title": "Presupuestos sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Si durante la reparación surge un imprevisto, paramos el trabajo y te llamamos. Tú siempre tienes la última palabra."
+    },
+    {
+      "title": "Mecánicos, no vendedores",
+      "body": "Te explicamos las cosas de forma clara, sin tecnicismos ni intentando venderte reparaciones que no necesitas. Hablas directamente con la persona que toca tu coche."
+    },
+    {
+      "title": "Expertos en tu coche",
+      "body": "Da igual si conduces un SEAT León, un Peugeot 3008 o una furgoneta Ford Transit. Tenemos el equipo y la experiencia para cuidar de cualquier coche que circule por Torelló."
+    },
+    {
+      "title": "Garantía por escrito",
+      "body": "Todas nuestras intervenciones y las piezas que montamos están garantizadas. Tu confianza y tu seguridad son nuestra máxima prioridad."
+    }
+  ],
+  "testimonialsIntro": "Nuestros clientes de Torelló y alrededores son nuestros mejores embajadores. Aquí tienes algunos ejemplos de situaciones reales que resolvemos cada día.",
+  "testimonials": [
+    {
+      "name": "Marc",
+      "neighborhood": "Barri de Montserrat",
+      "car": "SEAT León 1.6 TDI 2015",
+      "body": "Voy cada día a trabajar a Granollers por la C-17 y el embrague empezó a patinar. Me dieron un presupuesto cerrado, mucho más razonable que en el concesionario. Me explicaron el problema claramente y en dos días tenía el coche listo. Se nota que controlan. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Casc Antic",
+      "car": "Peugeot 208 Gasolina 2018",
+      "body": "Tenía que pasar la ITV en Vic y siempre me pongo nerviosa. Les pedí una revisión pre-ITV. Me lo miraron todo, aceite, filtros, luces... El coche pasó a la primera sin un solo fallo. Te da una tranquilidad enorme y te ahorras un segundo viaje.",
+      "rating": 5
+    },
+    {
+      "name": "Joan",
+      "neighborhood": "Sant Vicenç de Torelló",
+      "car": "Citroën Berlingo 2016",
+      "body": "Soy autónomo y la furgoneta no puede parar. Empezó a hacer un ruido raro en una rueda. Me la cogieron enseguida, vieron que era una rótula de la suspensión y me la cambiaron en el mismo día. Un trato cercano y eficiente, que es justo lo que necesito.",
+      "rating": 5
+    },
+    {
+      "name": "Carla",
+      "neighborhood": "La Cabanya",
+      "car": "Renault Clio 2013",
+      "body": "Con el frío, al coche le costaba mucho arrancar por las mañanas. Pensé que sería una avería cara. Me comprobaron la batería y el alternador y vieron que la batería estaba ya para cambiar. Aprecio mucho la honestidad de no buscar problemas donde no los hay.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Torelló da servicio a toda la Vall del Ges y sus alrededores. Si vives en el centro o en barrios como Montserrat, el Congost o La Cabanya, estamos a un paso. Somos también el taller de confianza para muchos conductores de municipios vecinos como Sant Pere de Torelló, Sant Vicenç de Torelló y Orís, que valoran un trato cercano y profesional. Llegar a nuestro taller es muy fácil, tanto si vienes por la C-17 desde Vic o Manlleu, como si accedes por la BV-5224 desde la zona norte de la comarca.",
+  "zoneNeighborhoods": [
+    "Barri de Montserrat",
+    "El Congost",
+    "Casc Antic",
+    "La Cabanya",
+    "Sant Pere de Torelló",
+    "Sant Vicenç de Torelló",
+    "Manlleu",
+    "Orís",
+    "Borgonyà",
+    "Les Masies de Voltregà"
+  ],
+  "zoneAccessRoutes": [
+    "C-17",
+    "BV-5224",
+    "C-37 (Eix Vic-Olot)",
+    "BV-4608"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Tengo que ir a la ITV de Vic? ¿Hacéis revisión Pre-ITV?",
+      "a": "Sí, la estación de ITV más cercana está en Gurb, al lado de Vic. Para que no tengas que hacer dos viajes por la C-17, ofrecemos un servicio completo de Pre-ITV. Revisamos a fondo los puntos críticos: frenos, humos, luces, neumáticos... para que vayas con la total seguridad de pasarla a la primera."
+    },
+    {
+      "q": "Mi coche diésel echa mucho humo, ¿es por la humedad de la zona?",
+      "a": "La humedad y el frío de la Plana de Vic afectan al arranque, pero el humo suele venir del filtro de partículas (DPF) o la válvula EGR. Los trayectos cortos por Torelló impiden que el sistema se limpie bien. Podemos hacerle una diagnosis y una regeneración forzada o limpieza para que funcione correctamente y evites averías graves."
+    },
+    {
+      "q": "Vivo en una masía cerca de Torelló, ¿reparáis coches 4x4?",
+      "a": "Por supuesto. Conocemos bien las necesidades de quienes circulan por caminos y pistas forestales de la zona. Estamos acostumbrados a revisar y reparar suspensiones, sistemas de tracción y neumáticos de modelos como el Dacia Duster, Suzuki Vitara o pick-ups. Tu coche estará siempre a punto para el campo."
+    },
+    {
+      "q": "Trabajo en un polígono de Manlleu, ¿tenéis flexibilidad de horarios?",
+      "a": "Totalmente. Sabemos que los horarios de las fábricas son los que son. Puedes dejarnos el coche a primera hora de la mañana antes de ir a trabajar y te avisamos por WhatsApp en cuanto esté listo para que lo recojas a la vuelta. Nos adaptamos a tu jornada laboral."
+    },
+    {
+      "q": "Con el frío de Torelló, ¿qué mantenimiento especial necesita mi coche?",
+      "a": "El invierno en Osona es duro para los coches. Antes de las primeras heladas, recomendamos revisar tres puntos clave: la batería, que es el componente que más falla; el nivel y la calidad del líquido anticongelante, para proteger el motor; y el estado de los neumáticos, para asegurar un buen agarre con la carretera húmeda por la 'boira'."
+    },
+    {
+      "q": "Necesito cambiar los neumáticos, ¿cuáles me recomendáis para el clima de aquí?",
+      "a": "Sí, tenemos servicio de neumáticos y te asesoramos sin compromiso. Para el clima de Osona, siempre recomendamos neumáticos que tengan un buen rendimiento en mojado y a bajas temperaturas. Son un elemento de seguridad clave en nuestras carreteras, especialmente de otoño a primavera. Trabajamos con las principales marcas para ajustarnos a tu presupuesto."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Torelló",
+  "closingCta": "No dejes que una avería te complique la semana. Pide tu presupuesto cerrado y sin compromiso para tu coche en Torelló. Llámanos o envíanos un WhatsApp y te atenderemos encantados."
+}

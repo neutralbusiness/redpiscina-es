@@ -1,0 +1,183 @@
+{
+  "slug": "burgos",
+  "name": "Burgos",
+  "province": "Burgos",
+  "ccaa": "Castilla y León",
+  "population": 176418,
+  "lat": 42.34106,
+  "lng": -3.70184,
+  "metaTitle": "Taller mecánico en Burgos — Multimarca y de confianza",
+  "metaDescription": "Tu taller mecánico en Burgos para revisiones, averías y neumáticos. Presupuesto cerrado y garantía. Pide tu cita ahora y conduce tranquilo por Castilla.",
+  "heroSubtitle": "Deja de preocuparte por el frío de Burgos y las sorpresas en la factura. Cuidamos tu coche para que arranque a la primera, siempre.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Burgos y sus alrededores es una experiencia de contrastes. Un día estás disfrutando del sol de la Meseta por la A-62 camino de Valladolid y al siguiente te enfrentas a una helada de -8ºC para ir a trabajar al polígono de Villalonquéjar. Aquí, un coche no es un lujo, es una necesidad. Es lo que te permite llevar a los niños al cole en Fuentecillas, hacer la compra en el G-3 o escaparte el fin de semana por la N-623 hacia la costa. Por eso, sabemos que lo último que necesitas es que tu coche te deje tirado en una mañana gélida de enero o que te dé un susto en forma de factura desorbitada.\n\nEl parque móvil de Burgos es un reflejo de su gente: práctico y trabajador. Vemos a diario los coches que de verdad se usan en Castilla: SEAT León, Renault Mégane, Volkswagen Golf, casi siempre diésel, porque muchos hacéis kilómetros cada día por la A-1 o la A-231. También conocemos bien las furgonetas de autónomos y pequeñas empresas que son el motor de la ciudad, y los Dacia Duster o Nissan Qashqai de familias que necesitan espacio y fiabilidad para moverse entre la ciudad y los pueblos de la provincia. Entendemos que tu Peugeot 308 no tiene las mismas necesidades que un Land Cruiser que pisa caminos, y adaptamos cada revisión a su uso real.\n\nEl clima continental de Burgos es el mayor examen para cualquier vehículo. Los inviernos largos y duros, con decenas de días de heladas, son una prueba de fuego para las baterías, los calentadores de los diésel y los líquidos anticongelantes. Un anticongelante de mala calidad o mal proporcionado puede acabar en una avería carísima con el motor rajado. El uso constante de sal en las carreteras para combatir el hielo, aunque necesario para nuestra seguridad, es terriblemente corrosivo para los bajos del coche, los tubos de escape y los conductos de freno. Luego llega el verano, con un calor seco que pone a prueba el sistema de refrigeración y el aire acondicionado justo cuando más lo necesitas.\n\nEn nuestro taller de Burgos entendemos esta realidad. No es lo mismo un coche que solo hace trayectos cortos por Gamonal, acumulando carbonilla en el filtro de partículas, que otro que viaja a diario a Aranda de Duero. El primero sufrirá de un desgaste prematuro del embrague y la EGR, mientras que el segundo necesitará una atención especial en neumáticos y suspensión. Nuestro trabajo es diagnosticar el problema real, explicarte por qué ha ocurrido (muchas veces por estas condiciones locales) y darte una solución honesta y con un presupuesto cerrado. Queremos ser tu taller de confianza en Burgos, el que entiende tu coche y tu día a día.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV en Burgos sin fallos, hasta la reparación de ese ruido raro que oyes al subir por la carretera del Castillo.",
+  "processIntro": "En nuestro taller de Burgos, la confianza es lo primero. Por eso, te damos un presupuesto claro y no hacemos nada sin tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le pasa a tu coche y lo conectamos a nuestros equipos de diagnosis. Identificamos la avería y las piezas afectadas para entender el origen del problema, no solo el síntoma."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas, sin sorpresas ni letra pequeña de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisa el presupuesto con calma. No pedimos las piezas ni empezamos a trabajar hasta que nos das tu confirmación explícita. Tú tienes el control total sobre la reparación de tu coche."
+    },
+    {
+      "title": "Reparación",
+      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan la reparación siguiendo las especificaciones del fabricante para asegurar un trabajo bien hecho y duradero."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El clima continental de Burgos y sus inviernos tan duros pasan factura. Estos son los problemas que más vemos en coches que circulan por la A-1 y las calles de Gamonal.",
+  "commonIssues": [
+    {
+      "title": "Problemas de arranque en frío",
+      "body": "En Burgos, una batería con unos años sufre mucho. Las temperaturas bajo cero reducen drásticamente su rendimiento. Si tu coche duerme en la calle, es un problema habitual. Revisamos el estado de la batería, el alternador y, en los diésel, los calentadores, que son clave para un buen arranque en invierno."
+    },
+    {
+      "title": "Corrosión en bajos y frenos",
+      "body": "La sal que se esparce en invierno por la BU-30 y las calles de la ciudad para evitar el hielo es muy eficaz, pero también muy corrosiva. Acelera la oxidación del chasis, el escape y los latiguillos de freno. Una revisión anual de los bajos puede evitarte averías graves y problemas en la ITV."
+    },
+    {
+      "title": "Desgaste de suspensión y neumáticos",
+      "body": "Tras el invierno, el asfalto sufre y aparecen baches. Circular a diario por zonas con firme irregular o por las carreteras comarcales de la provincia castiga los amortiguadores y los silentblocks. Además, el frío extremo exige llevar neumáticos adecuados (de invierno o todo tiempo) para no jugársela en una placa de hielo."
+    },
+    {
+      "title": "Filtro de partículas (FDP) atascado",
+      "body": "Muchos conductores de Burgos usan su coche diésel para trayectos cortos dentro de la ciudad, como ir de San Pedro al centro. Esto impide que el filtro de partículas se regenere correctamente, provocando obstrucciones, pérdida de potencia y averías costosas. Hacemos limpiezas y regeneraciones forzadas para evitar la sustitución."
+    },
+    {
+      "title": "Fallos en el sistema de climatización",
+      "body": "El climatizador trabaja a pleno rendimiento tanto en los -5ºC de enero como en los 35ºC de julio. Este uso intensivo provoca fugas de gas, fallos en el compresor o averías en los radiadores. Realizamos cargas de gas y diagnosticamos cualquier problema para que viajes siempre a la temperatura correcta."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de Burgos",
+      "body": "Sabemos cómo afecta el clima y el tipo de conducción de aquí a tu vehículo. No te damos soluciones genéricas, sino las que tu coche necesita para circular por Castilla."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "El precio que te damos es el que pagas. Si durante la reparación surge un imprevisto (algo poco común), paramos y te llamamos. Nunca te llevarás una sorpresa en la factura."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Trabajamos con la misma profesionalidad en un Audi de alta gama, en un Citroën con sus años o en la furgoneta Fiat de un autónomo. Tenemos el equipo y el conocimiento para todos."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "No cambiamos piezas por cambiar. Buscamos el origen real de la avería para que no vuelvas al taller con el mismo problema en dos meses. Te explicamos qué pasa y por qué."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Todas nuestras reparaciones y recambios están garantizados por escrito, como marca la ley. Puedes estar tranquilo, tu inversión está protegida."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Burgos que han confiado en nosotros. Sus casos podrían ser muy parecidos al tuyo.",
+  "testimonials": [
+    {
+      "name": "José",
+      "neighborhood": "Gamonal",
+      "car": "SEAT León ST TDI 2016",
+      "body": "El coche no me arrancaba una mañana de esas de helada fuerte. Lo uso a diario para ir a trabajar al polígono y era un problemón. Los llamé, gestionaron la grúa y por la tarde ya tenía el diagnóstico: batería y calentadores. Me dieron presupuesto cerrado, acepté y al día siguiente lo tenía listo. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Fuentecillas",
+      "car": "Renault Clio 2018",
+      "body": "Notaba que el coche frenaba raro, como a tirones. Me tocaba la revisión anual y les pedí que lo miraran bien. Resultó que los discos de freno estaban alabeados, seguramente por algún cambio brusco de temperatura. Me explicaron todo muy claro y me dieron varias opciones de recambios. Ahora frena perfecto.",
+      "rating": 5
+    },
+    {
+      "name": "David",
+      "neighborhood": "San Pedro y San Felices",
+      "car": "Ford Kuga 2015",
+      "body": "Tenía un viaje largo por la A-1 y el aire acondicionado no enfriaba nada. Con el verano que se esperaba, era imposible viajar así con los niños. Me dieron cita rápido, detectaron una pequeña fuga en un manguito, lo repararon y recargaron el gas. Un servicio rápido y a un precio razonable.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Centro",
+      "car": "Opel Corsa 2013",
+      "body": "Me tocaba pasar la ITV y siempre me da pánico. Pedí una revisión Pre-ITV y menos mal. Tenía una luz de airbag encendida y una rótula de la suspensión con holgura. Lo solucionaron todo y me lo llevaron ellos mismos a la inspección. Aprobado a la primera. Un poco más caro que solo la revisión, pero la tranquilidad no tiene precio.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Burgos y a su alfoz. Si vives en barrios como Gamonal, Capiscol, Fuentecillas, G-3, San Pedro y San Felices o la zona Centro, estamos a tu lado. También somos el taller de confianza para muchos conductores de municipios cercanos que vienen a Burgos a trabajar o a hacer gestiones, como Villalbilla de Burgos, Cardeñadijo, Quintanadueñas o Villagonzalo Pedernales. Nuestras instalaciones son fácilmente accesibles desde las principales vías que rodean la ciudad, como la circunvalación BU-30, la autovía A-1 (Madrid-Irún) y la A-62 (Burgos-Portugal), permitiéndote dejar tu coche sin tener que callejear en exceso.",
+  "zoneNeighborhoods": [
+    "Gamonal",
+    "Fuentecillas",
+    "G-3",
+    "Capiscol",
+    "San Pedro y San Felices",
+    "Centro Histórico",
+    "Villalbilla de Burgos",
+    "Cardeñadijo",
+    "Quintanadueñas",
+    "Villagonzalo Pedernales"
+  ],
+  "zoneAccessRoutes": [
+    "A-1 (Autovía del Norte)",
+    "A-62 (Autovía de Castilla)",
+    "A-231 (Autovía del Camino de Santiago)",
+    "BU-30 (Circunvalación de Burgos)",
+    "N-120 (Logroño-Vigo)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Realmente necesito neumáticos de invierno en Burgos?",
+      "a": "No son obligatorios, pero sí muy recomendables. Por debajo de 7ºC, los neumáticos de verano pierden eficacia. Con las heladas, el hielo y las nevadas ocasionales de Burgos, un neumático de invierno o un buen 'todo tiempo' te da una seguridad en frenada y agarre que puede evitar un accidente. Es una inversión en tranquilidad."
+    },
+    {
+      "q": "Mi coche diésel solo lo uso por la ciudad, ¿qué debo vigilar?",
+      "a": "El principal enemigo es el filtro de partículas (FDP o DPF). Los trayectos cortos no permiten que alcance la temperatura para limpiarse solo, y se acaba atascando. Te recomendamos que, al menos una vez por semana, salgas a carretera (como la BU-30) y conduzcas unos 15-20 minutos a un régimen de 2.500 rpm para forzar esa limpieza."
+    },
+    {
+      "q": "¿Cómo afecta el frío de Burgos a la batería de mi coche?",
+      "a": "El frío extremo reduce la capacidad de la batería para entregar energía, justo cuando el motor está más duro y necesita más fuerza para arrancar. Si tu batería tiene más de 4 años y el coche duerme en la calle, es muy probable que te falle en la primera helada fuerte del invierno. Es mejor revisarla en otoño."
+    },
+    {
+      "q": "Voy a pasar la ITV en el polígono de Gamonal, ¿revisáis los puntos clave?",
+      "a": "Por supuesto. Nuestra revisión Pre-ITV es exhaustiva y se centra en los puntos de rechazo más comunes en la estación de Burgos: frenos, suspensión, niveles de opacidad en diésel (humos), neumáticos y alumbrado. Si detectamos algo, te damos presupuesto para solucionarlo y que vayas a la inspección sobre seguro."
+    },
+    {
+      "q": "Vivo en un pueblo cerca de Burgos, ¿ofrecéis coche de cortesía?",
+      "a": "Sí, disponemos de coches de cortesía para nuestros clientes. Entendemos que si vienes de Briviesca o Lerma, no puedes quedarte sin vehículo. Este servicio está sujeto a disponibilidad, por lo que te recomendamos solicitarlo al pedir tu cita para asegurarte de que tengamos uno libre para ti."
+    },
+    {
+      "q": "Con la sal de las carreteras en invierno, ¿qué mantenimiento extra necesita mi coche?",
+      "a": "La sal es muy corrosiva. Lo más recomendable es lavar los bajos del coche con agua a presión de vez en cuando durante el invierno para eliminar los restos. En el taller, en cada revisión, inspeccionamos el estado del sistema de escape, los latiguillos de freno y posibles puntos de óxido en el chasis."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto para el clima de Burgos",
+  "closingCta": "Si tu coche necesita una revisión o notas algo raro, no esperes a que se convierta en una avería seria. Pide tu presupuesto cerrado para nuestro taller en Burgos por teléfono o WhatsApp. Conducirás más tranquilo."
+}

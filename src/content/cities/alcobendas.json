@@ -1,0 +1,189 @@
+{
+  "slug": "alcobendas",
+  "name": "Alcobendas",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 116037,
+  "lat": 40.54746,
+  "lng": -3.64197,
+  "metaTitle": "Taller mecánico en Alcobendas — Multimarca y de confianza",
+  "metaDescription": "Tu taller multimarca en Alcobendas. Presupuestos cerrados para revisión, mecánica y averías. Cerca de la A-1. Pide cita y evita sorpresas en la factura.",
+  "heroSubtitle": "Harto de los atascos en la A-1 y de no saber si tu coche aguantará el próximo viaje a la sierra? Pide tu presupuesto cerrado y conduce tranquilo.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Alcobendas y sus alrededores es un reto diario. Lo sabes bien si cada mañana te enfrentas al tráfico de la A-1 para ir a Madrid o si te mueves entre Valdelasfuentes y el Parque Empresarial Arroyo de la Vega. Este uso intensivo, con constantes paradas y arranques, castiga componentes clave como el embrague, los frenos y el filtro de partículas, especialmente en los coches diésel que tanto abundan en nuestra zona. El parque móvil de Alcobendas es muy variado: vemos desde el SEAT Ateca familiar que se usa para llevar a los niños al colegio en El Soto de la Moraleja, hasta el Audi A4 de empresa o la furgoneta del autónomo que trabaja por el polígono industrial. Cada uno con sus necesidades, pero todos expuestos a las mismas condiciones exigentes de la periferia de una gran capital.\n\nEl clima continental de Madrid es otro factor decisivo. Pasamos de las heladas de enero, que ponen a prueba las baterías cada mañana, al calor asfixiante de julio y agosto, que fuerza al máximo el sistema de aire acondicionado y refrigeración del motor. Este contraste térmico tan brutal acelera el envejecimiento de plásticos, gomas y líquidos del vehículo. Además, la sequedad y el polvo en suspensión, sobre todo en verano, ensucian los filtros de aire y habitáculo mucho más rápido de lo que imaginas, afectando al rendimiento del motor y a la calidad del aire que respiras dentro del coche.\n\nEntendemos perfectamente cómo usas tu coche. No es lo mismo un vehículo que solo se mueve por el centro de Alcobendas para hacer recados que otro que recorre la M-40 a diario o que los fines de semana sube a la Sierra de Guadarrama. Un coche que enfrenta las pendientes de la carretera de Colmenar necesita unos frenos y una suspensión en perfecto estado, mientras que uno que pasa horas en el Nudo Norte necesita un sistema de refrigeración impecable para no llevarse un susto. Por eso, nuestro enfoque no es genérico; diagnosticamos los problemas pensando en el uso real que le das a tu vehículo en nuestro entorno.\n\nLa ITV es otro de los caballos de batalla para los conductores de la zona. Las estaciones de inspección de los alrededores de Alcobendas y San Sebastián de los Reyes son cada vez más estrictas, sobre todo con las emisiones de los diésel. Muchos coches no la pasan por culpa de un filtro de partículas obstruido por la conducción urbana o por un desgaste en la suspensión provocado por los miles de badenes de las zonas residenciales. Nuestro servicio de pre-ITV está diseñado para detectar precisamente estos fallos comunes en nuestra área, ahorrándote tiempo, dinero y el engorro de tener que volver.",
+  "servicesIntro": "Desde la revisión anual para tu coche de empresa hasta la reparación del embrague desgastado por el tráfico de la A-1, cubrimos toda la mecánica.",
+  "processIntro": "Sabemos que tu tiempo es oro. Por eso nuestro proceso es claro: te damos un presupuesto cerrado y no hacemos nada sin tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Tu coche entra al taller y lo conectamos a nuestro sistema de diagnosis. Un mecánico cualificado revisa los puntos clave para entender qué le pasa exactamente, sin especulaciones. Escuchamos el problema que nos cuentas y lo verificamos."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin sorpresas. Incluye piezas, mano de obra e IVA. Te lo enviamos por WhatsApp o email para que lo revises con calma, sin ninguna presión."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "El coche no se toca hasta que nos das el 'OK'. Revisas el presupuesto y, si estás de acuerdo, nos das luz verde. Si decides no reparar, no hay problema. Tú tienes siempre el control."
+    },
+    {
+      "title": "Reparación",
+      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos se ponen manos a la obra para dejar tu coche perfecto en el tiempo estimado. Te mantenemos informado si surge cualquier imprevisto durante el proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo para recoger. Te explicamos la reparación realizada y te entregamos la factura. Unos días después, te contactamos para confirmar que todo funciona como la seda."
+    }
+  ],
+  "commonIssuesIntro": "El clima extremo de Madrid y el uso intensivo en la A-1 y la M-40 castigan tu coche. Estos son los problemas que más vemos en vehículos de Alcobendas y Sanse.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos por atascos",
+      "body": "Pasar horas en la A-1 o en el Nudo Norte de la M-40 significa pisar el embrague y el freno miles de veces. Este uso intensivo acelera el desgaste. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, ven a vernos. Revisamos el sistema completo y te damos una solución para que conduzcas seguro por Alcobendas."
+    },
+    {
+      "title": "Filtro de partículas (FAP) obstruido",
+      "body": "Muchos diésel que circulan por el casco urbano de Alcobendas o hacen trayectos cortos hasta el trabajo no alcanzan la temperatura para regenerar el FAP. Esto provoca averías y fallos de motor. Realizamos limpiezas y regeneraciones forzadas para que pases la ITV sin problemas de humos y evites una reparación costosa."
+    },
+    {
+      "title": "Problemas con el aire acondicionado",
+      "body": "El verano en Alcobendas no perdona. Un aire acondicionado que no enfría lo suficiente es un suplicio. El calor extremo puede causar fugas en el circuito o agotar el gas. Hacemos la carga de gas, detectamos fugas y reparamos el compresor para que no te derritas en el coche en pleno agosto."
+    },
+    {
+      "title": "Baterías que fallan con el frío",
+      "body": "Las heladas de invierno en la zona norte de Madrid son el peor enemigo de las baterías con unos años. Si a tu coche le cuesta arrancar por las mañanas en Valdelasfuentes, es probable que la batería esté en las últimas. La comprobamos gratis y, si hace falta, la sustituimos por una de calidad para que no te deje tirado."
+    },
+    {
+      "title": "Suspensión y neumáticos dañados",
+      "body": "Los miles de badenes de las zonas residenciales como El Soto de la Moraleja o Arroyo de la Vega, junto con los baches ocasionales de las vías de servicio, castigan la suspensión y los neumáticos. Ruidos raros al girar o un desgaste irregular de las ruedas son síntomas claros. Hacemos alineado de dirección y revisamos amortiguadores."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Para conductores de Alcobendas",
+      "body": "Conocemos tu día a día: el tráfico de la A-1, los badenes de La Moraleja y el calor del verano. Adaptamos nuestro servicio a los problemas reales de los coches que circulan por aquí."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "Lo que presupuestamos es lo que pagas. Sin extras de última hora ni letra pequeña. Te enviamos el presupuesto detallado y tú decides. Transparencia total."
+    },
+    {
+      "title": "Todas las marcas, un solo taller",
+      "body": "Da igual si conduces un SEAT León para ir a la oficina o un BMW X3 para el fin de semana. Tenemos la tecnología y el conocimiento para cuidar de cualquier coche, manteniendo la garantía del fabricante."
+    },
+    {
+      "title": "Comunicación directa y clara",
+      "body": "No usamos tecnicismos para confundirte. Te explicamos la avería en un lenguaje que entiendes y te llamamos siempre antes de realizar cualquier trabajo no presupuestado. Estamos a tu lado."
+    },
+    {
+      "title": "Agilidad para tu día a día",
+      "body": "Sabemos que necesitas tu coche. Por eso optimizamos los tiempos de reparación y te ofrecemos opciones como el coche de cortesía (sujeto a disponibilidad) para que tu rutina no se pare."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que resolvemos cada día para conductores como tú en nuestra zona de Alcobendas y alrededores.",
+  "testimonials": [
+    {
+      "name": "Carlos",
+      "neighborhood": "Valdelasfuentes",
+      "car": "SEAT León 1.6 TDI 2017",
+      "body": "Uso el coche todos los días para bajar a Madrid a trabajar y el embrague empezó a patinar en los atascos de la A-1. Me dieron un presupuesto cerrado, más barato que en el concesionario oficial. Cumplieron el plazo y ahora el coche va perfecto. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "El Soto de la Moraleja",
+      "car": "BMW X1 2018",
+      "body": "El aire acondicionado dejó de enfriar en junio. Con los niños en el coche, era imposible. Lo llevé, encontraron una pequeña fuga, la repararon y recargaron el gas en el mismo día. Un trato excelente y muy claros con la explicación del problema.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Centro",
+      "car": "Ford Focus 2013",
+      "body": "Tenía la ITV en una semana y el coche echaba mucho humo negro. Me limpiaron el filtro de partículas y le hicieron una revisión pre-ITV completa. Pasó a la primera sin un solo fallo. Me ahorraron tiempo y un segundo viaje a la estación.",
+      "rating": 5
+    },
+    {
+      "name": "Ana",
+      "neighborhood": "San Sebastián de los Reyes",
+      "car": "Renault Clio 2015",
+      "body": "Notaba un ruido raro en la suspensión al pasar los badenes. Me cambiaron los amortiguadores delanteros. El precio fue correcto, aunque tardaron un día más de lo previsto porque la pieza no llegaba. Al menos me mantuvieron informada en todo momento.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Alcobendas da servicio a toda la zona norte de Madrid. Si vives o trabajas en barrios como el Ensanche, Valdelasfuentes, Arroyo de la Vega o el centro, estamos a un paso. También cubrimos las urbanizaciones de La Moraleja y El Soto. Nuestra ubicación es ideal si vienes desde municipios cercanos como San Sebastián de los Reyes ('Sanse'), ya que estamos muy bien comunicados. El acceso es muy sencillo desde la A-1, tanto en dirección Madrid como en dirección Burgos, y también desde la M-603. Si te mueves por los polígonos industriales de la zona, somos tu taller de confianza.",
+  "zoneNeighborhoods": [
+    "Centro",
+    "Ensanche",
+    "Arroyo de la Vega",
+    "Valdelasfuentes",
+    "La Moraleja",
+    "El Soto de la Moraleja",
+    "San Sebastián de los Reyes",
+    "Polígono Industrial de Alcobendas"
+  ],
+  "zoneAccessRoutes": [
+    "A-1 (Autovía del Norte)",
+    "M-40",
+    "M-603 (Carretera de Burgos)",
+    "M-12"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la revisión oficial manteniendo la garantía para un coche comprado en un concesionario de Alcobendas?",
+      "a": "Sí, por supuesto. Realizamos la revisión de tu coche siguiendo estrictamente las indicaciones del fabricante y utilizando recambios de calidad equivalente. Sellamos el libro de mantenimiento y tu garantía oficial permanece intacta. Es la misma calidad que el servicio oficial, pero con un precio más competitivo."
+    },
+    {
+      "q": "Mi coche es diésel y hago trayectos cortos por Alcobendas y Sanse, ¿debo preocuparme por el filtro de partículas?",
+      "a": "Es una preocupación muy común y justificada. El uso urbano con trayectos cortos impide que el filtro de partículas (FAP) se regenere correctamente, lo que puede causar averías costosas. Te recomendamos salir a carretera, por ejemplo por la A-1, y conducir a revoluciones altas durante 15-20 minutos una vez al mes. Si ya tienes el testigo encendido, tráelo para una regeneración forzada."
+    },
+    {
+      "q": "Tengo que pasar la ITV pronto, ¿revisáis los puntos críticos para las estaciones de la zona norte de Madrid?",
+      "a": "Sí, conocemos perfectamente los puntos en los que más inciden las estaciones de ITV de nuestra zona (emisiones, frenos, suspensión y neumáticos). Con nuestro servicio Pre-ITV, revisamos todos estos elementos para asegurarnos de que tu coche la pase a la primera, ahorrándote el viaje y el coste de una segunda inspección."
+    },
+    {
+      "q": "¿Tenéis experiencia con coches de alta gama, habituales en La Moraleja?",
+      "a": "Totalmente. Nuestro equipo tiene amplia experiencia y formación en vehículos premium como Audi, BMW, Mercedes o Lexus. Contamos con equipos de diagnosis específicos para estas marcas, lo que nos permite identificar y solucionar averías complejas con la misma eficacia que un concesionario oficial."
+    },
+    {
+      "q": "Trabajo en el Parque Empresarial La Moraleja, ¿ofrecéis alguna facilidad para dejar el coche?",
+      "a": "Entendemos que no puedes perder una mañana de trabajo. Ofrecemos la máxima agilidad en la recepción y entrega. Además, disponemos de coche de cortesía (consulta disponibilidad al pedir cita) para que puedas seguir con tu jornada mientras nosotros nos ocupamos de tu vehículo."
+    },
+    {
+      "q": "El calor del verano en Madrid es terrible, ¿cuándo debo revisar el aire acondicionado?",
+      "a": "No esperes a que llegue julio y el sistema falle. Lo ideal es hacer una revisión preventiva en primavera. Comprobamos la presión del gas, el estado del compresor y los filtros. Así te aseguras de que funcionará a pleno rendimiento cuando más lo necesites, evitando el agobio de los atascos en la A-1 a 40 grados."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Alcobendas",
+  "closingCta": "Olvídate de las dudas y las facturas con sorpresas. Pide tu presupuesto cerrado para tu taller en Alcobendas. Llámanos o escríbenos por WhatsApp y vuelve a conducir con total tranquilidad.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Alcobendas",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@taller-madrid.es",
+    "addressStreet": ""
+  }
+}

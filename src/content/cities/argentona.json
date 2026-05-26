@@ -1,0 +1,180 @@
+{
+  "slug": "argentona",
+  "name": "Argentona",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 11633,
+  "lat": 41.55336,
+  "lng": 2.40114,
+  "metaTitle": "Taller mecánico en Argentona — Multimarca y de confianza",
+  "metaDescription": "Tu taller multimarca en Argentona. Presupuesto cerrado para revisiones, mecánica y averías. Cerca de la C-60 y C-32. Pide tu cita ahora.",
+  "heroSubtitle": "Cansado de los atascos en la C-60 y de no saber si tu coche aguantará otro viaje a Mataró o Barcelona? Aquí lo revisamos a fondo.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives en Argentona, sabes que tu coche no es un lujo, es una necesidad. Ya sea para bajar a Mataró a hacer recados, para coger la C-60 cada mañana hacia Granollers o para el trayecto diario a Barcelona por la C-32, dependes de él. Entendemos perfectamente la rutina del conductor del Maresme interior: el tráfico denso al salir del pueblo, las retenciones para entrar en la capital del Maresme y el desgaste que eso supone para cualquier vehículo. No es lo mismo conducir por el centro de Argentona que enfrentarse a la subida de Parpers por la C-1415c o a los kilómetros de autopista. Cada trayecto deja su huella en el embrague, los frenos y el motor.\n\nEl clima de nuestra comarca, el Maresme, también juega su papel. La humedad es una constante durante todo el año y, aunque no estemos en primera línea de mar, la brisa marina y su salitre llegan hasta aquí, afectando a largo plazo a los bajos del coche, los discos de freno y los componentes metálicos. En verano, el calor intenso pone a prueba el sistema de refrigeración y el aire acondicionado, especialmente en los atascos de la C-32 en julio y agosto. Un mantenimiento que no tenga en cuenta estos factores es un mantenimiento incompleto para un coche que circula por Argentona y sus alrededores.\n\nConocemos bien el parque móvil de la zona. Vemos a diario los SEAT León, Peugeot 3008 y Volkswagen Golf de familias que viven en el Nucli Urbà o en urbanizaciones como Can Cabot o Les Ginesteres. También estamos acostumbrados a trabajar con los Audi, BMW y Mercedes de profesionales que necesitan su coche siempre a punto para sus desplazamientos. Sabemos que muchos de los coches diésel que circulan por aquí sufren con los trayectos cortos, provocando problemas en el filtro de partículas, y que los nuevos modelos híbridos y de gasolina requieren un diagnóstico electrónico preciso que estamos preparados para ofrecer.\n\nPor eso, nuestro taller en Argentona no es un taller más. Somos mecánicos que vivimos y conducimos por las mismas carreteras que tú. Entendemos lo que significa depender del coche para llevar a los niños al colegio, para ir a trabajar o para escaparse el fin de semana. No te hablamos con tecnicismos incomprensibles; te explicamos qué le pasa a tu coche y te damos una solución honesta con un presupuesto cerrado. Porque la confianza, aquí en el pueblo, es lo más importante.",
+  "servicesIntro": "Desde la revisión para pasar la ITV en Mataró sin sustos hasta esa avería compleja que te ha dejado tirado en la C-60, cubrimos todo lo que tu coche necesita.",
+  "processIntro": "Trabajamos con total transparencia. Te explicamos cada paso, te damos un presupuesto cerrado por adelantado y no movemos un tornillo sin tu autorización.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, nuestros técnicos realizan una revisión completa para identificar el problema con precisión. Escuchamos lo que te preocupa y utilizamos equipos de diagnosis modernos para entender qué necesita tu vehículo, sea cual sea su marca."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y sin sorpresas. Sabrás exactamente cuánto va a costar la reparación, incluyendo piezas y mano de obra, antes de que empecemos a trabajar. Sin letra pequeña ni costes ocultos."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "El siguiente paso lo das tú. Te llamamos o te enviamos el presupuesto para que lo revises con calma. No iniciaremos ninguna reparación ni pediremos ninguna pieza hasta que nos des tu visto bueno. El control siempre es tuyo."
+    },
+    {
+      "title": "Reparación",
+      "body": "Una vez aprobado, nuestros mecánicos se ponen manos a la obra. Utilizamos recambios de primeras marcas con garantía y seguimos los procedimientos del fabricante para asegurar un trabajo de calidad y duradero. Te mantenemos informado del progreso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando el coche está listo, te avisamos para que pases a recogerlo. Te explicamos el trabajo realizado y te entregamos la factura detallada. Unos días después, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El clima húmedo del Maresme y el uso diario del coche para ir a trabajar a Mataró o Barcelona provocan averías muy concretas que conocemos y solucionamos a diario en Argentona.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El tráfico de entrada y salida de Argentona hacia la C-32 o Mataró, lleno de paradas y arranques, castiga el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Verificamos y sustituimos los componentes de desgaste para devolverte la seguridad."
+    },
+    {
+      "title": "Filtro de partículas (DPF) obstruido",
+      "body": "Muchos diésel de la zona hacen trayectos cortos, como ir al centro o a la estación de Mataró. Esto impide que el filtro de partículas se regenere correctamente y acaba por obstruirse, provocando pérdida de potencia y averías costosas. Realizamos limpiezas y regeneraciones forzadas para evitar problemas mayores."
+    },
+    {
+      "title": "Fallos en el aire acondicionado",
+      "body": "Los veranos calurosos y húmedos del Maresme hacen que el aire acondicionado trabaje a pleno rendimiento. Un sistema con poco gas o con fugas no solo no enfría, sino que fuerza el compresor. Realizamos cargas de gas, detección de fugas y reparaciones para que no pases calor en los atascos de la C-32."
+    },
+    {
+      "title": "Corrosión leve en bajos y frenos",
+      "body": "Aunque Argentona no está en primera línea de mar, la brisa marina cargada de salitre llega y se deposita en el coche. Con el tiempo, esto puede generar corrosión en los bajos, el escape y los componentes de los frenos. En nuestras revisiones prestamos especial atención a estos puntos para prevenir daños."
+    },
+    {
+      "title": "Problemas de suspensión y alineación",
+      "body": "Las rotondas, los badenes de las urbanizaciones y las curvas de carreteras como la C-1415c hacia La Roca, desgastan silentblocks, amortiguadores y rótulas. Si notas vibraciones en el volante o un desgaste irregular de los neumáticos, es probable que necesites una revisión de la suspensión y un alineado de dirección."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Mecánicos de aquí",
+      "body": "Entendemos los problemas específicos de los coches de Argentona porque conducimos por las mismas carreteras que tú. Sabemos cómo afecta el clima y el tipo de uso local a tu vehículo."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "Te damos un precio cerrado antes de empezar. Lo que presupuestamos es lo que pagas. Se acabaron las facturas infladas y las sorpresas de última hora al recoger tu coche."
+    },
+    {
+      "title": "Hablamos claro",
+      "body": "Te explicamos la avería de tu coche de forma que la entiendas, sin tecnicismos innecesarios. Creemos que un cliente informado es un cliente que confía en nosotros."
+    },
+    {
+      "title": "Expertos en todas las marcas",
+      "body": "Desde el Dacia de la familia hasta el BMW para ir a trabajar. Nuestros técnicos tienen la formación y el equipo para diagnosticar y reparar cualquier marca y modelo con total garantía."
+    },
+    {
+      "title": "Soluciones duraderas",
+      "body": "No nos limitamos a poner parches. Buscamos el origen del problema y te ofrecemos una solución fiable para que no tengas que volver al taller por lo mismo en dos días."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que resolvemos cada día para conductores de Argentona y los pueblos de alrededor.",
+  "testimonials": [
+    {
+      "name": "Marc",
+      "neighborhood": "Nucli Urbà",
+      "car": "SEAT León ST 2018",
+      "body": "Uso el coche todos los días para ir a trabajar a Barcelona por la C-32 y notaba que el coche había perdido fuerza. Me saltaba un aviso del filtro de partículas. Aquí me lo solucionaron con una limpieza y me explicaron cómo evitar que volviera a pasar. Un servicio rápido y muy profesional, me salvaron de una avería gorda.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Les Ginesteres",
+      "car": "Peugeot 3008 2019",
+      "body": "Con las cuestas de la urbanización, los frenos me empezaron a hacer un ruido raro. Los traje aquí por recomendación y acerté. Me enseñaron el desgaste de las pastillas, me dieron un presupuesto al momento y por la tarde ya lo tenía listo. Súper transparentes y amables.",
+      "rating": 5
+    },
+    {
+      "name": "Jordi",
+      "neighborhood": "Can Cabot",
+      "car": "BMW X1 2016",
+      "body": "Llegó el verano y el aire acondicionado no enfriaba nada. Con los niños y el calor que hace aquí, era un suplicio. Me encontraron una pequeña fuga, la repararon e hicieron la carga de gas. Ahora enfría perfectamente. Muy contentos con el trato y el precio fue el que me dijeron.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "Veïnat de Clarà",
+      "car": "Renault Clio 2014",
+      "body": "Tenía que pasar la ITV en Mataró y no estaba segura de si pasaría por los neumáticos. Les pedí una revisión pre-ITV y me detectaron que tenía las ruedas delanteras muy gastadas por dentro. Me las cambiaron, alinearon la dirección y pasó la ITV sin problemas. Me ahorraron tiempo y un segundo viaje.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Argentona da servicio a toda la localidad, desde el centro urbano hasta las urbanizaciones más alejadas como Can Raimí o Les Ginesteres. Estamos estratégicamente situados para que llegar sea muy fácil. Si vienes de Mataró o necesitas un taller de confianza cerca de la C-32, somos tu mejor opción. También cubrimos las necesidades de los conductores de pueblos vecinos como Dosrius, Òrrius y Cabrera de Mar, que buscan un servicio profesional y honesto sin tener que entrar en el bullicio de Mataró. Nuestro acceso es directo desde vías principales como la C-60 y la carretera C-1415c, por lo que dejar tu coche para una revisión o una reparación te llevará solo un momento.",
+  "zoneNeighborhoods": [
+    "Nucli Urbà",
+    "Les Ginesteres",
+    "Can Cabot",
+    "Can Raimí",
+    "Madà",
+    "Veïnat de Clarà",
+    "Òrrius",
+    "Dosrius",
+    "Cabrera de Mar"
+  ],
+  "zoneAccessRoutes": [
+    "C-60 (Autopista de la Roca)",
+    "C-32 (Autopista del Maresme)",
+    "C-1415c (Carretera de Parpers)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la pre-ITV para pasarla en la estación de Mataró?",
+      "a": "Sí, por supuesto. Sabemos que la mayoría de nuestros clientes pasan la ITV en Mataró o Vilassar de Mar. Ofrecemos un servicio completo de pre-ITV donde revisamos los mismos puntos que miran en la inspección: luces, frenos, emisiones, neumáticos, suspensión... Así te aseguras de pasarla a la primera y te ahorras tiempo y dinero."
+    },
+    {
+      "q": "Mi coche es diésel y solo lo muevo por Argentona y Mataró, ¿es malo?",
+      "a": "Hacer solo trayectos cortos con un diésel moderno puede provocar la saturación del filtro de partículas (DPF), ya que no alcanza la temperatura para autolimpiarse. Esto causa pérdida de potencia y averías. Te recomendamos que, al menos una vez por semana, salgas a la autopista (C-32 o C-60) y conduzcas unos 15-20 minutos a un régimen más alto para forzar la regeneración."
+    },
+    {
+      "q": "Vivo en una urbanización con muchas cuestas, ¿cómo afecta a mi coche?",
+      "a": "Vivir en zonas como Les Ginesteres o Can Cabot somete a los frenos y al embrague (en coches manuales) a un esfuerzo extra. El desgaste de pastillas, discos y del propio embrague puede ser más rápido. Recomendamos revisiones periódicas de estos componentes para garantizar tu seguridad y evitar que una pequeña reparación se convierta en una avería mayor."
+    },
+    {
+      "q": "¿El salitre del mar puede dañar mi coche aunque viva en Argentona?",
+      "a": "Aunque no estás en primera línea de playa, la brisa marina del Maresme transporta humedad y salitre al interior. Es un efecto lento pero real que, con los años, puede provocar corrosión en los bajos del coche, el sistema de escape o los conductos de freno. Lavar el coche con frecuencia, especialmente los bajos, ayuda a minimizar este efecto."
+    },
+    {
+      "q": "Cojo la C-60 todos los días para ir a trabajar, ¿qué revisión recomendáis?",
+      "a": "El uso intensivo en autopista exige tener los neumáticos en perfecto estado y con la presión correcta, así como una suspensión y dirección bien alineadas para garantizar la estabilidad y seguridad. También es crucial que el sistema de refrigeración y los niveles de aceite estén perfectos. Una revisión anual completa es fundamental para tu tranquilidad."
+    },
+    {
+      "q": "¿Tenéis coche de cortesía? Lo necesito para no perder el día de trabajo.",
+      "a": "Sí, disponemos de coches de cortesía para nuestros clientes. Entendemos que no puedes quedarte parado, sobre todo si dependes del coche para trabajar. Consulta la disponibilidad con nosotros al pedir tu cita, ya que es un servicio muy demandado. Haremos lo posible por facilitarte uno para que tu día a día no se vea afectado."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Argentona",
+  "closingCta": "No dejes que una avería te complique la vida. Pide tu presupuesto cerrado para tu coche en Argentona. Llámanos o escríbenos por WhatsApp y te atenderemos sin compromiso para encontrar la mejor solución para ti."
+}

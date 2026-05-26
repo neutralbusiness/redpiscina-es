@@ -1,0 +1,194 @@
+{
+  "slug": "sant-feliu-de-llobregat",
+  "name": "Sant Feliu de Llobregat",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 42919,
+  "lat": 41.38333,
+  "lng": 2.05,
+  "metaTitle": "Taller mecánico en Sant Feliu de Llobregat — Multimarca y honesto",
+  "metaDescription": "Mantenimiento y reparación para tu coche en Sant Feliu de Llobregat. Presupuesto cerrado para tu diésel, gasolina o híbrido. Pide tu cita ahora.",
+  "heroSubtitle": "Si tu día a día depende de cruzar la A-2 o la B-23, necesitas un coche que no falle. En Sant Feliu, cuidamos de tu herramienta de trabajo.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Entender un coche es entender la vida de su dueño. Y en Sant Feliu de Llobregat, la vida de muchos se mide en los kilómetros que separan casa del trabajo. No hablamos de un paseo, sino del trayecto diario, ese que empieza en barrios como Can Calders o La Salut y termina en algún polígono de la Zona Franca o en una oficina en plena Diagonal de Barcelona. Ese recorrido, que pasa inevitablemente por los nudos de la A-2 y la B-23, es una prueba de estrés constante para cualquier vehículo. El coche deja de ser un capricho y se convierte en una herramienta esencial, tan importante como el móvil o el ordenador. Por eso, cuando algo falla, no solo se para el motor; se para tu rutina, tu capacidad de generar ingresos y tu tranquilidad. Aquí no tratamos con averías, tratamos con la necesidad de que tu día a día no se detenga por un imprevisto mecánico.\n\nEl parque móvil de Sant Feliu es un reflejo de su propia historia como ciudad: una mezcla de generaciones. Por un lado, tenemos el núcleo duro, los diésel de batalla de entre 2005 y 2015. Esos Seat León, Ford Focus o Peugeot 308 que han subido y bajado miles de veces hacia Barcelona y que ahora se enfrentan a su mayor reto: las restricciones de la Zona de Bajas Emisiones (ZBE). Sus dueños, muchos de ellos autónomos o trabajadores que dependen del coche, apuran su vida útil. Estos motores, diseñados para carretera, sufren en el tráfico denso de entrada a la capital. La válvula EGR se llena de carbonilla, el filtro de partículas (FAP) no regenera bien en trayectos cortos por el centro de Sant Feliu para hacer recados, y el embrague acusa el constante 'arranca y para' de las rondas. Conocemos cada uno de estos achaques porque los vemos a diario.\n\nFrente a ellos, emerge la nueva generación de vehículos, impulsada precisamente por esas mismas restricciones. En zonas de nueva construcción como Mas Lluí, cada vez es más común ver híbridos y modelos con etiqueta ECO. Coches que, si bien solucionan el problema del acceso a Barcelona, traen consigo una nueva mecánica y unas necesidades de mantenimiento distintas. Ya no hablamos solo de aceite y filtros; hablamos de la salud de las baterías, de la eficiencia del sistema de frenada regenerativa o del mantenimiento de los complejos sistemas electrónicos que los gobiernan. Este cambio no es futuro, es el presente en nuestro taller. La transición del diésel al híbrido es un hecho en el Baix Llobregat, y estamos preparados para dar servicio a ambas realidades, comprendiendo las urgencias del profesional con su furgoneta diésel y las dudas del nuevo propietario de un híbrido.\n\nAdemás, el entorno de Sant Feliu tiene sus propias particularidades. El clima mediterráneo, con la humedad que aporta la cercanía del río Llobregat, es especialmente duro con los sistemas de aire acondicionado en verano y puede acelerar la corrosión en los bajos de coches más antiguos que duermen en la calle. El polvo en suspensión, procedente tanto del tráfico de la autovía como de la actividad en polígonos cercanos como El Pla, satura los filtros de habitáculo y motor más rápido de lo que indican los manuales. Incluso la orografía, con las cuestas y badenes de ciertas zonas residenciales, pasa factura a suspensiones y amortiguadores. Son pequeños detalles que un taller genérico podría pasar por alto, pero que nosotros, como taller local, consideramos parte fundamental de un buen diagnóstico.\n\nPor todo esto, nuestro enfoque va más allá de la simple reparación. Ofrecemos un mantenimiento predictivo y adaptado al uso real que le das a tu coche en Sant Feliu de Llobregat. Tanto si tu rutina implica hacer 100 kilómetros diarios por autopista como si usas el coche para moverte entre Sant Joan Despí, Cornellà y Molins de Rei, nuestro objetivo es el mismo: que puedas confiar en tu vehículo. Con un presupuesto cerrado y sin sorpresas, te damos la certeza de que tu coche está en manos de gente que no solo sabe de mecánica, sino que entiende perfectamente el contexto en el que te mueves cada día. Porque tu tranquilidad es, al final, la mejor señal de que hemos hecho bien nuestro trabajo.",
+  "servicesIntro": "Tanto si es la revisión anual para tu coche de trabajo como una avería imprevista, estos son los servicios que ofrecemos aquí en Sant Feliu.",
+  "processIntro": "Trabajamos con total transparencia. No movemos un solo tornillo sin tu aprobación y siempre con un presupuesto cerrado que respetamos.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le pasa a tu coche y a ti. Conectamos nuestros equipos de diagnosis y realizamos una inspección visual completa para entender el origen real del problema, no solo el síntoma."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye mano de obra y piezas, con el IVA desglosado. El precio que ves es el que pagas, sin sorpresas de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisa el presupuesto con calma. Si tienes cualquier duda, nos llamas y te la aclaramos. Solo cuando nos das tu visto bueno, empezamos a trabajar en tu coche. Tú tienes siempre el control."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas o equivalentes, siempre con garantía. Te mantenemos informado del proceso y cumplimos con los plazos acordados para que puedas organizarte sin problemas."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El uso intensivo por las carreteras del Baix Llobregat y los atascos diarios en la B-23 para entrar a Barcelona provocan una serie de averías muy concretas que conocemos bien.",
+  "commonIssues": [
+    {
+      "title": "Filtro de partículas (FAP/DPF) obstruido",
+      "body": "Es el problema estrella de los diésel que hacen mucha ciudad o soportan el tráfico lento de la B-23. El motor no alcanza la temperatura para regenerar y el filtro se satura. Realizamos limpiezas químicas o forzamos la regeneración para que vuelvas a pasar la ITV y el coche respire."
+    },
+    {
+      "title": "Desgaste de embrague y frenos por tráfico",
+      "body": "El constante 'primera, segunda, punto muerto' en los accesos a Barcelona castiga el embrague. Los frenos también sufren un desgaste acelerado. Revisamos todo el sistema y te asesoramos sobre kits de embrague reforzados si tu uso es muy intensivo, como el de repartidores en el polígono El Pla."
+    },
+    {
+      "title": "Fallo del compresor del Aire Acondicionado",
+      "body": "El calor húmedo del verano en el valle del Llobregat pone al límite el sistema de climatización. Un compresor que falla en pleno atasco en la A-2 en julio es un problema serio. Diagnosticamos fugas y reparamos o sustituimos el compresor para que no te ases de calor."
+    },
+    {
+      "title": "Válvula EGR sucia y con carbonilla",
+      "body": "Otro clásico del conductor diésel que circula a bajas revoluciones. La carbonilla tapona la válvula, provocando pérdida de potencia, tirones y humos. La desmontamos y limpiamos por ultrasonidos, una solución mucho más económica que cambiar la pieza entera."
+    },
+    {
+      "title": "Mantenimiento de sistemas híbridos",
+      "body": "Muchos conductores de Sant Feliu han cambiado a un híbrido por la etiqueta ECO. Estos coches requieren un mantenimiento específico: revisión del sistema de refrigeración de baterías, diagnosis del sistema eléctrico y cuidado del sistema de frenada regenerativa. Estamos equipados para ello."
+    },
+    {
+      "title": "Ruidos y holguras en la suspensión",
+      "body": "Entre los badenes de zonas residenciales como Mas Lluí y los baches de algunas calles de polígonos, los silentblocks, rótulas y amortiguadores sufren mucho. Un ruido a tiempo puede evitar una avería mayor y un susto en la carretera. Lo revisamos a fondo en cada mantenimiento."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos tu rutina",
+      "body": "Sabemos lo que es depender del coche para ir a trabajar a Barcelona o moverte por el Baix Llobregat. Nuestras soluciones están pensadas para gente como tú."
+    },
+    {
+      "title": "Especialistas en la transición",
+      "body": "Damos el mismo servicio de calidad a tu diésel de siempre que a tu nuevo híbrido. Dominamos la mecánica de ayer y la tecnología de hoy."
+    },
+    {
+      "title": "Presupuesto final, sin asteriscos",
+      "body": "El precio que te damos es el que pagas. Se acabaron las llamadas a media reparación para añadir costes imprevistos. Honestidad por delante."
+    },
+    {
+      "title": "Diagnóstico, no 'cambiapiezas'",
+      "body": "Invertimos tiempo en encontrar la causa real de la avería para no hacerte cambiar piezas innecesariamente. Ahorras dinero y ganas en fiabilidad."
+    },
+    {
+      "title": "Un taller de Sant Feliu",
+      "body": "Estamos aquí, en tu ciudad. Puedes hablar con nosotros cara a cara. Somos tus vecinos, no una centralita a cientos de kilómetros."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de casos y situaciones que nos confían cada día conductores y profesionales de Sant Feliu y alrededores.",
+  "testimonials": [
+    {
+      "name": "Joan",
+      "neighborhood": "Can Calders",
+      "car": "Seat Altea XL TDI 2012",
+      "body": "Hago cada día el trayecto hasta el polígono Pedrosa de L'Hospitalet y el coche empezó a dar tirones. Me salía el aviso del filtro de partículas. Aquí me explicaron por qué pasaba por el tipo de trayecto que hago y me hicieron una limpieza. El coche va fino otra vez y me ahorré cambiar el filtro entero. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Mas Lluí",
+      "car": "Toyota C-HR Hybrid 2021",
+      "body": "Era la primera revisión gorda de mi híbrido y no quería ir al concesionario oficial por el precio. Tenía dudas sobre si un taller normal sabría tocarlo. La verdad es que me dieron mucha confianza, me explicaron perfectamente qué revisaban del sistema híbrido. Todo perfecto y transparente.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Centre",
+      "car": "Peugeot Partner 2018",
+      "body": "Soy electricista y la furgoneta es mi oficina. Siempre voy cargado y notaba los frenos raros. Me cambiaron discos y pastillas y revisaron la suspensión, que también estaba tocada del peso. Me ofrecieron un coche de cortesía para no perder un día de trabajo. Un servicio de 10 para autónomos.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Sant Joan Despí",
+      "car": "VW Golf 1.6 TDI 2015",
+      "body": "Tenía que pasar la ITV en Sant Vicenç y con el lío de las emisiones de los diésel, no me fiaba. Les pedí una revisión pre-ITV. Me ajustaron un par de cosas y me hicieron una prueba de opacidad. Pasé la ITV a la primera y sin nervios. Volveré sin duda para el mantenimiento.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Sant Feliu de Llobregat, desde el barrio Centre y Falguera hasta las zonas más nuevas como Mas Lluí o el área industrial de El Pla. Nuestra ubicación nos permite ser el taller de referencia para muchos conductores que utilizan a diario las principales vías de comunicación del Baix Llobregat. Si vienes o vas a trabajar por la A-2, la B-23 o la N-340, estamos en tu ruta. También cubrimos las necesidades de los municipios colindantes como Sant Just Desvern, Sant Joan Despí, Molins de Rei y Cornellà de Llobregat, cuyos residentes buscan un servicio de confianza fuera del bullicio de Barcelona.",
+  "zoneNeighborhoods": [
+    "Centre",
+    "Can Calders",
+    "La Salut",
+    "El Pla",
+    "Mas Lluí",
+    "La Falguera",
+    "Can Maginàs",
+    "Sant Just Desvern",
+    "Sant Joan Despí",
+    "Molins de Rei"
+  ],
+  "zoneAccessRoutes": [
+    "A-2",
+    "B-23",
+    "N-340",
+    "BV-2002"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi diésel no tiene etiqueta de la DGT, ¿qué hago para ir a trabajar a Barcelona?",
+      "a": "Legalmente, no puedes acceder a la ZBE de Barcelona en el horario restringido. Fuera de esa franja, sí puedes. Para el coche, lo que podemos hacer es un mantenimiento exhaustivo del sistema de inyección y escape para asegurar que las emisiones son las mínimas posibles. Si estás pensando en cambiar de vehículo, podemos asesorarte sobre la fiabilidad de modelos híbridos o de gasolina que se adapten a tu rutina diaria."
+    },
+    {
+      "q": "Vivo en Sant Feliu, ¿a qué estación de ITV me recomendáis ir?",
+      "a": "Por proximidad, las estaciones de ITV más habituales para los residentes de Sant Feliu son la de Sant Vicenç dels Horts o la de Cornellà de Llobregat. Ofrecemos un servicio de pre-ITV muy completo en el que revisamos los mismos puntos que miran ellos, con especial atención a frenos, luces, neumáticos y, sobre todo, emisiones, que es donde más problemas suelen surgir."
+    },
+    {
+      "q": "Acabo de comprar un híbrido, ¿es muy diferente el mantenimiento?",
+      "a": "Sí y no. Sigue teniendo un motor de combustión que necesita aceite y filtros, pero se añaden componentes clave. En nuestro taller, realizamos la diagnosis electrónica del sistema híbrido, comprobamos el estado de la batería y su sistema de refrigeración, y revisamos el sistema de frenada regenerativa. Es un mantenimiento más tecnológico, pero estamos totalmente equipados para hacerlo con garantías."
+    },
+    {
+      "q": "Hago 80 km diarios por la A-2 y la B-23, ¿necesita mi coche algo especial?",
+      "a": "Sí. Un uso intensivo en autopista y rondas exige un control más estricto de neumáticos (presión y desgaste), frenos y niveles de líquidos, especialmente el refrigerante. También recomendamos acortar ligeramente los intervalos de cambio de aceite. Es un mantenimiento preventivo que evita averías graves y te asegura que el coche no te dejará tirado en el peor momento."
+    },
+    {
+      "q": "En el barrio de Mas Lluí hay muchas cuestas y badenes, ¿cómo afecta a mi coche?",
+      "a": "Ese tipo de trazado urbano castiga mucho la suspensión. Amortiguadores, silentblocks y rótulas sufren un estrés constante. Si notas ruidos raros al pasar un badén, o que el coche 'flanea' en las curvas, es momento de revisarlo. Un sistema de suspensión en buen estado no solo es confort, es seguridad."
+    },
+    {
+      "q": "¿Por qué se enciende el testigo del filtro de partículas si voy de Sant Feliu a la oficina cada día?",
+      "a": "Porque probablemente el trayecto incluye tramos de tráfico muy lento o paradas constantes, como en la entrada a la Diagonal. Para que el filtro se limpie solo (regenere), necesita que el coche circule a un régimen sostenido durante un tiempo. Si no se dan esas condiciones, la carbonilla se acumula. Te recomendamos que, una vez a la semana, salgas a la autovía y conduzcas unos 15-20 minutos a unas 2.500 rpm."
+    },
+    {
+      "q": "Necesito el coche para trabajar, ¿tenéis vehículo de sustitución?",
+      "a": "Sí, disponemos de coche de cortesía para que no tengas que parar tu actividad profesional. Sabemos que para un autónomo o un comercial, un día sin vehículo es un día de pérdidas. Consulta la disponibilidad al pedir tu cita, ya que es un servicio muy demandado, especialmente por profesionales del Baix Llobregat."
+    },
+    {
+      "q": "Con la humedad del río Llobregat, ¿debo tener algún cuidado especial?",
+      "a": "La humedad ambiental puede afectar a varios componentes. Acelera la corrosión en los bajos y en el sistema de escape de coches que ya tienen unos años. También puede generar vaho en los faros y, sobre todo, favorece la proliferación de bacterias en el circuito del aire acondicionado, causando mal olor. Recomendamos una limpieza anual del sistema de climatización."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Sant Feliu",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o envíanos un WhatsApp y te responderemos enseguida para darte cita en nuestro taller de Sant Feliu de Llobregat."
+}

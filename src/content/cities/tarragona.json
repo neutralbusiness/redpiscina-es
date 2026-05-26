@@ -1,0 +1,192 @@
+{
+  "slug": "tarragona",
+  "name": "Tarragona",
+  "province": "Tarragona",
+  "ccaa": "Cataluña",
+  "population": 141542,
+  "lat": 41.11905,
+  "lng": 1.24544,
+  "metaTitle": "Taller mecánico en Tarragona — Multimarca y de confianza",
+  "metaDescription": "Tu taller de confianza en Tarragona para revisiones, mecánica y neumáticos. Presupuesto cerrado y sin sorpresas. ¡Pide tu cita y conduce tranquilo!",
+  "heroSubtitle": "Para ti, que cada día cruzas la A-7 o la N-340. Un taller en Tarragona que entiende tu coche y tu rutina, sin líos ni sorpresas en la factura.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Tarragona es una mezcla de contrastes. Un día estás en el atasco de la Plaça Imperial Tàrraco para ir al trabajo y al siguiente haces una escapada por la N-240 hacia el interior. Vives aquí, así que sabes que tu coche no sufre lo mismo si lo usas para ir y volver del Polígon Sud cada día que si solo lo mueves los fines de semana para pasear por la Via Augusta o acercarte a la playa del Miracle. El salitre del Mediterráneo, que notas en el aire, también lo nota la carrocería, los frenos y el escape de tu coche, acelerando la corrosión de forma silenciosa pero constante, sobre todo si aparcas habitualmente cerca del Serrallo o en la zona de Llevant.\n\nEntendemos perfectamente el parque móvil de Tarragona y sus alrededores. Vemos a diario los coches que llenan nuestras calles: el SEAT León del que vive en el Eixample, el Peugeot 208 para moverse por la Part Alta, el Renault Clio de batalla para ir a la universitat al Campus Sescelades, o la furgoneta del autónomo de Torreforta o Bonavista que necesita su herramienta de trabajo siempre a punto. Sabemos que muchos de estos coches, diésel en su mayoría, hacen trayectos cortos por la ciudad, lo que acaba pasando factura al filtro de partículas. Y conocemos el desgaste que provoca el tráfico denso en la Rambla Nova o en las salidas por la T-11 hacia Reus en embragues y frenos.\n\nNuestro trabajo no es solo cambiar piezas. Es entender cómo usas tu coche en el día a día. ¿Eres de los que cogen la AP-7 a menudo para ir a Barcelona o Valencia? Entonces tus neumáticos y tu motor necesitan un control específico. ¿Tu rutina es más local, entre Tarragona, Salou y Cambrils por la A-7? El desgaste será diferente. El calor húmedo del verano tarraconense pone a prueba el sistema de climatización como en pocos sitios, y sabemos que un aire acondicionado que no enfría en agosto es un verdadero problema. Por eso, nuestro enfoque es local y personalizado, porque el mantenimiento de un coche en la Costa Daurada no es igual que en el interior.\n\nAquí no te vamos a hablar con tecnicismos que no entiendes. Te explicaremos qué le pasa a tu coche de forma clara y directa. Te daremos un presupuesto cerrado, para que sepas desde el primer momento cuánto te va a costar la reparación, sin sorpresas de última hora. No empezamos a trabajar hasta que nos das tu visto bueno. Ya sea para la revisión anual antes de irte de vacaciones, para cambiar la correa de distribución de tu coche con más de 120.000 kilómetros o para solucionar esa luz de avería que se acaba de encender en el cuadro, estamos aquí para ayudarte. Queremos ser tu taller de confianza en Tarragona, el sitio al que vienes sabiendo que cuidaremos de tu coche como si fuera nuestro.",
+  "servicesIntro": "Desde el cambio de aceite para tu coche de diario hasta la diagnosis de una avería compleja, cubrimos todas las necesidades de tu vehículo en Tarragona.",
+  "processIntro": "Trabajamos con total transparencia. Te explicamos todo claro y te damos un presupuesto cerrado antes de tocar un solo tornillo de tu coche.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, un técnico especialista lo revisa a fondo. Escuchamos lo que te preocupa y usamos equipos de diagnosis para identificar el origen del problema con precisión, sin especulaciones."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te preparamos un presupuesto detallado y sin compromiso. Verás el coste de las piezas y la mano de obra por separado. El precio que te damos es el que pagas, sin sorpresas ni extras inesperados."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No hacemos absolutamente nada sin tu confirmación. Te llamamos, te explicamos el diagnóstico y el presupuesto, y solo cuando nos das el visto bueno, nuestros mecánicos se ponen manos a la obra."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con total garantía. Nuestros mecánicos realizan la reparación siguiendo las especificaciones del fabricante para asegurar un trabajo bien hecho y duradero. Te mantenemos informado del proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos la reparación realizada y te entregamos la factura detallada. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El clima de la Costa Daurada y el tráfico diario por la N-340 o el centro de Tarragona provocan averías muy concretas que vemos cada día en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Corrosión por el ambiente salino",
+      "body": "Vivir junto al mar en Tarragona es un lujo, pero el salitre ataca sin piedad los bajos del coche, los discos de freno y el sistema de escape. Si aparcas por la zona del Port o Llevant, esta oxidación se acelera. Realizamos inspecciones preventivas y tratamientos para proteger tu coche y evitar reparaciones costosas en el futuro."
+    },
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico denso en las rotondas de acceso a la ciudad, las cuestas de la Part Alta o los atascos en la T-11 hacia Reus castigan el embrague y los frenos. Si notas que el pedal del embrague va duro o que el coche tarda en frenar, es hora de una revisión. Cambiamos kits de embrague y sistemas de frenado para que conduzcas con seguridad."
+    },
+    {
+      "title": "Fallo del aire acondicionado",
+      "body": "El verano en Tarragona es largo y muy húmedo. El aire acondicionado funciona a pleno rendimiento durante meses, lo que provoca fugas de gas, averías en el compresor o filtros obstruidos. No esperes a que llegue el calor de julio. Hacemos recargas de gas y reparamos el sistema de climatización para que no pases calor."
+    },
+    {
+      "title": "Filtro de partículas (DPF) obstruido",
+      "body": "Muchos diésel en Tarragona hacen trayectos cortos: de Sant Pere i Sant Pau al centro, de La Canonja a Bonavista... Estos recorridos no permiten que el filtro de partículas se regenere correctamente y acaba por obstruirse, provocando pérdida de potencia y averías caras. Realizamos limpiezas y regeneraciones forzadas del DPF."
+    },
+    {
+      "title": "Problemas de suspensión y neumáticos",
+      "body": "Combinar la A-7, en buen estado, con las calles de polígonos como el Francolí o carreteras secundarias con baches, provoca un desgaste irregular en neumáticos y amortiguadores. Un mal estado de la suspensión afecta a la seguridad y al confort. Revisamos y ajustamos la suspensión y te asesoramos sobre los neumáticos más adecuados para tu uso."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Mecánicos que te hablan claro",
+      "body": "Te explicamos las averías en un lenguaje que entiendes. Sin tecnicismos innecesarios. Queremos que sepas exactamente qué le pasa a tu coche y por qué lo reparamos de una determinada manera."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Nuestro presupuesto es cerrado e incluye todo: piezas, mano de obra e IVA. Si durante la reparación surge un imprevisto, paramos y te llamamos. Tú decides."
+    },
+    {
+      "title": "Para todas las marcas y modelos",
+      "body": "Da igual si conduces un Audi, un Dacia, un Ford o un Hyundai. Tenemos la experiencia y el equipo de diagnosis multimarca para cuidar de tu coche, sea cual sea su edad o modelo."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Trabajamos con recambios de calidad y confiamos en nuestro trabajo. Por eso, todas nuestras reparaciones y piezas están garantizadas por escrito, para tu total tranquilidad."
+    },
+    {
+      "title": "Ubicación y servicio pensado para ti",
+      "body": "Sabemos que tu tiempo es importante. Te ofrecemos facilidades como un coche de cortesía (consulta condiciones) para que no te quedes parado mientras reparamos el tuyo."
+    }
+  ],
+  "testimonialsIntro": "No nos creas solo a nosotros. Aquí tienes algunos ejemplos de situaciones reales de conductores de Tarragona que ya confían en nuestro taller.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Eixample Nord",
+      "car": "Volkswagen Golf TDI 2016",
+      "body": "Uso el coche todos los días para ir a trabajar al polígono. Notaba que el coche había perdido fuerza y se encendió una luz en el cuadro. Me dijeron que era el filtro de partículas por los trayectos cortos. Me lo solucionaron rápido, me explicaron cómo evitar que vuelva a pasar y el precio fue el que me dijeron al principio. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat",
+      "neighborhood": "Llevant",
+      "car": "Peugeot 3008 2018",
+      "body": "Tenía que pasar la ITV y no estaba segura de si los frenos estaban bien, por el ruido que hacían a veces. Les pedí una revisión pre-ITV. Me cambiaron las pastillas de freno delanteras y me ajustaron los niveles. Pasé la ITV a la primera y sin nervios. El trato fue muy cercano y me sentí segura dejando el coche en sus manos.",
+      "rating": 5
+    },
+    {
+      "name": "David",
+      "neighborhood": "Torreforta",
+      "car": "Citroën Berlingo 2015",
+      "body": "Soy autónomo y la furgoneta es mi oficina. El embrague empezó a patinar y me urgía repararlo para no perder días de trabajo. Entendieron mi situación, me dieron cita enseguida y cumplieron con el plazo que me dijeron. El presupuesto, claro desde el inicio. Un servicio eficiente que me salvó la semana.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "La Móra-Tamarit",
+      "car": "Renault Clio 2019",
+      "body": "El aire acondicionado dejó de enfriar justo cuando empezó el calor fuerte. En otros sitios me daban cita para dentro de dos semanas. Aquí me hicieron un hueco para revisarlo. Era una pequeña fuga. Lo repararon y recargaron el gas en el mismo día. El precio me pareció correcto. El coche ahora enfría perfectamente.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Tarragona, desde los barrios de Ponent como Bonavista, Campclar y Torreforta, hasta la zona de Llevant, incluyendo Cala Romana, La Móra y Tamarit. Por supuesto, cubrimos todo el centro de la ciudad, la Part Alta, el Eixample y el Serrallo. Nuestra ubicación nos permite ser el taller de confianza también para conductores de municipios cercanos como Reus, Salou, Cambrils, La Canonja, Constantí o Altafulla. Si te mueves habitualmente por las vías principales como la A-7, la N-340 o la autovía T-11, nuestro taller es un punto de referencia accesible para el mantenimiento y reparación de tu vehículo.",
+  "zoneNeighborhoods": [
+    "Tarragona Centre",
+    "Eixample",
+    "Part Alta",
+    "Serrallo",
+    "Llevant (Cala Romana, La Móra)",
+    "Ponent (Torreforta, Bonavista, Campclar)",
+    "Sant Pere i Sant Pau",
+    "Reus",
+    "Salou",
+    "La Canonja"
+  ],
+  "zoneAccessRoutes": [
+    "A-7 (Autovía del Mediterrani)",
+    "N-340",
+    "T-11 (Autovía Tarragona-Reus)",
+    "AP-7 (Autopista del Mediterrani)",
+    "N-240 (Carretera de Lleida)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Es normal que mis frenos se oxiden tan rápido viviendo en Tarragona?",
+      "a": "Sí, es bastante común. La brisa marina carga el aire de salitre, que es muy corrosivo, especialmente para las partes metálicas expuestas como los discos de freno. Si el coche duerme en la calle, sobre todo en zonas como el Serrallo o la costa de Llevant, el efecto es mayor. Una revisión anual nos permite limpiarlos y verificar su estado para garantizar tu seguridad."
+    },
+    {
+      "q": "Tengo un diésel y solo lo uso por la ciudad, ¿debería preocuparme por el filtro de partículas?",
+      "a": "Sí, es una de las averías más frecuentes que vemos. Los trayectos cortos por Tarragona, con paradas constantes, no permiten que el motor alcance la temperatura necesaria para que el filtro se limpie solo (regeneración). Esto provoca que se sature. Te recomendamos que, una vez a la semana, salgas a la autovía (A-7 o T-11) y conduzcas unos 15-20 minutos a un régimen más alto para ayudar a limpiarlo."
+    },
+    {
+      "q": "El aire acondicionado de mi coche no enfría como antes, ¿es una reparación cara?",
+      "a": "No tiene por qué. Muchas veces es simplemente una falta de gas por pequeñas fugas que se producen con el tiempo. Una recarga es una operación rápida y económica. Si la avería está en el compresor u otra pieza, el coste es mayor, pero siempre te daremos un presupuesto cerrado antes de hacer nada para que tú decidas."
+    },
+    {
+      "q": "¿Qué revisión me recomendáis antes de un viaje largo desde Tarragona por la AP-7?",
+      "a": "Para un viaje largo por autopista, lo fundamental es revisar la presión y el estado de los neumáticos, ya que son tu único punto de contacto con el asfalto. También comprobaremos todos los niveles de líquidos (aceite, refrigerante, líquido de frenos) y el estado de las luces. Una revisión rápida te dará la tranquilidad de que tu coche está preparado para los kilómetros que le esperan."
+    },
+    {
+      "q": "¿Tengo que ir a la estación de Reus o a la de Tarragona para pasar la ITV?",
+      "a": "Puedes ir a la que prefieras, la inspección es la misma. Ambas estaciones, tanto la de Reus como las del polígono de Tarragona, son válidas. Lo importante es que el coche esté en buen estado. Si quieres ir sobre seguro, tráelo para una revisión pre-ITV y nos encargamos de revisar los puntos clave para que la pases a la primera, sea donde sea."
+    },
+    {
+      "q": "Voy a menudo por la N-340, que tiene mucho tráfico de camiones. ¿Necesito algún mantenimiento especial?",
+      "a": "Conducir habitualmente por la N-340 implica frenadas más frecuentes y un mayor desgaste general por el tráfico pesado. Recomendamos revisar los frenos y los amortiguadores con más frecuencia. Además, los impactos de pequeñas piedras proyectadas por los camiones son comunes, así que es bueno vigilar el estado del parabrisas por si aparece alguna pequeña grieta que se pueda reparar a tiempo."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Tarragona",
+  "closingCta": "Pide tu cita sin compromiso por teléfono o WhatsApp. Te daremos un presupuesto claro y honesto para que vuelvas a conducir con total tranquilidad por Tarragona y alrededores.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Tarragona",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@tallerbarcelona.com",
+    "addressStreet": ""
+  }
+}

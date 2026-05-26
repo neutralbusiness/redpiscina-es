@@ -1,0 +1,186 @@
+{
+  "slug": "viladecans",
+  "name": "Viladecans",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 66168,
+  "lat": 41.31405,
+  "lng": 2.01427,
+  "metaTitle": "Taller mecánico en Viladecans — Multimarca y honesto",
+  "metaDescription": "Especialistas en el coche de uso ocasional en Viladecans. Presupuesto cerrado para revisiones, averías y pre-ITV. Pide tu cita y evita sorpresas.",
+  "heroSubtitle": "Ese coche parado toda la semana en Viladecans es una bomba de relojería. Evita que te falle cuando más lo necesitas el sábado por la mañana.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conocemos bien esa sensación. Llegas al viernes, tienes el plan perfecto para el fin de semana: una escapada a las calas del Garraf o una comida en el interior del Penedès. Bajas al garaje, o a la calle donde tienes aparcado el coche en Torrent Ballester, con la ilusión en el cuerpo y giras la llave. Y nada. Silencio. Ese segundo coche de la familia, el que se pasa días enteros quieto, es el que más sufre las particularidades de Viladecans. No es solo el poco uso, es la humedad constante que sube del Delta del Llobregat. Ese ambiente, cargado de un salitre que no se ve pero que está, se come poco a poco los bornes de la batería, oxida los discos de freno y deteriora las conexiones eléctricas. No hace falta vivir en primera línea de la playa de la Murtra para que tu coche sufra los efectos de la maresía; el aire de toda la comarca está impregnado de ella.\n\nEse coche, a menudo un diésel o gasolina con unos cuantos años, no está diseñado para arrancar una vez a la semana. Su motor no llega a la temperatura óptima en trayectos cortos, como ir a hacer la compra al centro comercial Vilamarina, y eso genera carbonilla y desgastes prematuros. El motor de arranque, la batería, el alternador... todo el sistema eléctrico sufre picos de estrés cada vez que intentas ponerlo en marcha después de cinco días parado. Luego, cuando por fin arranca, le exiges que te saque de Viladecans por la C-32 como si lo condujeras a diario. Es en esos momentos, en el carril de aceleración o en la primera cuesta, cuando una correa reseca por la inactividad o un manguito debilitado deciden decir basta. Sabemos que no es un coche de batalla diario, sino tu vehículo de ocio, y precisamente por eso su mantenimiento tiene que ser diferente, más preventivo y enfocado en los puntos débiles que genera su uso esporádico.\n\nEl tráfico local es otro factor clave que ignoramos. Piensa en el día a día de ese coche cuando sí lo mueves. Seguramente es para sortear el tráfico denso de la C-245 en hora punta o para lidiar con la rotonda gigante que da acceso a la autopista y al outlet. Cada pisotón al embrague en ese atasco, cada frenazo brusco porque alguien se ha cruzado, es un micro-desgaste que se acumula. Un embrague que no se usa a diario pierde progresividad, los frenos se cristalizan si no alcanzan su temperatura de trabajo y el sistema de refrigeración se pone a prueba en cada semáforo de la Avinguda del Segle XXI en un día de julio. Para un coche que circula a diario, esto es parte de su rutina. Para el tuyo, son picos de esfuerzo para los que no está preparado después de una semana de reposo absoluto. Es un ciclo de inactividad y estrés que acorta la vida de componentes vitales.\n\nLuego llega el cambio de estación, el verdadero examen para el coche de fin de semana. Durante los meses de otoño e invierno, con la humedad calando en el garaje comunitario de la zona de Albarrosa, los componentes eléctricos y metálicos están en un estado de sufrimiento latente. Y de repente, llega el verano. Le pides que aguante un viaje largo por la AP-7 con el aire acondicionado a tope, cargado hasta los topes y con el sol castigando el asfalto. Ese salto térmico y de exigencia es brutal. Las correas, que han estado encogidas por el frío, se estiran al máximo. El aceite, que ha perdido propiedades por estar decantado, tiene que lubricar un motor al rojo vivo. Por eso una revisión antes del verano no es un capricho, es una necesidad, sobre todo para un coche que no ha rodado lo suficiente para \"avisar\" de los pequeños fallos que se avecinan.\n\nEntender este patrón es nuestra especialidad. No vemos un coche, vemos su contexto en Viladecans. Sabemos lo que significa estar parado cinco días y luego tener que enfrentarse al caos de la salida del fin de semana. Por eso, cuando nos traes tu coche, no nos limitamos a cambiar el aceite. Comprobamos el estado de carga de la batería, la tensión de las correas, buscamos fugas minúsculas en el circuito de refrigeración y prestamos especial atención al tacto del embrague y la eficacia de los frenos. Nuestro objetivo no es solo que pases la ITV de Sant Boi, sino que ese coche, tu pasaporte a la libertad del fin de semana, sea tan fiable como el que usas para ir a trabajar cada día. Porque la tranquilidad de saber que va a arrancar a la primera no tiene precio.",
+  "servicesIntro": "Desde la revisión anual hasta esa avería compleja que te preocupa, estos son los servicios que tu coche necesita para seguir rodando por Viladecans y más allá.",
+  "processIntro": "Trabajamos con total transparencia para que sepas qué le pasa a tu coche, cuánto cuesta y decidas siempre tú. Así de simple.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que te preocupa y conectamos nuestros equipos de diagnosis para encontrar el origen real del problema. No dejamos nada al azar y verificamos cada componente implicado antes de hacer cualquier valoración."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye mano de obra y piezas, sin letra pequeña. Lo que lees es lo que pagas. Si surge un imprevisto, paramos y volvemos a hablar contigo."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "El coche es tuyo y la decisión también. No pedimos ni una sola pieza ni aflojamos un tornillo sin tener tu confirmación explícita por escrito o por teléfono. Tú tienes el control en todo momento."
+    },
+    {
+      "title": "Reparación",
+      "body": "Usamos recambios de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado del proceso para que sepas cuándo podrás volver a contar con tu coche."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te explicamos la reparación realizada al recoger el coche y te lo entregamos limpio. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el trabajo."
+    }
+  ],
+  "commonIssuesIntro": "Estos son los problemas que más vemos en los coches de Viladecans, directamente relacionados con nuestro clima húmedo, el tipo de tráfico y el uso esporádico que muchos les dais.",
+  "commonIssues": [
+    {
+      "title": "Batería que falla sin avisar",
+      "body": "Es el clásico problema del coche de fin de semana. La humedad del Delta del Llobregat y los largos periodos de inactividad son el cóctel perfecto para que la batería se descargue o se sulfate. Revisamos el sistema de carga (alternador) y el estado de la batería para evitar que te deje tirado el día de la excursión."
+    },
+    {
+      "title": "Frenos agarrotados o ruidosos",
+      "body": "El 'salitre' en el aire provoca una capa de óxido superficial en los discos si el coche está parado. Al volver a usarlo, los frenos pueden chirriar o incluso quedarse ligeramente 'pegados'. Una limpieza y revisión a tiempo evita un desgaste irregular y reparaciones más costosas."
+    },
+    {
+      "title": "Embrague gastado por el tráfico urbano",
+      "body": "El para-arranca constante para ir a Vilamarina o cruzar la C-245 hacia Gavà castiga enormemente el embrague. Si notas que patina, tiembla al salir o el pedal está duro, es síntoma de desgaste. Un diagnóstico precoz puede evitar que te quedes tirado en el peor momento."
+    },
+    {
+      "title": "Fallos en el aire acondicionado",
+      "body": "El sistema de A/C necesita usarse regularmente para que el gas y el aceite del compresor circulen. Tras meses parado en invierno, es común que al llegar el calor no enfríe. Una recarga y una revisión de fugas antes del verano es la mejor prevención en el clima de Viladecans."
+    },
+    {
+      "title": "Neumáticos deformados o cristalizados",
+      "body": "Un coche aparcado semanas en la misma posición, especialmente al sol en zonas como Can Sellarès, puede sufrir la deformación de los neumáticos ('flat spotting'). Además, el sol y el tiempo los resecan y agrietan, comprometiendo tu seguridad al coger la C-32 a 120 km/h."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos tu coche",
+      "body": "Sabemos que un coche que duerme en Viladecans no sufre lo mismo que uno de interior. Nuestro diagnóstico tiene en cuenta el factor local: la humedad, el tráfico y el tipo de uso que le das."
+    },
+    {
+      "title": "Presupuestos que se cumplen",
+      "body": "El precio que te damos es el que pagas. Si durante la reparación encontramos algo más, paramos, te llamamos, te lo explicamos y tú decides. Sin sorpresas en la factura final."
+    },
+    {
+      "title": "Comunicación clara y directa",
+      "body": "Te hablamos en un lenguaje que entiendes. Te explicamos qué le pasa a tu coche y por qué hay que repararlo, sin tecnicismos innecesarios. La confianza empieza por la comunicación."
+    },
+    {
+      "title": "Obsesión por la prevención",
+      "body": "No solo arreglamos lo que está roto, buscamos lo que podría romperse. Preferimos avisarte de una correa que parece gastada a que te deje tirado volviendo de Sitges un domingo por la tarde."
+    },
+    {
+      "title": "Garantía en todo lo que hacemos",
+      "body": "Todas nuestras reparaciones y piezas tienen garantía. Si algo no queda bien, respon-demos. Tu tranquilidad es la nuestra, y queremos ser tu taller de confianza en Viladecans a largo plazo."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que hemos resuelto, contadas por conductores de Viladecans como tú.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Albarrosa",
+      "car": "Ford C-Max 2015",
+      "body": "Teníamos el coche, que es el que usamos para salir los fines de semana con los niños, parado casi un mes. Justo antes de irnos de vacaciones, lo traje para una revisión. Me detectaron una pequeña fuga en el radiador que nos habría dejado tirados en la AP-7 seguro. Me salvaron las vacaciones, literalmente. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Centre",
+      "car": "Seat Ibiza 2012",
+      "body": "El embrague de mi Ibiza empezó a hacer cosas raras, sobre todo en los atascos para salir de Viladecans por la tarde. En otros sitios me daban largas. Aquí lo diagnosticaron al momento y me dieron un presupuesto cerrado. Me explicaron qué pasaba y por qué. Ahora el coche va como la seda. Muy recomendable.",
+      "rating": 5
+    },
+    {
+      "name": "Marc",
+      "neighborhood": "Vilamarina",
+      "car": "Audi A4 TDI 2014",
+      "body": "Soy muy maniático con el coche. Lo traje para la revisión y les comenté que notaba un ruido en los frenos después de estar parado por la lluvia. No solo lo solucionaron, sino que me explicaron por qué pasa aquí por la humedad del Delta. Se nota que conocen la zona y los coches. Trato muy cercano y honesto.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Can Sellarès",
+      "car": "Renault Clio 2016",
+      "body": "Es nuestro segundo coche y casi no lo movemos. La batería nos había dejado tirados dos veces. Lo llevamos y comprobaron todo el sistema de carga. Resultó que el alternador no iba fino. Nos dieron un precio razonable y lo cambiaron. Desde entonces, arranca a la primera siempre. Un problema menos.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda Viladecans. No importa si vives en el centro histórico, en el Eixample, en la zona residencial de Albarrosa o en barrios más nuevos como Can Sellarès o Vilamarina. Entendemos los problemas de aparcamiento y de uso de cada zona.\n\nNuestra ubicación tiene un acceso muy cómodo desde las principales vías que conectan la ciudad. Si vienes de municipios cercanos como Gavà o Sant Boi de Llobregat, puedes llegar fácilmente por la C-245. Para quienes se mueven por la comarca, estamos a un paso de las salidas de la C-32 (la autopista Pau Casals) y de la autovía C-31. También damos cobertura a conductores de Sant Climent de Llobregat que bajan a Viladecans para sus recados y necesitan un taller de confianza.",
+  "zoneNeighborhoods": [
+    "Centre",
+    "Eixample",
+    "Albarrosa",
+    "Can Sellarès",
+    "Torrent Ballester",
+    "Vilamarina",
+    "La Roureda",
+    "Gavà",
+    "Sant Boi de Llobregat",
+    "Sant Climent de Llobregat"
+  ],
+  "zoneAccessRoutes": [
+    "C-32 (Autopista Pau Casals)",
+    "C-31 (Autovia de Castelldefels)",
+    "C-245",
+    "BV-2002"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Realmente afecta tanto la humedad de Viladecans al coche si no vivo al lado de la playa?",
+      "a": "Sí, y mucho. Aunque no lo percibas, el aire en todo el Delta del Llobregat tiene un alto grado de salinidad y humedad. Esto acelera la oxidación de partes metálicas como los discos de freno, los bajos del coche y los terminales de la batería. No es un óxido agresivo e inmediato, pero con el tiempo, en un coche que se usa poco, provoca averías y desgastes prematuros. Una revisión anual debería incluir la protección de estos componentes."
+    },
+    {
+      "q": "Mi coche (segundo vehículo) pasa la ITV pero noto que no va fino, ¿es normal?",
+      "a": "Es muy común. La ITV mide unos parámetros de seguridad y emisiones mínimos, pero no evalúa el confort o el desgaste de piezas como el embrague, los amortiguadores o los soportes del motor. Un coche que se usa poco puede tener estos componentes 'viciados' o agarrotados y pasar la inspección. Por eso una diagnosis profesional es clave para detectar problemas que la ITV no ve."
+    },
+    {
+      "q": "Voy a hacer un viaje largo por la AP-7. ¿Qué debería revisar en mi coche si casi no lo uso?",
+      "a": "Para un coche de uso esporádico en Viladecans, antes de un viaje largo es crucial revisar: 1) Neumáticos: presión y posibles grietas o deformaciones por estar parado. 2) Niveles de todos los líquidos, sobre todo refrigerante y aceite. 3) Estado de las correas, que se resecan con la inactividad. 4) Sistema de aire acondicionado. Forzarlo de golpe en un viaje largo puede romper el compresor si no se ha usado en meses."
+    },
+    {
+      "q": "¿Por qué mi embrague tiembla a veces en los atascos de la C-245?",
+      "a": "Ese temblor, sobre todo al salir en primera en una caravana, suele ser un síntoma de 'cristalización' del disco de embrague o de desgaste del volante motor. El calor extremo generado en el para-arranca repetitivo en vías como la C-245 o las rondas de Barcelona puede dañar la superficie del disco, haciendo que pierda adherencia. Conviene revisarlo antes de que el problema vaya a más y te deje tirado."
+    },
+    {
+      "q": "¿Hay algún truco para mantener la batería si uso poco el coche en Viladecans?",
+      "a": "Lo ideal es arrancarlo una vez a la semana y circular al menos 20-30 minutos, si es posible por vías rápidas como la C-31 o C-32 para que el alternador trabaje bien. Si no puedes, un mantenedor de batería es una inversión pequeña y muy eficaz. Evita los arranques cortos de 2 minutos en el garaje, ya que consumen más energía de la que el alternador puede reponer en ese tiempo."
+    },
+    {
+      "q": "¿Vale la pena poner neumáticos de 'todo tiempo' para el clima del Baix Llobregat?",
+      "a": "Para el clima de Viladecans, con inviernos suaves y húmedos y veranos muy calurosos, un buen neumático de verano de marca reconocida suele ser suficiente y más eficiente. Los neumáticos 'todo tiempo' son una buena opción si subes a menudo a la montaña en invierno o te mueves por zonas con heladas, pero para el uso local y las escapadas habituales por la costa, no son estrictamente necesarios y pueden ser más ruidosos y consumir más."
+    },
+    {
+      "q": "Aparco en la calle en el Barri Antic y tengo el coche lleno de pequeños golpes y arañazos. ¿Podéis arreglarlo?",
+      "a": "Sí, por supuesto. Colaboramos con especialistas en chapa y pintura de total confianza. Podemos gestionar la reparación de esos pequeños desperfectos de aparcamiento, tan comunes en las calles estrechas del centro de Viladecans, para que el coche luzca como nuevo. Podemos incluir esta gestión dentro de una revisión general para que aproveches la visita al taller."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Viladecans",
+  "closingCta": "Evita averías inesperadas en tu coche de fin de semana. Contacta con nosotros por teléfono, WhatsApp o email para pedir un presupuesto cerrado o reservar tu cita en Viladecans. Estaremos encantados de ayudarte."
+}

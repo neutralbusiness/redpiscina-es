@@ -1,0 +1,182 @@
+{
+  "slug": "leon",
+  "name": "León",
+  "province": "León",
+  "ccaa": "Castilla y León",
+  "population": 124772,
+  "lat": 42.60003,
+  "lng": -5.57032,
+  "metaTitle": "Taller mecánico en León — Multimarca y de confianza",
+  "metaDescription": "Tu coche necesita un taller en León que entienda el clima de aquí. Revisiones, averías y neumáticos con presupuesto cerrado. Pide tu cita sin compromiso.",
+  "heroSubtitle": "¿Cansado de talleres que no entienden por qué tu diésel sufre en invierno o cómo afecta el sal de la carretera a tu coche en León?",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por León y su provincia tiene sus particularidades. No es solo moverse del punto A al B. Es arrancar el coche una mañana de enero en La Palomera con cinco grados bajo cero, cruzar la ciudad en el tráfico denso de la LE-20 para ir a trabajar, o coger la A-66 un fin de semana de agosto con el sol apretando. El coche que llevas, probablemente un SEAT León, un Renault Mégane o un Peugeot 308 diésel con unos cuantos años, sufre estas condiciones extremas. En nuestro taller, no solo vemos tu coche; vemos tu coche en León, y eso lo cambia todo.\n\nEl invierno leonés es el verdadero examen para cualquier vehículo. Las heladas constantes no solo ponen a prueba la batería cada mañana, sino que castigan los calentadores de los motores diésel, que son mayoría en nuestro parque móvil. La sal que se esparce sin descanso en la LE-30 o en la N-630 para evitar el hielo es el enemigo silencioso de los bajos de tu coche, corroyendo latiguillos de freno, el sistema de escape y el chasis. Son problemas que un mecánico que no conoce el clima de la meseta podría pasar por alto, pero que aquí vemos a diario.\n\nLuego llega el verano, y el reto es otro. El calor seco de julio hace que el sistema de aire acondicionado trabaje a pleno rendimiento, y cualquier pequeña fuga o un compresor débil se revela en el peor momento. El sistema de refrigeración del motor también se pone al límite, especialmente en viajes largos por la A-60 hacia Valladolid o subiendo a la montaña leonesa. A esto se suma el desgaste típico del uso diario: el embrague y los frenos que sufren en los atascos para entrar desde San Andrés del Rabanedo o al callejear por el centro.\n\nPor eso, nuestro enfoque es local. Entendemos que el mantenimiento de un coche que duerme en la calle en El Ejido no es el mismo que el de uno que se guarda en garaje en Eras de Renueva. Sabemos qué piezas tienden a fallar por el frío y cuáles por el calor. Al ser un taller multimarca, tenemos la experiencia y el equipo de diagnosis para trabajar con la enorme variedad de coches que circulan por León, desde un Dacia que sube a los pueblos de la provincia hasta un Volkswagen que hace la ruta a Madrid cada semana. Te ofrecemos un servicio honesto, con un presupuesto cerrado y la tranquilidad de saber que tu coche está en manos de gente que entiende de verdad cómo es conducir aquí.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV sin sustos hasta cambiar un embrague gastado de tanto callejear por el centro de León, lo cubrimos todo.",
+  "processIntro": "Sabemos que la confianza es clave. Por eso, en nuestro taller de León, el proceso es transparente: presupuesto cerrado y ni un tornillo se toca sin tu OK.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Tu coche entra en nuestro taller en León y lo primero es escuchar qué le pasa. Conectamos nuestros equipos de diagnosis multimarca para identificar la avería con precisión, ya sea un fallo de motor, un ruido en la suspensión o un problema eléctrico. No dejamos nada al azar."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin sorpresas. Verás el coste de las piezas y la mano de obra por separado. Te lo enviamos por WhatsApp o email para que lo revises con calma, sin ninguna presión por tu parte."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "El presupuesto está en tus manos y el coche no se toca hasta que nos des luz verde. Si tienes dudas, te explicamos cada punto. Solo cuando nos das tu 'vale, adelante', nuestros mecánicos se ponen manos a la obra con la reparación."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas, equivalentes a los originales, para garantizar la fiabilidad. Todas nuestras reparaciones tienen garantía. Te mantenemos informado sobre el progreso y cumplimos los plazos acordados para que recuperes tu coche cuanto antes."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche esté listo. Al recogerlo, te explicamos la reparación realizada y te entregamos la factura. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio recibido en León."
+    }
+  ],
+  "commonIssuesIntro": "El clima continental de León, con sus heladas severas y el calor seco del verano, junto al uso diario por la ciudad y las autovías como la A-66, genera averías muy concretas.",
+  "commonIssues": [
+    {
+      "title": "Problemas de arranque en frío y baterías",
+      "body": "Las mañanas de enero en León, con temperaturas bajo cero, son la prueba de fuego para cualquier batería. Un coche que duerme en la calle en barrios como El Ejido o La Palomera sufre mucho. Diagnosticamos el sistema de carga y la batería. Si es necesario, la sustituimos por una de calidad, asegurando que tu coche arranque a la primera, incluso en los días más fríos de Castilla y León."
+    },
+    {
+      "title": "Desgaste prematuro de frenos y embrague",
+      "body": "El tráfico para entrar a León por la mañana desde San Andrés del Rabanedo o para cruzar la ciudad por la Avenida de los Reyes Leoneses es un castigo para el embrague y los frenos. El constante 'para y arranca' acelera su desgaste. Revisamos el estado de discos, pastillas y el recorrido del embrague para que conduzcas con total seguridad por la ciudad y sus alrededores."
+    },
+    {
+      "title": "Corrosión por la sal en invierno",
+      "body": "En invierno, las carreteras de la provincia, incluyendo la LE-30 y la A-60, se cubren de sal para evitar el hielo. Esta sal es muy corrosiva para los bajos del coche, los latiguillos de freno y el sistema de escape. Realizamos inspecciones del chasis y aplicamos tratamientos preventivos si es necesario para proteger tu vehículo de la oxidación acelerada típica de nuestra zona."
+    },
+    {
+      "title": "Fallos en el sistema de climatización",
+      "body": "El climatizador en León trabaja a destajo todo el año: a tope de calor en febrero y a tope de frío en agosto. Este uso intensivo puede provocar fugas de gas, fallos en el compresor o filtros obstruidos. Hacemos la carga de gas, reparamos fugas y limpiamos el circuito para que la temperatura dentro de tu coche sea siempre la correcta, sin importar el tiempo que haga fuera."
+    },
+    {
+      "title": "Obstrucción del filtro de partículas (FAP)",
+      "body": "Muchos coches en León son diésel y hacen trayectos cortos por la ciudad, como ir de Eras de Renueva al centro, lo que impide que el filtro de partículas se regenere correctamente y acaba por obstruirse. Esto provoca pérdida de potencia y averías caras. Realizamos diagnosis y limpiezas forzadas del filtro para evitar su sustitución y mantener las emisiones a raya para la ITV."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de León",
+      "body": "No es lo mismo un coche que circula por la costa que uno que aguanta las heladas de la meseta. Entendemos los problemas específicos que el clima y las carreteras de León provocan en tu vehículo, sea un diésel para viajar o un gasolina para la ciudad."
+    },
+    {
+      "title": "Presupuesto claro, sin sustos",
+      "body": "Antes de hacer nada, te damos un presupuesto cerrado. Sabrás lo que va a costar la reparación de antemano. Si durante el proceso surge algo imprevisto, te llamamos, te lo explicamos y tú decides. Transparencia total."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "El parque móvil de León es muy variado, desde un Dacia Sandero hasta un Audi A4. Estamos equipados con diagnosis y herramienta para trabajar con la mayoría de marcas y modelos del mercado, sin que tengas que ir al servicio oficial."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Trabajamos con recambios de calidad y confiamos en el trabajo de nuestros mecánicos. Por eso, todas nuestras intervenciones están garantizadas por escrito, para que conduzcas con total tranquilidad por la provincia de León y más allá."
+    },
+    {
+      "title": "Pasar la ITV ya no es un problema",
+      "body": "La ITV de León es exigente. Ofrecemos una revisión Pre-ITV exhaustiva donde miramos los mismos puntos que en la inspección oficial. Detectamos y reparamos posibles fallos para que la pases a la primera y te ahorres tiempo y dinero."
+    }
+  ],
+  "testimonialsIntro": "Estas son algunas situaciones típicas que nos encontramos en nuestro taller de León, para que te hagas una idea de cómo trabajamos y qué opinan nuestros clientes.",
+  "testimonials": [
+    {
+      "name": "Javier",
+      "neighborhood": "Eras de Renueva",
+      "car": "SEAT León 1.9 TDI 2008",
+      "body": "El coche no arrancaba bien por las mañanas, y con las heladas de aquí no me la podía jugar. Lo llevé y vieron que la batería estaba en las últimas y un par de calentadores fallaban. Me dieron presupuesto al momento, lo acepté y por la tarde ya lo tenía. Ahora arranca perfecto, incluso con el frío que hace en León.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "San Andrés del Rabanedo",
+      "car": "Renault Clio 1.2 2015",
+      "body": "Uso el coche todos los días para ir a trabajar al centro de León y el embrague iba durísimo. Pensé que sería una pasta. Me lo revisaron, me explicaron que era solo el cable y no el kit completo. Un alivio. Me gustó mucho la honestidad, en otro sitio seguro que me habrían cambiado todo. Muy recomendables.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "La Palomera",
+      "car": "Peugeot 3008 HDI 2017",
+      "body": "Me salió el aviso de 'riesgo de obstrucción del FAP'. Hago muchos trayectos cortos por la ciudad y me temía lo peor. Me hicieron una regeneración forzada y me explicaron cómo conducir para evitar que vuelva a pasar. Un servicio muy profesional y didáctico. Se nota que saben lo que hacen y entienden los problemas de los diésel modernos.",
+      "rating": 5
+    },
+    {
+      "name": "Isabel",
+      "neighborhood": "Villaquilambre",
+      "car": "Ford Focus 1.6 2012",
+      "body": "Tenía que pasar la ITV y el coche hacía un ruido raro en los baches. Lo llevé para la revisión pre-ITV y vieron que tenía una rótula de suspensión con holgura. Me lo cambiaron en el día y pasó la ITV sin problemas. El precio fue razonable y me ahorré el viaje de volver a la inspección. Buen servicio.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en León da servicio a toda la ciudad y su alfoz. Si vives en barrios como Eras de Renueva, La Chantría, El Ejido, Pinilla o La Palomera, estamos a tu alcance. También somos el taller de confianza para muchos conductores de municipios cercanos como San Andrés del Rabanedo (incluyendo Trobajo del Camino), Villaquilambre, Sariegos o Valverde de la Virgen, que vienen a León a diario para trabajar o hacer gestiones. Nuestros accesos son cómodos desde las principales vías que rodean la ciudad, como la ronda LE-30, la LE-20 o la N-630, lo que facilita que nos dejes el coche sin tener que callejear en exceso.",
+  "zoneNeighborhoods": [
+    "Eras de Renueva",
+    "La Palomera",
+    "El Ejido",
+    "San Mamés",
+    "Pinilla",
+    "San Andrés del Rabanedo",
+    "Villaquilambre",
+    "Trobajo del Camino",
+    "La Chantría"
+  ],
+  "zoneAccessRoutes": [
+    "LE-30 (Ronda Sur)",
+    "LE-20 (Ronda Este)",
+    "A-66",
+    "N-630",
+    "A-60"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis revisiones para coches que aún están en garantía oficial?",
+      "a": "Sí. Realizamos la revisión oficial siguiendo exactamente el plan de mantenimiento de tu fabricante. Utilizamos recambios de calidad original o equivalente y sellamos el libro de mantenimiento. La ley te ampara: no pierdes la garantía oficial por pasar la revisión fuera del concesionario. Es una opción más económica y con la misma validez."
+    },
+    {
+      "q": "Tengo un diésel y hago mucha ciudad en León, ¿qué mantenimiento especial necesita?",
+      "a": "Es una situación muy común aquí. Te recomendamos prestar especial atención al filtro de partículas (FAP), que puede obstruirse con trayectos cortos. También es vital usar un aceite de calidad que proteja el motor en arranques en frío. En cada revisión, comprobamos estos puntos críticos para evitar averías costosas y asegurar que pases la prueba de humos de la ITV."
+    },
+    {
+      "q": "¿Recomendáis poner neumáticos de invierno en León?",
+      "a": "Depende de tu uso. Si vives en León capital y no sueles salir cuando nieva, unos buenos neumáticos 'all-season' pueden ser suficientes. Pero si viajas con frecuencia por la provincia, hacia la montaña o por carreteras secundarias, los neumáticos de invierno son una inversión en seguridad muy recomendable. Te dan un agarre muy superior con hielo, nieve o simplemente con el asfalto muy frío."
+    },
+    {
+      "q": "Mi coche ha sufrido por la sal de las carreteras, ¿qué podéis hacer?",
+      "a": "La sal es muy corrosiva. Lo primero es una inspección a fondo de los bajos, sistema de frenos y escape. Si detectamos corrosión superficial, podemos tratarla. Lo más importante es la prevención: una limpieza de bajos después de los temporales de invierno ayuda mucho a proteger tu coche de los efectos de la sal que se usa tanto en las carreteras de Castilla y León."
+    },
+    {
+      "q": "El aire acondicionado de mi coche no enfría en verano, ¿es cara la reparación?",
+      "a": "El calor de julio y agosto en León pone a prueba el A/C. La causa más común es una simple falta de gas, que es una recarga económica. Si hay una fuga, primero debemos localizarla. Te daremos un presupuesto para la reparación de la fuga antes de hacer nada. La mayoría de las veces, tiene una solución más sencilla de lo que parece."
+    },
+    {
+      "q": "Estoy en un pueblo cerca de León, ¿tenéis coche de cortesía?",
+      "a": "Sí, disponemos de coche de cortesía (sujeto a disponibilidad, consúltanos al pedir cita). Entendemos que si vienes de sitios como Sariegos o Valverde de la Virgen, no puedes quedarte sin vehículo. Es la solución perfecta para que puedas seguir con tu día a día mientras nosotros nos encargamos de tu coche en nuestro taller de León."
+    }
+  ],
+  "closingHeadline": "Tu taller de confianza en León",
+  "closingCta": "No dejes que una pequeña avería se convierta en un gran problema. Pide tu presupuesto cerrado para tu coche en León. Llámanos o escríbenos por WhatsApp para pedir tu cita."
+}

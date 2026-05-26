@@ -1,0 +1,190 @@
+{
+  "slug": "castellbisbal",
+  "name": "Castellbisbal",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 11977,
+  "lat": 41.47534,
+  "lng": 1.98174,
+  "metaTitle": "Taller mecánico en Castellbisbal | Híbridos y Eléctricos",
+  "metaDescription": "Servicio de mecánica y diagnóstico en Castellbisbal para coches modernos, híbridos y eléctricos. Presupuesto cerrado y transparente. Pide tu cita.",
+  "heroSubtitle": "Tu híbrido o eléctrico merece un taller que entienda las cuestas de Can Santeugini y el tráfico de la A-2. Diagnóstico preciso en Castellbisbal.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Castellbisbal no es lo mismo que hacerlo por el llano de una gran ciudad. Es una realidad que define el desgaste y las necesidades de tu coche, especialmente si es un modelo híbrido o eléctrico. La orografía del municipio, marcada por la ribera del Llobregat y las urbanizaciones que trepan por las colinas como Can Santeugini o Costablanca, impone un régimen de conducción exigente. Cada día, tu vehículo afronta subidas y bajadas pronunciadas, un ciclo constante que pone a prueba no solo los frenos convencionales, sino también la eficiencia del sistema de frenada regenerativa, la gestión de la batería en picos de demanda y la robustez de la suspensión. No es un uso estándar; es un uso intensivo donde el motor eléctrico y el de combustión, en el caso de los híbridos, trabajan en un perpetuo intercambio de roles para optimizar el rendimiento en un terreno que no da tregua.\n\nEl perfil del conductor en Castellbisbal es, en gran medida, el de un profesional o una familia que depende del coche para el trayecto diario. Muchos se desplazan a los polígonos industriales de la propia localidad, como el de Sant Vicenç o Can Cases, mientras que otros toman cada mañana la A-2 o la AP-7 para llegar a Martorell, a Barcelona o a otras ciudades del Vallès. Este patrón de commuting implica un alto kilometraje anual, a menudo en condiciones de tráfico denso en las horas punta. Para un coche híbrido, esto se traduce en miles de ciclos de arranque y parada del motor de combustión y un uso constante del modo eléctrico. Para un eléctrico puro, la autonomía se ve directamente afectada por el tráfico y la necesidad de usar la climatización. Este uso no solo acelera el desgaste de componentes clave como los neumáticos o los amortiguadores, sino que también exige una vigilancia exhaustiva de la salud de la batería y de todo el sistema de gestión electrónica que gobierna el vehículo.\n\nAdemás, el microclima del valle del Llobregat añade otra capa de complejidad. Las nieblas matutinas son frecuentes en otoño e invierno, afectando a la visibilidad y, en los coches modernos, al correcto funcionamiento de los sensores y cámaras de los sistemas de asistencia a la conducción (ADAS). Un sensor de radar o una cámara frontal sucios o descalibrados por la humedad constante pueden generar fallos o alertas erróneas. La electrónica de un vehículo actual es tan crucial como su mecánica. Por eso, un taller en Castellbisbal debe entender que un problema de 'sensores de aparcamiento que pitan sin motivo' puede estar directamente relacionado con la condensación generada por la proximidad del río. Es un conocimiento local que marca la diferencia entre un diagnóstico rápido y preciso y semanas de visitas infructuosas al taller.\n\nNuestro enfoque se basa precisamente en este entendimiento profundo de la realidad local. Sabemos que el mantenimiento de tu coche no puede limitarse a seguir las pautas genéricas del fabricante. Analizamos el estado de tu vehículo desde la perspectiva de su uso real en nuestro entorno. Evaluamos el rendimiento de la batería de alto voltaje sabiendo la energía que consume subir a diario a Can Costa. Revisamos el sistema de frenado regenerativo pensando en las largas bajadas hacia la C-1413a. Calibramos los sistemas ADAS teniendo en cuenta la niebla. No se trata solo de reparar averías, sino de anticiparlas, ofreciéndote un plan de mantenimiento adaptado a Castellbisbal, para que tu coche, sea híbrido, eléctrico o de combustión, ofrezca siempre la máxima fiabilidad y seguridad en tus trayectos.",
+  "servicesIntro": "Ofrecemos un servicio integral de diagnóstico y reparación para tu coche, con especial atención a los sistemas de vehículos híbridos y eléctricos en Castellbisbal.",
+  "processIntro": "Trabajamos con un método claro: diagnóstico experto, presupuesto detallado y cerrado, y tu aprobación antes de cualquier intervención en el vehículo.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Conectamos nuestros equipos de diagnosis avanzada para realizar una lectura completa de la electrónica y mecánica de tu coche. Escuchamos tu descripción del problema para entender el contexto de uso y los síntomas que has detectado."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado, explicando cada punto de la intervención y el coste de las piezas y la mano de obra. Sin sorpresas ni letra pequeña. Lo que ves es lo que pagas."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ninguna pieza ni empezamos a trabajar hasta que nos das tu confirmación explícita. Tienes el control total sobre la reparación. Si algo cambia, te contactamos de inmediato para una nueva aprobación."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas o equivalentes, siguiendo los procedimientos del fabricante. Todas nuestras reparaciones cuentan con garantía para tu total tranquilidad. Te mantenemos informado del progreso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos el coche en el plazo acordado, explicándote el trabajo realizado. Unos días después, contactamos contigo para asegurarnos de que todo funciona perfectamente y resolver cualquier duda que puedas tener."
+    }
+  ],
+  "commonIssuesIntro": "Las pendientes de Castellbisbal, la humedad del valle del Llobregat y el uso intensivo en la A-2 y AP-7 generan un desgaste específico en coches híbridos y eléctricos.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de suspensión en híbridos y eléctricos",
+      "body": "Los coches electrificados son más pesados debido a las baterías. Este peso extra, combinado con las rotondas y las carreteras con curvas de la zona de Castellbisbal, somete a la suspensión y a los neumáticos a un esfuerzo mayor. Realizamos revisiones específicas de amortiguadores, silentblocks y alineación de dirección para prevenir desgastes prematuros y garantizar la seguridad y el confort."
+    },
+    {
+      "title": "Revisión de frenada regenerativa",
+      "body": "Las constantes bajadas en zonas como Costablanca o Can Santeugini hacen que el sistema de frenada regenerativa trabaje sin descanso. Aunque esto reduce el desgaste de las pastillas, el sistema electrónico y los actuadores pueden necesitar calibración. Si notas que el coche no 'retiene' como antes, es momento de una revisión."
+    },
+    {
+      "title": "Fallos en sensores y sistemas ADAS por niebla",
+      "body": "La niebla y la humedad del Llobregat pueden depositar una fina capa de suciedad o condensación en los sensores de radar y cámaras del parabrisas. Esto provoca fallos en el control de crucero adaptativo o el asistente de carril. Realizamos limpieza y calibración de estos sistemas para restaurar su funcionamiento óptimo."
+    },
+    {
+      "title": "Diagnóstico de baterías de alto voltaje",
+      "body": "El esfuerzo constante de subir pendientes pronunciadas puede afectar a la salud a largo plazo de la batería (SoH). Mediante diagnosis avanzada, comprobamos el estado de las celdas, el sistema de refrigeración y la capacidad real de la batería para anticipar problemas y asegurar que la autonomía de tu eléctrico o híbrido sea la correcta."
+    },
+    {
+      "title": "Problemas con bombas de calor en EVs",
+      "body": "En invierno, la bomba de calor es clave para la climatización sin sacrificar drásticamente la autonomía. En un entorno húmedo como el de Castellbisbal, su correcto funcionamiento es vital. Diagnosticamos y reparamos estos sistemas para asegurar la eficiencia energética de tu vehículo eléctrico durante los meses más fríos."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Especialistas en Híbridos y Eléctricos",
+      "body": "Disponemos de la formación y el equipo de diagnosis específico para trabajar con seguridad y eficacia en los sistemas de alto voltaje de los vehículos modernos."
+    },
+    {
+      "title": "Conocimiento del Entorno Local",
+      "body": "Entendemos cómo la geografía y el tipo de uso en Castellbisbal afectan a tu coche. Este conocimiento nos permite realizar diagnósticos más precisos y un mantenimiento preventivo más efectivo."
+    },
+    {
+      "title": "Diagnóstico Electrónico Avanzado",
+      "body": "Vamos más allá de la mecánica tradicional. Nuestra capacidad de diagnosis electrónica nos permite identificar la causa raíz de averías complejas en los sistemas que controlan tu vehículo."
+    },
+    {
+      "title": "Transparencia Total",
+      "body": "Desde el primer contacto hasta la entrega del coche, te mantenemos informado. El presupuesto es cerrado y no hacemos nada sin tu consentimiento previo."
+    },
+    {
+      "title": "Procesos Eficientes",
+      "body": "Sabemos que necesitas tu coche. Optimizamos cada paso, desde la cita hasta la reparación, para minimizar el tiempo que tu vehículo pasa en el taller."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que conductores como tú, de Castellbisbal y alrededores, han resuelto en nuestros talleres de la red.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Can Costa",
+      "car": "Cupra Born 2022",
+      "body": "Notaba que el coche no frenaba igual al levantar el pie del acelerador, la retención era menor. Lo llevé y enseguida vieron que era un tema de calibración del sistema regenerativo. Lo ajustaron y ahora vuelve a ir perfecto. Se nota que entienden de coches eléctricos, no me dieron largas ni me dijeron que era 'normal'.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Nucli Urbà",
+      "car": "Toyota Yaris Hybrid 2019",
+      "body": "Uso el coche todos los días para ir a trabajar a Martorell y me tocaba la revisión completa. Me preocupaba el estado del sistema híbrido. Aquí me hicieron un chequeo completo, batería incluida, y me explicaron con detalle el informe. El presupuesto fue el que me dieron al principio, sin sorpresas. Muy profesional.",
+      "rating": 5
+    },
+    {
+      "name": "David",
+      "neighborhood": "Costablanca",
+      "car": "Peugeot 3008 Hybrid 2021",
+      "body": "El asistente de mantenimiento de carril me daba error constantemente, sobre todo los días de niebla. Pensé que sería una avería cara. Lo revisaron y resultó ser un sensor descalibrado. Lo solucionaron en el mismo día. Un servicio honesto y eficaz.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat",
+      "neighborhood": "Can Santeugini",
+      "car": "Renault Zoe 2018",
+      "body": "Quería hacer un viaje largo y no estaba segura de la salud de la batería. Les pedí un informe de estado (SoH) y me lo proporcionaron con una explicación clara de lo que significaba cada valor. Me dio mucha tranquilidad para planificar la ruta y las paradas de carga. Buen asesoramiento.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la zona de Castellbisbal, desde el núcleo urbano hasta las diferentes urbanizaciones como Can Costa, Costablanca, Can Santeugini y Santa Teresita. Nuestra ubicación estratégica nos permite ser el taller de referencia para conductores que residen o trabajan en municipios colindantes como Martorell, Sant Andreu de la Barca, El Papiol o Rubí.\n\nEl acceso a nuestras instalaciones es directo y sencillo desde las principales vías que vertebran la comarca. Si vienes por la autovía A-2 o la autopista AP-7, estamos a pocos minutos. También cubrimos las rutas diarias de quienes utilizan la C-1413a desde Terrassa o Rubí, o la B-150. Entendemos la logística de la zona y estamos preparados para atenderte con agilidad.",
+  "zoneNeighborhoods": [
+    "Castellbisbal Nucli Urbà",
+    "Can Costa",
+    "Costablanca",
+    "Can Santeugini",
+    "Polígon Industrial Sant Vicenç",
+    "Martorell",
+    "Sant Andreu de la Barca",
+    "El Papiol",
+    "Rubí",
+    "Santa Teresita"
+  ],
+  "zoneAccessRoutes": [
+    "A-2",
+    "AP-7",
+    "C-1413a",
+    "B-150"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Afecta a la garantía oficial de mi coche híbrido o eléctrico hacer el mantenimiento con vosotros?",
+      "a": "No. Realizamos el mantenimiento siguiendo estrictamente las especificaciones del fabricante y utilizando recambios de calidad equivalente. Según la normativa europea, tienes total libertad para elegir taller sin perder la garantía oficial. Sellamos el libro de mantenimiento para que quede constancia."
+    },
+    {
+      "q": "¿Cómo afectan las cuestas de Castellbisbal a la batería de mi coche eléctrico?",
+      "a": "Las subidas pronunciadas, como las de Can Santeugini, exigen un alto consumo de energía, lo que reduce la autonomía momentáneamente. Sin embargo, en las bajadas, el sistema de frenada regenerativa recupera una parte importante de esa energía. El efecto neto depende de tu estilo de conducción. Un mantenimiento regular asegura que el sistema funcione de forma óptima."
+    },
+    {
+      "q": "Uso la A-2 a diario para ir a Barcelona. ¿Qué revisión específica necesita mi híbrido?",
+      "a": "El uso intensivo en autovía con tráfico variable somete al sistema híbrido a constantes cambios entre motor eléctrico y de combustión. Recomendamos una revisión periódica del sistema de refrigeración de la batería y del inversor, así como una diagnosis de la electrónica para asegurar que la transición entre motores sea suave y eficiente."
+    },
+    {
+      "q": "¿Es seguro trabajar en las baterías de alto voltaje de mi coche?",
+      "a": "Absolutamente. Nuestro personal técnico cuenta con la formación específica y certificación para manipular sistemas de alto voltaje. Utilizamos herramientas aisladas y seguimos protocolos de seguridad muy estrictos, como la desenergización del sistema antes de cualquier intervención, para garantizar la seguridad tanto del operario como del vehículo."
+    },
+    {
+      "q": "La niebla del Llobregat me da fallos en los sensores. ¿Tiene solución?",
+      "a": "Sí, es un problema común en la zona. La mayoría de las veces se debe a suciedad o desajuste de los sensores. Realizamos una limpieza profesional y, si es necesario, una recalibración con equipos específicos para restaurar la funcionalidad de los sistemas de asistencia a la conducción (ADAS) y que vuelvan a ser fiables."
+    },
+    {
+      "q": "Noto que mi coche eléctrico 'retiene' menos en las bajadas. ¿A qué se debe?",
+      "a": "Esa sensación de 'retención' es la frenada regenerativa. Si ha disminuido su intensidad, puede deberse a varios factores: desde un nivel de carga de la batería cercano al 100% (no puede almacenar más energía) hasta una posible necesidad de calibración del sistema. Un diagnóstico rápido nos permitirá identificar la causa exacta."
+    },
+    {
+      "q": "Vivo en una urbanización con muchas pendientes. ¿Debo hacer un mantenimiento diferente?",
+      "a": "Sí, es recomendable. Un uso intensivo en pendientes somete a mayor estrés a la suspensión, los neumáticos y, en coches electrificados, a la gestión térmica de la batería. Aconsejamos acortar ligeramente los intervalos de revisión de estos componentes para asegurar que todo funciona correctamente y prevenir un desgaste acelerado."
+    },
+    {
+      "q": "¿Disponéis de punto de carga para dejar mi coche eléctrico cargando durante la reparación?",
+      "a": "Sí, disponemos de puntos de carga para nuestros clientes. Si necesitas dejar tu vehículo eléctrico para una revisión o reparación, podemos aprovechar para realizar una carga de cortesía, de modo que lo recojas con un nivel de batería adecuado para tu vuelta a casa."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Castellbisbal",
+  "closingCta": "Pide tu cita y obtén un presupuesto cerrado y profesional para tu vehículo en Castellbisbal. Contacta con nosotros por teléfono o WhatsApp y te asesoraremos sin compromiso."
+}

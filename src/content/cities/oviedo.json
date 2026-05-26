@@ -1,0 +1,183 @@
+{
+  "slug": "oviedo",
+  "name": "Oviedo",
+  "province": "Asturias",
+  "ccaa": "Asturias",
+  "population": 220027,
+  "lat": 43.36029,
+  "lng": -5.84476,
+  "metaTitle": "Taller mecánico en Oviedo — Multimarca y de confianza",
+  "metaDescription": "Tu taller en Oviedo para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas para tu coche. Pide cita y conduce tranquilo por Asturias.",
+  "heroSubtitle": "Harto de los imprevistos en la A-66 y del 'orbayu' que no perdona? Conduce tranquilo por Oviedo sabiendo que tu coche está en buenas manos.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Oviedo y sus alrededores es una experiencia única, pero también un desafío para cualquier coche. Ya sea que te enfrentes al tráfico denso de la Ronda Sur para ir a trabajar, que hagas el trayecto diario a Gijón por la AS-II o que subas por las cuestas de Ciudad Naranco, tu vehículo soporta un desgaste constante. El embrague sufre en los atascos de entrada y salida, los frenos se ponen a prueba en las bajadas y la suspensión acusa cada bache que las lluvias persistentes dejan en el asfalto. En nuestro taller, no solo vemos coches, vemos el día a día de los conductores de Oviedo, desde el que vive en La Corredoria y trabaja en el polígono de Silvota hasta el que reside en Montecerrao y necesita el coche a punto para las escapadas de fin de semana.\n\nEl clima de Asturias es un factor clave en el mantenimiento de tu vehículo. Ese 'orbayu' constante que cala hasta los huesos también afecta a la carrocería, los bajos y el sistema de escape de tu coche, acelerando la corrosión. La humedad ambiental no perdona: puede provocar fallos eléctricos, dificultar el arranque en las mañanas frías de invierno y obliga a tener un sistema de climatización y desempañado en perfecto estado. Por eso, unas escobillas limpiaparabrisas de calidad y unos neumáticos con buen dibujo no son un lujo, sino una necesidad para circular con seguridad por la A-63 o cualquier carretera comarcal asturiana cuando la lluvia aprieta.\n\nConocemos perfectamente el parque móvil de Oviedo. Sabemos que en nuestros barrios predominan los coches prácticos y fiables: SEAT León, Renault Mégane, Peugeot 308, Opel Astra... vehículos diésel y gasolina que llevan años demostrando su valía. También vemos cada vez más SUVs como el Nissan Qashqai o el Hyundai Tucson, ideales para las familias que combinan la vida urbana con salidas a la naturaleza. Entendemos los problemas típicos de estos modelos, desde el filtro de partículas en los diésel que hacen mucha ciudad hasta el desgaste de la suspensión en los que frecuentan caminos rurales.\n\nNuestra filosofía es sencilla: ofrecerte un servicio de taller honesto, transparente y adaptado a la realidad de Oviedo. No te hablaremos con tecnicismos incomprensibles ni te venderemos reparaciones que no necesitas. Si tu coche tiene que pasar la ITV en el polígono del Espíritu Santo, nos aseguramos de que vaya perfecto para evitarte viajes y gastos innecesarios. Te damos un presupuesto cerrado, te explicamos cada paso y no tocamos un solo tornillo sin tu autorización. Porque tu tranquilidad al volante, ya sea en el centro de Oviedo o en la carretera de los Picos de Europa, es nuestra mayor satisfacción.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV en Espíritu Santo hasta un cambio de embrague por el uso diario en Oviedo, cubrimos todas tus necesidades.",
+  "processIntro": "Creemos en la transparencia total. Por eso, te damos un presupuesto cerrado y no hacemos nada en tu coche sin tu aprobación previa por teléfono.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Nos cuentas qué le pasa a tu coche y lo escuchamos. Después, nuestros técnicos realizan una inspección completa con equipos de diagnosis modernos para encontrar el origen exacto del problema, sin rodeos ni suposiciones."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado y por escrito. Incluye piezas, mano de obra e IVA, para que sepas desde el primer minuto cuánto te va a costar la reparación. Sin sorpresas ni costes ocultos al final."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "El presupuesto está en tu mano. No empezamos ninguna reparación hasta que nos des tu visto bueno explícito. Si durante el proceso surgiera algo nuevo e inesperado, te volveríamos a llamar para informarte y pedir tu aprobación."
+    },
+    {
+      "title": "Reparación",
+      "body": "Trabajamos con recambios de primeras marcas y te informamos de los plazos. Nuestro equipo se pone manos a la obra para solucionar la avería de forma eficiente, siguiendo siempre las especificaciones del fabricante de tu coche."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos la reparación realizada y te lo entregamos limpio. Unos días después, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "La humedad de Oviedo, el tráfico de la 'Y' asturiana y las escapadas por carreteras de montaña generan problemas muy concretos que conocemos y solucionamos a diario.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de frenos y embrague",
+      "body": "La orografía de Oviedo, con barrios como Ciudad Naranco o Montecerrao llenos de cuestas, y el tráfico de 'arranca y para' en la Ronda Sur, castigan mucho el embrague y los frenos. Revisamos todo el sistema para garantizar tu seguridad y evitar un desgaste que acabe en una avería más cara."
+    },
+    {
+      "title": "Problemas de visibilidad por la lluvia",
+      "body": "Conducir con el 'orbayu' asturiano exige una visibilidad perfecta. Unas escobillas gastadas o un sistema de climatización que no desempaña bien son un peligro en la A-66 o la AS-II. Comprobamos y reparamos el sistema completo: escobillas, motor, líquido y circuito de ventilación."
+    },
+    {
+      "title": "Corrosión en bajos y sistema de escape",
+      "body": "La combinación de la alta humedad ambiental durante todo el año y la sal que se esparce en invierno en las carreteras de acceso a la meseta, como la A-66 por Pajares, acelera la oxidación de los componentes metálicos inferiores. Una inspección a tiempo puede evitar roturas y problemas en la ITV."
+    },
+    {
+      "title": "Neumáticos gastados de forma irregular",
+      "body": "La enorme cantidad de rotondas en barrios nuevos como La Corredoria o La Florida, sumado a las carreteras sinuosas de los valles cercanos, provoca un desgaste desigual en los neumáticos si la alineación no es perfecta. Esto reduce la seguridad, sobre todo con el asfalto mojado tan habitual en Asturias."
+    },
+    {
+      "title": "Fallos de batería y arranque en frío",
+      "body": "Las mañanas húmedas y frías del invierno ovetense son la prueba de fuego para cualquier batería. Si tu coche duerme en la calle, es fácil que un día no arranque. Comprobamos el estado de tu batería y el alternador para que no te deje tirado de camino al trabajo."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos tu coche y tus rutas",
+      "body": "Sabemos que no es lo mismo un coche que solo se mueve por el centro de Oviedo que uno que sube a Pajares en invierno. Adaptamos el mantenimiento a tu uso real para que solo pagues por lo que de verdad necesitas."
+    },
+    {
+      "title": "Presupuesto claro, sin 'asturianadas'",
+      "body": "Lo que presupuestamos es lo que pagas. Sin extras de última hora ni explicaciones raras. Te hablamos claro, como se ha hecho toda la vida en Asturias, para que tomes la mejor decisión para tu bolsillo y tu coche."
+    },
+    {
+      "title": "Especialistas en coches 'de aquí'",
+      "body": "Estamos acostumbrados a trabajar con los SEAT, Renault, Peugeot, Ford y Opel que llenan las calles de Oviedo. Conocemos sus puntos fuertes y sus debilidades, lo que nos permite ir directos al grano y ser más eficientes."
+    },
+    {
+      "title": "La ITV, sin dramas",
+      "body": "Pasar la ITV en Espíritu Santo puede ser un trámite o una pesadilla. Con nuestra revisión pre-ITV, nos anticipamos a los posibles fallos para que la pases a la primera, ahorrándote tiempo, dinero y dolores de cabeza."
+    },
+    {
+      "title": "Trato directo y cercano",
+      "body": "Aquí no hablas con una centralita. Hablas directamente con el equipo del taller, con profesionales que entienden tus preocupaciones y te explican las cosas de forma que las entiendas. Somos tu taller de confianza en Oviedo."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Oviedo que confían en nosotros. Tu caso podría ser el próximo, con la misma tranquilidad y transparencia.",
+  "testimonials": [
+    {
+      "name": "Javier",
+      "neighborhood": "La Corredoria",
+      "car": "SEAT León ST 2016",
+      "body": "Hago todos los días el trayecto hasta el polígono de Silvota y notaba que el embrague empezaba a patinar. Les pedí presupuesto y me lo dieron cerrado y muy claro. Me explicaron el porqué de la avería por el tipo de recorrido que hago. El coche va perfecto ahora, muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Montecerrao",
+      "car": "Nissan Qashqai 2018",
+      "body": "Teníamos un ruido raro en una rueda después de un viaje por una carretera comarcal. Como usamos mucho el coche para ir con los niños los fines de semana, queríamos asegurarnos. Lo revisaron enseguida, era un rodamiento. Me dieron cita rápido y lo solucionaron. Da mucha tranquilidad.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Centro",
+      "car": "Renault Clio 2013",
+      "body": "Uso el coche muy poco, casi siempre para recados por el centro de Oviedo. Un día no me arrancó. Pensé que era solo la batería, pero ellos además de cambiarla me revisaron todo el sistema de carga para asegurarse de que no volviera a pasar. Un detalle que se agradece.",
+      "rating": 5
+    },
+    {
+      "name": "Covadonga",
+      "neighborhood": "Ciudad Naranco",
+      "car": "Peugeot 308 SW 2015",
+      "body": "Me tocaba pasar la ITV y siempre me da pánico. Lo llevé para una revisión pre-ITV y me detectaron las pastillas de freno traseras bastante gastadas, yo ni me había dado cuenta. Lo arreglaron y pasé la inspección sin un solo fallo. Tardaron un poco más de lo que esperaba, pero valió la pena.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Oviedo y su área de influencia. Si vives en barrios como La Corredoria, Montecerrao, Ciudad Naranco, Buenavista, El Cristo u Otero, estamos a tu lado. También somos el taller de referencia para muchos conductores de municipios cercanos que forman parte del día a día de la capital, como Lugones, Colloto o La Fresneda, en el concejo de Siero. Nuestra ubicación nos permite un acceso rápido y cómodo desde las principales vías que conectan la ciudad, como la A-66 (Ruta de la Plata), la AS-II (Autovía Industrial) o la Ronda Sur (O-12), para que venir al taller no te suponga una pérdida de tiempo.",
+  "zoneNeighborhoods": [
+    "La Corredoria",
+    "Montecerrao",
+    "Ciudad Naranco",
+    "Buenavista",
+    "El Cristo",
+    "Otero",
+    "Pumarín",
+    "Lugones (Siero)",
+    "Colloto",
+    "La Fresneda (Siero)"
+  ],
+  "zoneAccessRoutes": [
+    "A-66 (Ruta de la Plata)",
+    "AS-II (Autovía Industrial)",
+    "A-64 (Autovía del Cantábrico)",
+    "N-634",
+    "O-12 (Ronda Sur)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la pre-ITV para la estación de Espíritu Santo?",
+      "a": "Sí, por supuesto. Conocemos perfectamente los puntos que más se revisan en la estación ITV de Pruvia (Polígono Espíritu Santo) y realizamos una comprobación exhaustiva de todos ellos: luces, frenos, neumáticos, emisiones, holguras... Nuestro objetivo es que vayas sobre seguro y la pases a la primera, sin defectos leves ni graves."
+    },
+    {
+      "q": "Mi coche sufre mucho con la humedad de Asturias, ¿revisáis la corrosión?",
+      "a": "Totalmente. Es uno de los puntos que más vigilamos en las revisiones periódicas. La humedad constante de Oviedo es muy agresiva con los bajos del coche, el chasis y la línea de escape. En cada mantenimiento, inspeccionamos visualmente estos elementos en el elevador para detectar puntos de óxido y actuar antes de que se convierta en un problema grave o en un fallo en la ITV."
+    },
+    {
+      "q": "Voy a diario a Gijón por la 'Y' asturiana, ¿qué revisión me recomendáis?",
+      "a": "Para un uso intensivo en autovía como el de la A-66/AS-II (la 'Y'), es crucial vigilar el estado de los neumáticos, la alineación de la dirección y el sistema de frenado. También es importante un buen mantenimiento del motor para que el consumo sea óptimo. Te recomendamos seguir el plan de mantenimiento del fabricante y hacer una revisión extra de neumáticos y niveles antes del invierno."
+    },
+    {
+      "q": "¿Tenéis experiencia con los motores diésel que hacen muchos trayectos cortos por Oviedo?",
+      "a": "Sí, es un caso muy común. Los motores diésel modernos con filtro de partículas (FAP) sufren mucho en trayectos urbanos cortos, ya que no alcanzan la temperatura para regenerar el filtro, provocando averías y pérdida de rendimiento. Conocemos estos sistemas y podemos realizar limpiezas y regeneraciones forzadas, además de aconsejarte sobre el uso para prevenir el problema."
+    },
+    {
+      "q": "Vivo en una zona de cuestas como Ciudad Naranco, ¿mis frenos necesitan un cuidado especial?",
+      "a": "Definitivamente. Vivir en una zona con pendientes pronunciadas somete a los frenos a un esfuerzo extra, tanto discos como pastillas se desgastan más rápido. En tu caso, recomendamos revisiones del sistema de frenado un poco más frecuentes de lo habitual para garantizar siempre una frenada segura y eficaz, especialmente importante en días de lluvia."
+    },
+    {
+      "q": "En invierno subo a esquiar a Pajares o Fuentes de Invierno, ¿preparáis el coche?",
+      "a": "Claro. Realizamos una puesta a punto específica para el invierno. Revisamos el nivel de anticongelante y su punto de congelación, el estado de la batería, el funcionamiento de la calefacción y, muy importante, la presión y el estado de los neumáticos. Si lo necesitas, también podemos asesorarte y montar neumáticos de invierno o todo tiempo para que subas a la nieve con total seguridad."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto para Oviedo",
+  "closingCta": "No dejes que una avería te complique el día. Llámanos o escríbenos por WhatsApp para pedir tu presupuesto cerrado. Cuidamos de tu coche para que tú solo te preocupes de conducir por Oviedo."
+}

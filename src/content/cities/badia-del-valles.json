@@ -1,0 +1,184 @@
+{
+  "slug": "badia-del-valles",
+  "name": "Badia del Vallès",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 13563,
+  "lat": 41.50993,
+  "lng": 2.11648,
+  "metaTitle": "Taller mecánico en Badia del Vallès — Presupuesto sin sorpresas",
+  "metaDescription": "Reparamos tu coche en Badia del Vallès con un presupuesto cerrado y claro. Pide tu diagnóstico honesto para revisión, averías, ITV o neumáticos.",
+  "heroSubtitle": "¿Cansado de talleres que te dan un precio y luego la factura es otra? En Badia del Vallès, te damos un presupuesto cerrado. Lo que ves, es lo que pagas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives o trabajas en Badia del Vallès, sabes que el coche no es un lujo, es la herramienta que te conecta con todo. Cada mañana, te subes para coger la C-58 hacia Barcelona o la AP-7 para ir a la Zona Franca, o simplemente para cruzar a los polígonos de Barberà o Santiga. Conoces de sobra el tráfico denso a primera hora, el desgaste que eso supone para el embrague y los frenos, y la sensación de que tu coche, un diésel de 2012 que no te ha dado problemas, empieza a necesitar más que un simple cambio de aceite. Entendemos perfectamente esta realidad porque es la nuestra. Sabemos que un imprevisto mecánico no es solo una molestia, es un problema que te puede descuadrar el mes. Por eso, nuestro enfoque es radicalmente distinto: transparencia total y presupuestos que no cambian. Se acabó el miedo a la llamada del taller con \"es que hemos encontrado otra cosita\".\n\nBadia del Vallès tiene una historia única. No creció poco a poco; fue planificada en los 70 para gente trabajadora que movía la industria del Vallès. Esa mentalidad práctica sigue muy presente. Aquí, los coches son para usarlos, no para exponerlos. El parque móvil lo refleja: vehículos fiables, con sus años, que han recorrido miles de kilómetros por la N-150 y que son el pilar de la movilidad familiar y profesional. Muchos de estos coches, mantenidos 'a lo justo', empiezan a dar guerra con los sistemas anticontaminación, especialmente los diésel que hacen trayectos cortos entre Badia, Cerdanyola y Barberà. El filtro de partículas se satura, el turbo empieza a silbar de una forma que no te gusta... Son averías que asustan por su coste y por la opacidad con la que muchos talleres las gestionan. Nosotros le echamos un ojo a fondo, te explicamos qué pasa con palabras que entiendes y te damos una cifra final. Sin asteriscos.\n\nEl clima del Vallès Occidental también juega su papel. No tenemos la brisa marina de la costa, sino un calor seco y potente en verano que pone a prueba el sistema de refrigeración y el aire acondicionado. Quedarse tirado en la C-58 en pleno julio con el electroventilador frito no es ninguna broma. En invierno, la humedad fría y la niebla matutina son el enemigo de las baterías con unos años y de la electrónica más delicada. Esos fallos intermitentes que aparecen y desaparecen suelen tener su origen en las condiciones de aquí. Por eso, no nos limitamos a cambiar piezas. Entendemos por qué fallan en este entorno concreto, desde un alternador que sufre por los ciclos de calor hasta unos neumáticos que se cristalizan por los cambios de temperatura. Cada diagnóstico tiene en cuenta dónde y cómo conduces tu coche, no solo lo que dice el ordenador.\n\nNuestra filosofía nace de una frustración que seguro que conoces: la de sentir que no controlas la reparación de tu propio coche. Esa sensación de dejar las llaves y cruzar los dedos para que la factura no sea un susto. Queremos romper con eso. En nuestra red de talleres de Badia, el proceso es al revés. Primero, un diagnóstico claro. Te explicamos la avería, las posibles soluciones y te damos un presupuesto cerrado, detallado por escrito. No tocamos un solo tornillo sin tu autorización explícita. Si mientras reparamos vemos algo más que podría ser un problema a futuro, te llamamos, te enviamos fotos si hace falta, y te damos un nuevo presupuesto para esa tarea adicional. Pero la decisión siempre, siempre, es tuya. Queremos ser tu taller de confianza en Badia del Vallès porque te tratamos como a un socio, no como a una cartera.",
+  "servicesIntro": "Desde la revisión anual para tu coche hasta la avería más compleja, aquí en Badia del Vallès cubrimos todas las necesidades de tu vehículo.",
+  "processIntro": "Trabajamos con un método claro para que siempre sepas qué le pasa a tu coche, cuánto va a costar y cuándo lo tendrás listo. Sin sorpresas.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le notas al coche y lo conectamos a nuestra máquina de diagnosis. Nuestros técnicos realizan una inspección visual y funcional para identificar el origen real del problema, no solo el síntoma."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en la mano, te preparamos un presupuesto detallado por escrito. Incluye piezas, mano de obra e IVA. La cifra que te damos es la cifra final que verás en la factura, sin extras inesperados."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Te explicamos el presupuesto punto por punto. No empezamos ninguna reparación hasta que nos das tu visto bueno explícito. El control lo tienes tú en todo momento. Si no lo apruebas, no se hace nada."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan el trabajo siguiendo las especificaciones del fabricante para asegurar un resultado fiable y duradero. Te mantenemos informado del proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, te contactamos para confirmar que todo funciona perfectamente y que estás satisfecho con el servicio."
+    }
+  ],
+  "commonIssuesIntro": "El uso intensivo por las rondas, los trayectos cortos a Barberà o Sabadell y el clima del Vallès provocan una serie de averías muy típicas en los coches de Badia.",
+  "commonIssues": [
+    {
+      "title": "Embragues gastados por el tráfico",
+      "body": "El atasco diario en la C-58 para ir a Barcelona o las constantes paradas en los polígonos de Barberà castigan el embrague. Si notas que el pedal está duro o que el coche patina al acelerar, es hora de revisarlo. Ofrecemos un diagnóstico preciso para saber si es el kit completo o solo un componente."
+    },
+    {
+      "title": "Filtros de partículas (FAP) obstruidos",
+      "body": "Muchos diésel en Badia hacen recorridos cortos y no alcanzan la temperatura para regenerar el FAP. Esto provoca pérdida de potencia y el temido testigo en el cuadro. Antes de pensar en cambiarlo, evaluamos si una limpieza profesional es viable, una solución mucho más económica que te explicamos con claridad."
+    },
+    {
+      "title": "Fallos en el sistema de climatización",
+      "body": "El verano en el Vallès es intenso. Un aire acondicionado que no enfría lo suficiente es un problema serio. Suele deberse a fugas en el circuito o a un compresor que empieza a fallar. Hacemos una comprobación de estanqueidad y carga, dándote un presupuesto claro antes de intervenir."
+    },
+    {
+      "title": "Desgaste de silentblocks y suspensión",
+      "body": "Los badenes, rotondas y el asfalto irregular de algunas zonas del área metropolitana pasan factura a la suspensión. Si escuchas ruidos metálicos al pasar por un bache o notas inestabilidad, seguramente los silentblocks o los amortiguadores han llegado a su fin. Es una reparación clave para tu seguridad y para pasar la ITV."
+    },
+    {
+      "title": "Problemas de arranque en frío",
+      "body": "La humedad invernal de Badia del Vallès es dura con las baterías y los calentadores de los diésel. Si a tu coche le cuesta arrancar por la mañana, no esperes a quedarte tirado. Comprobamos el estado de la batería, el alternador y los calentadores para que el coche arranque a la primera, siempre."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "El presupuesto no se mueve",
+      "body": "La cifra que te damos es la que pagas. Si surge algo nuevo, paramos, te llamamos y tú decides. Se acabaron las sorpresas desagradables en la factura."
+    },
+    {
+      "title": "Hablamos tu idioma",
+      "body": "Te explicamos las averías sin tecnicismos confusos. Queremos que entiendas qué le pasa a tu coche y por qué recomendamos una reparación concreta."
+    },
+    {
+      "title": "Conocemos los coches de aquí",
+      "body": "Sabemos cómo afecta el tráfico de la C-58 o el clima del Vallès a tu vehículo. Nuestro diagnóstico tiene en cuenta el uso real que le das al coche en Badia."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Trabajamos con recambios de calidad y garantizamos nuestra mano de obra por escrito. Tu tranquilidad es nuestra prioridad."
+    },
+    {
+      "title": "Agilidad para no pararte",
+      "body": "Sabemos que necesitas el coche. Organizamos la cita y el aprovisionamiento de piezas para tener tu vehículo listo en el menor tiempo posible."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Estas son algunas de las situaciones que hemos resuelto, ejemplos de cómo trabajamos cada día.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Badia del Vallès",
+      "car": "Ford Transit Connect 2015",
+      "body": "Soy autónomo y la furgoneta es mi oficina. Empezó a hacer un ruido raro el turbo y en otro sitio ya me hablaban de cambiarlo entero, una pasta. Aquí me lo miraron, vieron que era un manguito rajado y me lo explicaron con el capó abierto. Me dieron presupuesto cerrado y en 24h la tenía lista. Honestos y rápidos.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Barberà del Vallès",
+      "car": "Seat Ibiza 2013",
+      "body": "El coche empezó a dar tirones y se encendió el testigo de motor. Ya me veía venir una avería de las caras. Me recomendaron este taller y fue un acierto. Me llamaron para explicarme que era un problema con la EGR por hacer mucha ciudad. Me dieron la opción de limpiarla en vez de cambiarla. Muy transparentes, te quedas tranquila.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Cerdanyola del Vallès",
+      "car": "Peugeot 308 SW 2016",
+      "body": "Tenía que pasar la ITV y sabía que los frenos de atrás no estaban bien. Les pedí presupuesto para discos y pastillas y me dieron un precio cerrado. Dejaron el coche perfecto y además le hicieron la pre-ITV. La pasó a la primera sin problemas. Muy profesionales, te evitan viajes y complicaciones.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Badia del Vallès",
+      "car": "Renault Clio 2010",
+      "body": "El aire acondicionado había dejado de enfriar justo al empezar el calor. En otros talleres me daban largas. Aquí me dieron cita rápido, encontraron una pequeña fuga y me lo repararon con un presupuesto que me pareció muy razonable. Al menos sabes a lo que vas desde el principio. Volveré.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio principalmente en Badia del Vallès, pero nuestra ubicación estratégica nos convierte en el taller de confianza para muchos conductores de las ciudades colindantes. Si vives en Barberà del Vallès, especialmente en barrios como La Romànica o Parc Europa, estamos a apenas cinco minutos. También cubrimos Cerdanyola del Vallès, Serraparera y las zonas cercanas a la UAB. Gracias a nuestro acceso directo a la C-58 y la proximidad con la AP-7 y la N-150, venir a nuestro taller es rápido y sencillo desde cualquier punto del Vallès Occidental. No importa si vienes del centro de Sabadell o de un polígono cercano, te ofrecemos una solución eficaz y transparente para tu coche.",
+  "zoneNeighborhoods": [
+    "Badia del Vallès",
+    "Barberà del Vallès",
+    "La Romànica",
+    "Parc Europa",
+    "Cerdanyola del Vallès",
+    "Serraparera",
+    "Can Llobet",
+    "Can Planas"
+  ],
+  "zoneAccessRoutes": [
+    "C-58",
+    "AP-7",
+    "N-150",
+    "B-10"
+  ],
+  "faqLocal": [
+    {
+      "q": "Tengo que pasar la ITV en Sabadell, ¿qué miráis en la pre-ITV?",
+      "a": "En la revisión pre-ITV revisamos los mismos puntos críticos que te mirarán en la estación de Sabadell o la de Sant Cugat: luces, frenos, holguras en la suspensión y dirección, estado de los neumáticos y emisión de gases. Nos centramos en los fallos más comunes de los coches de la zona para asegurarnos de que pases a la primera y no pierdas tiempo ni dinero."
+    },
+    {
+      "q": "Hago cada día el trayecto Badia-Barcelona por la C-58. ¿Cuándo debería revisar el embrague?",
+      "a": "Ese trayecto es muy exigente para el embrague por el tráfico denso. No hay un kilometraje exacto, pero debes estar atento a señales como un pedal más duro de lo normal, que el coche se revolucione pero no gane velocidad, o dificultad para meter las marchas. Si notas cualquiera de estos síntomas, pásate y le echamos un ojo sin compromiso. Es mejor prevenir una avería mayor."
+    },
+    {
+      "q": "Mi diésel hace solo trayectos cortos por Badia y Barberà, ¿es malo para el motor?",
+      "a": "Sí, es el uso más perjudicial para un diésel moderno. El motor no llega a calentarse lo suficiente y el filtro de partículas (FAP) no puede limpiarse solo, lo que provoca averías costosas. Te recomendamos que, al menos una vez por semana, salgas a la autopista (la C-58 o AP-7 son perfectas) y conduzcas unos 15-20 minutos a un ritmo alegre y revoluciones constantes para forzar la regeneración."
+    },
+    {
+      "q": "Vivo en Barberà del Vallès, ¿por qué debería llevar el coche a vuestro taller en Badia?",
+      "a": "Por nuestra transparencia y el presupuesto cerrado. Muchos clientes de Barberà vienen porque están cansados de facturas con sorpresas. Estamos a solo 5 minutos y te ofrecemos una claridad que te compensará el corto desplazamiento. Sabrás el coste final antes de que empecemos a trabajar, algo que te dará total tranquilidad."
+    },
+    {
+      "q": "El presupuesto cerrado que me dais, ¿es realmente definitivo?",
+      "a": "Sí, es definitivo para la reparación que hemos presupuestado. Si durante el proceso nuestros mecánicos detectan otra avería que no estaba a la vista, paramos el trabajo. Te llamamos, te explicamos la nueva situación, te enseñamos el problema si es necesario y te damos un segundo presupuesto aparte. Nunca repararemos nada extra sin tu aprobación previa y por escrito."
+    },
+    {
+      "q": "Mi coche tiene ya 14 años, ¿seguís trabajando con modelos más antiguos?",
+      "a": "Por supuesto. De hecho, son nuestra especialidad. Entendemos perfectamente las necesidades de los coches que ya no están en garantía oficial y conocemos los fallos habituales del parque móvil de Badia y alrededores. Tenemos la experiencia y el equipo para mantener tu coche en perfecto estado de funcionamiento, alargando su vida útil de forma fiable y económica."
+    },
+    {
+      "q": "En verano, el coche se calienta mucho en los atascos de la AP-7, ¿es normal?",
+      "a": "Un ligero aumento de la temperatura en un atasco con 40 grados puede ser normal, pero si la aguja se acerca a la zona roja, hay un problema en el sistema de refrigeración. Puede ser el termostato, el electroventilador o falta de líquido refrigerante. Dado el calor del Vallès, es un punto crítico a revisar antes de que cause una avería grave en el motor."
+    }
+  ],
+  "closingHeadline": "Tu taller de confianza en Badia del Vallès",
+  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Llámanos o escríbenos por WhatsApp y te daremos cita para diagnosticar tu coche con total transparencia en nuestro taller de Badia."
+}

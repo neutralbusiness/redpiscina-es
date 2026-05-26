@@ -1,0 +1,191 @@
+{
+  "slug": "chamartin",
+  "name": "Chamartín",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 140000,
+  "lat": 40.46206,
+  "lng": -3.6766,
+  "metaTitle": "Taller mecánico en Chamartín, Madrid — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Chamartín (Madrid). Presupuestos cerrados para revisión, averías, neumáticos e ITV. Pide cita y evita sorpresas.",
+  "heroSubtitle": "Cansado de los atascos en la M-30 y de no saber cuánto te costará la reparación de tu coche en la zona de Chamartín? Tenemos la solución.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Chamartín es un desafío diario. Lo sabemos porque también lo vivimos. Ya sea que te muevas por el denso tráfico del Paseo de la Castellana para ir a la oficina, que cruces Príncipe de Vergara a hora punta o que intentes incorporarte al Nudo Norte de la M-30, tu coche sufre. El constante arranca-para, los semáforos interminables y la búsqueda de aparcamiento en zonas como Prosperidad o Hispanoamérica pasan factura a la mecánica. No es lo mismo un coche que circula por autovía que uno que pasa la mayor parte de su vida en el corazón financiero de Madrid, entre AZCA y las Cuatro Torres.\n\nEl parque móvil de Chamartín es tan diverso como sus barrios. En zonas como El Viso o Nueva España es habitual ver berlinas y SUV de marcas alemanas, vehículos de empresa que necesitan un mantenimiento impecable y fiable. Al mismo tiempo, en barrios como Ciudad Jardín o Castilla, conviven con los compactos y utilitarios más populares (SEAT, Peugeot, Renault, Volkswagen) que miles de familias usan para el día a día. Entendemos las necesidades de ambos perfiles: la exigencia de un coche premium y la necesidad de un presupuesto ajustado para el coche familiar. Por eso trabajamos con todas las marcas, aplicando el mismo rigor y transparencia a un Audi A6 que a un SEAT Ibiza.\n\nEl clima continental de Madrid es otro factor clave. Los veranos secos y por encima de los 35 grados ponen a prueba cualquier sistema de aire acondicionado, un elemento que no es un lujo, sino una necesidad. En invierno, las mañanas frías y heladas son el peor enemigo de las baterías, especialmente en coches que duermen en la calle. Pero el mayor enemigo silencioso es la contaminación. La famosa 'boina' de Madrid no solo es un problema medioambiental; es un problema mecánico. Las partículas en suspensión y los óxidos de nitrógeno acaban obstruyendo filtros de partículas (FAP/DPF) y válvulas EGR, sobre todo en los diésel que hacen trayectos cortos por el distrito.\n\nEste uso intensivo y urbano se traduce directamente en averías concretas. El embrague de tu coche manual sufre en cada atasco en la Avenida de Pío XII. Las pastillas y discos de freno se desgastan a un ritmo acelerado. La suspensión y los silentblocks se resienten con los miles de badenes instalados para calmar el tráfico en las zonas residenciales. Y con las Zonas de Bajas Emisiones (ZBE) cada vez más estrictas, pasar la prueba de gases de la ITV se ha convertido en una preocupación real para muchos conductores. En nuestro taller de Chamartín no solo reparamos coches; solucionamos los problemas específicos de los conductores de Madrid, con un presupuesto cerrado para que no haya sustos.",
+  "servicesIntro": "Desde la revisión anual para tu coche de empresa hasta el cambio de neumáticos para moverte por Chamartín y la M-30 con total seguridad.",
+  "processIntro": "Sabemos que tu tiempo en Madrid es oro. Por eso, nuestro proceso es sencillo y transparente: diagnóstico claro y un presupuesto que no cambia.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, no solo conectamos una máquina. Te escuchamos. Cuéntanos qué ruido hace, cuándo falla, qué notas raro. Combinamos tu experiencia con nuestra tecnología de diagnóstico para encontrar el origen real del problema de forma precisa."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Desglosamos mano de obra y piezas, sin letra pequeña. El importe que ves es el que pagarás, sin sorpresas de última hora. La transparencia es total desde el primer momento."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No movemos una sola tuerca sin tu confirmación explícita. Revisa el presupuesto con calma y, si estás de acuerdo, danos tu visto bueno. Si durante la reparación surgiera algo imprevisto (algo muy poco común), te llamaríamos de inmediato para explicarlo."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas, con la misma calidad que las originales, y todas nuestras reparaciones tienen garantía. Te mantenemos informado sobre el progreso y cumplimos los plazos acordados para que puedas organizar tu agenda sin problemas."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Al recoger tu coche, un mecánico te explicará qué hemos hecho y por qué. Nos aseguramos de que te vayas con todo claro y el coche en perfecto estado. Unos días después, contactaremos contigo para confirmar que todo funciona como debe."
+    }
+  ],
+  "commonIssuesIntro": "El tráfico denso del Paseo de la Castellana, la contaminación de Madrid y los cambios de temperatura afectan a tu coche más de lo que crees. Estos son los problemas que más vemos.",
+  "commonIssues": [
+    {
+      "title": "Filtro de partículas (FAP/DPF) obstruido",
+      "body": "Si tu diésel hace trayectos cortos por Chamartín y rara vez sale a la M-40, es el candidato perfecto para este fallo. El tráfico lento impide que el filtro se regenere, acumulando carbonilla hasta que salta el aviso en el cuadro. Nos especializamos en la diagnosis y limpieza de estos sistemas para que pases la ITV de Madrid sin problemas y evites una avería muy costosa."
+    },
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El ciclo de semáforo-atasco-badén de calles como Alberto Alcocer o Costa Rica es demoledor para el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda más en frenar, no lo dejes pasar. Un cambio a tiempo evita daños mayores en el volante motor y garantiza tu seguridad en el impredecible tráfico madrileño."
+    },
+    {
+      "title": "Averías en el sistema de aire acondicionado",
+      "body": "En Madrid, el aire acondicionado no es negociable de junio a septiembre. El calor extremo fuerza el compresor y las tuberías, causando fugas de gas o averías. Muchos sistemas fallan por no usarse en invierno y luego exigirles el máximo. Hacemos una revisión completa, detectamos fugas y recargamos el sistema para que no te derritas en el próximo atasco en la M-30."
+    },
+    {
+      "title": "Válvula EGR atascada por carbonilla",
+      "body": "La contaminación de la ciudad es la principal causa de que la válvula EGR se llene de hollín y deje de funcionar correctamente. Esto provoca tirones, pérdida de potencia y, sobre todo, un aumento de las emisiones de NOx, lo que significa un suspenso seguro en la ITV. Realizamos descarbonizaciones para limpiar el sistema y que tu motor vuelva a respirar bien."
+    },
+    {
+      "title": "Silentblocks y rótulas de suspensión",
+      "body": "Los badenes de hormigón en zonas residenciales como Prosperidad o Ciudad Jardín, junto con los baches que aparecen tras las lluvias, castigan la suspensión. Si escuchas ruidos metálicos al girar o pasar por un bache, es probable que los silentblocks o alguna rótula estén pidiendo un cambio. Revisamos todo el tren de rodaje para garantizar tu confort y seguridad."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos Madrid",
+      "body": "Sabemos lo que el tráfico, la contaminación y el clima de la capital le hacen a tu coche. Nuestro diagnóstico va directo al grano porque conocemos los problemas locales."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el precio que pagas. Sin extras inesperados ni letra pequeña. Creemos en la honestidad para construir una relación de confianza a largo plazo."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Tanto si conduces un coche de empresa de alta gama por El Viso como un utilitario familiar por Prosperidad, tu vehículo está en buenas manos. Tenemos la experiencia y el equipo para todos."
+    },
+    {
+      "title": "Gestión de ITV",
+      "body": "Ahorra tiempo y preocupaciones. Hacemos una revisión pre-ITV exhaustiva y, si lo necesitas, nos encargamos de llevar tu coche a la estación y devolvértelo con la pegatina puesta."
+    },
+    {
+      "title": "Hablamos tu idioma",
+      "body": "Te explicamos las averías de forma clara y sencilla. Olvídate de tecnicismos confusos. Queremos que entiendas qué le pasa a tu coche y por qué lo reparamos."
+    }
+  ],
+  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que resolvemos cada día en nuestro taller en la zona de Chamartín.",
+  "testimonials": [
+    {
+      "name": "Carlos",
+      "neighborhood": "El Viso",
+      "car": "BMW 520d 2016",
+      "body": "Tenía un viaje largo y el coche entró en modo protección en plena M-30. Lo traje aquí y enseguida vieron que era el filtro de partículas, un clásico por no salir de Madrid. Me explicaron el proceso de limpieza, me dieron un presupuesto cerrado y al día siguiente estaba listo. Un alivio saber que entienden estos problemas tan comunes aquí.",
+      "rating": 5
+    },
+    {
+      "name": "Lucía",
+      "neighborhood": "Prosperidad",
+      "car": "Peugeot 308 2018",
+      "body": "Cada año me agobiaba con la ITV. Aquí me hacen la revisión, la pre-ITV y si quiero hasta lo llevan ellos. Esta vez tocaron pastillas de freno, algo normal con tanto semáforo por Corazón de María. Me siento mucho más segura y me quitan un peso de encima. El trato es cercano y muy profesional.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Nueva España",
+      "car": "VW Tiguan 2015",
+      "body": "Oía un 'clonk' raro cada vez que pasaba por los badenes de mi calle y en el taller de la marca me daban cita para dentro de tres semanas. Aquí me lo cogieron al día siguiente, vieron que era un silentblock y lo cambiaron rápido. Muy eficaces y con un precio justo. Se nota que conocen los coches y los problemas del barrio.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Hispanoamérica",
+      "car": "SEAT Ibiza 2017",
+      "body": "Se me rompió el aire acondicionado en pleno julio, un infierno para ir a trabajar por Príncipe de Vergara. Me encontraron el fallo, una pequeña fuga, y lo recargaron. El precio fue razonable y el trato, genial. No intentaron venderme una reparación más cara. Me salvaron el verano, la verdad.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a todo el distrito de Chamartín y sus alrededores. Si vives o trabajas en barrios como El Viso, Prosperidad, Ciudad Jardín, Hispanoamérica, Nueva España o Castilla, estamos a tu lado. Nuestra ubicación nos permite ser también el taller de confianza para muchos conductores de distritos colindantes como Tetuán, Salamanca o Ciudad Lineal que buscan un servicio profesional y sin sorpresas. El acceso es cómodo desde las principales arterias de la zona, como el Paseo de la Castellana o la Avenida de Pío XII, y estamos perfectamente comunicados con la M-30, facilitando que nos dejes el coche de camino al trabajo.",
+  "zoneNeighborhoods": [
+    "El Viso",
+    "Prosperidad",
+    "Ciudad Jardín",
+    "Hispanoamérica",
+    "Nueva España",
+    "Castilla",
+    "Cuatro Caminos (Tetuán)",
+    "Guindalera (Salamanca)",
+    "Costillares (Ciudad Lineal)"
+  ],
+  "zoneAccessRoutes": [
+    "M-30 (Nudo Norte)",
+    "Paseo de la Castellana",
+    "A-1 (Autovía del Norte)",
+    "M-11 (Conexión Aeropuerto)",
+    "Avenida de Pío XII"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Tenéis en cuenta las restricciones de la ZBE de Madrid para la ITV?",
+      "a": "Por supuesto. Somos muy conscientes de la importancia de la prueba de emisiones en Madrid. En nuestra revisión pre-ITV, ponemos especial atención al sistema de inyección, la válvula EGR y el filtro de partículas, los puntos críticos para los coches que circulan por la ciudad. Nuestro objetivo es que tu coche cumpla la normativa y obtenga la pegatina sin ningún problema."
+    },
+    {
+      "q": "Mi coche es diésel y casi solo lo uso por ciudad, ¿qué mantenimiento especial necesita?",
+      "a": "Es una consulta muy habitual en Chamartín. Los diésel modernos necesitan salir a carretera para limpiar el filtro de partículas (FAP/DPF). Si solo haces trayectos cortos, recomendamos una descarbonización periódica del motor para limpiar la carbonilla acumulada en la admisión, la EGR y otros componentes. Esto previene averías caras y mejora el rendimiento y consumo."
+    },
+    {
+      "q": "Trabajo en las Cuatro Torres, ¿es fácil dejaros el coche por la mañana?",
+      "a": "Sí, muchos de nuestros clientes trabajan en el complejo de las Cuatro Torres o en la zona de AZCA. Entendemos que necesitas agilidad. Consúltanos al pedir cita y buscaremos la mejor forma de adaptarnos a tu horario para que la revisión o reparación de tu coche interfiera lo mínimo posible con tu jornada laboral."
+    },
+    {
+      "q": "Vivo en El Viso y tengo un coche de gama alta, ¿usáis recambios originales?",
+      "a": "Trabajamos con total flexibilidad. Por defecto, utilizamos recambios de primeras marcas que tienen la misma o superior calidad que los originales (OEM/OES), ofreciendo una excelente relación calidad-precio. Si prefieres que montemos exclusivamente piezas originales del fabricante de tu coche, solo tienes que solicitarlo y te prepararemos el presupuesto con ellas."
+    },
+    {
+      "q": "Con el tráfico de la M-30, ¿mis frenos se desgastan más rápido?",
+      "a": "Definitivamente, sí. El tráfico de Madrid, con sus constantes frenadas y aceleraciones, provoca un desgaste mucho más rápido de pastillas y discos de freno que una conducción por autovía. Por eso, en cada revisión, realizamos una inspección visual del sistema de frenado para avisarte con tiempo de cuándo te tocará cambiarlos, garantizando siempre tu seguridad."
+    },
+    {
+      "q": "¿Es normal que el aire acondicionado pierda fuerza en los veranos de Madrid?",
+      "a": "Es bastante común. Todos los sistemas de climatización pierden una pequeña cantidad de gas cada año de forma natural. Tras varios veranos, la cantidad puede ser insuficiente para enfriar con la intensidad del primer día. Recomendamos hacer una revisión y recarga del sistema cada dos años, antes de que llegue el calor fuerte, para asegurar su óptimo funcionamiento."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto para Madrid",
+  "closingCta": "Si tu coche necesita una revisión o notas algo raro, no esperes más. Pide tu presupuesto cerrado para nuestro taller en la zona de Chamartín. Llámanos o escríbenos y te atenderemos sin compromiso.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Chamartín",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@taller-madrid.es",
+    "addressStreet": ""
+  }
+}

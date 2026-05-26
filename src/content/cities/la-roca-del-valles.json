@@ -1,0 +1,183 @@
+{
+  "slug": "la-roca-del-valles",
+  "name": "La Roca del Vallès",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 10214,
+  "lat": 41.58333,
+  "lng": 2.33333,
+  "metaTitle": "Taller mecánico en La Roca del Vallès — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en La Roca del Vallès. Presupuestos cerrados para revisiones, averías y neumáticos. Cerca de la AP-7. Pide tu cita online.",
+  "heroSubtitle": "Cansado de sorpresas con el coche que usas cada día por la AP-7 o la C-60? Te damos un presupuesto cerrado, claro y sin líos.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Sabemos que en La Roca del Vallès tu coche es mucho más que un vehículo: es la herramienta que te permite ir a trabajar cada día a Granollers, Mollet o Barcelona, o la que te lleva los fines de semana a disfrutar del Montseny o de las playas del Maresme. Entendemos perfectamente lo que significa depender del coche para coger la AP-7 en hora punta o para moverte por la C-60. Este uso intensivo, con sus atascos y sus kilómetros diarios, pasa factura al embrague, los frenos y la suspensión. No es lo mismo un coche que solo se mueve por el centro del pueblo que uno que hace 80 kilómetros diarios de autopista y rondas.\n\nEl parque móvil del Vallès Oriental es muy variado, pero conocemos bien lo que más se conduce por aquí. Vemos a diario los SEAT León, Volkswagen Golf, Peugeot 308 o Renault Mégane diésel de entre 2010 y 2018, coches fiables que necesitan un mantenimiento preventivo para seguir siéndolo. También trabajamos con los SUV que tanto se ven por las urbanizaciones de La Roca o Cardedeu, y con las furgonetas de autónomos y pequeñas empresas locales, como Citroën Berlingo o Ford Transit Connect, que no pueden permitirse estar paradas ni un solo día.\n\nEl clima del Vallès también tiene sus particularidades. Los veranos calurosos ponen a prueba el sistema de aire acondicionado y la refrigeración del motor, mientras que las mañanas frías y húmedas del invierno son el principal enemigo de las baterías, sobre todo si haces trayectos cortos para ir al supermercado o al colegio de los niños en Santa Agnès de Malanyanes. Las lluvias torrenciales ocasionales exigen tener los neumáticos y los limpiaparabrisas en perfecto estado para conducir con seguridad por la C-60 o la AP-7.\n\nPor todo esto, nuestro enfoque en La Roca es directo y honesto. No somos un taller genérico; somos mecánicos que conocemos los coches y las carreteras de la zona. Cuando nos traes tu vehículo, no solo vemos una avería, vemos a un vecino de La Roca, Vilanova del Vallès o Llinars que necesita una solución fiable y a un precio justo. Por eso, nuestro pilar es el presupuesto cerrado: estudamos tu caso, te damos un precio final y no tocamos un solo tornillo sin tu aprobación. Queremos ser tu taller de confianza en el Vallès, el sitio al que vienes sabiendo que te diremos la verdad y que no te llevarás sorpresas en la factura.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV en Granollers hasta la reparación del embrague desgastado por el tráfico de la AP-7, lo cubrimos todo.",
+  "processIntro": "En nuestro taller de La Roca del Vallès, la confianza es lo primero. Por eso te explicamos todo y te damos un presupuesto cerrado antes de empezar.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, un mecánico experto lo revisa a fondo. Escuchamos lo que te preocupa y usamos equipos de diagnosis para identificar el origen del problema con precisión, sin especulaciones."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin sorpresas. Incluye piezas, mano de obra e IVA. Es el precio final que pagarás, ni un euro más. Te lo enviamos para que lo revises con calma."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No empezamos ninguna reparación hasta que nos das tu visto bueno. Si durante el proceso surgiera algo imprevisto (algo muy poco común), te llamaríamos al momento para explicarlo y pedir tu aprobación de nuevo."
+    },
+    {
+      "title": "Reparación",
+      "body": "Nuestros mecánicos se ponen manos a la obra utilizando recambios de primeras marcas y siguiendo las especificaciones del fabricante. Todas nuestras reparaciones y piezas tienen garantía para tu total tranquilidad."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado y te entregamos la factura. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario por el Vallès, con los atascos para ir a Barcelona y el calor del verano, provoca averías muy concretas que conocemos y solucionamos a diario en La Roca.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico lento y las paradas constantes en la AP-7 y C-17 para ir a trabajar a Granollers o Barcelona castigan mucho el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de revisarlos para evitar una avería mayor."
+    },
+    {
+      "title": "Fallos en el aire acondicionado",
+      "body": "Los veranos en el interior del Vallès son calurosos. Forzar el climatizador al máximo durante meses puede provocar fugas de gas, fallos en el compresor o malos olores por bacterias. Una recarga a tiempo y una revisión del circuito te aseguran un verano fresco y sin sorpresas."
+    },
+    {
+      "title": "Baterías que mueren en invierno",
+      "body": "Las mañanas frías y húmedas de La Roca son la prueba de fuego para las baterías con algunos años. Si usas el coche para trayectos cortos por el pueblo, es posible que no se recargue del todo. Un aviso a tiempo con una comprobación gratuita puede evitar que te deje tirado."
+    },
+    {
+      "title": "Filtros de partículas (FAP) obstruidos",
+      "body": "Muchos coches diésel del Vallès combinan trayectos por autopista con recorridos cortos. Esta mezcla a veces no permite que el filtro de partículas se regenere correctamente, provocando pérdida de potencia y averías costosas. Conocemos los ciclos y cómo forzar una limpieza o solucionarlo."
+    },
+    {
+      "title": "Suspensión y neumáticos castigados",
+      "body": "Entre las rotondas de las zonas nuevas, los badenes y el estado de algunas carreteras comarcales como la BP-5002, los amortiguadores y los neumáticos sufren. Un desgaste irregular de las ruedas o ruidos extraños al pasar por un bache son síntomas claros que revisamos para garantizar tu seguridad."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos tu día a día",
+      "body": "Sabemos lo que es conducir por la AP-7 en hora punta o callejear por el centro de La Roca. Adaptamos nuestro diagnóstico y recomendaciones al uso real que le das a tu coche en la comarca del Vallès Oriental."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Sin extras de última hora ni letra pequeña. Creemos que la confianza empieza por la transparencia total en la factura, para que puedas planificar tus gastos sin imprevistos."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un SEAT, un Mercedes, un Ford o un Dacia. Tenemos la experiencia y el equipo de diagnosis para trabajar con la gran mayoría de coches que circulan por nuestras carreteras, siempre con recambios de calidad."
+    },
+    {
+      "title": "Cerca de ti en La Roca",
+      "body": "Estamos en La Roca del Vallès, a un paso de tu casa o trabajo. Olvídate de tener que ir hasta Granollers o Mataró para encontrar un taller de confianza. Te ofrecemos un servicio profesional aquí mismo."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "Te explicamos claramente qué le pasa a tu coche, qué reparaciones son urgentes y cuáles pueden esperar. Nunca te recomendaremos cambiar una pieza que no sea estrictamente necesaria. Tu seguridad y tu bolsillo son nuestra prioridad."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de casos reales de conductores como tú, de La Roca y alrededores, que ya han confiado en nuestro servicio.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Centre (La Roca)",
+      "car": "SEAT León 1.6 TDI 2015",
+      "body": "Hago cada día el trayecto La Roca - Granollers por trabajo y el embrague empezaba a patinar. Me daba miedo la factura, pero aquí me dieron un presupuesto cerrado desde el principio, más bajo que en otros sitios. Fueron rápidos y el coche va perfecto ahora. Muy profesionales y transparentes.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Santa Agnès de Malanyanes",
+      "car": "Peugeot 2008 1.2 PureTech 2018",
+      "body": "Lo llevé para la revisión anual antes de pasar la ITV. Les comenté que el aire acondicionado no enfriaba como antes, pensando en el verano. Lo revisaron, encontraron una pequeña fuga, la repararon y recargaron el gas. Todo en el mismo día y con un precio muy razonable. Pasé la ITV sin problemas.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Cardedeu",
+      "car": "Ford Transit Connect 2016",
+      "body": "Soy autónomo y la furgoneta es mi oficina. Me quedé casi sin frenos y necesitaba una solución urgente. Les llamé y entendieron el problema. Me hicieron un hueco, me cambiaron pastillas y discos en la misma mañana y pude seguir trabajando por la tarde. Eficacia y buen trato.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "La Torreta",
+      "car": "Renault Clio 2012",
+      "body": "Una mañana de invierno el coche no arrancó. Pensé que sería algo grave, pero lo llevé al taller y era solo la batería. Me la comprobaron delante de mí, me enseñaron que no cargaba y me pusieron una nueva a buen precio, sin intentar venderme nada más. Se agradece la honestidad.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio principalmente a conductores de La Roca del Vallès, incluyendo sus núcleos como Santa Agnès de Malanyanes y La Torreta. Nuestra ubicación es ideal para clientes de municipios vecinos que buscan un taller de confianza sin tener que entrar en grandes ciudades. Acuden a nosotros a diario vecinos de Cardedeu, Llinars del Vallès y Vilanova del Vallès. También estamos a pocos minutos para quienes viven en Argentona o Dosrius y utilizan la C-60 para sus desplazamientos. Gracias a nuestro fácil acceso desde la autopista AP-7 y la carretera C-60, somos una opción cómoda y rápida para resolver cualquier problema mecánico o realizar el mantenimiento de tu coche.",
+  "zoneNeighborhoods": [
+    "Centre (La Roca)",
+    "Santa Agnès de Malanyanes",
+    "La Torreta",
+    "Cardedeu",
+    "Llinars del Vallès",
+    "Vilanova del Vallès",
+    "Argentona",
+    "Dosrius",
+    "Òrrius",
+    "Granollers"
+  ],
+  "zoneAccessRoutes": [
+    "AP-7",
+    "C-60",
+    "BV-5105",
+    "BP-5002",
+    "C-35"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la revisión pre-ITV para pasarla en la estación de Granollers?",
+      "a": "Sí, por supuesto. Es uno de nuestros servicios más demandados. Hacemos una revisión completa de los puntos clave que miran en la ITV de Granollers: luces, frenos, neumáticos, emisiones, etc. Si encontramos algún defecto, te damos un presupuesto para solucionarlo y que puedas ir a la inspección con la total tranquilidad de que la pasarás a la primera."
+    },
+    {
+      "q": "Mi coche es diésel y hago trayectos cortos por La Roca, ¿debo preocuparme por el filtro de partículas?",
+      "a": "Es una preocupación muy común y justificada. Los trayectos cortos no permiten que el motor alcance la temperatura necesaria para limpiar (regenerar) el filtro de partículas (FAP), lo que puede llevar a obstrucciones y averías. Te recomendamos que, al menos una vez por semana, hagas un trayecto de 20-30 minutos por la AP-7 a un régimen de revoluciones constante para ayudarle. Si ya notas tirones o pérdida de potencia, tráenoslo para un diagnóstico."
+    },
+    {
+      "q": "Tengo que coger la AP-7 cada día, ¿qué mantenimiento es más importante?",
+      "a": "Para un uso intensivo en autopista como el de la AP-7, la seguridad es lo primero. Prioriza tener los neumáticos en perfecto estado y con la presión correcta, ya que son tu único contacto con el asfalto. También es crucial el sistema de frenos y la suspensión. Un mantenimiento preventivo de estos elementos te dará seguridad y evitará sustos, especialmente en días de lluvia."
+    },
+    {
+      "q": "¿Tenéis experiencia con las furgonetas de autónomos que trabajamos por el polígono Can Font de la Parera?",
+      "a": "Totalmente. Sabemos que para un profesional, la furgoneta es una herramienta de trabajo y no puede estar parada. Entendemos la urgencia y tratamos de dar prioridad a estos vehículos. Tenemos experiencia en el mantenimiento y reparación de los modelos más comunes (Berlingo, Partner, Kangoo, Transit, etc.), especialmente en elementos de desgaste como embragues, frenos y distribución."
+    },
+    {
+      "q": "Vivo en Cardedeu, ¿es fácil llegar al taller?",
+      "a": "Sí, es muy sencillo. Estamos muy cerca y bien comunicados. Dependiendo de la zona de Cardedeu donde vivas, puedes llegar en menos de 10 minutos por la carretera BV-5105. Muchos de nuestros clientes son de Cardedeu y valoran la comodidad de tener un taller de confianza tan a mano, sin necesidad de desplazarse más lejos."
+    },
+    {
+      "q": "En verano el aire acondicionado no enfría lo suficiente, ¿es una avería cara?",
+      "a": "No tiene por qué serlo. La causa más habitual es simplemente que el sistema ha perdido parte del gas refrigerante con el tiempo, lo cual se soluciona con una recarga a un precio asequible. También puede ser un filtro sucio. Antes de pensar en una avería del compresor, que sí es más cara, hacemos un diagnóstico completo para encontrar la causa real y darte la solución más económica posible."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en La Roca del Vallès",
+  "closingCta": "No dejes que una avería te complique la semana. Pide tu presupuesto cerrado para tu coche en La Roca del Vallès por teléfono, WhatsApp o rellenando el formulario online. Te daremos una solución clara y honesta."
+}

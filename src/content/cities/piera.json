@@ -1,0 +1,182 @@
+{
+  "slug": "piera",
+  "name": "Piera",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 15362,
+  "lat": 41.52232,
+  "lng": 1.75076,
+  "metaTitle": "Taller mecánico en Piera — Multimarca y de confianza",
+  "metaDescription": "Presupuesto cerrado para tu coche en Piera. Revisión, mecánica, neumáticos y pre-ITV para todas las marcas. Cuidamos tu coche como si fuera nuestro. Pide cita.",
+  "heroSubtitle": "Cansado de los sustos en la factura y de perder tiempo en el taller? Te damos un presupuesto cerrado para que sigas con tu día a día en Piera.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives en Piera, sabes que el coche no es un lujo, es una necesidad. Lo usas para todo: para llevar a los niños al colegio, para ir a comprar, para subir a las urbanizaciones como Can Mas o Can Bonastre y, sobre todo, para ir a trabajar. Muchos de vosotros cogéis cada día la B-224 dirección Martorell y la A-2, o hacia Igualada. Ese trayecto diario, con sus atascos y su ritmo constante, es el día a día de tu vehículo, y nosotros lo entendemos porque también es el nuestro. Conocemos el desgaste que esto supone y estamos aquí para que una avería no te chafe la rutina.\n\nEl parque móvil de Piera y alrededores es un reflejo de su gente: práctico y trabajador. Vemos a diario muchos SEAT, y es normal, con la fábrica de Martorell al lado. Leones, Ibizas y Atecas son parte del paisaje, junto a los fiables Renault Mégane, Peugeot 308 y Ford Focus que tantos usáis para el trabajo. Son coches, en su mayoría diésel o gasolina de entre 4 y 15 años, que necesitan un mantenimiento riguroso para seguir siendo fiables: cambios de aceite y filtros a tiempo, la correa de distribución cuando toca y un embrague que responda bien en el tráfico de la mañana.\n\nAdemás, el clima del interior de Barcelona también juega su papel. Los veranos secos y calurosos ponen a prueba el sistema de aire acondicionado, que más vale que funcione cuando aprieta el sol. Y en invierno, las mañanas frías y húmedas en la comarca del Anoia son el enemigo número uno de las baterías con unos años a sus espaldas. A esto le sumamos la geografía: las cuestas de muchas urbanizaciones de Piera castigan los frenos y la suspensión, y el polvo de los caminos rurales puede obstruir los filtros antes de tiempo. Son pequeños detalles que marcan la diferencia entre un mantenimiento genérico y uno pensado para tu coche y tu entorno.\n\nPor eso, nuestro taller en Piera no es uno más. No vemos tu coche como una matrícula, sino como la herramienta que te permite vivir y trabajar. Te ofrecemos un diagnóstico honesto y un presupuesto cerrado, sin sorpresas. Da igual la marca que conduzcas; tenemos la experiencia y la tecnología para cuidarlo como se merece. Desde la revisión anual antes de bajar a la playa en verano, hasta esa avería inesperada un lunes por la mañana, estamos aquí para darte una solución profesional, cercana y adaptada a la realidad de conducir por Piera y sus alrededores.",
+  "servicesIntro": "Desde la revisión anual antes de las vacaciones hasta la pre-ITV para ir tranquilo, en nuestro taller de Piera cubrimos toda la mecánica de tu vehículo.",
+  "processIntro": "No nos gustan las sorpresas, y sabemos que a ti tampoco. Por eso nuestro proceso es transparente: te explicamos el problema y te damos un presupuesto cerrado.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando tu coche llega a nuestro taller en Piera, lo primero es escucharte. Después, nuestros técnicos realizan una inspección completa y conectan los equipos de diagnosis para encontrar el origen exacto del problema."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado sin letra pequeña. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas, sin sustos de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No movemos ni un solo tornillo sin tu visto bueno. Te llamamos o te enviamos el presupuesto por WhatsApp para que lo revises con calma. Tú tienes siempre la última palabra sobre la reparación."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos se ponen manos a la obra para dejar tu coche perfecto en el tiempo acordado, manteniéndote informado durante todo el proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos con detalle la reparación realizada. Unos días más tarde, te contactamos para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario del coche en Piera, con el trote por la B-224 y las cuestas de las urbanizaciones, provoca averías muy típicas que conocemos y solucionamos a diario.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico lento para salir de Piera hacia Martorell y las pendientes de zonas como Can Claramunt o El Bosc de l'Àliga castigan mucho el embrague y los frenos. Realizamos una revisión completa y sustituimos los componentes con recambios de calidad para que conduzcas con total seguridad."
+    },
+    {
+      "title": "Problemas con el aire acondicionado",
+      "body": "Los veranos secos y calurosos del interior no perdonan. Si el aire acondicionado de tu coche no enfría, puede ser una fuga o falta de gas. Diagnosticamos el circuito, reparamos la avería y lo recargamos para que no pases calor en tus trayectos por la zona."
+    },
+    {
+      "title": "Fallos de batería en invierno",
+      "body": "Las mañanas frías y húmedas de Piera son fatales para una batería con algunos años. Si notas que al coche le cuesta arrancar, no esperes a quedarte tirado. Comprobamos el estado de tu batería y el alternador y la cambiamos si es necesario para que tu coche arranque siempre a la primera."
+    },
+    {
+      "title": "Suspensión y neumáticos castigados",
+      "body": "El asfalto irregular de algunas calles en las urbanizaciones y los badenes constantes pasan factura a amortiguadores y neumáticos. Unos amortiguadores gastados aumentan la distancia de frenado y el coche es más inestable. Revisamos todo el sistema para garantizar tu confort y seguridad."
+    },
+    {
+      "title": "Mantenimiento de motores diésel (FAP/EGR)",
+      "body": "Muchos coches que hacen el trayecto diario Piera-Martorell son diésel. Estos recorridos pueden saturar el filtro de partículas (FAP) y la válvula EGR. Realizamos diagnosis y limpiezas específicas para evitar averías costosas y para que pases la ITV sin problemas de humos."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Somos de aquí, como tú",
+      "body": "Conocemos Piera, sus carreteras y los coches que circulan por ellas. Te hablamos claro, sin tecnicismos, y te damos soluciones reales para los problemas de tu vehículo en esta zona."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Sin extras inesperados ni llamadas para inflar la factura. Transparencia total desde el primer momento para que no te lleves sustos."
+    },
+    {
+      "title": "Expertos en todas las marcas",
+      "body": "No importa si conduces un SEAT de Martorell, un Renault, un Audi o un Dacia. Tenemos la tecnología y la formación para cuidar de cualquier coche que entre por nuestra puerta."
+    },
+    {
+      "title": "Agilidad para que no te pares",
+      "body": "Sabemos que necesitas el coche para tu día a día. Por eso, trabajamos de forma eficiente para devolverte tu vehículo lo antes posible, sin sacrificar la calidad de la reparación."
+    },
+    {
+      "title": "La ITV, a la primera",
+      "body": "Te toca pasar la ITV en Sant Andreu de la Barca o Igualada? Realizamos una revisión pre-ITV completa, cubriendo todos los puntos críticos para que vayas tranquilo y la apruebes sin fallos."
+    }
+  ],
+  "testimonialsIntro": "Estos son ejemplos de situaciones reales que vivimos cada día con conductores de Piera. Así es como ayudamos a nuestros vecinos a seguir en marcha.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Can Mas",
+      "car": "SEAT León ST 2016",
+      "body": "Hago cada día el trayecto a Martorell y el coche empezó a dar tirones. Pensé que sería algo gordo. Aquí me lo miraron rápido, era un problema con un inyector. Me dieron presupuesto cerrado, lo acepté y al día siguiente ya lo tenía. Muy profesionales, te explican las cosas claras.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat",
+      "neighborhood": "Centre Vila",
+      "car": "Peugeot 2008 2018",
+      "body": "Se me encendió una luz de motor y me asusté. Los llamé y me dieron cita enseguida. Era un tema del filtro de partículas por hacer mucha ciudad. Me lo solucionaron y me explicaron cómo evitar que volviera a pasar. Un trato muy cercano y honesto, que se agradece.",
+      "rating": 5
+    },
+    {
+      "name": "David",
+      "neighborhood": "Can Bonastre",
+      "car": "Renault Clio 2012",
+      "body": "Tenía que pasar la ITV y no estaba seguro de los frenos, que hacían ruido al bajar las cuestas de la urbanización. Les pedí una revisión pre-ITV y encontraron las pastillas traseras gastadas. Me las cambiaron a un precio razonable y pasé la ITV a la primera. Me ahorraron tiempo y un segundo viaje.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "La Fortesa",
+      "car": "Ford Focus 2014",
+      "body": "El aire acondicionado dejó de enfriar justo al empezar el calor. En otros sitios me daban largas. Aquí me hicieron la diagnosis, encontraron una pequeña fuga, la repararon y lo recargaron en el mismo día. El precio fue el que me dijeron al principio. Un servicio eficaz.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda Piera y sus alrededores. Tanto si vives en el núcleo urbano como en alguna de las urbanizaciones como Can Mas, Can Bonastre, Can Claramunt o El Bosc de l'Àliga, estamos a tu disposición. Nuestra ubicación es ideal para quienes usan la B-224 a diario para ir hacia Martorell o Igualada. También cubrimos municipios vecinos como Masquefa, Hostalets de Pierola y Vallbona d'Anoia, que están a pocos minutos en coche. Si vienes desde la A-2 o la AP-7, el acceso por Martorell es directo. Somos el taller de confianza para toda la zona sur de la comarca de Anoia y el límite con el Baix Llobregat.",
+  "zoneNeighborhoods": [
+    "Can Mas",
+    "Can Bonastre",
+    "Can Claramunt",
+    "El Bosc de l'Àliga",
+    "Centre Vila",
+    "Masquefa",
+    "Hostalets de Pierola",
+    "Vallbona d'Anoia",
+    "La Fortesa",
+    "Sant Jordi"
+  ],
+  "zoneAccessRoutes": [
+    "B-224",
+    "A-2",
+    "C-15",
+    "BV-2241"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la pre-ITV para pasarla en la estación de Sant Andreu de la Barca?",
+      "a": "Sí, por supuesto. Conocemos perfectamente los puntos que revisan en las estaciones de ITV de nuestra zona, como la de Sant Andreu de la Barca o la de Igualada. Hacemos una revisión completa de frenos, luces, neumáticos, emisiones y holguras para que vayas con la total tranquilidad de que tu coche la pasará a la primera, ahorrándote un segundo viaje y posibles sanciones."
+    },
+    {
+      "q": "Vivo en una urbanización de Piera con calles empinadas, ¿revisáis los frenos a fondo?",
+      "a": "Absolutamente. Sabemos que vivir en zonas como Can Bonastre o Can Claramunt supone un desgaste extra para los frenos. En nuestras revisiones, no solo miramos las pastillas, también comprobamos el estado de los discos, el líquido de frenos y todo el circuito para garantizar una frenada segura y eficaz en cualquier pendiente."
+    },
+    {
+      "q": "Mi coche es diésel y hago el trayecto a Barcelona por la A-2, ¿qué mantenimiento especial necesita?",
+      "a": "Para un uso así, es clave vigilar el sistema anticontaminación. El tráfico denso puede saturar el filtro de partículas (FAP). Recomendamos revisiones periódicas para comprobar su estado y realizar limpiezas preventivas si es necesario, evitando así averías más caras y asegurando que las emisiones de humos sean correctas para la ITV."
+    },
+    {
+      "q": "Tengo un SEAT, ¿usáis recambios originales?",
+      "a": "Trabajamos con recambios de primeras marcas que cumplen o superan las especificaciones del fabricante, incluyendo las de SEAT. Esto nos permite ofrecerte una reparación de calidad con total garantía, a un precio más competitivo que el concesionario oficial. Tu coche estará en las mejores manos."
+    },
+    {
+      "q": "¿Tardáis mucho en dar cita? Necesito el coche para trabajar.",
+      "a": "Entendemos la urgencia. En Piera, el coche es indispensable. Siempre intentamos darte cita lo antes posible, especialmente si se trata de una avería que te impide moverte. Llámanos y buscaremos el primer hueco disponible para que puedas seguir con tu rutina cuanto antes."
+    },
+    {
+      "q": "El aire acondicionado de mi coche no enfría, ¿con el calor de aquí es una reparación cara?",
+      "a": "No tiene por qué serlo. Muchas veces es solo una recarga de gas. Lo primero que hacemos es una diagnosis para localizar el problema. Si es una simple recarga, el coste es bajo. Si hay una fuga, te damos un presupuesto cerrado para repararla. Con los veranos de la zona, es una reparación que merece la pena."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Piera",
+  "closingCta": "No dejes que una avería te pare. Pide tu presupuesto cerrado para tu coche en Piera. Llámanos o escríbenos por WhatsApp y te atenderemos sin compromiso."
+}

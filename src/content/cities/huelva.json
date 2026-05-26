@@ -1,0 +1,183 @@
+{
+  "slug": "huelva",
+  "name": "Huelva",
+  "province": "Huelva",
+  "ccaa": "Andalucía",
+  "population": 144258,
+  "lat": 37.26638,
+  "lng": -6.94004,
+  "metaTitle": "Taller mecánico en Huelva — Multimarca y de confianza",
+  "metaDescription": "Tu taller de confianza en Huelva para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. ¡Pide tu cita y conduce tranquilo!",
+  "heroSubtitle": "¿Cansado de talleres en Huelva que no son claros con la factura? Aquí tienes un presupuesto cerrado antes de empezar. Sin sorpresas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Huelva y sus alrededores tiene sus particularidades. No es lo mismo hacer el trayecto diario desde La Orden o El Higueral hasta el centro, con sus semáforos y rotondas, que coger la A-497 cada fin de semana para escapar a las playas de Punta Umbría o El Portil. O si eres de los que usa la A-49 a diario para ir a trabajar a la zona del Condado o incluso a Sevilla. Cada uno de esos trayectos pone a prueba tu coche de una manera diferente, y en nuestro taller de Huelva lo sabemos porque vivimos y conducimos aquí, igual que tú.\n\nEl parque móvil onubense es práctico y trabajador. Vemos a diario muchos SEAT Ibiza, Renault Megane, Citroën C4 o Ford Focus, coches fiables que ya tienen unos años y necesitan un mantenimiento honesto para seguir dando guerra. Son los coches que llevan a los niños al colegio en Isla Chica, que se usan para hacer la compra en el Molino de la Vega o que sirven como herramienta de trabajo para autónomos que se mueven por toda la provincia, desde la Sierra hasta la Costa. Entendemos que tu coche no es un lujo, es una necesidad, y lo tratamos con el respeto que eso merece.\n\nEl clima de Huelva, con su calor intenso en verano y esa humedad atlántica que cala los huesos en invierno, también pasa factura a la mecánica. Ese calor sofocante de julio y agosto pone al límite el sistema de refrigeración y el aire acondicionado justo cuando más los necesitas. La humedad y la cercanía al mar, con el salitre en el aire, pueden acelerar la corrosión en los bajos y en componentes electrónicos si no se vigila. Y no podemos olvidar el polvo en suspensión, a veces con partículas de la industria cercana, que obstruye los filtros de aire y habitáculo antes de lo previsto.\n\nPor eso, un taller en Huelva no puede ser un simple cambia-piezas. Debe entender el contexto. Debe saber que un embrague sufre más en los atascos de la H-30 en hora punta, que los neumáticos se desgastan de forma particular con el asfalto caliente y que un diésel que solo hace trayectos cortos por la ciudad para ir de Pescadería al centro comercial Holea acabará dando problemas con el filtro de partículas. Nuestro enfoque se basa en este conocimiento local: diagnosticamos pensando en cómo usas tu coche en Huelva, no solo en lo que dice el manual.",
+  "servicesIntro": "Desde la revisión anual antes de irte de vacaciones a la costa hasta esa avería inesperada, cubrimos todas las necesidades de tu coche en Huelva.",
+  "processIntro": "Trabajamos con total transparencia para que siempre sepas qué le pasa a tu coche, cuánto va a costar y solo reparemos con tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y nuestros técnicos realizan una inspección completa para identificar el origen del problema con equipos de diagnosis multimarca."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas, sin costes ocultos ni sorpresas de última hora. Todo claro desde el principio."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ninguna pieza ni empezamos a trabajar hasta que nos das tu confirmación explícita. Tú tienes el control total sobre la reparación y el gasto en todo momento."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan la reparación siguiendo los estándares del fabricante para asegurar un trabajo bien hecho y duradero."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche esté listo para recoger. Te explicamos la reparación realizada y nos aseguramos de que todo esté a tu gusto. Tu satisfacción es nuestra prioridad."
+    }
+  ],
+  "commonIssuesIntro": "El calor, la humedad y el tipo de trayectos en Huelva provocan una serie de averías muy características que vemos a diario en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Fallos en el aire acondicionado",
+      "body": "Llegar a julio en Huelva sin aire acondicionado es una tortura. El calor extremo fuerza el compresor y puede provocar fugas en el circuito. Muchos coches llegan en junio con el sistema bajo de gas o con averías que han estado latentes todo el invierno. Hacemos una revisión completa para que no te derritas de camino a la playa."
+    },
+    {
+      "title": "Obstrucción de filtros de partículas (FAP/DPF)",
+      "body": "El uso urbano es el enemigo número uno de los diésel modernos. Los trayectos cortos por Huelva, de casa al trabajo sin apenas salir a la H-30 o la A-49, impiden que el filtro se regenere. Esto causa pérdida de potencia y averías costosas. Diagnosticamos el estado del filtro y te asesoramos para evitar el problema."
+    },
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El tráfico denso en las entradas y salidas de Huelva, especialmente para quienes viven en Aljaraque o Gibraleón y trabajan en la capital, castiga mucho el embrague y los frenos. El constante 'arranca y para' reduce su vida útil. Revisamos su estado para garantizar tu seguridad en los atascos de cada día."
+    },
+    {
+      "title": "Corrosión por ambiente salino e industrial",
+      "body": "La combinación del salitre de la costa y el ambiente del Polo Químico crea un cóctel que ataca silenciosamente los bajos del coche, el escape y las partes metálicas del motor. En nuestra revisión pre-ITV ponemos especial atención a estos puntos críticos, muy vigilados en la inspección, para evitarte un desfavorable."
+    },
+    {
+      "title": "Problemas de refrigeración del motor",
+      "body": "Con temperaturas que superan los 40 grados en verano, el sistema de refrigeración trabaja al máximo. Manguitos resecos por el calor, termostatos que fallan o radiadores sucios pueden provocar un calentón grave en plena A-49. Una revisión a tiempo del nivel de anticongelante y del estado del circuito es fundamental en Huelva."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Somos de Huelva",
+      "body": "Entendemos los problemas específicos de conducir aquí porque los vivimos. No te tratamos como un número, sino como un vecino."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "El precio que te damos es el que pagas. Si durante la reparación surge un imprevisto, paramos y te llamamos. Tú decides."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un Peugeot con diez años o un SUV más nuevo. Tenemos la tecnología y el conocimiento para cuidar de tu coche."
+    },
+    {
+      "title": "Comunicación directa",
+      "body": "Te mantenemos informado por WhatsApp o teléfono con un lenguaje claro. Olvídate de los tecnicismos que nadie entiende."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Todas nuestras reparaciones y piezas están garantizadas por escrito, para que conduzcas con total tranquilidad por Huelva y más allá."
+    }
+  ],
+  "testimonialsIntro": "No nos creas solo a nosotros. Estas son algunas situaciones típicas de conductores de Huelva a los que hemos ayudado a volver a la carretera.",
+  "testimonials": [
+    {
+      "name": "Manuel",
+      "neighborhood": "La Orden",
+      "car": "Renault Megane dCi 2015",
+      "body": "El coche empezó a dar tirones y se encendió el testigo de avería. Lo uso todos los días para ir al trabajo por la H-30 y ya me temía lo peor con el filtro de partículas. Aquí me lo diagnosticaron rápido, me explicaron el problema sin rodeos y me dieron una solución sensata. El coche va perfecto ahora. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Rocío",
+      "neighborhood": "Isla Chica",
+      "car": "SEAT Ibiza 1.2 TSI 2017",
+      "body": "Justo antes de irnos a la playa de Mazagón en pleno agosto, el aire acondicionado dejó de enfriar. Con dos niños pequeños, era un drama. Les llamé desesperada y me hicieron un hueco. Encontraron una pequeña fuga, la repararon y recargaron el gas. Me salvaron el fin de semana. Trato cercano y eficiente.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Aljaraque",
+      "car": "Peugeot 308 2014",
+      "body": "Notaba que el embrague patinaba un poco, sobre todo en las cuestas para salir del pueblo. Hago el trayecto a Huelva a diario y no quería quedarme tirado. Me dieron un presupuesto cerrado para el kit de embrague, más bajo que en otros sitios, y cumplieron el plazo. Ahora las marchas entran suaves como la seda. Muy contento.",
+      "rating": 5
+    },
+    {
+      "name": "Carmen",
+      "neighborhood": "El Molino de la Vega",
+      "car": "Opel Corsa 2012",
+      "body": "Tenía que pasar la ITV y no estaba segura de si los frenos y las ruedas estaban bien. Me hicieron una revisión pre-ITV muy completa y vieron que las pastillas traseras estaban en las últimas. Me lo cambiaron en el mismo día y pasó la inspección sin un solo fallo. Me ahorraron tiempo y un posible segundo viaje a la ITV.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Huelva, desde los barrios más céntricos como Pescadería o el Molino de la Vega, hasta las zonas más residenciales como La Orden, El Higueral o Isla Chica. Gracias a nuestra ubicación, somos el taller de referencia para muchos conductores de los pueblos del área metropolitana. Si vienes de Aljaraque o Bellavista, estás a un paso por la A-497. También atendemos a clientes de Gibraleón, San Juan del Puerto y Trigueros que utilizan la H-31 y la N-435 para entrar en Huelva. Y si vives en Punta Umbría, somos una opción cómoda para el mantenimiento de tu coche sin tener que buscar más lejos.",
+  "zoneNeighborhoods": [
+    "La Orden",
+    "Isla Chica",
+    "El Molino de la Vega",
+    "Pescadería",
+    "El Higueral",
+    "Centro",
+    "Aljaraque",
+    "Gibraleón",
+    "Punta Umbría",
+    "San Juan del Puerto"
+  ],
+  "zoneAccessRoutes": [
+    "A-49 (Autovía del V Centenario)",
+    "H-30 (Ronda Exterior de Huelva)",
+    "H-31 (Acceso a Huelva)",
+    "A-497 (Autovía de la Costa de la Luz)",
+    "N-435"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Es verdad que el calor de Huelva desgasta más los neumáticos?",
+      "a": "Sí, el asfalto a altas temperaturas acelera el desgaste del compuesto de goma del neumático. Además, una presión incorrecta con el calor puede ser peligrosa. Recomendamos revisar la presión de las ruedas una vez al mes, sobre todo en verano, y hacer una inspección visual en busca de grietas o deformaciones antes de cualquier viaje largo por la A-49."
+    },
+    {
+      "q": "Vivo cerca de la ría y el Polo Químico, ¿mi coche necesita algún cuidado especial?",
+      "a": "Sí. La combinación de humedad, salitre y ambiente industrial puede acelerar la corrosión de la carrocería y afectar a los componentes electrónicos. Es recomendable lavar el coche con frecuencia, prestando especial atención a los bajos, y realizar revisiones periódicas del sistema eléctrico para prevenir fallos en los conectores y centralitas."
+    },
+    {
+      "q": "Uso el coche diésel solo para moverme por Huelva. ¿Qué puedo hacer para evitar problemas con el FAP?",
+      "a": "Es un problema muy común. Para ayudar a que el filtro de partículas se regenere, te recomendamos que al menos una vez cada dos semanas salgas a carretera. Un trayecto de 20-30 minutos por la H-30 o la A-497 a un régimen de unas 2.500 rpm suele ser suficiente para que el sistema coja temperatura y limpie las partículas acumuladas."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Huelva, ¿en qué se fijan más?",
+      "a": "En la estación ITV de Huelva, como en todas, son muy estrictos con los elementos de seguridad: frenos, suspensión, neumáticos y alumbrado. Por la climatología local, también prestan mucha atención al estado de los bajos por posible corrosión y a la opacidad de los humos en los diésel, un problema frecuente por la conducción urbana."
+    },
+    {
+      "q": "¿Cuándo debería cambiar el anticongelante viviendo en Huelva?",
+      "a": "Con el calor extremo del verano, el líquido refrigerante es vital. Aunque los fabricantes dan plazos largos, recomendamos no apurarlos. Un anticongelante de calidad protege contra la ebullición en verano y la corrosión del circuito. Revisarlo cada dos años o cada 40.000 km es una buena práctica para evitar un sobrecalentamiento."
+    },
+    {
+      "q": "¿Ofrecéis servicio para coches de empresa o furgonetas de autónomos?",
+      "a": "Por supuesto. Sabemos que para un profesional de Huelva, su furgoneta es su oficina. Atendemos furgonetas y vehículos comerciales ligeros con la misma profesionalidad, entendiendo que la rapidez es clave para que no pierdas horas de trabajo. Realizamos mantenimientos, revisiones y reparaciones para que tu negocio no se detenga."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Huelva",
+  "closingCta": "Pide tu presupuesto sin compromiso y deja tu coche en manos de mecánicos que entienden tu día a día. Llámanos o escríbenos por WhatsApp para concertar tu cita en Huelva."
+}

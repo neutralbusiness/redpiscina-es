@@ -1,0 +1,184 @@
+{
+  "slug": "tres-cantos",
+  "name": "Tres Cantos",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 41896,
+  "lat": 40.60092,
+  "lng": -3.70806,
+  "metaTitle": "Taller mecánico en Tres Cantos — Para tu coche del día a día",
+  "metaDescription": "Mantenimiento y reparación para coches con uso intensivo en Tres Cantos. Presupuesto cerrado y sin sorpresas para tu diésel o gasolina. Pide tu cita.",
+  "heroSubtitle": "Para ti, que cada mañana coges la M-607 y necesitas que tu coche, simplemente, no te falle. Ni en el atasco de El Goloso ni en la vuelta a casa.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Entendemos lo que significa conducir en Tres Cantos. No es solo vivir aquí; es la rutina diaria de la M-607, ese termómetro que mide la salud de tu coche. Sabes de lo que hablamos: el tramo de velocidad constante hasta que te acercas a El Goloso y empieza el juego de acelerar y frenar hasta la M-40. Ese castigo diario para el embrague, los frenos y la caja de cambios no es una anécdota, es el día a día de miles de tricantinos que trabajan en Madrid o, a la inversa, de quienes vienen al Parque Tecnológico. Tres Cantos se diseñó en los 70 como una ciudad para el coche, con avenidas amplias y rotondas que hoy, con casi 50.000 habitantes, ponen a prueba la dirección y los neumáticos de una forma muy particular. Un coche en esta ciudad no es un lujo, es la herramienta que conecta tu vida en los Sectores o en Nuevo Tres Cantos con tu trabajo, y sabemos que su fiabilidad no es negociable.\n\nEl coche de un profesional que trabaja en el PTM o en las sedes de grandes empresas de la zona tiene un ciclo de vida distinto. Acumula kilómetros a un ritmo que asustaría a un conductor ocasional. No es raro hacer 80 o 100 kilómetros diarios, y eso significa que el mantenimiento no puede medirse solo en años, sino en meses y en el tipo de uso. El diésel sigue siendo el rey de este trayecto por su consumo, pero también es el que más sufre con la carbonilla si los atascos impiden que el filtro de partículas se regenere bien. El polvo fino de la dehesa de Soto de Viñuelas, especialmente en primavera y verano, se cuela en los filtros de aire y habitáculo, y exige una atención que en un entorno urbano más denso no sería tan crítica. Por eso, cuando nos traes tu coche, no vemos solo un modelo y un año; vemos una historia de trayectos por la Avenida de la Industria y kilómetros de autovía.\n\nLuego está el clima. Aquí, al pie de la Sierra de Guadarrama, el tiempo no se anda con tonterías. Los inviernos en Tres Cantos son fríos y secos, con heladas que ponen a prueba las baterías cada mañana. Una batería que ya va justa, 'cantando' un poco al arrancar, es una avería segura en la primera ola de frío de noviembre. Y qué decir de los veranos: 35 grados a la sombra y el asfalto de la M-607 ardiendo. En esas condiciones, un sistema de aire acondicionado que no enfría como debe no es una incomodidad, es un problema serio. Y un sistema de refrigeración del motor que no esté impecable puede darte el susto del viaje. Este contraste térmico tan bestia, de bajo cero a casi cuarenta grados, acelera el envejecimiento de manguitos, juntas y otros componentes de goma y plástico. Hay que echarle un ojo de vez en cuando, porque estos detalles son los que marcan la diferencia entre un coche que da guerra y uno en el que confías.\n\nPor todo esto, nuestro enfoque es diferente. No nos limitamos a seguir el manual del fabricante. Lo complementamos con la realidad de conducir aquí. Analizamos el desgaste de tus neumáticos pensando en las rotondas de la Avenida de Viñuelas y en la velocidad de la autovía. Revisamos tu sistema de frenos sabiendo la paliza que se lleva en el tráfico de hora punta. Te preguntamos cuántos kilómetros haces y por dónde, porque no es lo mismo usar el coche para ir de casa en el Sector Pintores a la estación de Cercanías que cruzar Madrid a diario. Te ofrecemos un diagnóstico honesto y un presupuesto cerrado porque, igual que tú necesitas saber a qué hora vas a llegar a tu reunión, también necesitas saber cuánto te va a costar la reparación, sin sorpresas. Somos tu taller de confianza en Tres Cantos porque hablamos tu mismo idioma: el de la carretera.",
+  "servicesIntro": "Desde la revisión anual para quedarte tranquilo hasta esas averías más complejas que aparecen por el uso intensivo de tu coche en la zona norte de Madrid.",
+  "processIntro": "Trabajamos con total transparencia para que sepas qué le pasa a tu coche, cuánto cuesta y decidas tú. Sin letra pequeña, así de simple.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos qué le notas al coche y lo conectamos a nuestros equipos de diagnosis. No nos quedamos en la superficie; buscamos la causa real del problema, pensando en tu tipo de conducción habitual."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos por WhatsApp o email un presupuesto detallado y claro. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas. Si surge algo nuevo, paramos y volvemos a hablar contigo."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu confirmación explícita. Tú tienes el control total. Puedes darnos el visto bueno por teléfono o mensaje, como te sea más cómodo."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos se ponen manos a la obra para tener el coche listo en el plazo que te hemos indicado, informándote si hubiera cualquier imprevisto."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo para recoger. Te explicamos en persona qué hemos hecho y por qué. Unos días después, te contactamos para asegurarnos de que todo va perfecto."
+    }
+  ],
+  "commonIssuesIntro": "Los coches en Tres Cantos sufren un desgaste muy específico, marcado por los kilómetros en la M-607, el clima continental y el tráfico de entrada y salida al Parque Tecnológico.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El acordeón diario en la M-607, especialmente en el tramo de El Goloso a Madrid, machaca el embrague y los frenos. Este uso intensivo en atascos acorta su vida útil. Realizamos una revisión exhaustiva del sistema y te asesoramos sobre kits de embrague reforzados si tu kilometraje es muy alto."
+    },
+    {
+      "title": "Averías en el sistema FAP/EGR en diésel",
+      "body": "Aunque hagas autovía, los tramos de baja velocidad y los atascos impiden que el filtro de partículas se regenere correctamente. Esto provoca obstrucciones y pérdida de potencia. Realizamos limpiezas químicas y regeneraciones forzadas, además de diagnosticar el estado de la válvula EGR para evitar averías mayores."
+    },
+    {
+      "title": "Fallos de batería en invierno",
+      "body": "Las heladas de Tres Cantos son el examen final para cualquier batería. Las mañanas bajo cero exigen un extra de potencia para el arranque. Si tu coche duerme en la calle en zonas como Nuevo Tres Cantos, es vital comprobar el estado de la batería antes de que llegue el frío para no quedarte tirado."
+    },
+    {
+      "title": "Problemas con el aire acondicionado",
+      "body": "El verano aquí es seco y muy caluroso. Un climatizador que no rinde al 100% es un suplicio. Las fugas de gas o un compresor débil son habituales por el contraste térmico. Hacemos cargas de gas con detector de fugas y comprobamos todo el circuito para que el calor no sea un problema."
+    },
+    {
+      "title": "Desgaste irregular de neumáticos y holguras",
+      "body": "La combinación de kilómetros a alta velocidad en la M-607 con la infinidad de rotondas dentro de la ciudad (Avenida de los Artesanos, Viñuelas...) provoca un desgaste particular en los flancos de los neumáticos y fuerza silentblocks y rótulas. Un buen alineado y la revisión de la suspensión son claves."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos tu rutina",
+      "body": "Sabemos lo que es el atasco de la M-607 y cómo afecta a tu coche. Nuestro diagnóstico va más allá del manual, se basa en la realidad de conducir en la zona norte de Madrid."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el precio que pagas. Si durante la reparación encontramos algo más, te llamamos, te lo explicamos y tú decides. Sin sustos en la factura."
+    },
+    {
+      "title": "Solo recambios de calidad",
+      "body": "No nos la jugamos con piezas de dudosa procedencia. Montamos recambios de primeras marcas que cumplen o superan las especificaciones del fabricante. Tu seguridad es lo primero."
+    },
+    {
+      "title": "Comunicación clara y directa",
+      "body": "Te explicamos las averías de forma que las entiendas, sin tecnicismos innecesarios. Estamos disponibles por teléfono y WhatsApp para resolver cualquier duda durante el proceso."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Todas nuestras intervenciones y piezas están cubiertas por la garantía legal. Si algo no va bien, respondemos. Queremos ser tu taller a largo plazo, no una solución puntual."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes, tenemos compañeros de carretera. Estas son algunas de sus experiencias, que podrían ser perfectamente la tuya.",
+  "testimonials": [
+    {
+      "name": "Javier",
+      "neighborhood": "Sector Foresta",
+      "car": "Volkswagen Passat TDI 2016",
+      "body": "Hago 90 km diarios para ir a trabajar a Las Tablas. El coche empezó a dar tirones y a perder fuerza. Pensé que era el turbo. Aquí vieron que era el filtro de partículas, que estaba hasta arriba de carbonilla por los atascos. Me hicieron una limpieza y ahora va como la seda. Se nota que saben lo que tocan.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Nuevo Tres Cantos",
+      "car": "Peugeot 3008 2018",
+      "body": "Llevé el coche para la revisión antes de irme de vacaciones. Además de lo típico, me dijeron que las ruedas de delante estaban fatal por los bordes, seguramente de las rotondas. Me enseñaron el desgaste y me cuadró. Me buscaron unos neumáticos buenos para autovía y me alinearon la dirección. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Soto de Viñuelas",
+      "car": "Ford Focus 2015",
+      "body": "El aire acondicionado dejó de enfriar justo en junio. En otros sitios me daban cita para dos semanas. Aquí me lo cogieron rápido, encontraron una pequeña fuga en un manguito, lo cambiaron y recargaron el gas. Me salvaron el verano. Y el presupuesto, clavado al que me dieron.",
+      "rating": 5
+    },
+    {
+      "name": "Elena",
+      "neighborhood": "Sector Pintores",
+      "car": "Renault Clio 2013",
+      "body": "Uso el coche sobre todo por Tres Cantos y para ir a Colmenar. Me tocaba la ITV y no estaba segura de si la pasaría. Lo traje para una pre-ITV y me ajustaron las luces y un par de tonterías más. La pasó a la primera. Me ahorraron tiempo y el viaje de volver a la estación de ITV. Buen servicio.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Tres Cantos y sus alrededores. Tanto si vives en los Sectores más consolidados (Foresta, Pintores, Oficios) como en las zonas más nuevas como Nuevo Tres Cantos o el área de Soto de Viñuelas, estamos a tu disposición. Nuestra ubicación es ideal para quienes trabajan en el Parque Tecnológico de Madrid (PTM) o en las empresas de la Avenida de la Industria. Además, cubrimos las necesidades de los conductores de municipios cercanos como Colmenar Viejo, que utilizan la M-607 a diario, y también de quienes se desplazan desde Alcobendas o San Sebastián de los Reyes por la M-616. Conocemos perfectamente las rutas y los atajos de la zona, entendiendo el desgaste que cada una de ellas provoca en tu vehículo.",
+  "zoneNeighborhoods": [
+    "Tres Cantos",
+    "Nuevo Tres Cantos",
+    "Sector Foresta",
+    "Sector Pintores",
+    "Sector Oficios",
+    "Soto de Viñuelas",
+    "Colmenar Viejo",
+    "Parque Tecnológico de Madrid"
+  ],
+  "zoneAccessRoutes": [
+    "M-607 (Autovía de Colmenar Viejo)",
+    "M-616",
+    "M-40",
+    "M-104"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Tenéis en cuenta el 'maltrato' que sufre mi coche en la M-607 a diario?",
+      "a": "Totalmente. Es nuestro punto de partida. Sabemos que el tramo Tres Cantos-Madrid combina alta velocidad con frenadas bruscas y atascos. Por eso, en cada revisión prestamos especial atención a elementos como el embrague, los frenos, el FAP en los diésel y el desgaste de los neumáticos, que sufren mucho más que en un uso exclusivamente urbano. Nuestro mantenimiento es preventivo y adaptado a esa realidad."
+    },
+    {
+      "q": "Mi coche diésel trabaja en el PTM, ¿debo preocuparme por la carbonilla?",
+      "a": "Es una de las averías más comunes que vemos. Aunque hagas kilómetros por autovía, si parte de tu trayecto es a baja velocidad o en atascos, el filtro de partículas (FAP) puede no alcanzar la temperatura para regenerarse. Esto causa acumulaciones y averías. Recomendamos una revisión periódica del sistema y, si es necesario, una limpieza profesional para evitar problemas mayores y costosos."
+    },
+    {
+      "q": "Con las heladas de Tres Cantos, ¿qué puedo hacer para proteger la batería?",
+      "a": "El frío es el enemigo número uno de las baterías. Si tu coche duerme en la calle, te recomendamos que, antes de que empiece el invierno, vengas a que comprobemos su estado de carga y salud. Una batería con más de 4-5 años tiene muchas papeletas para fallar con la primera helada. Es una revisión rápida que te puede ahorrar el mal trago de no poder arrancar por la mañana."
+    },
+    {
+      "q": "Vivo en Nuevo Tres Cantos y el coche se llena de polvo, ¿afecta a la mecánica?",
+      "a": "Sí, y más de lo que parece. Ese polvo fino, especialmente en primavera y verano por la cercanía del campo, obstruye el filtro del aire del motor y el del habitáculo. Un filtro de aire sucio hace que el motor 'respire' peor, aumentando el consumo. El del habitáculo, si está obstruido, fuerza el sistema de climatización y empeora la calidad del aire que respiras. Recomendamos cambiarlos según el uso, no solo por kilómetros."
+    },
+    {
+      "q": "Tengo que pasar la ITV en la estación de Colmenar, ¿revisáis los puntos críticos?",
+      "a": "Por supuesto. Ofrecemos un servicio de pre-ITV muy completo donde revisamos exactamente los mismos puntos que miran en la inspección: luces, frenos, holguras en la suspensión, niveles de opacidad en diésel, emisiones de gases, estado de los neumáticos... Nuestro objetivo es que la pases a la primera y no pierdas tiempo ni dinero en una segunda inspección. Conocemos bien los criterios de las estaciones de nuestra zona."
+    },
+    {
+      "q": "¿Qué tipo de neumáticos recomendáis para el clima y las carreteras de aquí?",
+      "a": "Para el perfil de conductor de Tres Cantos, recomendamos neumáticos 'all-season' (todo tiempo) de buena calidad. Ofrecen un gran rendimiento en el asfalto seco y caliente del verano de la M-607, pero también dan un plus de seguridad en mojado y con las heladas del invierno, sin llegar a ser un neumático de nieve. Es la solución más equilibrada y segura para nuestro clima continental sin tener que cambiar de gomas cada temporada."
+    },
+    {
+      "q": "¿Podéis recoger o llevar el coche a mi oficina en el Parque Tecnológico?",
+      "a": "Entendemos que tu tiempo es oro. Consulta con nosotros la disponibilidad del servicio de recogida y entrega para empresas ubicadas en el PTM y alrededores. Buscamos siempre ofrecer soluciones que se adapten a la jornada laboral de nuestros clientes para que el mantenimiento del coche interfiera lo mínimo posible en tu día a día. Llámanos y vemos tu caso concreto."
+    }
+  ],
+  "closingHeadline": "Deja tu coche en manos de quien entiende tu día a día en Tres Cantos",
+  "closingCta": "Pide tu presupuesto cerrado por teléfono, WhatsApp o rellenando el formulario. Te daremos una cita para revisar tu coche y que puedas volver a la carretera con total tranquilidad."
+}

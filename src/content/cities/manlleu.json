@@ -1,0 +1,182 @@
+{
+  "slug": "manlleu",
+  "name": "Manlleu",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 20647,
+  "lat": 42.00228,
+  "lng": 2.28476,
+  "metaTitle": "Taller mecánico en Manlleu — Multimarca y de confianza",
+  "metaDescription": "Tu taller en Manlleu para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas para tu coche. Pide cita y conduce tranquilo por Osona.",
+  "heroSubtitle": "Cansado de la 'boira' de invierno que castiga tu batería y de los talleres de Manlleu que no son claros con la factura final?",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives o trabajas en Manlleu, sabes que tu coche no es un lujo, es una necesidad. Para ir a Vic por la C-17 cada mañana, para acercarte a Torelló o Roda de Ter, o simplemente para moverte por el pueblo, necesitas que tu vehículo sea fiable. Entendemos perfectamente la vida en la comarca de Osona y cómo afecta a la mecánica. El tráfico denso para entrar a Vic en hora punta castiga el embrague y los frenos, y las carreteras comarcales que rodean la Plana exigen una suspensión en buen estado para circular con seguridad.\n\nEl clima de Manlleu es otro factor clave que no se puede ignorar. Los inviernos aquí son fríos y la famosa 'boira' no solo reduce la visibilidad, sino que la humedad constante y las bajas temperaturas son el peor enemigo de las baterías y los sistemas de arranque. No hay nada peor que ir a coger el coche a primera hora con la helada y que no responda. Y en verano, el calor seco pone a prueba el sistema de refrigeración y el aire acondicionado. Un mantenimiento que no tiene en cuenta estas particularidades se queda corto.\n\nConocemos el parque móvil de la zona. Vemos a diario los SEAT León, Peugeot 308, Renault Clio y Citroën C4 que tantos vecinos de Manlleu conducen. También las furgonetas de autónomos y pequeñas empresas que son el motor económico de la comarca. Sabemos qué motores TDI, HDI o dCi son los más comunes y cuáles son sus puntos débiles después de acumular kilómetros por la C-17 y la C-25. Por eso, nuestro enfoque es multimarca pero con un conocimiento profundo de lo que de verdad circula por nuestras calles.\n\nNuestro taller en Manlleu nace para ser tu alternativa de confianza al concesionario oficial. Te ofrecemos un servicio igual de profesional, pero más cercano y con una política de precios transparente. No tendrás que desplazarte hasta Vic o Granollers para una reparación de calidad. Te damos un presupuesto cerrado antes de empezar y no tocamos un solo tornillo sin tu aprobación. Queremos que conduzcas tranquilo, ya sea para ir al mercado semanal en la Plaça Fra Bernadí o para hacer una escapada al Pirineo por la C-17.",
+  "servicesIntro": "Desde la revisión para pasar la ITV en Vic sin problemas hasta la carga del aire acondicionado antes de que apriete el calor en la Plana, lo cubrimos todo.",
+  "processIntro": "Creemos que la confianza se gana con transparencia. Por eso, aquí el proceso es claro: tú siempre tienes el control y el presupuesto final.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le pasa a tu coche y lo conectamos a nuestros equipos de diagnosis. No adivinamos, identificamos el problema real para darte una solución precisa y evitar reparaciones innecesarias."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Recibirás un presupuesto detallado por WhatsApp o email. Verás claramente qué piezas y mano de obra incluye, sin letra pequeña. El precio que ves es el precio que pagas, ni un céntimo más."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisa el presupuesto con calma. Si tienes dudas, te las resolvemos. No empezamos ninguna reparación hasta que nos des tu visto bueno explícito. El control siempre es tuyo."
+    },
+    {
+      "title": "Reparación",
+      "body": "Nuestros mecánicos se ponen manos a la obra utilizando recambios de primeras marcas con garantía. Te mantenemos informado del proceso y cumplimos los plazos acordados para que recuperes tu coche cuanto antes."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando vengas a recoger tu coche, te explicamos el trabajo realizado y te enseñamos las piezas sustituidas si quieres. Nos aseguramos de que todo esté perfecto y quedamos a tu disposición para cualquier consulta posterior."
+    }
+  ],
+  "commonIssuesIntro": "La 'boira' invernal, los trayectos diarios por la C-17 y el calor del verano en Manlleu pasan factura a tu coche. Estos son los problemas que más vemos en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Baterías que fallan en invierno",
+      "body": "La combinación de frío y la humedad persistente de la 'boira' de la Plana de Vic es letal para las baterías con algunos años. Comprobamos su estado y el del alternador para que el coche te arranque siempre a la primera, incluso en los días más fríos de enero."
+    },
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El trayecto diario a Vic por la C-17, con sus retenciones y acelerones, o el callejeo por Manlleu, desgastan prematuramente el embrague y los frenos. Realizamos una revisión exhaustiva y sustituimos los componentes necesarios para que conduzcas con total seguridad y confort."
+    },
+    {
+      "title": "Filtro de partículas (FAP) obstruido",
+      "body": "Muchos diésel que circulan por Osona hacen trayectos cortos y no alcanzan la temperatura para regenerar el filtro FAP. Esto provoca averías costosas y pérdida de potencia. Realizamos limpiezas y regeneraciones forzadas para alargar su vida útil y evitarte problemas en la ITV."
+    },
+    {
+      "title": "Fallos en el aire acondicionado",
+      "body": "Cuando llega el calor de julio y agosto a la comarca, un aire acondicionado que no enfría es un suplicio. Diagnosticamos fugas, cargamos el gas y reparamos cualquier componente del circuito para que viajes fresco y cómodo durante todo el verano."
+    },
+    {
+      "title": "Luces y escobillas para la niebla",
+      "body": "Conducir con la 'boira' de Manlleu exige ver y ser visto. Unas escobillas gastadas o unas luces mal reguladas son un peligro. Hacemos una revisión completa del sistema de iluminación y limpiaparabrisas para que afrontes los días de niebla con la máxima seguridad."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de Osona",
+      "body": "No somos una franquicia sin alma. Somos un taller local que entiende cómo el clima y las carreteras de la comarca, desde la C-17 hasta los caminos rurales, afectan a tu vehículo."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "Te damos un precio cerrado por escrito antes de empezar. Lo que apruebas es lo que pagas. Se acabaron las facturas infladas y los conceptos inesperados al ir a recoger el coche."
+    },
+    {
+      "title": "Trato directo y cercano",
+      "body": "Hablarás directamente con el mecánico que revisa tu coche, sin intermediarios. Te explicamos las cosas de forma clara y honesta, para que entiendas qué le pasa a tu vehículo y por qué."
+    },
+    {
+      "title": "Alternativa al concesionario",
+      "body": "Ofrecemos la misma calidad en diagnosis y reparación que un servicio oficial, pero con precios más competitivos y la flexibilidad de un taller de barrio. Mantenemos tu garantía de fabricante."
+    },
+    {
+      "title": "Agilidad y compromiso",
+      "body": "Sabemos que necesitas tu coche. Nos comprometemos a darte cita rápido y a cumplir los plazos de reparación para que tu día a día se vea afectado lo menos posible."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Manlleu y la comarca de Osona que han confiado en nosotros. Sus historias podrían ser la tuya.",
+  "testimonials": [
+    {
+      "name": "Marc",
+      "neighborhood": "Barri de l'Estació",
+      "car": "SEAT León TDI 2016",
+      "body": "El coche empezó a dar tirones en la C-17 yendo hacia Vic. Me temía lo peor. Los llamé, me dieron cita para esa misma tarde y diagnosticaron un problema con el filtro de partículas. Me explicaron por qué pasaba por mis trayectos cortos y me ofrecieron una solución sin tener que cambiar la pieza entera. Muy honestos y profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "Dalt Vila",
+      "car": "Peugeot 208 2018",
+      "body": "Tenía que pasar la ITV en Vic y no estaba segura de si el coche estaba bien. Les pedí una revisión pre-ITV y encontraron que las luces de freno no iban y una rueda perdía presión. Lo arreglaron en un par de horas y pasé la inspección a la primera. Me ahorraron un segundo viaje y muchos nervios. ¡Gracias!",
+      "rating": 5
+    },
+    {
+      "name": "Jordi",
+      "neighborhood": "Torelló",
+      "car": "Renault Kangoo 2015",
+      "body": "Uso la furgoneta para trabajar por toda la comarca y no puedo permitirme que falle. Notaba un ruido raro en la suspensión. Me la revisaron a fondo, encontraron una rótula con holgura y me dieron un presupuesto muy correcto. El trato fue muy cercano y el trabajo rápido. Ahora es mi taller de referencia.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Les Masies de Roda",
+      "car": "Volkswagen Golf 2014",
+      "body": "En pleno invierno, el coche no me arrancó dos días seguidos. Con la niebla y el frío que hace por aquí, es un fastidio. Me cambiaron la batería y comprobaron todo el sistema de carga. Me explicaron por qué se había gastado y me dieron un par de consejos. El precio fue bueno, aunque tardaron un poco más de lo que me dijeron al principio.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller mecánico da servicio a toda la zona de Manlleu y sus alrededores. Si vives en barrios como Dalt Vila, l'Erm, Vilamirosa o el Barri de l'Estació, estamos a un paso. También somos el taller de confianza para muchos conductores de municipios vecinos como Torelló, Les Masies de Voltregà, Roda de Ter, Gurb o Les Masies de Roda. Nuestra ubicación es de fácil acceso desde la C-17, el eje principal que conecta con Vic y Ripoll, así como desde la C-37 (Eix Transversal) y carreteras locales como la BV-4608. Vengas de donde vengas de la comarca de Osona, llegar a nuestro taller es sencillo y rápido.",
+  "zoneNeighborhoods": [
+    "Manlleu",
+    "Torelló",
+    "Roda de Ter",
+    "Les Masies de Roda",
+    "Gurb",
+    "Les Masies de Voltregà",
+    "Dalt Vila",
+    "Barri de l'Estació",
+    "Vilamirosa",
+    "La Coromina"
+  ],
+  "zoneAccessRoutes": [
+    "C-17",
+    "C-37 (Eix Transversal)",
+    "C-25",
+    "BV-4608"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi coche es diésel y hago trayectos cortos a Vic, ¿qué mantenimiento especial necesita?",
+      "a": "Es un caso muy común en Manlleu. Los trayectos cortos por la C-17 impiden que el filtro de partículas (FAP) se regenere correctamente. Te recomendamos usar un aditivo de calidad de vez en cuando y, al menos una vez a la semana, conducir unos 20 minutos por autovía a un régimen más alto. En el taller podemos forzar la regeneración o realizar una limpieza química para evitar averías mayores."
+    },
+    {
+      "q": "Con la humedad y la 'boira' de Manlleu, ¿cómo evito problemas de batería?",
+      "a": "La humedad es corrosiva y el frío reduce el rendimiento de la batería. Es clave mantener los bornes limpios y bien apretados. Si el coche duerme en la calle, te recomendamos revisarla anualmente antes de que llegue el invierno. Una batería con más de 4-5 años tiene muchas probabilidades de fallar en el primer día de helada fuerte en la Plana de Vic."
+    },
+    {
+      "q": "¿Hacéis la pre-ITV? La tengo que pasar en Vic y no quiero hacer dos viajes.",
+      "a": "Sí, por supuesto. Es uno de nuestros servicios más solicitados. Hacemos una revisión completa de los mismos puntos que miran en la estación de ITV de Vic: luces, frenos, neumáticos, emisiones, holguras... Si encontramos algún defecto, te damos presupuesto para repararlo y te aseguras pasarla a la primera, ahorrándote tiempo y el coste de una segunda inspección."
+    },
+    {
+      "q": "Tengo una furgoneta para mi negocio en Manlleu, ¿trabajáis con vehículos comerciales?",
+      "a": "Claro que sí. Conocemos las necesidades de los autónomos y empresas de la zona. Damos servicio a la mayoría de furgonetas y vehículos comerciales ligeros. Entendemos que es tu herramienta de trabajo, por lo que intentamos darte la máxima prioridad para que esté parada el menor tiempo posible."
+    },
+    {
+      "q": "¿Qué tipo de neumáticos recomendáis para el clima de Osona?",
+      "a": "El clima de Osona, con veranos calurosos e inviernos fríos con posibles heladas, hace que los neumáticos 'all-season' (todo tiempo) de buena calidad sean una opción muy inteligente. Ofrecen buen agarre en seco y calor, y un rendimiento seguro con lluvia y temperaturas bajas, sin llegar a ser un neumático de invierno puro. Te asesoramos sobre la mejor marca para tu coche y presupuesto."
+    },
+    {
+      "q": "Si os dejo el coche, ¿es fácil llegar al taller en transporte público desde el centro de Manlleu?",
+      "a": "Sí, nuestra ubicación está pensada para ser accesible. Dependiendo de dónde estemos situados exactamente, suele haber paradas del bus urbano de Manlleu en las proximidades. Al pedir cita, consúltanos y te indicaremos la mejor combinación o la parada más cercana para que puedas moverte sin problemas."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Manlleu",
+  "closingCta": "Si tu coche necesita una revisión o notas algo raro, no esperes más. Llámanos o envíanos un WhatsApp para pedir presupuesto sin compromiso. Estamos aquí en Manlleu para ayudarte."
+}

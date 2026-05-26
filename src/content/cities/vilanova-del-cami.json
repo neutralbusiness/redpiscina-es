@@ -1,0 +1,181 @@
+{
+  "slug": "vilanova-del-cami",
+  "name": "Vilanova del Camí",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 12649,
+  "lat": 41.57165,
+  "lng": 1.63751,
+  "metaTitle": "Taller mecánico en Vilanova del Camí — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Vilanova del Camí para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Pide tu cita online o por teléfono.",
+  "heroSubtitle": "Atascado en la C-244 con una luz rara en el cuadro? Te damos un diagnóstico claro y un precio cerrado para tu coche en Vilanova del Camí.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives o trabajas en Vilanova del Camí, sabes que el coche es imprescindible. No es un lujo, es la herramienta que te lleva cada mañana a Igualada, a los polígonos de la zona o incluso más lejos, cogiendo la A-2 hacia Barcelona o Lleida. Ese uso diario, con el tráfico denso de la C-244 en horas punta y las constantes rotondas, pasa factura a tu vehículo. El parque móvil de la comarca del Anoia es práctico y trabajador: vemos a diario SEAT León, Renault Clio, Peugeot 308 y muchas furgonetas como la Berlingo o la Kangoo que son el motor de los negocios locales. Entendemos perfectamente el desgaste que esto supone para un embrague, unos frenos o la suspensión.\n\nEl clima de la Conca d'Òdena también juega su papel. Los veranos son secos y calurosos, poniendo a prueba el sistema de aire acondicionado y la refrigeración del motor. Por otro lado, los inviernos son fríos, con mañanas de heladas y nieblas densas que exigen tener la batería en perfecto estado para no quedarte tirado de camino al trabajo. Una buena visibilidad es crucial, por lo que unas escobillas que limpien bien y unas luces bien regladas no son una opción, son una necesidad para conducir con seguridad por nuestras carreteras.\n\nSabemos que tu coche no solo sirve para ir a trabajar. Es el que te permite hacer la compra semanal, llevar a los niños a sus actividades en Igualada o escaparte el fin de semana a disfrutar de las viñas del Penedès por la C-15 o a hacer una excursión a Montserrat. Para todo eso, necesitas un coche fiable, que no te dé sustos y que pase la ITV a la primera en el centro de Igualada, sin tener que hacer dos viajes. Por eso, una revisión a tiempo y un mantenimiento adecuado son la mejor inversión.\n\nEn nuestro taller de Vilanova del Camí no vemos solo coches, vemos a nuestros vecinos. Entendemos que cuando un vehículo entra por nuestra puerta, detrás hay una persona o una familia que depende de él. Por eso nuestro enfoque es directo y honesto. No usamos jerga técnica incomprensible ni te vendemos reparaciones que no necesitas. Te explicamos qué le pasa a tu coche, qué opciones tienes y te damos un presupuesto cerrado antes de tocar un solo tornillo. Nuestra mejor publicidad es un cliente satisfecho que nos recomienda a su cuñado de Santa Margarida de Montbui o a su compañero de trabajo de La Pobla de Claramunt.\n\nLa confianza en un taller se gana con transparencia y buen hacer, y eso es lo que ofrecemos. Queremos ser tu mecánico de referencia en Vilanova del Camí, el sitio al que vienes sabiendo que cuidaremos de tu coche como si fuera nuestro. Porque entendemos su importancia en tu día a día aquí, en el corazón de la comarca del Anoia.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV en Igualada sin problemas hasta un cambio de embrague por el tráfico de la C-244, lo cubrimos todo.",
+  "processIntro": "Sabemos que no quieres sorpresas. Por eso, antes de cambiar una sola pieza, te damos un presupuesto claro y esperamos tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Traes tu coche y nos cuentas qué le pasa. Usamos equipos de diagnosis modernos para encontrar el origen del problema, ya sea un ruido raro, una luz en el cuadro o un fallo de rendimiento."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y sin letra pequeña. Te lo explicamos por teléfono o WhatsApp para que entiendas cada punto antes de decidir."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "El coche no se toca hasta que nos des tu 'vale'. No añadimos trabajos extra ni cambiamos piezas sin tu consentimiento explícito. Tú tienes el control total del proceso y del gasto."
+    },
+    {
+      "title": "Reparación",
+      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos se ponen manos a la obra para tener tu coche listo en el plazo acordado, manteniéndote informado si surge algo."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche esté listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para asegurar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El clima de la Conca d'Òdena y el uso diario del coche para ir a Igualada o Barcelona por la A-2 provocan averías muy concretas que conocemos bien.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El trayecto diario a Igualada o a los polígonos cercanos, con sus rotondas y paradas constantes, castiga mucho el embrague y los frenos. Si notas que el pedal está duro o que el coche tarda en frenar, es hora de una revisión. Lo comprobamos a fondo para que conduzcas seguro por la C-244."
+    },
+    {
+      "title": "Problemas con el aire acondicionado",
+      "body": "Los veranos en el interior de Barcelona son secos y muy calurosos. Un aire acondicionado que no enfría lo suficiente es un suplicio. Comprobamos el circuito, buscamos fugas y recargamos el gas para que no pases calor en los atascos de la A-2 en pleno agosto."
+    },
+    {
+      "title": "Fallos de batería en invierno",
+      "body": "Las mañanas frías y con niebla de Vilanova son duras para las baterías, sobre todo en coches que duermen en la calle. Si a tu coche le cuesta arrancar, es un aviso. Comprobamos el estado de tu batería y el alternador para que no te deje tirado de camino al trabajo."
+    },
+    {
+      "title": "Filtro de partículas (FAP) obstruido",
+      "body": "Muchos coches diésel hacen trayectos cortos por Vilanova o Igualada, lo que impide que el filtro de partículas se regenere bien y acaba por obstruirse. Si notas pérdida de potencia o se enciende el testigo, podemos hacer una limpieza o regeneración forzada para evitar una avería costosa."
+    },
+    {
+      "title": "Suspensión y neumáticos gastados",
+      "body": "Entre los polígonos industriales y las carreteras comarcales como la C-15, la suspensión sufre. Unos amortiguadores en mal estado aumentan la distancia de frenado y desgastan mal los neumáticos. Revisamos todo el conjunto para garantizar tu seguridad en cualquier carretera de la comarca."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Somos de aquí",
+      "body": "Conocemos Vilanova del Camí, sus calles, su gente y los coches que se conducen. No eres un número, eres un vecino. Entendemos tus necesidades porque son también las nuestras."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "Lo que te decimos que cuesta, es lo que pagas. Si durante la reparación vemos algo más, te llamamos, te lo explicamos y tú decides. Transparencia total para tu tranquilidad."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un SEAT León, una furgoneta Ford Transit o un BMW más antiguo. Tenemos la experiencia y el equipo para trabajar con todas las marcas y modelos del mercado."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "No cambiamos piezas por cambiar. Buscamos el origen real de la avería para darte una solución duradera y económica. Te explicamos el porqué de cada reparación que hacemos."
+    },
+    {
+      "title": "Agilidad y cercanía",
+      "body": "Sabemos que necesitas tu coche. Nos esforzamos por ser rápidos en el diagnóstico y la reparación, manteniéndote siempre informado. Puedes contactarnos fácilmente por teléfono o WhatsApp."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Vilanova del Camí e Igualada que ya confían en nosotros para el cuidado de su coche.",
+  "testimonials": [
+    {
+      "name": "Marc",
+      "neighborhood": "Barri de la Pau",
+      "car": "SEAT León 1.6 TDI 2015",
+      "body": "Vivo en Vilanova y trabajo en un polígono de Igualada. El coche empezó a dar tirones y a perder fuerza. Pensé que sería algo gordo, el turbo o algo así. Lo traje aquí, me diagnosticaron que era el filtro de partículas atascado por tanto trayecto corto. Me hicieron una limpieza y el coche va como nuevo. Me ahorraron una pasta y fueron súper honestos.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "El Centre",
+      "car": "Peugeot 208 Gasolina 2017",
+      "body": "Tenía que pasar la ITV y siempre me da pánico. Les pedí una revisión pre-ITV. Me encontraron una luz de freno fundida y que las pastillas delanteras estaban en las últimas. Me dieron presupuesto al momento, lo acepté y al día siguiente ya lo tenía listo. Pasé la ITV a la primera sin problemas. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Jordi",
+      "neighborhood": "Santa Margarida de Montbui",
+      "car": "Ford Transit Custom 2016",
+      "body": "Uso la furgoneta para trabajar por toda la comarca de Anoia y no puede fallar. Notaba el embrague muy duro y que patinaba al salir en cuesta. Me confirmaron que el kit de embrague estaba para cambiar. Me dieron un precio cerrado y cumplieron con el plazo. Ahora las marchas entran solas. Un servicio rápido y eficaz, que es lo que necesito.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Can Titó",
+      "car": "Renault Clio dCi 2013",
+      "body": "Con el calor del verano, el aire acondicionado dejó de enfriar. En otros sitios me daban cita para dentro de dos semanas. Aquí me lo cogieron rápido, encontraron una pequeña fuga en un manguito, lo repararon y recargaron el gas. El precio fue razonable y el trato muy cercano. Aunque tardaron un poco más de lo previsto, valió la pena.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller da servicio principalmente a conductores de Vilanova del Camí y de toda la Conca d'Òdena. Si vives en barrios como El Centre, Can Titó o el Barri de la Pau, estamos a un paso de ti. Además, gracias a nuestra ubicación, somos el taller de confianza para muchos vecinos de la capital de la comarca, Igualada, así como de municipios cercanos como Santa Margarida de Montbui, La Pobla de Claramunt y Òdena. Nos encontrarás fácilmente, con buenos accesos desde las vías principales que vertebran la zona, como la C-244, la C-15 (Eix Diagonal) y, por supuesto, la autovía A-2, que te conecta con nosotros en pocos minutos.",
+  "zoneNeighborhoods": [
+    "Vilanova del Camí",
+    "Igualada",
+    "Santa Margarida de Montbui",
+    "La Pobla de Claramunt",
+    "Òdena",
+    "Jorba",
+    "El Centre",
+    "Barri de la Pau",
+    "Can Titó"
+  ],
+  "zoneAccessRoutes": [
+    "A-2 (Autovía del Nordeste)",
+    "C-244",
+    "C-15 (Eix Diagonal)",
+    "N-IIa"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Es necesario pedir cita previa para una revisión en Vilanova del Camí?",
+      "a": "Sí, te recomendamos pedir cita. Así podemos reservarte un hueco y asegurarnos de que no tienes que esperar. Entendemos que tu tiempo es valioso, sobre todo si vienes de Igualada o Montbui antes o después de trabajar. Llámanos o escríbenos y te daremos la primera hora disponible que te venga bien."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Igualada, ¿revisáis los puntos clave?",
+      "a": "Por supuesto. Es uno de nuestros servicios más demandados. Hacemos una revisión pre-ITV completa: luces, frenos, neumáticos, suspensión y emisiones. Nos aseguramos de que tu coche cumpla con todo lo necesario para que vayas a la estación de la C-244a con la tranquilidad de pasarla a la primera y no tener que volver."
+    },
+    {
+      "q": "Mi coche diésel pierde potencia, ¿puede ser por los trayectos cortos por la ciudad?",
+      "a": "Es muy probable. Conducir solo por Vilanova o Igualada sin salir a carretera, como la A-2, provoca que la carbonilla se acumule en el motor y el sistema de escape, especialmente en el filtro de partículas. Podemos hacer una diagnosis y, si es necesario, un tratamiento de descarbonización para que el motor vuelva a respirar bien."
+    },
+    {
+      "q": "¿Trabajáis con furgonetas de autónomos de los polígonos de la zona?",
+      "a": "Sí, claro. Sabemos que tu furgoneta es tu herramienta de trabajo y no puede estar parada. Damos un servicio ágil a profesionales de los polígonos de Vilanova e Igualada para mantenimientos, averías de embrague, frenos o cualquier problema. Entendemos la urgencia y nos adaptamos a tus necesidades."
+    },
+    {
+      "q": "En invierno, con la niebla, ¿qué recomendáis revisar?",
+      "a": "La niebla en la Conca d'Òdena puede ser muy densa. Es fundamental que te vean y que tú veas bien. Te recomendamos revisar todas las luces (posición, cruce, antinieblas), el estado de las escobillas del limpiaparabrisas y el nivel del líquido. Una buena visibilidad es clave para la seguridad en la A-2 o la C-15 en invierno."
+    },
+    {
+      "q": "Vivo en La Pobla de Claramunt, ¿ofrecéis coche de cortesía?",
+      "a": "Disponemos de coche de cortesía para reparaciones que requieran inmovilizar tu vehículo varios días, como un cambio de distribución o de embrague. Está sujeto a disponibilidad, así que lo mejor es que nos lo comentes al pedir la cita para poder organizarlo. Así podrás seguir moviéndote mientras nosotros cuidamos de tu coche."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Vilanova del Camí",
+  "closingCta": "No dejes que una pequeña avería se convierta en un problema mayor. Pide tu presupuesto cerrado para tu coche en Vilanova del Camí. Llámanos o envíanos un WhatsApp y te atenderemos encantados."
+}

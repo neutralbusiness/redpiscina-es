@@ -1,0 +1,115 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { NETWORK } from "../lib/network.ts";
+
+// Carga todas las ciudades activas y las agrupa por CCAA → provincia
+const cityModules = import.meta.glob<{ default: any }>("../content/cities/*.json", { eager: true });
+
+interface CityRef {
+  slug: string;
+  name: string;
+  province: string;
+  ccaa: string;
+}
+
+const cities: CityRef[] = Object.values(cityModules).map(m => m.default);
+
+// Agrupar
+const byCcaa: Record<string, Record<string, CityRef[]>> = {};
+for (const c of cities) {
+  if (!byCcaa[c.ccaa]) byCcaa[c.ccaa] = {};
+  if (!byCcaa[c.ccaa][c.province]) byCcaa[c.ccaa][c.province] = [];
+  byCcaa[c.ccaa][c.province].push(c);
+}
+// Ordenar
+const ccaas = Object.keys(byCcaa).sort();
+for (const ccaa of ccaas) {
+  for (const prov of Object.keys(byCcaa[ccaa])) {
+    byCcaa[ccaa][prov].sort((a, b) => a.name.localeCompare(b.name, "es"));
+  }
+}
+
+const canonical = `https://www.${NETWORK.domain}/`;
+const totalCities = cities.length;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: NETWORK.brand,
+  url: canonical,
+  description: NETWORK.tagline,
+  logo: `${canonical}img/hero.webp`,
+};
+---
+
+<Layout
+  title={`${NETWORK.brand} · ${NETWORK.tagline}`}
+  description={`Encuentra taller mecánico en tu ciudad. ${totalCities} talleres en toda España.`}
+  canonical={canonical}
+  schema={schema}
+>
+  <nav class="nav">
+    <div class="container nav-inner">
+      <span class="nav-brand">{NETWORK.brand}</span>
+      <div class="nav-links">
+        <a href="#directorio">Directorio</a>
+        <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay}</a>
+      </div>
+    </div>
+  </nav>
+
+  <header id="top" class="hero">
+    <img src={NETWORK.heroImage} alt={NETWORK.brand} class="hero-img" />
+    <div class="container hero-content">
+      <h1>{NETWORK.brand}</h1>
+      <p class="lead">{NETWORK.tagline}. Encuentra el taller más cercano a ti — {totalCities} ciudades en España.</p>
+      <div class="hero-ctas">
+        <a href="#directorio" class="cta-phone">📍 Buscar mi ciudad</a>
+        <a href={`tel:${NETWORK.phone}`} class="cta-wa">📞 {NETWORK.phoneDisplay}</a>
+      </div>
+    </div>
+  </header>
+
+  <section id="directorio">
+    <div class="container">
+      <h2>Directorio de talleres por comunidad y provincia</h2>
+      <p style="max-width: 700px;">Pulsa en tu ciudad para acceder al taller asociado y ver sus servicios, horario y forma de contacto.</p>
+
+      {ccaas.length === 0 ? (
+        <p style="padding: 2rem 0; color: #666;">Aún no hay ciudades activas. Vuelve pronto.</p>
+      ) : (
+        ccaas.map(ccaa => (
+          <details style="margin-bottom: 0.75rem; background: white; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; padding: 1.25rem;" open>
+            <summary style="font-weight: 700; cursor: pointer; font-size: 1.1rem; color: #e11d2e;">{ccaa}</summary>
+            <div style="margin-top: 1rem;">
+              {Object.keys(byCcaa[ccaa]).sort().map(prov => (
+                <div style="margin-bottom: 1.25rem;">
+                  <h3 style="color: #1a1a1a; margin-bottom: 0.5rem;">{prov}</h3>
+                  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                    {byCcaa[ccaa][prov].map(c => (
+                      <a
+                        href={`https://${c.slug}.${NETWORK.domain}/`}
+                        style="display: inline-block; padding: 0.5rem 0.9rem; background: #f7f7f8; border: 1px solid rgba(0,0,0,0.08); border-radius: 8px; font-size: 0.9rem; color: #1a1a1a; transition: all 0.15s;"
+                        onmouseover="this.style.background='#e11d2e'; this.style.color='white'; this.style.borderColor='#e11d2e';"
+                        onmouseout="this.style.background='#f7f7f8'; this.style.color='#1a1a1a'; this.style.borderColor='rgba(0,0,0,0.08)';"
+                      >
+                        {c.name}
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </details>
+        ))
+      )}
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p style="margin: 0; color: white; font-weight: 700;">{NETWORK.brand}</p>
+      <p style="margin: 0.5rem 0; font-size: 0.85rem;">{NETWORK.tagline} · {NETWORK.email}</p>
+    </div>
+  </footer>
+</Layout>

@@ -1,0 +1,180 @@
+{
+  "slug": "sant-sadurni-d-anoia",
+  "name": "Sant Sadurní d'Anoia",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 12237,
+  "lat": 41.42555,
+  "lng": 1.78519,
+  "metaTitle": "Taller mecánico en Sant Sadurní d'Anoia — Multimarca y honesto",
+  "metaDescription": "Taller mecánico en Sant Sadurní d'Anoia para todas las marcas. Presupuesto cerrado para revisiones, averías y neumáticos. Pide tu cita ahora.",
+  "heroSubtitle": "Tu coche es clave para moverte por el Penedès. Te damos un presupuesto claro para que sigas tu camino sin sorpresas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Vivir en Sant Sadurní d'Anoia significa depender del coche para casi todo. No es un lujo, es una necesidad. Ya sea para ir a trabajar a Vilafranca del Penedès por la C-243a, para llevar a los niños al colegio, para hacer la compra semanal o, si eres autónomo, para moverte entre viñedos y bodegas por todo el Alt Penedès. Entendemos que tu coche, sea un SEAT León familiar, un Peugeot 3008 para los fines de semana o una furgoneta Citroën Berlingo cargada de herramientas, tiene que estar siempre a punto. El día a día aquí no es como en una gran ciudad; aquí un coche parado es un problema serio que te aísla y te complica la vida.\n\nEl clima del Penedès, con veranos secos y muy calurosos e inviernos que pueden traer heladas inesperadas, pone a prueba la mecánica de cualquier vehículo. En julio y agosto, el aire acondicionado no es una opción, es una obligación, y su sistema sufre. En invierno, una mañana fría en Can Catassús o en las afueras puede ser el fin para una batería que ya estaba tocada. A esto se suma el polvo fino de los caminos rurales y los campos, que se cuela en los filtros de aire y habitáculo, reduciendo el rendimiento del motor y la calidad del aire que respiras dentro. Conocemos estos problemas porque los vivimos nosotros también.\n\nEl parque automovilístico de Sant Sadurní y alrededores es un reflejo de su gente: práctico y trabajador. Vemos a diario coches diésel con unos cuantos años que hacen el trayecto diario a Martorell o a la Zona Franca de Barcelona por la AP-7, acumulando kilómetros y desgaste en embragues y distribuciones. También atendemos muchas furgonetas de pequeños empresarios y agricultores de Subirats o Torrelavit, vehículos que necesitan una suspensión robusta para aguantar el trote de las carreteras comarcales y los caminos de tierra. No es lo mismo un coche que solo pisa asfalto que uno que alterna la autopista con los accesos a una masía.\n\nPor eso, nuestro enfoque es local y realista. No te vamos a contar historias. Sabemos que buscas un taller de confianza en Sant Sadurní, un sitio donde te hablen claro y te den un presupuesto cerrado sin sorpresas. Un lugar donde entiendan que necesitas el coche para el lunes, sí o sí. Ya sea para pasar la ITV en Vilafranca, para cambiar los neumáticos antes de que lleguen las lluvias de otoño o para diagnosticar ese ruido raro que oyes al coger la rotonda de la C-243a. Estamos aquí para eso: para que tu coche siga siendo tu solución, no tu problema.",
+  "servicesIntro": "Desde la revisión anual para tu coche de diario hasta la puesta a punto de tu furgoneta de trabajo, cubrimos todas las necesidades en Sant Sadurní.",
+  "processIntro": "Trabajamos con total transparencia. Recibes un diagnóstico claro y un presupuesto cerrado. No movemos un tornillo sin tu aprobación.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le pasa a tu coche y lo conectamos a nuestros equipos de diagnosis. Identificamos el problema real, sin especulaciones, para entender qué necesita tu vehículo y por qué."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas, sin sorpresas ni extras de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisa el presupuesto con calma. Si tienes cualquier duda, nos llamas y te la aclaramos. Solo cuando nos das tu visto bueno, nuestro equipo se pone a trabajar en tu coche."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan la reparación siguiendo las especificaciones del fabricante para asegurar un trabajo bien hecho y duradero."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo para que pases a recogerlo. Te explicamos la reparación realizada y, pasados unos días, contactamos contigo para asegurar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El clima y las carreteras del Penedès causan problemas muy concretos. Estos son los que más vemos en nuestro taller de Sant Sadurní d'Anoia.",
+  "commonIssues": [
+    {
+      "title": "Filtros de aire y polen obstruidos",
+      "body": "El polvo de los caminos de viñedos es constante en el Penedès. Este polvo fino atasca los filtros de aire del motor y del habitáculo, provocando pérdida de potencia y que el aire acondicionado enfríe menos. Recomendamos revisarlos con más frecuencia, especialmente después del verano."
+    },
+    {
+      "title": "Desgaste del embrague por carreteras locales",
+      "body": "Conducir entre Sant Sadurní, Gelida y Subirats implica muchas rotondas, cuestas y paradas. Este tipo de conducción, sumado al tráfico para entrar o salir del pueblo en hora punta, acelera el desgaste del embrague. Si notas que el pedal está duro o patina, es hora de revisarlo."
+    },
+    {
+      "title": "Fallo del sistema de aire acondicionado",
+      "body": "Los veranos en Sant Sadurní son muy calurosos. Forzamos el aire acondicionado al máximo durante meses, lo que puede provocar fugas de gas, fallos en el compresor o malos olores por bacterias. Una recarga y una limpieza a tiempo antes del verano te evitan sudores."
+    },
+    {
+      "title": "Baterías que mueren en invierno",
+      "body": "Aunque el clima es suave, las heladas de invierno en el interior del Penedès son suficientes para rematar una batería que ya está en las últimas. Si tu coche duerme en la calle y tiene más de 4 años, una comprobación antes del frío te puede ahorrar no poder arrancar una mañana."
+    },
+    {
+      "title": "Suspensión y neumáticos en vehículos de trabajo",
+      "body": "Las furgonetas y 4x4 que circulan por caminos rurales y carreteras secundarias como la BP-2151 sufren mucho en amortiguadores, silentblocks y neumáticos. Un silentblock roto o una mala alineación por un bache pueden generar desgastes irregulares y problemas de seguridad."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Presupuestos sin sustos",
+      "body": "Te damos un precio cerrado por escrito. Lo que apruebas es lo que pagas. Se acabaron las facturas infladas y las llamadas con 'problemas imprevistos' que suben el coste."
+    },
+    {
+      "title": "Conocemos los coches del Penedès",
+      "body": "Sabemos qué les duele a los coches que se mueven por aquí, desde un Dacia Sandero para ir al pueblo hasta una Ford Transit para trabajar. Vamos directos al grano porque conocemos el terreno."
+    },
+    {
+      "title": "Tú tienes el control",
+      "body": "No tocamos nada sin tu permiso explícito. Te explicamos la avería de forma que la entiendas y tú decides. Tu coche, tus reglas."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Todas nuestras reparaciones y piezas tienen garantía por ley. Trabajamos con recambios de calidad para que no tengas que volver por el mismo problema a los dos días."
+    },
+    {
+      "title": "Pasamos la Pre-ITV por ti",
+      "body": "Sabemos que ir a la ITV de Vilafranca puede ser una pérdida de tiempo. Hacemos una revisión completa de los puntos clave para que la pases a la primera y sin nervios."
+    }
+  ],
+  "testimonialsIntro": "No nos creas a nosotros, estas son algunas situaciones típicas de conductores como tú en la zona de Sant Sadurní.",
+  "testimonials": [
+    {
+      "name": "Marc",
+      "neighborhood": "El Centre",
+      "car": "SEAT Ateca TDI 2018",
+      "body": "Uso el coche todos los días para ir a trabajar a Martorell por la AP-7. Notaba un ruido raro en la rueda delantera y me preocupaba la seguridad. Me dieron cita rápido, encontraron un problema en un rodamiento. El presupuesto fue claro y el precio final, el mismo. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "Can Catassús",
+      "car": "Peugeot Partner 2016",
+      "body": "Tengo una pequeña empresa de jardinería y la furgoneta es mi oficina. Empezó a dar tirones y a echar humo negro. Me diagnosticaron un problema con el filtro de partículas por hacer tantos trayectos cortos por el pueblo. Me explicaron la solución y ahora va perfecta. Un alivio.",
+      "rating": 5
+    },
+    {
+      "name": "Jordi",
+      "neighborhood": "Gelida",
+      "car": "Renault Clio 2014",
+      "body": "El aire acondicionado dejó de enfriar justo a principios de junio. Con el calor que hace aquí, era un suplicio. Me lo solucionaron en el mismo día con una recarga de gas y una revisión del circuito. El trato fue muy cercano y el precio, muy razonable. Volveré para la revisión.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat",
+      "neighborhood": "Vilarnau",
+      "car": "Volkswagen Golf 2012",
+      "body": "Me tocaba pasar la ITV y siempre me pongo nerviosa. Les pedí una revisión pre-ITV. Me cambiaron una bombilla fundida y ajustaron los frenos. El coche pasó a la primera sin problemas. El servicio fue bueno, aunque tardaron un poco más de lo que me dijeron inicialmente.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la zona de Sant Sadurní d'Anoia y sus alrededores. Si vives en barrios como el Centre, La Riera, Can Catassús o Vilarnau, estamos a tu lado. Nuestra área de influencia natural se extiende a los municipios vecinos del Alt Penedès, por lo que si vienes de Gelida, Subirats, Torrelavit o Sant Pere de Riudebitlles, somos tu taller de confianza. Muchos de nuestros clientes también vienen de Sant Llorenç d'Hortons e incluso de la periferia de Vilafranca del Penedès. Gracias a nuestra ubicación, somos fácilmente accesibles desde las principales vías que conectan la comarca, como la autopista AP-7, la carretera C-243a que nos une con Vilafranca, o la BP-2151.",
+  "zoneNeighborhoods": [
+    "Sant Sadurní d'Anoia",
+    "Gelida",
+    "Subirats",
+    "Torrelavit",
+    "Sant Llorenç d'Hortons",
+    "Sant Pere de Riudebitlles",
+    "La Granada",
+    "Pla del Penedès"
+  ],
+  "zoneAccessRoutes": [
+    "AP-7",
+    "C-243a",
+    "C-15",
+    "BP-2151"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Tenéis experiencia con furgonetas y vehículos de trabajo?",
+      "a": "Sí, totalmente. Sabemos que en Sant Sadurní y el Penedès muchos autónomos y empresas dependen de su furgoneta. Estamos acostumbrados a trabajar con modelos como la Berlingo, Partner, Kangoo o Transit, y entendemos los problemas específicos que sufren por el uso intensivo y la carga, como el desgaste de suspensión, frenos y embrague."
+    },
+    {
+      "q": "Hago muchos trayectos cortos por el pueblo, ¿es malo para mi coche diésel?",
+      "a": "Sí, puede serlo. Los motores diésel modernos tienen un filtro de partículas (DPF) que necesita trayectos por carretera para limpiarse. Si solo te mueves por Sant Sadurní, es probable que el filtro se sature. Podemos hacer una regeneración forzada en el taller y te aconsejaremos sobre cómo evitar que vuelva a pasar."
+    },
+    {
+      "q": "El coche duerme en la calle. ¿Debería hacer alguna revisión especial antes del invierno?",
+      "a": "Es muy recomendable. En el Penedès las temperaturas bajan bastante por la noche en invierno. Lo más importante es comprobar el estado de la batería, que es lo primero que falla con el frío. También revisamos el nivel de anticongelante y el estado de los neumáticos para asegurar un buen agarre con el asfalto frío y húmedo."
+    },
+    {
+      "q": "Voy a comprar un coche de segunda mano en la zona, ¿podéis revisarlo antes?",
+      "a": "Claro. Es un servicio muy inteligente. Trae el coche al taller y le haremos una revisión completa: diagnosis electrónica, estado de frenos, suspensión, bajos, motor... Te daremos un informe objetivo para que sepas lo que estás comprando y puedas negociar el precio o descartar la compra si tiene problemas graves ocultos."
+    },
+    {
+      "q": "¿Qué tipo de aceite usáis para los cambios?",
+      "a": "Utilizamos siempre el aceite que especifica el fabricante de tu coche, cumpliendo la normativa exacta (viscosidad y especificaciones). Esto es crucial para la vida del motor, especialmente en los vehículos más modernos. Usar un aceite incorrecto puede causar averías graves a largo plazo, y no nos la jugamos con eso."
+    },
+    {
+      "q": "¿Tengo que ir hasta Vilafranca para la ITV? ¿Me ayudáis con eso?",
+      "a": "Sí, la estación más cercana está en Vilafranca del Penedès. Para evitarte viajes en balde, ofrecemos un servicio de revisión Pre-ITV muy completo. Revisamos todos los puntos críticos que miran en la inspección: luces, frenos, neumáticos, emisiones, holguras... Así te aseguras de ir sobre seguro y pasarla a la primera."
+    }
+  ],
+  "closingHeadline": "Tu taller de confianza en Sant Sadurní",
+  "closingCta": "Si tu coche necesita una revisión o tienes una avería, no dudes en contactarnos. Pide tu presupuesto cerrado para tu coche en Sant Sadurní d'Anoia por teléfono, WhatsApp o email y conduce con tranquilidad."
+}

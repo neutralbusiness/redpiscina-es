@@ -1,0 +1,179 @@
+{
+  "slug": "el-goloso",
+  "name": "El Goloso",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 19036,
+  "lat": 40.55342,
+  "lng": -3.69968,
+  "metaTitle": "Taller mecánico en El Goloso, Madrid — Multimarca y honesto",
+  "metaDescription": "Revisión, mecánica y neumáticos para tu coche en El Goloso. Presupuesto cerrado para que no te lleves sorpresas. ¡Pide tu cita y conduce tranquilo por la M-607!",
+  "heroSubtitle": "El coche familiar lo usa tu hijo para la Autónoma, tú para la base y tu pareja para Tres Cantos. Lo sabemos. Y sabemos cómo cuidarlo.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Entender un coche en El Goloso es entender que no es solo un coche. Es la herramienta que conecta a toda la familia con sus obligaciones en el norte de Madrid. Es el diésel que un día se chupa el atasco de la M-607 hasta Plaza de Castilla, al siguiente hace un viaje relámpago al campus de Cantoblanco y el fin de semana sube a la sierra por la carretera de Colmenar. Este uso mixto, tan típico de las familias que viven cerca de la base o en las urbanizaciones cercanas, es un desafío mecánico. Un único vehículo tiene que rendir en situaciones totalmente opuestas: el trote corto que apenas calienta el motor y el trayecto largo a altas revoluciones. Aquí, el mantenimiento estándar no siempre es suficiente. El clima continental de Madrid, con sus veranos secos y heladas invernales, añade otra capa de exigencia a baterías, neumáticos y sistemas de refrigeración. Por eso, nuestro enfoque no es tratar coches, sino entender rutinas. La tuya y la de tu familia.\n\nLa Carretera de Colmenar, la M-607, es el eje sobre el que gira la vida de muchos de nuestros clientes. Conocemos perfectamente el desgaste que provoca. No es lo mismo el tramo que va hacia Tres Cantos, más fluido, que la tortura diaria de frenar y arrancar durante kilómetros para entrar en Madrid. Ese castigo constante para el embrague y los frenos es una de nuestras especialidades. Vemos a diario discos de freno alabeados por los cambios de temperatura y pastillas que duran la mitad de lo esperado. También sabemos que el polvo en suspensión que viene de El Pardo en los días de viento se come los filtros de aire y de habitáculo mucho antes de lo que indica el manual. Echarle un ojo a estos componentes con más frecuencia no es una recomendación, es una necesidad para cualquiera que dependa del coche en esta zona y no quiera llevarse un susto volviendo a casa.\n\nEl problema del 'coche para todo' es que ningún coche está diseñado para todo a la vez. El hijo que lo coge para ir a la Universidad Autónoma le está haciendo un flaco favor al filtro de partículas del motor diésel, que nunca llega a la temperatura óptima para regenerarse. Esto provoca averías caras y tirones en el motor que luego notas tú cuando necesitas potencia para incorporarte a la M-40. Mientras, el conductor que va a diario a la base militar necesita una fiabilidad a prueba de bombas, porque no puede permitirse llegar tarde. Esa mezcla de trayectos cortos y largos, de conducción urbana y de autovía, somete al aceite del motor a un estrés brutal, acortando su vida útil y poniendo en riesgo componentes internos. Por eso, en nuestro taller, la primera pregunta no es '¿qué le pasa al coche?', sino '¿qué uso le dais al coche?'. La respuesta lo cambia todo.\n\nNuestra propuesta es sencilla: un mantenimiento y una mecánica adaptados a la realidad de El Goloso y sus alrededores, no a un manual genérico. Realizamos diagnósticos pensando en cómo va a comportarse tu coche en el próximo atasco de la M-607, no en un banco de pruebas ideal. Cuando te recomendamos un tipo de neumático, tenemos en cuenta las heladas de enero cerca del Monte de El Pardo y el asfalto ardiendo de agosto. Y nuestro servicio de pre-ITV está diseñado para que pases la inspección en la estación de Tres Cantos sin despeinarte, sabiendo que hemos revisado los puntos críticos que más sufren en los coches con un uso tan variado como el tuyo. En resumen, te ofrecemos tranquilidad. La tranquilidad de saber que tu coche, el que usa toda la familia, está en manos de gente que entiende perfectamente por dónde circula cada día.",
+  "servicesIntro": "Tanto si necesitas una revisión para que el coche no dé guerra en la ITV de Tres Cantos como si el embrague empieza a cantar por los atascos de la M-607, aquí lo solucionamos.",
+  "processIntro": "Trabajamos con transparencia total. Recibes un diagnóstico claro y un presupuesto cerrado. No hacemos nada en tu coche sin que nos des tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que te preocupa y le echamos un ojo a fondo. Conectamos el equipo de diagnosis y hacemos las pruebas necesarias para encontrar el origen del problema, no solo el síntoma."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA. Es un precio final, sin letra pequeña ni sorpresas de última hora. Lo que lees es lo que pagas."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisa el presupuesto con calma. Si tienes cualquier duda, nos llamas y te la aclaramos. El coche no entra al elevador hasta que no nos das tu confirmación explícita. Tú tienes el control."
+    },
+    {
+      "title": "Reparación",
+      "body": "Trabajamos con recambios de primeras marcas y te informamos del tiempo estimado. Todas nuestras reparaciones y piezas tienen garantía para que conduzcas con total tranquilidad."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "Los coches en El Goloso y la M-607 no tienen averías cualquiera. El calor, las heladas y el 'para-arranca' constante hacia Madrid generan una lista de problemas muy específica que conocemos bien.",
+  "commonIssues": [
+    {
+      "title": "Filtro de partículas (FAP) obstruido",
+      "body": "Es el problema número uno de los diésel usados para trayectos cortos, como ir al campus de la Autónoma o moverse por Tres Cantos. El motor no se calienta lo suficiente para limpiar el filtro, y acaba saltando el aviso de avería. Hacemos regeneraciones forzadas y limpiezas para evitar su costosa sustitución."
+    },
+    {
+      "title": "Desgaste acelerado de frenos",
+      "body": "El tramo de la M-607 entre El Goloso y Madrid es un infierno para los frenos. El uso intensivo en los atascos, combinado con las frenadas a alta velocidad, cristaliza las pastillas y deforma los discos. Revisamos y sustituimos el sistema de frenado para garantizar tu seguridad en esa carretera."
+    },
+    {
+      "title": "Baterías que mueren en invierno",
+      "body": "El calor extremo del verano madrileño degrada la batería internamente, pero es el frío intenso de las mañanas de invierno en esta zona norte el que le da la estocada final. Si notas que al coche le cuesta arrancar, es hora de una revisión. Comprobamos su estado para que no te deje tirado."
+    },
+    {
+      "title": "Embragues que patinan",
+      "body": "Miles de cambios de primera a segunda en los atascos diarios hacia la M-40 acaban con la vida útil de cualquier embrague. Si notas que el pedal está duro o que el coche se revoluciona pero no acelera, es un síntoma claro. Somos especialistas en la sustitución de kits de embrague y bimasa."
+    },
+    {
+      "title": "Fallos en el sistema de aire acondicionado",
+      "body": "En julio, con el coche parado en la M-607, el sistema de climatización trabaja al límite. La falta de flujo de aire y las altas temperaturas pueden causar sobrepresión y fugas en el circuito. Recomendamos una revisión y recarga del gas antes de que llegue el calor fuerte."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos tu día a día",
+      "body": "Sabemos lo que es conducir por la M-607 a las ocho de la mañana. Por eso, nuestras soluciones están pensadas para los problemas reales de los coches que circulan por el norte de Madrid, no para averías de manual."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "La factura que pagas es idéntica al presupuesto que aprobaste. Sin extras inesperados ni conceptos raros. Creemos que la confianza empieza por la claridad en la pasta."
+    },
+    {
+      "title": "Diagnóstico honesto y claro",
+      "body": "Te explicamos la avería para que la entiendas, aunque no seas mecánico. Te decimos qué es urgente reparar y qué puede esperar. No te cambiaremos una pieza que no lo necesite."
+    },
+    {
+      "title": "Un taller para el coche familiar",
+      "body": "Entendemos que el coche lo usan varias personas. Adaptamos nuestras revisiones a ese uso mixto y exigente, para garantizar la seguridad de todos los que lo conducen."
+    },
+    {
+      "title": "Ágiles porque tu tiempo cuenta",
+      "body": "Sabemos que no tener coche en esta zona es un problema serio. Por eso optimizamos nuestros procesos para ser rápidos en el diagnóstico y la reparación, y tener tu coche listo cuanto antes."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes famosos, pero sí historias reales. Estos son ejemplos de situaciones comunes que resolvemos a diario en nuestro taller. Quizás te suene alguna.",
+  "testimonials": [
+    {
+      "name": "Carlos",
+      "neighborhood": "Base Militar El Goloso",
+      "car": "SEAT León FR 2018",
+      "body": "Por mi trabajo, necesito que el coche arranque a la primera, sea la hora que sea. Últimamente notaba un ruido raro al frenar bajando hacia Madrid. Me lo miraron, me enseñaron los discos y me explicaron por qué se habían desgastado así por la M-607. Presupuesto claro y coche listo al día siguiente. Fiabilidad total.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Tres Cantos",
+      "car": "Peugeot 207 2010",
+      "body": "Uso el coche para ir a clase a la Autónoma y poco más. Me saltó un aviso de 'riesgo de obstrucción del FAP'. Entré en pánico pensando en la pasta que sería. Aquí me explicaron por qué pasaba por hacer trayectos tan cortos y me hicieron una limpieza. Me ahorraron un dineral y me dieron consejos para que no vuelva a pasar.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Montecarmelo",
+      "car": "Volkswagen Passat TDI 2015",
+      "body": "El embrague empezó a patinar en los atascos de la mañana. Un desastre. Pedí presupuesto en varios sitios y aquí fueron los más claros desde el principio, explicándome lo del volante bimasa. El precio fue el que me dijeron y el coche ahora va como la seda. Se nota que controlan del tema.",
+      "rating": 5
+    },
+    {
+      "name": "Ana",
+      "neighborhood": "Fuencarral",
+      "car": "Nissan Qashqai 2016",
+      "body": "Es el coche de la familia, lo mismo va al cole que a la sierra. Antes de las vacaciones de verano, lo llevé para una revisión general y para que le miraran el aire, que no enfriaba mucho. Lo revisaron todo, recargaron el gas y me cambiaron los filtros. El viaje, mucho más tranquilos y frescos. Buen servicio.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller da servicio principalmente a conductores de El Goloso y toda su área de influencia en la zona norte de Madrid. Si vives o trabajas en la base militar, el campus de la Universidad Autónoma en Cantoblanco, Tres Cantos, Montecarmelo o Las Tablas, estamos a tu lado. Nos conocemos al dedillo las rutas y los atajos de la zona. El acceso es muy sencillo desde la vía de servicio de la M-607 (Carretera de Colmenar Viejo), el eje que vertebra toda la zona y por el que seguramente pasas a diario. También tenemos buena conexión desde la M-40, ideal si vienes de barrios como Mirasierra o Fuencarral, y estamos a un paso de las principales arterias de comunicación hacia la sierra de Madrid o el aeropuerto.",
+  "zoneNeighborhoods": [
+    "El Goloso",
+    "Tres Cantos",
+    "UAM-Cantoblanco",
+    "Montecarmelo",
+    "Las Tablas",
+    "Fuencarral",
+    "Mirasierra",
+    "Colmenar Viejo"
+  ],
+  "zoneAccessRoutes": [
+    "M-607 (Carretera de Colmenar Viejo)",
+    "M-40",
+    "A-1 (Autovía del Norte)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Mi coche es diésel y solo lo uso para ir a la Autónoma, necesita un cuidado especial?",
+      "a": "Sí, y es una consulta muy frecuente. Los trayectos tan cortos son el peor enemigo del filtro de partículas (FAP/DPF) de un diésel moderno. El motor no alcanza la temperatura necesaria para autolimpiarse, y el filtro se obstruye. Te recomendamos salir a carretera, como por la propia M-607, al menos una vez a la semana durante 20 minutos a un ritmo alegre para forzar esa limpieza. Si ya es tarde, podemos ayudarte con una regeneración en el taller."
+    },
+    {
+      "q": "Vivo en la base de El Goloso y tengo horarios complicados, ¿sois flexibles con la entrega y recogida?",
+      "a": "Totalmente. Entendemos perfectamente la situación del personal de la base. Avísanos de tus horarios cuando pidas la cita y buscaremos la forma de adaptarnos para que puedas dejar y recoger el coche sin que interfiera con tu servicio. La comunicación es clave, encontraremos una solución."
+    },
+    {
+      "q": "El aire acondicionado no enfría bien en los atascos de la M-607 en julio, ¿qué puede ser?",
+      "a": "Es un síntoma clásico. Cuando el coche está parado en un atasco, no hay flujo de aire que refrigere el condensador del aire acondicionado. Si además el sistema está un poco bajo de gas o el electroventilador no funciona a la velocidad correcta, su rendimiento cae en picado. Lo más probable es que necesite una revisión de fugas y una recarga de gas. Te recomendamos hacerlo antes de que llegue el calor fuerte."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Tres Cantos y no quiero sorpresas, ¿qué miráis en la pre-ITV?",
+      "a": "Nuestro servicio de pre-ITV es exhaustivo y se centra en los puntos que más fallan en la estación de Tres Cantos. Revisamos a fondo luces, frenos (muy importante por el desgaste de la M-607), holguras en la suspensión y dirección, estado de los neumáticos y, por supuesto, la emisión de gases, que es un punto crítico en los coches con mucho uso urbano y de autovía como los de esta zona."
+    },
+    {
+      "q": "Noto que los frenos 'cantan' al bajar de Colmenar a Madrid, ¿es normal?",
+      "a": "Que hagan ruido nunca es buena señal, aunque sea común. Ese chirrido o 'canto' puede deberse a que las pastillas de freno se han cristalizado por el calor de las frenadas continuas en esa bajada, o que simplemente están llegando al final de su vida útil. No lo dejes pasar. Es un elemento de seguridad vital y vale la pena que le echemos un ojo para asegurarnos de que todo está en orden."
+    },
+    {
+      "q": "El coche lo usamos varios en la familia, ¿qué tipo de revisión recomendáis?",
+      "a": "En un coche de uso compartido, recomendamos acortar los intervalos de revisión que marca el fabricante, sobre todo en lo que respecta al aceite y los filtros. Un conductor puede ser más suave y otro más brusco. Esa mezcla de estilos de conducción somete a la mecánica a más estrés. Una revisión intermedia cada 10.000 o 15.000 km para comprobar niveles, presiones y puntos clave de seguridad es la mejor inversión para su fiabilidad."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en El Goloso",
+  "closingCta": "Sabemos que tu coche es una pieza clave para tu familia en el norte de Madrid. Pide tu cita por teléfono, WhatsApp o email y deja que nos encarguemos de que siga siendo fiable y seguro."
+}

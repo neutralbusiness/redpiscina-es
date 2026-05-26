@@ -1,0 +1,191 @@
+{
+  "slug": "badalona",
+  "name": "Badalona",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 217741,
+  "lat": 41.45004,
+  "lng": 2.24741,
+  "metaTitle": "Taller mecánico en Badalona — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Badalona. Presupuesto cerrado para revisiones, averías y neumáticos. Servimos a todos los barrios y marcas. Pide tu cita online.",
+  "heroSubtitle": "Cansado del tráfico de la C-31 y de las sorpresas en la factura del taller? Conduce tranquilo, nosotros nos ocupamos de tu coche en Badalona.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives y conduces en Badalona, sabes que tu coche no tiene una vida fácil. El día a día de muchos badaloneses implica coger la C-31 o la Ronda B-20 para ir a trabajar a Barcelona, aguantando atascos que castigan el embrague y los frenos. O quizás tu rutina es más local, subiendo y bajando las cuestas de barrios como Bufalà, La Morera o Pomar, un esfuerzo constante para la suspensión y el motor. En nuestro taller entendemos estas particularidades porque también las vivimos. Sabemos lo que significa buscar aparcamiento en calles estrechas del Centre o de Dalt de la Vila y el desgaste que eso supone para la dirección y los neumáticos. Por eso, nuestro enfoque no es genérico; es un servicio pensado por y para los conductores de Badalona.\n\nEl clima mediterráneo es fantástico para vivir, pero es un desafío para la mecánica de tu coche. La brisa marina, cargada de salitre, es una constante en los barrios más cercanos a la playa como El Progrés o Canyadó. Esta humedad salina acelera la corrosión de los bajos del coche, el sistema de escape y los discos de freno, incluso si no lo aparcas en primera línea de mar. Y qué decir del verano: el calor intenso pone a prueba el sistema de refrigeración y el aire acondicionado, dos elementos que no pueden fallar cuando el asfalto quema. Realizamos revisiones específicas para mitigar estos efectos, protegiendo tu inversión y garantizando tu seguridad y confort durante todo el año.\n\nEl parque automovilístico de Badalona es tan diverso como su gente. Vemos a diario los coches que mueven la ciudad: los Seat Ibiza y León, los Peugeot 208 y 308, los Renault Clio y Mégane, que son los compañeros fieles de miles de familias y trabajadores de barrios como Llefià, La Salut o Sant Crist. También conocemos bien las furgonetas de los autónomos y pequeñas empresas que operan desde los polígonos de Montigalà o Les Guixeres. No importa si conduces un diésel con más de diez años que necesita mimos para pasar la ITV, un gasolina moderno o uno de los cada vez más comunes híbridos; tenemos la experiencia y el equipo para trabajar con todas las marcas y modelos que circulan por nuestras calles.\n\nEntendemos que tu coche es una herramienta esencial, no un lujo. Lo necesitas para llevar a los niños al colegio, para ir a comprar al Màgic Badalona o para cumplir con tus clientes. Por eso, nuestro compromiso es la total transparencia. Antes de cambiar una sola pieza, recibirás un presupuesto cerrado y detallado. No habrá sorpresas ni costes ocultos. Te explicaremos qué le pasa a tu coche en un lenguaje que entiendas, sin tecnicismos innecesarios. Queremos ser tu taller de confianza en Badalona, ese al que vienes sabiendo que cuidaremos de tu coche como si fuera nuestro, porque sabemos lo importante que es para ti seguir en movimiento.",
+  "servicesIntro": "Desde la revisión para pasar la ITV en Badalona sin sustos hasta cambiar el embrague desgastado por el tráfico de la B-20, lo cubrimos todo.",
+  "processIntro": "Trabajamos con total claridad. Te damos un presupuesto cerrado, te explicamos cada paso y no hacemos nada sin tu visto bueno. Así de simple.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, nuestros técnicos realizan una revisión completa para identificar el problema con precisión. Escuchamos lo que te preocupa y usamos equipos de diagnosis para encontrar la causa raíz de la avería, no solo el síntoma."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y sin sorpresas. Especificamos piezas, mano de obra y el IVA. Lo que ves es lo que pagas. Te lo enviamos por WhatsApp o email para que lo revises con calma."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "El coche es tuyo y tú decides. No tocaremos ni un tornillo hasta que nos des tu aprobación explícita al presupuesto. Si durante la reparación surgiera algo imprevisto (algo muy raro), te contactaríamos de inmediato antes de continuar."
+    },
+    {
+      "title": "Reparación",
+      "body": "Una vez aprobado, nos ponemos manos a la obra. Utilizamos piezas de primeras marcas o equivalentes de calidad garantizada. Te mantenemos informado del proceso y cumplimos los plazos acordados para que recuperes tu vehículo lo antes posible."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Al recoger tu coche, te explicamos en detalle la reparación efectuada y te entregamos la factura con la garantía correspondiente. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+    }
+  ],
+  "commonIssuesIntro": "El cóctel de aire salino del Mediterráneo, el tráfico denso hacia Barcelona y las cuestas de nuestros barrios provocan un desgaste muy particular en los coches de Badalona. Estos son los problemas que más vemos.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El trayecto diario por la C-31 o la Ronda B-20, con sus constantes paradas y arranques, es un castigo para el embrague. Si a eso le sumamos el tráfico interno de barrios densos como Llefià o Artigues, el resultado es un desgaste acelerado. Revisamos y sustituimos kits de embrague y sistemas de frenado para que conduzcas con seguridad."
+    },
+    {
+      "title": "Corrosión por ambiente salino",
+      "body": "Vivir cerca del mar en El Progrés, Casagemes o el Manresà tiene un precio para tu coche. La salinidad del aire ataca silenciosamente los bajos, el sistema de escape y los componentes metálicos de los frenos. Ofrecemos inspecciones específicas para detectar y frenar la corrosión a tiempo, alargando la vida de tu vehículo."
+    },
+    {
+      "title": "Problemas en el sistema de climatización",
+      "body": "Los veranos en Badalona son largos, calurosos y húmedos. Un aire acondicionado que no enfría lo suficiente es un verdadero problema. El uso intensivo y la falta de mantenimiento provocan fugas de gas, fallos en el compresor o filtros obstruidos. Nos aseguramos de que tu climatizador funcione a pleno rendimiento."
+    },
+    {
+      "title": "Suspensión y neumáticos castigados",
+      "body": "Entre los badenes de zonas residenciales como Montigalà, los baches de algunas calles y el subir y bajar constante de las zonas altas como Canyet o Mas Ram, la suspensión sufre. Amortiguadores gastados y neumáticos mal alineados afectan a la seguridad y el confort. Revisamos todo el tren de rodaje para garantizar una pisada perfecta."
+    },
+    {
+      "title": "Averías en alternador y batería",
+      "body": "El calor del verano degrada las baterías más rápido, y el uso intensivo del aire acondicionado y otros sistemas eléctricos exige mucho al alternador. Los trayectos cortos por la ciudad no siempre son suficientes para recargar la batería por completo. Diagnosticamos fallos eléctricos para que tu coche arranque siempre a la primera."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de Badalona",
+      "body": "Sabemos qué problemas dan los coches que circulan por aquí, desde el desgaste por la sal del mar hasta el castigo del tráfico de la C-31. No aplicamos soluciones genéricas, sino adaptadas a la realidad local."
+    },
+    {
+      "title": "Presupuesto claro y sin sorpresas",
+      "body": "Te damos un precio cerrado antes de empezar. Lo que presupuestamos es lo que pagas. La confianza empieza por la transparencia en la factura, y en eso somos inflexibles."
+    },
+    {
+      "title": "Para todas las marcas y modelos",
+      "body": "Da igual si llevas un utilitario para moverte por el centro, un SUV familiar o la furgoneta de tu negocio. Tenemos la tecnología y la experiencia para cuidar de cualquier vehículo, sin importar la marca o la antigüedad."
+    },
+    {
+      "title": "Directo a pasar la ITV",
+      "body": "Conocemos los puntos críticos que miran en la estación ITV de Badalona. Hacemos una revisión pre-ITV exhaustiva para que vayas tranquilo y la pases a la primera, ahorrándote tiempo y dinero."
+    },
+    {
+      "title": "Trato personal, no un número",
+      "body": "Somos un taller de aquí. Nos gusta hablar contigo, entender qué necesitas y explicarte las cosas de forma clara. Para nosotros, cada cliente es un vecino al que queremos ayudar."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Badalona que han confiado en nosotros. Sus casos, probablemente, te resulten familiares.",
+  "testimonials": [
+    {
+      "name": "Anna",
+      "neighborhood": "Centre",
+      "car": "Fiat 500 2018",
+      "body": "Tenía la ITV en dos semanas y siempre me pongo nerviosa. Me hicieron una revisión pre-ITV súper completa. Detectaron que las pastillas de freno estaban en las últimas y una luz de posición fundida. Lo arreglaron en la misma mañana y pasé la ITV sin ningún fallo. Un alivio, la verdad.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Llefià",
+      "car": "Seat León TDI 2015",
+      "body": "Voy cada día a la Zona Franca a trabajar, así que me como todo el atasco de la Ronda. El pedal del embrague empezó a ir duro y a hacer un ruido raro. Me dieron cita rápido, me confirmaron que el kit de embrague estaba para cambiar y me dieron un presupuesto cerrado. Muy profesionales y honestos.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Montigalà",
+      "car": "Peugeot 3008 2017",
+      "body": "Con dos niños, el aire acondicionado en verano no es negociable. Dejó de enfriar de un día para otro en pleno julio. Lo llevé y encontraron una pequeña fuga en el circuito. Lo repararon y recargaron el gas. El precio fue el que me dijeron desde el principio. ¡Nos salvaron el verano!",
+      "rating": 5
+    },
+    {
+      "name": "Joan",
+      "neighborhood": "El Progrés",
+      "car": "Ford Transit Connect 2016",
+      "body": "Uso la furgoneta para trabajar y no puede estar parada. Notaba que no frenaba como antes. Me revisaron todo el sistema y vieron que los discos delanteros estaban bastante mal, seguramente por la humedad y la sal. Me lo cambiaron todo en el día. Buen servicio, sobre todo para los que dependemos del vehículo.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda Badalona, sin excepción. Tanto si vives en los barrios costeros como El Progrés o Canyadó, como si resides en las zonas más elevadas como Bufalà o La Morera, nuestro taller es tu solución de confianza. Cubrimos desde el límite con Sant Adrià de Besòs en Sant Roc y Artigues, hasta la frontera con Montgat. Muchos de nuestros clientes vienen también de municipios vecinos como Santa Coloma de Gramenet, Tiana o Sant Fost de Campsentelles, aprovechando los buenos accesos por la B-20, la C-31 y la B-500. Si te mueves por el Barcelonès Nord, estamos a tu alcance.",
+  "zoneNeighborhoods": [
+    "Centre",
+    "Llefià",
+    "La Salut",
+    "Montigalà",
+    "Bufalà",
+    "Pomar",
+    "Canyadó",
+    "Sant Crist",
+    "Progrés",
+    "Morera"
+  ],
+  "zoneAccessRoutes": [
+    "C-31 (Autopista del Maresme)",
+    "B-20 (Ronda de Dalt)",
+    "N-II",
+    "B-500"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la pre-ITV para pasarla en el centro de Badalona?",
+      "a": "Sí, por supuesto. Conocemos perfectamente la estación de ITV de Badalona y los puntos en los que suelen ser más exigentes. Hacemos una revisión completa de los elementos de seguridad, emisiones, luces y neumáticos para que vayas con la total seguridad de que la pasarás a la primera, ahorrándote un segundo viaje y las tasas correspondientes."
+    },
+    {
+      "q": "Mi coche duerme en la calle cerca de la playa, ¿qué revisión especial recomendáis?",
+      "a": "Para coches expuestos al ambiente salino de Badalona, recomendamos una revisión anual de los bajos del vehículo. Comprobamos el estado del chasis, el sistema de escape, los conductos de freno y la suspensión en busca de signos de corrosión. Una detección temprana puede evitar reparaciones mucho más costosas en el futuro y alargar la vida útil de tu coche."
+    },
+    {
+      "q": "Voy cada día a Barcelona por la C-31, ¿qué mantenimiento extra necesita mi coche?",
+      "a": "Ese tipo de trayecto, con tráfico denso y repetitivo, somete a un gran estrés al embrague, los frenos y la caja de cambios. Recomendamos acortar ligeramente los intervalos de revisión del líquido de frenos y no apurar el cambio del kit de embrague. Un buen mantenimiento preventivo en estos componentes es clave para evitar averías en medio de un atasco."
+    },
+    {
+      "q": "¿Tenéis experiencia con furgonetas de autónomos de la zona del polígono de Montigalà?",
+      "a": "Totalmente. Entendemos que para un profesional, la furgoneta es su herramienta de trabajo y no puede estar parada. Tenemos experiencia con los modelos más comunes (Berlingo, Partner, Transit, Caddy...) y priorizamos estas reparaciones para que puedas volver a tu actividad lo antes posible. Conocemos el desgaste típico que sufren por la carga y el uso intensivo."
+    },
+    {
+      "q": "Vivo en Santa Coloma de Gramenet, ¿me compensa ir a vuestro taller en Badalona?",
+      "a": "Muchos de nuestros clientes son de Santa Coloma. Gracias a la conexión directa por la B-20 o a través de la ciudad, llegar a nuestro taller te llevará muy poco tiempo. Lo que ganas es un servicio transparente con presupuesto cerrado y la experiencia de un equipo que conoce a fondo los problemas de los coches de toda la zona del Barcelonès Nord."
+    },
+    {
+      "q": "El aire acondicionado de mi coche no enfría bien en verano, ¿es una avería cara?",
+      "a": "No tiene por qué serlo. Muchas veces, una pérdida de rendimiento se debe simplemente a que el circuito de gas ha perdido presión con el tiempo y necesita una recarga. Otras causas comunes son un filtro obstruido o un fusible. Antes de hablar de averías caras como el compresor, hacemos un diagnóstico completo para encontrar la solución más económica y eficaz para ti."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Badalona",
+  "closingCta": "No dejes que una avería te detenga. Pide tu presupuesto cerrado para tu coche en Badalona. Llámanos o envíanos un WhatsApp y te daremos cita sin compromiso.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Badalona",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@tallerbarcelona.com",
+    "addressStreet": ""
+  }
+}

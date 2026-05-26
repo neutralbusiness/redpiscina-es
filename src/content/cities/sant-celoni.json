@@ -1,0 +1,182 @@
+{
+  "slug": "sant-celoni",
+  "name": "Sant Celoni",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 16860,
+  "lat": 41.68921,
+  "lng": 2.48965,
+  "metaTitle": "Taller mecánico en Sant Celoni — Multimarca y de confianza",
+  "metaDescription": "Tu taller multimarca en Sant Celoni para revisión, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Pide tu cita ahora y conduce tranquilo.",
+  "heroSubtitle": "Harto de los talleres que no te cogen el teléfono y las facturas con sorpresa en el Baix Montseny? Respira, has llegado al sitio correcto.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Sant Celoni y el Baix Montseny no es como hacerlo en una gran ciudad. Aquí tu coche es una herramienta esencial, ya sea para el trayecto diario a Granollers o Mollet por la C-35, para llevar a los niños al colegio en el centro, o para esa escapada de fin de semana a Santa Fe del Montseny. Conocemos el parque móvil de la zona: el SEAT León diésel que acumula kilómetros por la AP-7, el Peugeot 2008 de gasolina para moverse por el pueblo y alrededores, o la furgoneta Renault Kangoo del autónomo que trabaja por toda la comarca. Entendemos que tu vehículo no es un lujo, sino una necesidad que debe ser fiable en todo momento, y por eso nuestro enfoque es directo, honesto y adaptado a la realidad de Sant Celoni.\n\nEl clima del Vallès Oriental, con su humedad palpable y sus inviernos fríos y neblinosos por la cercanía del Tordera, pasa factura. No es raro que las baterías sufran más de la cuenta o que los sistemas de encendido den problemas por la mañana. En verano, el calor intenso pone a prueba el sistema de refrigeración y el aire acondicionado, sobre todo en los atascos que se forman en la AP-7 en operación salida. Las lluvias torrenciales de otoño exigen tener neumáticos y frenos en perfecto estado para circular con seguridad por carreteras como la BV-5114 hacia Vallgorguina. Nuestro mantenimiento preventivo tiene en cuenta estas condiciones climáticas específicas para que tu coche no te deje tirado.\n\nEl tipo de uso que le das a tu coche aquí también es particular. Los trayectos cortos y repetidos para ir a comprar al centro de Sant Celoni o para moverte entre barrios como Les Borrelles o Can Valls castigan los filtros de partículas de los diésel y desgastan el embrague. Por otro lado, los kilómetros de autopista a velocidad constante para ir a trabajar a Barcelona exigen un buen mantenimiento del motor y la distribución. Y si eres de los que disfrutan de las curvas y pendientes del Montseny, sabes que la suspensión, los frenos y los neumáticos trabajan el doble. En nuestro taller analizamos cómo usas tu coche para recomendarte el mantenimiento que realmente necesita, sin extras innecesarios.\n\nSabemos que el coche es una inversión importante para las familias de Sant Celoni, La Batllòria o Santa Maria de Palautordera. Por eso, nos especializamos en alargar la vida útil de vehículos de entre 4 y 15 años. No te vamos a recomendar cambiar de coche a la primera de cambio. Nuestra prioridad es encontrar la solución más inteligente y económica para que tu Ford Focus, tu Opel Astra o tu Citroën C4 sigan funcionando de forma segura y eficiente durante muchos años más. Hablamos tu mismo idioma: el de la fiabilidad, la transparencia y un presupuesto que no te dé un susto a final de mes.",
+  "servicesIntro": "Desde la revisión anual para tu coche hasta la avería más compleja, aquí en Sant Celoni cubrimos todas las necesidades de tu vehículo.",
+  "processIntro": "Trabajamos con total transparencia. Te damos un diagnóstico claro, un presupuesto cerrado y nunca reparamos nada sin tu aprobación previa.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Tu coche entra en nuestro taller de Sant Celoni y lo conectamos a nuestros equipos de diagnosis. Escuchamos el motor, revisamos los puntos clave y te explicamos el origen del problema con palabras que entiendes."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y sin letra pequeña. El precio que ves es el que pagas, sin sorpresas. Te lo enviamos por WhatsApp o email para que lo revises con calma."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No movemos ni un tornillo sin tu 'vale'. Revisa el presupuesto y, si estás de acuerdo, danos luz verde. Si decides no reparar, no hay problema. Tú tienes siempre el control total sobre la intervención en tu coche."
+    },
+    {
+      "title": "Reparación",
+      "body": "Usamos recambios de primeras marcas, equivalentes a los originales, para garantizar la fiabilidad. Nuestros mecánicos se ponen manos a la obra para dejar tu coche perfecto, cumpliendo los plazos que te hemos indicado."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche esté listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para asegurarnos de que todo funciona como la seda y estás satisfecho con el servicio."
+    }
+  ],
+  "commonIssuesIntro": "El clima del Montseny y el uso diario por la AP-7 y la C-35 provocan averías muy concretas en los coches de Sant Celoni. Estas son las que más vemos en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de frenos y embrague",
+      "body": "El tráfico intermitente dentro de Sant Celoni, sumado a las retenciones en la C-35 en hora punta y las bajadas pronunciadas al volver del Montseny, castigan mucho los frenos y el embrague. Realizamos una revisión exhaustiva del sistema y te asesoramos sobre pastillas y discos adecuados para este tipo de uso mixto, asegurando una frenada segura y duradera."
+    },
+    {
+      "title": "Fallo de batería en invierno",
+      "body": "Las mañanas frías y húmedas del valle del Tordera son la prueba de fuego para las baterías. Muchos coches que solo hacen trayectos cortos por el pueblo no llegan a recargarla por completo. Comprobamos el estado de tu batería y el alternador para evitar que una mañana te encuentres con que el coche no arranca para ir a trabajar."
+    },
+    {
+      "title": "Problemas con el sistema de climatización",
+      "body": "El aire acondicionado funciona a pleno rendimiento durante los veranos calurosos del Vallès y en invierno es clave para desempañar los cristales por la humedad. Este doble uso puede provocar fugas o pérdida de eficacia. Hacemos diagnósticos de fugas, recargas de gas y reparaciones del compresor para que el clima interior de tu coche sea siempre el adecuado."
+    },
+    {
+      "title": "Suspensión y neumáticos castigados",
+      "body": "Entre los badenes de zonas residenciales como Can Valls, el estado de algunas carreteras comarcales y las exigencias de las rutas de montaña, la suspensión y los neumáticos sufren. Unos amortiguadores en mal estado no solo son incómodos, sino peligrosos. Revisamos todo el conjunto para garantizar tu estabilidad y agarre en carretera."
+    },
+    {
+      "title": "Acumulación de carbonilla en motores diésel",
+      "body": "Muchos diésel de Sant Celoni combinan trayectos cortos urbanos con largos recorridos por la AP-7. Esta combinación es propensa a obstruir el filtro de partículas (FAP) y la válvula EGR. Realizamos limpiezas y descarbonizaciones para que tu motor diésel respire mejor, recupere potencia, consuma menos y pase la ITV sin problemas de humos."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches del Vallès",
+      "body": "Sabemos qué problemas dan los modelos más comunes en Sant Celoni y alrededores. No perdemos el tiempo en diagnósticos genéricos, vamos directos al grano porque conocemos el terreno."
+    },
+    {
+      "title": "Presupuestos que no cambian",
+      "body": "El precio que te damos es el que pagas. Si durante la reparación surge un imprevisto, paramos, te llamamos y te explicamos las opciones. Tú decides siempre."
+    },
+    {
+      "title": "Mecánica clara y honesta",
+      "body": "Te explicamos la avería de forma que la entiendas, sin tecnicismos innecesarios. Te diremos qué es urgente reparar y qué puede esperar, para que gestiones el mantenimiento de tu coche sin agobios."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un SEAT, un Renault, un Ford o un BMW. Tenemos la experiencia y el equipo de diagnosis para trabajar con todas las marcas y modelos que circulan por nuestras carreteras."
+    },
+    {
+      "title": "Tu taller de proximidad",
+      "body": "Estamos aquí, en Sant Celoni, para hacerte la vida más fácil. Olvídate de tener que desplazarte a Granollers o Mataró para el mantenimiento de tu coche. La solución la tienes al lado de casa."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que solucionamos cada día. Los nombres y coches son ficticios, pero los problemas te sonarán.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Can Valls",
+      "car": "SEAT León TDI 2016",
+      "body": "Hago cada día el trayecto Sant Celoni - Granollers por la C-35 y notaba un chirrido raro al frenar. Pensaba que sería una pasta. Me dieron un presupuesto cerrado, me explicaron que solo eran las pastillas y en medio día lo tenía listo. Muy transparentes y profesionales, se nota que saben lo que hacen.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "La Batllòria",
+      "car": "Renault Clio 2018",
+      "body": "Tenía que pasar la ITV y siempre me da pánico el tema de los humos. Les pedí una revisión pre-ITV. Me lo miraron todo, ajustaron un par de cosas y me dijeron que fuera tranquila. El coche pasó a la primera sin ningún fallo. Me ahorraron un segundo viaje y muchos nervios. Muy recomendable.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Centre Vila",
+      "car": "Ford Kuga 2015",
+      "body": "Justo antes de irnos de vacaciones en agosto, el aire acondicionado dejó de enfriar. Con el calor que hace aquí, era un drama. Les llamé, me hicieron un hueco rápido, detectaron una pequeña fuga y la repararon. Me salvaron las vacaciones. El precio, el que me dijeron desde el principio. Un 10.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Santa Maria de Palautordera",
+      "car": "Peugeot 2008 2017",
+      "body": "Se me encendió el testigo de fallo motor y ya me temía lo peor. En otros talleres me habían mareado. Aquí conectaron el ordenador, vieron que era un sensor y me dieron el presupuesto al momento. No intentaron venderme nada más. Valoro mucho esa honestidad. El coche va perfecto ahora.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la zona del Baix Montseny desde nuestro taller en Sant Celoni. Si vives en el centro, en barrios como Les Borrelles, Can Valls o el Residencial Montseny, estamos a un paso. Nuestra ubicación es ideal para conductores de municipios cercanos que usan la C-35 o la AP-7 a diario. Recibimos clientes de Santa Maria de Palautordera, Sant Esteve de Palautordera, Vallgorguina y Llinars del Vallès que buscan un servicio de confianza sin tener que ir hasta capitales de comarca más grandes. También cubrimos núcleos como La Batllòria, Olzinelles o Fuirosos. Vengas de donde vengas, nuestro acceso es sencillo y rápido.",
+  "zoneNeighborhoods": [
+    "Centre Vila",
+    "Les Borrelles",
+    "Can Valls",
+    "La Batllòria",
+    "Santa Maria de Palautordera",
+    "Vallgorguina",
+    "Sant Esteve de Palautordera",
+    "Llinars del Vallès",
+    "Residencial Montseny",
+    "El Pujolet"
+  ],
+  "zoneAccessRoutes": [
+    "AP-7",
+    "C-35",
+    "BV-5114",
+    "BV-5301"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Es necesario pedir cita para la revisión si vivo en La Batllòria?",
+      "a": "Sí, te recomendamos pedir cita siempre. Aunque estés cerca, nos permite organizarnos mejor y dedicarle a tu coche el tiempo que necesita sin prisas. Especialmente antes de puentes o vacaciones, la agenda se llena rápido. Llámanos o envíanos un WhatsApp y te daremos hora lo antes posible."
+    },
+    {
+      "q": "Mi coche diésel hace muchos trayectos cortos por Sant Celoni, ¿qué mantenimiento especial necesita?",
+      "a": "Es un caso muy común aquí. Los trayectos cortos son perjudiciales para los diésel modernos, ya que el filtro de partículas (FAP) no se regenera bien. Te recomendamos que, al menos una vez por semana, salgas a la C-35 o la AP-7 y conduzcas unos 15-20 minutos a un régimen más alto para forzar esa limpieza. En el taller podemos revisar el estado del FAP y la EGR para evitar averías costosas."
+    },
+    {
+      "q": "Subo mucho al Montseny los fines de semana. ¿Debo revisar algo en particular?",
+      "a": "Absolutamente. Las carreteras de montaña son muy exigentes con los frenos, la suspensión y los neumáticos. Te recomendamos revisar la presión de las ruedas con más frecuencia y hacer una comprobación del estado de las pastillas y discos de freno al menos una vez al año. Unos amortiguadores en buen estado también son cruciales para la seguridad en esas curvas."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Granollers. ¿Vuestra pre-ITV cubre los puntos clave que miran allí?",
+      "a": "Sí, por supuesto. Seguimos el mismo manual de procedimiento que las estaciones de ITV. Revisamos todos los puntos críticos: luces, frenos, suspensión, neumáticos, cinturones y, sobre todo, las emisiones de gases. Nos aseguramos de que tu coche vaya en perfectas condiciones para que la pases a la primera sin problemas."
+    },
+    {
+      "q": "El aire acondicionado de mi coche no enfría para el calor del Vallès. ¿Es cara la recarga?",
+      "a": "No tiene por qué serlo. Primero, diagnosticamos el sistema. Puede ser una simple recarga de gas, que es económica, o puede haber una pequeña fuga. Localizamos el problema y te damos un presupuesto cerrado antes de hacer nada. Es mejor solucionarlo que forzar el compresor y provocar una avería mucho más cara."
+    },
+    {
+      "q": "¿Qué marcas de coches son las que más reparáis en Sant Celoni?",
+      "a": "Por el tipo de parque móvil de la zona, vemos a diario coches del grupo Volkswagen (SEAT, VW, Skoda), marcas francesas como Renault, Peugeot y Citroën, y también muchos Ford y Opel. Sin embargo, estamos equipados para trabajar con cualquier marca, desde un Dacia hasta un Mercedes o un BMW, con total garantía."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Sant Celoni",
+  "closingCta": "No dejes que una avería te complique la vida. Contacta con nosotros por teléfono o WhatsApp y pide tu presupuesto sin compromiso para tu taller de confianza en Sant Celoni."
+}

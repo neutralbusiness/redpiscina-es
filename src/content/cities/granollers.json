@@ -1,0 +1,182 @@
+{
+  "slug": "granollers",
+  "name": "Granollers",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 60981,
+  "lat": 41.60797,
+  "lng": 2.28773,
+  "metaTitle": "Taller mecánico en Granollers — Multimarca y de confianza",
+  "metaDescription": "Tu taller mecánico en Granollers para revisiones, averías y neumáticos. Presupuesto cerrado y garantía. Sirviendo a todo el Vallès Oriental. Pide tu cita.",
+  "heroSubtitle": "Cansado de los atascos en la C-17 y de no saber si tu coche aguantará otro viaje a Barcelona? Aquí lo ponemos a punto, sin sorpresas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives en Granollers o en cualquier pueblo del Vallès Oriental, sabes que el coche no es un lujo, es una necesidad. Lo usas cada día para ir a trabajar, ya sea en los polígonos de la zona o cogiendo la C-17 o la AP-7 para bajar a Barcelona. Conoces de sobra el tráfico denso a primera hora de la mañana y el desgaste que eso supone para el embrague, los frenos y tu paciencia. En nuestro taller entendemos esta realidad porque la vivimos contigo. Sabemos que tu coche es probablemente un SEAT León, un Peugeot 308, un Renault Clio o un Volkswagen Golf, y conocemos sus puntos débiles y cómo mantenerlos a raya para que no te dejen tirado de camino al trabajo o al colegio de los niños.\n\nEl clima del Vallès también juega su papel. No tenemos la salinidad de la costa, pero sí veranos muy calurosos que ponen a prueba el sistema de refrigeración y el aire acondicionado, e inviernos fríos y húmedos que castigan las baterías y exigen unos neumáticos en perfecto estado para no llevarse un susto en una carretera helada dirección al Montseny. Un mantenimiento adaptado a estas condiciones no es un capricho, es seguridad. Por eso, cuando revisamos un coche en Granollers, no solo seguimos el libro del fabricante; pensamos en el calor de julio en la Ronda Sud y en la niebla de enero en la carretera de Cardedeu.\n\nAdemás, tu coche es tu vía de escape. Es el que te lleva los fines de semana a hacer una ruta por el Parc Natural del Montseny, a pasar el día en las playas del Maresme cogiendo la C-60, o de compras a La Roca Village. Estos trayectos, que mezclan autopista, carreteras secundarias y caminos rurales, exigen que la suspensión, los neumáticos y el motor estén en plena forma. Un coche fiable te da la tranquilidad de poder disfrutar de tu tiempo libre sin preocuparte por una avería inesperada. Nosotros nos encargamos de que esa tranquilidad sea tuya, revisando cada componente clave para que solo te preocupes de decidir el destino.\n\nEntendemos al conductor de aquí, al que vive en barrios como el Congost, Ponent o el Centre, y también al que viene de Les Franqueses, Canovelles o La Roca del Vallès buscando un servicio honesto y profesional sin los precios de un concesionario oficial de Barcelona. No necesitas tecnicismos complicados ni facturas infladas. Necesitas que alguien te explique qué le pasa a tu coche en un lenguaje claro, te dé un presupuesto que no va a cambiar y te garantice la reparación. Ese es nuestro compromiso: ser el taller de confianza en Granollers al que puedes traer tu coche sabiendo que está en buenas manos.",
+  "servicesIntro": "Desde la revisión anual de tu diésel hasta la diagnosis de ese testigo que se ha encendido en tu híbrido, cubrimos todas las necesidades de tu coche en Granollers.",
+  "processIntro": "Olvídate de las sorpresas en la factura. Te explicamos todo claro, te damos un presupuesto cerrado y no hacemos nada sin tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, un técnico especialista lo revisa a fondo con equipos de diagnosis modernos. Escuchamos lo que te preocupa y buscamos el origen real del problema, no solo el síntoma."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin compromiso. El precio que ves es el precio final, con mano de obra, piezas e IVA. Sin letra pequeña ni extras inesperados."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos ni un tornillo sin tu aprobación explícita. Te llamamos, te explicamos la intervención necesaria y solo cuando nos das el 'vale', nuestros mecánicos se ponen manos a la obra."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con total garantía. Nuestros mecánicos realizan la reparación siguiendo los estándares del fabricante para asegurar un resultado duradero y fiable. Te mantenemos informado del proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado y te entregamos la factura detallada. Unos días después, te contactamos para asegurar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "Los kilómetros diarios por la AP-7, el calor del verano vallesano y el tráfico urbano de Granollers pasan factura. Estos son los problemas que más vemos y solucionamos en los coches de la zona.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico intermitente para entrar y salir de Granollers y los atascos en la C-17 hacia Barcelona castigan mucho el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Nos aseguramos de que ambos sistemas respondan a la perfección para tu seguridad diaria."
+    },
+    {
+      "title": "Fallo del sistema de aire acondicionado",
+      "body": "Llegar a julio en el Vallès sin aire acondicionado es una tortura. El calor extremo fuerza el compresor y puede provocar fugas en el circuito. Realizamos cargas de gas, detectamos fugas y reparamos el sistema para que puedas sobrevivir a los 35 grados del verano sin problemas."
+    },
+    {
+      "title": "Filtro de partículas (FAP) obstruido",
+      "body": "Muchos diésel que circulan por Granollers hacen trayectos cortos, lo que impide que el filtro de partículas se regenere correctamente y acaba por obstruirse. Si te ha saltado el testigo, podemos realizar una limpieza forzada o sustituirlo, evitando averías más graves y costosas en el motor."
+    },
+    {
+      "title": "Problemas de suspensión y dirección",
+      "body": "Entre las rotondas de la ciudad, los badenes y el estado de algunas carreteras comarcales de la zona, los amortiguadores y rótulas sufren un desgaste constante. Un comportamiento extraño del coche en curvas o ruidos al pasar por un bache son síntomas claros. Revisamos y ajustamos todo el sistema para garantizar tu confort y seguridad."
+    },
+    {
+      "title": "Revisión Pre-ITV y humos (diésel)",
+      "body": "Pasar la ITV en la estación de Granollers o La Roca puede ser un trámite o un dolor de cabeza, sobre todo por la prueba de opacidad en los diésel. Hacemos una revisión Pre-ITV completa, centrándonos en los puntos críticos de rechazo como los humos, frenos, luces y neumáticos para que la pases a la primera."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Especialistas en tu coche",
+      "body": "Conocemos a la perfección los coches que más se ven por el Vallès: SEAT, Renault, Peugeot, Volkswagen... Estamos acostumbrados a sus averías típicas y sabemos cómo solucionarlas de forma eficaz y económica."
+    },
+    {
+      "title": "Presupuesto que no se mueve",
+      "body": "El precio que te damos es el que pagas. Sin sorpresas, sin añadidos de última hora. Creemos que la confianza empieza por la transparencia total en los precios."
+    },
+    {
+      "title": "El taller de tu comarca",
+      "body": "Estamos en Granollers, cerca de ti. No tienes que desplazarte a Barcelona o Sabadell para encontrar un servicio profesional y con garantía. Ahorra tiempo y gana en comodidad."
+    },
+    {
+      "title": "Te lo explicamos fácil",
+      "body": "No usamos tecnicismos para confundirte. Te explicamos qué le pasa a tu coche de una forma que entiendas, para que tomes siempre la mejor decisión sobre su mantenimiento."
+    },
+    {
+      "title": "Garantía por escrito",
+      "body": "Todas nuestras reparaciones y los recambios que utilizamos están garantizados por escrito. Tu tranquilidad es nuestra prioridad, y respondemos por nuestro trabajo."
+    }
+  ],
+  "testimonialsIntro": "Estas son algunas situaciones típicas que resolvemos. Los nombres y coches son ejemplos, pero los problemas y la satisfacción son muy reales para nuestros clientes de Granollers.",
+  "testimonials": [
+    {
+      "name": "Anna",
+      "neighborhood": "Centre",
+      "car": "SEAT Ibiza 2016",
+      "body": "Dejó de funcionar el aire acondicionado justo en junio. Con el calor que hace aquí, era imposible ir en el coche. Me dieron cita rápido, encontraron una pequeña fuga, la repararon y recargaron el gas. Me explicaron todo genial y el precio fue el que me dijeron. Un alivio.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Les Franqueses del Vallès",
+      "car": "Peugeot 3008 2018",
+      "body": "Tenía que pasar la ITV y, como hago muchos kilómetros por la AP-7, quería asegurarme de que todo estaba bien. Les pedí una revisión pre-ITV y me ajustaron las luces y la presión de las ruedas. Pasé la inspección sin ningún fallo. Un servicio muy práctico y profesional.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Canovelles",
+      "car": "Renault Clio 2012",
+      "body": "Empecé a oír un ruido raro en el motor y me asusté. Lo llevé y enseguida vieron que era la correa de distribución, que ya le tocaba por kilómetros. Me dieron un presupuesto cerrado y me prestaron un coche de cortesía para poder seguir yendo a trabajar. Muy agradecida.",
+      "rating": 5
+    },
+    {
+      "name": "Jordi",
+      "neighborhood": "Ponent",
+      "car": "VW Passat TDI 2014",
+      "body": "Me saltó el testigo del filtro de partículas. Uso el coche sobre todo por ciudad y ya me habían advertido. Pensé que la reparación sería carísima, pero me hicieron una regeneración forzada y me dieron consejos para evitar que volviera a pasar. Me ahorraron bastante pasta.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Granollers da servicio a toda la comarca del Vallès Oriental. Estamos estratégicamente situados para que sea cómodo llegar tanto si vives en el centro de la ciudad como en barrios como Congost o Ponent. Además, somos el taller de referencia para muchos conductores de municipios cercanos como Les Franqueses del Vallès, Canovelles, La Roca del Vallès, Cardedeu y Lliçà d'Amunt, que buscan un servicio de confianza sin tener que ir más lejos. Gracias a los accesos rápidos desde la C-17, la AP-7 y la C-60, llegar a nuestras instalaciones es muy sencillo, evitando el tráfico del centro.",
+  "zoneNeighborhoods": [
+    "Granollers Centre",
+    "Congost",
+    "Ponent",
+    "Sota el Camí Ral",
+    "Can Gili",
+    "Les Franqueses del Vallès",
+    "Canovelles",
+    "La Roca del Vallès",
+    "Lliçà d'Amunt",
+    "Cardedeu"
+  ],
+  "zoneAccessRoutes": [
+    "C-17 (Eix del Congost)",
+    "AP-7 (Autopista del Mediterrani)",
+    "C-60 (Carretera de Mataró)",
+    "C-35"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi coche es diésel y hago trayectos cortos por Granollers, ¿qué debo vigilar?",
+      "a": "Es una situación muy común aquí. El principal riesgo es la obstrucción del filtro de partículas (FAP) y la acumulación de carbonilla en la válvula EGR. Te recomendamos que, al menos una vez por semana, salgas a carretera (como la C-17) y conduzcas unos 15-20 minutos a un régimen de revoluciones más alto (2.500-3.000 rpm) para forzar la regeneración del filtro. En la revisión, podemos comprobar su estado."
+    },
+    {
+      "q": "¿Tenéis experiencia con las marcas más comunes en el Vallès como SEAT o Peugeot?",
+      "a": "Totalmente. Nuestro día a día es trabajar con los coches que conforman el parque móvil real de Granollers y alrededores: SEAT, Peugeot, Renault, Citroën, Volkswagen, Ford... Conocemos sus motores, su electrónica y sus averías más frecuentes. No somos un taller de nicho, somos un taller para el coche de la gente de aquí."
+    },
+    {
+      "q": "Voy a pasar la ITV en la estación de Granollers, ¿podéis hacer una revisión previa?",
+      "a": "Sí, es uno de nuestros servicios más demandados. Hacemos una inspección completa de los puntos que se revisan en la ITV, prestando especial atención a los fallos más comunes como frenos, suspensión, luces, neumáticos y, sobre todo, la prueba de gases en los diésel. Nuestro objetivo es que la pases a la primera y sin nervios."
+    },
+    {
+      "q": "Vivo en Cardedeu, ¿me compensa traer el coche a vuestro taller en Granollers?",
+      "a": "Muchos de nuestros clientes son de Cardedeu, Llinars o La Roca. Vienen porque estamos a solo 10 minutos por la C-251 y encuentran un servicio profesional con precios más ajustados que en otras zonas. La combinación de un trato cercano, presupuestos cerrados y la calidad de la reparación hace que el corto desplazamiento merezca la pena."
+    },
+    {
+      "q": "El aire acondicionado de mi coche no enfría lo suficiente para los veranos de aquí, ¿lo podéis arreglar?",
+      "a": "Por supuesto. Sabemos lo que es el calor del Vallès en agosto. Lo más habitual es que necesite una recarga de gas por pequeñas fugas naturales del sistema. Hacemos la recarga, pero también comprobamos la estanqueidad del circuito con un detector de fugas para asegurar que el problema no sea más grave. Así te aseguras de que el frío dure todo el verano."
+    },
+    {
+      "q": "¿Ofrecéis coche de cortesía? Lo necesito para seguir yendo a trabajar a Barcelona.",
+      "a": "Sí, disponemos de coches de cortesía para nuestros clientes. Entendemos que no puedes quedarte parado, especialmente si dependes del coche para tu trabajo. Este servicio está sujeto a disponibilidad, por lo que te recomendamos solicitarlo al pedir tu cita para que podamos reservarte uno. Así, dejas tu coche y sigues con tu rutina sin interrupciones."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Granollers",
+  "closingCta": "No dejes que una avería te complique la vida. Pide tu presupuesto cerrado para tu taller en Granollers por teléfono, WhatsApp o rellenando el formulario. Te esperamos para cuidar de tu coche."
+}

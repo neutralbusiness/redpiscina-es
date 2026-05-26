@@ -1,0 +1,190 @@
+{
+  "slug": "sant-quirze-del-valles",
+  "name": "Sant Quirze del Vallès",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 18462,
+  "lat": 41.53333,
+  "lng": 2.08333,
+  "metaTitle": "Taller mecánico en Sant Quirze del Vallès — Para coches con años",
+  "metaDescription": "Reparamos coches de más de 10 años en Sant Quirze del Vallès. Presupuesto cerrado para evitar sorpresas. Pide tu diagnóstico honesto.",
+  "heroSubtitle": "Ese ruido nuevo en tu coche no es tu imaginación. Es el peaje diario de la C-58 y las calles de Sant Quirze. Lo revisamos sin compromiso.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conoces esa sensación. La luz de avería del motor se enciende justo cuando te incorporas a la C-58 en dirección a Barcelona, con el tráfico ya parado a la altura de la UAB. Tu coche, un diésel con más de una década a sus espaldas, empieza a toser. No es la primera vez. Cada visita al taller se convierte en una lotería, un miedo a que el presupuesto se dispare por una avería que nadie te sabe explicar bien. Vives en Sant Quirze del Vallès, una 'ciudad jardín', pero la realidad de tu coche es la de un veterano de guerra urbana. No hace grandes viajes, pero sufre el desgaste intensivo de los trayectos cortos: llevar a los niños al colegio en Vallsuau, ir a comprar al polígono de Can Casablanques, y sobre todo, esa lucha diaria en primera y segunda marcha para salir y entrar del municipio en hora punta. Este tipo de uso es el que más castiga un motor que ya no es joven.\n\nEl problema de un coche con años en una ciudad como Sant Quirze no es la distancia, es la intensidad. El embrague sufre en cada rotonda de la Ronda de Arraona. Los frenos se calientan en la bajada hacia la BP-1503 para ir a Rubí. Y el filtro de partículas de tu diésel nunca llega a regenerarse del todo en esos viajes de cinco minutos para acercarte a la estación de FGC. El resultado es un desgaste acumulado, silencioso, que un día se manifiesta en forma de tirones, humo negro o, simplemente, el coche no arranca una mañana fría y húmeda de invierno, cuando la 'boira' del Vallès se mete hasta los huesos y agota la batería. No necesitas un mecánico que te proponga cambiar medio coche, sino uno que entienda que tu Peugeot 308 de 2011 es tu herramienta de trabajo o tu vehículo familiar, y que lo que buscas es fiabilidad y un coste predecible, no dejarte la mitad del sueldo en una reparación.\n\nEn nuestra red de talleres, hemos analizado miles de coches como el tuyo, de conductores de Sant Quirze, Sabadell Sud o Les Fonts. Sabemos que el calor extremo del verano en el Vallès pone a prueba el sistema de refrigeración y el aire acondicionado justo cuando más lo necesitas, atrapado en el atasco de la AP-7. Comprendemos que los amortiguadores y los 'silentblocks' se resienten con los badenes de las zonas residenciales como Mas Duran o Sant Quirze Parc. No tratamos tu coche como un número más. Analizamos su historial y su uso diario para darte un diagnóstico claro y, lo más importante, un presupuesto cerrado. No empezamos ninguna reparación sin tu autorización explícita. El objetivo no es cambiar piezas por cambiar, sino identificar el origen del problema y ofrecerte una solución duradera y sensata para el valor y la edad de tu vehículo.\n\nEsa es nuestra diferencia. No te vamos a contar historias. Si una reparación es más cara que el valor del coche, te lo diremos. Si un mantenimiento preventivo puede alargar la vida del motor dos años más, te lo explicaremos con detalle. Entendemos que tu coche es una pieza clave en tu día a día para moverte por el Vallès Occidental, y que la confianza en tu taller es tan importante como la propia reparación. Se acabaron las facturas con sorpresas y las explicaciones vagas. Te ofrecemos un servicio transparente, donde tú tienes el control en todo momento. Porque cuidar un coche con años no debería ser una fuente de estrés, sino una decisión inteligente para optimizar tu dinero y tu movilidad.",
+  "servicesIntro": "Desde la revisión anual para tu coche de Sant Quirze hasta averías complejas de motor, cubrimos todas las necesidades de tu vehículo con claridad.",
+  "processIntro": "Trabajamos con un método claro para que sepas qué le pasa a tu coche, cuánto cuesta y qué haremos, siempre con tu visto bueno antes de empezar.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le notas al coche y conectamos nuestros equipos de diagnosis. No adivinamos, verificamos el origen del problema para entender qué está pasando realmente en el motor o la electrónica."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Recibirás un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas, sin extras de última hora. Así de simple."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ninguna pieza ni desmontamos nada hasta que nos das tu confirmación explícita. Tienes el control total. Si decides no reparar, solo se factura el tiempo de diagnóstico."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de calidad equivalente al original y te informamos del tiempo estimado. Todas nuestras reparaciones tienen garantía por ley, tanto en piezas como en mano de obra."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos cuando tu coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario de tu coche en Sant Quirze y sus alrededores, con el tráfico de la C-58 y el clima del Vallès, provoca una serie de averías muy concretas y predecibles.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El ciclo constante de arrancar y parar en los atascos de la C-58 y las rotondas de la N-150 para ir a Sabadell castiga el embrague. Un uso tan intensivo en marchas cortas reduce su vida útil drásticamente. Lo mismo ocurre con los frenos, que sufren un desgaste acelerado. Revisamos el conjunto y te asesoramos sobre una conducción más eficiente."
+    },
+    {
+      "title": "Averías en FAP y válvula EGR",
+      "body": "Los trayectos cortos dentro de Sant Quirze, como ir al mercado o a la estación, son el enemigo de los diésel modernos. El motor no alcanza la temperatura para limpiar el filtro de partículas (FAP), provocando obstrucciones y averías costosas. Diagnosticamos el nivel de saturación y realizamos limpiezas forzadas para evitar la sustitución."
+    },
+    {
+      "title": "Fallos del aire acondicionado en verano",
+      "body": "El calor continental del Vallès en julio y agosto es implacable. Si el circuito del aire acondicionado tiene una pequeña fuga o el compresor está bajo de rendimiento, fallará en el peor momento: en medio de un atasco en la AP-7. Hacemos una revisión de presión y estanqueidad para que no te quedes tirado."
+    },
+    {
+      "title": "Baterías agotadas por la humedad",
+      "body": "Las mañanas de invierno con la característica 'boira' (niebla) del Vallès no solo son frías, sino también muy húmedas. Esta humedad afecta a los bornes y, junto con el frío, puede agotar una batería que ya tenga unos años. Si tu coche duerme en la calle en zonas como Les Fonts, es un problema común."
+    },
+    {
+      "title": "Suspensión resentida por badenes",
+      "body": "Las urbanizaciones de Sant Quirze, como Mas Duran o Sant Quirze Parc, están llenas de badenes y resaltos para reducir la velocidad. Con el tiempo, estos impactos constantes degradan los amortiguadores y los silentblocks, provocando ruidos, vibraciones y un desgaste irregular de los neumáticos. Revisamos el tren de rodaje en busca de holguras."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Diagnóstico primero, piezas después",
+      "body": "No cambiamos componentes al azar. Invertimos tiempo en entender la causa raíz del problema. A menudo, una avería cara se soluciona con un ajuste o una pieza menor que otros talleres pasan por alto."
+    },
+    {
+      "title": "Presupuestos que se cumplen",
+      "body": "El precio que te damos es el final. Si durante la reparación surge un imprevisto (algo poco común), paramos y te llamamos. Nunca añadimos un solo euro a tu factura sin tu consentimiento previo."
+    },
+    {
+      "title": "Hablamos tu idioma",
+      "body": "Te explicamos la avería sin tecnicismos confusos. Entenderás qué le pasa a tu coche, por qué ha pasado y qué opciones tienes. Queremos que tomes una decisión informada, no que aceptes a ciegas."
+    },
+    {
+      "title": "Especialistas en coches 'reales'",
+      "body": "Nuestro día a día son los coches de más de 8 años, los que tienen achaques y necesitan un cuidado sensato. Sabemos qué piezas suelen fallar en tu modelo y cómo repararlas de forma eficiente."
+    },
+    {
+      "title": "Garantía en todo lo que hacemos",
+      "body": "Cada reparación y cada pieza que instalamos tiene su garantía legal. Si algo no queda bien, respondemos. Tu tranquilidad es la base de nuestro trabajo en Sant Quirze."
+    }
+  ],
+  "testimonialsIntro": "Estos son ejemplos de situaciones reales que hemos resuelto, para que veas cómo trabajamos con conductores como tú en Sant Quirze del Vallès.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Mas Duran",
+      "car": "Audi A4 TDI 2009",
+      "body": "El coche me daba tirones y entró en modo de emergencia en plena C-58. En otro taller me hablaron de cambiar el turbo, un dineral. Aquí diagnosticaron que era el filtro de partículas, saturado por hacer solo trayectos cortos a Sabadell. Hicieron una limpieza y el coche va perfecto. Me ahorraron un montón de pasta y problemas.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "Can Casablanques",
+      "car": "Peugeot 207 2011",
+      "body": "El pedal del embrague iba durísimo y las marchas rascaban. Con el tráfico que hay para salir de Sant Quirze por las mañanas, era una tortura. Me dieron un presupuesto cerrado para el kit de embrague, más bajo que en otros sitios. Cumplieron el plazo y el precio, y el coche ahora va como la seda. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Marc",
+      "neighborhood": "Polígon Sud-Oest",
+      "car": "Renault Kangoo 2014",
+      "body": "Soy autónomo y la furgoneta no puede parar. Tenía la ITV en una semana y no estaba seguro de si pasaría por los humos y los frenos. Les pedí una revisión pre-ITV y encontraron un manguito del turbo con una pequeña fuga y las pastillas traseras en las últimas. Lo arreglaron en el día. Pasé la ITV sin fallos.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Vallsuau",
+      "car": "Ford Focus 2012",
+      "body": "El aire acondicionado dejó de enfriar en pleno julio. Me veía otro verano sin aire. Pensé que sería una reparación carísima. Me revisaron el circuito, encontraron una fuga en una válvula y lo recargaron. No fue tan caro como pensaba. El presupuesto fue claro desde el principio y me explicaron bien el problema. Buen servicio.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio principalmente en Sant Quirze del Vallès, cubriendo todos sus barrios y urbanizaciones, desde el centro y El Castellet hasta las zonas residenciales de Mas Duran, Sant Quirze Parc y Vallsuau. Entendemos la dependencia del coche en estas áreas.\n\nNuestra ubicación estratégica nos permite atender con agilidad a clientes de municipios colindantes que comparten nuestras vías principales. Si vives en Sabadell Sud, Bellaterra, o en las zonas de Les Fonts y Can Solà (pertenecientes a Terrassa y Rubí), estás dentro de nuestra área de influencia directa.\n\nEl acceso a nuestros talleres asociados es sencillo a través de las arterias que vertebran el Vallès: la autovía C-58 es nuestro eje principal, junto con la autopista AP-7 y la carretera BP-1503, que conecta con Rubí. Si te mueves por esta zona, somos tu taller de confianza.",
+  "zoneNeighborhoods": [
+    "Sant Quirze Centre",
+    "Mas Duran",
+    "Sant Quirze Parc",
+    "Can Casablanques",
+    "Les Fonts",
+    "Vallsuau",
+    "El Castellet",
+    "Sabadell Sud",
+    "Bellaterra",
+    "Poble Sec"
+  ],
+  "zoneAccessRoutes": [
+    "C-58 (Autovia del Vallès)",
+    "AP-7 (Autopista del Mediterráneo)",
+    "BP-1503 (Carretera de Rubí)",
+    "N-150 (Carretera de Terrassa)"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi coche tiene 12 años, ¿de verdad vale la pena repararlo?",
+      "a": "Depende. No hay una respuesta única. Analizamos el estado general del vehículo y el coste de la reparación. Si el motor y el chasis están bien y la avería es razonable, repararlo suele ser mucho más económico que comprar uno nuevo o de segunda mano. Te daremos una opinión honesta para que tú decidas. Nuestro objetivo es la fiabilidad, no venderte una reparación que no te compense."
+    },
+    {
+      "q": "Hago cada día el trayecto Sant Quirze - Barcelona por la C-58, ¿qué mantenimiento es clave?",
+      "a": "Ese trayecto es muy exigente. Recomendamos acortar los intervalos de cambio de aceite y filtros, ya que el motor sufre mucho en los atascos. También es vital una revisión anual del sistema de frenos y del embrague. Para los diésel, es aconsejable salir a una autovía como la AP-7 un par de veces al mes y conducir a revoluciones más altas durante 15-20 minutos para limpiar el filtro de partículas."
+    },
+    {
+      "q": "La 'boira' del Vallès en invierno parece afectar a mi coche. ¿Algún consejo?",
+      "a": "La niebla fría y húmeda es un clásico de Sant Quirze y es muy dura para las baterías. Si tu coche tiene más de 4 años y duerme en la calle, es buena idea comprobar la carga de la batería antes de que llegue el frío intenso. Además, asegúrate de que las escobillas del limpiaparabrisas estén en buen estado y utiliza un líquido anticongelante de calidad en el depósito."
+    },
+    {
+      "q": "Vivo en Les Fonts, que está entre Terrassa y Rubí. ¿Me dais servicio?",
+      "a": "Por supuesto. Aunque administrativamente pertenezca a otros municipios, consideramos Les Fonts como parte de nuestra zona de servicio natural. Estás a apenas cinco minutos en coche y compartes los mismos problemas de movilidad y tipo de vehículo que un residente del centro de Sant Quirze. Muchos de nuestros clientes son de tu zona."
+    },
+    {
+      "q": "Mi diésel echa mucho humo negro al acelerar. ¿Es grave? ¿Pasará la ITV?",
+      "a": "El humo negro suele indicar un problema en la combustión, a menudo relacionado con la válvula EGR o los inyectores sucios, algo muy común en coches que hacen mucha ciudad o trayectos cortos. No, no pasará la prueba de opacidad de la ITV. Es importante diagnosticarlo. A veces una descarbonización o limpieza es suficiente, sin tener que cambiar piezas caras."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Sant Cugat, ¿ofrecéis un servicio pre-ITV completo?",
+      "a": "Sí. Ofrecemos una revisión pre-ITV exhaustiva donde comprobamos los mismos puntos que en la inspección oficial: luces, frenos, holguras, neumáticos, y sobre todo, las emisiones. Si detectamos cualquier fallo, te damos un presupuesto cerrado para solucionarlo y asegurarte de que la pases a la primera, ahorrándote tiempo y el coste de una segunda inspección."
+    },
+    {
+      "q": "El presupuesto cerrado, ¿incluye el IVA y todo? ¿De verdad no hay sorpresas?",
+      "a": "Sí, es uno de nuestros pilares. El presupuesto que te enviamos detalla la mano de obra, las piezas necesarias y el IVA correspondiente. El importe final es exactamente ese. La única excepción sería que durante el desmontaje apareciera otra avería oculta. En ese caso, paramos el trabajo, te llamamos, te lo explicamos y te damos un nuevo presupuesto para esa parte. Nunca seguimos sin tu aprobación."
+    },
+    {
+      "q": "Con tanto badén en mi urbanización, ¿qué debo revisar más a menudo?",
+      "a": "Los badenes y resaltos castigan todo el sistema de suspensión y dirección. Lo que más sufre son los amortiguadores, los silentblocks (los tacos de goma que absorben vibraciones) y las rótulas de dirección. Si notas ruidos metálicos al pasar por ellos, vibraciones en el volante o que el coche 'rebota' demasiado, pide una revisión. Unos amortiguadores en mal estado también alargan la distancia de frenado."
+    }
+  ],
+  "closingHeadline": "Dale a tu coche el trato que necesita",
+  "closingCta": "Pide una cita para un diagnóstico honesto en Sant Quirze del Vallès. Llámanos o escríbenos por WhatsApp y te daremos hora sin compromiso."
+}

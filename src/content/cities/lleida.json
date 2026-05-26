@@ -1,0 +1,191 @@
+{
+  "slug": "lleida",
+  "name": "Lleida",
+  "province": "Lleida",
+  "ccaa": "Cataluña",
+  "population": 140797,
+  "lat": 41.61674,
+  "lng": 0.62218,
+  "metaTitle": "Taller mecánico en Lleida — Multimarca y de confianza",
+  "metaDescription": "Tu taller mecánico en Lleida para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Entendemos tu coche y las carreteras de Ponent.",
+  "heroSubtitle": "Para ti, que conduces entre la boira de invierno y el calor de verano, de Cappont al polígono o por la N-240.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Lleida y sus alrededores es una experiencia de contrastes. Un día estás en un atasco en el Pont Nou para cruzar a Cappont, y al siguiente recorres kilómetros por la A-2 hacia Fraga o Tàrrega. Usas el coche para ir a trabajar al Polígon El Segre, para llevar a los niños al colegio en Balàfia o para hacer la compra en el Eix Comercial. Quizá tu furgoneta es tu herramienta de trabajo en l'Horta de Lleida, cargando fruta en partidas como la de Grealó o Butsènit. Entendemos que tu vehículo no es un lujo, sino una necesidad que se enfrenta cada día al clima extremo y a las particularidades de Ponent. Por eso, necesitas un taller que no solo sepa de mecánica, sino que entienda Lleida.\n\nEl clima de la Plana de Lleida es un factor clave para el mantenimiento de tu coche. Los veranos, con temperaturas que superan fácilmente los 35°C, ponen a prueba el sistema de refrigeración y el aire acondicionado hasta el límite. Un fallo en el circuito del climatizador en pleno julio no es una simple molestia, es un problema serio. Por otro lado, los inviernos traen el frío seco y, sobre todo, la famosa 'boira'. Esa niebla densa y persistente no solo exige tener un sistema de iluminación impecable y unos limpiaparabrisas en perfecto estado, sino que la humedad y las bajas temperaturas castigan la batería, siendo la causa de muchas mañanas en las que el coche simplemente no arranca.\n\nEl parque automovilístico de Lleida es tan diverso como sus habitantes. Vemos a diario los coches más habituales: SEAT León, Peugeot 308, Renault Clio o Volkswagen Golf, perfectos para moverse entre barrios como Pardinyes o La Bordeta. Pero también conocemos a fondo los vehículos de trabajo que son el motor de la provincia: Citroën Berlingo, Peugeot Partner, Ford Transit y pick-ups que circulan por la N-240 hacia Les Borges Blanques o por la C-13 hacia Balaguer. Sabemos que el diésel sigue siendo mayoritario en estos vehículos y conocemos los problemas típicos de los filtros de partículas en trayectos cortos o el desgaste de embrague en furgonetas que trabajan duro a diario.\n\nYa seas un autónomo que depende de su furgoneta para visitar clientes en Alpicat o Torrefarrera, o una familia que usa el coche para escapadas de fin de semana, nuestro compromiso es el mismo. Ofrecemos un servicio de mecánica multimarca honesto y transparente. No te hablaremos con tecnicismos innecesarios. Te explicaremos qué le pasa a tu coche, por qué le pasa (probablemente por una de las razones que ya conoces de vivir aquí) y te daremos un presupuesto cerrado antes de tocar un solo tornillo. Queremos ser tu taller de confianza en Lleida, el que entiende que tu coche necesita estar a punto para la 'boira', para el calor y para todo lo que hay en medio.",
+  "servicesIntro": "Desde la revisión anual para tu coche familiar hasta la reparación del embrague de tu furgoneta de trabajo, cubrimos todas tus necesidades en Lleida.",
+  "processIntro": "Trabajamos con total transparencia. Te damos un diagnóstico claro y un presupuesto cerrado para que decidas con toda la información, sin sorpresas.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que te preocupa y revisamos tu coche a fondo. Usamos nuestra experiencia y equipos de diagnosis para encontrar el origen del problema, ya sea un ruido extraño o un testigo encendido en el cuadro."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Verás el coste de las piezas y la mano de obra de forma clara. El precio que ves es el que pagas, sin extras inesperados al final."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No empezamos ninguna reparación sin tu confirmación explícita. Tienes el control total. Si durante el proceso encontramos algo más, te llamaremos para informarte y darte un nuevo presupuesto antes de continuar."
+    },
+    {
+      "title": "Reparación",
+      "body": "Nuestros mecánicos se ponen manos a la obra utilizando recambios de primeras marcas. Todas nuestras reparaciones y piezas tienen garantía. Te mantenemos informado sobre el progreso y el tiempo estimado de entrega."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche esté listo para recoger. Te explicamos la reparación realizada y te entregamos la factura. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El calor extremo en verano, la 'boira' en invierno y el uso mixto (ciudad y campo) provocan una serie de averías muy características en los coches de Lleida.",
+  "commonIssues": [
+    {
+      "title": "Fallo del aire acondicionado en verano",
+      "body": "Con los 40°C que alcanzamos en Lleida, un sistema de climatización que no enfría es un problema grave. El calor extremo fuerza compresores y provoca fugas en el circuito. Realizamos diagnósticos precisos, recargas de gas y reparación de cualquier componente para que puedas volver a conducir sin sufrir el bochorno."
+    },
+    {
+      "title": "Baterías que mueren con la 'boira'",
+      "body": "El frío y la humedad persistente de la niebla invernal de Lleida son el peor enemigo de las baterías, sobre todo en coches que duermen en la calle en barrios como La Bordeta o Pardinyes. Comprobamos el estado de tu batería y el alternador para evitar que te deje tirado en la mañana más fría."
+    },
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico urbano de Lleida, con sus semáforos en Prat de la Riba y las rotondas de acceso a los polígonos, castiga los embragues y los frenos. Si además usas una furgoneta de trabajo por l'Horta, el desgaste se acelera. Somos especialistas en la sustitución de kits de embrague y sistemas de frenado."
+    },
+    {
+      "title": "Filtros de partículas (DPF) obstruidos",
+      "body": "Muchos diésel en Lleida hacen trayectos cortos por la ciudad, lo que impide que el filtro de partículas se regenere correctamente. Esto provoca pérdida de potencia y averías costosas. Ofrecemos diagnosis y soluciones de limpieza o sustitución del DPF para que pases la ITV sin problemas."
+    },
+    {
+      "title": "Problemas de suspensión y neumáticos",
+      "body": "Si te mueves habitualmente por los caminos de las partidas rurales que rodean Lleida o por carreteras comarcales, la suspensión sufre. Unos amortiguadores en mal estado afectan a la seguridad y desgastan los neumáticos de forma irregular. Revisamos y sustituimos amortiguadores, silentblocks y rótulas para tu seguridad."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos Lleida y sus coches",
+      "body": "Sabemos qué problemas causa la 'boira' en una batería o el calor de agosto en un radiador. Entendemos las necesidades de un coche que circula por la A-2 y de una furgoneta que trabaja en el campo."
+    },
+    {
+      "title": "Presupuestos sin sorpresas",
+      "body": "Te damos un precio cerrado antes de empezar. Lo que presupuestamos es lo que pagas. Si surge un imprevisto, paramos y te pedimos autorización. Transparencia total para que no te lleves sustos."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un SEAT, un Peugeot, un Mercedes o una furgoneta Fiat. Tenemos la experiencia y el equipo de diagnosis para trabajar con cualquier marca y modelo del parque automovilístico de Lleida."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Trabajamos con recambios de calidad y confiamos en nuestro trabajo. Por eso, todas nuestras intervenciones, desde un cambio de aceite hasta una distribución, están garantizadas por escrito."
+    },
+    {
+      "title": "Te lo ponemos fácil",
+      "body": "Sabemos que quedarte sin coche es un trastorno. Te ofrecemos facilidades como un coche de cortesía (consulta condiciones) y una comunicación fluida por WhatsApp para que estés informado en todo momento."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Lleida que han confiado en nosotros. Sus experiencias podrían ser la tuya.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Cappont",
+      "car": "SEAT León TDI 2016",
+      "body": "El aire acondicionado dejó de enfriar en plena ola de calor. Imposible ir a trabajar así. Les llamé, me dieron cita rápido y encontraron una pequeña fuga. Me enviaron el presupuesto al móvil, lo acepté y por la tarde ya lo tenía listo y enfriando como el primer día. Un alivio.",
+      "rating": 5
+    },
+    {
+      "name": "Mercè",
+      "neighborhood": "Pardinyes",
+      "car": "Peugeot Partner 2018",
+      "body": "Uso la furgoneta para mi negocio en el mercado y notaba que el embrague patinaba. Me preocupaba el coste, pero me dieron un presupuesto cerrado muy competitivo. Cumplieron el plazo y ahora las marchas entran perfectas, incluso cargada. Muy profesionales y serios.",
+      "rating": 5
+    },
+    {
+      "name": "Pau",
+      "neighborhood": "Balàfia",
+      "car": "Ford Focus 2014",
+      "body": "Una mañana de diciembre, con una 'boira' que no se veía nada, el coche no arrancó. La batería. Me lo solucionaron en el mismo día y de paso me revisaron todas las luces, que con la niebla de aquí es fundamental. Buen servicio y atención.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Ciutat Jardí",
+      "car": "Volkswagen Golf 2015",
+      "body": "Tenía que pasar la ITV y no estaba segura de si los neumáticos estaban bien. Me hicieron la revisión pre-ITV, me dijeron que las ruedas traseras estaban para cambiar y me dieron varias opciones. Me aconsejaron bien, sin ir a lo más caro. Pasé la ITV sin problemas.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Lleida y a su área de influencia. Si vives o trabajas en barrios como Cappont, La Bordeta, Pardinyes, Balàfia o el Centre Històric, estamos a tu lado. Nuestra cobertura se extiende a los municipios colindantes, siendo el taller de referencia para muchos conductores de Alpicat, Torrefarrera, Alcarràs y Rosselló. Gracias a nuestros fáciles accesos desde las principales vías como la autovía A-2, la carretera N-240 o el eje de la LL-11, llegar a nuestro taller es rápido y sencillo vengas de donde vengas de la comarca del Segrià.",
+  "zoneNeighborhoods": [
+    "Cappont",
+    "La Bordeta",
+    "Pardinyes",
+    "Balàfia",
+    "Ciutat Jardí",
+    "Centre Històric",
+    "Alpicat",
+    "Torrefarrera",
+    "Alcarràs",
+    "Rosselló"
+  ],
+  "zoneAccessRoutes": [
+    "A-2 (Autovía del Nordeste)",
+    "N-240 (Carretera de Tarragona a San Sebastián)",
+    "LL-11 (Antigua N-II)",
+    "C-13 (Eix del Pallars)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Estáis preparados para los problemas que causa la 'boira' de Lleida?",
+      "a": "Totalmente. La 'boira' es nuestro día a día en invierno. Sabemos que castiga las baterías, exige un sistema de iluminación perfecto y unos limpiaparabrisas eficaces. Hacemos revisiones específicas de invierno para comprobar estos elementos, además del estado de los neumáticos y los niveles de anticongelante, para que conduzcas con la máxima seguridad incluso en los días de niebla más densa."
+    },
+    {
+      "q": "Mi coche diésel hace muchos trayectos cortos por la ciudad, ¿qué mantenimiento especial necesita?",
+      "a": "Es un caso muy común en Lleida. El principal riesgo es la saturación del filtro de partículas (DPF/FAP). Te recomendamos salir a carretera de vez en cuando, por ejemplo por la A-2, y conducir a revoluciones más altas durante unos 15-20 minutos para forzar la regeneración. En el taller, podemos revisar el estado del filtro y, si es necesario, realizar una limpieza profesional para evitar averías mayores."
+    },
+    {
+      "q": "El aire acondicionado no enfría lo suficiente para el calor de julio en Lleida, ¿es una reparación cara?",
+      "a": "No necesariamente. Muchas veces se debe a una simple falta de gas en el circuito, y una recarga soluciona el problema. Puede haber también una pequeña fuga o un fallo en el compresor. Lo primero que hacemos es un diagnóstico completo del sistema para localizar la causa exacta y darte un presupuesto cerrado. No te quedarás sin aire en lo peor del verano."
+    },
+    {
+      "q": "Conduzco por caminos rurales cerca de Almacelles, ¿qué debo revisar más a menudo?",
+      "a": "Si circulas por caminos, la suspensión y los neumáticos son los elementos que más sufren. Te recomendamos revisar la presión de las ruedas con más frecuencia y hacer una revisión de amortiguadores, silentblocks y rótulas al menos una vez al año. Un buen estado de la suspensión no solo mejora el confort, sino que es vital para tu seguridad y para evitar un desgaste irregular de los neumáticos."
+    },
+    {
+      "q": "¿Tenéis experiencia con furgonetas y vehículos de trabajo?",
+      "a": "Sí, son una parte importante de nuestros clientes. Entendemos que una furgoneta parada es dinero que se pierde. Por eso, priorizamos su diagnóstico y reparación. Conocemos el desgaste extra que sufren elementos como el embrague, los frenos y la suspensión en vehículos comerciales que circulan cargados por Lleida y sus alrededores."
+    },
+    {
+      "q": "¿Tengo que pedir cita previa para una revisión o un cambio de aceite?",
+      "a": "Siempre es recomendable pedir cita para poder planificar el trabajo y dedicarle a tu coche el tiempo que necesita. Así nos aseguramos de tener los recambios listos y podemos darte un plazo de entrega más ajustado. Para urgencias, llámanos e intentaremos hacerte un hueco lo antes posible."
+    }
+  ],
+  "closingHeadline": "Deja tu coche en buenas manos en Lleida",
+  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o escríbenos un WhatsApp y te atenderemos encantados. Confía en los que entienden de verdad los coches en Lleida.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Lleida",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@tallerbarcelona.com",
+    "addressStreet": ""
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "slug": "berga",
+  "name": "Berga",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 17160,
+  "lat": 42.10429,
+  "lng": 1.84628,
+  "metaTitle": "Taller mecánico en Berga — Multimarca y de confianza",
+  "metaDescription": "Tu taller de confianza en Berga para revisiones, averías y neumáticos. Presupuesto cerrado y para todas las marcas. ¡Pasa la ITV sin problemas!",
+  "heroSubtitle": "Para que tu coche responda en las curvas de Queralt y no te deje tirado subiendo a la Cerdanya, necesita un taller que entienda el Berguedà.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir en Berga y el Berguedà no es como hacerlo en una gran ciudad. Aquí el coche es una herramienta indispensable, ya sea para bajar a Manresa por la C-16 cada día, para acercarte a comprar a Gironella o para disfrutar de una escapada de fin de semana al Santuari de Queralt o a buscar setas por los bosques de Rasos de Peguera. El coche tiene que estar a punto, porque las carreteras de montaña no perdonan y una avería aquí te puede dejar tirado en el peor momento. Entendemos que tu SEAT Ibiza, tu Peugeot 3008 o tu furgoneta de trabajo no es un lujo, sino tu conexión con todo.\n\nEl clima del Prepirineo marca el ritmo de nuestro trabajo. Los inviernos en Berga son fríos, con heladas frecuentes que ponen a prueba las baterías y exigen un anticongelante de calidad. Cuando cae una nevada, tener los neumáticos adecuados no es una opción, es seguridad. Por eso, muchos de nuestros clientes ya confían en los neumáticos de invierno o 'todo tiempo'. Del mismo modo, el calor seco del verano puede afectar a los sistemas de refrigeración y al aire acondicionado, algo vital cuando el sol aprieta en la comarca. Este contraste térmico castiga los materiales y acelera el desgaste de componentes que en un clima más suave durarían más.\n\nEl parque móvil del Berguedà es tan variado como su paisaje. Conviven los utilitarios diésel que hacen kilómetros y kilómetros por el Eix del Llobregat, perfectos por su bajo consumo, con los SUV y 4x4 como los Dacia Duster o Suzuki Vitara, ideales para acceder a masías por caminos rurales o para los aficionados a la montaña. Sabemos que el par motor de un diésel es clave para subir las cuestas de la comarca y que un buen sistema de tracción te da la vida en invierno. Por eso, conocemos las particularidades de cada motorización y tipo de vehículo que se mueve por aquí.\n\nEste uso intensivo en un entorno de montaña tiene consecuencias directas en la mecánica de tu coche. Las subidas y bajadas constantes por carreteras como la C-26 hacia Solsona o la carretera de Bagà desgastan frenos y suspensiones a un ritmo muy superior al normal. El embrague sufre en las cuestas de la propia Berga y en las maniobras en caminos. Los filtros de partículas de los diésel, si se usan mucho para trayectos cortos por la ciudad hasta el polígono de La Valldan, tienden a obstruirse. Son problemas que vemos cada día y que sabemos cómo prevenir y solucionar de forma eficaz.",
+  "servicesIntro": "Desde la revisión anual para tu coche de diario hasta la puesta a punto de tu 4x4 antes de la temporada de 'bolets', cubrimos toda la mecánica.",
+  "processIntro": "Sabemos que la confianza es clave en el Berguedà. Por eso, te damos un presupuesto claro y no hacemos nada sin tu permiso. Así de simple.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos qué te preocupa y hacemos una revisión inicial. Usamos equipos de diagnosis para conectar con la centralita y entender el origen del problema, sin especulaciones. La honestidad es lo primero."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin compromiso. Verás el coste de las piezas y la mano de obra por separado. El precio que te damos es el que pagas, sin sorpresas de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni desmontamos nada hasta que nos das tu visto bueno. Te explicamos qué vamos a hacer y por qué. Si durante la reparación surgiera algo imprevisto (es raro), te llamaríamos al momento."
+    },
+    {
+      "title": "Reparación",
+      "body": "Trabajamos con recambios de primeras marcas, con la misma calidad que los originales, y te ofrecemos garantía tanto en las piezas como en la mano de obra. Nos ajustamos a los plazos para que tengas tu coche lo antes posible."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada y te entregamos la factura detallada. Unos días después, nos gusta hacer una llamada para confirmar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El clima del Prepirineo y las carreteras de montaña de Berga y alrededores, como la BV-4241 a Rasos de Peguera, provocan averías muy concretas que conocemos bien.",
+  "commonIssues": [
+    {
+      "title": "Frenos y suspensiones fatigados",
+      "body": "Bajar de Queralt o volver de la Cerdanya por la C-16 exige mucho a los frenos. El constante sube y baja y las curvas cerradas de la comarca sobrecalientan los discos y gastan las pastillas. Revisamos todo el sistema y te recomendamos los componentes más duraderos para este tipo de conducción exigente."
+    },
+    {
+      "title": "Problemas de arranque en invierno",
+      "body": "Las mañanas de helada en Berga son la prueba de fuego para cualquier batería. Una batería con unos años puede no tener fuerza suficiente para arrancar. También revisamos los calentadores en los motores diésel, que son cruciales para un buen arranque en frío y que aquí fallan con frecuencia."
+    },
+    {
+      "title": "Desgaste prematuro de neumáticos",
+      "body": "Las carreteras del Berguedà tienen un asfalto que, combinado con las curvas y pendientes, desgasta los neumáticos de forma irregular si la alineación no es perfecta. Un buen paralelo no solo alarga la vida de las ruedas, sino que mejora el agarre y la seguridad, algo vital cuando el suelo está húmedo."
+    },
+    {
+      "title": "Embragues que patinan",
+      "body": "El uso intensivo del cambio de marchas en puertos de montaña y las arrancadas en las cuestas del casco antiguo de Berga castigan el embrague. Si notas que el coche se revoluciona pero no coge velocidad, es un síntoma claro. Lo diagnosticamos y sustituimos para que no te deje tirado."
+    },
+    {
+      "title": "Filtros de partículas (FAP) atascados",
+      "body": "Muchos coches diésel se usan para trayectos cortos, como ir de Berga a Avià o moverse por el centro. Esto impide que el filtro de partículas se regenere correctamente y acaba por obstruirse, provocando pérdida de potencia y averías caras. Conocemos los métodos para limpiarlo o forzar su regeneración."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos el Berguedà",
+      "body": "Sabemos cómo afectan el frío, las cuestas y las carreteras de aquí a tu coche. Nuestras recomendaciones de mantenimiento están pensadas para conductores de Berga y la comarca, no son genéricas."
+    },
+    {
+      "title": "Presupuesto cerrado, sin sustos",
+      "body": "Te damos un precio claro antes de empezar. Lo que presupuestamos es lo que pagas. La confianza es la base de nuestro trabajo, y eso empieza por ser transparentes con la pasta."
+    },
+    {
+      "title": "Expertos en todas las marcas",
+      "body": "Reparamos desde el Dacia Sandero más común hasta el 4x4 japonés que usas para el monte, pasando por los TDI del grupo VAG que tanto se ven por la C-16. Tenemos la herramienta y el conocimiento."
+    },
+    {
+      "title": "Diagnóstico claro y honesto",
+      "body": "Te explicamos la avería en un lenguaje que entiendas, sin tecnicismos innecesarios. Queremos que sepas qué le pasa a tu coche y por qué es importante repararlo, para que decidas con toda la información."
+    },
+    {
+      "title": "Te preparamos para la ITV",
+      "body": "Sabemos que la estación de ITV más cercana está en Manresa o Ripoll. Hacemos una revisión Pre-ITV exhaustiva, centrándonos en los puntos que más miran, para que vayas sobre seguro y la pases a la primera."
+    }
+  ],
+  "testimonialsIntro": "Estas son algunas situaciones típicas que nos encontramos. Los nombres y coches son ejemplos para proteger la privacidad de nuestros clientes de Berga y comarca.",
+  "testimonials": [
+    {
+      "name": "Anna",
+      "neighborhood": "La Valldan",
+      "car": "Peugeot 2008 2017",
+      "body": "El viernes por la tarde, justo antes de subir a la Cerdanya, el coche empezó a hacer un ruido raro en la rueda. Les llamé apurada y me hicieron un hueco. Era una tontería, una piedra en el disco de freno, pero me lo miraron todo y me dejaron ir tranquila. Se agradece la rapidez y la honestidad.",
+      "rating": 5
+    },
+    {
+      "name": "Joan",
+      "neighborhood": "Gironella",
+      "car": "SEAT León TDI 2015",
+      "body": "Hago cada día el trayecto a Manresa por la C-16 y notaba que el embrague empezaba a patinar. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial, y en dos días tenía el coche listo. Ahora va como la seda. Muy profesionales y serios.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Berga Centre",
+      "car": "Suzuki Vitara 2018",
+      "body": "Llevé el coche para la revisión antes del invierno. Quería asegurarme de que los líquidos, la batería y los neumáticos estaban bien para el frío y alguna posible nevada. Me aconsejaron sobre la presión de las ruedas para caminos y me revisaron los bajos. Un servicio muy completo y pensado para aquí.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Avià",
+      "car": "Renault Clio 2012",
+      "body": "Tenía que pasar la ITV y el coche echaba bastante humo. Me hicieron una puesta a punto del motor y una limpieza de inyectores. Pasó la prueba de gases sin problemas. El trato fue muy bueno, aunque tardaron un poco más de lo que me dijeron al principio porque una pieza se retrasó.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la comarca del Berguedà desde nuestro taller en Berga. Si vives en el centro, en barrios como Santa Eulàlia o La Valldan, o en municipios cercanos, somos tu taller de confianza. Muchos de nuestros clientes vienen de Gironella, Avià, Casserres y Cercs, ya que el acceso por la C-16 es directo y rápido. También cubrimos las necesidades de conductores de Guardiola de Berguedà y Bagà que bajan a Berga para hacer gestiones. Nuestra ubicación nos permite ser el punto de referencia para cualquiera que se mueva por el Eix del Llobregat (C-16) o el Eix Prepirinenc (C-26).",
+  "zoneNeighborhoods": [
+    "Berga Centre",
+    "Santa Eulàlia",
+    "La Valldan",
+    "Cal Rosal",
+    "Gironella",
+    "Avià",
+    "Casserres",
+    "Cercs",
+    "Guardiola de Berguedà",
+    "Bagà"
+  ],
+  "zoneAccessRoutes": [
+    "C-16 (Eix del Llobregat)",
+    "C-26 (Eix Prepirinenc)",
+    "BV-4241 (Carretera de Rasos de Peguera)",
+    "C-1411z (Antigua C-1411)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Recomendáis neumáticos de invierno o todo tiempo para conducir por el Berguedà?",
+      "a": "Depende del uso. Si subes a menudo a zonas altas como Rasos de Peguera o hacia la Cerdanya, los de invierno son la opción más segura. Para un uso mixto por Berga, Gironella y la C-16, unos buenos neumáticos 'todo tiempo' con certificación invernal (3PMSF) son una solución excelente y versátil para todo el año, dándote seguridad con frío, lluvia y nevadas ocasionales."
+    },
+    {
+      "q": "Mi coche es diésel y hago trayectos cortos por Berga, ¿qué mantenimiento especial necesita?",
+      "a": "Es un caso muy común. El principal riesgo es la saturación del filtro de partículas (FAP). Te recomendamos que, al menos una vez por semana, hagas un trayecto por carretera, como ir y volver a Gironella por la C-16, manteniendo el motor por encima de las 2.500 rpm durante unos 15 minutos. Esto ayuda a que el filtro se limpie solo. En el taller podemos revisar su estado y forzar una regeneración si es necesario."
+    },
+    {
+      "q": "Voy a subir a esquiar a La Molina por la C-16, ¿qué revisión rápida me aconsejáis?",
+      "a": "Lo fundamental es comprobar niveles (anticongelante sobre todo, que aguante bajas temperaturas), estado y presión de los neumáticos, y el funcionamiento de las luces y la batería. Es un trayecto exigente para el coche, especialmente el túnel del Cadí y las rampas finales. Una revisión rápida con nosotros te asegura que todo está en orden para subir y bajar con total tranquilidad."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Manresa, ¿revisáis los puntos críticos que miran allí?",
+      "a": "Sí, por supuesto. Conocemos bien el proceso. Hacemos una inspección Pre-ITV completa que incluye frenos, suspensión, dirección, luces, emisiones de gases y neumáticos, que son los puntos donde más fallos se detectan. Nuestro objetivo es que vayas a la estación de Manresa o la que elijas con la seguridad de que vas a pasarla a la primera, ahorrándote tiempo y dinero."
+    },
+    {
+      "q": "El coche me hace un ruido raro al bajar el puerto de montaña hacia Gironella, ¿puede ser grave?",
+      "a": "Un ruido al frenar en una bajada prolongada suele estar relacionado con los frenos: pastillas gastadas, discos alabeados por el calor, etc. No deberías ignorarlo. Tráenos el coche para que le echemos un vistazo. La seguridad en estas carreteras es lo primero, y una revisión a tiempo puede evitar una avería mayor o un susto."
+    },
+    {
+      "q": "¿Tenéis experiencia con 4x4 y vehículos para ir a buscar 'bolets' o a masías?",
+      "a": "Totalmente. Entendemos que un 4x4 en el Berguedà no es un adorno. Revisamos transmisiones, diferenciales, suspensiones y neumáticos específicos para uso fuera de asfalto. Sabemos que necesitas fiabilidad para meterte por pistas forestales. Preparamos tu vehículo para que solo te preocupes de encontrar el mejor 'rovelló'."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto para el Berguedà",
+  "closingCta": "No dejes que una avería te estropee una subida a Queralt o el día a día. Pide tu cita en nuestro taller de Berga por teléfono o WhatsApp y conduce con tranquilidad."
+}

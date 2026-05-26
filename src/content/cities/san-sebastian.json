@@ -1,0 +1,183 @@
+{
+  "slug": "san-sebastian",
+  "name": "Donostia / San Sebastián",
+  "province": "Gipuzkoa",
+  "ccaa": "País Vasco",
+  "population": 185357,
+  "lat": 43.31283,
+  "lng": -1.97499,
+  "metaTitle": "Taller mecánico en Donostia / San Sebastián — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Donostia. Presupuestos cerrados para revisión, averías, neumáticos e ITV en San Sebastián. Pide tu cita ahora.",
+  "heroSubtitle": "Cansado del óxido, las cuestas y la ITV en Donostia? Deja tu coche en manos expertas y conduce tranquilo bajo la lluvia.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Donostia es un placer, pero también un reto para tu coche. La humedad constante del Cantábrico y el salitre que respiramos cerca de La Concha, Ondarreta o la Zurriola no perdonan. Atacan silenciosamente la carrocería, los frenos y el sistema de escape. No es raro ver coches relativamente nuevos con signos de corrosión prematura en los bajos o en los discos de freno. En nuestro taller entendemos este entorno porque lo vivimos cada día. Sabemos que un coche en San Sebastián no necesita el mismo cuidado que uno en el interior. Por eso, nuestras revisiones siempre incluyen una inspección a fondo de los puntos más vulnerables a la oxidación, para atajar el problema antes de que se convierta en una reparación cara.\n\nAdemás del clima, está el propio trazado de la ciudad. Subir a Miramón, Aiete o Igeldo a diario castiga el embrague y los frenos de cualquier coche. El tráfico denso en el Centro, Amara o Gros, con sus continuas paradas y arranques, acelera el desgaste de componentes clave. Y si eres de los que coge la GI-20 o la AP-8 cada mañana desde Rentería, Hernani o Lasarte-Oria para venir a trabajar, sabes que tu coche acumula kilómetros en condiciones muy variadas, mezclando autopista con atascos urbanos. Este uso intensivo requiere un mantenimiento preventivo riguroso para evitar averías inoportunas que te dejen tirado camino del trabajo o de una escapada de fin de semana.\n\nEl parque móvil de Gipuzkoa es tan variado como su paisaje. En nuestras instalaciones vemos desde el Renault Clio o el SEAT León que aparca en Egia, hasta el BMW X3 o el Audi Q5 habitual en zonas como el Antiguo, pasando por la furgoneta de trabajo de un autónomo de Altza. Conocemos las particularidades de los motores diésel que hacen muchos trayectos cortos por la ciudad, con el riesgo que eso supone para el filtro de partículas, y también las de los gasolina más modernos. Estamos equipados para diagnosticar y reparar cualquier marca, ya sea un coche nacional o de importación, con la misma garantía y profesionalidad.\n\nNuestro objetivo es simple: que puedas confiar plenamente en tu coche, llueva o haga sol. Que pases la ITV en Urnieta o Irun a la primera y sin nervios. Que no te preocupes por ese ruido extraño al frenar en la cuesta de Aldapeta. Somos tu taller local en Donostia, el que entiende que un guardapolvos puede agrietarse por la humedad o que unas buenas escobillas limpiaparabrisas no son un lujo, sino una necesidad. Te ofrecemos un servicio honesto, con presupuestos cerrados y una comunicación clara, para que el mantenimiento de tu vehículo sea una solución, no un problema más.",
+  "servicesIntro": "Desde un cambio de neumáticos para afrontar el asfalto mojado hasta la diagnosis de un fallo de motor, tenemos la solución que tu coche necesita en Donostia.",
+  "processIntro": "Olvídate de sorpresas en la factura. Te damos un presupuesto claro y cerrado, y no movemos un tornillo sin tu aprobación. Transparencia total.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando tu coche llega, uno de nuestros mecánicos expertos lo revisa a fondo. Escuchamos lo que te preocupa y utilizamos equipos de diagnosis para identificar con precisión el origen del problema, ya sea mecánico o electrónico."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y sin compromiso. Incluye mano de obra y piezas, sin letra pequeña. Lo que ves es lo que pagas. Te lo enviamos por WhatsApp o email para tu comodidad."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "El coche no se toca hasta que nos des tu visto bueno. Revisas el presupuesto con calma y, si tienes cualquier duda, nos llamas y te la resolvemos. Solo cuando nos das el OK, nos ponemos manos a la obra."
+    },
+    {
+      "title": "Reparación",
+      "body": "Trabajamos con recambios de primeras marcas, con la misma calidad que los originales y siempre con garantía. Nuestros mecánicos realizan la reparación siguiendo los estándares del fabricante para asegurar un resultado perfecto y duradero."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos en detalle el trabajo realizado. Unos días después, es posible que contactemos contigo para asegurarnos de que todo funciona perfectamente y estás satisfecho."
+    }
+  ],
+  "commonIssuesIntro": "La humedad del Cantábrico, las cuestas de la ciudad y el tráfico de la GI-20 pasan factura: estos son los problemas que más vemos en los coches de Donostia.",
+  "commonIssues": [
+    {
+      "title": "Óxido y desgaste en frenos",
+      "body": "La combinación de lluvia constante, salitre marino y frenadas frecuentes en las cuestas de Donostia es fatal para los discos y pastillas. El óxido aparece rápido, causa ruidos y reduce la eficacia. Realizamos una limpieza y revisión a fondo, y si es necesario, sustituimos los componentes por otros de calidad que aguanten mejor nuestro clima."
+    },
+    {
+      "title": "Embrague y bimasa fatigados",
+      "body": "El tráfico de 'para y arranca' en el Centro y Amara, sumado a las pendientes de barrios como Aiete o Egia, somete al embrague a un esfuerzo extra. Si notas que el pedal está duro o que el coche patina al acelerar, es hora de revisarlo. Diagnosticamos el conjunto de embrague y volante bimasa para evitar una avería mayor."
+    },
+    {
+      "title": "Corrosión en bajos y escape",
+      "body": "Es el enemigo silencioso de los coches que duermen en la calle en San Sebastián. La salinidad del ambiente corroe el sistema de escape y otros componentes metálicos del chasis. En nuestras revisiones, inspeccionamos los bajos con atención para detectar y tratar los puntos de óxido antes de que perforen el metal y la reparación sea más costosa."
+    },
+    {
+      "title": "Fallos en el sistema de climatización",
+      "body": "La alta humedad no solo empaña los cristales, también favorece la aparición de moho y bacterias en los conductos del aire acondicionado, causando malos olores y alergias. Realizamos tratamientos de desinfección y revisamos la carga del gas para que el sistema funcione perfectamente, desempañe rápido y respires aire limpio."
+    },
+    {
+      "title": "Desgaste de neumáticos y suspensión",
+      "body": "Conducir con lluvia es la norma, no la excepción. Unos neumáticos en buen estado son tu seguro de vida. El asfalto variable, las rotondas y algún que otro bache en las carreteras secundarias de Gipuzkoa también afectan a la suspensión. Revisamos el desgaste de las ruedas, la alineación y el estado de los amortiguadores para garantizar tu seguridad."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de Gipuzkoa",
+      "body": "Sabemos cómo afecta el salitre, la humedad y las cuestas a tu vehículo. Nuestro mantenimiento está adaptado a las condiciones reales de conducción en Donostia y sus alrededores."
+    },
+    {
+      "title": "Presupuesto cerrado, sin sustos",
+      "body": "Te damos un precio final antes de empezar. Si durante la reparación surge un imprevisto, te llamamos, te lo explicamos y tú decides. Sin sorpresas en la factura."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un utilitario, un SUV premium o una furgoneta. Tenemos la tecnología y el conocimiento para cuidar de cualquier coche que circule por San Sebastián."
+    },
+    {
+      "title": "Revisión Pre-ITV exhaustiva",
+      "body": "Conocemos los puntos críticos que miran en las estaciones de ITV de Urnieta o Irun. Revisamos tu coche a fondo para que la pases a la primera y sin complicaciones."
+    },
+    {
+      "title": "Trato directo y profesional",
+      "body": "Hablamos claro, sin tecnicismos innecesarios. Te explicamos qué le pasa a tu coche y por qué recomendamos una reparación. Somos tu mecánico de confianza, no un simple proveedor."
+    }
+  ],
+  "testimonialsIntro": "No tienes por qué fiarte solo de nuestra palabra. Estos son algunos ejemplos de casos reales de conductores de Donostia que ya confían en nosotros.",
+  "testimonials": [
+    {
+      "name": "Mikel",
+      "neighborhood": "Antiguo",
+      "car": "BMW 320d 2015",
+      "body": "Empecé a oír un chirrido horrible al frenar bajando del seminario. Me preocupaba que fuera algo caro. Los traje aquí, me explicaron que los discos estaban algo oxidados por la humedad y me dieron un presupuesto cerrado para cambiarlos junto a las pastillas. Muy profesionales y el precio, correcto. El coche frena perfecto ahora.",
+      "rating": 5
+    },
+    {
+      "name": "Leire",
+      "neighborhood": "Gros",
+      "car": "Peugeot 208 2018",
+      "body": "Me tocaba la revisión anual y notaba que con la que está cayendo últimamente, el coche se me iba un poco en las rotondas. Me revisaron todo y me enseñaron que los neumáticos de delante estaban en las últimas. Me aconsejaron unos buenos para lluvia sin irse de precio. Trato cercano y muy honesto, la verdad.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Amara",
+      "car": "Ford Focus 2012",
+      "body": "El embrague me empezó a patinar, sobre todo saliendo de los semáforos. Con tanto atasco por el centro, me lo esperaba. Me confirmaron el diagnóstico y me dieron un presupuesto bastante más razonable que en el concesionario oficial. Ahora las marchas entran suaves como la seda. Muy contento con el trabajo.",
+      "rating": 5
+    },
+    {
+      "name": "Ane",
+      "neighborhood": "Egia",
+      "car": "Renault Captur 2016",
+      "body": "Se me encendió el testigo de fallo motor y el coche daba tirones. Estaba bastante asustada. Lo traje y en un par de horas me llamaron, habían encontrado un problema en una bobina de encendido. Me explicaron qué era y cuánto costaba. Al día siguiente lo tenía listo. Agradezco la rapidez y que no intentaran 'colarme' nada más.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Donostia da servicio a toda la ciudad y sus alrededores. Tanto si vives en barrios céntricos como el Centro, Gros o Amara, como si resides en zonas como el Antiguo, Aiete, Egia o Altza, estamos a tu disposición. También somos el taller de confianza para muchos conductores de municipios cercanos que vienen a trabajar a San Sebastián cada día, como Pasaia, Rentería, Lezo, Hernani, Lasarte-Oria o Usurbil. Gracias a nuestra ubicación, tenemos un acceso cómodo desde las principales vías que rodean la ciudad, como la variante GI-20, la autopista AP-8 o la autovía A-15, facilitando que nos dejes tu coche con la mínima pérdida de tiempo.",
+  "zoneNeighborhoods": [
+    "Amara",
+    "Gros",
+    "Antiguo",
+    "Egia",
+    "Centro",
+    "Altza",
+    "Aiete",
+    "Rentería",
+    "Pasaia",
+    "Hernani",
+    "Lasarte-Oria"
+  ],
+  "zoneAccessRoutes": [
+    "GI-20 (Variante de San Sebastián)",
+    "AP-8 (Autopista del Cantábrico)",
+    "A-15 (Autovía de Leitzaran)",
+    "N-I (Carretera Madrid-Irún)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Cómo afecta el salitre de Donostia a mi coche y qué podéis hacer?",
+      "a": "El salitre acelera la corrosión de todas las partes metálicas, especialmente bajos, sistema de escape, discos de freno y partes del chasis. En nuestro taller, recomendamos lavados frecuentes de los bajos, sobre todo en invierno. En nuestras revisiones, inspeccionamos estas zonas críticas y podemos aplicar tratamientos protectores para prevenir el óxido y alargar la vida de los componentes."
+    },
+    {
+      "q": "Vivo en un barrio con muchas cuestas como Aiete o Igeldo, ¿necesito un mantenimiento especial de frenos?",
+      "a": "Sí, es muy recomendable. El uso intensivo de los frenos en pendientes pronunciadas provoca un mayor desgaste y calentamiento. Aconsejamos revisiones de frenos más periódicas, cada 15.000 km o una vez al año, para comprobar el estado de pastillas y discos. Usar el freno motor al bajar también ayuda a reducir el desgaste y mejorar la seguridad."
+    },
+    {
+      "q": "Conduzco a diario por la GI-20 en hora punta, ¿qué debo revisar más a menudo?",
+      "a": "El tráfico intermitente de la GI-20, con acelerones y frenadas, castiga principalmente el embrague (en coches manuales), los frenos y el sistema de refrigeración del motor. También es un uso que puede saturar antes el filtro de partículas en los diésel. Recomendamos seguir el plan de mantenimiento a rajatabla y prestar especial atención al estado de los neumáticos y los frenos."
+    },
+    {
+      "q": "Con tanta lluvia, ¿qué recomendáis para mejorar la seguridad?",
+      "a": "Tres cosas son fundamentales: neumáticos, escobillas y luces. Asegúrate de llevar neumáticos de buena calidad y con el dibujo en perfecto estado para evacuar el agua y evitar el aquaplaning. Cambia las escobillas del limpiaparabrisas una vez al año para garantizar una buena visibilidad. Y, por último, comprueba que todas las luces funcionen correctamente. Ver y ser visto es clave."
+    },
+    {
+      "q": "¿Preparáis el coche para pasar la ITV de Urnieta o la de Irun?",
+      "a": "Por supuesto. Ofrecemos un servicio de revisión Pre-ITV muy completo. Conocemos perfectamente los puntos que inspeccionan en las estaciones de Gipuzkoa. Revisamos frenos, suspensión, neumáticos, luces, emisiones y todos los elementos de seguridad para que vayas con la tranquilidad de que tu coche está en perfectas condiciones y pases la inspección a la primera."
+    },
+    {
+      "q": "Tengo un coche diésel y hago trayectos cortos por la ciudad. ¿Es un problema?",
+      "a": "Puede serlo a largo plazo. Los trayectos cortos impiden que el motor y, sobre todo, el filtro de partículas (FAP) y la válvula EGR alcancen su temperatura óptima de funcionamiento. Esto puede provocar acumulaciones de carbonilla y averías costosas. Te recomendamos salir a carretera abierta al menos una vez por semana y conducir a un régimen más alto durante unos 15-20 minutos para limpiar el sistema."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Donostia",
+  "closingCta": "No dejes que una pequeña avería se convierta en un gran problema. Pide tu cita en nuestro taller de San Sebastián por teléfono, WhatsApp o email y conduce con total tranquilidad."
+}

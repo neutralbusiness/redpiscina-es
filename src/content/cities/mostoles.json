@@ -1,0 +1,191 @@
+{
+  "slug": "mostoles",
+  "name": "Móstoles",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 207095,
+  "lat": 40.32234,
+  "lng": -3.86496,
+  "metaTitle": "Taller mecánico en Móstoles — Multimarca y de confianza",
+  "metaDescription": "Tu taller mecánico en Móstoles para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Atendemos todas las marcas. ¡Pide tu cita!",
+  "heroSubtitle": "¿Cansado de los atascos en la A-5 y de no fiarte del taller? Te ofrecemos un servicio honesto y claro en Móstoles.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives y conduces por Móstoles, sabes lo que significa depender del coche. Ya sea para el trayecto diario a Madrid por una A-5 que nunca descansa, para moverte hacia el trabajo en los polígonos de la M-506 en dirección a Fuenlabrada, o simplemente para hacer la compra en el centro, tu vehículo es una pieza clave. Entendemos perfectamente el desgaste que esto supone: los arranques y paradas constantes en la Avenida de Portugal, el castigo al embrague en las rotondas de Móstoles Sur (PAU-4) o el esfuerzo extra del motor para subir al Xanadú por la R-5. No es lo mismo un coche que solo pisa autopista que uno que vive el día a día de una ciudad como la nuestra.\n\nEl clima de la Comunidad de Madrid es otro factor que no perdona. Los veranos secos y por encima de los 35 grados ponen a prueba el sistema de climatización y la batería como en pocos sitios. En invierno, las heladas matutinas en zonas como El Soto o Coimbra-Guadarrama son el peor enemigo de un arranque fácil. Este contraste térmico acelera el envejecimiento de plásticos, líquidos y, sobre todo, de los neumáticos. Por eso, un mantenimiento adaptado a nuestro clima continental no es un lujo, es una necesidad para evitar averías costosas y peligrosas, especialmente si planeas escapadas por la sierra o viajes largos por la Autovía de Extremadura.\n\nConocemos bien el parque móvil de Móstoles y sus alrededores, desde Alcorcón hasta Navalcarnero. Vemos a diario los SEAT León, Renault Mégane, Ford Focus y Peugeot 308 que forman el grueso de los coches que circulan por nuestras calles. También atendemos las furgonetas de autónomos que trabajan por toda la zona sur de Madrid y los SUV familiares que necesitan estar siempre a punto. Sabemos que la mayoría son diésel y gasolina con unos cuantos años encima, y entendemos los problemas específicos que desarrollan: filtros de partículas que sufren en trayectos cortos, sistemas de inyección que acusan el paso del tiempo y el desgaste general de un uso intensivo.\n\nNuestro compromiso es ofrecerte un servicio de taller en Móstoles que hable tu mismo idioma. No usamos tecnicismos para confundir, sino que te explicamos qué le pasa a tu coche y por qué. Te damos un presupuesto cerrado antes de empezar, para que no haya sorpresas desagradables. Queremos ser tu taller de confianza, ese al que vienes sabiendo que miraremos por tu seguridad y tu bolsillo, tanto si usas el coche para ir a la Universidad Rey Juan Carlos como si eres un profesional que depende de él para trabajar. Sabemos que tu tiempo es oro y que necesitas soluciones, no más problemas.",
+  "servicesIntro": "Desde la revisión oficial para tu coche hasta la avería más compleja, cubrimos todas las necesidades de tu vehículo aquí en Móstoles.",
+  "processIntro": "Trabajamos con total transparencia. Te explicamos todo y te damos un presupuesto cerrado. No movemos un tornillo sin tu aprobación.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, un mecánico experto lo revisa a fondo. Usamos equipos de diagnosis modernos para identificar el problema real, sin especulaciones. Escuchamos lo que te preocupa para ir directos al grano."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin compromiso. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas, sin sorpresas de última hora. Te lo enviamos por WhatsApp o email."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisa el presupuesto tranquilamente. Si tienes cualquier duda, nos llamas y te la aclaramos. Solo cuando nos das tu visto bueno, empezamos a trabajar en tu coche. Tú tienes siempre el control total de la reparación."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas, con la misma calidad que los originales y con total garantía. Nuestros mecánicos se encargan de la reparación siguiendo las especificaciones del fabricante para asegurar un trabajo bien hecho."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche esté listo para recoger. Te explicamos el trabajo realizado y te entregamos la factura. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario en Móstoles, los atascos en la A-5 y nuestro clima extremo provocan una serie de averías muy características en los coches de la zona.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico denso para entrar y salir de Madrid por la A-5 y los constantes semáforos y rotondas dentro de Móstoles castigan el sistema de embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en responder al frenar, es hora de una revisión. Nos aseguramos de que ambos sistemas estén en perfecto estado para tu seguridad."
+    },
+    {
+      "title": "Fallos en el aire acondicionado",
+      "body": "El verano en Móstoles es implacable. Forzar el climatizador a máxima potencia durante semanas con temperaturas de casi 40 grados puede provocar fugas en el circuito, fallos del compresor o simplemente que el gas se agote. Realizamos cargas de gas, detectamos fugas y reparamos el sistema para que el calor no sea un problema."
+    },
+    {
+      "title": "Problemas con la batería",
+      "body": "El contraste entre el frío intenso del invierno y el calor extremo del verano acorta la vida útil de las baterías. Un coche que duerme en la calle en barrios como Estoril II o El Soto sufre especialmente. Si notas que al coche le cuesta arrancar por la mañana, es un aviso. Comprobamos el estado de tu batería y alternador para que no te deje tirado."
+    },
+    {
+      "title": "Filtros de partículas (FAP/DPF) obstruidos",
+      "body": "Muchos coches diésel en Móstoles se usan para trayectos cortos por la ciudad, lo que impide que el filtro de partículas se regenere correctamente. Esto provoca pérdida de potencia y averías costosas. Realizamos limpiezas y regeneraciones forzadas para devolverle la vida a tu motor diésel y que pases la ITV sin problemas."
+    },
+    {
+      "title": "Amortiguadores y silentblocks fatigados",
+      "body": "La cantidad de badenes en zonas residenciales como Móstoles Sur y el estado de algunas calles secundarias pasan factura a la suspensión. Si notas ruidos extraños al pasar por baches, inestabilidad en curvas o un desgaste irregular de los neumáticos, es probable que los amortiguadores o los silentblocks necesiten atención. Revisamos todo el sistema para tu confort y seguridad."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Especialistas en tu coche",
+      "body": "Conocemos los coches que se conducen en Móstoles. Sabemos qué falla en un diésel con años y qué necesita un gasolina moderno. No damos palos de ciego, vamos directos a la solución que necesitas."
+    },
+    {
+      "title": "Presupuestos que se cumplen",
+      "body": "El precio que te damos es el que pagas. Sin extras inesperados ni letra pequeña. Creemos que la confianza empieza por la honestidad en las cuentas. Así de simple."
+    },
+    {
+      "title": "Comunicación directa y clara",
+      "body": "Te explicamos las cosas de forma que las entiendas. Si encontramos algo nuevo, te llamamos, te enviamos una foto si hace falta, y tú decides. Nunca haremos nada sin tu permiso explícito."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Todas nuestras reparaciones y las piezas que instalamos están garantizadas por escrito. Queremos que conduzcas con total tranquilidad sabiendo que el trabajo está bien hecho y respaldado."
+    },
+    {
+      "title": "Nos adaptamos a tu horario",
+      "body": "Sabemos que vives ocupado. Intentamos darte cita lo antes posible y nos ajustamos para que dejar y recoger el coche te resulte cómodo. Consulta la disponibilidad de nuestro coche de cortesía."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Móstoles como tú que ya confían en nosotros para el cuidado de su coche.",
+  "testimonials": [
+    {
+      "name": "Javier",
+      "neighborhood": "El Soto",
+      "car": "Ford Focus 1.6 TDCi 2015",
+      "body": "Uso el coche todos los días para ir a trabajar a un polígono de Getafe por la M-50 y el coche empezó a dar tirones. Pensaba que sería algo gordo. Aquí me diagnosticaron un problema con la EGR. Me dieron un presupuesto cerrado, lo acepté y en dos días lo tenía listo. Ahora va perfecto otra vez. Muy profesionales y honestos, que es lo que se busca.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Móstoles Sur (PAU-4)",
+      "car": "Nissan Qashqai 1.5 dCi 2018",
+      "body": "Con los niños, el coche es imprescindible y no puede fallar. Tenía que pasar la ITV y no estaba segura de los neumáticos. Me hicieron una revisión pre-ITV, me aconsejaron cambiar los dos de delante y me ajustaron el precio. Pasé la ITV a la primera sin ningún problema. Un servicio rápido y muy cómodo.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Centro",
+      "car": "SEAT Ibiza 1.4 2012",
+      "body": "Mi coche ya tiene sus años y el aire acondicionado había dejado de enfriar. Con el calor que hace aquí en verano era imposible. Me lo revisaron, encontraron una pequeña fuga, la repararon e hicieron la carga. El precio fue mucho más bajo de lo que me esperaba. Un trato muy cercano y eficiente.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Estoril II",
+      "car": "Renault Clio 1.2 2016",
+      "body": "Notaba un ruido raro en la rueda delantera derecha al girar. Me preocupaba que fuera algo de la dirección. Lo miraron en el momento y resultó ser una pieza del brazo de suspensión. Me explicaron lo que era y por qué había que cambiarlo. Aunque la reparación llevó un día, la comunicación fue buena.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Móstoles y sus alrededores. Si vives en barrios como el Centro, Dos de Mayo, El Soto, Los Rosales, Villafontana o las zonas más nuevas como Móstoles Sur, estamos a tu lado. Nuestra ubicación nos permite atender también a conductores de municipios vecinos que buscan un taller de confianza, como Alcorcón, Fuenlabrada, Arroyomolinos, Navalcarnero o Villaviciosa de Odón. Gracias a los rápidos accesos desde las principales vías que nos rodean, como la A-5 (Autovía de Extremadura), la M-50 y la M-506, llegar a nuestro taller es fácil y rápido, evitando el tráfico más denso del centro de la ciudad. Vengas de donde vengas, aquí encontrarás una solución para tu coche.",
+  "zoneNeighborhoods": [
+    "Centro",
+    "Dos de Mayo",
+    "El Soto",
+    "Los Rosales",
+    "Estoril I y II",
+    "Coimbra-Guadarrama",
+    "Móstoles Sur",
+    "Alcorcón",
+    "Fuenlabrada",
+    "Arroyomolinos"
+  ],
+  "zoneAccessRoutes": [
+    "A-5 (Autovía de Extremadura)",
+    "M-50",
+    "R-5",
+    "M-506"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la pre-ITV para la estación de Móstoles?",
+      "a": "Sí, por supuesto. Conocemos perfectamente los puntos que más se revisan en la ITV de Móstoles (en el polígono Las Nieves). Hacemos una comprobación exhaustiva de frenos, luces, neumáticos, emisiones y holguras para que vayas con la máxima garantía de pasarla a la primera. Si detectamos algo, te damos presupuesto para solucionarlo antes de que vayas."
+    },
+    {
+      "q": "Mi coche es diésel y hago muchos trayectos cortos por la ciudad, ¿qué mantenimiento especial necesita?",
+      "a": "Es un caso muy común en Móstoles. El principal riesgo es la saturación del filtro de partículas (FAP/DPF) y la acumulación de carbonilla en la válvula EGR. Te recomendamos usar un aditivo de calidad para el combustible de vez en cuando y, si es posible, salir a carretera (como la M-50 o la A-5) al menos una vez a la semana y conducir a revoluciones un poco más altas durante 15-20 minutos para forzar la regeneración."
+    },
+    {
+      "q": "¿Notáis que las baterías fallen más por el clima de aquí?",
+      "a": "Sin duda. El clima continental de Madrid, con veranos muy calurosos e inviernos fríos, es muy exigente para las baterías. Las altas temperaturas degradan sus componentes internos y el frío reduce su capacidad de entregar energía en el arranque. Por eso, una batería que en otra zona duraría 5 años, aquí puede empezar a fallar a los 3 o 4. Recomendamos revisarla anualmente, sobre todo antes del invierno."
+    },
+    {
+      "q": "Tengo que coger la A-5 todos los días. ¿Qué revisión me recomendáis para ir seguro?",
+      "a": "Para un uso intensivo en autovía como la A-5, la seguridad es lo primero. Nos centraríamos en tres puntos clave: neumáticos (presión y desgaste, son tu único contacto con el asfalto), frenos (discos y pastillas, vitales en frenazos de emergencia por atascos) y amortiguadores (para asegurar la estabilidad del coche a alta velocidad). Una revisión de estos tres elementos te dará la tranquilidad que necesitas."
+    },
+    {
+      "q": "¿Atendéis coches de todas las marcas y modelos?",
+      "a": "Sí, somos un taller multimarca. Tenemos la experiencia y el equipo de diagnosis para trabajar con la gran mayoría de vehículos que circulan por Móstoles y la Comunidad de Madrid, desde un SEAT o un Renault hasta un BMW o un Mercedes, pasando por marcas asiáticas como Toyota o Hyundai. Sea cual sea tu coche, podemos ayudarte."
+    },
+    {
+      "q": "Vivo en Arroyomolinos, ¿me compensa llevar el coche a Móstoles?",
+      "a": "Muchos de nuestros clientes vienen de Arroyomolinos, Fuenlabrada o Alcorcón. Valoran la transparencia de nuestros presupuestos cerrados y la comunicación directa. El trayecto por la R-5 o la M-506 es muy corto, y a menudo compensa hacer unos pocos kilómetros extra para tener la seguridad de un trabajo bien hecho y un precio justo, sin sorpresas."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Móstoles",
+  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita lo antes posible para revisar tu coche en Móstoles.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Móstoles",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@taller-madrid.es",
+    "addressStreet": ""
+  }
+}

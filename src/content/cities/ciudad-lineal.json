@@ -1,0 +1,191 @@
+{
+  "slug": "ciudad-lineal",
+  "name": "Ciudad Lineal",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 228171,
+  "lat": 40.44505,
+  "lng": -3.65132,
+  "metaTitle": "Taller mecánico en Ciudad Lineal — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Ciudad Lineal (Madrid) para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Pide tu cita ahora.",
+  "heroSubtitle": "Cansado del tráfico de la M-30 y la calle Alcalá? Dale a tu coche el mantenimiento que necesita para aguantar el día a día en Madrid.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Ciudad Lineal no es cualquier cosa. Lo sabemos porque también vivimos y trabajamos aquí. Cada día te enfrentas al atasco de primera hora en la A-2 para ir a trabajar, a la circulación densa de la calle Alcalá a media tarde o a la búsqueda de aparcamiento por las calles de Quintana o Pueblo Nuevo. Este ritmo, de arrancar y parar constantemente, de trayectos cortos para hacer la compra o llevar a los niños al colegio en San Juan Bautista, es lo que más castiga la mecánica de un coche. El embrague sufre, los frenos se desgastan y, si tienes un diésel, el filtro de partículas se convierte en tu peor pesadilla. No es lo mismo usar el coche para largos viajes por autopista que para el día a día en un distrito tan denso como el nuestro, y tu vehículo lo nota.\n\nEl clima de Madrid es otro factor clave que no se puede ignorar. Pasamos de un frío seco en invierno que pone a prueba las baterías cada mañana, a un calor asfixiante en julio y agosto que exprime al máximo el sistema de aire acondicionado y de refrigeración del motor. ¿Cuántas veces has visto coches parados en el arcén de la M-30 en pleno verano por un calentón? Este clima continental, con cambios de temperatura tan bruscos, afecta a los líquidos, a los manguitos y a los neumáticos. Un mantenimiento preventivo adaptado a las condiciones de Madrid no es un lujo, es una necesidad para evitar averías costosas y, sobre todo, para garantizar tu seguridad y la de los tuyos.\n\nEl parque móvil de Ciudad Lineal es un reflejo de su gente: diverso. Desde el SEAT León o el Peugeot 308 que ves aparcado en La Concepción, perfectos para la ciudad, hasta el SUV familiar de Arturo Soria o la furgoneta de un autónomo de Ventas. Conocemos bien estos modelos. Sabemos qué problemas suelen dar los motores TDI y HDI en el tráfico urbano madrileño, como la acumulación de carbonilla en la válvula EGR, o los fallos comunes en los sistemas de inyección de los gasolina que hacen muchos trayectos cortos. Sea cual sea tu coche, con 5, 10 o 15 años, lo hemos visto antes y sabemos cómo tratarlo.\n\nPor eso, nuestro enfoque es local. No te hablamos con tecnicismos que no entiendes ni te tratamos como un número más. Entendemos que tu coche es tu herramienta para moverte por Madrid, para ir desde Costillares hasta el centro o para escaparte el fin de semana por la A-1. Nuestra misión es simple: ofrecerte un diagnóstico honesto, un presupuesto cerrado sin sorpresas y una reparación de confianza para que puedas seguir con tu vida sin preocuparte por la mecánica. Somos tu taller de barrio en Ciudad Lineal, pero con la garantía y los recursos de una red nacional.",
+  "servicesIntro": "Desde la revisión anual para tu coche que usas por Arturo Soria hasta un cambio de embrague por el trote de la M-30, cubrimos toda la mecánica.",
+  "processIntro": "Sabemos que un taller inspira poca confianza. Por eso, te explicamos cada paso y te damos un presupuesto cerrado antes de hacer nada.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Nos cuentas qué le pasa a tu coche y lo escuchamos. Conectamos nuestros equipos de diagnosis para identificar el problema con precisión, combinando tu experiencia con nuestra tecnología. No dejamos nada al azar."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Verás el coste de las piezas y la mano de obra de forma clara. El precio que ves es el que pagas, sin sorpresas ni extras de última hora. Transparencia total."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No movemos ni un tornillo sin tu aprobación explícita. Revisa el presupuesto con calma y, si tienes cualquier duda, nos llamas. Solo cuando nos das el visto bueno, nuestro equipo se pone manos a la obra con tu coche."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas con garantía. Nuestros mecánicos realizan la reparación siguiendo los estándares del fabricante para asegurar un trabajo bien hecho. Te mantenemos informado si surge cualquier imprevisto."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos la reparación realizada. Nos aseguramos de que todo esté perfecto y te contactamos pasados unos días para confirmar que el coche va como la seda."
+    }
+  ],
+  "commonIssuesIntro": "El calor de Madrid, los atascos en la M-30 y los trayectos cortos por barrios como Quintana o La Concepción generan averías muy concretas en tu coche. Estas son las más habituales.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El tráfico denso en la calle Alcalá o en la M-30 obliga a un uso constante del embrague y los frenos. Este ciclo de arrancar-parar acelera su desgaste mucho más que en carretera. Revisamos el estado de discos, pastillas y líquido de frenos, y comprobamos el recorrido del embrague para evitar que te deje tirado en el peor momento."
+    },
+    {
+      "title": "Problemas con el aire acondicionado",
+      "body": "En Madrid, el aire acondicionado no es un lujo, es una necesidad. Los veranos con picos de 40ºC fuerzan el sistema al máximo. Fugas en el circuito, compresores que fallan o falta de gas son averías típicas. Realizamos cargas de gas, detectamos fugas y reparamos el compresor para que el calor no sea un problema."
+    },
+    {
+      "title": "Filtro de partículas (DPF) obstruido",
+      "body": "Si tienes un diésel y te mueves principalmente por Ciudad Lineal, es muy probable que te salte el aviso del DPF. Los trayectos cortos no permiten que el filtro se regenere, acumulando carbonilla hasta obstruirse. Realizamos limpiezas químicas y regeneraciones forzadas para que no tengas que sustituirlo, una reparación muy cara."
+    },
+    {
+      "title": "Baterías que mueren en invierno",
+      "body": "El frío seco del invierno madrileño es el enemigo número uno de las baterías, sobre todo si el coche duerme en la calle. Si a eso le sumas trayectos cortos que no dan tiempo a recargarla, el resultado es que una mañana el coche no arranca. Comprobamos el estado de tu batería y el alternador para que el frío no te pare."
+    },
+    {
+      "title": "Suspensión y neumáticos dañados",
+      "body": "Los innumerables badenes para reducir la velocidad en zonas residenciales como San Pascual o La Concepción, junto con los baches, castigan la suspensión y los neumáticos. Un amortiguador en mal estado alarga la frenada y desgasta las ruedas de forma irregular. Revisamos y alineamos la dirección para una conducción segura."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Expertos en tu coche",
+      "body": "Sea un Renault, un Volkswagen o un BMW, conocemos sus puntos débiles y cómo solucionarlos. Nuestra experiencia multimarca nos permite ir directos al grano, ahorrándote tiempo y dinero en diagnósticos."
+    },
+    {
+      "title": "Presupuestos que se cumplen",
+      "body": "La factura final coincidirá con el presupuesto que te dimos. Si durante la reparación encontramos algo más, te llamaremos para informarte y darte un nuevo presupuesto. Tú siempre tienes el control."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "Solo te recomendaremos cambiar lo que de verdad es necesario para la seguridad y el buen funcionamiento de tu coche. No inflamos las facturas con reparaciones innecesarias. Nuestra mejor publicidad es tu confianza."
+    },
+    {
+      "title": "Cerca de ti en Ciudad Lineal",
+      "body": "Estamos en tu distrito, te evitamos grandes desplazamientos. Somos el taller de confianza de tu barrio, accesible y cercano para lo que necesites, desde una revisión rápida hasta una avería compleja."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Todas nuestras intervenciones y las piezas que instalamos están garantizadas por ley. Puedes estar tranquilo, si algo no va bien, respondemos. Tu satisfacción es nuestra prioridad."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Ciudad Lineal que han confiado en nosotros. Sus casos podrían ser el tuyo.",
+  "testimonials": [
+    {
+      "name": "María",
+      "neighborhood": "La Concepción",
+      "car": "Renault Clio 2017",
+      "body": "Llegó junio y el aire acondicionado no enfriaba nada, un drama para moverse por Madrid en verano. Los llevé y en el mismo día me detectaron una pequeña fuga, la repararon y recargaron el gas. Me explicaron todo súper bien y el precio fue el que me dijeron. Un alivio.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Pueblo Nuevo",
+      "car": "SEAT León TDI 2015",
+      "body": "Me saltó el testigo del filtro de partículas. Uso el coche para ir y volver del trabajo por la M-30 y poco más. Pensé que me tocaría cambiarlo y me temblaba la cartera. Aquí me hicieron una limpieza y regeneración y el coche va perfecto. Me ahorraron un dineral. Muy honestos.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Arturo Soria",
+      "car": "BMW 320d 2013",
+      "body": "Tenía que pasar la ITV y quería ir sobre seguro. Les pedí una revisión pre-ITV y me detectaron las pastillas de freno traseras en las últimas. Me dieron presupuesto al momento, lo acepté y por la tarde ya tenía el coche listo. Pasó la ITV sin un solo fallo. Servicio profesional y rápido.",
+      "rating": 5
+    },
+    {
+      "name": "Ana",
+      "neighborhood": "Ventas",
+      "car": "Ford Focus 2016",
+      "body": "Notaba un ruido raro en la rueda delantera al coger los badenes de mi calle. Lo revisaron y era un silentblock de la suspensión. Tardaron un día más de lo previsto porque la pieza no llegaba, pero me avisaron con tiempo y me mantuvieron informada. La comunicación fue buena y el problema está solucionado.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a todo el distrito de Ciudad Lineal y zonas limítrofes. Si vives o trabajas en barrios como Quintana, Pueblo Nuevo, La Concepción, Ventas o en la zona de Arturo Soria, estamos a un paso. Nuestra ubicación es fácilmente accesible desde las principales arterias que vertebran la zona, como la calle Alcalá, la propia calle Arturo Soria o la Avenida de América. También cubrimos barrios de distritos vecinos como Canillejas (San Blas) o la Guindalera (Salamanca), que conectan directamente a través de la M-30. Llegar a nuestro taller es sencillo tanto si vienes por la A-2 como si te mueves por las calles del interior del distrito.",
+  "zoneNeighborhoods": [
+    "Quintana",
+    "Pueblo Nuevo",
+    "Ventas",
+    "La Concepción",
+    "Arturo Soria",
+    "San Juan Bautista",
+    "San Pascual",
+    "Colina",
+    "Costillares",
+    "Canillejas"
+  ],
+  "zoneAccessRoutes": [
+    "M-30",
+    "A-2 (Autovía de Aragón)",
+    "Calle de Alcalá",
+    "Calle Arturo Soria"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Afecta la Zona de Bajas Emisiones (ZBE) de Madrid si llevo mi coche sin etiqueta al taller?",
+      "a": "Nuestra red de talleres tiene ubicaciones estratégicas. Si tu coche no tiene etiqueta ambiental de la DGT, consúltanos tu caso. Te indicaremos la mejor ruta para llegar a nuestro taller en Ciudad Lineal evitando las cámaras de la ZBE o si es necesario algún tipo de permiso puntual. Siempre buscamos una solución para que puedas traer tu coche sin riesgo de multas."
+    },
+    {
+      "q": "Mi diésel hace trayectos cortos por Ciudad Lineal, ¿qué mantenimiento especial necesita?",
+      "a": "Es el uso más exigente para un diésel moderno. Te recomendamos acortar ligeramente los intervalos de cambio de aceite y filtro, ya que el aceite se degrada más. Además, es crucial vigilar el filtro de partículas (DPF) y la válvula EGR. Una limpieza preventiva de vez en cuando y salir a carretera abierta durante 20-30 minutos a revoluciones altas una vez al mes puede evitar averías muy costosas."
+    },
+    {
+      "q": "Con el calor de Madrid en verano, ¿qué debo revisar antes de irme de vacaciones?",
+      "a": "Fundamental: el sistema de refrigeración (nivel de anticongelante y estado de los manguitos), la presión y el estado de los neumáticos (el asfalto caliente los desgasta más) y, por supuesto, el aire acondicionado. Un fallo en cualquiera de estos tres elementos puede arruinarte el viaje. Una revisión rápida con nosotros te dará total tranquilidad."
+    },
+    {
+      "q": "Paso la ITV en la estación de la A-2, ¿hacéis la revisión pre-ITV completa?",
+      "a": "Sí, por supuesto. Conocemos perfectamente los puntos que se revisan en las estaciones de ITV de Madrid. Hacemos una comprobación exhaustiva de luces, frenos, suspensión, neumáticos, niveles y emisiones de gases. Si detectamos cualquier fallo, te damos presupuesto para solucionarlo y que pases la ITV a la primera sin problemas."
+    },
+    {
+      "q": "Aparco en la calle en la zona ORA, ¿revisáis los daños típicos de aparcamiento?",
+      "a": "Claro. Los pequeños roces en parachoques, los retrovisores golpeados o las llantas arañadas son el pan de cada día en zonas de aparcamiento regulado como las de Ciudad Lineal. Además de la mecánica, podemos gestionar la reparación de estos pequeños desperfectos de chapa y pintura para que tu coche luzca como se merece."
+    },
+    {
+      "q": "Vivo en un bajo por Quintana y uso poco el coche, ¿qué le pasa a la batería?",
+      "a": "El poco uso es uno de los peores enemigos de la batería, ya que el coche tiene pequeños consumos constantes (alarma, reloj) y nunca llega a recargarse del todo. Si solo lo usas para trayectos cortos una vez a la semana, es normal que la batería dure mucho menos. Te recomendamos arrancarlo una vez por semana durante 15 minutos o usar un mantenedor de baterías."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Ciudad Lineal",
+  "closingCta": "No dejes que una avería te complique la vida en Madrid. Pide tu presupuesto cerrado por teléfono, WhatsApp o email y conduce con tranquilidad por Ciudad Lineal.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Ciudad Lineal",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@taller-madrid.es",
+    "addressStreet": ""
+  }
+}

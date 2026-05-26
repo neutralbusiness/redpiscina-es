@@ -1,0 +1,185 @@
+{
+  "slug": "sant-vicenc-dels-horts",
+  "name": "Sant Vicenç dels Horts",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 27901,
+  "lat": 41.39317,
+  "lng": 2.00689,
+  "metaTitle": "Taller mecánico en Sant Vicenç dels Horts | Presupuesto cerrado",
+  "metaDescription": "Taller mecánico en Sant Vicenç dels Horts para conductores que cuidan su coche. Diagnóstico honesto y presupuesto cerrado. Pide tu cita ahora.",
+  "heroSubtitle": "Porque sabes que ese pequeño ruido al subir a La Guàrdia no es normal. Entendemos tu coche y tu día a día en Sant Vicenç.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "No todos los coches son iguales, y desde luego, no es lo mismo conducir por el centro de Barcelona que hacerlo aquí, en Sant Vicenç dels Horts. Lo sabes bien. Conoces cada curva de la carretera de Torrelles, la paciencia que requiere salir a la A-2 en hora punta y la sensación del coche al arrancar en una mañana húmeda por la cercanía del Llobregat. Para ti, el coche no es solo un medio de transporte. Es una máquina que sientes, que escuchas y que te avisa cuando algo no va fino. Eres de los que nota esa ligera vibración en el volante en la recta de la BV-2002 hacia Sant Boi, o el cambio en el sonido del motor cuando el calor aprieta subiendo desde el polígono Molí dels Frares hacia la zona de Can Ros. Por eso no buscas un taller cualquiera, sino un equipo que hable tu mismo idioma.\n\nEl día a día de un coche en Sant Vicenç es exigente. La orografía del municipio, con las cuestas constantes de barrios como La Guàrdia o El Serral, somete a frenos, embragues y cajas de cambio a un esfuerzo continuo. No es un desgaste de autopista, es un trabajo de precisión y resistencia en cada arranque en pendiente, en cada frenada antes de una rotonda. A esto se suma la humedad del valle, que no solo se nota en el ambiente, sino que se mete en la electrónica, en las conexiones y en los bajos de los coches que duermen en la calle, sobre todo en zonas más abiertas como Sant Josep. El parque móvil de aquí es un reflejo de nuestra realidad: coches prácticos, fiables, muchos diésel con más de una década que siguen dando guerra en el trayecto diario hacia el trabajo en el área metropolitana, y que merecen un mantenimiento que entienda su historia y su contexto.\n\nNosotros vemos cada vehículo que entra por la puerta no como un número de matrícula, sino como una historia. Entendemos al autónomo que necesita su furgoneta a punto para repartir por todo el Baix Llobregat y no puede permitirse un día parado. Comprendemos al aficionado que mima su gasolina del 2008 y quiere que siga sonando redondo, o a la familia que usa su coche para todo: llevar los niños al colegio, hacer la compra y escaparse el fin de semana. No ofrecemos soluciones genéricas porque los problemas no lo son. Analizamos tu coche con la misma atención que un pagès de Sant Vicenç cuida sus cerezos antes de la floración: buscando ese detalle minúsculo, esa señal temprana que marca la diferencia entre una pequeña intervención y una avería costosa. Ese es nuestro compromiso: un diagnóstico preciso, anclado en la realidad de conducir por nuestras calles.\n\nPor eso, cuando nos dejas tu coche, no solo te damos un presupuesto cerrado. Te ofrecemos tranquilidad. La tranquilidad de saber que no vamos a cambiar una pieza si no es estrictamente necesario, que te explicaremos el porqué de cada intervención con claridad y que entendemos perfectamente lo que significa depender de tu vehículo para moverte por el entramado de la B-23, la N-340 o simplemente para callejear por la Vila Vella. Somos mecánicos, sí, pero también somos conductores de aquí. Conocemos los mismos atascos, las mismas cuestas y la misma satisfacción de tener un coche que responde a la perfección. Confía en quien entiende no solo de mecánica, sino de la vida en Sant Vicenç dels Horts.",
+  "servicesIntro": "Desde la revisión para quedarte tranquilo antes de irte de vacaciones hasta esa avería compleja que te trae de cabeza, aquí tienes nuestros servicios.",
+  "processIntro": "Trabajamos con total transparencia. Este es nuestro proceso, pensado para que sepas qué le pasa a tu coche y cuánto te costará, sin sorpresas.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico y escucha",
+      "body": "Primero, te escuchamos. Nadie conoce tu coche como tú. Luego, nuestros técnicos conectan el equipo de diagnosis y realizan una inspección visual completa para entender el origen real del problema, no solo el síntoma."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en la mano, te preparamos un presupuesto detallado y sin letra pequeña. Te lo enviamos por WhatsApp o email para que lo revises con calma. El precio que ves es el que pagas. Ni un céntimo más."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No movemos una sola herramienta sin tu visto bueno explícito. Si durante la reparación surgiera algo imprevisto (es raro, pero puede pasar), paramos y te contactamos de inmediato con la información y las opciones."
+    },
+    {
+      "title": "Reparación experta",
+      "body": "Utilizamos recambios de primeras marcas o equivalentes, siempre con garantía. Nuestros mecánicos se encargan de la reparación siguiendo los estándares del fabricante para asegurar un trabajo bien hecho y duradero."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, te contactaremos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+    }
+  ],
+  "commonIssuesIntro": "La combinación de cuestas, humedad del río y el tráfico denso hacia Barcelona genera una serie de problemas recurrentes en los coches de Sant Vicenç. Estos son los que más vemos.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de frenos y suspensión",
+      "body": "Vivir en zonas como Can Ros o La Guàrdia significa usar el freno constantemente. Las pastillas y discos sufren más de lo normal. Lo mismo ocurre con los amortiguadores y silentblocks, castigados por las calles del centro y los badenes. Realizamos una inspección específica de estos componentes para garantizar tu seguridad."
+    },
+    {
+      "title": "Fallos eléctricos por humedad",
+      "body": "La proximidad al Llobregat crea un microclima húmedo que puede afectar a los coches que duermen en la calle. Esto a menudo deriva en falsos contactos, fallos en sensores o problemas de arranque. Localizamos el origen de la corrosión o el mal contacto y lo solucionamos para evitar averías mayores."
+    },
+    {
+      "title": "Sufrimiento del embrague en atascos",
+      "body": "El trayecto diario por la A-2 o la B-23 en hora punta es una tortura para el sistema de embrague. El continuo pisar y soltar el pedal acelera el desgaste del disco. Si notas que el pedal está duro o patina, es hora de revisarlo antes de que te deje tirado."
+    },
+    {
+      "title": "Problemas de refrigeración en verano",
+      "body": "El calor del verano en el valle, sumado a un atasco en la N-340, puede llevar al límite el sistema de refrigeración de cualquier coche. Verificamos el estado del radiador, manguitos y termostato para prevenir sobrecalentamientos que pueden causar daños graves en el motor."
+    },
+    {
+      "title": "Desgaste irregular de los neumáticos",
+      "body": "La combinación de rotondas, cuestas y carreteras sinuosas como la BV-2005 hacia Torrelles provoca un desgaste desigual en los neumáticos, especialmente en los flancos. Un correcto alineado de la dirección es clave en Sant Vicenç para alargar su vida útil y asegurar el agarre."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos tu entorno",
+      "body": "Sabemos lo que implica conducir a diario por el Baix Llobregat. Nuestro diagnóstico tiene en cuenta cómo usas el coche y por dónde te mueves, no solo lo que dice el ordenador."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el precio final. Si algo inesperado aparece, te llamamos, te lo explicamos y tú decides. Sin sustos en la factura."
+    },
+    {
+      "title": "Comunicación clara y directa",
+      "body": "Te explicamos las averías en un lenguaje que entiendes, sin tecnicismos innecesarios. Queremos que sepas exactamente qué le pasa a tu coche y por qué lo reparamos."
+    },
+    {
+      "title": "Especialistas en coches 'reales'",
+      "body": "Nuestro fuerte son los coches de 4 a 15 años, los que forman el grueso del parque móvil de Sant Vicenç. Conocemos sus puntos débiles y cómo mantenerlos fiables."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Cada pieza que montamos y cada hora de trabajo están garantizadas por ley. Tu tranquilidad es nuestra mejor carta de presentación."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes, tenemos compañeros de carretera. Aquí tienes algunos ejemplos de situaciones reales que hemos resuelto en nuestro taller.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Can Ros",
+      "car": "SEAT León FR 2015",
+      "body": "Notaba que al coche le costaba subir la cuesta de casa y el freno de mano no aguantaba bien. En otros sitios me hablaban de cambiar medio coche. Aquí dieron con el ajuste exacto del cable y revisaron las pastillas traseras. Me explicaron todo con fotos por WhatsApp. Honestos y saben lo que hacen.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "La Guàrdia",
+      "car": "Peugeot 308 SW 2012",
+      "body": "Con dos niños, el coche es vital. Empezó a dar tirones al salir en los semáforos de la carretera de Sant Boi. Pensé que sería algo grave del motor. Resultó ser un tema de inyectores que solucionaron con una limpieza. Me ahorraron una pasta y el coche va más fino que nunca. Un alivio.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Vila Vella",
+      "car": "Ford Focus 2009",
+      "body": "Paso la ITV siempre con nervios. Lo traje para la pre-ITV y me detectaron una holgura en un brazo de suspensión que yo ni había notado. Lo repararon en el día y me gestionaron la cita. Pasó a la primera sin un solo fallo. El año que viene repito seguro, te quitan un peso de encima.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Sant Josep",
+      "car": "Renault Clio 2017",
+      "body": "El aire acondicionado dejó de enfriar justo al empezar el verano. Pedí presupuesto y fue claro y cerrado desde el principio. Me detectaron una pequeña fuga, la repararon y recargaron el gas. El trato fue muy bueno, aunque tardaron un poco más de lo previsto en tener la pieza.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Sant Vicenç dels Horts da servicio a toda la localidad, desde las zonas más elevadas como La Guàrdia y Can Ros hasta el centro y los polígonos industriales. Conocemos cada rincón y las necesidades de sus conductores. Nuestra área de influencia natural se extiende a los municipios vecinos, con clientes que vienen a diario desde Torrelles de Llobregat por la BV-2005 y desde Santa Coloma de Cervelló. También estamos muy cerca para conductores de Pallejà y Molins de Rei, que nos encuentran fácilmente gracias a la buena conexión con las grandes vías. Si te mueves por la A-2, la B-23 o la carretera comarcal BV-2002, estamos en una ubicación estratégica para ti.",
+  "zoneNeighborhoods": [
+    "Can Ros",
+    "La Guàrdia",
+    "Sant Josep",
+    "Vila Vella",
+    "El Serral",
+    "Sant Roc",
+    "Torrelles de Llobregat",
+    "Santa Coloma de Cervelló",
+    "Pallejà"
+  ],
+  "zoneAccessRoutes": [
+    "A-2",
+    "B-23",
+    "BV-2002",
+    "BV-2005"
+  ],
+  "faqLocal": [
+    {
+      "q": "Vivo en La Guàrdia y las cuestas son muy pronunciadas. ¿Debo revisar los frenos más a menudo?",
+      "a": "Sí, sin duda. El uso intensivo del freno en bajadas constantes acelera el desgaste de pastillas y discos. Recomendamos una inspección visual cada 10.000 km en lugar de los 15.000 o 20.000 habituales. También es crucial revisar el líquido de frenos, ya que el sobrecalentamiento puede degradarlo y reducir la eficacia de la frenada."
+    },
+    {
+      "q": "Mi coche duerme en la calle cerca del río Llobregat, ¿cómo le afecta la humedad?",
+      "a": "La humedad constante del valle del Llobregat puede afectar a largo plazo. Principalmente, puede provocar corrosión en los bajos y en el sistema de escape, así como fallos intermitentes en conexiones eléctricas y sensores. Es buena idea realizar una limpieza de bajos una vez al año y aplicar productos protectores para prevenir problemas."
+    },
+    {
+      "q": "Hago el trayecto diario a Barcelona por la A-2. ¿Qué mantenimiento específico necesita mi coche?",
+      "a": "Ese tipo de trayecto, con mucho tráfico de 'arranca y para', castiga especialmente el embrague, la caja de cambios y el sistema de refrigeración. Recomendamos acortar los intervalos de cambio del aceite del motor y prestar especial atención al tacto del embrague y a la temperatura del motor en los atascos de verano."
+    },
+    {
+      "q": "Tengo un diésel de 2011 y me preocupa la ZBE de Barcelona, ¿podéis hacer algo?",
+      "a": "Aunque no podemos cambiar la etiqueta de tu coche, sí podemos asegurarnos de que funcione de la manera más eficiente y limpia posible. Una revisión del sistema de inyección, la EGR y el filtro de partículas (FAP) es crucial. Mantener estos sistemas limpios no solo reduce las emisiones, sino que también mejora el rendimiento y el consumo."
+    },
+    {
+      "q": "La carretera de Sant Boi (BV-2002) tiene muchos baches, ¿qué es lo primero que se estropea?",
+      "a": "Efectivamente, esa carretera pone a prueba la suspensión. Los componentes que más sufren son los silentblocks de los brazos de suspensión, las bieletas de la barra estabilizadora y los propios amortiguadores. Si notas ruidos secos al pasar por baches o inestabilidad en curvas, es síntoma de que algo necesita atención."
+    },
+    {
+      "q": "Tengo coche de cortesía mientras reparáis el mío?",
+      "a": "Disponemos de un número limitado de coches de cortesía. Siempre intentamos ofrecer uno, especialmente para reparaciones que se prevén largas. Te recomendamos solicitarlo al pedir la cita para que podamos confirmar su disponibilidad y reservarlo para ti. Tiene un coste de gestión mínimo, consúltanos."
+    },
+    {
+      "q": "¿Qué diferencia hay entre vuestra revisión y la de un servicio oficial?",
+      "a": "Seguimos el plan de mantenimiento que marca el fabricante de tu coche, utilizando piezas de calidad equivalente y sellando el libro de mantenimiento, por lo que no pierdes la garantía. La gran diferencia es un trato más cercano y un precio más ajustado, sin renunciar a la calidad y con un diagnóstico adaptado al uso real que le das al coche en Sant Vicenç."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Sant Vicenç",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos un WhatsApp y cuéntanos qué le pasa a tu coche. Encontraremos la mejor solución para que sigas conduciendo con total tranquilidad por Sant Vicenç dels Horts y alrededores."
+}

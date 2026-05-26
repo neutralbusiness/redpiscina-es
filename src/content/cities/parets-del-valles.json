@@ -1,0 +1,181 @@
+{
+  "slug": "parets-del-valles",
+  "name": "Parets del Vallès",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 17632,
+  "lat": 41.57481,
+  "lng": 2.23306,
+  "metaTitle": "Taller mecánico en Parets del Vallès — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Parets del Vallès para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. ¡Pide tu cita hoy!",
+  "heroSubtitle": "¿Cansado de los atascos en la C-17 y el desgaste que suponen para tu coche? Te damos un diagnóstico claro y un precio cerrado en Parets.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives o trabajas en Parets del Vallès, sabes que tu coche no es un lujo, es una necesidad. Lo usas cada día para ir a Barcelona por la C-17, para moverte por los polígonos de la zona como Can Volart o Llevant, o para acercarte a Granollers o Mollet. Entendemos perfectamente lo que eso significa para tu vehículo: el desgaste del embrague en las retenciones matutinas, el esfuerzo de los frenos en las constantes rotondas y el trabajo extra del motor para mantener el ritmo en la AP-7. No es lo mismo un coche que solo pisa autopista que uno que vive la realidad del Vallès Oriental.\n\nEn nuestro taller de Parets, no vemos solo un coche, vemos tu herramienta de trabajo o el vehículo familiar que te lleva al colegio de los niños. Conocemos el parque móvil de la zona: esos SEAT León, Renault Megane, Peugeot 308 y Ford Focus que tanto se ven por aquí, y también la furgoneta Citroën Berlingo o Peugeot Partner del autónomo que necesita tenerla siempre a punto. Sabemos que la mayoría son diésel de hace unos años, y conocemos sus puntos débiles, sobre todo cuando se combinan trayectos cortos por el pueblo con viajes más largos por autovía.\n\nEl clima del Vallès también juega su papel. Los veranos calurosos ponen a prueba el sistema de refrigeración y el aire acondicionado, que se convierte en algo imprescindible. El polvo de las zonas industriales y agrícolas se acumula en los filtros mucho antes de lo que indica el fabricante. Y aunque los inviernos no son extremos, la humedad y las mañanas frías pueden pasar factura a las baterías y dificultar el arranque de los motores diésel más veteranos. Todo esto lo tenemos en cuenta en cada diagnóstico.\n\nPor eso, cuando traes tu coche a nuestro taller en Parets, no aplicamos un protocolo genérico. Hablamos contigo, te preguntamos qué rutas haces, si coges mucho la C-35 hacia la costa o si te mueves más entre Parets, Lliçà y Palau-solità i Plegamans. Esta información es clave para entender por qué tu coche hace ese ruido raro o por qué ha perdido potencia. Somos mecánicos, sí, pero también somos tus vecinos. Entendemos el contexto y te ofrecemos soluciones realistas y honestas, con un presupuesto cerrado para que no haya sorpresas. Queremos ser tu taller de confianza en el corazón del Vallès.",
+  "servicesIntro": "Desde la revisión para pasar la ITV de Lliçà de Vall sin sustos, hasta cambiar un embrague gastado por el tráfico de la C-17.",
+  "processIntro": "En nuestro taller de Parets, la confianza es lo primero. Por eso te damos un presupuesto claro y no hacemos nada sin tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Nos cuentas qué le pasa a tu coche y lo escuchamos. Conectamos nuestros equipos de diagnosis para encontrar el origen del problema y te explicamos qué hemos detectado, en un lenguaje que entiendas."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te entregamos un presupuesto detallado por escrito o por WhatsApp. El precio que ves es el que pagas, sin extras de última hora ni letra pequeña. Si surge algo imprevisto, paramos y te consultamos."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo hasta que nos das tu confirmación explícita. Tú tienes siempre el control total sobre la reparación y el gasto. Sin tu 'vale', no se hace nada."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan el trabajo siguiendo las especificaciones del fabricante para asegurar un resultado fiable y duradero. Te mantenemos informado del proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando el coche está listo, te avisamos. Al recogerlo, te explicamos la reparación realizada y te entregamos la factura detallada. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario por los polígonos de Parets y los trayectos por la AP-7 o la C-17 provocan averías muy concretas que conocemos y solucionamos a diario.",
+  "commonIssues": [
+    {
+      "title": "Embragues y frenos desgastados",
+      "body": "El tráfico denso para entrar a Barcelona por la C-17 y las constantes paradas y arranques en las rotondas de Parets y Mollet castigan mucho el embrague y los frenos. Detectamos el desgaste a tiempo y sustituimos los componentes para que conduzcas con total seguridad por el Vallès."
+    },
+    {
+      "title": "Filtros de partículas (FAP) obstruidos",
+      "body": "Muchos diésel de la zona hacen trayectos cortos, como ir de Lliçà d'Amunt a Parets, sin dar tiempo a que el filtro se regenere. Esto provoca pérdida de potencia y averías caras. Realizamos limpiezas y regeneraciones forzadas para evitar la sustitución completa del filtro."
+    },
+    {
+      "title": "Fallos en el aire acondicionado",
+      "body": "El calor del verano en el Vallès es intenso y el aire acondicionado trabaja a pleno rendimiento. Las fugas de gas o los fallos del compresor son habituales. Hacemos una diagnosis precisa del circuito, reparamos la fuga y recargamos el sistema para que vuelvas a viajar fresco."
+    },
+    {
+      "title": "Desgaste irregular de neumáticos",
+      "body": "La cantidad de rotondas en los accesos a los polígonos y las urbanizaciones, junto con algún que otro bache, desajusta fácilmente la alineación de la dirección. Esto provoca que los neumáticos se gasten mal y antes de tiempo. Realizamos alineados precisos para maximizar su vida útil."
+    },
+    {
+      "title": "Holguras en silentblocks y suspensión",
+      "body": "Circular a diario por calles con badenes, firmes irregulares en zonas industriales o caminos rurales cercanos a Palau-solità i Plegamans acaba generando ruidos y vibraciones. Revisamos y sustituimos los silentblocks y amortiguadores dañados para restaurar el confort y la seguridad de tu coche."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos el Vallès",
+      "body": "No somos una franquicia sin alma. Vivimos aquí y entendemos cómo afecta a tu coche conducir a diario por Parets, Montmeló o Lliçà. Sabemos lo que tu vehículo necesita."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "Te damos un precio cerrado antes de empezar. Lo que presupuestamos es lo que pagas. La honestidad es la base de una relación de confianza a largo plazo."
+    },
+    {
+      "title": "Para tu coche, sea cual sea",
+      "body": "Trabajamos con todas las marcas, desde el Dacia más funcional hasta el Audi más equipado. Tenemos la experiencia y el equipo para cuidar de tu coche con la misma profesionalidad."
+    },
+    {
+      "title": "Transparencia total",
+      "body": "Te explicamos la avería de forma clara. Si quieres, te enseñamos la pieza sustituida. Creemos que un cliente informado es un cliente satisfecho."
+    },
+    {
+      "title": "Pasión por la mecánica",
+      "body": "Nos gusta nuestro trabajo. Disfrutamos encontrando la solución a un problema complejo y devolviéndote el coche en perfecto estado. Somos artesanos de la automoción."
+    }
+  ],
+  "testimonialsIntro": "Aquí tienes algunos ejemplos de situaciones reales que solucionamos cada día para conductores de Parets y sus alrededores.",
+  "testimonials": [
+    {
+      "name": "Marc",
+      "neighborhood": "Eixample",
+      "car": "SEAT León TDI 2016",
+      "body": "El coche me dio aviso de fallo en el filtro de partículas. Hago cada día el trayecto a Sabadell y estaba preocupado. En el taller me explicaron el porqué del problema y me hicieron una regeneración. Me ahorraron un dineral y el coche va perfecto. Muy profesionales y honestos.",
+      "rating": 5
+    },
+    {
+      "name": "Sonia",
+      "neighborhood": "Can Volart",
+      "car": "Citroën Berlingo 2018",
+      "body": "Soy autónoma y la furgoneta es mi oficina. Los frenos empezaron a hacer un ruido horrible. Les llamé, me dieron cita rápido y en el mismo día tenía pastillas y discos nuevos. Entendieron perfectamente la urgencia que tenía. ¡Un servicio de 10!",
+      "rating": 5
+    },
+    {
+      "name": "Jordi",
+      "neighborhood": "Montmeló",
+      "car": "Renault Clio 2013",
+      "body": "Tenía que pasar la ITV y no quería sorpresas. Les pedí una revisión pre-ITV y me encontraron una luz de matrícula fundida y un silentblock algo tocado. Lo cambiaron todo a un precio muy razonable. Fui a la ITV de Lliçà y la pasé a la primera. Muy recomendables.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Lliçà de Vall",
+      "car": "Ford Focus 2015",
+      "body": "El aire acondicionado dejó de enfriar justo al empezar el calor. Me hicieron una revisión del circuito, encontraron una pequeña fuga y lo recargaron. Tardaron un poco más de lo previsto porque la pieza tardó en llegar, pero me mantuvieron informada en todo momento. Ahora enfría genial.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Parets del Vallès da servicio a toda la zona del Vallès Oriental. Si vives en el centro de Parets, en el Eixample o en la zona de Can Volart, estamos a un paso. Además, nuestra ubicación es ideal para conductores de municipios cercanos. Recibimos clientes a diario de Mollet del Vallès, Montmeló, Lliçà de Vall y Lliçà d'Amunt, que valoran un servicio cercano y profesional. Gracias a los accesos rápidos desde la C-17 y la AP-7, llegar a nuestro taller es muy sencillo. También damos cobertura a trabajadores de los polígonos industriales de la zona, que pueden dejar su vehículo por la mañana y recogerlo al salir del trabajo.",
+  "zoneNeighborhoods": [
+    "Parets Eixample",
+    "Barri Antic",
+    "Can Volart",
+    "Sector Autopista",
+    "Mollet del Vallès",
+    "Montmeló",
+    "Lliçà de Vall",
+    "Lliçà d'Amunt",
+    "Palau-solità i Plegamans"
+  ],
+  "zoneAccessRoutes": [
+    "C-17",
+    "AP-7",
+    "C-35",
+    "BV-1604"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Es necesario pedir cita previa si vengo desde Mollet o Montmeló?",
+      "a": "Sí, siempre recomendamos pedir cita previa. Así podemos reservarte un hueco en el elevador y asegurarnos de atenderte sin esperas innecesarias. Entendemos que vienes de un municipio cercano y tu tiempo es valioso. Llámanos o escríbenos y te daremos la primera hora disponible que te vaya bien."
+    },
+    {
+      "q": "Mi coche diésel hace trayectos cortos por Parets, ¿qué mantenimiento especial necesita?",
+      "a": "Es una consulta muy común. Para un diésel que se mueve principalmente por el pueblo, el filtro de partículas (FAP/DPF) y la válvula EGR son los componentes que más sufren. Te recomendamos salir a la autovía (C-17 o AP-7) una vez a la semana y conducir unos 15-20 minutos a un régimen más alto (2.500-3.000 rpm) para ayudar a limpiar el sistema. En la revisión anual, prestaremos especial atención a estos elementos."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Lliçà de Vall, ¿revisáis los puntos críticos?",
+      "a": "Por supuesto. Ofrecemos un servicio de revisión Pre-ITV muy completo. Conocemos perfectamente los puntos que más miran en la estación de Lliçà de Vall. Revisamos luces, frenos, neumáticos, suspensión, niveles y emisiones para que vayas con la máxima tranquilidad y la pases a la primera, ahorrándote tiempo y dinero."
+    },
+    {
+      "q": "Trabajo en el Polígono Llevant, ¿ofrecéis alguna facilidad para dejar el coche?",
+      "a": "Sí, muchos de nuestros clientes trabajan en los polígonos de la zona. Puedes dejar el coche a primera hora de la mañana y recogerlo al final de tu jornada laboral. Si la reparación es breve, puedes esperar en nuestra sala. Para intervenciones más largas, consulta la disponibilidad de nuestro coche de cortesía."
+    },
+    {
+      "q": "El aire acondicionado de mi coche no enfría lo suficiente en verano, ¿es una reparación cara?",
+      "a": "Depende de la causa. Muchas veces es simplemente una falta de gas refrigerante, y una recarga soluciona el problema a un coste muy asequible. Si hay una fuga en el circuito o una avería en el compresor, el coste puede ser mayor. Lo primero que hacemos es un diagnóstico completo del sistema para localizar el problema exacto y darte un presupuesto cerrado."
+    },
+    {
+      "q": "¿Qué garantía tienen las reparaciones que hacéis en el taller?",
+      "a": "Todas nuestras reparaciones están cubiertas por la garantía legal. En el caso de los recambios, la garantía es la que ofrece el propio fabricante, que suele ser de 2 a 3 años para la mayoría de componentes. Nuestra prioridad es que te vayas tranquilo y seguro de que el trabajo está bien hecho."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Parets del Vallès",
+  "closingCta": "Si tu coche necesita una revisión o notas algo raro, no lo dejes pasar. Llámanos o envíanos un WhatsApp para pedir cita en nuestro taller de Parets del Vallès. Te atenderemos sin compromiso."
+}

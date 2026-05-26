@@ -1,0 +1,182 @@
+{
+  "slug": "llica-d-amunt",
+  "name": "Lliçà d'Amunt",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 14143,
+  "lat": 41.61667,
+  "lng": 2.23333,
+  "metaTitle": "Taller mecánico en Lliçà d'Amunt — Multimarca y de confianza",
+  "metaDescription": "Tu taller de confianza en Lliçà d'Amunt. Presupuesto cerrado para revisiones, mecánica, neumáticos e ITV. Pide cita y cuida tu coche sin sorpresas.",
+  "heroSubtitle": "Harto de los atascos en la C-17 y de no saber si tu coche aguantará otro viaje a Barcelona? Aquí lo revisamos a fondo y sin sorpresas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives en Lliçà d'Amunt, sabes que el coche no es un lujo, es una necesidad. Lo usas para todo: para bajar al centro desde Can Salgot o Palaudàries, para llevar a los niños al colegio, para ir a comprar a Granollers o, por supuesto, para el trayecto diario a trabajar, peleándote con el tráfico de la C-17 en dirección a Barcelona o a los polígonos de Parets y Montmeló. Entendemos perfectamente esa dependencia y la frustración que genera una avería inesperada o una visita al taller que se alarga más de la cuenta.\n\nEl parque móvil de Lliçà y del Vallès Oriental es un reflejo de sus habitantes: coches trabajadores y fiables. Vemos a diario en nuestro taller muchos SEAT León, Peugeot 308, Renault Mégane y Citroën C4, la mayoría diésel con unos cuantos años encima. Son coches que aguantan bien, pero el uso intensivo les pasa factura. El constante 'para y arranca' en las rotondas de la C-155 o en los atascos matutinos de la C-17 castiga los embragues, los frenos y, en los diésel, satura los filtros de partículas (DPF). Sabemos identificar estos síntomas de desgaste antes de que se conviertan en un problema grave.\n\nAdemás, el clima del Vallès tiene sus propias particularidades. No tenemos la salinidad de la costa, pero sí veranos muy calurosos y secos que ponen a prueba el sistema de aire acondicionado, seguido de inviernos húmedos y fríos que son la prueba de fuego para las baterías. ¿Cuántas veces has oído a un vecino decir que el coche no le arrancaba una mañana de enero? Estos cambios de temperatura también afectan a los componentes de goma y plástico del motor, que se resecan y agrietan con el tiempo, provocando pequeñas fugas que es crucial detectar a tiempo.\n\nEn nuestro taller en Lliçà d'Amunt no solo cambiamos piezas. Entendemos el contexto en el que se mueve tu coche. Por eso, cuando nos traes tu vehículo para una revisión, un cambio de correa de distribución o para averiguar por qué se ha encendido un testigo, no solo vemos el coche: vemos tus rutas, tu día a día. Te ofrecemos un diagnóstico honesto y un presupuesto cerrado, sin letra pequeña. Queremos ser tu taller de confianza, el que te da la tranquilidad de que tu coche está en buenas manos, listo para afrontar otro día de carretera por el Vallès.",
+  "servicesIntro": "Desde la revisión anual para tu coche familiar hasta la puesta a punto de tu furgoneta de trabajo, aquí en Lliçà d'Amunt cubrimos todas tus necesidades.",
+  "processIntro": "Sabemos que la confianza es clave. Por eso, nuestro proceso es 100% transparente: te damos un presupuesto cerrado y no hacemos nada sin tu OK.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando tu coche llega, escuchamos lo que te preocupa y realizamos una inspección completa. Usamos equipos de diagnosis modernos para identificar el origen exacto del problema, sin especulaciones."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y sin compromiso. El precio que te damos es el precio que pagas, sin sorpresas ni costes ocultos de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos ni un tornillo sin tu aprobación explícita. Te explicamos qué hemos encontrado, las opciones que tienes y te recomendamos la mejor solución. Tú siempre tienes la última palabra."
+    },
+    {
+      "title": "Reparación",
+      "body": "Una vez aprobado el presupuesto, nuestros mecánicos se ponen manos a la obra. Utilizamos recambios de primeras marcas y todas nuestras reparaciones cuentan con garantía para tu total tranquilidad."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario por la C-17, las carreteras locales del Vallès y el clima cambiante provocan averías muy concretas que vemos cada día en nuestro taller de Lliçà d'Amunt.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos por la C-17",
+      "body": "El tráfico denso en la C-17 hacia Barcelona y las numerosas rotondas en Lliçà y alrededores fuerzan un uso constante del embrague y los frenos. Este patrón de conducción acelera su desgaste. En nuestro taller, revisamos el grosor de las pastillas y discos, el estado del líquido de frenos y detectamos cualquier síntoma de que el embrague empieza a patinar, para que no te deje tirado."
+    },
+    {
+      "title": "Problemas con el filtro de partículas (FAP/DPF)",
+      "body": "Muchos diésel que circulan por Lliçà realizan trayectos cortos, de una urbanización al pueblo o a Granollers. Esto impide que el filtro de partículas se regenere correctamente, provocando obstrucciones y averías costosas. Realizamos diagnósticos precisos y limpiezas del filtro para devolverle su eficiencia y evitar su sustitución."
+    },
+    {
+      "title": "El aire acondicionado no enfría en verano",
+      "body": "Cuando llega el calor intenso del Vallès, el aire acondicionado es imprescindible. El estrés al que se somete el sistema provoca fugas en el circuito o debilidad en el compresor. Diagnosticamos el problema, desde una simple recarga de gas hasta la reparación de una fuga, para que puedas volver a conducir fresco."
+    },
+    {
+      "title": "Fallos en suspensión y neumáticos",
+      "body": "Entre los badenes de las urbanizaciones como Can Salgot y el asfalto a veces irregular de carreteras secundarias, la suspensión y los neumáticos sufren mucho. Unos amortiguadores en mal estado o una alineación incorrecta aumentan el desgaste de las ruedas y la inseguridad. Revisamos todo el sistema para garantizar tu confort y seguridad."
+    },
+    {
+      "title": "Batería agotada en las mañanas de invierno",
+      "body": "Las mañanas frías y húmedas de Lliçà son el enemigo de las baterías con algunos años. Si el coche hace trayectos cortos, la batería no llega a recargarse del todo y un día, simplemente, no arranca. Comprobamos el estado de tu batería en cada revisión para que no te lleves una sorpresa desagradable."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos tu coche y tus rutas",
+      "body": "Entendemos lo que supone el trayecto diario por el Vallès. No te contamos historias, diagnosticamos problemas reales basados en el uso que le das al coche en Lliçà y alrededores."
+    },
+    {
+      "title": "Presupuesto claro, sin sorpresas",
+      "body": "Te damos un precio cerrado antes de empezar. Si encontramos algo más durante la reparación, te llamamos para que lo autorices. Tú decides siempre. Así de simple, así de honesto."
+    },
+    {
+      "title": "Para todas las marcas y modelos",
+      "body": "Da igual si conduces un Renault Clio, una furgoneta Ford Transit o un BMW. Tenemos la tecnología y el conocimiento para cuidar de tu coche con la misma profesionalidad."
+    },
+    {
+      "title": "Te ayudamos con la ITV",
+      "body": "¿Poco tiempo? Hacemos una revisión pre-ITV exhaustiva y, si quieres, nos encargamos de llevar tu coche a la estación de Granollers o La Llagosta para que no pierdas tu tiempo."
+    },
+    {
+      "title": "Cerca de ti, en Lliçà d'Amunt",
+      "body": "Estamos a mano de las principales urbanizaciones y del centro del pueblo. Ahorra tiempo y desplazamientos innecesarios para el mantenimiento de tu vehículo, estamos aquí mismo."
+    }
+  ],
+  "testimonialsIntro": "Estas son algunas situaciones típicas que nos encontramos. Quizá te sientas identificado con la experiencia de estos conductores de la zona de Lliçà.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Can Salgot",
+      "car": "Peugeot 3008 HDI 2017",
+      "body": "Uso el coche todos los días para ir a trabajar a Parets y el embrague empezaba a patinar. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial. Me explicaron por qué se había desgastado por el tipo de trayecto que hago. Muy profesionales y transparentes.",
+      "rating": 5
+    },
+    {
+      "name": "Maria",
+      "neighborhood": "Palaudàries",
+      "car": "SEAT Ibiza 1.0 TSI 2019",
+      "body": "Me tocaba la revisión de los 60.000 km y la ITV. Me lo gestionaron todo en un día, revisión, pre-ITV y hasta me llevaron el coche a pasarla. Para mí, que voy siempre con prisas, fue una solución perfecta. El coche va finísimo ahora. Muy recomendable.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Lliçà de Vall",
+      "car": "Citroën Berlingo 2015",
+      "body": "Soy autónomo y la furgoneta es mi herramienta. Se me encendió el testigo de fallo motor, era el filtro de partículas. Me explicaron cómo evitar que volviera a pasar y me hicieron una limpieza. Rápido y sin rodeos, que es lo que necesito para no perder días de trabajo.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Centre (El Poble Sec)",
+      "car": "Renault Clio 2013",
+      "body": "El aire acondicionado dejó de enfriar justo al empezar el calor. Pensé que sería una reparación carísima. Me encontraron una pequeña fuga, la repararon y recargaron el gas. El precio fue razonable y el trato muy cercano. Volveré sin duda para la próxima revisión.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la zona de Lliçà d'Amunt, incluyendo el núcleo urbano y todas sus urbanizaciones como Palaudàries, Can Salgot, Can Rovira o El Pinar i la Cruïlla. Nuestra ubicación nos permite ser el taller de referencia también para conductores de municipios vecinos que buscan un servicio profesional y de confianza, como Lliçà de Vall, Parets del Vallès, Palau-solità i Plegamans, Santa Eulàlia de Ronçana y Caldes de Montbui. Estamos perfectamente comunicados a través de las principales vías de la comarca, como la C-17, la C-155 que conecta con Sabadell, la C-59 hacia Caldes y la BV-1432, facilitando el acceso desde cualquier punto del Vallès Oriental.",
+  "zoneNeighborhoods": [
+    "Can Salgot",
+    "Palaudàries",
+    "Can Rovira",
+    "El Pinar i la Cruïlla",
+    "Lliçà de Vall",
+    "Parets del Vallès",
+    "Palau-solità i Plegamans",
+    "Santa Eulàlia de Ronçana",
+    "Caldes de Montbui",
+    "Granollers"
+  ],
+  "zoneAccessRoutes": [
+    "C-17",
+    "C-59",
+    "C-155",
+    "BV-1432"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi diésel hace muchos trayectos cortos por Lliçà, ¿debo preocuparme por el filtro de partículas?",
+      "a": "Sí, es una preocupación común. Los trayectos cortos no permiten que el filtro se regenere bien. Recomendamos, una vez a la semana, coger la C-17 o la C-59 durante unos 15-20 minutos a un régimen de 2.500-3.000 rpm para forzar la limpieza. Si el testigo ya se ha encendido, tráenoslo para un diagnóstico."
+    },
+    {
+      "q": "Vivo en una urbanización con cuestas, ¿afecta esto a mi coche?",
+      "a": "Totalmente. Las cuestas pronunciadas de zonas como Can Salgot o Palaudàries exigen más al embrague, a los frenos y a la caja de cambios. Un mantenimiento adecuado de estos componentes es clave para evitar averías costosas. Revisamos el nivel y estado del líquido de frenos y el desgaste del embrague en cada revisión."
+    },
+    {
+      "q": "Voy a pasar la ITV en Granollers, ¿qué miráis en la pre-ITV?",
+      "a": "Revisamos los mismos puntos críticos que miran en la estación de ITV de Granollers o La Llagosta: luces, frenos (con frenómetro), suspensión, holguras en la dirección, neumáticos y, muy importante, la emisión de gases. Nos aseguramos de que tu coche vaya preparado para pasarla a la primera sin problemas."
+    },
+    {
+      "q": "Con el calor del verano en el Vallès, ¿cómo puedo cuidar el aire acondicionado?",
+      "a": "Para evitar averías, es bueno encenderlo al menos una vez al mes durante todo el año, incluso en invierno, para que el gas y el aceite del compresor circulen. Si notas que enfría menos, no esperes a que se rompa. Una recarga a tiempo o la detección de una pequeña fuga es mucho más barato que cambiar un compresor."
+    },
+    {
+      "q": "Tengo que cambiar los neumáticos, ¿cuáles me recomendáis para moverme por esta zona?",
+      "a": "Depende de tu uso, pero para el clima del Vallès y el tipo de carreteras que tenemos, unos neumáticos 'all-season' (todo tiempo) son una opción muy equilibrada. Ofrecen buen agarre tanto en los veranos secos y calurosos como en las mañanas húmedas o frías de invierno, sin necesidad de tener dos juegos de ruedas."
+    },
+    {
+      "q": "Mi coche tiene ya más de 10 años, ¿vale la pena seguir haciendo las revisiones?",
+      "a": "Más que nunca. Un coche con años, como muchos de los que circulan por Lliçà, necesita un mantenimiento preventivo riguroso para seguir siendo fiable en tu día a día. Una revisión a tiempo evita que una pequeña avería se convierta en un problema grave y costoso. Es la mejor inversión para alargar su vida útil."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Lliçà d'Amunt",
+  "closingCta": "No dejes que una avería te complique la vida. Pide tu presupuesto cerrado o reserva cita en nuestro taller de Lliçà d'Amunt. Llámanos o escríbenos un WhatsApp y te atenderemos enseguida."
+}

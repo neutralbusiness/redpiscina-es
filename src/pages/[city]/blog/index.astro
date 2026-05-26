@@ -1,0 +1,138 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import { NETWORK } from "../../../lib/network.ts";
+import { getCollection, type CollectionEntry } from "astro:content";
+
+interface CityRef {
+  slug: string;
+  name: string;
+  province: string;
+  ccaa: string;
+}
+
+export async function getStaticPaths() {
+  const mods = import.meta.glob<{ default: CityRef }>(
+    "../../../content/cities/*.json",
+    { eager: true },
+  );
+  return Object.values(mods).map((m) => ({
+    params: { city: m.default.slug },
+    props: { city: m.default },
+  }));
+}
+
+const { city } = Astro.props as { city: CityRef };
+
+const all = await getCollection("blog");
+
+// Mostrar posts específicos de la ciudad + globales (sin city folder).
+type Post = CollectionEntry<"blog">;
+const posts: Post[] = all
+  .filter((p) => {
+    const parts = p.id.split("/");
+    if (parts.length === 1) return true; // global
+    return parts[0] === city.slug;
+  })
+  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+
+const canonical = `https://${city.slug}.${NETWORK.domain}/blog/`;
+const title = `Blog · Taller en ${city.name}`;
+const description = `Artículos y guías sobre mantenimiento, frenos, motor, ITV y más. Información práctica para conductores de ${city.name}.`;
+
+function formatDate(d: Date): string {
+  return d.toLocaleDateString("es-ES", { day: "2-digit", month: "short", year: "numeric" });
+}
+
+function postUrl(id: string): string {
+  const slug = id.split("/").pop();
+  return `/blog/${slug}/`;
+}
+---
+
+<Layout title={title} description={description} canonical={canonical}>
+  <nav class="nav">
+    <div class="container nav-inner">
+      <a href={`/`} class="nav-brand">{NETWORK.brand}</a>
+      <div class="nav-links">
+        <a href={`/`}>Inicio</a>
+        <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay}</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="blog-header">
+    <div class="container">
+      <p class="breadcrumb"><a href={`/`}>← Volver a Taller en {city.name}</a></p>
+      <h1>Blog · {city.name}</h1>
+      <p class="lead">Guías y consejos prácticos para tu coche.</p>
+    </div>
+  </header>
+
+  <main class="container" style="padding: 2rem 1rem;">
+    {posts.length === 0 ? (
+      <p style="color: var(--muted); padding: 2rem 0;">Próximamente publicaremos artículos sobre mantenimiento, frenos, motor, ITV y más.</p>
+    ) : (
+      <ul class="post-list">
+        {posts.map((p) => (
+          <li class="post-card">
+            <a href={postUrl(p.id)} class="post-link">
+              {p.data.image && (
+                <img src={p.data.image} alt={p.data.title} class="post-img" loading="lazy" width="600" height="338" />
+              )}
+              <div class="post-body">
+                <p class="post-meta">
+                  <span class="post-cat">{p.data.category}</span>
+                  <time datetime={p.data.publishDate.toISOString()}>{formatDate(p.data.publishDate)}</time>
+                  <span>· {p.data.readTime} min</span>
+                </p>
+                <h2>{p.data.title}</h2>
+                <p class="post-excerpt">{p.data.excerpt}</p>
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    )}
+  </main>
+
+  <style>
+    .blog-header {
+      background: var(--surface-alt);
+      padding: 2.5rem 0 1.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .blog-header h1 { margin: 0.5rem 0 0.25rem; }
+    .breadcrumb { margin: 0 0 0.5rem; }
+    .breadcrumb a { color: var(--muted); text-decoration: none; font-size: 0.875rem; }
+    .breadcrumb a:hover { color: var(--text); }
+    .lead { color: var(--muted); margin: 0; }
+
+    .post-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 1.5rem; }
+    .post-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      transition: box-shadow .2s, transform .2s;
+    }
+    .post-card:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
+    .post-link { display: block; color: inherit; text-decoration: none; }
+    .post-img { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; }
+    .post-body { padding: 1.25rem 1.5rem; }
+    .post-body h2 { margin: 0.5rem 0; font-size: 1.25rem; }
+    .post-meta {
+      color: var(--muted); font-size: 0.8125rem;
+      display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; margin: 0;
+    }
+    .post-cat {
+      background: var(--amber-100); color: var(--amber-800);
+      padding: 0.125rem 0.625rem; border-radius: 999px;
+      font-weight: 600; font-size: 0.75rem;
+    }
+    .post-excerpt { color: var(--muted); margin: 0.5rem 0 0; line-height: 1.55; }
+
+    @media (min-width: 768px) {
+      .post-list { grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
+</Layout>

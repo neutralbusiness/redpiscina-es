@@ -1,0 +1,183 @@
+{
+  "slug": "almeria",
+  "name": "Almería",
+  "province": "Almería",
+  "ccaa": "Andalucía",
+  "population": 196851,
+  "lat": 36.83814,
+  "lng": -2.45974,
+  "metaTitle": "Taller mecánico en Almería — Multimarca y de confianza",
+  "metaDescription": "Tu taller mecánico en Almería para revisiones, averías y neumáticos. Presupuestos cerrados sin sorpresas. Expertos en el clima local. Pide tu cita.",
+  "heroSubtitle": "Con el sol, la sal y el polvo de Almería, tu coche sufre. Te damos un diagnóstico claro y un presupuesto que no cambia.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir en Almería no es como hacerlo en cualquier otro sitio. Lo sabes bien si cada día coges la A-7 desde Aguadulce o Huércal de Almería para entrar a la ciudad, con el desgaste que eso supone para el embrague y los frenos. O si buscas aparcamiento por el centro, cerca del Paseo de Almería, y el motor sufre en los meses de calor. Aquí el coche no solo se desgasta por los kilómetros, sino por el propio entorno. El sol, el salitre y el polvo del desierto son factores que conocemos y tenemos muy en cuenta en cada diagnóstico.\n\nEl clima de Almería es único, y tu coche lo nota. Tenemos más de 3.000 horas de sol al año, una bendición para nosotros pero un castigo para la pintura, los plásticos exteriores y, sobre todo, los neumáticos de tu vehículo. El índice UV acelera su degradación y agrietamiento. Por no hablar del aire acondicionado: aquí no es un lujo, es una necesidad de abril a octubre. Un sistema de climatización que no rinde al 100% no es una opción. A esto se suma la calima ocasional, ese polvo en suspensión que viene del Sáhara y que obstruye los filtros de aire y habitáculo, afectando al rendimiento del motor y a la calidad del aire que respiras dentro.\n\nOtro enemigo silencioso es el salitre. Si vives o aparcas habitualmente cerca de la costa, en barrios como El Zapillo, Costacabana o Ciudad Jardín, la brisa marina deposita una fina capa de sal sobre tu coche. Con el tiempo, esta sal corroe los bajos del vehículo, los componentes de la suspensión, las líneas de freno metálicas e incluso las conexiones eléctricas, provocando averías que en otros lugares son mucho menos frecuentes. Realizar una inspección de los bajos en cada revisión es fundamental para prevenir problemas graves y costosos a largo plazo.\n\nEntendemos el parque automovilístico real de Almería. Vemos a diario los SEAT León, Renault Clio y Peugeot 308 que se usan para ir al trabajo o llevar a los niños al colegio, pero también las furgonetas tipo Citroën Berlingo o Ford Transit Connect que son la herramienta de trabajo de muchos autónomos en el sector agrícola de La Cañada o El Alquián. Sabemos que no es lo mismo el mantenimiento de un coche que apenas sale de la ciudad que el de uno que recorre la provincia por la A-92 o caminos rurales. Por eso, nuestro enfoque es siempre personalizado, pensando en el uso real que le das a tu vehículo en nuestro entorno almeriense.",
+  "servicesIntro": "Desde una recarga del aire acondicionado, vital en Almería, hasta una revisión completa para pasar la ITV sin sustos, cubrimos toda la mecánica de tu coche.",
+  "processIntro": "Creemos en la transparencia. Por eso, antes de tocar un solo tornillo, te explicamos el problema y te damos un presupuesto cerrado que no variará.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le notas al coche y lo conectamos a nuestros equipos de diagnosis. Analizamos el problema basándonos en los síntomas y en nuestra experiencia con las condiciones de Almería para encontrar la causa real."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Recibirás un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA. Es un precio final, sin sorpresas ni letra pequeña. Lo que lees es lo que pagas, ni un céntimo más."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No hacemos absolutamente nada sin tu aprobación explícita. Revisa el presupuesto con calma y, solo cuando nos des el visto bueno, nuestro equipo se pondrá manos a la obra. Tú tienes siempre el control."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas con garantía. Nuestros mecánicos realizan la reparación siguiendo las especificaciones del fabricante para asegurar un trabajo bien hecho y duradero. Te mantenemos informado del proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando recoges tu coche, te explicamos en detalle la reparación efectuada. Guardamos el historial de tu vehículo y estamos a tu disposición para cualquier consulta posterior. Tu tranquilidad es nuestra prioridad."
+    }
+  ],
+  "commonIssuesIntro": "El sol implacable, el salitre del mar y el polvo en suspensión no perdonan. Estos son los problemas más habituales que vemos y solucionamos en los coches de Almería.",
+  "commonIssues": [
+    {
+      "title": "Fallos en el Aire Acondicionado",
+      "body": "En Almería, el climatizador trabaja a pleno rendimiento durante más de seis meses al año. Este sobreesfuerzo provoca fugas en el circuito, fallos en el compresor y pérdida de eficacia. Realizamos diagnósticos precisos para localizar la fuga, reparamos el componente afectado y recargamos el gas para que vuelvas a pasar los veranos sin sudar."
+    },
+    {
+      "title": "Corrosión por Salitre en Bajos y Frenos",
+      "body": "Si tu coche duerme en la calle en zonas como El Zapillo o el Paseo Marítimo, el salitre está atacando silenciosamente el chasis, los latiguillos de freno y los sensores. En nuestras revisiones, inspeccionamos a fondo los bajos del coche con especial atención, limpiando y protegiendo las zonas sensibles para prevenir averías graves y problemas en la ITV."
+    },
+    {
+      "title": "Degradación de Plásticos y Neumáticos",
+      "body": "El sol almeriense es implacable con las partes de goma y plástico. Los neumáticos se resecan y agrietan antes, perdiendo seguridad, y los plásticos exteriores se decoloran. Revisamos la edad y el estado de tus ruedas más allá del dibujo y te aconsejamos sobre cómo proteger las molduras y faros para que no pierdan su eficacia."
+    },
+    {
+      "title": "Filtros de Aire Obstruidos por Polvo",
+      "body": "La cercanía al desierto y el polvo de las zonas agrícolas provocan que los filtros de aire y de habitáculo se saturen mucho antes de lo normal. Un filtro de aire sucio aumenta el consumo y reduce la potencia del motor. Lo cambiamos cuando toca para que tu coche respire bien y tú también."
+    },
+    {
+      "title": "Sobrecalentamiento del Motor en Verano",
+      "body": "Circular por la ciudad o subir por la A-7 hacia Granada en pleno agosto con 40 grados a la sombra pone a prueba cualquier sistema de refrigeración. Un termostato que no abre bien o un electroventilador que falla pueden causar una avería muy seria. Comprobamos todo el circuito para que puedas conducir tranquilo incluso en los días de más calor."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocimiento 100% Local",
+      "body": "Sabemos perfectamente lo que el sol y el salitre de Almería le hacen a un coche. No aplicamos soluciones genéricas, sino adaptadas a nuestro entorno."
+    },
+    {
+      "title": "Presupuesto Sin Sorpresas",
+      "body": "El precio que te damos es el precio que pagas. Se acabaron las llamadas a mitad de reparación para añadir costes inesperados. Honestidad por delante."
+    },
+    {
+      "title": "Para Todas las Marcas",
+      "body": "Reparamos desde el Dacia que se usa en el campo hasta el BMW que circula por la ciudad. Tenemos el equipo y la experiencia para cuidar de tu coche, sea cual sea."
+    },
+    {
+      "title": "Diagnóstico Honesto",
+      "body": "Si una reparación puede esperar, te lo diremos. Nuestro objetivo es tu confianza a largo plazo, no cambiar piezas que no son estrictamente necesarias."
+    },
+    {
+      "title": "Garantía en Cada Reparación",
+      "body": "Utilizamos recambios de calidad y garantizamos por escrito cada uno de nuestros trabajos. Queremos que conduzcas con total tranquilidad."
+    }
+  ],
+  "testimonialsIntro": "No podemos compartir datos de clientes reales por privacidad, pero estas son situaciones típicas que resolvemos cada día en nuestro taller de Almería.",
+  "testimonials": [
+    {
+      "name": "José",
+      "neighborhood": "El Zapillo",
+      "car": "SEAT Ibiza 2016",
+      "body": "Aparco siempre cerca de la playa y el coche empezó a hacer cosas raras con las luces. Pensé que sería una avería carísima. Aquí encontraron que era corrosión por el salitre en un conector. Lo limpiaron, lo protegieron y me explicaron cómo evitarlo. Unos profesionales honestos.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Huércal de Almería",
+      "car": "Peugeot 3008 2018",
+      "body": "Hago el trayecto a Almería todos los días para trabajar y el embrague empezaba a ir duro. Les pedí presupuesto y me pareció muy razonable. Cumplieron con el plazo que me dieron y ahora el coche va como la seda. Muy contenta con el servicio y la comunicación.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "La Vega de Acá",
+      "car": "Ford Focus 2014",
+      "body": "Se me rompió el aire acondicionado en pleno julio, un drama. En otros sitios me daban largas. Aquí me cogieron el coche rápido, encontraron una pequeña fuga en un manguito y lo solucionaron en el día. No intentaron venderme un compresor nuevo. Se agradece la sinceridad.",
+      "rating": 5
+    },
+    {
+      "name": "Ana",
+      "neighborhood": "Aguadulce",
+      "car": "Renault Clio 2015",
+      "body": "Lo llevé para una revisión pre-ITV porque siempre me ponen pegas con algo. Vieron que las pastillas de freno estaban en las últimas por tanto atasco para entrar a Almería. Me dieron presupuesto, las cambiaron y pasé la ITV a la primera. Buen servicio, aunque tardaron un poco más de lo que me dijeron.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda Almería capital y a las localidades cercanas. Si vives en barrios como Nueva Andalucía, Torrecárdenas, Oliveros o El Alquián, estamos a tu lado. También somos el taller de confianza para muchos conductores de municipios colindantes como Huércal de Almería, Viator, Benahadux e incluso Aguadulce (Roquetas de Mar), que aprovechan su venida a la ciudad para dejar el coche en buenas manos. Nuestro fácil acceso desde las principales vías como la A-7 (Autovía del Mediterráneo) y la N-340a hace que llegar a nuestro taller sea cómodo y rápido, sin tener que callejear en exceso por el centro.",
+  "zoneNeighborhoods": [
+    "El Zapillo",
+    "Nueva Andalucía",
+    "Torrecárdenas",
+    "La Vega de Acá",
+    "Oliveros",
+    "Ciudad Jardín",
+    "Huércal de Almería",
+    "Viator",
+    "Aguadulce",
+    "El Alquián",
+    "Regiones"
+  ],
+  "zoneAccessRoutes": [
+    "A-7 (Autovía del Mediterráneo)",
+    "A-92 (Autovía a Granada)",
+    "N-340a",
+    "AL-12 (Autovía del Aeropuerto)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Tenéis en cuenta el clima de Almería al hacer una revisión?",
+      "a": "Totalmente. No es una revisión estándar. Prestamos especial atención al sistema de aire acondicionado, al circuito de refrigeración por las altas temperaturas, al estado de los neumáticos y plásticos por el sol, y realizamos una inspección visual de los bajos en busca de corrosión por salitre, sobre todo si nos dices que aparcas cerca de la costa."
+    },
+    {
+      "q": "Vivo en Roquetas, ¿me merece la pena llevaros el coche?",
+      "a": "Muchos de nuestros clientes son de Aguadulce y Roquetas. El acceso por la A-7 es muy rápido y nuestro conocimiento de los problemas locales, como el efecto del salitre o el desgaste por el tipo de conducción en la zona, hace que muchos conductores prefieran asegurarse un diagnóstico y una reparación adaptada a nuestro entorno."
+    },
+    {
+      "q": "Mi coche duerme en la calle cerca de la playa, ¿qué debería vigilar?",
+      "a": "Te recomendamos lavarlo con frecuencia, sobre todo los bajos, para eliminar la sal. En el taller, es crucial que pidamos una revisión periódica del estado de los conductos de freno, la suspensión y cualquier componente metálico expuesto. También aplicamos productos protectores en las conexiones eléctricas para prevenir fallos."
+    },
+    {
+      "q": "Uso una furgoneta para trabajar en el campo, ¿conocéis sus problemas?",
+      "a": "Sí, perfectamente. Sabemos que esos vehículos sufren más por el polvo, que obstruye los filtros, y por el estado de los caminos, que afecta a la suspensión y los neumáticos. Adaptamos el mantenimiento a ese uso intensivo, revisando con más frecuencia los elementos que más se desgastan en esas condiciones."
+    },
+    {
+      "q": "La ITV de Almería en el PITA es bastante exigente, ¿vuestra pre-ITV es fiable?",
+      "a": "Por supuesto. Conocemos los puntos críticos en los que más se fijan en la estación de ITV de Almería, como la opacidad en los diésel, el estado de la suspensión y los frenos. Nuestra revisión pre-ITV está diseñada para que vayas con la máxima tranquilidad y la pases a la primera."
+    },
+    {
+      "q": "¿Tengo que dejar el coche todo el día para un cambio de aceite?",
+      "a": "Para operaciones de mantenimiento rápido como un cambio de aceite y filtros, intentamos darte cita para hacerlo en unas pocas horas. El objetivo es que recuperes tu coche el mismo día siempre que sea posible para no trastocar tu rutina."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto para Almería",
+  "closingCta": "Pide tu presupuesto cerrado y olvídate de las sorpresas. Llámanos o envíanos un WhatsApp y cuéntanos qué le pasa a tu coche. Estamos para ayudarte aquí, en Almería."
+}

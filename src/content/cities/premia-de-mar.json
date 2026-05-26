@@ -1,0 +1,182 @@
+{
+  "slug": "premia-de-mar",
+  "name": "Premià de Mar",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 27399,
+  "lat": 41.49206,
+  "lng": 2.36524,
+  "metaTitle": "Taller mecánico en Premià de Mar — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Premià de Mar para revisiones, averías y neumáticos. Presupuestos cerrados sin sorpresas. Pide tu cita y conduce tranquilo.",
+  "heroSubtitle": "Cansado del tráfico de la N-II y de talleres que no te dan un precio claro? En nuestro taller de Premià de Mar, lo tienes todo.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives en Premià de Mar, sabes lo que significa depender del coche. Ya sea para bajar a Barcelona cada mañana por la C-32, aguantando las retenciones a la altura de Montgat, o para moverte por la costa por la N-II hacia Mataró, tu vehículo es una herramienta esencial. Entendemos perfectamente la realidad de conducir por el Maresme: el tráfico que se intensifica los fines de semana de verano, los trayectos cortos para ir a la estación de tren o al mercado del jueves, y el desgaste que todo esto supone para cualquier motor, ya sea un diésel de 2015 o un gasolina más moderno. No es lo mismo un coche que solo se mueve por el Casc Antic y el Eixample que uno que sube y baja cada día a la Diagonal. Por eso, nuestro enfoque no es genérico; es local.\n\nEl clima de Premià de Mar es fantástico para vivir, pero es un desafío constante para la mecánica de tu coche. La 'marinada', esa brisa húmeda y cargada de salitre, es implacable. Acelera la corrosión en los bajos, en los discos de freno y en componentes electrónicos sensibles. En nuestro taller vemos a diario cómo coches con pocos años ya muestran signos de óxido que no se ven en el interior. A esto le sumamos el calor intenso del verano, que pone a prueba el sistema de refrigeración y el aire acondicionado, dos elementos que no pueden fallar cuando estás parado en la C-32 en pleno julio. El parque móvil de la zona, con abundancia de SEAT León, Peugeot 308, Renault Clio o Volkswagen Golf, tiene unas necesidades muy concretas que conocemos a la perfección.\n\nSomos un taller multimarca porque sabemos que en los garajes de Premià, Vilassar de Mar o El Masnou conviven coches de todo tipo: desde el Ford Focus familiar para llevar a los niños al colegio hasta la furgoneta del autónomo que trabaja por toda la comarca. Nuestro trabajo es ofrecerte un diagnóstico honesto y una solución adaptada a tu coche y a tu bolsillo. No te vamos a contar historias. Si el problema es el filtro de partículas de tu diésel por hacer demasiados trayectos cortos hasta Teià, te lo explicaremos claramente. Si los amortiguadores sufren por los badenes de algunas calles, buscaremos la mejor opción para ti. La confianza se basa en la transparencia, y esa es nuestra prioridad.\n\nAdemás, sabemos que tu tiempo es oro. Perder una mañana para llevar el coche al taller es un lujo que pocos se pueden permitir. Por eso, nos coordinamos contigo para que la revisión o la reparación sea lo más ágil posible. Entendemos la urgencia de tener el coche a punto para pasar la ITV en Mataró o Badalona sin sorpresas, o de solucionar esa avería que te ha dejado tirado antes de un viaje importante. Estamos aquí, en Premià de Mar, para ser tus mecánicos de confianza, los que entienden tu coche porque entienden cómo y dónde lo conduces cada día.",
+  "servicesIntro": "Cubrimos todas las necesidades de tu coche en Premià de Mar, desde la revisión anual para ir a la ITV hasta la avería más compleja.",
+  "processIntro": "Trabajamos con total transparencia. Te damos un diagnóstico claro y un presupuesto cerrado para que tengas el control en todo momento.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y nuestros técnicos realizan una revisión completa para identificar el origen del problema con precisión. No dejamos nada al azar."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te entregamos un presupuesto detallado y sin compromiso. El precio que ves es el que pagas, sin costes ocultos ni sorpresas de última hora. Lo explicamos línea por línea si hace falta."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos ni un tornillo sin tu aprobación explícita. Tú decides. Te llamamos, te explicamos las opciones y solo procedemos cuando nos das el visto bueno."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas y seguimos las especificaciones del fabricante. Todas nuestras reparaciones tienen garantía para que conduzcas con total tranquilidad."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "Vivir en la costa del Maresme significa lidiar con la sal, el tráfico de la N-II y el calor. Estos son los problemas que más vemos en los coches de Premià de Mar.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de frenos y embrague",
+      "body": "El tráfico lento de la N-II en horas punta y la conducción urbana por Premià o Vilassar, con sus rotondas y semáforos, castigan los frenos y el embrague. Si notas que el pedal de embrague va duro o que los frenos chirrían, es hora de revisarlos para evitar problemas mayores."
+    },
+    {
+      "title": "Fallos en el aire acondicionado",
+      "body": "El calor y la humedad del verano en el Maresme hacen que el aire acondicionado trabaje a pleno rendimiento. Las fugas en el circuito o un compresor agotado son averías comunes. No esperes a agosto para comprobar que enfría correctamente, sobre todo si te esperan atascos en la C-32."
+    },
+    {
+      "title": "Corrosión por salitre",
+      "body": "La 'marinada' es implacable. El ambiente salino de Premià de Mar acelera la oxidación de los bajos del coche, los conductos de freno y el sistema de escape. Una revisión periódica nos permite detectar y frenar la corrosión a tiempo, alargando la vida de tu vehículo."
+    },
+    {
+      "title": "Problemas con el filtro de partículas (FAP)",
+      "body": "Si usas tu coche diésel para trayectos cortos por el pueblo (ir a la estación, al supermercado...), es muy probable que el filtro de partículas se sature. Esto provoca pérdida de potencia y averías costosas. Detectamos obstrucciones y realizamos limpiezas para que el motor respire bien."
+    },
+    {
+      "title": "Batería y alternador débiles",
+      "body": "Los trayectos cortos no permiten que la batería se recargue por completo, y el uso intensivo del climatizador en verano exige mucho al sistema eléctrico. Vemos muchas baterías que fallan prematuramente. Comprobamos el estado de carga y el alternador para que no te quedes tirado."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Somos de aquí",
+      "body": "Entendemos los problemas específicos de conducir en Premià y el Maresme. No somos una cadena sin rostro, somos tus vecinos."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el precio final. Sin extras inesperados ni letra pequeña. Creemos en la honestidad para construir relaciones a largo plazo."
+    },
+    {
+      "title": "Expertos en todas las marcas",
+      "body": "Da igual si conduces un SEAT, un Mercedes o un Dacia. Tenemos la tecnología y el conocimiento para cuidar de tu coche como se merece."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "Solo reparamos lo que es necesario. Si una pieza puede aguantar más, te lo diremos. Nuestro objetivo es tu seguridad y tu confianza, no tu cartera."
+    },
+    {
+      "title": "Garantía por escrito",
+      "body": "Todas nuestras intervenciones y piezas están garantizadas. Conduce con la tranquilidad de saber que el trabajo está bien hecho."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones que hemos resuelto para conductores como tú en Premià de Mar y alrededores.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Casc Antic",
+      "car": "SEAT León ST 2016",
+      "body": "Uso el coche todos los días para ir a trabajar a Barcelona por la C-32. El embrague empezó a patinar en las subidas y me temía lo peor. En el taller me dieron un presupuesto cerrado muy rápido, más razonable que en otros sitios. Me lo cambiaron en el tiempo que me dijeron. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Vilassar de Mar",
+      "car": "Peugeot 2008 2018",
+      "body": "Con dos niños, el aire acondicionado en verano es sagrado. Dejó de enfriar de un día para otro. Los llamé y me dieron cita enseguida. Detectaron una pequeña fuga, la repararon y recargaron el gas. Me salvaron las vacaciones. Un trato muy cercano y honesto, lo recomiendo.",
+      "rating": 5
+    },
+    {
+      "name": "Marc",
+      "neighborhood": "Can Pou-Camp de Mar",
+      "car": "VW Golf 2013",
+      "body": "Me tocaba pasar la ITV en Mataró y siempre voy con nervios. Les pedí una revisión pre-ITV completa. Me encontraron una bombilla de freno fundida y un neumático un poco bajo de presión. Tonterías que me habrían hecho volver. Por muy poco dinero, fui tranquilo y la pasé a la primera. Genial.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "El Masnou",
+      "car": "Renault Clio 2015",
+      "body": "El coche empezó a hacer un ruido metálico raro al frenar. Pensé que sería una avería carísima. Resultó ser que las pastillas de freno estaban en las últimas. Me enseñaron cómo estaban y me explicaron por qué había que cambiarlas. El precio fue correcto y el ruido desapareció. Agradezco la transparencia.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Premià de Mar da servicio a toda la zona del Baix Maresme. Si vives en el centro de Premià, en barrios como el Eixample o el Casc Antic, o en zonas como Can Pou-Camp de Mar, estamos a un paso. También somos el taller de confianza para muchos conductores de los municipios vecinos. Damos cobertura a El Masnou, Alella, Teià y, por supuesto, a nuestros vecinos de arriba como Premià de Dalt y Vilassar de Dalt. Gracias a nuestra ubicación, es muy fácil llegar tanto si vienes por la carretera N-II, que cruza toda la costa, como si prefieres coger la salida de la autopista C-32. Somos tu taller de proximidad en el corazón del Maresme.",
+  "zoneNeighborhoods": [
+    "Premià de Mar",
+    "El Masnou",
+    "Vilassar de Mar",
+    "Premià de Dalt",
+    "Vilassar de Dalt",
+    "Teià",
+    "Alella",
+    "Casc Antic",
+    "Eixample",
+    "Can Pou-Camp de Mar"
+  ],
+  "zoneAccessRoutes": [
+    "N-II",
+    "C-32 (Autopista del Maresme)",
+    "C-31",
+    "BV-5023"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Afecta mucho la sal del mar a mi coche si vivo en Premià?",
+      "a": "Sí, y mucho. La brisa marina o 'marinada' transporta partículas de sal que se depositan en la carrocería, los bajos y los componentes metálicos. Esto acelera la corrosión, especialmente en discos de freno y sistema de escape. Recomendamos un lavado frecuente de los bajos y revisiones periódicas para aplicar protectores si es necesario y evitar daños mayores a largo plazo."
+    },
+    {
+      "q": "Hago cada día el trayecto a Barcelona por la C-32, ¿qué mantenimiento especial necesita mi coche?",
+      "a": "El trayecto diario por autopista, con sus aceleraciones y frenadas en los atascos, exige más a tu coche. Es crucial revisar la presión y el estado de los neumáticos con más frecuencia. También recomendamos no apurar los cambios de aceite y filtros, ya que el motor trabaja a altas revoluciones. Y por supuesto, un buen mantenimiento de frenos es vital para tu seguridad en el tráfico denso."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Mataró, ¿hacéis la revisión pre-ITV?",
+      "a": "Por supuesto. Es uno de nuestros servicios más demandados. Sabemos que ir a la ITV de Mataró o Badalona es una pérdida de tiempo, y más si te echan para atrás por una tontería. Revisamos todos los puntos clave: luces, frenos, neumáticos, emisiones, etc. Así vas sobre seguro, la pasas a la primera y te olvidas hasta dentro de uno o dos años."
+    },
+    {
+      "q": "Mi coche diésel hace muchos trayectos cortos por el pueblo, ¿es un problema?",
+      "a": "Sí, puede serlo para los diésel modernos. Los trayectos cortos, como ir de Premià a Vilassar, no permiten que el motor alcance la temperatura óptima para que el filtro de partículas (FAP) se regenere. Esto puede causar que se obstruya, provocando pérdida de potencia y averías costosas. Te recomendamos que, una vez a la semana, hagas un trayecto por autopista de unos 20 minutos a un régimen más alto."
+    },
+    {
+      "q": "¿Tenéis experiencia con las marcas más comunes en el Maresme como SEAT o Peugeot?",
+      "a": "Totalmente. Son las marcas que más vemos cada día en nuestro taller. Conocemos a la perfección los motores TDI y TSI del grupo Volkswagen (SEAT, Audi, VW) y los PureTech y BlueHDi de Peugeot y Citroën. Tenemos el equipo de diagnosis específico y la experiencia para solucionar cualquier problema en los coches más habituales de Premià de Mar."
+    },
+    {
+      "q": "Voy siempre con prisa, ¿cuánto tardáis en dar cita y en reparar el coche?",
+      "a": "Entendemos perfectamente que necesitas el coche. Intentamos dar cita lo más rápido posible, especialmente si es una avería urgente. La duración de la reparación depende de la avería y de la disponibilidad de las piezas, pero siempre te daremos una estimación realista. Para mantenimientos programados, solemos poder hacerlo en el mismo día. Consúltanos tu caso."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Premià de Mar",
+  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o envíanos un WhatsApp y cuéntanos qué le pasa a tu coche. Encontraremos la mejor solución para ti aquí, en Premià."
+}

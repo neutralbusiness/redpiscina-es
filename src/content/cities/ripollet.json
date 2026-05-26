@@ -1,0 +1,181 @@
+{
+  "slug": "ripollet",
+  "name": "Ripollet",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 38347,
+  "lat": 41.49686,
+  "lng": 2.15739,
+  "metaTitle": "Taller mecánico en Ripollet — Revisión para tu coche",
+  "metaDescription": "Taller multimarca en Ripollet con presupuesto cerrado. Nos ocupamos de la mecánica, revisión y pre-ITV de tu coche. Pide tu presupuesto sin compromiso.",
+  "heroSubtitle": "Para ese segundo coche que descansa toda la semana en Ripollet, una puesta a punto que te dé total tranquilidad en tus escapadas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Ripollet no es solo un código postal al lado de la C-58; es una ciudad con una memoria industrial que ha moldeado cómo vivimos y cómo nos movemos. El eco de los telares de la industria textil del Ripoll ha sido sustituido por el murmullo del tráfico de la AP-7. Muchos de nosotros hacemos el trayecto diario hacia Barcelona, Cerdanyola o Sant Cugat, exprimiendo el coche de batalla. Pero esta página no va de ese coche. Va del otro: del que se queda en el garaje en Can Mas o aparcado en la calle en Tiana-Pinetons de lunes a viernes. Ese segundo coche, a menudo un compacto o un familiar con unos años, es el vehículo de la libertad del fin de semana, el que te lleva a la playa por la C-32 o a una casa rural cerca del Montseny. Y su aparente inactividad es, paradójicamente, una fuente de problemas mecánicos muy específicos que conocemos bien.\n\nEl principal enemigo de un coche con poco uso en el Vallès no es el desgaste, sino la quietud. Un vehículo parado envejece de forma distinta. La batería sufre especialmente en invierno, con esas mañanas de niebla y frío húmedo tan características del valle del Ripoll, que la descargan sin piedad. No hay nada más frustrante que ir a coger el coche un sábado por la mañana para ir al mercado de Barberà y que no arranque. Los neumáticos, siempre en la misma posición, corren el riesgo de deformarse o cristalizarse. Los líquidos (aceite, refrigerante, líquido de frenos) pueden perder propiedades no por los kilómetros, sino por el simple paso del tiempo. Entendemos este ciclo de vida porque es el de muchos de nuestros vecinos en Ripollet, que usan el coche para lo importante: el ocio, la familia, las vacaciones. Por eso, nuestro enfoque no es tratarlo como un coche viejo, sino como un vehículo especial que requiere un mantenimiento preventivo diferente.\n\nAnalizar el contexto es clave. No es lo mismo un coche que duerme en la costa que uno que lo hace aquí. El clima continentalizado de Ripollet, con veranos muy calurosos e inviernos más fríos que en la Barcelona costera, somete a la mecánica a un estrés térmico considerable. El aire acondicionado, por ejemplo, no es un lujo, es una necesidad vital cuando te quedas atrapado en un atasco en la C-58 en pleno julio. En un coche de uso esporádico, el gas puede fugarse lentamente o el compresor puede agarrotarse por falta de uso, fallando justo el día que más lo necesitas. Lo mismo ocurre con la calefacción y el sistema de desempañado en invierno, esenciales para la seguridad en las mañanas de helada. Comparamos el patrón de uso y el clima local para anticipar estas averías, en lugar de simplemente reaccionar a ellas.\n\nNuestra filosofía de mantenimiento para este tipo de coches es como la del cuidado del Pont Vell: es una estructura que no soporta el tráfico denso de la C-58, pero que debe ser absolutamente fiable y segura cuando se necesita cruzar el río. Este puente mecánico, tu coche, lo revisamos para que esté a punto para cualquier viaje, sea una escapada improvisada a Montserrat o el largo trayecto de verano por la AP-7 hacia el sur. Nos centramos en los puntos críticos que la ITV no perdona en vehículos diésel con pocos kilómetros anuales, como la opacidad de los humos por una incorrecta regeneración del filtro de partículas. Preparamos tu coche no solo para que funcione, sino para que te dé la confianza de que, cuando gires la llave después de una semana parado, responderá a la primera. Siempre.",
+  "servicesIntro": "Desde una revisión completa hasta esa avería que te preocupa, estos son los servicios que más nos piden nuestros clientes en Ripollet.",
+  "processIntro": "Trabajamos con un proceso transparente para que sepas siempre qué le pasa a tu coche y cuánto te va a costar, sin sorpresas ni letra pequeña.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que te preocupa y conectamos el coche a nuestros sistemas de diagnosis. Hacemos una primera valoración visual y mecánica para entender el origen del problema y su alcance real."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye mano de obra y piezas, con el IVA desglosado. El precio que ves es el que pagas, ni un céntimo más."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni desmontamos nada hasta que nos das tu visto bueno explícito. Tienes el control total. Si decides no reparar, solo se factura el tiempo de diagnóstico."
+    },
+    {
+      "title": "Reparación",
+      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan la intervención siguiendo las especificaciones del fabricante para asegurar un resultado fiable y duradero en el tiempo."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para confirmar que todo funciona como debería."
+    }
+  ],
+  "commonIssuesIntro": "Los coches que se usan poco en el clima del Vallès desarrollan problemas muy concretos. Estos son los que más vemos en nuestro taller de Ripollet.",
+  "commonIssues": [
+    {
+      "title": "Fallo de batería en el peor momento",
+      "body": "La combinación de inactividad semanal y las noches frías y húmedas de Ripollet es letal para las baterías. Se descargan lentamente y fallan sin previo aviso, justo el sábado por la mañana. Comprobamos su estado real con un densímetro y te aconsejamos si es momento de cambiarla preventivamente."
+    },
+    {
+      "title": "Aire acondicionado que no enfría",
+      "body": "El sistema de A/C necesita usarse para mantenerse lubricado. Tras meses parado, es común que al llegar el calor de junio en el Vallès, solo eche aire caliente. Suele ser por una fuga de gas o un compresor atascado. Lo revisamos y cargamos para que no te ases en la C-58."
+    },
+    {
+      "title": "Frenos que chirrían o se clavan",
+      "body": "La humedad del entorno del río Ripoll puede generar óxido en los discos y agarrotamiento en las pinzas de freno si el coche no se mueve. Esto provoca ruidos molestos y, peor aún, una frenada irregular y poco segura. Los desmontamos, limpiamos y lubricamos para que recuperen su eficacia."
+    },
+    {
+      "title": "Rechazo en ITV por humos (diésel)",
+      "body": "Un diésel usado para trayectos cortos de fin de semana no calienta lo suficiente el escape, y el filtro de partículas (FAP) se satura de hollín. Es un suspenso casi seguro en la ITV. Realizamos una diagnosis y, si es necesario, una regeneración forzada del filtro."
+    },
+    {
+      "title": "Neumáticos deformados y cristalizados",
+      "body": "Un coche aparcado semanas en el mismo sitio en Can Jardí sufre. El peso deforma la cubierta y el sol y los cambios de temperatura endurecen la goma, perdiendo agarre aunque el dibujo esté bien. Verificamos la presión, el estado de la goma y si presentan 'planos' por la inactividad."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos el coche de 'finde'",
+      "body": "Sabemos que un coche que se usa poco tiene necesidades diferentes. Nuestro chequeo se centra en los puntos débiles derivados de la inactividad en el clima local de Ripollet."
+    },
+    {
+      "title": "Presupuesto claro, decisiones fáciles",
+      "body": "Te damos un precio cerrado para que puedas planificar el gasto del segundo coche sin sorpresas. Controlas tu presupuesto y decides qué hacer con toda la información."
+    },
+    {
+      "title": "Comunicación directa y honesta",
+      "body": "Te explicamos las cosas de forma que las entiendas, sin tecnicismos. Si algo puede esperar, te lo diremos. La confianza es nuestra prioridad."
+    },
+    {
+      "title": "Cerca de casa, en Ripollet",
+      "body": "Estamos aquí mismo, para que no tengas que cruzar todo el Vallès para una revisión. Una solución cómoda para la gente de Ripollet y alrededores como Cerdanyola o Montcada."
+    },
+    {
+      "title": "La Pre-ITV que necesitas",
+      "body": "Nos adelantamos a los fallos típicos que buscan en las estaciones de ITV cercanas, especialmente en emisiones y frenos, dos puntos débiles de los coches con poco uso."
+    }
+  ],
+  "testimonialsIntro": "No podemos usar casos de clientes reales, pero estas son situaciones típicas que nos encontramos y que podrían ser la tuya.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Centre",
+      "car": "Seat León ST 2016",
+      "body": "Teníamos el coche parado casi toda la semana y justo antes de irnos de vacaciones en agosto, el aire acondicionado dejó de enfriar. Un drama. Les llamé, me dieron cita rápido, encontraron una pequeña fuga, la repararon y recargaron el gas. Presupuesto claro desde el principio. Nos salvaron el viaje.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Tiana-Pinetons",
+      "car": "Peugeot 208 2014",
+      "body": "Uso el coche solo los fines de semana. Un lunes, después de un puente que no lo moví, ya no arrancó. La batería había muerto. Lo solucionaron en el mismo día y me revisaron el alternador para asegurarse de que cargaba bien. Muy profesionales, te explican todo muy bien.",
+      "rating": 5
+    },
+    {
+      "name": "Francisco",
+      "neighborhood": "Can Mas",
+      "car": "Renault Scénic 2.0 dCi 2011",
+      "body": "Me tumbaron en la ITV por los humos, como me habían advertido que podría pasar. Se lo llevé, le hicieron una limpieza del sistema y una regeneración del FAP. Volví a la ITV y la pasó perfecto. Saben lo que hacen con los diésel que andan poco por ciudad.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Pont Vell",
+      "car": "Ford Fiesta 2012",
+      "body": "Notaba un chirrido en los frenos al coger el coche después de varios días de lluvia. Pensé que sería algo grave. Lo revisaron y me dijeron que era solo óxido superficial en los discos por la humedad y la falta de uso. Lo limpiaron todo y el ruido desapareció. Agradezco la honestidad.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestra área de servicio natural es todo el municipio de Ripollet. Damos cobertura a los vecinos de barrios como el Centre, Pont Vell, Tiana-Pinetons o Can Mas. Por nuestra ubicación y buenos accesos, también somos el taller de confianza para muchos conductores de localidades cercanas. Recibimos a diario clientes de Cerdanyola del Vallès, Montcada i Reixac y Barberà del Vallès, que valoran un servicio cercano y profesional sin tener que entrar en ciudades más grandes. Estamos conectados por vías principales como la N-150 y tenemos acceso rápido desde la C-58 y la autopista AP-7, lo que facilita dejar y recoger el coche cómodamente.",
+  "zoneNeighborhoods": [
+    "Ripollet Centre",
+    "Can Mas",
+    "Pont Vell",
+    "Tiana-Pinetons",
+    "Can Jardí",
+    "Maragall",
+    "Cerdanyola del Vallès",
+    "Montcada i Reixac",
+    "Barberà del Vallès"
+  ],
+  "zoneAccessRoutes": [
+    "C-58",
+    "AP-7",
+    "N-150",
+    "BV-1411"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi coche, que uso poco, huele a humedad por dentro, ¿es normal aquí en Ripollet?",
+      "a": "Sí, es relativamente común. La proximidad del río Ripoll aumenta la humedad ambiental, sobre todo en invierno y otoño. Si el coche está mucho tiempo parado, esta humedad puede condensarse dentro y, si los filtros del habitáculo están sucios, generar mal olor. Recomendamos cambiar el filtro antipolen anualmente y usar el aire acondicionado (incluso en invierno) para secar el ambiente interior."
+    },
+    {
+      "q": "¿Revisáis los niveles antes de un viaje largo por la AP-7 para las vacaciones?",
+      "a": "Por supuesto. Es uno de nuestros servicios más demandados antes de verano y puentes. Hacemos una revisión de viaje que incluye nivel de aceite, líquido refrigerante, líquido de frenos, líquido limpiaparabrisas y la presión de los neumáticos, incluyendo la de repuesto. Es una comprobación rápida y económica que te da mucha tranquilidad antes de un viaje largo."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Sant Cugat, ¿qué miráis en la pre-ITV para un diésel con pocos km anuales?",
+      "a": "Nos centramos en los puntos de fallo habituales en este tipo de uso. El principal es la prueba de opacidad de humos; revisamos y limpiamos el sistema de inyección y el filtro de partículas. También comprobamos la eficacia de frenado, que puede verse afectada por el óxido en los discos, el estado de las suspensiones y la alineación de las luces."
+    },
+    {
+      "q": "Vivo en un piso sin garaje en el barrio de Maragall, ¿el frío del invierno del Vallès puede dañar la batería?",
+      "a": "Dañarla no, pero sí es la causa principal de que una batería con algunos años falle. El frío intenso reduce su capacidad de entregar energía, y si ya está algo gastada, no tendrá fuerza para arrancar. Si tu coche duerme en la calle en Ripollet, es crucial que la batería esté en buen estado. En cada revisión la comprobamos."
+    },
+    {
+      "q": "¿Por qué es importante el cambio de aceite si apenas hago 5.000 km al año?",
+      "a": "El aceite no solo se degrada por los kilómetros, sino también por el tiempo y la oxidación. Un coche que hace trayectos cortos no llega a la temperatura óptima, generando condensación que se mezcla con el aceite y reduce su capacidad lubricante. Por eso, los fabricantes recomiendan cambiarlo cada año o cada 15.000 km, lo que ocurra primero. Es vital para la salud del motor."
+    },
+    {
+      "q": "Voy mucho por los caminos de tierra de Collserola, ¿necesita mi coche una revisión de suspensión diferente?",
+      "a": "Sí. Conducir habitualmente por pistas forestales, incluso a baja velocidad, somete a un esfuerzo extra a los amortiguadores, silentblocks y rótulas. El polvo y el barro también pueden acelerar el desgaste de los guardapolvos. Si haces este tipo de recorridos, es recomendable hacer una revisión visual del tren de rodaje y la suspensión cada seis meses para detectar holguras o fugas a tiempo."
+    }
+  ],
+  "closingHeadline": "Deja tu coche a punto en Ripollet",
+  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos una valoración honesta para el mantenimiento o reparación que necesitas en Ripollet."
+}

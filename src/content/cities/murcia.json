@@ -1,0 +1,183 @@
+{
+  "slug": "murcia",
+  "name": "Murcia",
+  "province": "Murcia",
+  "ccaa": "Murcia",
+  "population": 471982,
+  "lat": 37.98704,
+  "lng": -1.13004,
+  "metaTitle": "Taller mecánico en Murcia — Multimarca y de confianza",
+  "metaDescription": "Tu taller en Murcia para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas para tu coche. Pide tu cita ahora y conduce con tranquilidad.",
+  "heroSubtitle": "Harto del calor de Murcia castigando tu coche y de talleres con sorpresas en la factura? Te damos un presupuesto claro y cerrado.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir en Murcia es un desafío único para tu coche. No es solo el tráfico denso de la Ronda Oeste a primera hora o los atascos para cruzar el Segura por el centro. Es el clima. Es saber que tu coche va a pasar meses soportando más de 35 grados, aparcado al sol mientras trabajas o haces la compra. Entendemos perfectamente lo que significa depender del coche para ir a la Universidad de Murcia en Espinardo, para el trabajo diario desde Molina de Segura o Alcantarilla, o simplemente para disfrutar de un fin de semana escapando por la A-30 hacia la costa.\n\nEl calor implacable de la región es el enemigo número uno de la mecánica. El sistema de refrigeración de tu coche, ya sea un SEAT León o un Peugeot 3008, trabaja a pleno rendimiento durante casi medio año. El aire acondicionado no es un lujo, es una necesidad vital que fuerza al compresor y puede provocar fugas de gas. El asfalto de la A-7 en agosto se convierte en una lija para tus neumáticos y el sol castiga la pintura, los plásticos y, sobre todo, la batería. A esto se suma el polvo fino, casi omnipresente, que viene de la huerta y de los episodios de calima, obstruyendo filtros y reduciendo la eficiencia del motor.\n\nSabemos que tu coche es una herramienta esencial. Quizás eres un autónomo con una Citroën Berlingo que necesita para repartir productos de la huerta, o un comercial que recorre la provincia de punta a punta. O puede que seas una familia de La Flota o Vistalegre que usa su monovolumen para todo. El parque automovilístico de Murcia es variado, pero los problemas suelen ser comunes y están directamente ligados a nuestro entorno: embragues que sufren en las cuestas de las urbanizaciones y en el tráfico urbano, frenos que se desgastan en los trayectos cortos y repetitivos, y motores diésel con filtros de partículas que se ahogan por no poder regenerar en los trayectos por la ciudad.\n\nPor eso, nuestro enfoque va más allá de un simple cambio de aceite. Cuando traes tu coche para una revisión, no solo miramos los puntos estándar. Comprobamos el estado del circuito de refrigeración, la carga del aire acondicionado y la salud de la batería, anticipándonos a las averías más típicas del verano murciano. Realizamos una pre-ITV exhaustiva pensando en los estándares de las estaciones de la región, para que vayas tranquilo. Conocemos los coches que se conducen aquí y los problemas que dan, y te hablamos claro, sin tecnicismos innecesarios y con un presupuesto que no cambia.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV en Espinardo sin sustos hasta el cambio de embrague por el tráfico de la Ronda Sur, cubrimos todo.",
+  "processIntro": "Creemos que la confianza es clave. Por eso, te explicamos todo claro, te damos un precio final por escrito y no hacemos nada sin tu permiso.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando tu coche llega, escuchamos lo que te preocupa y realizamos una inspección completa. Usamos equipos de diagnosis modernos para identificar la raíz del problema, sea mecánica o electrónica, sin rodeos."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye mano de obra y piezas, con el IVA desglosado. El precio que ves es el que pagas. Sin sorpresas ni añadidos de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo hasta que nos das tu visto bueno. Tienes el control total. Si durante la reparación surgiera algo imprevisto, te volveríamos a contactar."
+    },
+    {
+      "title": "Reparación",
+      "body": "Trabajamos con recambios de primeras marcas y te informamos del tiempo estimado. Nuestro objetivo es devolverte el coche lo antes posible, pero siempre priorizando un trabajo bien hecho y con garantía."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Al recoger tu coche, te explicamos la reparación realizada. Guardamos el historial de tu vehículo para futuros mantenimientos y nos aseguramos de que todo funcione perfectamente. Tu tranquilidad es nuestro objetivo."
+    }
+  ],
+  "commonIssuesIntro": "El sol implacable, el polvo del campo y los atascos en la A-30 para ir a trabajar generan averías muy típicas en los coches de Murcia. Aquí te contamos las más comunes.",
+  "commonIssues": [
+    {
+      "title": "Fallo del aire acondicionado",
+      "body": "En Murcia, el aire acondicionado no es opcional. Las temperaturas de más de 40°C fuerzan el sistema al máximo, provocando fugas de gas, averías en el compresor o fallos en el electroventilador. Es la avería reina del verano. Revisamos el circuito para que no te quedes tirado sudando en la Ronda Oeste."
+    },
+    {
+      "title": "Sobrecalentamiento del motor",
+      "body": "El calor extremo y el tráfico lento son la peor combinación para el sistema de refrigeración. Un radiador obstruido por el polvo de la huerta o un termostato defectuoso pueden causar un sobrecalentamiento grave. Un mantenimiento preventivo del circuito es clave para evitar una avería costosa."
+    },
+    {
+      "title": "Desgaste acelerado de neumáticos",
+      "body": "El asfalto murciano en verano es una plancha caliente que degrada el compuesto de las ruedas mucho más rápido. Unos neumáticos con presión incorrecta o mal alineados se desgastan de forma irregular y peligrosa. Es vital revisarlos, especialmente antes de coger la A-7 para un viaje largo."
+    },
+    {
+      "title": "Baterías que mueren de repente",
+      "body": "El calor extremo es más dañino para las baterías que el frío. Las altas temperaturas aceleran la degradación química interna, y un día, sin previo aviso, el coche no arranca. Es un clásico al salir del trabajo tras dejar el coche aparcado al sol. Comprobamos su estado en cada revisión."
+    },
+    {
+      "title": "Obstrucción del filtro de partículas (FAP)",
+      "body": "Muchos diésel en Murcia hacen trayectos cortos por ciudad, sin salir a autovía el tiempo suficiente. Esto impide que el filtro de partículas se regenere correctamente, provocando obstrucciones, pérdida de potencia y costosas averías. Podemos diagnosticar su estado y forzar una regeneración si es necesario."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de aquí",
+      "body": "Sabemos qué le duele a un diésel que hace el trayecto Molina-Murcia cada día y qué necesita un gasolina que solo se mueve por el centro. Esta experiencia local nos permite ir directos al grano."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Sin letra pequeña ni imprevistos. Creemos en la transparencia para que puedas organizar tu pasta con total tranquilidad."
+    },
+    {
+      "title": "Recambios de primeras marcas",
+      "body": "Tu seguridad es lo primero. Solo instalamos piezas con garantía de fabricante, equivalentes a las originales. Para que conduzcas con la misma confianza que cuando tu coche era nuevo."
+    },
+    {
+      "title": "Te lo explicamos todo",
+      "body": "Olvídate de sentirte perdido en el taller. Te explicamos qué le pasa a tu coche, por qué ha pasado y qué vamos a hacer para solucionarlo. Si quieres, te enseñamos la pieza vieja."
+    },
+    {
+      "title": "Pasión por la mecánica",
+      "body": "Somos mecánicos por vocación, no simples cambia-piezas. Nos gusta nuestro trabajo y nos satisface entregar un coche que funciona a la perfección. Queremos que vuelvas por confianza, no por obligación."
+    }
+  ],
+  "testimonialsIntro": "Estos son ejemplos de conductores de Murcia que buscaban un taller de confianza. Sus casos, de la revisión a la avería, podrían ser el tuyo.",
+  "testimonials": [
+    {
+      "name": "José",
+      "neighborhood": "El Carmen",
+      "car": "Renault Mégane 1.5 dCi 2016",
+      "body": "Se me fue el aire acondicionado en pleno julio. Imposible vivir así en Murcia. Les llamé, me dieron cita rápido y encontraron la fuga en el circuito en un momento. El presupuesto fue claro desde el principio y el precio final, el mismo. Ahora vuelve a enfriar como el primer día. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Vistalegre",
+      "car": "SEAT Ibiza 1.0 TSI 2018",
+      "body": "Lo llevé para la revisión antes de la ITV. Pensaba que estaba todo perfecto, pero me llamaron para decirme que una rótula de la suspensión empezaba a tener holgura. Me explicaron que sería un fallo grave en la inspección. La cambiaron y pasé la ITV sin problemas. Me ahorraron un segundo viaje y el mal rato.",
+      "rating": 5
+    },
+    {
+      "name": "Antonio",
+      "neighborhood": "La Flota",
+      "car": "Citroën Berlingo 2015",
+      "body": "Uso la furgoneta para trabajar y el embrague ya patinaba de tanto reparto por el centro. Necesitaba tenerla lista cuanto antes. Cumplieron el plazo que me dieron y el precio fue muy razonable. Se nota que entienden que para algunos el vehículo es nuestra herramienta de trabajo. Muy agradecido.",
+      "rating": 5
+    },
+    {
+      "name": "Lucía",
+      "neighborhood": "Molina de Segura",
+      "car": "Nissan Qashqai 2017",
+      "body": "Hago todos los días el trayecto a Murcia por la autovía y empecé a oír un ruido raro al acelerar. Estaba bastante preocupada. Dieron con el problema, era un tensor de la correa auxiliar. Tardaron un día más de lo previsto en recibir la pieza, pero me mantuvieron informada en todo momento. El coche va perfecto ahora.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Murcia y sus alrededores. Si vives en barrios como El Carmen, Vistalegre, Infante Juan Manuel, La Flota o El Ranero, estamos a tu lado. También somos el taller de confianza para muchos conductores que vienen a diario desde municipios cercanos como Alcantarilla, Molina de Segura, Las Torres de Cotillas o Santomera, y de pedanías clave como Espinardo, El Palmar o Puente Tocinos. Nuestra ubicación permite un acceso cómodo y rápido desde las principales vías que conectan el área metropolitana, como la autovía A-30 (Ronda Oeste) y la A-7, facilitando que dejes tu coche sin perder toda la mañana.",
+  "zoneNeighborhoods": [
+    "El Carmen",
+    "Vistalegre",
+    "Infante Juan Manuel",
+    "La Flota",
+    "Santa María de Gracia",
+    "El Ranero",
+    "Alcantarilla",
+    "Molina de Segura",
+    "Espinardo",
+    "Puente Tocinos"
+  ],
+  "zoneAccessRoutes": [
+    "A-30 (Autovía de Murcia)",
+    "A-7 (Autovía del Mediterráneo)",
+    "N-301a (Avenida Juan de Borbón)",
+    "Ronda Sur (RM-30)",
+    "Ronda Oeste"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Es realmente necesario un aceite de mayor calidad por el calor de Murcia?",
+      "a": "Sí, totalmente. Las altas temperaturas constantes degradan el aceite más rápido, haciendo que pierda sus propiedades de lubricación y protección. Un aceite sintético de buena calidad mantiene su viscosidad por más tiempo, protegiendo el motor en las condiciones extremas del verano murciano. Es una inversión pequeña para evitar averías grandes."
+    },
+    {
+      "q": "Vivo en una pedanía de la huerta, ¿el polvo afecta mucho al coche?",
+      "a": "Muchísimo. El polvo fino se acumula en el filtro de aire del motor, restringiendo el flujo de aire y aumentando el consumo de combustible. También satura el filtro del habitáculo, empeorando la calidad del aire que respiras. Es recomendable cambiar ambos filtros con más frecuencia de la que indica el fabricante."
+    },
+    {
+      "q": "Tengo que pasar la ITV en la estación de Espinardo, ¿sois muy estrictos con la pre-ITV?",
+      "a": "Somos tan estrictos como ellos. Conocemos los puntos en los que más se fijan en las ITV de la región y replicamos su proceso de inspección: frenos, suspensión, dirección, luces, y sobre todo, emisiones. Nuestro objetivo es que apruebes a la primera y no pierdas ni tiempo ni dinero."
+    },
+    {
+      "q": "Mi coche es diésel y hago trayectos cortos por la ciudad. ¿Qué problemas puedo tener?",
+      "a": "El principal problema es la saturación del filtro de partículas (FAP o DPF). Este sistema necesita trayectos por autovía para alcanzar la temperatura que le permite limpiarse (regenerarse). Si solo haces ciudad, se obstruye, causando pérdida de potencia y averías caras. Podemos revisar su estado y, si es necesario, forzar una regeneración en el taller."
+    },
+    {
+      "q": "Con el calor, ¿cada cuánto debo revisar la presión de los neumáticos?",
+      "a": "Como mínimo, una vez al mes y siempre en frío. En verano es aún más crítico, ya que el calor del asfalto y del ambiente aumenta la presión interna. Una presión incorrecta provoca un desgaste irregular, aumenta el consumo y, en el peor de los casos, puede causar un reventón en plena autovía."
+    },
+    {
+      "q": "¿Ofrecéis coche de cortesía si vengo desde Alcantarilla o Molina de Segura?",
+      "a": "Disponemos de un número limitado de coches de cortesía para minimizar las molestias, especialmente para clientes como tú que dependen del coche para su desplazamiento diario. Te recomendamos solicitarlo al pedir tu cita para asegurar su disponibilidad. *Sujeto a disponibilidad y condiciones del servicio."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Murcia",
+  "closingCta": "No dejes que una avería te amargue el día. Pide tu presupuesto cerrado para tu coche en Murcia por teléfono, WhatsApp o rellenando el formulario. Te esperamos para cuidarlo como se merece."
+}

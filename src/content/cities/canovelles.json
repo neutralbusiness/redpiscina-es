@@ -1,0 +1,182 @@
+{
+  "slug": "canovelles",
+  "name": "Canovelles",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 16023,
+  "lat": 41.61667,
+  "lng": 2.28333,
+  "metaTitle": "Taller mecánico en Canovelles — Multimarca y de confianza",
+  "metaDescription": "Tu taller mecánico en Canovelles para revisiones, averías y neumáticos. Presupuesto cerrado y garantía. ¡Pide cita y olvídate de problemas!",
+  "heroSubtitle": "Para ti, que usas el coche cada día por el Vallès y no quieres sorpresas en la factura ni perder el tiempo.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Entendemos perfectamente lo que significa tener coche en Canovelles. No es un lujo, es una necesidad. Es el coche que usas cada mañana para ir a trabajar a Granollers, a Montmeló o cogiendo la C-17 para bajar a Barcelona. Es la furgoneta con la que te mueves por el Polígon de Can Castells o el Polígon Industrial de Canovelles, cargando y descargando material. Es el vehículo familiar con el que llevas a los niños al colegio o te escapas el fin de semana. Sabemos que tu día a día depende de que tu coche arranque a la primera, sea un SEAT Ibiza, un Renault Mégane diésel, una Peugeot Partner o ese Volkswagen Golf que ya tiene unos cuantos kilómetros pero sigue dando guerra.\n\nEl clima del Vallès Oriental también juega su partido. Los veranos calurosos y secos ponen a prueba el sistema de aire acondicionado y la refrigeración del motor, sobre todo en los atascos para salir hacia la AP-7. Y los inviernos, con esas mañanas frías y húmedas, son el peor enemigo de las baterías, especialmente si el coche duerme en la calle en barrios como Barriada Nova o Can Gurgui. Esta combinación de uso intensivo y clima exigente provoca un desgaste específico en embragues, frenos, neumáticos y sistemas de climatización. No es lo mismo conducir por el centro de una gran ciudad que hacer el trayecto diario Canovelles-Lliçà d'Amunt o moverse constantemente entre los polígonos de la zona.\n\nPor eso, nuestro enfoque es directo y honesto. No te vamos a contar historias. Cuando traes tu coche a nuestro taller en Canovelles, hablamos tu mismo idioma. Entendemos la urgencia de tener la furgoneta lista para el lunes o la importancia de que el coche familiar sea seguro para un viaje. Conocemos los problemas típicos de los modelos más comunes en nuestras calles, desde un fallo en el filtro de partículas por hacer demasiados trayectos cortos a Granollers, hasta el desgaste prematuro de la suspensión por los badenes y el asfalto irregular de algunas zonas industriales.\n\nNuestra filosofía es simple: diagnóstico claro, presupuesto cerrado y sin sorpresas, y una reparación bien hecha para que puedas volver a tu rutina sin preocupaciones. No importa si vives en el centro de Canovelles, en La Barrileta o vienes de Les Franqueses del Vallès; aquí encontrarás un equipo de mecánicos que sabe lo que hace, que respeta tu tiempo y tu dinero. Olvídate de la incertidumbre de los talleres de siempre. Te explicamos qué le pasa a tu coche, te damos un precio final por adelantado y solo procedemos con tu autorización. Así de fácil, así de transparente. Para que puedas seguir confiando en tu vehículo para todo lo que necesitas en el Vallès.",
+  "servicesIntro": "Desde la revisión anual para tu coche familiar hasta la avería más compleja de tu furgoneta de trabajo, aquí en Canovelles lo cubrimos todo.",
+  "processIntro": "Trabajamos con total transparencia para que sepas qué le pasa a tu coche, cuánto te va a costar y cuándo lo tendrás listo. Sin sorpresas.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos qué le ocurre a tu coche y nuestros técnicos realizan una revisión completa con equipos de diagnosis para identificar el origen del problema de forma precisa aquí en nuestro taller de Canovelles."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado y sin compromiso a tu móvil o email. El precio que ves es el precio final que pagarás, sin costes ocultos ni extras de última hora. Lo que presupuestamos, es."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisas el presupuesto tranquilamente y nos das tu visto bueno. No movemos ni un tornillo ni pedimos una sola pieza sin tu confirmación explícita. Tú tienes siempre el control total de la reparación."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado del proceso para que sepas en todo momento cómo va tu coche y cuándo estará listo."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche esté listo para que pases a recogerlo. Te explicamos la reparación realizada y, pasados unos días, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario por el Vallès, el clima y el tipo de trayectos que haces desde Canovelles provocan una serie de averías muy características en los coches de la zona.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "Los trayectos cortos y el tráfico denso para ir a Granollers o al entrar y salir de la C-17 fuerzan constantemente el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión para evitar problemas mayores."
+    },
+    {
+      "title": "Fallos en el aire acondicionado",
+      "body": "Los veranos del Vallès son exigentes. El calor intenso fuerza el compresor y puede provocar fugas en el circuito. Un mantenimiento preventivo antes del verano te asegura no quedarte 'asado' en un atasco en la Ronda Nord. Revisamos y recargamos el sistema para que enfríe como el primer día."
+    },
+    {
+      "title": "Problemas de batería en invierno",
+      "body": "Las mañanas frías y húmedas de Canovelles son la prueba de fuego para las baterías con algunos años. Si a tu coche le cuesta arrancar, especialmente si duerme en la calle, es probable que la batería esté en las últimas. La comprobamos y la sustituimos si es necesario para que no te deje tirado."
+    },
+    {
+      "title": "Obstrucción del filtro de partículas (FAP)",
+      "body": "Muchos coches diésel hacen trayectos cortos por Canovelles y alrededores, sin dar tiempo a que el motor coja la temperatura ideal para regenerar el FAP. Esto provoca obstrucciones, pérdida de potencia y costosas averías. Realizamos limpiezas y regeneraciones forzadas para alargar su vida útil."
+    },
+    {
+      "title": "Ruidos en suspensión y dirección",
+      "body": "Moverse por polígonos industriales, pasar badenes y circular por carreteras secundarias como la BV-1432 desgasta silentblocks, amortiguadores y rótulas. Si oyes 'clonks' o notas inestabilidad al conducir, es crucial revisar la suspensión por tu seguridad y para pasar la ITV sin problemas."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Somos transparentes desde el primer minuto para que sepas exactamente a qué atenerte, sin letra pequeña ni sustos en la factura final."
+    },
+    {
+      "title": "Expertos en tu coche",
+      "body": "Trabajamos con todas las marcas y modelos que ves cada día por Canovelles y el Vallès. Conocemos los puntos débiles de cada uno y cómo solucionarlos de forma eficaz."
+    },
+    {
+      "title": "Tú decides siempre",
+      "body": "Te explicamos la avería de forma clara y te damos opciones. Nunca haremos una reparación o un cambio de pieza sin que tú nos des antes tu aprobación explícita."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Utilizamos recambios de calidad y confiamos en nuestro trabajo. Por eso, todas nuestras intervenciones están garantizadas por escrito, para tu total tranquilidad."
+    },
+    {
+      "title": "Pasamos la Pre-ITV por ti",
+      "body": "Revisamos los puntos clave que miran en la estación de ITV de Granollers para que vayas sobre seguro. Evita rechazos, segundas visitas y pérdida de tiempo. Nos aseguramos de que tu coche esté listo."
+    }
+  ],
+  "testimonialsIntro": "No nos creas a nosotros, estas son algunas situaciones típicas de conductores de Canovelles y alrededores que ya han confiado en nuestro taller.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Polígon Industrial de Canovelles",
+      "car": "Citroën Berlingo 2018",
+      "body": "Soy autónomo y la furgoneta es mi oficina. Empezó a hacer un ruido raro el embrague y me temía lo peor. Aquí me dieron cita rápido, me confirmaron el problema y me dieron un presupuesto cerrado. Cumplieron el plazo y el precio. Un servicio serio, que es lo que necesitamos los que trabajamos con el vehículo.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Barriada Nova",
+      "car": "SEAT León 1.6 TDI 2015",
+      "body": "Llevo a los niños al cole cada día y hago la compra en Granollers. El coche empezó a echar mucho humo negro. Me explicaron que era el filtro de partículas por los trayectos cortos. Me lo solucionaron sin tener que cambiar la pieza entera, que me salía por un dineral. Muy honestos.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Les Franqueses del Vallès",
+      "car": "Ford Focus 2012",
+      "body": "Me tocaba la revisión y cambiar las ruedas. Comparé precios y aquí me ofrecieron la mejor opción con un presupuesto claro desde el principio. Me viene de paso para ir al trabajo y el trato fue muy profesional. Ya sé dónde volver la próxima vez que el coche pida algo.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Lliçà d'Amunt",
+      "car": "Renault Clio 2016",
+      "body": "El aire acondicionado no enfriaba nada y con el calor del verano era imposible ir en el coche. Me lo revisaron, encontraron una pequeña fuga y lo recargaron. No fue tan caro como pensaba y ahora vuelve a funcionar perfecto. El trato fue bueno, aunque tardaron un poco más de lo previsto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la zona de Canovelles y sus alrededores. Si vives o trabajas en barrios como Barriada Nova, Can Gurgui, La Barrileta, el Poble Sec o la zona del Tibel, estamos a tu lado. Nuestra ubicación nos convierte en el taller de referencia también para muchos conductores de municipios vecinos que buscan un servicio de confianza sin tener que callejear por el centro de una gran ciudad. Recibimos a diario clientes de Granollers, Les Franqueses del Vallès, Lliçà d'Amunt y Lliçà de Vall. Gracias a nuestro fácil acceso desde vías principales como la C-17 y la C-352 (Ronda Nord), llegar a nuestro taller es rápido y sencillo, evitando atascos innecesarios. Si te mueves por el Vallès Oriental, somos tu taller.",
+  "zoneNeighborhoods": [
+    "Canovelles",
+    "Granollers",
+    "Les Franqueses del Vallès",
+    "Lliçà d'Amunt",
+    "Lliçà de Vall",
+    "Barriada Nova",
+    "Can Gurgui",
+    "La Barrileta",
+    "Corró d'Avall",
+    "Bellavista"
+  ],
+  "zoneAccessRoutes": [
+    "C-17",
+    "C-352",
+    "AP-7",
+    "BV-1432"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Tenéis coche de cortesía si vivo en Granollers y trabajo en Canovelles?",
+      "a": "Sí, disponemos de coches de cortesía para que no te quedes parado mientras reparamos el tuyo. Entendemos que el coche es vital para moverse por el Vallès. Consulta la disponibilidad al pedir tu cita, ya que es un servicio muy demandado y sujeto a disponibilidad. Te facilitará mucho poder seguir con tu rutina diaria."
+    },
+    {
+      "q": "Mi coche es diésel y hago muchos trayectos cortos por Canovelles, ¿qué mantenimiento necesita?",
+      "a": "Es una situación muy común aquí. Para evitar problemas con el filtro de partículas (FAP) y la válvula EGR, te recomendamos que al menos una vez por semana salgas a una vía rápida como la C-17 y conduzcas unos 15-20 minutos a un régimen de revoluciones algo más alto (2.500-3.000 rpm). Esto ayuda a que el sistema se limpie solo. Además, un aceite de calidad es fundamental."
+    },
+    {
+      "q": "¿Revisáis el coche para la ITV de Granollers?",
+      "a": "Por supuesto. Ofrecemos un servicio de Pre-ITV muy completo donde revisamos todos los puntos críticos que miran en la inspección: luces, frenos, neumáticos, emisiones, suspensiones... Si detectamos algo, te damos presupuesto para solucionarlo y que así puedas pasar la ITV a la primera, ahorrándote tiempo y el dinero de una segunda inspección."
+    },
+    {
+      "q": "En invierno, a mi coche le cuesta mucho arrancar por las mañanas, ¿es normal por el frío del Vallès?",
+      "a": "Aunque el frío afecta, no es normal que le cueste arrancar. Suele ser el primer síntoma de que la batería está llegando al final de su vida útil. Las mañanas frías y húmedas de Canovelles son la prueba definitiva. Tráenos el coche y te comprobamos el estado de la batería y el alternador gratuitamente para evitar que te deje tirado un día."
+    },
+    {
+      "q": "El aire acondicionado de mi coche no enfría lo suficiente en verano, ¿es una avería cara?",
+      "a": "No tiene por qué. Muchas veces es simplemente una falta de gas en el circuito por pequeñas fugas que se producen con el tiempo. Una recarga del sistema es una operación rápida y económica. Si la avería es más compleja, como un problema en el compresor, te daremos un presupuesto cerrado antes de hacer nada. No te lleves sorpresas."
+    },
+    {
+      "q": "¿Vale la pena reparar un coche de más de 10 años para ir a la ZBE de Barcelona?",
+      "a": "Depende mucho del estado general del coche y de la etiqueta ambiental que tenga. Si tu coche tiene etiqueta B o C (amarilla o verde) y está bien mantenido, suele compensar repararlo. Una reparación de embrague o distribución, por ejemplo, es mucho más barata que comprar un coche nuevo. Podemos hacerle una revisión completa y aconsejarte con honestidad."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Canovelles",
+  "closingCta": "Pide tu presupuesto sin compromiso o reserva tu cita. Llámanos o escríbenos un WhatsApp y te responderemos enseguida. Estamos en Canovelles para ayudarte."
+}

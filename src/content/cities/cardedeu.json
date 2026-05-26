@@ -1,0 +1,182 @@
+{
+  "slug": "cardedeu",
+  "name": "Cardedeu",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 16596,
+  "lat": 41.63976,
+  "lng": 2.35739,
+  "metaTitle": "Taller mecánico en Cardedeu — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Cardedeu para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Atendemos todas las marcas. ¡Pide tu cita!",
+  "heroSubtitle": "Cansado de los atascos en la AP-7 y las sorpresas en la factura? En Cardedeu te damos un presupuesto cerrado para que conduzcas tranquilo.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Vivir en Cardedeu es sinónimo de calidad de vida, a un paso del Montseny y con Barcelona a tiro de piedra. Pero esa ubicación privilegiada implica una dependencia casi total del coche. Ya sea para bajar a Granollers por la C-251, para ir a trabajar a Barcelona por la AP-7 o para llevar a los niños al colegio, tu vehículo es una herramienta fundamental. Entendemos que no es un lujo, sino una necesidad. Por eso, cuando algo falla, necesitas un taller que comprenda la urgencia y la realidad de los conductores del Vallès Oriental: soluciones rápidas, precios claros y confianza.\n\nEl día a día de un coche en nuestra zona es exigente. Los trayectos cortos por el pueblo para hacer recados, combinados con los atascos matutinos para incorporarse a la autopista, son la receta perfecta para castigar los motores diésel, tan comunes en el parque móvil local. Los filtros de partículas sufren, las válvulas EGR se ensucian y los embragues se desgastan más de la cuenta. A esto se suma el clima del Vallès: veranos muy calurosos que ponen a prueba los sistemas de refrigeración y aire acondicionado, e inviernos húmedos y fríos que pueden dejarte tirado por una batería en mal estado justo cuando más prisa tienes.\n\nConocemos bien los coches que se mueven por Cardedeu, Llinars del Vallès o Sant Antoni de Vilamajor. No es una zona de deportivos exóticos, sino de vehículos de trabajo y familiares: SEAT León, Renault Mégane, Peugeot 3008, Ford Focus y furgonetas como la Berlingo o la Kangoo de muchos autónomos. Coches fiables que necesitan un mantenimiento coherente con su edad y uso. Nuestro enfoque es práctico: nos centramos en la seguridad y la fiabilidad para que puedas seguir con tu rutina sin que el coche sea una preocupación más en tu cabeza.\n\nPor eso, nuestro servicio está pensado para ti. No te hablaremos con tecnicismos incomprensibles ni intentaremos venderte reparaciones que no necesitas. Si traes tu coche para la revisión pre-ITV, nos aseguraremos de que pases la inspección en la estación de Granollers a la primera. Si notas un ruido extraño al coger la rotonda de la C-251, lo diagnosticaremos con precisión. Y siempre, siempre, te daremos un presupuesto cerrado antes de empezar. Sin letra pequeña. Somos tu taller de confianza en Cardedeu, el que habla tu mismo idioma y entiende tus mismas necesidades.",
+  "servicesIntro": "Desde la revisión anual para que tu coche no te deje tirado en la AP-7, hasta la diagnosis de ese piloto encendido que tanto preocupa.",
+  "processIntro": "Creemos que la confianza se gana con transparencia. Por eso, este es nuestro proceso: claro, directo y sin que movamos un tornillo sin tu permiso.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le pasa a tu coche y lo que te preocupa. Conectamos nuestros equipos de diagnosis y realizamos una inspección visual para identificar el origen del problema de forma precisa. No dejamos nada al azar."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Verás claramente el coste de las piezas y de la mano de obra. El precio que ves es el que pagas, sin sorpresas ni extras de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No empezamos ninguna reparación hasta que nos das tu visto bueno explícito. Si durante el proceso encontramos algo nuevo e importante, paramos, te informamos y esperamos tu decisión. Tú tienes el control total."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan el trabajo siguiendo las especificaciones del fabricante para asegurar un resultado duradero y fiable, informándote de los plazos en todo momento."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando recoges tu coche, te explicamos con detalle la reparación efectuada. Guardamos el historial de tu vehículo y te avisamos de futuros mantenimientos para que solo te preocupes de conducir."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario por el Vallès, los trayectos por la AP-7 y nuestro clima particular provocan problemas muy concretos que en nuestro taller de Cardedeu vemos y solucionamos cada día.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El tráfico lento en la C-251 hacia Granollers y las constantes paradas y arranques dentro de Cardedeu castigan el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Nos aseguramos de que tu coche responda cuando más lo necesitas."
+    },
+    {
+      "title": "Averías en el aire acondicionado",
+      "body": "Los veranos en el Vallès son calurosos y un aire acondicionado que no enfría es un verdadero problema. El uso intensivo provoca fugas en el circuito o fallos en el compresor. Realizamos diagnósticos de fugas, cargas de gas y reparaciones para que el calor no te agobie dentro del coche."
+    },
+    {
+      "title": "Problemas de filtro de partículas (FAP) en diésel",
+      "body": "Muchos trayectos cortos por el pueblo impiden que el FAP se regenere correctamente, provocando obstrucciones y averías costosas. Si tu coche es diésel y se enciende el testigo, tráelo. Realizamos limpiezas y regeneraciones forzadas para evitar males mayores y que pases la ITV sin problemas de humos."
+    },
+    {
+      "title": "Ruidos y holguras en la suspensión",
+      "body": "Entre los badenes de las urbanizaciones como Les Pungoles y el estado de algunas carreteras comarcales, los amortiguadores, silentblocks y rótulas sufren mucho. Un coche inestable es un coche inseguro. Revisamos todo el sistema de suspensión para garantizar tu confort y seguridad en carretera."
+    },
+    {
+      "title": "Acumulación de carbonilla en motor",
+      "body": "Los motores diésel de los coches que hacen el trayecto diario a Barcelona por la AP-7, con tramos a bajas revoluciones, tienden a acumular carbonilla en la válvula EGR y el colector de admisión. Esto provoca pérdida de potencia y aumento del consumo. Ofrecemos soluciones de descarbonización para que tu motor respire mejor."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Somos de Cardedeu",
+      "body": "Conocemos las carreteras, el clima y el tipo de uso que le das a tu coche aquí. No somos una cadena impersonal, somos tus vecinos y entendemos tus necesidades."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "Lo que presupuestamos es lo que pagas. Se acabaron las facturas infladas y las llamadas con \"sorpresas\". La claridad es nuestra norma número uno."
+    },
+    {
+      "title": "Hablamos claro",
+      "body": "Te explicamos las averías de forma que las entiendas, sin tecnicismos. Queremos que sepas qué le pasa a tu coche y por qué lo reparamos de una determinada manera."
+    },
+    {
+      "title": "Soluciones para todas las marcas",
+      "body": "Da igual si conduces un SEAT, un BMW o una furgoneta Ford. Tenemos la tecnología y el conocimiento para cuidar de tu vehículo sin que tengas que ir al concesionario oficial."
+    },
+    {
+      "title": "Te preparamos para la ITV",
+      "body": "Sabemos lo que miran en la estación de ITV de Granollers. Hacemos una revisión pre-ITV exhaustiva para que vayas sobre seguro y la pases a la primera."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que solucionamos cada día para conductores como tú en la zona de Cardedeu y el Vallès Oriental.",
+  "testimonials": [
+    {
+      "name": "Joan",
+      "neighborhood": "El Poble Sec",
+      "car": "SEAT León TDI 2017",
+      "body": "Hago cada día el trayecto a Granollers y el coche empezó a dar tirones. Pensé que sería algo grave. Aquí me lo diagnosticaron rápido: la EGR estaba llena de carbonilla. Me dieron un presupuesto cerrado, lo limpiaron y el coche va como la seda. Trato profesional y honesto.",
+      "rating": 5
+    },
+    {
+      "name": "Maria",
+      "neighborhood": "Llinars del Vallès",
+      "car": "Peugeot 2008 2018",
+      "body": "Tenía que pasar la ITV y con el trabajo y los niños no tenía tiempo de nada. Les pedí una revisión pre-ITV completa. Me cambiaron unas pastillas de freno que estaban justas y alinearon las luces. Fui a la ITV de Granollers y la pasé sin un solo fallo. Me ahorraron tiempo y un posible segundo viaje.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Les Pungoles",
+      "car": "Renault Scénic 2015",
+      "body": "El aire acondicionado dejó de enfriar justo al empezar junio. Con el calor que hace aquí, era imposible ir en el coche. Me atendieron muy rápido, encontraron una pequeña fuga en un manguito, lo repararon y recargaron el gas. Precio justo y ahora puedo volver a respirar en el coche.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Can Canyes",
+      "car": "Ford Fiesta 2016",
+      "body": "Oía un ruido metálico en la rueda delantera al girar. Me preocupaba que fuera algo de la dirección. Lo revisaron y era una rótula con holgura. Me explicaron el peligro de no cambiarla y me dieron un presupuesto razonable. Buen servicio, aunque tardaron un día más de lo previsto en tener la pieza.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Cardedeu da servicio a toda la comarca del Vallès Oriental. Si vives en el centro, en barrios como Can Canyes o La Granada, o en urbanizaciones como Les Pungoles, somos tu taller de proximidad. También somos la opción ideal para conductores de municipios cercanos como Llinars del Vallès, La Roca del Vallès, Sant Antoni de Vilamajor o Cànoves i Samalús que buscan un servicio de confianza sin tener que desplazarse hasta Granollers.\n\nNuestra ubicación es de fácil acceso. Si vienes por la autopista AP-7, la salida 12 de Cardedeu te deja a pocos minutos. También estamos perfectamente comunicados por la C-251, la arteria principal que conecta Cardedeu con Granollers y el resto de la comarca.",
+  "zoneNeighborhoods": [
+    "El Poble Sec",
+    "Can Canyes",
+    "La Granada",
+    "Les Pungoles",
+    "Llinars del Vallès",
+    "La Roca del Vallès",
+    "Sant Antoni de Vilamajor",
+    "Cànoves i Samalús",
+    "El Romaní",
+    "Can Serra"
+  ],
+  "zoneAccessRoutes": [
+    "AP-7",
+    "C-251",
+    "C-60",
+    "BV-5105"
+  ],
+  "faqLocal": [
+    {
+      "q": "Vivo en Les Pungoles, ¿ofrecéis coche de cortesía para poder volver a casa?",
+      "a": "Sí, disponemos de coche de cortesía para reparaciones que impliquen inmovilizar tu vehículo más de un día. Sabemos que vivir en una urbanización sin coche es complicado. Consúltanos la disponibilidad al pedir tu cita, ya que es un servicio muy demandado y sujeto a disponibilidad."
+    },
+    {
+      "q": "Mi coche diésel hace muchos trayectos cortos por Cardedeu, ¿qué mantenimiento especial necesita?",
+      "a": "Es un caso muy común aquí. Te recomendamos hacer una revisión periódica del filtro de partículas (FAP) y la válvula EGR. Además, es aconsejable que al menos una vez por semana salgas a la autopista (AP-7 o C-60) y conduzcas unos 15-20 minutos a revoluciones algo más altas para ayudar al sistema a regenerarse y expulsar la carbonilla."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Granollers, ¿revisáis los puntos clave para no tener problemas?",
+      "a": "Por supuesto. Es uno de nuestros servicios más solicitados. Realizamos una inspección pre-ITV completa, centrándonos en los puntos de fallo más habituales que miran en la estación de Granollers: frenos, neumáticos, luces, holguras en la suspensión y, sobre todo, la prueba de gases, que es crítica en los diésel."
+    },
+    {
+      "q": "Trabajo en Barcelona y cojo la AP-7 cada día, ¿qué revisión recomendáis para tanto trote?",
+      "a": "Para un uso intensivo como el tuyo, es vital no saltarse los mantenimientos programados. Recomendamos prestar especial atención al estado de los neumáticos, la alineación de la dirección y el sistema de frenado. Un buen aceite y filtros de calidad son clave. Hacerle miles de kilómetros al coche por autopista es exigente, pero con un buen mantenimiento preventivo, evitarás averías mayores."
+    },
+    {
+      "q": "Tengo una furgoneta pequeña tipo Berlingo, ¿tenéis experiencia con vehículos de autónomos?",
+      "a": "Totalmente. Sabemos que tu furgoneta es tu herramienta de trabajo y que no puede estar parada. Atendemos muchas furgonetas de autónomos y pymes de Cardedeu y alrededores. Entendemos la urgencia y priorizamos estas reparaciones para que puedas volver al trabajo lo antes posible."
+    },
+    {
+      "q": "El aire acondicionado no enfría bien, ¿lo podéis revisar antes del calor del Vallès?",
+      "a": "Claro, no esperes a que llegue julio. Lo ideal es revisarlo en primavera. Hacemos un diagnóstico completo del sistema: comprobamos la presión del gas, buscamos posibles fugas en el circuito y verificamos el funcionamiento del compresor. Una simple recarga a tiempo puede ahorrarte una reparación mucho más cara en pleno verano."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Cardedeu",
+  "closingCta": "No dejes que una avería te complique el día a día. Pídenos presupuesto sin compromiso por teléfono o WhatsApp. Estamos en Cardedeu para ayudarte a seguir en marcha."
+}

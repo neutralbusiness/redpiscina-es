@@ -1,0 +1,180 @@
+{
+  "slug": "san-fernando-de-henares",
+  "name": "San Fernando de Henares",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 39466,
+  "lat": 40.42386,
+  "lng": -3.53261,
+  "metaTitle": "Taller mecánico en San Fernando de Henares — Presupuesto cerrado",
+  "metaDescription": "Reparamos tu coche en San Fernando de Henares con un presupuesto claro y sin sorpresas. Pide tu diagnóstico para revisión, averías, ITV o neumáticos.",
+  "heroSubtitle": "Si estás harto de presupuestos que crecen solos y de no saber qué le pasa a tu coche, has llegado al sitio correcto.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Vivir en San Fernando de Henares significa depender del coche. No es una opción, es una realidad. Lo sabes bien cada mañana cuando te incorporas al atasco de la A-2 dirección Avenida de América, o cuando coges la M-50 para rodear Madrid y llegar a la otra punta. Tu coche no es un lujo, es la herramienta que te permite trabajar, llevar a los niños al colegio o simplemente hacer la compra en el polígono. Y por eso, cuando falla, no es solo una molestia: es un problema que paraliza tu vida. Entendemos esa dependencia y, sobre todo, entendemos la frustración que sientes cuando, además de la avería, tienes que lidiar con un taller que no es claro. Esa llamada inesperada con un \"oye, que ha salido esto otro y es más pasta\" es algo que aquí no volverás a escuchar. Creemos que la confianza no se pide, se demuestra con hechos, y el primer hecho es un presupuesto que no se mueve.\n\nEl clima del Corredor del Henares es duro con la mecánica. No es una exageración, es física pura. Los veranos son un horno, con el asfalto del polígono industrial o de las calles de Parque Henares a más de 50 grados. Ese calor no solo castiga el aire acondicionado; degrada los neumáticos, evapora líquidos y pone a prueba cada manguito del sistema de refrigeración. Luego llega el invierno. Y no es un frío seco. La cercanía de los ríos Jarama y Henares trae una humedad fría que se mete en los huesos del coche. Es la responsable de que esa mañana de enero, con prisa por salir hacia la M-21 para ir al aeropuerto, la batería diga basta. Este ciclo de extremos térmicos, de calor seco a frío húmedo, acelera el envejecimiento de plásticos, gomas y componentes electrónicos mucho más que en otras zonas de España. Por eso, el mantenimiento aquí no es igual que en la costa.\n\nTu coche sufre el \"efecto San Fernando\": trayectos cortos y urbanos combinados con un uso intensivo en autovía. Lo usas para ir de la zona del Castillo al centro de salud, trayectos de apenas diez minutos donde un motor diésel ni siquiera llega a su temperatura óptima. Esto es veneno para los filtros de partículas y las válvulas EGR. Justo después, le exiges que rinda a 120 km/h por la M-50. Esta combinación es la receta perfecta para averías a medio plazo. Si a eso le sumamos el estado de algunas calles o los badenes, los amortiguadores y las rótulas de suspensión también acumulan un desgaste extra. Sabemos que tu coche no solo recorre kilómetros, sino que soporta el ritmo de vida de una ciudad dormitorio pegada a una de las capitales más exigentes de Europa, con sus atascos, sus prisas y sus particularidades.\n\nPor todo esto, nuestro enfoque es diferente. No vemos un coche, vemos tu herramienta de trabajo o tu vehículo familiar. Queremos ser para ti un taller con las paredes de cristal. Un lugar donde el diagnóstico es una conversación, no una sentencia. Donde te explicamos qué le ocurre a tu coche, por qué ha pasado y qué opciones tienes, con precios claros para cada una. La decisión final siempre será tuya, y nunca tocaremos un solo tornillo sin tu autorización expresa sobre un presupuesto cerrado. Se acabó la incertidumbre y la sensación de jugar a la lotería cada vez que dejas el coche en el taller. Aquí, en San Fernando de Henares, te ofrecemos algo tan sencillo y a la vez tan difícil de encontrar como es la tranquilidad.",
+  "servicesIntro": "Desde la revisión anual para tu coche diésel hasta esa avería eléctrica que te trae de cabeza, cubrimos todas las necesidades de tu vehículo en San Fernando.",
+  "processIntro": "Trabajamos con un método claro y transparente en 5 pasos para que siempre sepas qué pasa con tu coche y cuánto te va a costar, sin letra pequeña.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le notas al coche y usamos equipos de diagnosis para encontrar el origen real del problema. No cambiamos piezas al azar, vamos a la raíz de la avería para darte una solución definitiva."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado por escrito. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas. Sin asteriscos ni sorpresas de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Te explicamos el presupuesto sin tecnicismos para que lo entiendas todo. No empezamos ninguna reparación hasta que nos das tu visto bueno explícito. El control sobre lo que se hace y se gasta es siempre tuyo."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan el trabajo siguiendo las especificaciones del fabricante para asegurar un resultado fiable y duradero. Te mantenemos informado del proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada y te entregamos la factura detallada. Unos días después, contactamos contigo para confirmar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario del coche para ir a Madrid por la A-2, los trayectos cortos por el municipio y el clima extremo del Corredor provocan una serie de averías muy típicas en San Fernando.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro del embrague",
+      "body": "Los atascos diarios en la A-2 o en los accesos a Coslada son un castigo para el embrague. El constante arranca-para en primera y segunda provoca un desgaste acelerado. Si notas que el pedal está duro o que el coche patina al acelerar, es hora de revisarlo antes de que te deje tirado."
+    },
+    {
+      "title": "Filtro de partículas (DPF) saturado",
+      "body": "Es el problema clásico de los diésel que hacen mucha ciudad. Los trayectos cortos, como ir de Parque Henares al centro, no permiten que el filtro se regenere. Se obstruye, el coche pierde potencia y se enciende el testigo de avería. Realizamos limpiezas y regeneraciones forzadas para evitar la costosa sustitución."
+    },
+    {
+      "title": "Fallos del sistema de aire acondicionado",
+      "body": "En julio y agosto, el coche se convierte en un horno si aparcas en la calle. Forzar el aire acondicionado al máximo desde el primer minuto sin un mantenimiento adecuado (gas, filtro, compresor) provoca fugas y averías. Nos aseguramos de que tu climatizador enfríe como debe antes de que llegue el calor de verdad."
+    },
+    {
+      "title": "Baterías que mueren en invierno",
+      "body": "El frío y la humedad matinal que sube del Jarama son letales para las baterías con algunos años. El frío reduce su rendimiento y si el coche duerme en la calle, es fácil que una mañana no arranque. Comprobamos su estado en cada revisión para que no te lleves sorpresas."
+    },
+    {
+      "title": "Problemas de suspensión y silentblocks",
+      "body": "La combinación de badenes en zonas residenciales, el paso por calles con asfalto irregular y luego la alta velocidad en la M-50 o M-21, castiga todo el sistema de suspensión. Ruidos, vibraciones o inestabilidad son síntomas de que los silentblocks o los amortiguadores piden un cambio."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Un presupuesto es un pacto",
+      "body": "Lo que te presupuestamos es lo que pagas. Si durante la reparación surgiera algo imprevisto y grave (muy raro), paramos y te llamamos. Tú decides. La transparencia es la base de nuestro trabajo."
+    },
+    {
+      "title": "Entendemos la vida en San Fernando",
+      "body": "Sabemos lo que es depender del coche para ir a trabajar a Madrid o a Coslada. Por eso priorizamos las reparaciones para que estés el mínimo tiempo posible sin tu vehículo. Conocemos tu rutina."
+    },
+    {
+      "title": "Hablamos tu idioma, no el de un manual",
+      "body": "Te explicamos las averías de forma clara y sencilla. El objetivo es que entiendas qué le pasa a tu coche y por qué hay que repararlo, para que tomes la mejor decisión con toda la información."
+    },
+    {
+      "title": "Tú tienes el mando",
+      "body": "Nunca, bajo ningún concepto, haremos algo en tu coche sin tu aprobación explícita. Recibirás un presupuesto detallado y solo cuando nos des luz verde, nos pondremos a trabajar. Sin ambigüedades."
+    },
+    {
+      "title": "Garantía real por escrito",
+      "body": "Todas nuestras reparaciones y las piezas que instalamos están cubiertas por la garantía legal. Te irás tranquilo sabiendo que el trabajo está bien hecho y respaldado. Tu seguridad es lo primero."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Estas son algunas situaciones reales que nos encontramos cada día y que reflejan cómo trabajamos.",
+  "testimonials": [
+    {
+      "name": "Carlos",
+      "neighborhood": "Parque Henares",
+      "car": "Seat León TDI 2016",
+      "body": "Me saltó el chivato del filtro de partículas justo una semana antes de irme de vacaciones. En otros sitios me habían dado largas o presupuestos desorbitados. Aquí me explicaron el problema, hicieron una regeneración forzada y me ahorraron cambiar la pieza. Pude irme de viaje tranquilo. Se agradece la honestidad.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "San Fernando Casco",
+      "car": "Renault Clio 2018",
+      "body": "Tenía que pasar la ITV y siempre voy con miedo. Lo traje para una revisión pre-ITV y me detectaron un silentblock que estaba para cambiar y una bombilla de freno fundida. Lo arreglaron en el día por un precio razonable. Fui a la ITV de Coslada y la pasé a la primera. Un peso que me quitan de encima.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Mejorada del Campo",
+      "car": "Citroën Berlingo 2015",
+      "body": "Soy autónomo y la furgoneta es mi oficina. Empezó a hacer un ruido raro en la suspensión. Me dieron cita rápido, encontraron el problema (un amortiguador) y me dieron un presupuesto cerrado. Cumplieron el plazo y el precio. No puedo permitirme tener la furgo parada, y ellos lo entendieron perfectamente.",
+      "rating": 5
+    },
+    {
+      "name": "Elena",
+      "neighborhood": "El Pilar-Montserrat",
+      "car": "Ford Focus 2010",
+      "body": "Mi coche ya tiene sus años y empezó a dar tirones. Pensé que sería algo carísimo. El diagnóstico fue claro: un problema con los inyectores. La reparación no era barata, pero me explicaron todas las opciones. Aunque me dolió el bolsillo, agradecí que no me intentaran engañar y que fueran tan directos. Al menos sé en qué me he gastado el dinero.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la zona de San Fernando de Henares, desde el núcleo urbano hasta los barrios más nuevos. Si vives en el Casco, Parque Henares, El Pilar, El Castillo o trabajas en el Polígono Industrial, estamos a tu lado. Nuestra ubicación nos permite atender también a conductores de municipios vecinos que buscan un taller de confianza, como Coslada, Torrejón de Ardoz y Mejorada del Campo. Con acceso directo desde las principales vías que vertebran el Corredor del Henares, como la A-2, la M-50 y la M-21, llegar a nuestro taller es fácil y rápido. Si usas el coche a diario por esta zona, sabes que tener un mecánico de confianza cerca es fundamental.",
+  "zoneNeighborhoods": [
+    "San Fernando Casco",
+    "Parque Henares",
+    "El Pilar-Montserrat",
+    "El Castillo",
+    "Polígono Industrial San Fernando",
+    "Coslada",
+    "Torrejón de Ardoz",
+    "Mejorada del Campo"
+  ],
+  "zoneAccessRoutes": [
+    "A-2 (Autovía de Aragón)",
+    "M-50",
+    "M-21 (Eje del Aeropuerto)",
+    "M-206"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi coche es diésel y hago trayectos cortos por San Fernando y Coslada, ¿qué mantenimiento especial necesita?",
+      "a": "Es un uso muy exigente para un diésel. El motor no se calienta lo suficiente, lo que puede saturar el filtro de partículas (DPF) y la válvula EGR. Te recomendamos hacer un trayecto más largo por autovía (como ir y volver por la M-50 un fin de semana) a revoluciones un poco más altas de vez en cuando. Además, en la revisión, es clave usar un aceite de baja ceniza específico y comprobar el estado de estos sistemas para evitar averías costosas."
+    },
+    {
+      "q": "Vivo cerca del río Jarama, ¿afecta la humedad a mi coche en invierno?",
+      "a": "Sí, sin duda. La humedad ambiental, especialmente en las mañanas frías, afecta principalmente a dos componentes: la batería, que pierde capacidad de arranque, y el sistema eléctrico. Pueden aparecer fallos esporádicos en sensores o conexiones si no están bien aisladas. Por eso, si tu coche duerme en la calle en esa zona, es vital tener la batería en buen estado y revisar las conexiones eléctricas durante el mantenimiento preventivo."
+    },
+    {
+      "q": "Tengo que pasar la ITV en la estación de Coslada, ¿qué miráis en la pre-ITV?",
+      "a": "Revisamos exactamente los mismos puntos que te mirarán en la inspección, pero con ojo de mecánico. Comprobamos luces, frenos (en frenómetro), holguras en la dirección y suspensión, estado de los neumáticos, niveles de emisión de gases y el funcionamiento de todos los sistemas de seguridad (cinturones, airbags). El objetivo es que vayas a la ITV con la total seguridad de que vas a pasarla a la primera, ahorrándote tiempo y el dinero de una segunda inspección."
+    },
+    {
+      "q": "Uso el coche a diario para ir a Madrid por la A-2. ¿Tenéis coche de cortesía?",
+      "a": "Sí, disponemos de coches de cortesía para nuestros clientes. Somos muy conscientes de que en San Fernando el coche es imprescindible para el trabajo y el día a día. Si la reparación de tu vehículo va a llevar más de 24 horas, puedes solicitar uno. Este servicio está sujeto a disponibilidad, por lo que te recomendamos que nos lo pidas al concertar la cita para poder reservártelo."
+    },
+    {
+      "q": "El presupuesto que me dais, ¿es realmente definitivo o puede haber sorpresas?",
+      "a": "Es definitivo. Nuestra política es la de presupuesto cerrado. El importe que te damos por escrito es el que pagarás al final, IVA incluido. Si durante una reparación compleja apareciera un problema oculto que fuera imposible de prever, paramos el trabajo de inmediato, te llamamos, te lo documentamos y te damos un nuevo presupuesto para esa parte. Nunca se hará nada sin tu consentimiento previo."
+    },
+    {
+      "q": "En verano el coche se abrasa si aparco en la calle en Parque Henares, ¿cómo puedo protegerlo?",
+      "a": "Es un problema muy común aquí. Lo más importante es usar un parasol de calidad para proteger el salpicadero y el volante, que evita que los plásticos se deterioren. Si puedes, intenta aparcar de forma que el sol no dé de lleno en la misma zona todo el día. A nivel mecánico, asegúrate de que el líquido refrigerante está a nivel y en buen estado, y que el sistema de aire acondicionado tiene la carga de gas correcta para no forzar el compresor."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en San Fernando",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos por WhatsApp y cuéntanos qué le pasa a tu coche. En San Fernando de Henares, la confianza se repara aquí."
+}

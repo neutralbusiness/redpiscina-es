@@ -1,0 +1,181 @@
+{
+  "slug": "sant-andreu-de-llavaneres",
+  "name": "Sant Andreu de Llavaneres",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 10877,
+  "lat": 41.56667,
+  "lng": 2.48333,
+  "metaTitle": "Taller mecánico en Sant Andreu de Llavaneres | Multimarca",
+  "metaDescription": "Tu taller de confianza en Llavaneres. Presupuesto cerrado para revisiones, averías y neumáticos. Cuidamos tu coche para la C-32 y la ITV. Pide cita.",
+  "heroSubtitle": "Cansado de no saber cuánto te costará la reparación en Llavaneres? Te damos un presupuesto cerrado antes de empezar. Sin sorpresas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Sant Andreu de Llavaneres no es lo mismo que hacerlo por el interior. Aquí, tu coche se enfrenta cada día a un cóctel de salitre, humedad, cuestas pronunciadas y trayectos que combinan la alta velocidad de la autopista C-32 con el tráfico denso de la N-II en verano. En nuestro taller, entendemos estas particularidades porque también las vivimos. Sabemos lo que implica usar el coche para bajar a Mataró a diario, subir a las urbanizaciones de Rocaferrera o Bell-Aire, o simplemente para hacer recados por el centro. Por eso, nuestro enfoque no es genérico; es un servicio pensado para el parque móvil del Maresme, desde un Volkswagen Golf para el día a día hasta un Mercedes GLC para los viajes de fin de semana.\n\nEl clima mediterráneo costero, aunque agradable para vivir, es exigente con la mecánica. La brisa marina, cargada de sal, acelera la corrosión en los bajos del coche, en los discos de freno y en los componentes metálicos del motor. No es un mito, es una realidad que vemos cada vez que un coche de Llavaneres, Sant Vicenç de Montalt o Caldes d'Estrac sube a nuestro elevador. Esta oxidación puede ser un motivo de rechazo en la ITV y, más importante, un riesgo para tu seguridad. Por ello, nuestras revisiones pre-ITV ponen un foco especial en detectar y tratar estos puntos débiles antes de que se conviertan en un problema serio o en una reparación costosa.\n\nEl tipo de conducción en nuestra zona también deja su huella. Los trayectos cortos y frecuentes para ir al Port Balís, al Club de Golf Llavaneres o al supermercado son el escenario perfecto para que los filtros de partículas de los coches diésel se obstruyan. Por otro lado, la necesidad de coger la C-32 para ir a Barcelona o la AP-7 para viajar más lejos somete a los neumáticos y a la suspensión a un estrés constante. Un mal alineado o unos amortiguadores en mal estado no solo aumentan el consumo, sino que comprometen la estabilidad del coche a alta velocidad. Conocemos el equilibrio que necesita tu vehículo para rendir bien tanto en las curvas de la carretera de Mata como en las rectas de la autopista.\n\nEn Llavaneres y sus alrededores vemos una gran variedad de vehículos. Desde los prácticos SEAT Ateca y Peugeot 3008, ideales para las familias, hasta berlinas y SUV de marcas como Audi, BMW o Volvo, muy comunes en la zona. Nuestra filosofía es clara: tratar cada coche con el conocimiento específico que requiere su marca y modelo. Disponemos de la tecnología de diagnosis electrónica para comunicarnos con la centralita de cualquier vehículo, ya sea un Ford Focus con diez años o un Audi Q5 recién salido de la garantía. No importa qué coche conduzcas; para nosotros, lo importante es que funcione de forma segura y fiable por las carreteras del Maresme.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu coche necesita para circular con seguridad por Llavaneres, la C-32 y las carreteras del Maresme.",
+  "processIntro": "Trabajamos con transparencia total. Te explicamos qué le pasa a tu coche, te damos un presupuesto cerrado y no hacemos nada sin tu aprobación.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que te preocupa y conectamos nuestros equipos de diagnosis para identificar la avería con precisión. Analizamos el problema a fondo para entender no solo el síntoma, sino la causa raíz."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos por WhatsApp o email un presupuesto detallado y sin sorpresas. Incluye piezas, mano de obra e IVA. Lo que ves es lo que pagas, ni un euro más. Sin letra pequeña."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisa el presupuesto con calma. No tocaremos ni un solo tornillo de tu coche hasta que nos des tu confirmación explícita. Tú tienes siempre el control total sobre la reparación."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan el trabajo siguiendo las especificaciones del fabricante para asegurar un resultado óptimo y duradero. Te mantenemos informado del proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, te contactamos para confirmar que todo funciona perfectamente y estás satisfecho."
+    }
+  ],
+  "commonIssuesIntro": "El salitre del mar, las cuestas de Llavaneres y los trayectos por la C-32 y la N-II provocan un desgaste específico en los coches del Maresme que conocemos bien.",
+  "commonIssues": [
+    {
+      "title": "Óxido y corrosión por el ambiente marino",
+      "body": "La salinidad del aire en Llavaneres ataca silenciosamente los bajos, el sistema de escape y los conductos de freno de tu coche. Es un problema común en toda la costa del Maresme que puede causar fallos graves en la ITV y comprometer la seguridad. Realizamos inspecciones a fondo y aplicamos tratamientos preventivos para proteger tu vehículo."
+    },
+    {
+      "title": "Desgaste prematuro de frenos y embrague",
+      "body": "Las cuestas de las urbanizaciones como Rocaferrera o Supermaresme, combinadas con el tráfico intermitente de la N-II en verano, fuerzan constantemente los frenos y el embrague. Si notas que el pedal de embrague está duro o que el coche frena menos, es hora de una revisión. Cambiamos pastillas, discos y kits de embrague para devolverte la seguridad."
+    },
+    {
+      "title": "Averías en el sistema de aire acondicionado",
+      "body": "En los veranos húmedos y calurosos del Maresme, el aire acondicionado no es un lujo, es una necesidad. Un sistema que no enfría lo suficiente puede deberse a una fuga de gas o a un fallo del compresor. Hacemos diagnósticos precisos, recargas de gas y reparaciones para que conduzcas fresco incluso en plena ola de calor."
+    },
+    {
+      "title": "Obstrucción del filtro de partículas (DPF)",
+      "body": "Muchos diésel en Llavaneres se usan para trayectos cortos: llevar a los niños al colegio, ir a comprar... Este uso impide que el filtro de partículas se regenere correctamente, provocando averías y pérdida de potencia. Realizamos limpiezas y regeneraciones forzadas para evitar una sustitución mucho más cara."
+    },
+    {
+      "title": "Desgaste irregular de neumáticos y problemas de suspensión",
+      "body": "La combinación de rotondas, badenes y la alta velocidad en la C-32 puede desalinear la dirección y desgastar los amortiguadores. Esto provoca que los neumáticos se gasten de forma desigual, reduciendo su vida útil y la seguridad. Un buen alineado y una suspensión en forma son claves para la estabilidad de tu coche."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches del Maresme",
+      "body": "Sabemos cómo el salitre, la humedad y las carreteras locales afectan a tu vehículo. Nuestro mantenimiento está adaptado a las condiciones reales de Sant Andreu de Llavaneres."
+    },
+    {
+      "title": "Presupuesto honesto y cerrado",
+      "body": "El precio que te damos es el que pagas. Sin sorpresas, sin añadidos de última hora. Creemos en la transparencia como base de la confianza."
+    },
+    {
+      "title": "Tecnología para todas las marcas",
+      "body": "Desde un SEAT a un Mercedes, tenemos el equipo de diagnosis y la experiencia para tratar con la electrónica y la mecánica de tu coche, sea cual sea su marca."
+    },
+    {
+      "title": "Trato directo y personal",
+      "body": "Hablarás directamente con el mecánico que revisa tu coche. Te explicaremos las cosas de forma clara y sencilla, sin tecnicismos innecesarios."
+    },
+    {
+      "title": "Pasión por el motor",
+      "body": "Nos gustan los coches y disfrutamos con nuestro trabajo. Esa pasión se traduce en un cuidado por el detalle y en la búsqueda de la mejor solución para ti y tu vehículo."
+    }
+  ],
+  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que resolvemos cada día en nuestro taller de Llavaneres.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Rocaferrera",
+      "car": "Audi A4 Avant 2018",
+      "body": "Notaba un ruido metálico al subir la cuesta hacia casa. En otros sitios me daban largas. Aquí lo subieron al elevador al momento y vieron que una chapa del escape estaba medio suelta por el óxido. Me lo soldaron en un rato y el presupuesto fue exactamente el que me dijeron. Muy profesionales y honestos.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat",
+      "neighborhood": "Centro",
+      "car": "VW Tiguan 2016",
+      "body": "El coche me dejó tirada en la N-II. Les llamé y me ayudaron a gestionar la grúa. El diagnóstico fue rápido: un problema con el alternador. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial, y en dos días lo tenía listo. El trato fue excelente, te mantienen informada de todo.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Sant Vicenç de Montalt",
+      "car": "SEAT Ateca 2019",
+      "body": "Tenía que pasar la ITV en Mataró y siempre me pongo nerviosa. Les pedí una revisión pre-ITV y me encontraron una bombilla de freno fundida y las ruedas delanteras algo bajas de presión. Lo solucionaron en el momento. El coche pasó la ITV a la primera. Me ahorraron un segundo viaje y muchos nervios.",
+      "rating": 5
+    },
+    {
+      "name": "Marc",
+      "neighborhood": "El Balís",
+      "car": "BMW Serie 1 2015",
+      "body": "El aire acondicionado no enfriaba nada, y con el calor del verano era imposible coger el coche. Me comprobaron el circuito, encontraron una pequeña fuga y lo repararon. Ahora enfría perfectamente. El precio me pareció correcto por el trabajo que hicieron. Quizás tardaron un día más de lo previsto, pero el resultado es bueno.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Sant Andreu de Llavaneres da servicio a toda la zona norte del Maresme. Si vives en el propio Llavaneres, en urbanizaciones como Supermaresme, Rocaferrera o Bell-Aire, estamos a pocos minutos. También somos el taller de confianza para muchos conductores de municipios vecinos como Sant Vicenç de Montalt y Caldes d'Estrac (Caldetes), que valoran nuestro trato cercano y profesional. Gracias a nuestro fácil acceso desde la carretera N-II y la autopista C-32, muchos clientes de Arenys de Mar, Arenys de Munt e incluso de los barrios del norte de Mataró, como Vista Alegre o Can Quirze, nos eligen para el mantenimiento de sus vehículos. Si te mueves por el Maresme, estamos en tu camino.",
+  "zoneNeighborhoods": [
+    "Sant Andreu de Llavaneres",
+    "Sant Vicenç de Montalt",
+    "Caldes d'Estrac",
+    "Arenys de Mar",
+    "Arenys de Munt",
+    "Canet de Mar",
+    "Rocaferrera",
+    "Supermaresme",
+    "El Balís",
+    "Mataró (zona norte)"
+  ],
+  "zoneAccessRoutes": [
+    "C-32 (Autopista del Maresme)",
+    "N-II",
+    "C-60 (Carretera de la Roca)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Realmente afecta tanto el clima del Maresme a mi coche?",
+      "a": "Sí, y mucho más de lo que parece. La combinación de salitre y humedad acelera la corrosión de partes metálicas que no están a la vista, como los bajos, el sistema de escape o los conductos de freno. Un coche en Llavaneres requiere una vigilancia de estos componentes más estricta que uno en Vic, por ejemplo. En nuestras revisiones siempre lo tenemos en cuenta."
+    },
+    {
+      "q": "Tengo un coche de alta gama (Audi/BMW/Mercedes), ¿tenéis la máquina de diagnosis correcta?",
+      "a": "Por supuesto. Contamos con equipos de diagnosis multimarca de última generación compatibles con la gran mayoría de vehículos del mercado, incluyendo las marcas premium alemanas. Podemos leer y borrar fallos, programar componentes y realizar los mismos ajustes que en un servicio oficial, pero con un trato más cercano y un presupuesto más competitivo."
+    },
+    {
+      "q": "Vivo en Sant Vicenç de Montalt, ¿puedo llevaros el coche?",
+      "a": "Claro que sí. De hecho, muchos de nuestros clientes son de Sant Vicenç, Caldetes o Arenys. Nuestra ubicación es muy accesible desde los pueblos vecinos, ya sea por la N-II o por las carreteras locales. Tardarás apenas unos minutos en llegar. Siempre serás bienvenido, vengas de donde vengas del Maresme."
+    },
+    {
+      "q": "Mi diésel hace trayectos cortos por Llavaneres, ¿qué mantenimiento especial necesita?",
+      "a": "Es una consulta muy habitual. Los diésel modernos con filtro de partículas (DPF) sufren mucho con los trayectos cortos, ya que no alcanzan la temperatura para autolimpiarse. Te recomendamos que, al menos una vez por semana, salgas a la C-32 y conduzcas unos 15-20 minutos a un régimen de revoluciones más alto (unas 2.500 rpm) para forzar la regeneración. Además, en el taller podemos hacer limpiezas preventivas."
+    },
+    {
+      "q": "¿Cómo preparáis el coche para la ITV de Mataró?",
+      "a": "Nuestra revisión pre-ITV es exhaustiva. Comprobamos todos los puntos que miran en la estación de Mataró: luces, frenos, suspensión, neumáticos, emisiones de gases y, muy importante en esta zona, buscamos posibles puntos de óxido o corrosión grave en el chasis. Si detectamos algo, te avisamos y te damos presupuesto para solucionarlo antes de que vayas, ahorrándote un rechazo y un segundo viaje."
+    },
+    {
+      "q": "Voy a hacer un viaje largo por la AP-7, ¿qué revisión recomendáis?",
+      "a": "Para un viaje largo, la seguridad es lo primero. Recomendamos una revisión de los cinco puntos clave: niveles de líquidos (aceite, refrigerante, frenos), estado y presión de los neumáticos (incluida la rueda de repuesto), funcionamiento de todas las luces, estado de las pastillas y discos de freno, y el estado de las escobillas de los limpiaparabrisas. Es una revisión rápida que te da una gran tranquilidad en la carretera."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Llavaneres",
+  "closingCta": "No dejes que una pequeña avería se convierta en un gran problema. Pide tu cita en nuestro taller de Sant Andreu de Llavaneres por teléfono, WhatsApp o email y conduce con total tranquilidad."
+}

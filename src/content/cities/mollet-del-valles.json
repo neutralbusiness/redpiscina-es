@@ -1,0 +1,183 @@
+{
+  "slug": "mollet-del-valles",
+  "name": "Mollet del Vallès",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 52484,
+  "lat": 41.54026,
+  "lng": 2.21306,
+  "metaTitle": "Taller mecánico en Mollet del Vallès — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Mollet. Presupuesto cerrado para revisiones, averías, neumáticos y más. Pide cita y evita sorpresas en la factura.",
+  "heroSubtitle": "¿Cansado de los atascos en la C-17 y de no saber cuánto te costará la reparación? En nuestro taller de Mollet, te damos un precio cerrado y claro.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si conduces a diario por Mollet del Vallès, sabes lo que significa. El tráfico denso en las rondas, los trayectos para ir a trabajar a Barcelona por la C-17 o la C-33, o los viajes de fin de semana por la AP-7. Todo esto pasa factura a tu coche. No es lo mismo un vehículo que solo pisa la autopista que uno que sufre el constante arranca-para de la vida en el Vallès. En nuestro taller de Mollet, entendemos perfectamente las necesidades de tu coche porque vivimos y conducimos aquí, como tú.\n\nEl parque automovilístico de nuestra zona es muy variado. Vemos a diario los SEAT León y Ateca de familias que viven en Can Borrell, los Peugeot 208 y 3008 que se mueven por el centro, y las furgonetas Renault Kangoo o Citroën Berlingo de los autónomos de los polígonos de Mollet y Parets. Conocemos las particularidades de los motores TDI, los PureTech y los dCi que dominan nuestras calles. Sabemos qué piezas suelen fallar y cómo repararlas de forma duradera, porque son los mismos coches que vemos cada día en la carretera de camino al trabajo.\n\nEl clima del Vallès Oriental también juega su papel. Los veranos calurosos y secos ponen a prueba los sistemas de aire acondicionado y refrigeración. Un sobrecalentamiento en un atasco en la C-59 en pleno julio es una avería muy común que sabemos cómo prevenir. Del mismo modo, la humedad de los inviernos puede afectar a la electrónica de coches que ya tienen unos años. Por eso, nuestras revisiones no son genéricas; se adaptan a las condiciones climáticas y de uso específicas de Mollet.\n\nYa vivas en Plana Lledó, Santa Rosa o vengas de municipios cercanos como Montmeló o La Llagosta, necesitas un taller que hable tu idioma y entienda tus problemas. No queremos que te preocupes por la factura. Por eso, nuestro pilar es el presupuesto cerrado: lo que te decimos que cuesta, es lo que pagas. Sin sorpresas, sin letra pequeña. Transparencia y profesionalidad para que tú solo te preocupes de conducir.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV sin problemas hasta el cambio del kit de distribución o la reparación del aire acondicionado para el calor de Mollet.",
+  "processIntro": "Queremos que confíes en nosotros. Por eso, en nuestro taller de Mollet del Vallès no hacemos nada sin tu permiso y con un presupuesto cerrado por delante.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le pasa a tu coche y lo conectamos a nuestros equipos de diagnosis. Analizamos el problema a fondo para encontrar la causa real, no solo el síntoma, y te explicamos qué hemos encontrado."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Recibirás un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA, todo desglosado de forma clara. El precio que ves es el precio final, sin sorpresas de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No movemos ni un solo tornillo sin tu confirmación explícita. Tienes el control total. Solo cuando nos das el 'vale', nuestro equipo se pone a trabajar en tu coche."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas y seguimos los procedimientos del fabricante. Te mantenemos informado del progreso y cumplimos los plazos acordados para que tengas tu coche lo antes posible."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Al recoger tu coche, te explicamos la reparación realizada y te entregamos la factura. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario por Mollet y los trayectos por la AP-7 o la C-17, sumado al clima del Vallès, provoca averías muy concretas que vemos cada día en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico de Mollet, con sus rotondas y semáforos, junto a los atascos diarios en la C-17 para ir a Barcelona, castiga mucho el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Nos aseguramos de que tu coche responda perfectamente en el tráfico denso."
+    },
+    {
+      "title": "Problemas con el aire acondicionado",
+      "body": "El verano en el Vallès es intenso. Un aire acondicionado que no enfría lo suficiente puede convertir un viaje por la AP-7 en una pesadilla. Vemos muchas fugas en el circuito o compresores agotados por el calor. Hacemos una diagnosis completa del sistema para que vuelvas a pasar un verano fresco al volante."
+    },
+    {
+      "title": "Fallos en filtros de partículas (FAP/DPF)",
+      "body": "Muchos coches diésel hacen trayectos cortos por la ciudad, de Can Pantiquet al centro, por ejemplo. Esto impide que el filtro de partículas se regenere correctamente y acaba por obstruirse, provocando pérdida de potencia y averías costosas. Realizamos limpiezas y regeneraciones forzadas para evitar problemas mayores."
+    },
+    {
+      "title": "Suspensión y neumáticos castigados",
+      "body": "Combinar la alta velocidad en la C-33 con las calles de los polígonos industriales de Mollet o Parets, que no siempre están en perfecto estado, desgasta amortiguadores y neumáticos de forma irregular. Unos amortiguadores en mal estado aumentan la distancia de frenado. Revisamos todo el sistema para garantizar tu seguridad."
+    },
+    {
+      "title": "Sobrecalentamiento del motor",
+      "body": "El calor del verano y los atascos son una mala combinación para el sistema de refrigeración. Un manguito en mal estado o un electroventilador que no salta a tiempo puede provocar un calentón grave. Antes de que llegue el calor fuerte, revisamos todo el circuito para que no te lleves un susto."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "Te damos un precio cerrado y detallado antes de empezar. Lo que presupuestamos es lo que pagas. Sin extras inesperados en la factura final."
+    },
+    {
+      "title": "Conocemos los coches de aquí",
+      "body": "Estamos especializados en las marcas y modelos más habituales en Mollet y el Vallès (SEAT, Peugeot, Renault, VW...). Sabemos sus puntos débiles y cómo solucionarlos."
+    },
+    {
+      "title": "Solo reparamos lo necesario",
+      "body": "Nuestro diagnóstico es honesto. Si una pieza todavía tiene vida útil, te lo diremos. No cambiamos componentes por sistema si no es estrictamente necesario."
+    },
+    {
+      "title": "Garantía por escrito",
+      "body": "Todas nuestras reparaciones y piezas instaladas tienen garantía. Queremos que conduzcas con total tranquilidad después de pasar por nuestro taller."
+    },
+    {
+      "title": "Pasión por nuestro trabajo",
+      "body": "Somos mecánicos por vocación. Nos gusta lo que hacemos y tratamos cada coche como si fuera el nuestro, con el máximo cuidado y atención al detalle."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que solucionamos para conductores de Mollet y alrededores. Así podrías ser tú.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Can Borrell",
+      "car": "SEAT León 1.6 TDI 2015",
+      "body": "El coche me daba tirones y se encendió el testigo del motor. Lo uso cada día para ir a trabajar a Parets y no podía quedarme tirado. Me diagnosticaron un problema en el filtro de partículas por los trayectos cortos. Me explicaron la solución de forma muy clara y el precio fue el que me dijeron. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Santa Rosa",
+      "car": "Peugeot 2008 1.2 PureTech 2017",
+      "body": "Tenía que pasar la ITV y no estaba segura de si los frenos estaban bien. Les pedí una revisión pre-ITV. Me avisaron de que las pastillas traseras estaban en las últimas y me dieron presupuesto al momento. Lo acepté y en el mismo día lo tenía listo. La ITV la pasé sin ningún fallo. ¡Un servicio genial!",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Montmeló",
+      "car": "Renault Kangoo 1.5 dCi 2016",
+      "body": "Soy repartidor autónomo y mi furgoneta es mi oficina. En pleno junio, el aire acondicionado dejó de enfriar. Era un infierno. Les llamé desesperado y me hicieron un hueco. Detectaron una fuga, la repararon y recargaron el gas. Me salvaron el verano. Rápidos y eficientes, que es lo que necesito.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Centre",
+      "car": "Volkswagen Polo 1.0 TSI 2018",
+      "body": "Solo necesitaba la revisión anual, el cambio de aceite y filtros. Lo que más me gustó fue la transparencia. Me enviaron el presupuesto por WhatsApp y no empezaron hasta que di el OK. Al recogerlo, me explicaron todo lo que habían hecho. Aunque es un mantenimiento sencillo, se agradece el trato cercano.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Mollet del Vallès da servicio a toda la ciudad y sus alrededores. Si vives en barrios como Can Borrell, Plana Lledó, Santa Rosa o Can Pantiquet, estamos a pocos minutos. También somos el taller de confianza para muchos conductores de municipios vecinos como Parets del Vallès, Montmeló, La Llagosta y Sant Fost de Campsentelles. Nuestra ubicación es de fácil acceso desde las principales vías que conectan el Vallès, como la C-17, la C-33 y la autopista AP-7. Vengas de donde vengas, llegar a nuestro taller es sencillo y rápido.",
+  "zoneNeighborhoods": [
+    "Centre",
+    "Can Borrell",
+    "Plana Lledó",
+    "Santa Rosa",
+    "Can Pantiquet",
+    "Estació del Nord",
+    "Parets del Vallès",
+    "Montmeló",
+    "La Llagosta",
+    "Sant Fost de Campsentelles"
+  ],
+  "zoneAccessRoutes": [
+    "AP-7",
+    "C-17",
+    "C-33",
+    "C-59",
+    "N-152a"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Es necesario pedir cita previa para la revisión en vuestro taller de Mollet?",
+      "a": "Sí, siempre recomendamos pedir cita. Así podemos reservarte un hueco y asegurarnos de que no tengas que esperar. Especialmente antes de puentes o periodos de vacaciones como verano y Navidad, la agenda se llena rápido. Puedes llamar o escribirnos un WhatsApp para encontrar el mejor momento para ti."
+    },
+    {
+      "q": "Mi coche diésel hace solo trayectos cortos por Mollet, ¿qué mantenimiento especial necesita?",
+      "a": "Es una consulta muy común. Los diésel modernos con filtro de partículas (FAP/DPF) sufren en trayectos urbanos porque no alcanzan la temperatura para autolimpiarse. Te recomendamos que, una vez cada dos semanas, salgas a la C-17 o la AP-7 y conduzcas unos 15-20 minutos a un régimen más alto. Además, en el taller podemos realizar limpiezas preventivas para evitar averías."
+    },
+    {
+      "q": "Tengo una furgoneta de trabajo, ¿tenéis experiencia con este tipo de vehículos?",
+      "a": "Por supuesto. Muchos de nuestros clientes en Mollet y Parets son autónomos y pequeñas empresas. Entendemos que tu furgoneta es tu herramienta de trabajo y que la necesitas operativa lo antes posible. Priorizamos estas reparaciones y tenemos experiencia con los modelos más comunes como Kangoo, Berlingo, Partner o Transit."
+    },
+    {
+      "q": "Vivo en La Llagosta, ¿vale la pena traer el coche a vuestro taller en Mollet?",
+      "a": "Muchos de nuestros clientes vienen de La Llagosta, Montmeló o Parets. Valoran nuestra transparencia con el presupuesto cerrado y la calidad del trabajo. Estamos muy bien comunicados por la C-17, así que llegar es muy fácil. Además, podemos ofrecerte un coche de cortesía (consulta condiciones) para que no te quedes sin movilidad."
+    },
+    {
+      "q": "¿Qué revisáis en el servicio pre-ITV para la estación de Mollet?",
+      "a": "Conocemos perfectamente los puntos que revisan en la ITV de Mollet. Hacemos una inspección completa de los elementos clave: alumbrado y señalización, frenos (eficacia y desequilibrio), suspensión, holguras en la dirección, estado de los neumáticos y, muy importante, la prueba de emisiones de gases. Si detectamos algo, te damos presupuesto para solucionarlo antes de que vayas."
+    },
+    {
+      "q": "El aire acondicionado no enfría para el calor del Vallès, ¿la reparación es muy cara?",
+      "a": "Depende de la causa. A veces es solo una recarga de gas, que es económica. Otras veces puede ser una fuga en el circuito o un problema en el compresor. Lo primero que hacemos es un diagnóstico completo del sistema para localizar el fallo exacto. Con esa información, te damos un presupuesto cerrado para que decidas sin compromiso."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Mollet del Vallès",
+  "closingCta": "No dejes que una avería te complique el día. Pide tu presupuesto cerrado para tu coche en Mollet. Llámanos, escríbenos un WhatsApp o rellena el formulario y te contestamos enseguida."
+}

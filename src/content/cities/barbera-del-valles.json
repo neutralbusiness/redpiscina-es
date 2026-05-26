@@ -1,0 +1,182 @@
+{
+  "slug": "barbera-del-valles",
+  "name": "Barberà del Vallès",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 31144,
+  "lat": 41.5159,
+  "lng": 2.12457,
+  "metaTitle": "Taller mecánico en Barberà del Vallès — Para tu día a día",
+  "metaDescription": "Taller multimarca en Barberà del Vallès para conductores que dependen del coche. Presupuestos cerrados para revisión, mecánica y averías. Pide cita.",
+  "heroSubtitle": "Sabemos que tu coche no es un capricho. Es la herramienta que te lleva cada día por la C-58 o la AP-7. Lo cuidamos como tal.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "En Barberà del Vallès, un coche no es solo un vehículo; es una necesidad. Ubicados en el corazón del Vallès Occidental, somos un nudo de comunicaciones donde la AP-7 y la C-58 dictan el ritmo de vida de miles de personas. Si vives aquí, lo más probable es que tu jornada empiece y termine en una de estas vías, ya sea para ir a Barcelona, moverte entre los polígonos de Santiga o Can Salvatella, o conectar con Sabadell y Cerdanyola. Entendemos que tu coche, ese diésel con más de 100.000 kilómetros que te lleva al trabajo cada día, sufre un desgaste que no se ve en otras ciudades. No es el desgaste de un coche de fin de semana, es el de una herramienta sometida a un estrés constante: atascos, arranques en frío, trayectos cortos para recados por el centro y luego tirones largos a velocidad de autopista. Aquí, un fallo en el embrague o un problema con el filtro de partículas no es una molestia, es un problema que te impide facturar o llegar a tu puesto.\n\nEl parque móvil de Barberà y sus alrededores es un reflejo de su realidad industrial y trabajadora. Predominan los compactos y berlinas diésel de entre 5 y 15 años, junto a un número creciente de furgonetas de autónomos y pequeñas empresas que son la sangre de la economía local. Estos vehículos acumulan kilómetros a un ritmo vertiginoso. El clima del Vallès, con veranos muy calurosos y secos e inviernos húmedos y fríos, también pasa factura. El sistema de aire acondicionado se convierte en un elemento de primera necesidad en los atascos de julio en la C-58, y la batería sufre cada mañana de enero. Somos especialistas en este tipo de coche y en este tipo de uso. No te vamos a hablar con tecnicismos vacíos; te vamos a explicar por qué la válvula EGR de tu motor TDI se ensucia por hacer el trayecto a la Zona Franca a baja velocidad y qué podemos hacer para solucionarlo de forma duradera.\n\nConocemos las rutas. Sabemos lo que significa el tráfico denso a la altura del Baricentro, el asfalto irregular de algunas calles del Polígon Santiga o las cuestas del barrio de La Romànica en la frontera con Sabadell. Este conocimiento nos permite diagnosticar problemas que otros talleres podrían pasar por alto. Un ruido en la suspensión puede no ser solo una pieza desgastada, sino el resultado de meses pasando por los mismos badenes camino a casa en Ca n'Estaper. Un consumo elevado puede deberse a la necesidad constante de acelerar y frenar en la N-150. No tratamos coches, tratamos con las herramientas de trabajo de nuestros vecinos de Barberà, Badia, Cerdanyola o Ripollet. Por eso, nuestra filosofía es la transparencia total y el presupuesto cerrado. Antes de cambiar una sola pieza, recibirás un presupuesto detallado en tu móvil. Sin sorpresas, sin costes ocultos. Queremos ser tu taller de confianza, el lugar al que vienes sabiendo que entendemos tu realidad.\n\nNuestra propuesta es sencilla: un servicio de mecánica honesto, eficiente y adaptado a la vida en el Vallès. Desde una revisión pre-ITV para que la pases sin problemas en la estación de Santiga, hasta una reparación compleja como un cambio de kit de distribución o un embrague bimasa. Cubrimos todas las necesidades de tu coche: diagnóstico electrónico avanzado, mantenimiento de cajas de cambio, reparación de sistemas de inyección, cambio de neumáticos... todo pensado para devolverte tu coche lo antes posible y con la garantía de que está listo para volver a la carretera. Porque cuando dependes de tu coche para todo, necesitas un taller que dependa de tu confianza para existir. Y esa confianza, aquí en Barberà, se gana con hechos, no con palabras.",
+  "servicesIntro": "Soluciones para el día a día de tu coche en Barberà: desde la revisión anual hasta la avería que te deja tirado en la C-58.",
+  "processIntro": "Trabajamos con un método claro y directo para que siempre sepas qué le pasa a tu coche, cuánto cuesta y cuándo estará listo.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos el problema y conectamos nuestros equipos de diagnosis. No nos quedamos en la superficie; buscamos la causa raíz del fallo para que no vuelva a pasar en medio de la AP-7."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Recibirás un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas, sin sorpresas ni extras de última hora. Lo prometemos."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisa el presupuesto con calma. No pedimos ninguna pieza ni empezamos a trabajar hasta que nos das tu visto bueno explícito. El control siempre lo tienes tú, sin ninguna presión."
+    },
+    {
+      "title": "Reparación",
+      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos conocen bien los motores que más se ven por el Vallès y trabajan de forma eficiente para cumplir los plazos acordados."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada y las piezas sustituidas. Unos días después, te contactamos para confirmar que todo funciona perfecto."
+    }
+  ],
+  "commonIssuesIntro": "Los coches que circulan a diario por Barberà y la C-58 sufren problemas muy concretos por el alto kilometraje y el tráfico denso. Estos son los que más vemos en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y bimasa",
+      "body": "El ciclo constante de parar y arrancar en los accesos a Barcelona por la C-58 o en la N-150 hacia Sabadell castiga el embrague. Si notas que el pedal está duro, tiembla al salir o las marchas no entran finas, es hora de revisarlo. Un diagnóstico a tiempo evita averías más graves y costosas en la caja de cambios."
+    },
+    {
+      "title": "Obstrucción de FAP y válvula EGR",
+      "body": "Es el problema clásico de los diésel modernos que hacen trayectos mixtos. La carbonilla se acumula si no se alcanzan temperaturas óptimas de forma sostenida. Si tu coche da tirones o pierde potencia, sobre todo en subidas como las de la Arrabassada, puede ser un aviso. Realizamos limpiezas y regeneraciones forzadas para devolverle su rendimiento."
+    },
+    {
+      "title": "Holguras en suspensión y silentblocks",
+      "body": "Entre los badenes de zonas residenciales como Can Llobet y el asfalto mejorable de algunas vías de los polígonos, la suspensión sufre. Ruidos secos al pasar por un bache, inestabilidad en curvas o un desgaste irregular de los neumáticos son síntomas claros. Revisamos y sustituimos los componentes necesarios para tu seguridad."
+    },
+    {
+      "title": "Fallos en el sistema de climatización",
+      "body": "En el Vallès, el aire acondicionado no es un lujo. El calor intenso del verano, sumado a un atasco en la AP-7, puede convertir el coche en un horno. Si no enfría lo suficiente o hace ruidos extraños, es probable que necesite una recarga de gas o la revisión de una fuga en el circuito. No esperes a agosto."
+    },
+    {
+      "title": "Consumo excesivo de combustible",
+      "body": "Cuando haces más de 1.000 km al mes, cada décima de consumo cuenta. Un aumento repentino en el gasto de combustible puede deberse a múltiples factores: desde un filtro de aire sucio o la presión incorrecta de los neumáticos hasta un problema en los inyectores. Lo diagnosticamos para que no tires la pasta en cada repostaje."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos tu urgencia",
+      "body": "Sabemos que si el coche falla, tu trabajo se complica. Por eso priorizamos un diagnóstico rápido y una reparación ágil para que puedas volver a tu rutina cuanto antes."
+    },
+    {
+      "title": "Presupuestos sin letra pequeña",
+      "body": "Lo que presupuestamos es lo que pagas. Te enviamos un desglose claro y no tocamos nada sin tu aprobación. La confianza empieza por la honestidad en las cuentas."
+    },
+    {
+      "title": "Especialistas en diésel de batalla",
+      "body": "Estamos acostumbrados a los motores TDI, HDi, dCi... que mueven el Vallès. Conocemos sus puntos débiles y cómo solucionarlos de forma eficaz y duradera."
+    },
+    {
+      "title": "Asesoramiento práctico",
+      "body": "No solo reparamos. Te explicamos por qué ha ocurrido la avería y te damos consejos de uso y mantenimiento para prevenir futuros problemas adaptados a tus rutas habituales."
+    },
+    {
+      "title": "Ubicación estratégica",
+      "body": "Estamos en Barberà, con fácil acceso desde las principales vías y poblaciones cercanas como Sabadell, Ripollet o Cerdanyola. Dejar y recoger tu coche no te desviará de tu camino."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Aquí tienes algunos ejemplos de situaciones reales que resolvemos cada día en nuestro taller de Barberà.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Polígon Santiga",
+      "car": "Citroën Berlingo HDI 2018",
+      "body": "Soy transportista y la furgo es mi oficina. Empezó a perder fuerza en las subidas de la AP-7. Me dijeron que podría ser el turbo, pero aquí me hicieron un diagnóstico y era un problema en el FAP. Me lo solucionaron en un día con una limpieza. Me ahorraron una pasta y, sobre todo, no perdí días de trabajo. Muy directos y profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Can Llobet",
+      "car": "Seat León TDI 2016",
+      "body": "Hago cada día el trayecto Barberà-Barcelona por la C-58. El embrague empezó a patinar y me daba miedo quedarme tirada. Me dieron un presupuesto cerrado muy razonable para el kit completo con bimasa. Me dejaron un coche de cortesía y en 48 horas tenía el mío listo. Ahora las marchas van como la seda, incluso en los atascos.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Badia del Vallès",
+      "car": "Peugeot 308 1.6 2015",
+      "body": "Me tocaba hacer la distribución y pedí varios presupuestos. Aquí no solo me dieron el mejor precio, sino que me explicaron claramente qué incluía (bomba de agua, correa auxiliar...). Se nota que saben lo que hacen. La tranquilidad de que una reparación tan importante está bien hecha no tiene precio. Totalmente recomendables.",
+      "rating": 5
+    },
+    {
+      "name": "Sònia",
+      "neighborhood": "La Romànica (Sabadell)",
+      "car": "Ford Focus 1.0 EcoBoost 2017",
+      "body": "El coche empezó a hacer un ruido metálico en la parte delantera. En otro sitio me querían cambiar medio coche. Aquí lo subieron al elevador, me enseñaron que era una simple chapa protectora del disco de freno que se había doblado y me lo arreglaron en 15 minutos sin cobrarme casi nada. Podrían haberme engañado y no lo hicieron. Así se ganan clientes.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Barberà del Vallès ofrece servicio a toda la comarca, gracias a nuestra ubicación estratégica. Damos cobertura a los principales barrios de la ciudad, como Ca n'Estaper, Can Llobet, el Casc Antic o el Parc Central. Además, somos el taller de referencia para muchos profesionales de los polígonos industriales de Santiga y Can Salvatella.\n\nNuestra proximidad a vías clave como la C-58 y la AP-7 nos convierte en una opción cómoda y rápida para conductores de municipios colindantes. Recibimos a diario clientes de Sabadell (especialmente de La Creu de Barberà y Sant Pau de Riu-sec), Ripollet, Cerdanyola del Vallès y Badia del Vallès. Si tu rutina diaria te hace pasar por la N-150, llegar a nuestro taller no te supondrá ningún desvío.",
+  "zoneNeighborhoods": [
+    "Ca n'Estaper",
+    "Can Llobet",
+    "Casc Antic",
+    "La Romànica (Sabadell)",
+    "Badia del Vallès",
+    "Ripollet",
+    "Cerdanyola del Vallès",
+    "Polígon Santiga",
+    "Polígon Can Salvatella",
+    "La Creu de Barberà (Sabadell)"
+  ],
+  "zoneAccessRoutes": [
+    "C-58 (Autopista del Vallès)",
+    "AP-7 (Autopista del Mediterráneo)",
+    "N-150 (Carretera de Terrassa)",
+    "BV-1414"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi coche es diésel y hago mucha C-58 con atascos, ¿qué mantenimiento especial necesita?",
+      "a": "Es el escenario perfecto para la acumulación de carbonilla. Te recomendamos usar aditivos limpiadores de inyectores de calidad cada 10.000 km y, al menos una vez por semana, intentar circular unos 20 minutos por autopista a un régimen más alto (sobre 2.500-3.000 rpm) para ayudar al filtro de partículas (FAP) a regenerarse. En la revisión, prestamos especial atención a la EGR y al FAP."
+    },
+    {
+      "q": "Tengo una furgoneta y trabajo en el Polígon Santiga, ¿tenéis experiencia con vehículos industriales?",
+      "a": "Por supuesto. Una parte importante de nuestros clientes son autónomos y PYMES de los polígonos de Barberà, Cerdanyola y alrededores. Conocemos las averías típicas de las furgonetas (desgaste de frenos, suspensión, embrague por la carga) y priorizamos estas reparaciones porque sabemos que cada día que el vehículo está parado es dinero que pierdes. Pregúntanos por nuestro servicio de mantenimiento preventivo."
+    },
+    {
+      "q": "Vivo en Sabadell Sur, por la zona de La Creu de Barberà, ¿me pilla muy lejos el taller?",
+      "a": "Al contrario, nos tienes al lado. Estás a menos de 5 minutos en coche. Muchos de nuestros clientes son de esa zona de Sabadell porque les resulta más rápido y cómodo cruzar a Barberà que atravesar toda su ciudad para ir a un taller. Es una opción muy práctica para el mantenimiento del día a día o para cualquier imprevisto."
+    },
+    {
+      "q": "Tengo que pasar la ITV en el centro Applus de Santiga, ¿ofrecéis una revisión pre-ITV completa?",
+      "a": "Sí, es uno de nuestros servicios más demandados. Hacemos una revisión exhaustiva de los mismos puntos que te mirarán en la ITV: luces, frenos, neumáticos, suspensión, holguras y, muy importante en esta zona, la prueba de gases. Si detectamos algo, te damos presupuesto para solucionarlo y que puedas ir a la ITV de Santiga con la total tranquilidad de pasarla a la primera."
+    },
+    {
+      "q": "El aire acondicionado de mi coche enfría poco en los atascos de verano, ¿es una avería grave?",
+      "a": "No tiene por qué serlo. Suele ser el síntoma más común de que al circuito le falta gas refrigerante, ya sea por el paso del tiempo o por una pequeña fuga. Es una operación relativamente rápida y económica. Lo primero que hacemos es comprobar la presión del circuito y buscar posibles fugas. En la mayoría de casos, con una simple recarga vuelve a enfriar como el primer día."
+    },
+    {
+      "q": "Desde hace un tiempo, el coche me consume más gasoil en el trayecto a Barcelona. ¿A qué se puede deber?",
+      "a": "Un aumento del consumo puede tener muchas causas. Las más sencillas son llevar los neumáticos con baja presión o tener el filtro del aire muy sucio. Causas más complejas pueden ser un fallo en algún inyector, un problema en el caudalímetro o que el filtro de partículas esté empezando a obstruirse. Te recomendamos hacer un diagnóstico para identificar el origen exacto y evitar que el problema vaya a más."
+    }
+  ],
+  "closingHeadline": "Tu coche a punto en Barberà del Vallès",
+  "closingCta": "No dejes que una avería te pare. Pide tu presupuesto cerrado por teléfono, WhatsApp o email. Estamos en Barberà para ayudarte a seguir en movimiento."
+}

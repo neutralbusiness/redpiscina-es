@@ -1,0 +1,181 @@
+{
+  "slug": "montornes-del-valles",
+  "name": "Montornès del Vallès",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 15509,
+  "lat": 41.54206,
+  "lng": 2.26748,
+  "metaTitle": "Taller mecánico en Montornès del Vallès — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Montornès del Vallès. Presupuesto cerrado para revisiones, averías y neumáticos. Pide cita y evita sorpresas en tu factura.",
+  "heroSubtitle": "Sabemos que usas el coche cada día para ir a Barcelona por la C-17 o para trabajar en los polígonos. No puedes permitirte quedarte tirado.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives en Montornès del Vallès, sabes que el coche no es un lujo, es una necesidad. Ya sea para bajar cada mañana a Barcelona por una C-17 a menudo congestionada, para moverte entre los polígonos industriales como El Congost o Riu Nord, o para acercarte a Granollers a hacer recados, dependes de él. Entendemos perfectamente esa realidad. Conocemos el desgaste que supone el tráfico intermitente en el embrague y los frenos, y la tensión que sufre el motor en las subidas y bajadas hacia el Vallès Oriental. No eres un número más; eres un vecino que necesita su SEAT León, su Peugeot 308 o su furgoneta Berlingo a punto para el día a día.\n\nEl parque móvil de Montornès y sus alrededores, como Vilanova del Vallès o Montmeló, es un reflejo de su gente: trabajador y práctico. Vemos a diario coches diésel con unos cuantos años que son herramientas de trabajo, vehículos de autónomos que no pueden parar y coches familiares que hacen la ruta del colegio y las extraescolares. Por eso, nuestro enfoque es la fiabilidad. Sabemos que un filtro de partículas (FAP) atascado en un diésel por hacer demasiados trayectos cortos por el pueblo es un problema común, o que el sistema de refrigeración tiene que estar impecable para aguantar los veranos calurosos del Vallès, sobre todo en los atascos de la AP-7.\n\nEl clima de nuestra comarca también dicta el mantenimiento. Los veranos secos y calurosos ponen a prueba el aire acondicionado, resecan los plásticos y exigen unos neumáticos en perfecto estado para garantizar el agarre. Los inviernos, aunque suaves, son húmedos, y esa humedad puede afectar a la electrónica y a los sistemas de arranque de los coches que duermen en la calle en barrios como Montornès Nord o Can Parera. Además, muchos aprovecháis el fin de semana para subir al Montseny o bajar a la costa del Maresme, trayectos que añaden un desgaste específico a la suspensión y los neumáticos que tenemos muy en cuenta.\n\nPor todo esto, nuestro servicio en Montornès va más allá de una simple reparación. Te ofrecemos un diagnóstico honesto, pensando en tu uso real del vehículo. Si usas tu furgoneta para reparto en Martorelles y Parets, nos centraremos en la robustez de los frenos y la carga. Si tu coche es para llevar a los niños y coger el tren en la estación de Montmeló, priorizaremos la seguridad y el consumo. Te damos un presupuesto cerrado para que no haya sustos y puedas organizar tu economía, porque sabemos que la pasta no sobra. Confía en un taller que entiende cómo se vive y se conduce en el Vallès.",
+  "servicesIntro": "Tanto si necesitas la revisión anual para tu diésel como un cambio de neumáticos para circular seguro por la C-17, tenemos la solución para ti.",
+  "processIntro": "Odiamos las sorpresas en la factura tanto como tú. Por eso, te damos un presupuesto cerrado y no movemos un tornillo sin tu autorización previa.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos qué le pasa y nuestros técnicos realizan una inspección completa para identificar el origen del problema con precisión. No dejamos nada al azar."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas, sin extras inesperados ni letra pequeña. Claridad total desde el primer momento."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisas el presupuesto tranquilamente y nos das tu visto bueno. Hasta que no nos confirmes que estás de acuerdo, tu coche no se toca. Tú tienes siempre el control."
+    },
+    {
+      "title": "Reparación",
+      "body": "Procedemos a la reparación utilizando piezas de primera calidad y con garantía. Te mantenemos informado del proceso y cumplimos los plazos acordados para que te organices."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Al recoger tu coche, te explicamos en detalle el trabajo realizado. Nos aseguramos de que todo esté perfecto y quedamos a tu disposición para cualquier consulta posterior."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario para ir a trabajar por la C-17, el movimiento constante por los polígonos de Montornès y el calor del Vallès provocan averías muy concretas que conocemos bien.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico de entrada y salida a Barcelona por la C-17 y la AP-7, con sus constantes paradas y arranques, machaca los embragues y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Lo solucionamos para que vuelvas a conducir con suavidad y seguridad."
+    },
+    {
+      "title": "Filtros de partículas (FAP) obstruidos",
+      "body": "Muchos coches diésel en Montornès se usan para trayectos cortos dentro del pueblo o a polígonos cercanos. Este uso impide que el filtro FAP se regenere correctamente y acaba por obstruirse, provocando pérdida de potencia y averías costosas. Realizamos limpiezas y regeneraciones forzadas para evitarte problemas mayores."
+    },
+    {
+      "title": "Fallos en el aire acondicionado",
+      "body": "Llegar a julio en el Vallès sin aire acondicionado es una tortura. El calor intenso y el uso prolongado fuerzan el sistema. Desde una simple recarga de gas hasta la reparación del compresor, nos aseguramos de que tu coche sea un refugio fresco durante los meses de verano."
+    },
+    {
+      "title": "Problemas de suspensión y silentblocks",
+      "body": "Las rotondas de los polígonos, los badenes en zonas residenciales como Can Parera y el estado de algunas vías comarcales pasan factura a los amortiguadores y silentblocks. Si oyes ruidos raros en los baches o notas inestabilidad, revisaremos tu suspensión para devolverle el confort y la seguridad."
+    },
+    {
+      "title": "Consumo excesivo de neumáticos",
+      "body": "La combinación de rotondas, carreteras con curvas como la BP-5002 hacia Granollers y el asfalto caliente en verano acelera el desgaste de los neumáticos. Un mal alineado puede agravarlo. Verificamos la alineación y la presión para alargar la vida de tus ruedas y garantizar el mejor agarre."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos tu rutina",
+      "body": "Sabemos que necesitas el coche para trabajar en el polígono o para ir a la estación de tren. Nos adaptamos a ti para que la visita al taller te afecte lo mínimo posible."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "Te damos un precio cerrado y claro antes de empezar. Lo que apruebas es lo que pagas. Así de simple, así de honesto."
+    },
+    {
+      "title": "Especialistas en tu coche",
+      "body": "Trabajamos con todas las marcas, pero conocemos al dedillo los SEAT, Peugeot, Renault y las furgonetas que más se ven por Montornès y alrededores."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "No te haremos cambiar piezas que no lo necesitan. Te explicamos cuál es el problema real y te damos la solución más adecuada, sin inflar la factura."
+    },
+    {
+      "title": "Nos encargamos de la ITV",
+      "body": "Si no tienes tiempo, hacemos una revisión pre-ITV completa, corregimos los posibles fallos y, si quieres, llevamos nosotros mismos el coche a la estación."
+    }
+  ],
+  "testimonialsIntro": "Estos son ejemplos de casos que resolvemos a diario. Los problemas de nuestros vecinos de Montornès son nuestra especialidad y su tranquilidad, nuestro objetivo.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Montornès Nord",
+      "car": "SEAT León TDI 2016",
+      "body": "Se me encendió el testigo del filtro de partículas. Uso el coche para ir a la estación de Montmeló y poco más, y me explicaron que por eso se había atascado. Me hicieron una limpieza y me dieron un par de consejos para que no vuelva a pasar. Muy profesionales y honestos, no intentaron venderme una reparación más cara.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Centre",
+      "car": "Peugeot 208 Gasolina 2018",
+      "body": "Llevé el coche para la revisión anual antes de irme de vacaciones a la Costa Brava. Me revisaron todo, especialmente el aire acondicionado, que es vital en agosto. Me dieron el presupuesto al momento y cumplieron con el plazo. Me fui de viaje súper tranquila. ¡Un servicio de diez!",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Vilanova del Vallès",
+      "car": "Ford Transit Custom 2015",
+      "body": "Soy autónomo y la furgoneta es mi oficina. Noté que los frenos no iban finos y me urgía solucionarlo. Me dieron cita súper rápido, entendiendo mi problema. El cambio de pastillas y discos fue rápido y el precio, el que me dijeron. Pude seguir trabajando sin perder días, que para mí es clave.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Can Parera",
+      "car": "Renault Clio 2012",
+      "body": "Me tumbaron la ITV por los amortiguadores traseros. Estaba un poco perdida. Les llamé, me lo explicaron todo muy bien, me cambiaron lo necesario a un precio razonable y me hicieron una revisión general. Volví a la ITV y la pasé sin problemas. El trato fue muy cercano, aunque tardaron un poco más de lo previsto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio principalmente en Montornès del Vallès, cubriendo todos sus barrios como el Centre, Montornès Nord, El Poble Sec y Can Parera. Nuestra ubicación es ideal para todos los que vivís y trabajáis en la zona del Vallès Oriental. Muchos de nuestros clientes vienen de municipios colindantes como Vilanova del Vallès, Montmeló, Martorelles y Parets del Vallès, gracias a los cómodos accesos. Si trabajas en los polígonos industriales de la zona, como El Congost o Riu Nord, somos tu taller de referencia. Llegar es muy fácil a través de las vías principales que nos rodean, como la C-17, la AP-7, la C-35 y la carretera local BP-5002, que conecta toda la comarca.",
+  "zoneNeighborhoods": [
+    "Montornès Centre",
+    "Montornès Nord",
+    "Can Parera",
+    "Vilanova del Vallès",
+    "Montmeló",
+    "Martorelles",
+    "Parets del Vallès",
+    "Polígon Industrial El Congost",
+    "Polígon Industrial Riu Nord"
+  ],
+  "zoneAccessRoutes": [
+    "C-17",
+    "AP-7",
+    "C-35",
+    "BP-5002"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi coche es diésel y hago trayectos cortos por Montornès, ¿qué debo vigilar?",
+      "a": "Es una situación muy común aquí. El principal riesgo es la obstrucción del filtro de partículas (FAP) y la acumulación de carbonilla en la válvula EGR. Te recomendamos que, al menos una vez por semana, salgas a carretera (por ejemplo, un trayecto por la C-17 o la AP-7) y conduzcas unos 15-20 minutos a revoluciones algo más altas (2.500-3.000 rpm) para forzar la limpieza del sistema. En la revisión anual, nosotros lo comprobamos a fondo."
+    },
+    {
+      "q": "Trabajo en el polígono y uso furgoneta, ¿tenéis experiencia con vehículos comerciales?",
+      "a": "Totalmente. Sabemos que tu furgoneta es tu herramienta de trabajo y no puede estar parada. Estamos muy acostumbrados a trabajar con modelos como la Berlingo, Partner, Kangoo o Transit. Conocemos sus puntos débiles por el uso intensivo: embragues, frenos, neumáticos y sistemas de carga. Ofrecemos un servicio ágil para que la tengas de vuelta cuanto antes."
+    },
+    {
+      "q": "Vivo en Montmeló, ¿me compensa traeros el coche?",
+      "a": "Por supuesto. Estamos a solo unos minutos en coche y el acceso es muy directo. Lo que nos diferencia es la transparencia: te damos un presupuesto cerrado sin sorpresas. Muchos clientes de Montmeló y Parets vienen porque valoran saber de antemano cuánto les va a costar la reparación y confían en nuestro diagnóstico honesto. La pequeña distancia se compensa con la tranquilidad."
+    },
+    {
+      "q": "El aire acondicionado de mi coche no enfría bien en verano, ¿es una avería cara?",
+      "a": "Depende de la causa. Muchas veces es solo una falta de gas, y una recarga es una operación rápida y económica. Sin embargo, también podría ser una fuga en el circuito o un fallo del compresor, que es más costoso. Lo primero que hacemos es un diagnóstico completo del sistema para localizar el problema exacto y darte un presupuesto cerrado antes de hacer nada."
+    },
+    {
+      "q": "Tengo que pasar la ITV pronto, ¿qué incluye vuestro servicio Pre-ITV?",
+      "a": "Nuestro servicio Pre-ITV es un chequeo exhaustivo de los mismos puntos que miran en la estación: alumbrado y señalización, frenos, holguras en la suspensión y dirección, estado de los neumáticos, niveles de emisiones de gases, cinturones de seguridad y posibles fugas de líquidos. Si detectamos cualquier fallo, te avisamos y te damos presupuesto para solucionarlo y que pases la ITV a la primera."
+    },
+    {
+      "q": "¿Ofrecéis coche de cortesía? Lo necesito para ir a la estación de Montmeló a coger el tren.",
+      "a": "Sí, disponemos de coche de cortesía para que no te quedes parado mientras reparamos el tuyo. Entendemos perfectamente que lo necesites para tu día a día en la zona. Este servicio está sujeto a disponibilidad, por lo que te recomendamos que nos lo solicites al pedir tu cita para poder reservártelo. Consúltanos las condiciones al llamarnos."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Montornès",
+  "closingCta": "No dejes que una avería te complique la vida. Si vives o trabajas en Montornès del Vallès o alrededores, llámanos o escríbenos por WhatsApp. Te daremos un presupuesto claro y sin compromiso. Estamos para ayudarte."
+}

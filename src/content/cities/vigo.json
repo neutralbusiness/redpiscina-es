@@ -1,0 +1,182 @@
+{
+  "slug": "vigo",
+  "name": "Vigo",
+  "province": "Pontevedra",
+  "ccaa": "Galicia",
+  "population": 293642,
+  "lat": 42.23282,
+  "lng": -8.72264,
+  "metaTitle": "Taller mecánico en Vigo — Multimarca y de confianza",
+  "metaDescription": "Tu taller en Vigo para revisiones, mecánica y averías. Presupuesto cerrado y sin sorpresas. Trabajamos todas las marcas. ¡Pide tu cita ahora!",
+  "heroSubtitle": "¿Harto de subir y bajar las cuestas de Vigo con el coche haciendo ruidos? Confía en un diagnóstico honesto y un precio cerrado.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Vigo es un desafío diario para cualquier coche. No es lo mismo circular por el llano de A Coruña que enfrentarse cada día a las cuestas de Hispanidad, la calle Romil o la subida al Castro. Este subir y bajar constante, sumado al tráfico denso en puntos como la Plaza de España o la Gran Vía en hora punta, somete a embragues, frenos y cajas de cambio a un esfuerzo extraordinario. Si vives en barrios como Coia, Teis o O Calvario y usas el coche para todo, sabes de lo que hablamos. Un mantenimiento inadecuado aquí no es una opción, es la antesala de una avería segura en el peor momento.\n\nEl clima de Vigo es otro factor clave que no se puede ignorar. La humedad constante y el ambiente salino de la ría se comen literalmente los coches. La corrosión en los bajos, el sistema de escape y los discos de freno es un problema endémico en la ciudad. No es raro ver coches con pocos años y los bajos ya afectados por el óxido. Además, el famoso 'orballo' y las lluvias intensas exigen tener neumáticos y escobillas en perfecto estado para circular con seguridad por la AP-9 hacia Pontevedra o por la A-55, una vía que con agua se vuelve delicada. Un coche mal preparado para la lluvia en Vigo es un peligro.\n\nConocemos perfectamente el parque móvil vigués. La influencia de la factoría de Stellantis es innegable: las calles están llenas de Citroën Berlingo, Peugeot Partner, 2008 y Opel Corsa. Sabemos dónde fallan, cuáles son sus puntos débiles y cómo repararlos de forma eficaz. También vemos a diario los SEAT, Renault y Ford que usan miles de vigueses para ir a trabajar a los polígonos de Porriño o Mos, o para escaparse el fin de semana a las playas de Nigrán o Baiona. Entendemos las necesidades de un autónomo con su furgoneta y las de una familia que usa su coche para llevar a los niños al colegio en Navia.\n\nNuestro taller está pensado para el conductor de Vigo y su área metropolitana. Desde el que vive en Bouzas y apenas sale de la ciudad, hasta el que reside en Redondela o Gondomar y coge la autopista a diario. Ofrecemos un servicio honesto, con diagnósticos claros y presupuestos que no cambian. Antes de cambiar una sola pieza, te llamaremos para explicarte qué le pasa a tu coche y cuánto va a costar. Queremos ser tu taller de confianza en Vigo, ese al que vienes sabiendo que no te van a contar historias y que tu coche saldrá de aquí listo para enfrentarse de nuevo a las calles, la lluvia y el salitre de nuestra ciudad.",
+  "servicesIntro": "Desde la revisión para pasar la ITV en Peinador sin sorpresas hasta cambiar un embrague castigado por las cuestas de Vigo, lo cubrimos todo.",
+  "processIntro": "En nuestro taller de Vigo, la transparencia es total. Te damos un presupuesto cerrado y no movemos un tornillo sin tu aprobación previa.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando tu coche llega, lo primero es escuchar qué te preocupa. Después, nuestros técnicos conectan el equipo de diagnosis y realizan una inspección visual completa para encontrar el origen real del problema, sin especulaciones."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado por escrito. Incluye el coste de las piezas, la mano de obra y el IVA. El precio que ves es el que pagas, sin sorpresas de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Te llamamos o enviamos un mensaje para explicarte el presupuesto. No empezamos ninguna reparación hasta que nos das tu visto bueno explícito. Tú tienes siempre el control total sobre lo que se le hace a tu coche."
+    },
+    {
+      "title": "Reparación",
+      "body": "Una vez aprobado, nos ponemos manos a la obra. Usamos recambios de primeras marcas, con garantía, y seguimos los procedimientos del fabricante. Te mantenemos informado si surgiera cualquier imprevisto durante el proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada y te entregamos la factura. Unos días después, puede que te llamemos para asegurarnos de que todo va perfecto."
+    }
+  ],
+  "commonIssuesIntro": "La humedad de la ría, las cuestas interminables y el tráfico denso de Vigo provocan averías muy concretas que conocemos y solucionamos a diario en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de frenos y embrague",
+      "body": "Las cuestas de Vigo son un examen constante para frenos y embragues. El arranca-para en calles como Urzaiz o Camelias, combinado con la orografía de la ciudad, acelera su desgaste. Si notas que el pedal del embrague está duro o que el coche frena menos, es hora de una revisión antes de que el problema vaya a más."
+    },
+    {
+      "title": "Corrosión en bajos y sistema de escape",
+      "body": "El ambiente salino que llega desde la ría es muy agresivo con los metales. Los bajos del coche, los silentblocks y la línea de escape son los primeros en sufrir. En nuestras revisiones prestamos especial atención a estos puntos, aplicando tratamientos preventivos si es necesario para evitar costosas reparaciones futuras provocadas por el óxido."
+    },
+    {
+      "title": "Averías en el filtro de partículas (FAP)",
+      "body": "Muchos diésel en Vigo hacen trayectos cortos, de Navia a Teis o de Balaídos al centro, sin dar tiempo a que el motor coja temperatura. Esto impide que el filtro de partículas se regenere, provocando obstrucciones, pérdida de potencia y averías caras. Conocemos el problema y sabemos cómo solucionarlo y prevenirlo."
+    },
+    {
+      "title": "Humedad en el climatizador y malos olores",
+      "body": "El clima húmedo de Galicia es el caldo de cultivo perfecto para bacterias y moho en el sistema de climatización. Si al poner el aire acondicionado notas un olor a humedad, es señal de que el filtro del habitáculo necesita un cambio y el circuito una desinfección. Es una cuestión de confort y de salud."
+    },
+    {
+      "title": "Neumáticos y escobillas para la lluvia",
+      "body": "En Vigo, la seguridad empieza por ver y ser visto. Circular por la VG-20 o la AP-9 lloviendo a cántaros con unas escobillas que dejan rastro o unos neumáticos gastados es una imprudencia. Revisamos la presión y el dibujo de tus ruedas y el estado de las escobillas para que conduzcas tranquilo todo el año."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de Vigo",
+      "body": "Sabemos que aquí abundan los Citroën, Peugeot y Opel. Estamos especializados en los modelos más comunes de la ciudad, conocemos sus mantenimientos y averías típicas, lo que nos permite ser más rápidos y precisos en el diagnóstico."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "No cambiamos piezas por cambiar. Buscamos el origen real de la avería para darte una solución duradera y económica. Si algo puede esperar, te lo diremos. Nuestra prioridad es tu confianza, no engordar la factura."
+    },
+    {
+      "title": "Presupuesto que no cambia",
+      "body": "El precio que te damos es el que pagas. Sin sorpresas ni extras de última hora. Creemos en la transparencia total para que puedas tomar decisiones sobre tu coche con toda la información y sin presión."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Todas nuestras intervenciones y los recambios que instalamos están cubiertos por garantía. Trabajamos con primeras marcas para asegurarnos de que la reparación sea fiable y duradera. Tu tranquilidad es la nuestra."
+    },
+    {
+      "title": "Te pasamos la Pre-ITV",
+      "body": "Evita viajes en balde a la estación de ITV de Peinador. Hacemos una revisión exhaustiva de los puntos clave (frenos, luces, emisiones, neumáticos) para que tu coche la pase a la primera. Ahorras tiempo y dinero."
+    }
+  ],
+  "testimonialsIntro": "Estas son algunas situaciones reales que nos encontramos. Sirven como ejemplo de cómo ayudamos a conductores como tú en Vigo y alrededores.",
+  "testimonials": [
+    {
+      "name": "Xosé",
+      "neighborhood": "Coia",
+      "car": "Citroën C4 Picasso 2015",
+      "body": "El embrague empezó a patinar subiendo a Castrelos. En otros sitios me daban largas o presupuestos por las nubes. Aquí me explicaron claro lo que pasaba, me dieron un precio cerrado y lo cumplieron. El coche va como la seda ahora. Se nota que controlan los coches de aquí.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Teis",
+      "car": "Peugeot 2008 2018",
+      "body": "Tenía que pasar la ITV y con mi trabajo me era imposible llevarlo. Les pedí la revisión pre-ITV y se encargaron de todo. Me avisaron de que las pastillas de freno estaban en las últimas, las cambiaron con mi permiso y el coche pasó la inspección sin un solo fallo. Un servicio comodísimo y profesional.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "O Calvario",
+      "car": "Ford Focus 2013",
+      "body": "El coche daba tirones en ciudad y se encendió el testigo de avería. Pensé que sería algo grave. Lo llevé, hicieron el diagnóstico y era un tema del filtro de partículas por hacer trayectos cortos. Me lo solucionaron y me dieron consejos para que no volviera a pasar. Muy honestos.",
+      "rating": 5
+    },
+    {
+      "name": "Lucía",
+      "neighborhood": "Navia",
+      "car": "SEAT León TDI 2016",
+      "body": "Notaba un ruido metálico al frenar, sobre todo con la humedad. Lo miraron y me enseñaron los discos de freno, que estaban bastante oxidados por el salitre. Me dieron varias opciones de calidad y precio. Elegí unas intermedias y el coche frena perfecto y sin ruidos. Buen trato.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Vigo y sus alrededores. Tanto si vives en barrios con mucho movimiento como Coia, Teis o Navia, como si te mueves por el centro en zonas como O Calvario o el Casco Vello, estamos a tu disposición. Nuestra ubicación nos permite un acceso rápido desde las principales vías de entrada y salida de la ciudad, como la AP-9, la A-55 o la VG-20. Esto nos convierte en una opción muy cómoda también para conductores de municipios cercanos como Redondela, Mos, Nigrán o Gondomar que vienen a trabajar o a hacer gestiones a Vigo y necesitan un taller de confianza que no les haga perder el tiempo.",
+  "zoneNeighborhoods": [
+    "Coia",
+    "Teis",
+    "O Calvario",
+    "Bouzas",
+    "Navia",
+    "Balaídos",
+    "Casco Vello",
+    "Redondela",
+    "Mos",
+    "Nigrán"
+  ],
+  "zoneAccessRoutes": [
+    "AP-9 (Autopista del Atlántico)",
+    "A-55 (Autovía das Rías Baixas)",
+    "VG-20 (Segundo cinturón de Vigo)",
+    "A-52 (Autovía das Rías Baixas)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Por qué mi coche diésel da tirones y echa humo en Vigo?",
+      "a": "Es un síntoma clásico de la saturación del filtro de partículas (FAP). En Vigo, con tantos trayectos cortos y urbanos, el motor no alcanza la temperatura para limpiarlo automáticamente. Esto provoca tirones, pérdida de potencia y averías. Recomendamos salir a carretera, como por la AP-9, y circular a revoluciones altas durante unos 15-20 minutos de vez en cuando para forzar la regeneración."
+    },
+    {
+      "q": "¿Es verdad que los coches se oxidan más en Vigo?",
+      "a": "Sí, es totalmente cierto. La combinación de alta humedad durante todo el año y el ambiente salino de la ría acelera la corrosión de las partes metálicas expuestas, como el chasis, el escape o los discos de freno. Por eso en las revisiones en nuestro taller hacemos una inspección a fondo de los bajos, algo fundamental en esta zona."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Peinador, ¿qué revisáis en la Pre-ITV?",
+      "a": "Revisamos exactamente los mismos puntos que te mirarán en la inspección para que vayas sobre seguro: sistema de frenado, suspensión, dirección, alumbrado y señalización, estado de los neumáticos, niveles de emisión de gases y posibles fugas de líquidos. Nos aseguramos de que no haya ningún fallo leve o grave que te haga volver."
+    },
+    {
+      "q": "Mi embrague huele a quemado al subir cuestas, ¿es grave?",
+      "a": "Un olor a quemado al forzar el embrague en las pendientes de Vigo es una señal clara de que el disco está patinando y sufriendo un desgaste excesivo. No es una avería inminente, pero indica que su vida útil está llegando a su fin. Lo mejor es que lo revisemos para evitar que te deje tirado en el peor momento."
+    },
+    {
+      "q": "¿Tenéis experiencia con furgonetas tipo Berlingo, Partner o Combo?",
+      "a": "Por supuesto. Son los vehículos más comunes en Vigo, tanto para particulares como para profesionales. Conocemos sus motorizaciones (especialmente los BlueHDi y PureTech) y sus averías más frecuentes. Si usas tu furgoneta para trabajar, sabes que no puede estar parada. Ofrecemos un servicio ágil para que la tengas de vuelta cuanto antes."
+    },
+    {
+      "q": "¿Es normal cambiar las escobillas del limpiaparabrisas tan a menudo?",
+      "a": "En Vigo, sí. El uso intensivo por la lluvia y la exposición al sol en verano (que reseca la goma) hacen que las escobillas se deterioren mucho más rápido que en climas secos. Unas escobillas en mal estado no solo reducen la visibilidad, sino que pueden rayar el parabrisas. Recomendamos cambiarlas al menos una vez al año."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto para Vigo",
+  "closingCta": "No dejes que una avería te pare. Pide tu presupuesto cerrado para tu coche en Vigo por teléfono, WhatsApp o rellenando el formulario. Te responderemos enseguida."
+}

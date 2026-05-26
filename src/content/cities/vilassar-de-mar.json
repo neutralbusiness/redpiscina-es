@@ -1,0 +1,180 @@
+{
+  "slug": "vilassar-de-mar",
+  "name": "Vilassar de Mar",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 20764,
+  "lat": 41.50507,
+  "lng": 2.39227,
+  "metaTitle": "Taller mecánico en Vilassar de Mar — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Vilassar de Mar. Presupuesto cerrado para revisiones, averías y neumáticos. Pide cita y evita sorpresas en el Maresme.",
+  "heroSubtitle": "El salitre, los atascos en la N-II y los badenes de Vilassar pasan factura. Ponemos tu coche a punto con un presupuesto cerrado y sin rodeos.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Vilassar de Mar y el Maresme es un placer, pero también un desafío para tu coche. No es lo mismo usarlo solo para ir al mercado de la flor que bajar cada día a Barcelona por la C-32 o aguantar el tráfico denso de la N-II en hora punta. Entendemos perfectamente que tu vehículo no es solo un medio de transporte, es la herramienta que te permite ir a trabajar a Mataró, llevar a los niños al colegio o escaparte el fin de semana a la montaña. Por eso, cada coche que entra en nuestro taller de Vilassar recibe un trato adaptado a su vida real, no a un manual genérico.\n\nEl clima del Maresme es fantástico para vivir, pero la humedad y el salitre son enemigos silenciosos de la mecánica. Esa brisa marina que tanto nos gusta acelera la corrosión de los bajos, los discos de freno y los componentes del escape. En verano, el calor intenso pone a prueba el sistema de refrigeración y el aire acondicionado, especialmente en las retenciones para salir de la playa. Y en invierno, la humedad puede afectar a la electrónica y al arranque. Conocemos estos problemas porque los sufrimos y los reparamos a diario en coches como el tuyo.\n\nEl parque móvil de Vilassar de Mar es tan diverso como sus habitantes. Vemos desde el SEAT León o el Peugeot 3008 de familias que viven en la zona de El Veral, hasta el Volkswagen Golf de quien se mueve entre el pueblo y Vilassar de Dalt, pasando por furgonetas de autónomos que trabajan por toda la comarca. Sabemos que muchos de estos coches son diésel de la última década y conocemos a fondo la problemática de los filtros de partículas con los trayectos cortos por el pueblo. También estamos preparados para el mantenimiento de los híbridos y gasolina más modernos que cada vez se ven más por nuestras calles.\n\nNuestro compromiso es ofrecerte un servicio de mecánica en Vilassar de Mar que sea transparente, profesional y, sobre todo, honesto. No vamos a contarte historias. Hacemos un diagnóstico claro, te presentamos un presupuesto cerrado y te explicamos qué le pasa a tu coche y por qué. Tanto si es la revisión anual, un ruido extraño en la suspensión al pasar por un badén o una avería que te ha dejado tirado, aquí encontrarás a profesionales que entienden tu coche y tu contexto. Porque somos de aquí y queremos ser tu taller de confianza en el Maresme durante muchos años.",
+  "servicesIntro": "Desde la revisión para pasar la ITV en Mataró sin problemas hasta diagnosticar por qué tu coche se calienta en los atascos de la N-II, lo cubrimos todo.",
+  "processIntro": "No nos gustan las sorpresas con la factura del taller, y sabemos que a ti tampoco. Por eso nuestro proceso es claro: diagnóstico, presupuesto y tu OK.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le notas al coche y lo conectamos a nuestros equipos de diagnosis. Hacemos una primera valoración completa para entender el origen del problema, no solo el síntoma."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Recibirás un presupuesto detallado por WhatsApp o email con el coste de las piezas y la mano de obra. El precio que ves es el que pagas, sin extras de última hora ni letra pequeña."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu aprobación explícita. Si durante la reparación encontramos algo más, te llamaremos para informarte y darte un nuevo presupuesto."
+    },
+    {
+      "title": "Reparación",
+      "body": "Trabajamos con recambios de primeras marcas, con la misma calidad que los originales y con total garantía. Te mantenemos informado de los plazos para que sepas cuándo tendrás tu coche listo."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando vengas a recoger tu coche, te explicaremos en detalle el trabajo realizado. Nos aseguramos de que te vayas satisfecho y contactamos contigo días después para confirmar que todo va perfecto."
+    }
+  ],
+  "commonIssuesIntro": "La combinación de salitre, humedad y los trayectos cortos o los atascos hacia Barcelona genera averías muy típicas en Vilassar que sabemos cómo atajar.",
+  "commonIssues": [
+    {
+      "title": "Corrosión en frenos y chasis",
+      "body": "La brisa marina de Vilassar de Mar es implacable. El salitre acelera la oxidación de los discos de freno, pinzas y latiguillos, provocando ruidos, pérdida de eficacia y un suspenso en la ITV. También afecta al escape y a los bajos del coche. Realizamos inspecciones y tratamientos preventivos para proteger tu vehículo."
+    },
+    {
+      "title": "Desgaste prematuro de embrague",
+      "body": "El tráfico de la N-II, las rotondas de acceso a la C-32 y el callejeo por el centro de Vilassar o Premià de Mar castigan el embrague. Si notas que el pedal está duro o que el coche patina al acelerar, es hora de revisarlo antes de que te deje tirado."
+    },
+    {
+      "title": "Fallo del aire acondicionado en verano",
+      "body": "El calor húmedo del Maresme hace que el aire acondicionado trabaje a pleno rendimiento. Las fugas de gas, fallos del compresor o filtros sucios son habituales. No esperes a agosto para comprobarlo, una recarga a tiempo puede evitarte una reparación mucho más cara y un verano de sudar en el coche."
+    },
+    {
+      "title": "Problemas con el filtro de partículas (FAP/DPF)",
+      "body": "Muchos diésel de Vilassar se usan para trayectos cortos, lo que impide que el filtro de partículas se regenere correctamente. Esto provoca que se encienda el testigo de avería y una pérdida de potencia. Conocemos el problema y aplicamos soluciones de limpieza o regeneración forzada para evitar su costosa sustitución."
+    },
+    {
+      "title": "Ruidos y holguras en la suspensión",
+      "body": "Los badenes para reducir la velocidad en zonas residenciales como El Veral o algunas calles peor asfaltadas en los alrededores de Vilassar acaban pasando factura a los amortiguadores, silentblocks y rótulas. Si oyes un 'clonk' al girar o en los baches, es una señal clara de que algo necesita atención."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Somos del Maresme",
+      "body": "No somos una franquicia sin alma. Vivimos aquí y entendemos cómo afecta a tu coche el clima y las carreteras de Vilassar. Hablamos tu mismo idioma y conocemos los problemas reales de los conductores de la zona."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "Te damos un precio final por escrito antes de empezar. Si durante la reparación vemos algo más, paramos, te llamamos y tú decides. La transparencia es nuestra principal herramienta."
+    },
+    {
+      "title": "Para todos los coches",
+      "body": "Da igual si conduces un SUV familiar, un utilitario para ir a la estación o una furgoneta para tu negocio. Tenemos la tecnología y la experiencia para trabajar con todas las marcas del mercado."
+    },
+    {
+      "title": "La ITV a la primera",
+      "body": "Conocemos los puntos críticos que miran en las estaciones de ITV de Mataró y Badalona. Hacemos una revisión pre-ITV exhaustiva para que vayas sobre seguro y no pierdas tiempo ni dinero."
+    },
+    {
+      "title": "Explicaciones claras",
+      "body": "Te explicamos las averías sin tecnicismos que no entiendas. Queremos que sepas qué le pasa a tu coche, qué opciones tienes y por qué te recomendamos una reparación concreta. La confianza se basa en entenderse."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de casos que resolvemos a diario para conductores de Vilassar y pueblos de alrededor. Tu historia podría ser la próxima.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Centre Vila",
+      "car": "SEAT Ateca TDI 2018",
+      "body": "Me saltó el aviso del filtro de partículas. Uso el coche para ir a la oficina en Mataró y trayectos cortos por el pueblo. Me explicaron por qué pasaba, hicieron una regeneración y me dieron consejos para evitarlo. Muy profesionales y honestos, no intentaron venderme una pieza nueva directamente.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "El Veral",
+      "car": "Peugeot 208 2016",
+      "body": "Los frenos hacían un ruido horrible, sobre todo con la humedad de la mañana. Pensaba que sería una fortuna, pero me enseñaron los discos oxidados por el salitre. Me dieron un presupuesto cerrado para discos y pastillas y el coche ahora frena perfecto y sin ruidos. Un alivio.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Vilassar de Dalt",
+      "car": "BMW Serie 3 2015",
+      "body": "Tenía que pasar la ITV y el coche no iba fino en las curvas. Me encontraron una holgura en una rótula de la suspensión. Lo arreglaron rápido, me alinearon la dirección y pasó la ITV sin un solo fallo. Me ahorraron un segundo viaje y el mal trago. Muy recomendables.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat",
+      "neighborhood": "Barri de la Mar",
+      "car": "Renault Clio 2013",
+      "body": "El aire acondicionado dejó de enfriar justo en junio. En otros sitios me daban cita para dentro de dos semanas. Aquí me hicieron un hueco para diagnosticarlo, vieron que era una pequeña fuga y lo recargaron. Tardaron un poco más de lo previsto pero me mantuvieron informada. El trato, genial.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Vilassar de Mar da servicio a toda la localidad, desde el Centre Vila y el Barri de la Mar hasta las zonas residenciales de El Veral o Les Pinedes. Gracias a nuestra ubicación, estamos a pocos minutos de los municipios vecinos. Si vives en Vilassar de Dalt, Cabrera de Mar o Premià de Mar, somos tu opción más cercana y de confianza, evitando que tengas que desplazarte hasta el centro de Mataró.\n\nEl acceso es muy sencillo tanto si vienes por la antigua N-II como si sales de la autopista C-32. Esto nos permite atender cómodamente a clientes de Cabrils, Argentona e incluso de los barrios más cercanos de Mataró, que buscan un trato más personal y un servicio profesional sin las esperas de los grandes concesionarios.",
+  "zoneNeighborhoods": [
+    "Centre Vila",
+    "El Veral",
+    "La Xinesca",
+    "Barri de la Mar",
+    "Vilassar de Dalt",
+    "Cabrera de Mar",
+    "Premià de Mar",
+    "Cabrils"
+  ],
+  "zoneAccessRoutes": [
+    "N-II",
+    "C-32",
+    "C-31",
+    "BV-5022"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Es realmente tan malo el salitre del mar para el coche en Vilassar?",
+      "a": "Sí, y mucho. Aunque no lo veas, la brisa marina deposita partículas de sal en toda la carrocería, pero sobre todo en los bajos, el sistema de escape y los frenos. Esta sal acelera la corrosión muchísimo más que en zonas de interior. Por eso en la pre-ITV ponemos especial atención a estos puntos y recomendamos una limpieza de bajos anual."
+    },
+    {
+      "q": "Hago cada día el trayecto Vilassar-Barcelona por la C-32, ¿qué debería vigilar más?",
+      "a": "Ese trayecto implica un uso intensivo a alta velocidad. Lo más importante es vigilar el estado y la presión de los neumáticos, ya que es tu principal elemento de seguridad. También, el nivel y calidad del aceite, que se degrada más rápido. Y por supuesto, los frenos. Un mantenimiento preventivo es clave para evitar sustos en la autopista."
+    },
+    {
+      "q": "Vivo en Cabrera de Mar, ¿por qué debería traeros el coche a vosotros?",
+      "a": "Estamos a menos de 5 minutos en coche por la N-II. Te ofrecemos la misma calidad y tecnología que un taller de una ciudad más grande como Mataró, pero con un trato más cercano y, normalmente, con más agilidad para darte cita. Ahorrarás tiempo y ganarás en tranquilidad y confianza."
+    },
+    {
+      "q": "Mi coche diésel casi no sale del pueblo, ¿es por eso que se enciende el testigo del motor?",
+      "a": "Es muy probable. Los diésel modernos tienen un filtro de partículas (FAP) que necesita trayectos por carretera para limpiarse (regenerarse). Si solo haces recorridos cortos por Vilassar, el filtro se satura y provoca averías. Podemos hacerle una limpieza forzada y te aconsejaremos sobre cómo evitar que vuelva a ocurrir."
+    },
+    {
+      "q": "¿Revisáis coches híbridos?",
+      "a": "Sí. Nuestro equipo está en formación continua para atender las necesidades específicas del mantenimiento de los coches híbridos, que son cada vez más comunes en el Maresme. Disponemos de las herramientas de diagnosis para las marcas más habituales del mercado (Toyota, Hyundai, Kia, etc.) para la parte de motor de combustión y chequeos generales."
+    },
+    {
+      "q": "Si os hago la pre-ITV, ¿me garantizáis que la pasaré?",
+      "a": "Realizamos una inspección visual y mecánica de los mismos puntos que revisa el técnico de la ITV, desde luces y frenos hasta emisiones y holguras. Si encontramos algún defecto, te damos un presupuesto para repararlo. Si nos das el visto bueno, te aseguras al 99% pasarla a la primera, salvo por algún criterio muy subjetivo del inspector."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Vilassar de Mar",
+  "closingCta": "No dejes que una avería te complique la vida en el Maresme. Pide tu presupuesto cerrado y sin compromiso por teléfono, WhatsApp o a través de nuestra web. En nuestro taller de Vilassar de Mar te atenderemos encantados."
+}

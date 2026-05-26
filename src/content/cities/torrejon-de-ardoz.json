@@ -1,0 +1,192 @@
+{
+  "slug": "torrejon-de-ardoz",
+  "name": "Torrejón de Ardoz",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 118162,
+  "lat": 40.45535,
+  "lng": -3.46973,
+  "metaTitle": "Taller mecánico en Torrejón de Ardoz — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Torrejón de Ardoz. Presupuesto cerrado para revisiones, averías, neumáticos e ITV. Profesionalidad para tu coche.",
+  "heroSubtitle": "Para que el atasco diario en la A-2 o el calor del verano no te dejen tirado. Somos tu taller de confianza en Torrejón.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir en Torrejón de Ardoz es vivir entre dos mundos: la tranquilidad de barrios como Soto del Henares o Los Fresnos y el ritmo exigente del Corredor del Henares. Cada mañana, miles de coches como el tuyo se unen al denso tráfico de la A-2 para ir a trabajar a Madrid, un trayecto que pone a prueba embragues, frenos y, sobre todo, tu paciencia. Ese constante arranca-para no es gratuito para la mecánica de tu vehículo. Los diésel, tan comunes en nuestras calles, sufren especialmente con la acumulación de carbonilla en los filtros de partículas y válvulas EGR, algo que conocemos bien y sabemos cómo solucionar para que no te dé problemas en la ITV.\n\nEl clima de la meseta es otro factor clave. Veranos secos y muy calurosos, con temperaturas que superan los 35 grados, hacen que el sistema de aire acondicionado no sea un lujo, sino una necesidad. Un fallo en el compresor o una fuga en el circuito pueden convertir un viaje por la M-45 en pleno julio en una auténtica tortura. Por el contrario, los inviernos fríos y las heladas matutinas que caen sobre Veredillas o Parque Cataluña son el examen final para las baterías. Sabemos que muchos coches duermen en la calle y una batería algo gastada puede darte el susto una mañana de enero cuando tienes prisa por salir.\n\nEntendemos el parque móvil de Torrejón. Vemos a diario los SEAT León, Renault Mégane, Peugeot 308 y Ford Focus que forman el grueso de los coches de nuestras familias. También las furgonetas de autónomos y pequeñas empresas que se mueven por los polígonos de Las Monjas o Casablanca. Son vehículos trabajadores, de entre 5 y 15 años, que necesitan un mantenimiento honesto y a un precio razonable para seguir siendo fiables. No te vamos a contar historias ni a venderte reparaciones que no necesitas. Nuestro objetivo es que tu coche, ya sea para llevar a los niños al colegio, para ir a comprar al Parque Corredor o para el duro viaje diario a la capital, esté siempre a punto.\n\nAdemás del uso diario, está el de fin de semana. Escapadas a la sierra, viajes por la R-2 para evitar el tráfico o simplemente moverte a localidades vecinas como Alcalá de Henares o San Fernando de Henares. Cada tipo de trayecto exige algo distinto a tu coche: suspensiones para carreteras secundarias, neumáticos en buen estado para la lluvia imprevista y un motor que responda con agilidad. Por eso, nuestro enfoque es integral. Desde una simple revisión de niveles hasta una compleja diagnosis electrónica, tratamos tu coche con el conocimiento de quien sabe exactamente a lo que se enfrenta cada día en las carreteras de Torrejón de Ardoz.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu coche necesita para circular con seguridad por Torrejón, la A-2 y el resto de Madrid.",
+  "processIntro": "Trabajamos con total transparencia para que sepas qué le pasa a tu coche, cuánto cuesta y decidas tú. Sin sorpresas.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que te preocupa y conectamos nuestros equipos de diagnosis para identificar el problema real. No dejamos nada al azar. Revisamos tu coche a fondo para entender el origen de la avería y poder darte una solución precisa."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Verás claramente el coste de las piezas y la mano de obra. Es un precio final, sin letra pequeña ni sustos de última hora. Lo que ves es lo que pagas."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu confirmación explícita. Tienes el control total. Si durante la reparación surgiera algo imprevisto (es raro, pero puede pasar), te volveríamos a contactar inmediatamente."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas con garantía y seguimos los procedimientos del fabricante. Nuestros mecánicos son profesionales experimentados que cuidan tu coche como si fuera suyo. Te mantenemos informado de los plazos en todo momento."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada. Nos aseguramos de que te vayas satisfecho y con la tranquilidad de que tu vehículo está en perfectas condiciones para volver a la carretera."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario en el Corredor del Henares y nuestro clima continental provocan averías muy concretas que vemos cada día en nuestro taller de Torrejón.",
+  "commonIssues": [
+    {
+      "title": "Fallo del aire acondicionado en verano",
+      "body": "El calor extremo de julio y agosto en Torrejón fuerza al máximo el sistema de climatización. Las fugas en el circuito de gas, los compresores gastados o los filtros sucios son habituales. Hacemos una diagnosis completa del sistema, localizamos la fuga si la hay, recargamos el gas y te aseguramos un verano fresco al volante."
+    },
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El atasco diario en la A-2 en dirección a Madrid es una tortura para el embrague y los frenos. El constante 'primera-punto muerto-freno' acelera el desgaste del disco y las pastillas. Revisamos el estado de todo el sistema y te asesoramos sobre el mejor momento para sustituirlos, evitando averías más caras como el volante motor."
+    },
+    {
+      "title": "Problemas con la batería en invierno",
+      "body": "Las mañanas frías y con heladas en Torrejón son la prueba de fuego para las baterías, sobre todo en coches diésel que duermen en la calle. Una batería con algunos años puede no tener fuerza para arrancar. Comprobamos su estado y el del alternador para que el coche no te deje tirado cuando más lo necesitas."
+    },
+    {
+      "title": "Tirones y pérdida de potencia en diésel",
+      "body": "Los trayectos cortos por la ciudad y los atascos provocan que la carbonilla sature la válvula EGR y el filtro de partículas (FAP). Esto causa tirones, aumento del consumo y encendido de testigos. Realizamos limpiezas y descarbonizaciones para que el motor de tu diésel vuelva a respirar bien y pase la ITV sin problemas."
+    },
+    {
+      "title": "Ruidos y holguras en la suspensión",
+      "body": "Los badenes y resaltos que abundan en zonas como Soto del Henares o Veredillas, sumados a las juntas de dilatación de las autovías como la M-45, castigan los silentblocks, amortiguadores y rótulas. Si notas ruidos raros o inestabilidad, revisamos el tren de rodaje para garantizar tu seguridad en carretera."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Somos de aquí",
+      "body": "Conocemos Torrejón, sus calles, su tráfico y su clima. Entendemos los problemas específicos de los coches que circulan por el Corredor del Henares porque también son los nuestros. Hablamos tu mismo idioma, sin tecnicismos innecesarios."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Te enviamos un presupuesto claro y detallado antes de hacer nada. Si algo inesperado surgiera, paramos y te consultamos. La honestidad es nuestra principal herramienta."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un SEAT, un BMW, un Renault o un Hyundai. Tenemos la experiencia, la formación y el equipo de diagnosis multimarca para cuidar de tu coche con las mismas garantías que un servicio oficial, pero con un trato más cercano."
+    },
+    {
+      "title": "Tú tienes el control",
+      "body": "No movemos un dedo sin tu aprobación explícita. Te explicamos la avería, las posibles soluciones y te recomendamos la mejor opción, pero la decisión final siempre es tuya. Queremos que confíes en nosotros a largo plazo."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Todas nuestras intervenciones y las piezas que utilizamos están garantizadas por ley. Puedes estar tranquilo sabiendo que tu coche ha sido reparado por profesionales y que respondemos por nuestro trabajo."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Estas son algunas opiniones que reflejan las situaciones que solucionamos cada día en nuestro taller.",
+  "testimonials": [
+    {
+      "name": "Carlos",
+      "neighborhood": "Soto del Henares",
+      "car": "Peugeot 308 HDI 2016",
+      "body": "Hago todos los días el trayecto a Madrid por la A-2 y el coche empezó a dar tirones. Pensé que sería algo grave. Aquí me explicaron que era el filtro de partículas por los atascos. Me lo solucionaron rápido, con un presupuesto cerrado y sin sorpresas. Ahora el coche va fino otra vez. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Veredillas",
+      "car": "SEAT Ibiza 1.2 TSI 2014",
+      "body": "El aire acondicionado dejó de enfriar justo al empezar el calor fuerte. En otros sitios me daban largas. Aquí me dieron cita enseguida, encontraron una pequeña fuga que otros no vieron y lo recargaron. El trato fue súper amable y el precio, el que me dijeron desde el principio. Totalmente recomendable.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Polígono Las Monjas",
+      "car": "Renault Kangoo dCi 2018",
+      "body": "Uso la furgoneta para trabajar y no puede estar parada. Tenía que pasar la ITV y el humo salía muy negro. Me hicieron una descarbonización y una revisión pre-ITV completa. Pasó a la primera sin un solo fallo. Me salvaron de tener que parar la actividad. Un servicio eficiente y honesto.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Alcalá de Henares",
+      "car": "Ford Focus 2015",
+      "body": "Aunque soy de Alcalá, me recomendaron este taller en Torrejón. El embrague empezaba a patinar. Me dieron un presupuesto mucho más razonable que en otros sitios y me ofrecieron coche de cortesía. El cambio fue perfecto y cumplieron con el plazo. Mereció la pena el desplazamiento. Muy buen trabajo.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la zona de Torrejón de Ardoz, desde los nuevos desarrollos de Soto del Henares hasta barrios consolidados como La Zarzuela, Mancha Amarilla, Veredillas o el Centro. Nuestra ubicación nos permite un acceso rápido y cómodo desde cualquier punto de la ciudad.\n\nAdemás, muchos de nuestros clientes vienen de municipios cercanos del Corredor del Henares. Si vives o trabajas en Alcalá de Henares, San Fernando de Henares, Coslada, Paracuellos de Jarama o Ajalvir, estamos a pocos minutos. Nos encontrarás fácilmente gracias a la proximidad de vías clave como la A-2 (Autovía del Nordeste) y la M-206, que conectan toda la comarca.",
+  "zoneNeighborhoods": [
+    "Soto del Henares",
+    "Veredillas",
+    "La Zarzuela",
+    "Mancha Amarilla",
+    "Los Fresnos",
+    "Parque Cataluña",
+    "Alcalá de Henares",
+    "San Fernando de Henares",
+    "Coslada",
+    "Paracuellos de Jarama"
+  ],
+  "zoneAccessRoutes": [
+    "A-2 (Autovía del Nordeste)",
+    "M-45",
+    "M-50",
+    "M-206 (Torrejón-Loeches)",
+    "R-2"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Preparáis el coche para pasar la ITV en la estación de Torrejón o Alcalá?",
+      "a": "Sí, por supuesto. Es uno de nuestros servicios más demandados. Realizamos una revisión pre-ITV exhaustiva que cubre todos los puntos críticos: frenos, suspensión, neumáticos, luces, emisiones... Nuestro objetivo es que vayas a la estación de ITV de Torrejón, Alcalá de Henares o la que prefieras con la total tranquilidad de que vas a pasarla a la primera, ahorrándote tiempo y dinero."
+    },
+    {
+      "q": "Mi coche diésel sufre mucho en los atascos de la A-2, ¿qué mantenimiento recomendáis?",
+      "a": "Es un problema muy común. El tráfico lento y los trayectos cortos son el peor enemigo de los diésel modernos. Recomendamos una descarbonización periódica del motor para limpiar la admisión, la EGR y el FAP. También es clave usar un aceite de calidad y cambiar los filtros cuando toca. Con este mantenimiento preventivo, evitarás averías costosas y el coche responderá mucho mejor."
+    },
+    {
+      "q": "El aire acondicionado no enfría lo suficiente para el verano de aquí, ¿lo podéis revisar?",
+      "a": "Claro. El calor de Torrejón en verano es muy intenso y un climatizador que no funciona bien es un problema. Realizamos la diagnosis completa del sistema, comprobamos la presión, buscamos posibles fugas con nitrógeno y recargamos el gas específico de tu modelo. No te conformes con pasar calor, podemos solucionarlo de forma rápida y eficaz."
+    },
+    {
+      "q": "Vivo en Soto del Henares y a veces el coche está parado varios días, ¿necesita algún cuidado especial?",
+      "a": "Sí. Aunque no hagas muchos kilómetros, el coche sufre. La batería se descarga, los neumáticos pueden perder presión o deformarse y los líquidos se degradan con el tiempo. Te recomendamos arrancarlo al menos una vez por semana y dar una vuelta corta. Y sobre todo, no te saltes la revisión anual para comprobar el estado de estos elementos y cambiar el aceite."
+    },
+    {
+      "q": "Tengo que entrar a la ZBE de Madrid, ¿revisáis los sistemas de emisiones?",
+      "a": "Por supuesto. Es fundamental que el sistema de control de emisiones de tu coche funcione perfectamente para cumplir con la normativa y evitar multas. Revisamos el catalizador, la sonda lambda, el filtro de partículas y el AdBlue en los diésel. Nos aseguramos de que tu coche emita lo mínimo posible y de que tu etiqueta medioambiental se corresponda con su estado real."
+    },
+    {
+      "q": "En invierno, por la mañana, al coche le cuesta arrancar. ¿Es normal por el frío de Torrejón?",
+      "a": "No debería serlo si la batería y el sistema de arranque están bien. Las heladas de la meseta son exigentes, pero un coche bien mantenido debe arrancar sin problemas. Probablemente tu batería esté llegando al final de su vida útil. La comprobamos gratis y, si es necesario, te recomendamos la más adecuada para tu coche y el clima de aquí."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Torrejón de Ardoz",
+  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita en nuestro taller de Torrejón para que conduzcas con total tranquilidad.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Torrejón de Ardoz",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@taller-madrid.es",
+    "addressStreet": ""
+  }
+}

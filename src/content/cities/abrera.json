@@ -1,0 +1,182 @@
+{
+  "slug": "abrera",
+  "name": "Abrera",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 11815,
+  "lat": 41.51682,
+  "lng": 1.901,
+  "metaTitle": "Taller mecánico en Abrera — Multimarca y de confianza",
+  "metaDescription": "Tu coche necesita un taller en Abrera que entienda tu día a día en la A-2. Presupuestos cerrados para revisión, averías, neumáticos y pre-ITV. Pide cita.",
+  "heroSubtitle": "Cansado de los talleres que no entienden lo que es ir y volver cada día a Martorell o a Barcelona por la A-2? Aquí hablamos tu idioma.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives o trabajas en Abrera, sabes que tu coche no es un lujo, es una necesidad. Es la herramienta que te lleva cada mañana por la A-2 hacia Barcelona o que te acerca al polígono de Martorell. Entendemos perfectamente lo que significa depender del coche en el Baix Llobregat. No es lo mismo conducir por el centro de una gran ciudad que hacer los trayectos diarios que haces tú, con tramos de autovía, rotondas en polígonos industriales y las calles de urbanizaciones como Can Vilalba o El Rebato. Por eso, nuestro enfoque no es genérico; está pensado para el conductor de aquí, para el SEAT León que sale de la fábrica de al lado, para la furgoneta del autónomo que reparte por Esparreguera y Olesa, y para el Peugeot 308 familiar que sube a Montserrat el fin de semana.\n\nEl parque móvil de Abrera y sus alrededores tiene una personalidad muy marcada. La influencia de la planta de SEAT en Martorell es innegable. Vemos a diario modelos como el Ibiza, el León o el Ateca, y conocemos sus motores TDI y TSI como la palma de nuestra mano. Pero no solo de SEAT vive el Baix Llobregat. La gran cantidad de profesionales y familias trabajadoras hace que coches como el Renault Clio, el Citroën C4 o furgonetas como la Berlingo y la Kangoo sean el pan de cada día en nuestro taller. Son vehículos fiables, pero el uso intensivo para ir al trabajo o como herramienta profesional les pasa factura. El embrague sufre en los atascos matutinos de la A-2, los filtros se ensucian más por el polvo de los polígonos y los neumáticos se desgastan en las carreteras que conectan con Sant Esteve Sesrovires o Castellbisbal.\n\nAdemás, el clima de nuestra zona, aunque mediterráneo, tiene sus particularidades. Los veranos son calurosos y secos, y eso pone a prueba el sistema de refrigeración y el aire acondicionado de cualquier coche, sobre todo si te toca un atasco volviendo a casa. El calor también acelera el envejecimiento de los plásticos y gomas del motor y reseca los neumáticos. En invierno, aunque no son extremos, los días de humedad cerca del Llobregat pueden afectar a los componentes electrónicos y a la batería. Todo esto lo tenemos en cuenta en cada revisión: no es lo mismo mantener un coche que solo circula por la costa que uno que se mueve a diario por el interior del Vallès y el Baix Llobregat.\n\nPor eso, cuando traes tu coche a nuestro taller en Abrera, no solo vemos un vehículo; vemos tu herramienta de trabajo, tu medio para llevar a los niños al colegio o tu pasaporte para una escapada de fin de semana. Sabemos que necesitas que sea fiable, seguro y que no te deje tirado de camino a una reunión importante. Nuestro compromiso es ofrecerte un servicio honesto, con un presupuesto cerrado para que no haya sorpresas, y con la tranquilidad de que entendemos los problemas específicos de los coches que se conducen por nuestras carreteras. Hablamos tu mismo idioma: el de la fiabilidad, la transparencia y el trabajo bien hecho.",
+  "servicesIntro": "Desde la revisión del SEAT Ateca familiar hasta el cambio de neumáticos de tu furgoneta de trabajo, cubrimos todas las necesidades de tu vehículo en Abrera.",
+  "processIntro": "Trabajamos con total transparencia para que siempre sepas qué le pasa a tu coche. Te damos un presupuesto cerrado y no movemos un tornillo sin tu permiso.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le notas al coche y lo conectamos a nuestros equipos de diagnosis. Identificamos el problema real, sin especulaciones, para entender qué necesita tu vehículo y por qué."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te preparamos un presupuesto detallado y por escrito. Lo que ves es lo que pagas, sin extras de última hora ni sorpresas en la factura. Te lo explicamos punto por punto si tienes dudas."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No empezamos ninguna reparación hasta que nos das tu visto bueno. Si durante el proceso encontramos algo nuevo, te llamamos, te lo explicamos y te damos un presupuesto adicional. Tú decides siempre."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas con garantía y seguimos los procedimientos del fabricante. Trabajamos de forma ágil para que tengas tu coche de vuelta lo antes posible y puedas seguir con tu rutina."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando recoges el coche, te explicamos la reparación realizada. Guardamos el historial de tu vehículo para futuros mantenimientos y nos aseguramos de que todo funcione perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario por la A-2, el calor del verano en el interior y el trote en los polígonos de Martorell provocan averías muy típicas en los coches de Abrera.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico intermitente para ir a Barcelona por la A-2 o los trayectos cortos y constantes por los polígonos de Abrera y Martorell castigan mucho el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Verificamos el estado de todo el sistema para garantizar tu seguridad en los desplazamientos diarios."
+    },
+    {
+      "title": "Problemas de refrigeración en verano",
+      "body": "En julio y agosto, el asfalto del Baix Llobregat arde. Un atasco en la AP-7 puede llevar el sistema de refrigeración de tu coche al límite. Revisamos el nivel de anticongelante, el estado de los manguitos y el funcionamiento del electroventilador para evitar un sobrecalentamiento que podría causar una avería grave en el motor."
+    },
+    {
+      "title": "Mantenimiento de furgonetas y vehículos de trabajo",
+      "body": "Las Citroën Berlingo, Peugeot Partner o Ford Transit de los autónomos de Abrera acumulan kilómetros rápidamente. El polvo de las obras y los polígonos obstruye los filtros de aire y partículas. Realizamos un mantenimiento específico para vehículos comerciales, centrado en la fiabilidad para que tu negocio no se detenga por una avería evitable."
+    },
+    {
+      "title": "Averías en inyectores diésel",
+      "body": "Muchos coches de la zona, especialmente los diésel de entre 2010 y 2018, sufren problemas de inyectores por la acumulación de carbonilla, sobre todo si se hacen muchos trayectos cortos. Si notas tirones, pérdida de potencia o humo negro, un diagnóstico a tiempo puede ahorrarte una reparación muy costosa. Limpiamos y calibramos los sistemas de inyección."
+    },
+    {
+      "title": "Desgaste irregular de neumáticos",
+      "body": "La combinación de autovía a alta velocidad con las rotondas y curvas de las carreteras locales como la BV-1201 hacia Olesa, provoca un desgaste desigual en los neumáticos. Esto afecta a la seguridad y aumenta el consumo. Hacemos una revisión de la alineación y el equilibrado para maximizar la vida de tus ruedas y tu seguridad."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de aquí",
+      "body": "Estamos hartos de ver cada día los SEAT, Volkswagen, Peugeot y las furgonetas que circulan por Abrera. Sabemos qué les duele y cómo solucionarlo de forma eficaz."
+    },
+    {
+      "title": "Presupuesto que no cambia",
+      "body": "Te damos un precio cerrado por escrito. Lo que presupuestamos es lo que pagas. La confianza es lo primero, sobre todo en un sitio como Abrera donde todos nos conocemos."
+    },
+    {
+      "title": "Para particulares y autónomos",
+      "body": "Entendemos que tu coche es tu herramienta para ir a trabajar o la base de tu negocio. Ofrecemos un servicio ágil para que no pierdas ni un minuto más de lo necesario."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "No cambiamos piezas por cambiar. Usamos equipos de diagnosis para encontrar el origen real de la avería, ahorrándote tiempo y dinero en reparaciones innecesarias."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Todas nuestras reparaciones y las piezas que utilizamos están garantizadas por escrito. Queremos que conduzcas con total tranquilidad sabiendo que el trabajo está bien hecho."
+    }
+  ],
+  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son algunas situaciones típicas que resolvemos cada día en nuestro taller de Abrera.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Can Vilalba",
+      "car": "SEAT León TDI 2016",
+      "body": "Notaba un ruido raro en la rueda delantera justo antes de irme de vacaciones. Cojo la A-2 todos los días y no quería jugármela. Me lo miraron al momento, vieron que era un rodamiento y me dieron presupuesto cerrado. En 24 horas lo tenía listo. Un servicio rápido y profesional, que es lo que necesito.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Martorell",
+      "car": "Peugeot 3008 2018",
+      "body": "Tenía que pasar la ITV en la estación de Abrera y siempre me da pánico. Los llevé para una revisión pre-ITV y me ajustaron las luces y un par de tonterías más. Me explicaron todo muy claro y el coche pasó la inspección a la primera sin problemas. Me ahorraron un segundo viaje y muchos nervios. Muy recomendable.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "El Rebato",
+      "car": "Citroën Berlingo 2015",
+      "body": "Soy autónomo y la furgoneta es mi oficina. Empezó a dar tirones y a perder fuerza. Para mí, tenerla parada es perder dinero. Entendieron la urgencia, me hicieron un hueco rápido, diagnosticaron un problema en el filtro de partículas y lo solucionaron. Valoro mucho esa agilidad y que entiendan la problemática de un profesional.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Olesa de Montserrat",
+      "car": "Renault Clio 2013",
+      "body": "Llevo el coche aquí para las revisiones anuales aunque no vivo exactamente en Abrera. Me da confianza que no intenten 'colarme' cosas que no necesito. Me explican lo que le toca por kilometraje y me avisan si ven algo que necesitará atención en el futuro. El trato es cercano y honesto, que es difícil de encontrar.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la zona de Abrera, desde los barrios de Can Vilalba, Les Carpes o El Rebato hasta el centro urbano. Nuestra ubicación es ideal si trabajas o vives en los municipios de alrededor, ya que estamos perfectamente comunicados. Muchos de nuestros clientes vienen de Martorell, Olesa de Montserrat, Esparreguera y Sant Esteve Sesrovires buscando un trato de confianza que a veces no encuentran en talleres más grandes. El acceso es muy sencillo a través de las vías principales que vertebran el Baix Llobregat, como la autovía A-2, la autopista AP-7 o carreteras comarcales como la BV-1201, que conecta directamente con Olesa. Si te mueves por esta zona, somos tu taller de referencia.",
+  "zoneNeighborhoods": [
+    "Can Vilalba",
+    "El Rebato",
+    "Les Carpes",
+    "Ca n'Amat",
+    "Santa Maria de Vilalba",
+    "Martorell",
+    "Olesa de Montserrat",
+    "Esparreguera",
+    "Sant Esteve Sesrovires",
+    "Castellbisbal"
+  ],
+  "zoneAccessRoutes": [
+    "A-2",
+    "AP-7",
+    "BV-1201",
+    "C-55"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi coche es un SEAT comprado en Martorell, ¿usáis recambios originales?",
+      "a": "Trabajamos con recambios de primeras marcas que cumplen o superan las especificaciones del fabricante, conocidos como calidad equivalente. Esto nos permite ofrecerte una reparación con total garantía a un precio más competitivo. Si prefieres específicamente un recambio original de SEAT, solo tienes que pedírnoslo y te lo presupuestamos sin ningún problema. La decisión final siempre es tuya."
+    },
+    {
+      "q": "Trabajo en el polígono SEAT, ¿me da tiempo a dejar el coche por la mañana y recogerlo al salir?",
+      "a": "Totalmente. Es una situación muy común para nosotros. Muchos clientes nos dejan el coche a primera hora de camino al trabajo en Martorell o en los polígonos de alrededor y lo recogen por la tarde. Para reparaciones programadas o mantenimientos, nos coordinamos para tenerlo listo a la hora que te venga bien. La agilidad para los que dependéis del coche para trabajar es nuestra prioridad."
+    },
+    {
+      "q": "El calor del verano en Abrera es intenso, ¿revisáis bien el aire acondicionado?",
+      "a": "Sí, es uno de los puntos clave en las revisiones de primavera y verano. Sabemos que quedarse sin aire acondicionado en un atasco en la A-2 en agosto es una pesadilla. Comprobamos la presión del circuito, buscamos posibles fugas en el gas y revisamos el estado del compresor y el filtro del habitáculo para que enfríe como el primer día y respires un aire limpio dentro del coche."
+    },
+    {
+      "q": "Tengo una furgoneta de reparto, ¿tenéis experiencia con vehículos comerciales?",
+      "a": "Por supuesto. Los vehículos de trabajo son una parte importante de nuestros clientes en Abrera. Conocemos las averías típicas de las furgonetas sometidas a un uso intensivo: desgaste de embrague, problemas con filtros de partículas (FAP) por trayectos cortos, y mantenimiento de frenos y suspensión por la carga. Ofrecemos un servicio rápido para que tu negocio no se pare."
+    },
+    {
+      "q": "Vivo en Olesa de Montserrat, ¿por qué debería bajar a vuestro taller en Abrera?",
+      "a": "Muchos de nuestros clientes son de Olesa, Esparreguera o Martorell. Vienen buscando un trato transparente y un presupuesto sin sorpresas. Estamos a solo unos minutos por la BV-1201 y la C-55. Si valoras la honestidad, el trabajo bien hecho y un taller que entiende de verdad los coches que se mueven por nuestra comarca, creemos que el pequeño desplazamiento te merecerá la pena."
+    },
+    {
+      "q": "Tengo que pasar la ITV en la estación de Abrera, ¿vuestra revisión Pre-ITV qué incluye?",
+      "a": "Nuestra Pre-ITV es una inspección completa de los mismos puntos que te mirarán en la estación oficial de Abrera. Revisamos a fondo frenos, suspensión, dirección, neumáticos, luces, emisiones de gases y posibles holguras. Si detectamos cualquier defecto, te avisamos y te damos presupuesto para solucionarlo, asegurando que pases la ITV a la primera y te ahorres tiempo y dinero."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Abrera",
+  "closingCta": "Deja tu coche en manos de quien entiende tu día a día. Pide tu presupuesto cerrado para tu coche en Abrera por teléfono, WhatsApp o rellenando el formulario online."
+}

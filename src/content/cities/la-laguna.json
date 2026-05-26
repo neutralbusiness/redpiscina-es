@@ -1,0 +1,182 @@
+{
+  "slug": "la-laguna",
+  "name": "La Laguna",
+  "province": "Santa Cruz de Tenerife",
+  "ccaa": "Canarias",
+  "population": 150661,
+  "lat": 28.4853,
+  "lng": -16.32014,
+  "metaTitle": "Taller mecánico en La Laguna — Multimarca y de confianza",
+  "metaDescription": "Taller multimarca en La Laguna para revisión, averías, neumáticos e ITV. Presupuesto cerrado y sin sorpresas. Pide tu cita y conduce tranquilo por Tenerife.",
+  "heroSubtitle": "Para que la humedad, las cuestas y el atasco de la TF-5 no te dejen tirado. Cuidamos tu coche en La Laguna con honestidad.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Todas las marcas"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Revisión Pre-ITV"
+    }
+  ],
+  "introLocal": "Conducir en San Cristóbal de La Laguna no es como hacerlo en cualquier otro sitio de Tenerife. Aquí arriba, el clima manda. La famosa \"panza de burro\" no es solo una anécdota para turistas; es una constante de humedad y frescor que tu coche sufre en silencio. Afecta a las juntas de goma, acelera el desgaste de los silentblocks, pone a prueba el sistema eléctrico y puede favorecer la aparición de óxido en los bajos, sobre todo si tu coche ya tiene unos años y duerme en la calle en zonas como La Cuesta o Finca España. No es lo mismo circular por el sol de la costa que enfrentarse al chipichipi lagunero casi a diario. Por eso, un mantenimiento preventivo centrado en estos puntos es clave para evitar averías caras y disgustos.\n\nAdemás, muchos vivimos o trabajamos en La Laguna pero nos movemos constantemente por la isla. El trayecto diario a Santa Cruz por la TF-5 es un examen para cualquier embrague y sistema de frenos. Las retenciones a primera hora, el arranca-para constante y las pendientes pronunciadas de la autopista y de muchas calles de la ciudad, como las que suben hacia el Ortigal o bajan a Tejina, castigan la mecánica de una forma muy específica. Un coche que solo callejea por el casco histórico no sufre lo mismo que el que hace el recorrido La Laguna-Santa Cruz-La Laguna todos los días. Conocemos ese desgaste y sabemos qué componentes revisar para que no te fallen en el peor momento.\n\nEl parque móvil de La Laguna es un reflejo de su gente: práctico y trabajador. Vemos a diario coches compactos y utilitarios como Renault Clio, SEAT Ibiza, Toyota Yaris o Volkswagen Polo, perfectos para moverse por el centro y aparcar sin volverse loco. También muchas furgonetas pequeñas de autónomos y pymes, tipo Berlingo o Kangoo, que son herramientas de trabajo indispensables. Son vehículos fiables, pero que con el paso de los años y el efecto combinado de la humedad, la calima ocasional y las cuestas, necesitan un taller que entienda sus achaques específicos. No es cuestión de cambiar piezas por cambiar, sino de saber dónde mirar para alargar la vida útil de tu coche.\n\nEntendemos que tu coche es fundamental para tu día a día, ya sea para llevar a los niños al colegio, ir a la Universidad, bajar a trabajar a la capital o simplemente para disfrutar de la isla el fin de semana. Por eso, nuestro enfoque es directo y transparente. Te explicamos qué le pasa a tu coche en un lenguaje que entiendes, te damos un presupuesto cerrado para que no haya sorpresas y solo reparamos lo que tú autorizas. Queremos ser tu taller de confianza en La Laguna, el sitio al que vienes sabiendo que miraremos por tu seguridad y tu bolsillo.",
+  "servicesIntro": "Desde la revisión para pasar la ITV sin problemas en Taco hasta la reparación de una avería compleja, cubrimos todas las necesidades de tu coche en La Laguna.",
+  "processIntro": "Trabajamos con total transparencia para que siempre sepas qué le pasa a tu coche y cuánto te va a costar. Sin sorpresas, sin letra pequeña.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico honesto",
+      "body": "Escuchamos qué le ocurre a tu coche y lo revisamos a fondo. Usamos nuestra experiencia y equipos de diagnosis para encontrar el origen real del problema, no solo el síntoma, aquí en nuestro taller de La Laguna."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas, sin extras inesperados. Incluye piezas, mano de obra e IGIC para que no haya dudas."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu aprobación explícita. Tienes el control total. Si durante la reparación viéramos algo más, te llamaríamos primero para informarte y decidir."
+    },
+    {
+      "title": "Reparación profesional",
+      "body": "Trabajamos con recambios de primeras marcas y te informamos de los plazos. Nuestro objetivo es que tengas tu coche de vuelta lo antes posible, funcionando perfectamente y con total garantía sobre la reparación."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche esté listo. Al recogerlo, te explicamos la reparación realizada. Nos aseguramos de que todo esté a tu gusto y de que tu coche ruede seguro por las carreteras de Tenerife."
+    }
+  ],
+  "commonIssuesIntro": "La combinación de humedad, cuestas, tráfico denso en la TF-5 y la calima genera una serie de averías muy características en los coches de La Laguna. Estas son las que más vemos.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El atasco diario en la TF-5 para bajar a Santa Cruz y las calles empinadas de La Laguna castigan duramente el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en responder al frenar, es hora de una revisión. Verificamos el estado de discos, pastillas y líquido de frenos, y ajustamos o sustituimos el kit de embrague para que conduzcas con seguridad."
+    },
+    {
+      "title": "Problemas eléctricos por la humedad",
+      "body": "La \"panza de burro\" no solo moja, sino que genera una humedad ambiental que se filtra en conectores y centralitas. Fallos en el arranque, luces que parpadean o testigos que se encienden sin motivo suelen tener su origen aquí. Realizamos una diagnosis electrónica completa para localizar y sanear los contactos afectados, protegiéndolos para evitar futuros problemas."
+    },
+    {
+      "title": "Suspensión y silentblocks resentidos",
+      "body": "Entre los badenes del centro, las carreteras secundarias hacia Tegueste o Tacoronte y el firme a veces irregular, la suspensión sufre. Ruidos metálicos al pasar por un bache o inestabilidad en curvas son síntomas claros. Revisamos amortiguadores, rótulas y silentblocks, piezas de goma que se resecan y agrietan con el clima lagunero, para devolverle a tu coche la estabilidad que necesita."
+    },
+    {
+      "title": "Filtros saturados por la calima",
+      "body": "Cuando llega la calima, el aire se llena de polvo sahariano que atasca los filtros de aire del motor y del habitáculo. Esto provoca pérdida de potencia, aumento del consumo y un mal funcionamiento del aire acondicionado. Recomendamos cambiar los filtros con más frecuencia de lo que indica el fabricante para proteger el motor y respirar un aire más limpio dentro del coche."
+    },
+    {
+      "title": "Neumáticos: agarre en suelo húmedo",
+      "body": "En La Laguna puedes salir de casa con sol y encontrarte la carretera mojada por el simple rocío en la siguiente curva. Unos neumáticos en buen estado y con el dibujo adecuado para evacuar agua son vitales. Revisamos su estado, presión y desgaste irregular, y te asesoramos sobre las mejores opciones para el clima variable de la zona, garantizando tu seguridad."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos tu coche y La Laguna",
+      "body": "Conocemos los problemas específicos que causa el clima y el tráfico de aquí. No aplicamos soluciones genéricas, vamos directos al grano porque sabemos lo que sufre tu coche en la TF-5 o con la humedad de la vega lagunera."
+    },
+    {
+      "title": "Presupuesto claro, sin sustos",
+      "body": "El precio que te damos es el que pagas. Sin sorpresas ni extras de última hora. Te lo explicamos todo para que sepas exactamente en qué se invierte tu dinero. Honestidad por delante."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un Peugeot con 15 años, un Mercedes de importación o una furgoneta de trabajo. Tenemos la experiencia y el equipo para cuidar de cualquier coche que circule por la isla."
+    },
+    {
+      "title": "Comunicación directa y sencilla",
+      "body": "Te hablamos de tú a tú, sin tecnicismos innecesarios. Te mantenemos informado por WhatsApp o teléfono durante todo el proceso. Cualquier duda, nos tienes a un mensaje de distancia."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Utilizamos recambios de calidad y confiamos en nuestro trabajo. Por eso, todas nuestras reparaciones están garantizadas por escrito, para que salgas del taller con total tranquilidad."
+    }
+  ],
+  "testimonialsIntro": "No nos creas sin más. Aquí tienes algunos ejemplos de situaciones reales de conductores de La Laguna que han confiado en nosotros.",
+  "testimonials": [
+    {
+      "name": "Yeray",
+      "neighborhood": "La Cuesta",
+      "car": "SEAT León FR 2016",
+      "body": "Tenía la ITV en un par de semanas y el coche me daba tirones en la subida de la autopista. Pensé que sería algo gordo. Aquí dieron con el fallo en la diagnosis enseguida, era un sensor. Me dieron presupuesto cerrado, lo acepté y en un día lo tenía listo. Pasé la ITV en Taco sin un solo fallo. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Gara",
+      "neighborhood": "Finca España",
+      "car": "Toyota Yaris 2012",
+      "body": "Con la humedad de estos meses, el coche a veces no arrancaba a la primera. En otro sitio me querían cambiar media instalación eléctrica. Aquí revisaron la batería y el alternador, encontraron un borne sulfatado, lo limpiaron y protegieron. Un problema que parecía enorme solucionado de forma sencilla y económica. Muy honestos.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "La Laguna Centro",
+      "car": "Renault Kangoo 2018",
+      "body": "Uso la furgoneta para trabajar y no puedo permitirme tenerla parada. Empezó a hacer un ruido raro la suspensión. Les llamé, me dieron cita rápido, vieron que era una rótula y me la cambiaron en la misma mañana. Entienden perfectamente que para un autónomo el vehículo es clave. Eficaces y serios.",
+      "rating": 5
+    },
+    {
+      "name": "Lucía",
+      "neighborhood": "Tejina",
+      "car": "Opel Corsa 2010",
+      "body": "Notaba los frenos algo justos, sobre todo bajando a la costa. Me revisaron todo el sistema y vieron que las pastillas estaban en las últimas. Me explicaron las opciones de recambios y los precios. Elegí unas de buena calidad y ahora el coche frena como el primer día. El trato fue muy bueno, aunque tardaron un poco más de lo previsto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la zona metropolitana, con un acceso muy cómodo desde cualquier punto de San Cristóbal de La Laguna y sus alrededores. Si vives o trabajas en barrios como el Casco Histórico, San Benito, La Cuesta, Taco o Finca España, estamos a pocos minutos. También cubrimos municipios colindantes como Tegueste, Tacoronte y El Rosario. Nuestra ubicación es estratégica, con fácil conexión desde las principales vías que vertebran el norte de la isla, como la Autopista del Norte (TF-5), la Vía de Ronda (TF-13) o la Autovía de Interconexión (TF-2), lo que te permite dejarnos el coche de camino al trabajo en Santa Cruz o al aeropuerto.",
+  "zoneNeighborhoods": [
+    "La Laguna Centro",
+    "La Cuesta",
+    "Taco",
+    "Finca España",
+    "Geneto",
+    "Los Majuelos",
+    "San Benito",
+    "Tejina",
+    "Tegueste",
+    "Tacoronte"
+  ],
+  "zoneAccessRoutes": [
+    "TF-5 (Autopista del Norte)",
+    "TF-2 (Autovía de Interconexión)",
+    "TF-13 (Vía de Ronda)",
+    "TF-24 (Carretera de La Esperanza)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Cómo afecta la humedad de La Laguna al mantenimiento de mi coche?",
+      "a": "La humedad constante acelera la corrosión de partes metálicas como el escape o los bajos, y degrada componentes de goma como silentblocks, manguitos y juntas. También puede causar fallos eléctricos por condensación en conectores. Recomendamos revisiones periódicas del sistema eléctrico y de los elementos de goma para prevenir averías costosas y garantizar tu seguridad."
+    },
+    {
+      "q": "Hago el trayecto La Laguna-Santa Cruz todos los días, ¿qué debo vigilar?",
+      "a": "Ese recorrido por la TF-5, con sus atascos y pendientes, supone un gran esfuerzo para el embrague (en coches manuales) y los frenos. Es vital revisar el nivel y estado del líquido de frenos y el grosor de las pastillas y discos con regularidad. Un embrague que patina o un pedal de freno esponjoso son señales de alerta que no debes ignorar."
+    },
+    {
+      "q": "¿Tengo que hacer algo especial en el coche cuando hay calima?",
+      "a": "Sí. El polvo en suspensión satura rápidamente el filtro de aire del motor, lo que puede aumentar el consumo y reducir la potencia. El filtro del habitáculo también se obstruye, afectando al aire acondicionado y la calidad del aire que respiras. Aconsejamos revisar y, si es necesario, sustituir ambos filtros después de episodios intensos de calima."
+    },
+    {
+      "q": "¿Preparáis el coche para la ITV de Taco o la de Güímar?",
+      "a": "Por supuesto. Ofrecemos un servicio de revisión Pre-ITV exhaustivo. Comprobamos todos los puntos clave que miran en la inspección: luces, frenos, suspensión, neumáticos, niveles y emisiones de gases. Nuestro objetivo es que vayas a la estación que vayas, la pases a la primera y sin ningún tipo de estrés."
+    },
+    {
+      "q": "Mi coche es diésel y tiene ya bastantes años, ¿tenéis experiencia con ellos?",
+      "a": "Totalmente. El parque móvil de Canarias tiene una edad media elevada y los diésel son muy comunes. Conocemos a la perfección los problemas típicos de estos motores: EGR, filtros de partículas (FAP), inyectores... Realizamos diagnosis y limpieza de estos sistemas para que tu coche siga funcionando de forma eficiente y cumpla con la normativa de emisiones."
+    },
+    {
+      "q": "¿Puedo llevar mi coche aunque esté en garantía oficial?",
+      "a": "Sí. Gracias a la normativa europea, puedes realizar el mantenimiento de tu coche en un taller independiente como el nuestro sin perder la garantía del fabricante. Sellamos el libro de mantenimiento y usamos siempre recambios de calidad equivalente a la original, cumpliendo las especificaciones de la marca."
+    }
+  ],
+  "closingHeadline": "Tu taller de confianza en La Laguna",
+  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita para revisar tu coche en La Laguna. Conducir tranquilo no tiene precio."
+}

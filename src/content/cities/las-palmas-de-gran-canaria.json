@@ -1,0 +1,182 @@
+{
+  "slug": "las-palmas-de-gran-canaria",
+  "name": "Las Palmas de Gran Canaria",
+  "province": "Las Palmas",
+  "ccaa": "Canarias",
+  "population": 383516,
+  "lat": 28.10178,
+  "lng": -15.41573,
+  "metaTitle": "Taller mecánico en Las Palmas de Gran Canaria — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Las Palmas. Presupuesto cerrado para revisiones, averías y neumáticos. Cerca de ti, para todas las marcas. ¡Pide tu cita!",
+  "heroSubtitle": "La humedad, el salitre y el tráfico de Las Palmas castigan tu coche. Nosotros lo cuidamos con un presupuesto claro y sin sorpresas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir en Las Palmas de Gran Canaria es una experiencia única, y tu coche lo sabe. No es lo mismo circular por la Avenida Marítima a primera hora que subir las cuestas de Schamann o buscar aparcamiento por Triana un sábado por la tarde. Ya sea que uses la GC-1 a diario para ir a Telde o al aeropuerto, o que te muevas por la Circunvalación (GC-3) para evitar el centro, tu vehículo se enfrenta a un desgaste particular. El tráfico denso en zonas como Mesa y López o León y Castillo exige un uso constante de frenos y embrague, mientras que la mezcla de trayectos cortos urbanos y escapadas de fin de semana por la isla pone a prueba toda la mecánica.\n\nEl clima de Las Palmas es nuestro segundo conductor. La famosa 'panza de burro' no es solo una anécdota meteorológica; es sinónimo de una humedad ambiental constante que, combinada con la brisa marina, carga el aire de salitre. Esta mezcla es el enemigo silencioso de la carrocería, los bajos del coche, los componentes eléctricos y el sistema de frenado. Incluso si vives en Siete Palmas, lejos de la primera línea de Las Canteras, el salitre llega. A esto se suma una radiación solar intensa durante todo el año que castiga la pintura, los plásticos exteriores e interiores y, sobre todo, los neumáticos, acelerando su cristalización y reduciendo su vida útil.\n\nEntendemos el parque automovilístico de la ciudad. Sabemos que abundan los coches compactos y utilitarios como el SEAT Ibiza, Renault Clio o Toyota Yaris, perfectos para moverse y aparcar en barrios como Guanarteme o La Isleta. También vemos a diario los SUV familiares, como el Nissan Qashqai o el Hyundai Tucson, que durante la semana hacen recorridos escolares por Ciudad Jardín y el fin de semana suben a la cumbre. Y por supuesto, conocemos las furgonetas de los autónomos y pequeñas empresas que recorren el Polígono Industrial de El Sebadal, vehículos que necesitan estar siempre a punto para no fallar.\n\nNuestro enfoque en el taller parte de esta realidad local. Cuando revisamos un coche en Las Palmas, no solo seguimos el manual del fabricante. Buscamos activamente los síntomas del desgaste local: comprobamos el estado de los silentblocks castigados por los badenes, revisamos el sistema de aire acondicionado que trabaja a pleno rendimiento gran parte del año, y prestamos especial atención a cualquier indicio de corrosión en los frenos o el escape. Sabemos que tu coche es tu herramienta para trabajar, para disfrutar de la isla, para vivir en Las Palmas. Y lo tratamos con esa misma importancia, dándote un diagnóstico claro y un presupuesto que no cambia.",
+  "servicesIntro": "Ofrecemos soluciones para el día a día de tu coche en Las Palmas, desde la revisión para pasar la ITV en Jinámar hasta un cambio de embrague.",
+  "processIntro": "En nuestro taller de Las Palmas, la claridad es lo primero. Te damos un presupuesto cerrado y no hacemos nada sin que nos des tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y realizamos una inspección completa. Usamos nuestra experiencia y equipos de diagnosis para encontrar el origen real del problema, considerando las condiciones de conducción en Las Palmas."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin sorpresas. Te explicamos cada punto para que sepas exactamente por lo que pagas. El precio que te damos es el precio final, sin extras inesperados."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos ni un solo tornillo sin tu aprobación explícita. Puedes tomarte tu tiempo para revisar el presupuesto y, solo cuando nos das luz verde, nuestro equipo se pone a trabajar en tu coche. Tú tienes siempre el control."
+    },
+    {
+      "title": "Reparación",
+      "body": "Realizamos la reparación utilizando recambios de calidad y siguiendo los procedimientos del fabricante. Te mantenemos informado del proceso y cumplimos con los plazos acordados para que recuperes tu vehículo lo antes posible."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Al recoger tu coche, te explicamos el trabajo realizado y te entregamos la factura con la garantía correspondiente. Unos días después, nos ponemos en contacto contigo para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El salitre de la costa, las cuestas de Ciudad Alta y el calor constante de Las Palmas pasan factura. Estos son los problemas que más vemos y solucionamos en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Corrosión prematura por salitre",
+      "body": "La brisa marina de Las Palmas es implacable. Acelera la oxidación de los bajos del coche, los discos de freno, los conductos metálicos y las conexiones eléctricas. Es un problema habitual en coches que duermen en la calle, sobre todo en barrios como La Isleta o San Cristóbal. Realizamos inspecciones preventivas y tratamientos para proteger tu vehículo."
+    },
+    {
+      "title": "Desgaste de frenos y embrague",
+      "body": "La orografía de la ciudad, con cuestas pronunciadas en barrios como Schamann o Escaleritas, y el denso tráfico de para y arranca en la Avenida Marítima o León y Castillo, someten a frenos y embrague a un esfuerzo extra. Si notas que el pedal de embrague está duro o que los frenos chirrían, es hora de una revisión."
+    },
+    {
+      "title": "Averías en el aire acondicionado",
+      "body": "En Gran Canaria, el aire acondicionado no es un lujo, es una necesidad casi todo el año. Este uso intensivo provoca fugas de gas, averías en el compresor y obstrucción de filtros. Un mantenimiento anual es clave para asegurar que enfríe correctamente cuando más lo necesitas y evitar reparaciones costosas."
+    },
+    {
+      "title": "Neumáticos y plásticos 'quemados' por el sol",
+      "body": "La radiación UV en Canarias es muy alta. Esto no solo 'come' el color de la pintura, sino que cristaliza los neumáticos y reseca plásticos y gomas (como las escobillas o las juntas de las puertas). Un neumático con buen dibujo pero cristalizado es peligroso. Revisamos su estado real para garantizar tu seguridad."
+    },
+    {
+      "title": "Obstrucción del filtro de partículas (FAP)",
+      "body": "Muchos conductores en Las Palmas realizan trayectos cortos y urbanos, por ejemplo, de Tamaraceite al Puerto. Esto impide que los coches diésel modernos regeneren correctamente el filtro de partículas, provocando averías y pérdida de potencia. Realizamos diagnosis y limpiezas específicas para solucionar este problema tan común."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de aquí",
+      "body": "Sabemos qué problemas dan los modelos más comunes en Las Palmas y cómo el clima y las carreteras de la isla les afectan. No damos palos de ciego, vamos directos al grano."
+    },
+    {
+      "title": "Sin sorpresas en la factura",
+      "body": "El presupuesto que te damos es el que pagas. Si durante la reparación surge un imprevisto, paramos, te llamamos y te explicamos la situación. Tú decides."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un utilitario para la ciudad, un SUV familiar o la furgoneta del trabajo. Tenemos la experiencia y el equipo para trabajar con cualquier marca y modelo."
+    },
+    {
+      "title": "Diagnóstico honesto y claro",
+      "body": "Te explicamos la avería de tu coche en un lenguaje que entiendes. Te decimos qué es urgente reparar y qué puede esperar, para que tomes la mejor decisión sin presiones."
+    },
+    {
+      "title": "Te preparamos para la ITV",
+      "body": "Conocemos los puntos críticos que miran con lupa en las estaciones de ITV de Gran Canaria. Con nuestra revisión pre-ITV, irás mucho más tranquilo y te ahorrarás un segundo viaje."
+    }
+  ],
+  "testimonialsIntro": "Estas son algunas situaciones típicas que nos encontramos. Los nombres y coches son ejemplos, pero los problemas y las soluciones son muy reales en Las Palmas.",
+  "testimonials": [
+    {
+      "name": "Javier",
+      "neighborhood": "La Isleta",
+      "car": "SEAT León 1.6 TDI 2015",
+      "body": "Vivendo al lado del Confital, siempre me ha preocupado el óxido. Empecé a oír un chirrido en los frenos y me temía lo peor. En el taller me explicaron que era un desgaste normal, pero que la corrosión superficial era evidente. Me cambiaron las pastillas, limpiaron los discos y me dieron un presupuesto cerrado desde el principio. Muy transparentes.",
+      "rating": 5
+    },
+    {
+      "name": "Carla",
+      "neighborhood": "Siete Palmas",
+      "car": "Hyundai i30 2017",
+      "body": "Hago todos los días el trayecto hasta el polígono de Arinaga por la GC-1 y el coche ya pedía la revisión grande. Me preocupaba el precio. Les pedí presupuesto y me lo detallaron todo por WhatsApp. Me pareció correcto y se lo dejé. El coche va más suave y lo tuvieron listo en el día que me dijeron. Buen servicio.",
+      "rating": 5
+    },
+    {
+      "name": "José",
+      "neighborhood": "Schamann",
+      "car": "Renault Kangoo 2012",
+      "body": "Soy repartidor y la furgoneta es mi vida. Empezó a perder fuerza subiendo las cuestas del barrio y se me encendió una luz. Pensé que era el turbo. Me diagnosticaron un problema en el filtro de partículas por tanto trayecto corto. Me ofrecieron una limpieza en vez de cambiarlo, mucho más barato. Me salvaron el mes.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Guanarteme",
+      "car": "Toyota Yaris Hybrid 2018",
+      "body": "Tenía la cita para la ITV y quería ir sobre seguro. Lo llevé para una pre-ITV. Me detectaron que las ruedas de delante estaban más gastadas por el interior, seguramente de aparcar y maniobrar tanto por el barrio. Me las cambiaron y alinearon la dirección. Pasé la ITV sin problemas. Tardaron un poco más de lo previsto, pero me avisaron.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Las Palmas de Gran Canaria da servicio a toda la ciudad, desde el cono sur hasta el puerto. Si vives en barrios como Vegueta, Triana, La Isleta, Siete Palmas o Tamaraceite, estamos a tu alcance. Además, gracias a nuestra ubicación estratégica cerca de los principales accesos, somos una opción cómoda y rápida para conductores de municipios cercanos como Telde, Arucas, Teror o Santa Brígida, que utilizan diariamente la GC-1, la GC-3 o la GC-2 para venir a trabajar a la capital. Si tu rutina te trae a Las Palmas, tu taller de confianza también está aquí.",
+  "zoneNeighborhoods": [
+    "Vegueta",
+    "Triana",
+    "La Isleta",
+    "Guanarteme",
+    "Schamann",
+    "Siete Palmas",
+    "Tamaraceite",
+    "Ciudad Jardín",
+    "Telde",
+    "Arucas"
+  ],
+  "zoneAccessRoutes": [
+    "GC-1 (Autovía del Sur)",
+    "GC-2 (Autovía del Norte)",
+    "GC-3 (Circunvalación de Las Palmas)",
+    "GC-23"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Mi coche necesita un tratamiento especial por el salitre de Las Palmas?",
+      "a": "Sí, es muy recomendable. El salitre acelera la corrosión de los bajos, el sistema de escape y los componentes de los frenos. Una limpieza periódica de los bajos con agua a presión ayuda, pero una inspección anual en el taller para detectar y tratar puntos de óxido es la mejor prevención para evitar averías costosas a largo plazo, sobre todo si aparcas cerca de la costa."
+    },
+    {
+      "q": "Hago muchos trayectos cortos por la ciudad, ¿qué revisión es más importante?",
+      "a": "Si te mueves principalmente por Las Palmas en trayectos cortos, el aceite y los filtros sufren más. El aceite no alcanza su temperatura óptima y se degrada antes. En coches diésel, el filtro de partículas (FAP) puede obstruirse. Te recomendamos acortar ligeramente los intervalos de cambio de aceite y revisar el estado del FAP para evitar problemas."
+    },
+    {
+      "q": "¿Por qué se gastan tanto los neumáticos en Gran Canaria?",
+      "a": "Hay tres factores clave: el asfalto de nuestras carreteras, a menudo rugoso; las rotondas constantes que fuerzan los flancos; y sobre todo, el sol. La alta radiación UV 'cristaliza' la goma, endureciéndola y haciendo que pierda agarre, aunque el dibujo parezca bueno. Por eso es vital revisar no solo la profundidad, sino también la fecha de fabricación y el estado de la goma."
+    },
+    {
+      "q": "Voy a coger el ferry a la península, ¿qué debo revisar en el coche?",
+      "a": "Un viaje largo exige que el coche esté al 100%. Es fundamental revisar niveles (aceite, refrigerante, líquido de frenos), la presión y el estado de los neumáticos (incluida la rueda de repuesto), el sistema de climatización y las luces. Una revisión general en nuestro taller te dará la tranquilidad de afrontar los kilómetros por la península sin sorpresas."
+    },
+    {
+      "q": "Mi aire acondicionado no enfría como antes, ¿es normal por el calor de aquí?",
+      "a": "No, no es normal. Aunque trabaje mucho, un sistema de aire acondicionado en buen estado debe enfriar con eficacia. Una pérdida de rendimiento suele indicar una fuga de gas, un filtro de habitáculo sucio que obstruye el flujo de aire o un problema en el compresor. Te recomendamos una revisión del sistema antes de que llegue el calor más fuerte."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Jinámar o El Sebadal, ¿en qué os fijáis en la pre-ITV?",
+      "a": "Además de los puntos obvios como luces, frenos y neumáticos, en Las Palmas prestamos especial atención a la corrosión en los bajos y en los anclajes de la suspensión, un fallo grave y común aquí. También comprobamos la opacidad en los diésel, que suele dar problemas por la conducción urbana, y cualquier holgura en la dirección provocada por los baches y badenes de la ciudad."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Las Palmas",
+  "closingCta": "Si notas algo raro en tu coche o simplemente te toca la revisión, no le des más vueltas. Pide tu presupuesto cerrado para nuestro taller en Las Palmas por teléfono, WhatsApp o rellenando el formulario."
+}

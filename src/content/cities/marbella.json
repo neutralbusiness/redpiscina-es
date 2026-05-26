@@ -1,0 +1,182 @@
+{
+  "slug": "marbella",
+  "name": "Marbella",
+  "province": "Málaga",
+  "ccaa": "Andalucía",
+  "population": 156295,
+  "lat": 36.51543,
+  "lng": -4.88583,
+  "metaTitle": "Taller mecánico en Marbella — Multimarca y de confianza",
+  "metaDescription": "Tu coche a punto en Marbella. Presupuesto cerrado para revisiones, averías y neumáticos. Servicio multimarca para que conduzcas tranquilo por la A-7. Pide cita.",
+  "heroSubtitle": "Deja de preocuparte por el calor, los atascos en la A-7 o la próxima ITV. En nuestro taller de Marbella, cuidamos de tu coche.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir en Marbella es una experiencia de contrastes. Por un lado, el placer de recorrer la Milla de Oro o subir hacia Ojén. Por otro, la realidad diaria de los atascos en la A-7, sobre todo en verano, o el tráfico denso para llegar a Puerto Banús. Si vives y trabajas aquí todo el año, sabes que tu coche sufre. El embrague y los frenos se desgastan más rápido con tanto parar y arrancar, y el motor trabaja a temperaturas más altas de lo normal. No es lo mismo mantener un coche que circula por una meseta castellana que uno que se enfrenta a diario al reto de la Costa del Sol. Entendemos perfectamente el uso que le das a tu vehículo, ya sea un compacto para moverte por el centro, un SUV familiar para llevar a los niños al colegio en Nueva Andalucía o una furgoneta para tu negocio en el polígono de San Pedro.\n\nEl clima de Marbella, aunque fantástico para vivir, es un enemigo silencioso para la mecánica. El sol intenso que tenemos la mayor parte del año no solo afecta a la pintura y los plásticos interiores; también 'cristaliza' los neumáticos, endureciendo la goma y reduciendo su agarre mucho antes de que el dibujo se desgaste. Por otro lado, la brisa marina, cargada de salitre, es muy corrosiva. Acelera la oxidación de los bajos del coche, los discos de freno y los componentes de la suspensión. En nuestras revisiones, no nos limitamos a un chequeo estándar; buscamos activamente estos signos de corrosión que son tan comunes en toda la franja costera desde Cabopino hasta Guadalmina.\n\nEl parque automovilístico de Marbella es tan diverso como su gente. Vemos los superdeportivos, claro, pero nuestro día a día está en los coches que de verdad mueven la ciudad: el SEAT León de un comercial, el Peugeot 3008 de una familia de Las Chapas, el Volkswagen Golf de un joven que trabaja en hostelería o el BMW Serie 3 y el Mercedes Clase C con unos años a sus espaldas que se usan para todo. Conocemos las averías típicas de estos modelos y cómo el entorno marbellí las acentúa. Por ejemplo, los filtros de partículas en los diésel sufren mucho con los trayectos cortos y urbanos, un problema habitual para quien vive en el centro y apenas coge la autovía.\n\nNuestro compromiso es ofrecerte un servicio de taller honesto, profesional y adaptado a la realidad de Marbella. No te vamos a contar historias. Te explicaremos qué le pasa a tu coche, por qué le pasa (seguramente por una combinación de uso y clima local) y te daremos un presupuesto cerrado para solucionarlo. Queremos ser tu taller de confianza, el lugar al que acudes sabiendo que cuidaremos de tu coche como si fuera nuestro, para que tú solo te preocupes de disfrutar de la conducción, ya sea para ir al trabajo, a la playa o para hacer una escapada por la carretera de Ronda.",
+  "servicesIntro": "Desde la recarga del aire acondicionado para sobrevivir a agosto hasta el cambio de neumáticos castigados por el sol de Marbella, lo cubrimos todo.",
+  "processIntro": "Trabajamos con total transparencia. Recibes un presupuesto cerrado y detallado, y no movemos un tornillo sin tu aprobación previa. Sin sorpresas.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y realizamos una inspección inicial para entender el problema. Conectamos nuestros equipos de diagnosis para obtener un primer informe preciso de cualquier avería electrónica o mecánica."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en la mano, elaboramos un presupuesto detallado y sin compromiso. Te lo enviamos por WhatsApp o email, explicando claramente qué piezas y mano de obra se necesitan. El precio que ves es el que pagas."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisas el presupuesto con calma y, si tienes cualquier duda, nos llamas. La reparación solo comienza cuando nos das tu visto bueno explícito. Tú tienes el control en todo momento, sin presiones ni letra pequeña."
+    },
+    {
+      "title": "Reparación",
+      "body": "Nuestros mecánicos se ponen manos a la obra utilizando recambios de primeras marcas y siguiendo las especificaciones del fabricante. Todas nuestras reparaciones y piezas tienen garantía para tu total tranquilidad. Te mantenemos informado del proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos el trabajo realizado y te entregamos la factura detallada. Unos días después, puede que te llamemos para asegurarnos de que todo va perfecto."
+    }
+  ],
+  "commonIssuesIntro": "El calor, el salitre y los atascos de la Costa del Sol dejan huella en tu coche. Estos son los problemas que más vemos en nuestro taller de Marbella y cómo los solucionamos.",
+  "commonIssues": [
+    {
+      "title": "Fallo del aire acondicionado en verano",
+      "body": "En Marbella, el aire acondicionado no es un lujo, es una necesidad. El uso intensivo durante los largos veranos fuerza el compresor y puede provocar fugas de gas. Hacemos una diagnosis completa del circuito, detectamos fugas con nitrógeno, recargamos el gas y comprobamos que enfríe como el primer día, para que los atascos en la A-7 sean más llevaderos."
+    },
+    {
+      "title": "Desgaste prematuro de frenos y embrague",
+      "body": "El tráfico intermitente de la N-340 y las cuestas de muchas urbanizaciones de Marbella castigan los frenos y el embrague. Si notas que el pedal de embrague está duro o que el coche frena menos, es hora de una revisión. Comprobamos el estado de discos, pastillas y líquido de frenos, así como el kit de embrague, para garantizar tu seguridad."
+    },
+    {
+      "title": "Corrosión por el ambiente salino",
+      "body": "Vivir cerca del mar es fantástico, pero el salitre es muy corrosivo para los metales. Afecta a los bajos del coche, los escapes, los tornillos y, sobre todo, a los componentes de los frenos. En cada revisión en nuestro taller de Marbella, prestamos especial atención a estos puntos críticos para detectar y frenar la oxidación a tiempo."
+    },
+    {
+      "title": "Neumáticos 'quemados' por el sol",
+      "body": "El sol intenso de Andalucía degrada la goma de los neumáticos. Pueden tener el dibujo perfecto, pero estar cristalizados, duros y sin agarre, lo que es un peligro, sobre todo con las primeras lluvias. Revisamos la fecha de fabricación y el estado del caucho, no solo la profundidad, para que conduzcas seguro todo el año."
+    },
+    {
+      "title": "Sobrecalentamiento del motor en atascos",
+      "body": "Una avería clásica del verano marbellí. Un sistema de refrigeración que no está al 100% puede darte un susto en pleno atasco volviendo de la playa. Verificamos el nivel de anticongelante, el estado de los manguitos, el radiador y el funcionamiento del electroventilador para evitar que la temperatura se dispare."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de Marbella",
+      "body": "Sabemos cómo afecta el clima y el tráfico local a tu vehículo. No aplicamos soluciones genéricas, sino un mantenimiento pensado para las condiciones específicas de la Costa del Sol, desde el salitre hasta el calor extremo."
+    },
+    {
+      "title": "Presupuesto claro y sin sorpresas",
+      "body": "Te damos un precio cerrado antes de empezar. Lo que presupuestamos es lo que pagas. Se acabaron las facturas infladas y los conceptos que no entiendes. Honestidad y transparencia son nuestra base."
+    },
+    {
+      "title": "Expertos en todas las marcas",
+      "body": "Da igual si conduces un utilitario, un SUV, una berlina alemana o una furgoneta. Nuestro equipo tiene la formación y el equipo de diagnosis para trabajar con la misma profesionalidad en cualquier marca y modelo del mercado."
+    },
+    {
+      "title": "Te ayudamos con la ITV",
+      "body": "Pasar la ITV en Marbella puede ser un trámite pesado. Hacemos una revisión pre-ITV exhaustiva para que vayas sobre seguro. Si lo necesitas, podemos incluso encargarnos de llevar el coche a la estación por ti."
+    },
+    {
+      "title": "Comunicación directa y sencilla",
+      "body": "Te explicamos las averías de forma que las entiendas, sin tecnicismos innecesarios. Estamos disponibles por teléfono y WhatsApp para resolver tus dudas y mantenerte informado durante todo el proceso de reparación."
+    }
+  ],
+  "testimonialsIntro": "Estas son algunas historias de conductores de Marbella que han pasado por nuestro taller. Sus casos son ejemplos de cómo trabajamos cada día.",
+  "testimonials": [
+    {
+      "name": "José",
+      "neighborhood": "San Pedro de Alcántara",
+      "car": "SEAT Ateca 1.5 TSI 2018",
+      "body": "El aire acondicionado dejó de enfriar justo una semana antes de irnos de vacaciones. Un desastre con los niños. Les llamé, me dieron cita rápido y encontraron una pequeña fuga en el circuito. Lo solucionaron en el día y con un presupuesto que me pareció muy razonable. Me salvaron el viaje.",
+      "rating": 5
+    },
+    {
+      "name": "Sarah",
+      "neighborhood": "Nueva Andalucía",
+      "car": "VW Golf GTI 2015",
+      "body": "Llevé el coche para la revisión pre-ITV. Estaba segura de que todo estaba bien, pero encontraron que las pastillas de freno traseras estaban en las últimas. Me enviaron fotos por WhatsApp para que lo viera. Agradecí mucho la honestidad, porque es algo que yo no habría notado. Pasó la ITV sin problemas, claro.",
+      "rating": 5
+    },
+    {
+      "name": "Antonio",
+      "neighborhood": "Elviria",
+      "car": "Ford Focus 2.0 TDCi 2014",
+      "body": "Me saltó el aviso del filtro de partículas. Uso el coche para trayectos cortos por la zona y ya me temía una factura carísima. Aquí me explicaron por qué pasaba y me hicieron una regeneración forzada en el taller. Me ahorré una buena pasta. Se nota que saben lo que hacen y no van a lo fácil.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Marbella Centro",
+      "car": "Renault Clio 2016",
+      "body": "Fui para la revisión anual y un cambio de aceite. Al revisar los neumáticos, me comentaron que aunque tenían dibujo, estaban agrietados por el sol y eran peligrosos. No intentaron venderme los más caros, sino que me dieron varias opciones. Es un detalle que te da confianza. El trato fue muy amable.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda el área de Marbella. Tanto si vives en el centro como si tu residencia está en una de las urbanizaciones, nuestro taller está a tu disposición. Cubrimos la totalidad del municipio, desde Las Chapas y Elviria en la zona este, hasta San Pedro de Alcántara y Guadalmina en el oeste. Nuestra ubicación nos permite un acceso rápido y cómodo desde cualquier punto de la A-7 o la AP-7, por lo que también somos el taller de confianza para muchos conductores de localidades cercanas como Benahavís, Ojén o Istán, que buscan un servicio profesional y sin complicaciones para el mantenimiento de su vehículo.",
+  "zoneNeighborhoods": [
+    "San Pedro de Alcántara",
+    "Nueva Andalucía",
+    "Puerto Banús",
+    "Marbella Centro",
+    "Elviria",
+    "Las Chapas",
+    "Nagüeles",
+    "La Milla de Oro",
+    "Benahavís",
+    "Ojén"
+  ],
+  "zoneAccessRoutes": [
+    "A-7 (Autovía del Mediterráneo)",
+    "AP-7 (Autopista del Sol)",
+    "N-340",
+    "A-397 (Carretera de Ronda)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la revisión oficial manteniendo la garantía de mi coche nuevo?",
+      "a": "Sí, por supuesto. Realizamos la revisión siguiendo exactamente el plan de mantenimiento especificado por el fabricante de tu vehículo y utilizando recambios de calidad equivalente a los originales. Sellamos el libro de mantenimiento, por lo que la garantía oficial de tu coche se mantiene intacta, tal y como regula la normativa europea."
+    },
+    {
+      "q": "Tengo un coche de alta gama (Mercedes, BMW, Audi), ¿tenéis experiencia con estas marcas?",
+      "a": "Totalmente. Conocemos bien el parque móvil de Marbella y estamos acostumbrados a trabajar con vehículos premium. Contamos con los equipos de diagnosis electrónica específicos y la formación necesaria para realizar cualquier tipo de mantenimiento o reparación en coches de gama alta con la misma profesionalidad y garantía que un servicio oficial."
+    },
+    {
+      "q": "Vivo en una urbanización en Benahavís, ¿es posible tener un coche de cortesía?",
+      "a": "Entendemos que quedarse sin coche es un gran inconveniente, sobre todo si vives fuera del núcleo urbano de Marbella. Disponemos de coches de cortesía para nuestros clientes (sujeto a disponibilidad). Te recomendamos que nos lo solicites al pedir tu cita para poder reservarte uno y garantizar tu movilidad mientras reparamos tu vehículo."
+    },
+    {
+      "q": "¿Por qué es tan importante revisar el aire acondicionado en Marbella?",
+      "a": "Porque aquí el climatizador trabaja a pleno rendimiento durante más de seis meses al año. Este sobreesfuerzo provoca un desgaste mayor del compresor y aumenta el riesgo de fugas de gas. Una revisión anual previene averías costosas y asegura que el sistema enfríe eficientemente, además de mantener el filtro limpio de bacterias y alérgenos."
+    },
+    {
+      "q": "El salitre del mar está dañando mi coche, ¿qué puedo hacer?",
+      "a": "El salitre es muy corrosivo. La mejor solución es la prevención. Además de lavar el coche con frecuencia, especialmente los bajos, en nuestro taller podemos aplicar tratamientos protectores específicos en el chasis y otras partes metálicas expuestas. Durante las revisiones, inspeccionamos a fondo en busca de puntos de óxido para tratarlos antes de que vayan a más."
+    },
+    {
+      "q": "Tengo que pasar la ITV en el polígono de San Pedro, ¿me ayudáis con la pre-ITV?",
+      "a": "Claro que sí. Es uno de nuestros servicios más demandados. Realizamos una inspección pre-ITV completa, revisando los mismos puntos que miran en la estación: luces, frenos, neumáticos, emisiones, etc. Si detectamos cualquier fallo, te damos presupuesto para solucionarlo y que así puedas ir a la ITV con la total seguridad de que la pasarás a la primera."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Marbella",
+  "closingCta": "No dejes que una avería te arruine el día en la Costa del Sol. Pide tu presupuesto cerrado para tu taller en Marbella por teléfono, WhatsApp o rellenando el formulario. Te responderemos enseguida."
+}

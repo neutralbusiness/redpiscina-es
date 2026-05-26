@@ -1,0 +1,182 @@
+{
+  "slug": "palma",
+  "name": "Palma",
+  "province": "Islas Baleares",
+  "ccaa": "Islas Baleares",
+  "population": 438234,
+  "lat": 39.56939,
+  "lng": 2.65024,
+  "metaTitle": "Taller mecánico en Palma de Mallorca — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Palma. Presupuestos cerrados para revisión, mecánica y averías. Cuidamos tu coche del salitre y el calor. Pide cita sin compromiso.",
+  "heroSubtitle": "Atascos en la Vía de Cintura, humedad, salitre... Tu coche sufre el día a día de Palma. Dale el mantenimiento que necesita.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir en Palma es una experiencia única, y tu coche lo sabe. No es lo mismo circular por la península que hacerlo aquí. Cada día te enfrentas a los atascos de la Vía de Cintura (Ma-20) para ir a trabajar, a las calles estrechas del centro o a las cuestas de barrios como Gènova o El Terreno. Y el fin de semana, quizás te escapas por la Ma-10 hacia la Serra de Tramuntana o buscas una cala por la carretera de Llucmajor. Este uso mixto, de arranca-para constante en ciudad y curvas exigentes en la sierra, provoca un desgaste específico en embragues, frenos y suspensiones que conocemos muy bien.\n\nEl clima de Mallorca es nuestro paraíso, pero un desafío para la mecánica. La humedad y el salitre que trae el 'embat' no descansan nunca. Se filtran por debajo del coche, acelerando la corrosión en el chasis, los escapes y los conductos de freno de una forma que no se ve en Madrid o Zaragoza. A esto se suma el sol intenso del verano, que castiga la pintura, reseca los plásticos interiores y exteriores, y pone al límite el sistema de aire acondicionado justo cuando más lo necesitas. Un mantenimiento estándar no es suficiente; se necesita una revisión que entienda las condiciones de la isla.\n\nSabemos que el parque móvil de Palma es muy diverso. En nuestro taller vemos a diario el SEAT León del residente de Pere Garau que va cada día a su trabajo en el polígono de Son Castelló, la furgoneta del autónomo que reparte por toda la ciudad, el Volkswagen Golf de una familia de Marratxí o el Audi A4 de alguien que vive en Son Vida. También atendemos esos coches de alquiler, a menudo de pequeño tamaño como un Fiat 500 o un Renault Clio, que sufren un uso intensivo durante la temporada alta. Sea cual sea tu coche, tenemos la experiencia y el equipo para tratarlo como se merece, entendiendo su historia y el uso que le das.\n\nPor eso, cuando hablamos de una revisión o una reparación en Palma, vamos más allá de un simple cambio de aceite. Comprobamos puntos críticos de corrosión, revisamos el circuito del aire acondicionado para que no te falle en pleno agosto, y nos aseguramos de que tus neumáticos y frenos estén listos tanto para el asfalto mojado de una tormenta de otoño como para el calor extremo del verano. Nuestro enfoque no es genérico, es local. Es un servicio pensado por y para los conductores de Mallorca, que valoran la transparencia y un trabajo bien hecho, sin sorpresas en la factura final.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV en Son Oms hasta la reparación del embrague por los atascos de la Ma-20, aquí tienes lo que hacemos.",
+  "processIntro": "Sabemos que ir al taller genera desconfianza. Por eso, te damos un presupuesto cerrado y no hacemos nada sin tu permiso. Claridad total.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le pasa a tu coche y lo conectamos a nuestro sistema de diagnóstico. Identificamos el problema real, sin especulaciones, para entender qué necesita tu vehículo aquí en Palma."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas, sin costes ocultos ni sorpresas de última hora. Así de claro."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo hasta que nos das tu visto bueno. Tienes el control total sobre la reparación de tu coche en todo momento."
+    },
+    {
+      "title": "Reparación",
+      "body": "Trabajamos con recambios de primeras marcas y te informamos del tiempo estimado. Todas nuestras reparaciones tienen garantía para que conduzcas con total tranquilidad por la isla."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos cuando tu coche está listo para recoger. Te explicamos la reparación realizada y, pasados unos días, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El salitre, el calor y los atascos de Palma provocan averías muy concretas. Estas son las que más vemos en nuestro taller y cómo las solucionamos para ti.",
+  "commonIssues": [
+    {
+      "title": "Corrosión acelerada por el salitre",
+      "body": "La brisa marina de Palma ('embat') es implacable con los metales. El salitre se acumula en los bajos del coche, atacando el sistema de escape, los conductos de freno y el subchasis. Realizamos inspecciones específicas y aplicamos tratamientos preventivos para proteger tu coche de este enemigo silencioso y evitar reparaciones costosas en el futuro."
+    },
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico denso en las Avenidas y la Vía de Cintura, sumado a las carreteras con pendientes de la Serra, fuerza a usar el embrague y los frenos constantemente. Este patrón de 'arranca y para' acorta su vida útil. Diagnosticamos el desgaste con precisión y montamos componentes de alta calidad para garantizar tu seguridad y confort."
+    },
+    {
+      "title": "Fallos en el aire acondicionado",
+      "body": "En Mallorca, el aire acondicionado no es un lujo, es una necesidad. El uso intensivo de mayo a octubre y las altas temperaturas fuerzan el compresor y pueden provocar fugas de gas. Nos especializamos en la recarga, detección de fugas y reparación del sistema para que el calor del verano no sea un problema."
+    },
+    {
+      "title": "Deterioro de plásticos y gomas",
+      "body": "El sol balear es muy potente. La radiación UV agrieta los salpicaderos, quema los faros dejándolos opacos y reseca las gomas de las puertas y las escobillas del limpiaparabrisas. Además de sustituir estas piezas, te aconsejamos sobre productos para protegerlas y alargar su vida útil, manteniendo el valor de tu coche."
+    },
+    {
+      "title": "Sobrecalentamiento del motor",
+      "body": "Un atasco en la Ma-19 en pleno agosto o subir una cuesta pronunciada puede llevar el sistema de refrigeración al límite. Un nivel bajo de anticongelante, un radiador sucio o un ventilador que no funciona bien pueden causar una avería grave. Revisamos a fondo todo el circuito para que tu motor trabaje siempre a la temperatura ideal."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el precio que pagas. Se acabó la incertidumbre al dejar el coche en el taller. Honestidad desde el primer momento."
+    },
+    {
+      "title": "Conocemos los coches de Palma",
+      "body": "Sabemos cómo afecta el salitre, el calor y el tipo de conducción en la isla. No aplicamos soluciones genéricas, sino un mantenimiento adaptado a la realidad de Mallorca."
+    },
+    {
+      "title": "Expertos en todas las marcas",
+      "body": "Da igual si conduces un utilitario para moverte por la ciudad, un SUV familiar o una furgoneta de trabajo. Tenemos la tecnología y el conocimiento para cuidar de tu coche."
+    },
+    {
+      "title": "Pre-ITV para pasarla a la primera",
+      "body": "Conocemos los puntos críticos que revisan en las estaciones de ITV de Mallorca, como la de Son Oms. Hacemos una comprobación exhaustiva para que no pierdas tiempo ni dinero."
+    },
+    {
+      "title": "Comunicación clara y directa",
+      "body": "Te explicamos qué le pasa a tu coche de forma que lo entiendas, sin tecnicismos. Si es necesario, te enviamos fotos o vídeos del problema. La confianza es clave."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que resolvemos cada día para conductores como tú aquí en Palma y alrededores.",
+  "testimonials": [
+    {
+      "name": "Marga",
+      "neighborhood": "Santa Catalina",
+      "car": "Renault Clio 2018",
+      "body": "El aire acondicionado dejó de enfriar en pleno julio. Con el calor que hace en Palma, era imposible coger el coche. Me dieron cita rápido, encontraron una pequeña fuga, la repararon y lo recargaron. El presupuesto fue exactamente el que me dijeron. Un alivio.",
+      "rating": 5
+    },
+    {
+      "name": "Jaume",
+      "neighborhood": "Son Ferriol",
+      "car": "Volkswagen Caddy 2017",
+      "body": "Uso la furgoneta para trabajar por toda la isla y el embrague empezaba a patinar. Mucho trote entre Palma, Inca y Manacor. Me explicaron por qué se había desgastado y me ofrecieron un kit reforzado. Ahora las marchas entran suaves. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "El Arenal",
+      "car": "SEAT León 2015",
+      "body": "Tenía la ITV en Son Oms en una semana y oía un ruido raro en la rueda delantera al frenar. Eran las pastillas, que estaban en las últimas. Me las cambiaron en el día y de paso me revisaron las luces y los neumáticos. Pasé la ITV sin un solo fallo.",
+      "rating": 5
+    },
+    {
+      "name": "Lucía",
+      "neighborhood": "Gènova",
+      "car": "Audi A3 2016",
+      "body": "Noté unas manchas de óxido en los bajos y me preocupé por el tema del salitre. Me lo subieron al elevador, me enseñaron las zonas afectadas y me explicaron el tratamiento. Me quedé mucho más tranquila. Se agradece que no intenten venderte lo que no necesitas.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda Palma de Mallorca, desde los barrios más céntricos como Foners o Pere Garau hasta las zonas residenciales de Son Vida o Gènova. Si vives o trabajas en municipios cercanos, también somos tu taller. Cubrimos toda el área metropolitana, recibiendo clientes a diario de Marratxí, Calvià (zonas de Palmanova, Magaluf, Santa Ponça) y Llucmajor. Gracias a nuestros fáciles accesos desde las principales vías de la isla como la Vía de Cintura (Ma-20), la autopista de Llevant (Ma-19) o la autopista de Inca (Ma-13), llegar a nuestro taller es cómodo y rápido vengas de donde vengas.",
+  "zoneNeighborhoods": [
+    "Santa Catalina",
+    "El Terreno",
+    "Son Espanyolet",
+    "Foners",
+    "Pere Garau",
+    "S'Arenal",
+    "Son Vida",
+    "Marratxí",
+    "Calvià",
+    "Llucmajor"
+  ],
+  "zoneAccessRoutes": [
+    "Ma-20 (Vía de Cintura)",
+    "Ma-19 (Autopista de Llevant)",
+    "Ma-13 (Autopista d'Inca)",
+    "Ma-1 (Autopista de Ponent)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿La revisión que hacéis tiene en cuenta la corrosión por el salitre de Palma?",
+      "a": "Sí, totalmente. Es uno de nuestros puntos clave de inspección. No nos limitamos a la mecánica general; levantamos el coche y revisamos a fondo el estado del chasis, línea de escape, suspensiones y conductos de freno, que son las zonas más afectadas por la salinidad del ambiente marino de Mallorca. Si detectamos corrosión incipiente, te informamos y te proponemos soluciones para frenarla."
+    },
+    {
+      "q": "Mi aire acondicionado enfría poco, ¿es normal con el calor de aquí?",
+      "a": "Aunque el calor intenso exige más al sistema, no es normal que enfríe poco. Suele ser síntoma de falta de gas por una pequeña fuga o de un compresor que no trabaja eficientemente. En Palma, un A/C en perfecto estado es vital. Lo revisamos, detectamos el origen del problema y lo solucionamos para que puedas combatir el calor del verano sin problemas."
+    },
+    {
+      "q": "Vivo en Marratxí y bajo a Palma a diario. ¿Qué debería vigilar en mi coche?",
+      "a": "Ese trayecto diario, especialmente con el tráfico de la Ma-13 y la Vía de Cintura, implica un uso intensivo de embrague y frenos. Te recomendamos revisiones periódicas del grosor de las pastillas y discos de freno, así como del tacto del pedal de embrague. Un mantenimiento preventivo en estos elementos te evitará averías más caras y te garantizará seguridad en tus desplazamientos."
+    },
+    {
+      "q": "¿Preparáis el coche para la ITV de Son Oms?",
+      "a": "Por supuesto. Realizamos una inspección Pre-ITV completa siguiendo los mismos criterios que aplican en la estación de Son Oms (o la de Inca, si te va mejor). Nos centramos en los puntos de fallo más comunes en la isla: estado de los neumáticos por el calor, opacidad de faros por el sol y holguras en la suspensión por el estado de algunas carreteras secundarias."
+    },
+    {
+      "q": "El sol ha dejado los plásticos del interior de mi coche blanquecinos, ¿tiene solución?",
+      "a": "Sí, es un problema estético muy común en Mallorca por la intensidad del sol. Dependiendo del grado de deterioro, existen tratamientos de hidratación y acondicionado de plásticos que pueden recuperar gran parte de su color y aspecto original. Si el daño es muy severo, también podemos presupuestar la sustitución de las piezas afectadas. Consúltanos y vemos tu caso."
+    },
+    {
+      "q": "¿Por qué mis neumáticos parecen durar menos en Mallorca?",
+      "a": "El asfalto en verano alcanza temperaturas muy altas, lo que acelera el desgaste del compuesto de goma del neumático. Además, la combinación de rotondas, tráfico urbano y carreteras de curvas en la sierra exige más a las ruedas que una conducción lineal por autopista. Por eso es crucial revisar la presión y el estado de los neumáticos con más frecuencia aquí."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto para Palma",
+  "closingCta": "Pide tu presupuesto cerrado para nuestro taller en Palma. Llámanos o escríbenos por WhatsApp y te atenderemos sin compromiso. Tu coche te lo agradecerá."
+}

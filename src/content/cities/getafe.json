@@ -1,0 +1,192 @@
+{
+  "slug": "getafe",
+  "name": "Getafe",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 187525,
+  "lat": 40.30571,
+  "lng": -3.73295,
+  "metaTitle": "Taller mecánico en Getafe — Multimarca y de confianza",
+  "metaDescription": "Tu taller multimarca en Getafe. Presupuesto cerrado para revisiones, averías, neumáticos e ITV. Cuidamos tu coche del desgaste de la A-42 y el clima de Madrid.",
+  "heroSubtitle": "Harto de los atascos en la A-42 y el calor del verano? Tu coche sufre. Dale el mantenimiento que necesita en Getafe, sin sorpresas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir en Getafe no es como hacerlo en cualquier otro sitio. Lo sabemos porque, como tú, cada día cogemos el coche para ir a trabajar, llevar a los niños al colegio o meternos en la A-42 dirección Madrid. Entendemos perfectamente lo que supone el atasco mañanero a la altura de Villaverde, el tráfico denso de la M-45 para ir a Leganés o el 'para y arranca' constante por la calle Madrid. Este ritmo diario castiga tu coche de una forma muy específica. El embrague de tu SEAT León sufre en cada retención, los frenos de tu Renault Mégane se desgastan más rápido y la caja de cambios de tu furgoneta de reparto por los polígonos de San Marcos o Los Olivos trabaja a destajo. No es una sensación tuya, es una realidad mecánica.\n\nEl parque automovilístico de Getafe y de todo el sur de Madrid es eminentemente práctico: coches diésel y gasolina de entre 5 y 15 años, pensados para ser fiables y aguantar miles de kilómetros al año. Pero esa fiabilidad depende de un mantenimiento adaptado. El clima continental de la meseta es otro factor clave que no podemos ignorar. Veranos con más de 35 grados que ponen al límite el sistema de refrigeración y el aire acondicionado, especialmente en un atasco en la M-50. Inviernos fríos y secos que debilitan la batería y hacen que el arranque por la mañana en barrios nuevos como Los Molinos o El Bercial sea una lotería si no está en buen estado. Este contraste térmico acelera el envejecimiento de plásticos, manguitos y neumáticos.\n\nPor eso, el mantenimiento de un coche en Getafe va más allá de un simple cambio de aceite. Requiere entender que un diésel que hace muchos kilómetros por la A-4 pero también callejea por Getafe Central o Las Margaritas, puede tener problemas con el filtro de partículas (DPF) o la válvula EGR. Requiere saber que la suspensión sufre tanto en los badenes del Sector III como en las juntas de dilatación de los viaductos de las autovías. Nosotros no vemos solo un coche, vemos un coche que circula por Getafe, con sus particularidades y sus necesidades concretas.\n\nNuestro enfoque es sencillo: aplicar nuestro conocimiento del entorno local para darte un diagnóstico honesto y una solución duradera. No te vamos a contar historias. Si el problema es por el tipo de conducción que te exige la zona, te lo diremos y te aconsejaremos. Si una pieza está a punto de fallar por el calor extremo, te avisaremos antes de que te deje tirado. Queremos ser tu taller de confianza en Getafe, el sitio al que vienes sabiendo que entendemos tu coche y tu día a día, ofreciéndote siempre un presupuesto cerrado para que no haya sorpresas.",
+  "servicesIntro": "Desde la revisión para pasar la ITV sin problemas hasta el cambio de embrague desgastado por los atascos de la A-42, cubrimos todo lo que tu coche necesita en Getafe.",
+  "processIntro": "Trabajamos con total transparencia. Recibes un presupuesto detallado y cerrado. No movemos un solo tornillo de tu coche sin tu autorización previa.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le pasa a tu coche y utilizamos nuestra experiencia y equipos de diagnosis para identificar la avería con precisión. Analizamos el problema pensando en el uso que le das en Getafe y sus alrededores."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto claro y por escrito, sin letra pequeña. El precio que ves es el que pagas. Detallamos mano de obra y piezas para que sepas exactamente en qué se invierte tu dinero."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No empezamos ninguna reparación hasta que nos das tu visto bueno. Si durante el proceso encontramos algo nuevo, te llamamos, te lo explicamos y te damos un nuevo presupuesto. Tú siempre tienes el control."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas con garantía y seguimos los procedimientos del fabricante. Nuestro equipo de mecánicos se encarga de que la reparación sea fiable y duradera, para que vuelvas a la carretera con total seguridad."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, podemos contactarte para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+    }
+  ],
+  "commonIssuesIntro": "El tráfico denso en las autovías como la A-42 y el M-45, junto al clima extremo de Madrid, provocan averías muy características que vemos a diario en nuestro taller de Getafe.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos por atascos",
+      "body": "El ciclo constante de acelerar y frenar en los atascos de la A-42 o al circular por el centro de Getafe pasa factura. El embrague y los discos de freno se desgastan prematuramente. Realizamos sustituciones con componentes de calidad para asegurar una respuesta óptima y duradera, adaptada a la exigencia de la conducción en el sur de Madrid."
+    },
+    {
+      "title": "Averías en el Aire Acondicionado",
+      "body": "En julio y agosto, con el asfalto ardiendo, el aire acondicionado no es un lujo, es una necesidad. El calor extremo de Getafe fuerza el sistema al máximo, provocando fugas de gas, fallos en el compresor o averías eléctricas. Diagnosticamos el problema y lo reparamos para que no te derritas en la M-50."
+    },
+    {
+      "title": "Filtro de partículas (DPF) obstruido",
+      "body": "Muchos diésel en Getafe combinan trayectos largos por autovía con recorridos cortos por la ciudad. Esta mezcla es fatal para el DPF, que no llega a regenerarse y acaba obstruyéndose, provocando pérdida de potencia y averías costosas. Realizamos limpiezas y regeneraciones forzadas para evitar la sustitución."
+    },
+    {
+      "title": "Baterías que fallan con el frío",
+      "body": "Las mañanas de invierno en Getafe, con temperaturas bajo cero, son la prueba de fuego para cualquier batería. Si tu coche duerme en la calle en barrios como El Bercial o Getafe Norte, es probable que una batería con más de 4 años te deje tirado. Comprobamos su estado y la sustituimos si es necesario."
+    },
+    {
+      "title": "Suspensión y neumáticos castigados",
+      "body": "Entre los badenes de zonas residenciales como Sector III y los baches de algunos polígonos industriales, la suspensión y los neumáticos sufren un desgaste constante. Unos amortiguadores en mal estado no solo son incómodos, sino peligrosos. Revisamos todo el sistema para garantizar tu seguridad en carretera."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de Getafe",
+      "body": "Vemos a diario los mismos modelos y problemas. Sabemos qué falla en un diésel que hace la A-42 todos los días y qué necesita un gasolina que apenas sale del casco urbano. Esta experiencia nos permite ir directos al grano."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "La confianza empieza por la claridad. El presupuesto que te damos es el que pagas. Si surge un imprevisto, paramos y te consultamos. Sin sorpresas en la factura final, garantizado."
+    },
+    {
+      "title": "Diagnóstico honesto, no vendedor",
+      "body": "Te diremos qué es urgente reparar para tu seguridad y qué puede esperar. No intentaremos 'colarte' reparaciones innecesarias. Nuestro objetivo es que vuelvas, no que pagues una factura abultada una sola vez."
+    },
+    {
+      "title": "Trabajamos con todas las marcas",
+      "body": "Desde el Dacia de un vecino de Perales del Río hasta el BMW de alguien de El Bercial. Tenemos el conocimiento y el equipo para trabajar con la mecánica y la electrónica de prácticamente cualquier coche del mercado."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Todo nuestro trabajo y las piezas que instalamos están cubiertos por la garantía legal. Puedes estar tranquilo sabiendo que respondemos por lo que hacemos. Tu seguridad y satisfacción son nuestra prioridad."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de clientes y situaciones que atendemos. Los nombres y coches son simulados, pero los problemas y la satisfacción son muy reales en Getafe.",
+  "testimonials": [
+    {
+      "name": "Carlos",
+      "neighborhood": "Getafe Norte",
+      "car": "SEAT León TDI 2016",
+      "body": "Hago Getafe-Madrid todos los días por la A-42 y el embrague empezó a patinar en los atascos. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial. Cumplieron el plazo y el coche va perfecto ahora. Muy profesionales y transparentes.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "El Bercial",
+      "car": "Peugeot 2008 2018",
+      "body": "El aire acondicionado dejó de enfriar en plena ola de calor. Con dos niños pequeños, era una urgencia. Me dieron cita rápido, encontraron la fuga y lo solucionaron en el día. Me explicaron todo el proceso, lo que se agradece.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Sector III",
+      "car": "Ford Focus 2012",
+      "body": "Me tumbaron en la ITV por los gases. Estaba preocupado por si era una avería cara. Lo diagnosticaron rápido, era la válvula EGR. Me dieron un precio razonable, lo arreglaron y pasó la inspección sin problemas. Un alivio.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Los Molinos",
+      "car": "Renault Clio 2015",
+      "body": "Le tocaba la revisión gorda con cambio de correa de distribución. Pedí varios presupuestos y el suyo fue el más claro y competitivo. Me inspiraron confianza desde el primer momento y el trato fue muy cercano. El coche va como la seda.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Getafe, sin importar en qué barrio vivas. Tanto si vienes de zonas consolidadas como Getafe Central, Juan de la Cierva o La Alhóndiga, como de los nuevos desarrollos de El Bercial, Los Molinos o Buenavista, nuestro taller está a tu disposición. Además, por nuestra ubicación estratégica y excelentes comunicaciones, muchos de nuestros clientes vienen de municipios cercanos. Recibimos a diario conductores de Leganés, Fuenlabrada, Pinto e incluso de barrios del sur de Madrid como Villaverde, que acceden fácilmente a través de la A-42, la M-45 o la M-50. Si trabajas en los polígonos de San Marcos o Los Olivos, también somos tu taller de proximidad.",
+  "zoneNeighborhoods": [
+    "Getafe Norte",
+    "El Bercial",
+    "Sector III",
+    "Los Molinos",
+    "Getafe Central",
+    "Juan de la Cierva",
+    "Perales del Río",
+    "Leganés",
+    "Pinto",
+    "Fuenlabrada"
+  ],
+  "zoneAccessRoutes": [
+    "A-4 (Autovía de Andalucía)",
+    "A-42 (Autovía de Toledo)",
+    "M-50",
+    "M-45",
+    "M-406"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la pre-ITV? ¿Qué miráis para pasarla sin problemas en Getafe?",
+      "a": "Sí, realizamos una revisión pre-ITV muy completa. Nos centramos en los puntos críticos que más miran en las estaciones de la zona, como la de Getafe o las cercanas de Leganés. Ponemos especial atención a las emisiones de gases, sobre todo en los diésel por los protocolos de Madrid, así como a frenos, suspensión, neumáticos y alumbrado. El objetivo es que vayas a la inspección con la máxima garantía de pasarla a la primera."
+    },
+    {
+      "q": "Mi diésel hace trayectos cortos por Getafe, ¿qué mantenimiento necesita?",
+      "a": "Es un caso muy común. Este tipo de uso es perjudicial para los sistemas anticontaminación como el filtro de partículas (DPF) y la válvula EGR. Te recomendamos usar un aceite de calidad específico para DPF y, al menos una vez cada dos semanas, salir a carretera (la M-50 es ideal para esto) y conducir unos 20 minutos a un régimen más alto para forzar la regeneración del filtro. En el taller podemos hacer revisiones y limpiezas preventivas."
+    },
+    {
+      "q": "Necesito el coche para ir a trabajar a Madrid, ¿tenéis coche de cortesía?",
+      "a": "Sí, disponemos de coche de cortesía para nuestros clientes, aunque está sujeto a disponibilidad. Entendemos que para muchos, como los que se desplazan a diario a Madrid, el coche es indispensable. Por eso, te recomendamos solicitarlo al pedir tu cita para asegurarte de que tienes uno reservado para ti durante la reparación."
+    },
+    {
+      "q": "Vivo en Leganés, ¿me pilla muy a desmano vuestro taller?",
+      "a": "Para nada. Estamos muy bien comunicados con Leganés. Dependiendo de la zona, puedes llegar en pocos minutos a través de la M-406 o cogiendo un tramo de la M-45 o M-50. Muchos de nuestros clientes son de Leganés y Fuenlabrada y valoran la facilidad de acceso y la comodidad para dejar y recoger el coche."
+    },
+    {
+      "q": "En verano, la aguja de la temperatura sube en los atascos de la A-4, ¿es grave?",
+      "a": "No es normal y deberías revisarlo cuanto antes. Puede ser un síntoma de que el sistema de refrigeración no funciona al 100% (electroventilador, termostato, radiador sucio o falta de líquido refrigerante). Con el calor extremo de Getafe en verano, un sobrecalentamiento en un atasco puede provocar una avería muy grave en el motor. Es mejor prevenir."
+    },
+    {
+      "q": "¿Qué neumáticos recomendáis para el clima de Getafe?",
+      "a": "Dado el clima de Getafe, con veranos muy calurosos y secos e inviernos fríos, la opción más versátil son los neumáticos 'all-season' (todo tiempo) de buena calidad, que ofrecen un buen rendimiento todo el año. Si prefieres el máximo agarre, lo ideal es tener un juego de verano, que soporta muy bien el asfalto caliente, y uno de invierno para los meses más fríos y húmedos."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Getafe",
+  "closingCta": "No dejes que una avería te complique el día a día. Pide tu presupuesto cerrado para tu coche en Getafe por teléfono, WhatsApp o a través de nuestro formulario online. Te daremos una solución clara y honesta.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Getafe",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@taller-madrid.es",
+    "addressStreet": ""
+  }
+}

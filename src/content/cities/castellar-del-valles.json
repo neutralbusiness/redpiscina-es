@@ -1,0 +1,182 @@
+{
+  "slug": "castellar-del-valles",
+  "name": "Castellar del Vallès",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 24036,
+  "lat": 41.61667,
+  "lng": 2.08333,
+  "metaTitle": "Taller mecánico en Castellar del Vallès — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Castellar del Vallès. Presupuesto cerrado para revisiones, averías y neumáticos. Pide cita y evita sorpresas en la factura.",
+  "heroSubtitle": "Harto de los atascos en la C-58 para ir a trabajar y de no saber cuánto te costará la reparación? Te damos un presupuesto claro y sin sorpresas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Castellar del Vallès y sus alrededores tiene sus particularidades. Muchos de nosotros cogemos el coche cada día para ir a trabajar a Sabadell, Terrassa o incluso Barcelona, lo que significa un uso intensivo de la C-1415a y sufrir los atascos de la C-58. Este trayecto diario, con sus constantes paradas y arranques, es una prueba de fuego para embragues, frenos y, en los diésel más modernos, para el sistema de filtro de partículas. No es un uso de autopista tranquilo; es un desgaste continuo que conocemos muy bien porque también lo vivimos.\n\nEl clima del Vallès también juega su papel. Los veranos son calurosos y secos, poniendo al límite el sistema de aire acondicionado y la refrigeración del motor. ¿Quién no ha necesitado el aire a tope subiendo hacia Sant Llorenç Savall en pleno agosto? Por otro lado, los inviernos son fríos y húmedos, especialmente en las zonas más cercanas al Ripoll, lo que castiga las baterías y puede provocar problemas de arranque en la mañana más inesperada. Este contraste térmico acelera el envejecimiento de plásticos, gomas y líquidos del vehículo, algo que tenemos muy presente en cada revisión.\n\nEl parque móvil de Castellar es un reflejo de su gente: coches de familias que viven en urbanizaciones como Can Font o El Racó, utilitarios para moverse por el centro y, por supuesto, las furgonetas de los autónomos y empresas del polígono Pla de la Bruguera. Vemos a diario SEAT León, Peugeot 3008, Renault Clio y Volkswagen Golf, pero también Citroën Berlingo y Ford Transit. Entendemos que cada vehículo tiene un propósito y unas necesidades de mantenimiento distintas, ya sea para llevar a los niños al colegio o para ganarse la vida repartiendo material.\n\nPor eso, nuestro enfoque en Castellar es práctico y honesto. No te hablaremos con tecnicismos innecesarios. Te explicaremos por qué los neumáticos se desgastan de esa manera por las rotondas de la Ronda de Llevant o por qué tu diésel necesita una limpieza de la EGR por los trayectos cortos dentro del pueblo. Nuestro objetivo es que tu coche, sea el que sea, esté siempre a punto para enfrentarse a la rutina del Vallès, con la seguridad de un presupuesto cerrado y la confianza de un taller que entiende tu realidad.",
+  "servicesIntro": "Ya sea para la revisión del coche familiar antes de ir de vacaciones o para reparar una avería en tu furgoneta de trabajo, en Castellar lo solucionamos.",
+  "processIntro": "Creemos que la confianza se gana con transparencia. Por eso, en nuestro taller de Castellar, siempre sabrás qué le pasa a tu coche y cuánto costará.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y nuestros técnicos realizan una inspección completa para identificar el origen del problema con precisión. No dejamos nada al azar."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado y sin sorpresas por WhatsApp o email. Incluye mano de obra y piezas, explicando claramente cada concepto. El precio que ves es el que pagas."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No movemos ni un tornillo sin tu aprobación explícita. Revisas el presupuesto con calma y, solo cuando nos das el visto bueno, empezamos a trabajar en tu coche."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado sobre el progreso y los plazos de entrega para que te organices sin problemas."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando recoges el coche, te explicamos la reparación realizada. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario por la Carretera de Castellar, el clima del Vallès y los trayectos cortos por el pueblo provocan averías muy concretas que conocemos y solucionamos a diario.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El trayecto diario a Sabadell por la C-1415a y los atascos en la C-58 fuerzan el embrague y los frenos. Este ciclo de parar y arrancar reduce su vida útil. Realizamos revisiones específicas de estos componentes y sustituimos pastillas, discos o el kit de embrague con materiales de alta durabilidad, pensados para el tráfico del Vallès."
+    },
+    {
+      "title": "Filtro de partículas (FAP) obstruido",
+      "body": "Muchos diésel que circulan por Castellar hacen trayectos cortos, sin dar tiempo a que el FAP se regenere. Esto provoca pérdida de potencia y averías costosas. En nuestro taller, realizamos limpiezas forzadas y diagnosticamos el sistema para encontrar una solución duradera y evitar que el problema vuelva a aparecer."
+    },
+    {
+      "title": "Fallos en el sistema de aire acondicionado",
+      "body": "El calor intenso del verano en el Vallès exige el máximo al climatizador. Las fugas de gas, compresores averiados o filtros sucios son habituales. Hacemos una diagnosis completa del circuito, recargamos el gas y reparamos cualquier componente para que vuelvas a pasar los veranos sin sudar en el coche."
+    },
+    {
+      "title": "Baterías y problemas de arranque en invierno",
+      "body": "Las mañanas frías y húmedas de Castellar son el peor enemigo de una batería con algunos años. Si notas que a tu coche le cuesta arrancar, es mejor prevenir. Comprobamos el estado de tu batería y el alternador y, si es necesario, la sustituimos por una de calidad para que no te deje tirado."
+    },
+    {
+      "title": "Ruidos y holguras en la suspensión",
+      "body": "Entre badenes, rotondas y algún que otro tramo de asfalto irregular en las urbanizaciones, los amortiguadores, silentblocks y rótulas sufren. Si notas ruidos extraños o inestabilidad, revisamos a fondo el tren de rodaje para garantizar tu seguridad y confort en las carreteras locales como la B-124."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos tu día a día",
+      "body": "Sabemos lo que es conducir por Castellar y el Vallès. Por eso, nuestras revisiones y reparaciones están pensadas para los problemas reales que tu coche afronta aquí, desde los atascos hasta el clima."
+    },
+    {
+      "title": "Presupuesto sin letra pequeña",
+      "body": "Te damos un precio cerrado, claro y por escrito. Lo que apruebas es lo que pagas al final. Cero sorpresas en la factura, ese es nuestro compromiso contigo."
+    },
+    {
+      "title": "Para todas las marcas del pueblo",
+      "body": "Reparamos el SEAT de la familia, el Volkswagen del trabajo o el Peugeot para el día a día. Conocemos las marcas más comunes en Castellar y tenemos el equipo para cuidarlas todas."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "No te haremos cambiar piezas que no lo necesitan. Te explicamos qué le pasa a tu coche, qué es urgente y qué puede esperar. Tu confianza es nuestra prioridad."
+    },
+    {
+      "title": "Cerca de ti, en Castellar",
+      "body": "No tienes que desplazarte a Sabadell o Terrassa para encontrar un taller de calidad. Te ofrecemos un servicio profesional y de confianza aquí mismo, en tu pueblo."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Castellar del Vallès y cómo les hemos ayudado a seguir en marcha con sus coches y furgonetas.",
+  "testimonials": [
+    {
+      "name": "Anna",
+      "neighborhood": "Centre",
+      "car": "SEAT Ibiza 1.2 TSI 2016",
+      "body": "Uso el coche cada día para ir a la oficina en Sabadell y el embrague empezaba a patinar. Me daba pánico la factura. Aquí me dieron un presupuesto cerrado, más bajo de lo que esperaba, y en dos días lo tenía listo. El trato fue súper cercano, me explicaron todo muy bien. ¡Totalmente recomendable!",
+      "rating": 5
+    },
+    {
+      "name": "Jordi",
+      "neighborhood": "Can Font",
+      "car": "Peugeot 3008 HDI 2018",
+      "body": "Antes de irnos de vacaciones con los niños, quería hacer una revisión completa. Me revisaron niveles, frenos, neumáticos... todo. Me advirtieron que las pastillas traseras estaban a media vida, pero sin meterme prisa para cambiarlas. Esa honestidad se agradece mucho. Viajamos mucho más tranquilos.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Pla de la Bruguera",
+      "car": "Citroën Berlingo 2015",
+      "body": "Soy autónomo y la furgoneta es mi herramienta de trabajo. Se me encendió una luz de avería de motor y perdía fuerza. La llevé por la mañana y por la tarde ya tenían el diagnóstico: un problema con la EGR. Al día siguiente la tenía reparada. Eficaces y entienden que no puedo estar parado.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "El Racó",
+      "car": "Volkswagen Golf TDI 2013",
+      "body": "Me echaron para atrás la ITV por los gases. Estaba agobiada porque necesitaba el coche sí o sí. Los llamé, lo llevé y encontraron el problema rápido. Hicieron la reparación y una pre-ITV. Volví a pasarla sin ningún fallo. Me salvaron de un buen lío. El precio fue correcto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio principalmente a conductores de todo Castellar del Vallès, desde el núcleo urbano hasta urbanizaciones como Can Font, Airesol, El Racó o Sant Feliu del Racó. Nuestra ubicación nos permite ser el taller de referencia para los profesionales y empresas del Polígon Industrial Pla de la Bruguera. Además, muchos de nuestros clientes vienen de municipios cercanos como Sentmenat y Sant Llorenç Savall, buscando un trato más personal y honesto. Estamos perfectamente comunicados a través de la Carretera de Castellar (C-1415a) y la carretera B-124, lo que facilita el acceso desde cualquier punto de la comarca y nos sitúa a pocos minutos de los accesos a vías rápidas como la C-58.",
+  "zoneNeighborhoods": [
+    "Castellar Centre",
+    "Can Font",
+    "El Racó",
+    "Airesol",
+    "Sant Feliu del Racó",
+    "Pla de la Bruguera",
+    "Can Carner",
+    "Verge de la Salut",
+    "Sentmenat",
+    "Sant Llorenç Savall"
+  ],
+  "zoneAccessRoutes": [
+    "C-1415a (Carretera de Castellar)",
+    "B-124",
+    "C-58 (vía Sabadell)",
+    "AP-7 (vía Sabadell)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Vale la pena reparar mi diésel si solo me muevo por Castellar y Sabadell?",
+      "a": "Sí, totalmente. El problema de los diésel en trayectos cortos es la acumulación de carbonilla en sistemas como el filtro de partículas (FAP) o la válvula EGR. En nuestro taller no solo reparamos la avería, sino que te asesoramos sobre cómo realizar un mantenimiento preventivo, como salir a carretera de vez en cuando para forzar la regeneración. Una reparación a tiempo siempre es más económica que una avería grave del motor."
+    },
+    {
+      "q": "Mi coche sufre mucho en los atascos de la C-58, ¿qué revisión especial necesita?",
+      "a": "El tráfico denso castiga especialmente el embrague, los frenos y el sistema de refrigeración. Recomendamos revisar el nivel y estado del líquido de frenos anualmente, así como el grosor de pastillas y discos. También es crucial verificar el estado del kit de embrague si notas que el pedal está duro o patina. Una revisión del sistema de refrigeración antes del verano evitará calentones en pleno atasco."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Sabadell, ¿ofrecéis servicio Pre-ITV?",
+      "a": "Sí, por supuesto. Es uno de nuestros servicios más demandados. Hacemos una revisión exhaustiva de los mismos puntos que miran en la estación de ITV de Sabadell: luces, frenos, suspensión, neumáticos y emisiones de gases. Si detectamos cualquier problema, te damos un presupuesto para solucionarlo y que puedas ir a la inspección con la total tranquilidad de que la pasarás a la primera."
+    },
+    {
+      "q": "Vivo en una urbanización como Can Font, ¿el desgaste del coche es diferente?",
+      "a": "Sí, puede haber diferencias. Conducir por urbanizaciones a menudo implica más cuestas, curvas cerradas y badenes. Esto puede generar un mayor desgaste en la suspensión (amortiguadores, silentblocks) y en los frenos. En nuestras revisiones prestamos especial atención a estos elementos para garantizar tu seguridad y la de tu familia en los trayectos diarios."
+    },
+    {
+      "q": "El aire acondicionado no enfría para el calor del Vallès, ¿qué puede ser?",
+      "a": "El calor extremo del Vallès en verano pone a prueba el sistema de A/C. Las causas más comunes son una fuga en el circuito que ha provocado la pérdida del gas refrigerante, un fallo en el compresor o un filtro de habitáculo obstruido. Realizamos una diagnosis completa para localizar el problema exacto, desde la detección de fugas con nitrógeno hasta la reparación del compresor, para que tu coche vuelva a ser un refugio contra el calor."
+    },
+    {
+      "q": "Soy autónomo en el polígono Pla de la Bruguera, ¿tenéis experiencia con furgonetas?",
+      "a": "Absolutamente. Entendemos que tu furgoneta es tu oficina y tu herramienta. Conocemos perfectamente los modelos más habituales como la Berlingo, Partner, Transit o Caddy y sus averías típicas, relacionadas con el uso intensivo. Priorizamos las reparaciones de vehículos profesionales para que puedas volver al trabajo lo antes posible, ofreciendo un servicio rápido, fiable y con un presupuesto claro."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Castellar del Vallès",
+  "closingCta": "No dejes que una avería te complique el día a día. Pide tu presupuesto cerrado en nuestro taller de Castellar del Vallès. Llámanos o envíanos un mensaje y te responderemos enseguida para darte una solución."
+}

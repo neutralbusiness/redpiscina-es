@@ -1,0 +1,186 @@
+{
+  "slug": "corbera-de-llobregat",
+  "name": "Corbera de Llobregat",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 13843,
+  "lat": 41.41702,
+  "lng": 1.9197,
+  "metaTitle": "Taller mecánico en Corbera de Llobregat — Presupuesto cerrado",
+  "metaDescription": "¿Nuevo en Corbera de Llobregat y buscas un taller honesto? Entendemos el desgaste de sus cuestas. Presupuesto cerrado y sin sorpresas. Pide tu cita.",
+  "heroSubtitle": "¿Acabas de mudarte a Corbera y no sabes en qué mecánico confiar? Entendemos las cuestas, la humedad y el desgaste real que sufre tu coche aquí.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si acabas de instalarte en Corbera de Llobregat, bienvenido. Seguramente ya te has dado cuenta de que conducir aquí no tiene nada que ver con moverse por el llano de Barcelona o el Baix Llobregat. Aquí, el coche no es un lujo, es una necesidad para subir a urbanizaciones como Can Margarit o la Creu de l’Aragall, o simplemente para hacer la compra. Y con esa necesidad, llega la pregunta del millón para cualquier recién llegado: ¿dónde encuentro un taller que entienda de verdad cómo se vive y se conduce en este pueblo? Un sitio donde no te traten como a un turista y comprendan que el trayecto diario por la BV-2421 hacia La Palma o la rotonda para coger la A-2 no es un paseo, sino un desgaste constante para la mecánica. Aquí, un embrague, unos frenos o una suspensión no sufren lo mismo que en un terreno plano. Nosotros partimos de esa realidad: tu coche tiene un estrés mecánico específico por el simple hecho de vivir en Corbera, y tu taller debe saberlo.\n\nVamos a ser claros. La orografía de Corbera es el principal factor que determina la salud de tu vehículo. Cada vez que subes desde Corbera Baixa hacia las urbanizaciones de arriba, tu motor trabaja a un régimen más alto y durante más tiempo para vencer la gravedad. El sistema de refrigeración se pone a prueba, sobre todo en los atascos de verano para salir del pueblo. Al bajar, son los frenos los que se llevan la peor parte. No es un desgaste lineal; es un abuso constante que sobrecalienta los discos y cristaliza las pastillas si no son de la calidad adecuada. Lo mismo ocurre con el embrague en los coches manuales. Cada arranque en cuesta, cada maniobra para aparcar en una rampa empinada en zonas como Can Rialb, es un pequeño mordisco a la vida útil del disco. Un mecánico que no tenga esto en cuenta te montará un recambio estándar que durará la mitad de lo que debería. Nosotros no solo reparamos la avería; te explicamos por qué ha ocurrido y qué tipo de pieza es la más adecuada para el trote que le das a tu coche en estas carreteras.\n\nAl factor geográfico se suma el clima pre-litoral de la zona. En invierno, la humedad que sube del valle del Llobregat se asienta en el pueblo, generando una condensación que puede ser letal para los componentes electrónicos y, sobre todo, para la batería. Un coche que duerme en la calle en una urbanización como Cases Pairals sufre más que uno en un garaje del Eixample. Esas mañanas frías y húmedas son la prueba de fuego para un sistema de arranque que ya tiene unos años. En verano, el calor intenso pone al límite el circuito del aire acondicionado, un elemento que aquí no es de confort, sino de seguridad. El contraste térmico y las vibraciones constantes en carreteras secundarias con asfalto irregular son la receta perfecta para microfugas en el circuito que un taller genérico puede tardar horas en encontrar. Entender esta estacionalidad nos permite anticiparnos a los problemas más comunes y aconsejarte en mantenimientos preventivos que te ahorrarán una buena pasta a largo plazo.\n\nPor eso, si eres nuevo en Corbera, no estás buscando simplemente un 'cambiapiezas'. Necesitas un equipo que funcione como ese vecino de toda la vida que te da una buena recomendación, pero con la garantía y profesionalidad de una red nacional. Un taller que cuando le digas que 'el coche hace un ruido raro al bajar la cuesta de la farmacia' sepa exactamente a qué te refieres. Que entienda que tus neumáticos necesitan un buen agarre para las curvas mojadas de la carretera de Gelida y que tu aceite debe tener la viscosidad correcta para proteger un motor que trabaja forzado. Dejamos de lado el marketing vacío para centrarnos en el diagnóstico honesto y la reparación duradera, pensada por y para las condiciones únicas de Corbera de Llobregat. Queremos ser ese primer contacto de confianza para el cuidado de tu coche, ahora que has elegido este increíble pero exigente lugar para vivir.",
+  "servicesIntro": "Desde la revisión anual hasta esa avería compleja que te ha dejado tirado en una cuesta, cubrimos todas las necesidades de tu coche en Corbera.",
+  "processIntro": "Trabajamos con total transparencia. Recibes un presupuesto cerrado y detallado por WhatsApp o email, y no movemos un tornillo sin tu aprobación explícita.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le pasa a tu coche y lo conectamos a nuestros equipos de diagnosis. Analizamos tanto los fallos electrónicos como los síntomas mecánicos que nos describes para encontrar el origen real del problema."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado con el coste de las piezas y la mano de obra. Lo que ves es lo que pagas, sin sorpresas ni costes ocultos de última hora. Todo claro desde el principio."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisas la propuesta tranquilamente. Si tienes cualquier duda, nos llamas y te la resolvemos. La reparación solo comienza cuando nos das tu visto bueno de forma explícita. Tú tienes siempre el control."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros técnicos realizan la reparación siguiendo los estándares del fabricante y te mantenemos informado si surgiera cualquier imprevisto, aunque no es lo habitual."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+    }
+  ],
+  "commonIssuesIntro": "La combinación de cuestas, humedad y el tipo de trayectos diarios en Corbera de Llobregat provoca una serie de averías muy características que vemos a diario en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de frenos",
+      "body": "Bajar cada día desde urbanizaciones como Creu de l'Aragall o Can Montmany obliga a un uso intensivo del freno. Este sobrecalentamiento constante provoca que las pastillas se cristalicen y los discos se deformen mucho antes de lo normal. Revisamos todo el sistema y te recomendamos componentes más resistentes a la fatiga térmica."
+    },
+    {
+      "title": "Embragues que patinan y bimasa",
+      "body": "Los arranques en las empinadas rampas de Corbera son el peor enemigo del embrague. El esfuerzo extra para iniciar la marcha quema el disco y fuerza el volante bimasa. Si notas que el coche se revoluciona pero no coge velocidad al subir, es un síntoma claro. Lo diagnosticamos y sustituimos el kit completo."
+    },
+    {
+      "title": "Problemas de suspensión y silentblocks",
+      "body": "Las carreteras sinuosas y el asfalto a veces irregular de las zonas más apartadas castigan los amortiguadores y los silentblocks. Un 'clonk' al pasar un bache o inestabilidad en curva son señales de alerta. Unos amortiguadores en mal estado, además, aumentan la distancia de frenado, algo crítico en nuestras bajadas."
+    },
+    {
+      "title": "Fugas en el sistema de refrigeración",
+      "body": "En verano, el motor de tu coche sufre el doble en las subidas prolongadas para volver a casa. La presión extra en el circuito de refrigeración puede revelar pequeñas fugas en manguitos o en el radiador que en llano pasarían desapercibidas. Una revisión a tiempo evita un sobrecalentamiento grave."
+    },
+    {
+      "title": "Baterías que mueren sin avisar",
+      "body": "La humedad invernal de Corbera, combinada con trayectos cortos dentro del pueblo que no permiten una recarga completa del alternador, agota las baterías prematuramente. Si notas que al coche le cuesta arrancar por la mañana, es mejor comprobar su estado antes de que te deje tirado."
+    },
+    {
+      "title": "Fallo en el filtro de partículas (FAP/DPF)",
+      "body": "Muchos coches diésel no llegan a alcanzar la temperatura óptima para la regeneración del filtro de partículas en los trayectos cortos por el pueblo. Esto provoca obstrucciones y averías costosas. Realizamos limpiezas forzadas y te damos pautas para evitar que vuelva a ocurrir en tus rutas habituales."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos la geografía local",
+      "body": "Sabemos lo que una cuesta del 15% le hace a tu embrague. Nuestro diagnóstico parte del conocimiento real de las carreteras y el clima de Corbera."
+    },
+    {
+      "title": "Presupuesto sin letra pequeña",
+      "body": "Te damos un precio cerrado antes de empezar. Lo que aceptas es lo que pagas. Se acabaron los sustos en la factura final."
+    },
+    {
+      "title": "Reparamos, no solo cambiamos piezas",
+      "body": "Buscamos el origen del problema. No te haremos cambiar medio coche si la avería se puede solucionar con un diagnóstico preciso y una reparación honesta."
+    },
+    {
+      "title": "Pensado para el día a día",
+      "body": "Si necesitas el coche para ir a trabajar a Sant Andreu de la Barca o llevar los niños al colegio, lo entendemos. Ofrecemos soluciones ágiles y coche de cortesía (sujeto a disponibilidad)."
+    },
+    {
+      "title": "Garantía en todas las intervenciones",
+      "body": "Todas nuestras reparaciones y piezas instaladas tienen garantía por escrito. Tu tranquilidad es lo primero para nosotros."
+    }
+  ],
+  "testimonialsIntro": "Aquí tienes algunos ejemplos de situaciones reales que nos encontramos cada día, contadas por conductores de Corbera como tú.",
+  "testimonials": [
+    {
+      "name": "Anna",
+      "neighborhood": "Can Rialb",
+      "car": "Seat León 1.9 TDI 2010",
+      "body": "Me mudé hace un año y mi coche empezó a perder fuerza subiendo la cuesta a casa. En mi antiguo taller no daban con la tecla. Aquí lo diagnosticaron rápido: un manguito del turbo con una pequeña fisura. Se notó que sabían de lo que hablaban y no intentaron venderme un turbo nuevo. Muy honestos.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Corbera Alta",
+      "car": "Renault Clio 2015",
+      "body": "Tenía que pasar la ITV y estaba preocupado por los frenos, que chirriaban al bajar hacia el Pont de les Lletres. Lo traje para una pre-ITV y, efectivamente, las pastillas estaban cristalizadas. Me explicaron por qué pasa esto aquí en Corbera y me montaron unas de mejor calidad. Pasé la ITV sin problemas.",
+      "rating": 5
+    },
+    {
+      "name": "Mireia",
+      "neighborhood": "Creu de l'Aragall",
+      "car": "Peugeot 3008 2018",
+      "body": "Soy nueva en el pueblo y no conocía a nadie. El coche empezó a hacer un ruido metálico en la rueda delantera. Me daba pánico que fuera algo grave. El trato fue súper cercano, me explicaron que era una tontería, una piedrecita entre el disco y el protector. No me cobraron nada. Así se gana un cliente.",
+      "rating": 5
+    },
+    {
+      "name": "Jordi",
+      "neighborhood": "La Palma de Cervelló",
+      "car": "Volkswagen Golf 2016",
+      "body": "Aunque soy del pueblo de al lado, vengo aquí porque un amigo me los recomendó. El aire acondicionado no enfriaba y ya me lo habían 'cargado' en otro sitio. Aquí se tomaron el tiempo de buscar la fuga con un detector. Era una junta minúscula. La reparación tardó un día más de lo previsto, pero me avisaron y el resultado fue perfecto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a todo el término municipal de Corbera de Llobregat, sin importar en qué urbanización vivas. Conocemos perfectamente los accesos y las particularidades de zonas como Corbera Alta, Corbera Baixa, Can Margarit, Can Montmany, Creu de l'Aragall, Can Rialb o Cases Pairals. Si vives en municipios colindantes como La Palma de Cervelló o Pallejà y buscas un taller especializado en las condiciones de conducción de esta zona del Ordal, también eres bienvenido. Nuestro taller está estratégicamente situado para un acceso rápido desde la carretera principal, la BV-2421, y a pocos minutos de los enlaces con vías rápidas como la A-2 y la B-24, facilitando que puedas dejar tu coche de camino al trabajo.",
+  "zoneNeighborhoods": [
+    "Corbera Alta",
+    "Corbera Baixa",
+    "Can Margarit",
+    "Creu de l'Aragall",
+    "Can Montmany",
+    "Can Rialb",
+    "Cases Pairals",
+    "La Palma de Cervelló",
+    "Pallejà",
+    "Sant Andreu de la Barca"
+  ],
+  "zoneAccessRoutes": [
+    "BV-2421",
+    "A-2",
+    "B-24",
+    "N-340"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Qué tipo de neumáticos recomendáis para conducir todo el año en Corbera?",
+      "a": "Dada la variabilidad, con inviernos húmedos y veranos secos, un neumático 'all-season' de buena calidad es una opción muy equilibrada. Ofrece buen agarre en las mañanas frías y mojadas sin desgastarse excesivamente con el calor. Si usas el coche para viajes largos por autopista, un buen neumático de verano y mayor precaución en invierno también es viable. Lo crucial es vigilar la presión y la profundidad del dibujo."
+    },
+    {
+      "q": "Mi coche huele a embrague quemado al aparcar en la rampa de mi garaje. ¿Es normal?",
+      "a": "Puede ser relativamente común si la maniobra es exigente, pero no es una buena señal. Indica que el disco de embrague está patinando y sufriendo un desgaste acelerado. Si te ocurre a menudo, te recomendamos que te pases para que le echemos un vistazo rápido y gratuito. Es mejor revisar el ajuste del cable o el estado del kit antes de que te deje tirado en una cuesta."
+    },
+    {
+      "q": "Al pasar la ITV, ¿en qué os fijáis especialmente para coches de esta zona?",
+      "a": "Además de los puntos estándar, en nuestra pre-ITV ponemos especial atención a los elementos que más sufren en Corbera. Revisamos a fondo todo el sistema de frenado (discos, pastillas, latiguillos y líquido), el estado de los silentblocks y los amortiguadores, y las posibles holguras en la dirección. También comprobamos las emisiones, ya que un motor que trabaja forzado tiende a generar más carbonilla."
+    },
+    {
+      "q": "¿Cada cuánto debo revisar el líquido de frenos si conduzco a diario por aquí?",
+      "a": "El manual de tu coche probablemente diga cada dos años, pero nosotros recomendamos comprobarlo anualmente. El uso intensivo de los frenos en las bajadas de Corbera genera más calor, lo que puede degradar el líquido más rápido. Un líquido en mal estado pierde eficacia y puede darte un buen susto. Es una revisión barata que aporta mucha seguridad."
+    },
+    {
+      "q": "Uso el coche solo para trayectos cortos dentro de Corbera, ¿necesita un mantenimiento especial?",
+      "a": "Sí, totalmente. El uso exclusivo en trayectos cortos es muy perjudicial. El motor no llega a calentarse, lo que crea depósitos de carbonilla, la batería no se recarga bien y el filtro de partículas en los diésel no se regenera. Te aconsejamos usar un aceite de mayor calidad y, de vez en cuando, hacer un trayecto más largo por la A-2 para 'limpiar' el motor."
+    },
+    {
+      "q": "Si os dejo el coche, ¿cómo vuelvo a casa si vivo en una urbanización sin transporte público?",
+      "a": "Entendemos perfectamente el problema. Por eso, además de nuestro servicio de coche de cortesía (siempre sujeto a disponibilidad, por lo que es mejor reservarlo con antelación), en casos de reparaciones rápidas o mantenimientos programados, siempre intentamos buscar una solución para acercarte a tu domicilio si es dentro del mismo municipio. Consúltanos tu caso al pedir cita."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche como se merece en Corbera",
+  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Llámanos o envíanos un WhatsApp y te responderemos lo antes posible para darte una cita en nuestro taller de Corbera de Llobregat."
+}

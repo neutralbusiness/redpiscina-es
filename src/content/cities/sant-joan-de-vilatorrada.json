@@ -1,0 +1,179 @@
+{
+  "slug": "sant-joan-de-vilatorrada",
+  "name": "Sant Joan de Vilatorrada",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 10779,
+  "lat": 41.74549,
+  "lng": 1.80476,
+  "metaTitle": "Taller mecánico en Sant Joan de Vilatorrada — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Sant Joan de Vilatorrada para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Pide tu cita ahora.",
+  "heroSubtitle": "Haces cada día el trayecto a Manresa o coges el Eix? Tu coche necesita estar a punto. Te ayudamos a que no te deje tirado.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives y conduces por Sant Joan de Vilatorrada, sabes que tu coche no es un lujo, es una necesidad. Ya sea para bajar cada mañana a Manresa por la C-55, para llevar a los críos al colegio, para hacer la compra o para escaparte el fin de semana por el Eix Transversal (la C-25), dependes de él. Entendemos perfectamente la vida en el Pla de Bages: no es lo mismo conducir por el centro de Barcelona que moverse por aquí. El coche sufre un desgaste diferente, y nosotros, como mecánicos de la zona, lo conocemos de primera mano. Nuestro taller está pensado para ti, el conductor de Sant Joan, de Sant Fruitós, de Callús o de Fonollosa, que usa un SEAT, un Renault, un Peugeot o una furgoneta para trabajar y necesita que su vehículo sea fiable, seguro y no le dé sorpresas en la factura.\n\nEl clima de nuestra comarca es un factor clave que no se puede ignorar. Los inviernos fríos y con heladas del interior de Cataluña ponen a prueba las baterías cada mañana. ¿A quién no le ha costado arrancar el coche en un enero gélido? Por otro lado, los veranos secos y calurosos hacen que el sistema de refrigeración y el aire acondicionado trabajen a pleno rendimiento, sobre todo en los atascos para entrar o salir de Manresa. Este contraste térmico afecta a los líquidos, a los manguitos y a la presión de los neumáticos. En nuestro taller no solo cambiamos piezas; te aconsejamos sobre el mantenimiento preventivo específico para el clima del Bages, para que el frío no te deje tirado ni el calor te dé un susto.\n\nEl tipo de conducción por la zona también define el mantenimiento. La C-55, con sus rotondas y su tráfico denso en hora punta, es una máquina de desgastar embragues y pastillas de freno. Si es tu ruta diaria, lo notarás. En cambio, si usas a menudo el Eix Transversal (C-25) para ir hacia Vic o Lleida, tu coche circula a alta velocidad y de forma constante, lo que exige un control exhaustivo de neumáticos, alineación y suspensión para garantizar la seguridad. Y no nos olvidemos de las carreteras locales y comarcales que conectan con los pueblos de alrededor, que no siempre están en el mejor estado. Un buen diagnóstico de la suspensión o una revisión de los amortiguadores puede ahorrarte problemas y dinero a largo plazo.\n\nConocemos el parque móvil de Sant Joan de Vilatorrada y alrededores. Vemos a diario los coches que conducís: Volkswagen Golf TDI, SEAT León y Ateca, Peugeot 308, Citroën C4, Dacia Duster y también muchas furgonetas como la Berlingo, la Partner o la Kangoo de profesionales y autónomos que necesitan su herramienta de trabajo siempre a punto. Sabemos qué motores suelen dar más problemas de filtro de partículas por los trayectos cortos, qué modelos tienden a desgastar antes ciertos componentes y cómo optimizar el mantenimiento de cada uno. No tratamos tu coche como uno más, sino como lo que es: un vehículo con un uso y unas necesidades muy concretas, las tuyas.",
+  "servicesIntro": "Tanto si es para la revisión anual antes de ir a la ITV de Manresa como para cambiar el embrague por el trote diario en la C-55, lo cubrimos.",
+  "processIntro": "Un imprevisto con el coche ya es suficiente lío. Por eso nuestro proceso es simple: te damos un presupuesto claro y no hacemos nada sin tu permiso.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Nos cuentas qué le pasa a tu coche y lo escuchamos. Después, nuestros técnicos lo revisan a fondo con equipos de diagnosis modernos para encontrar el origen real del problema, sin rodeos."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado y por escrito. El precio que ves es el que pagas, sin sorpresas ni extras de última hora. Si surge algo nuevo, te informamos antes de continuar."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "El coche es tuyo y tú decides. No pedimos ni una sola pieza ni aflojamos un tornillo hasta que nos das tu visto bueno explícito por teléfono o WhatsApp. Tú tienes el control total."
+    },
+    {
+      "title": "Reparación",
+      "body": "Trabajamos con recambios de primeras marcas, con la misma calidad que los originales y con garantía. Te mantenemos informado del proceso y cumplimos los plazos acordados para que te organices."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Te explicamos la reparación realizada y te lo entregamos limpio. Unos días después, te contactamos para asegurarnos de que todo va perfecto."
+    }
+  ],
+  "commonIssuesIntro": "El clima del Bages, el sube y baja a Manresa y los trayectos cortos por el pueblo provocan averías muy concretas que vemos cada día en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Embrague y frenos gastados por la C-55",
+      "body": "El trayecto diario a Manresa, con sus rotondas, semáforos y tráfico intermitente, castiga mucho el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Diagnosticamos el desgaste y te ofrecemos la mejor solución para que conduzcas seguro."
+    },
+    {
+      "title": "Problemas de batería en invierno",
+      "body": "Las mañanas con heladas en el Pla de Bages son la prueba de fuego para cualquier batería. El frío reduce su rendimiento y, si ya tiene unos años, es probable que te deje tirado. Comprobamos el estado de tu batería y el circuito de carga para que el coche arranque a la primera, incluso en los días más fríos."
+    },
+    {
+      "title": "Filtros de partículas diésel (FAP) obstruidos",
+      "body": "Muchos diésel modernos se usan para trayectos cortos por Sant Joan o pueblos cercanos, sin dar tiempo a que el motor se caliente y regenere el filtro de partículas. Esto provoca averías costosas y pérdida de potencia. Realizamos limpiezas y regeneraciones forzadas para evitar la sustitución completa del filtro."
+    },
+    {
+      "title": "Fallos del aire acondicionado en verano",
+      "body": "Cuando el calor aprieta de verdad en julio y agosto, el aire acondicionado no es un lujo. Las altas temperaturas fuerzan el sistema y pueden provocar fugas de gas o fallos en el compresor. Hacemos cargas de gas, detectamos fugas y reparamos el sistema para que viajes fresco y cómodo."
+    },
+    {
+      "title": "Desgaste de suspensión y neumáticos",
+      "body": "Entre las carreteras comarcales, los badenes del pueblo y algún que otro bache, la suspensión y los neumáticos sufren. Un desgaste irregular de las ruedas o ruidos al pasar por baches son síntomas claros. Revisamos amortiguadores, silentblocks y hacemos el paralelo para alargar la vida de tus neumáticos y mejorar la seguridad."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Somos de aquí",
+      "body": "Conocemos las carreteras, el clima y los coches de Sant Joan de Vilatorrada y el Bages. No te damos soluciones genéricas, sino las que funcionan para tu día a día en la comarca."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "Te damos un precio cerrado antes de empezar. Lo que presupuestamos es lo que pagas. La confianza empieza por la transparencia en la factura."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si llevas un Audi, un Dacia o una furgoneta Ford. Tenemos la experiencia y el equipo para realizar el mantenimiento y las reparaciones de cualquier vehículo con total garantía."
+    },
+    {
+      "title": "Pasa la ITV a la primera",
+      "body": "Sabemos qué miran con lupa en la estación de ITV de Manresa. Hacemos una revisión pre-ITV exhaustiva para que vayas tranquilo y la pases sin defectos."
+    },
+    {
+      "title": "Siempre en contacto",
+      "body": "Te mantenemos informado durante todo el proceso. Cualquier duda, cualquier imprevisto, te llamamos. La comunicación es clave para que estés tranquilo."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales de conductores de Sant Joan y alrededores que confían en nosotros para el mantenimiento de su coche.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Nucli Antic",
+      "car": "SEAT Ateca 1.5 TSI 2019",
+      "body": "Hago cada día el trayecto a Manresa por la C-55 y notaba que los frenos ya no respondían como antes. Me dieron cita rápido, me explicaron que las pastillas estaban en las últimas y me dieron un presupuesto cerrado. En el mismo día lo tenía listo. Muy profesionales y honestos, se agradece.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat",
+      "neighborhood": "Sant Fruitós de Bages",
+      "car": "Renault Clio dCi 2016",
+      "body": "Tenía que pasar la ITV y siempre me da pánico. Les pedí una revisión pre-ITV y me encontraron una luz de matrícula fundida y un silentblock que empezaba a tener holgura. Lo solucionaron todo por un precio razonable y pasé la ITV sin ningún fallo. Ahora voy mucho más tranquila.",
+      "rating": 5
+    },
+    {
+      "name": "Marc",
+      "neighborhood": "Joncadella",
+      "car": "Peugeot Partner 2018",
+      "body": "Soy autónomo y la furgoneta es mi oficina. Se me encendió el testigo de avería de motor y me asusté. Era un problema con el filtro de partículas por hacer tanto trayecto corto. Me hicieron una limpieza y me explicaron cómo evitar que volviera a pasar. Me salvaron de una reparación mucho más cara.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "Callús",
+      "car": "Volkswagen Golf TDI 2014",
+      "body": "El aire acondicionado dejó de enfriar justo al empezar el verano. En otros sitios me daban cita para dos semanas. Aquí me lo cogieron al día siguiente, encontraron una pequeña fuga, la repararon y recargaron el gas. El trato fue muy bueno y el precio me pareció justo. Buen servicio.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio principalmente a conductores de Sant Joan de Vilatorrada, desde el Nucli Antic hasta las zonas de Joncadella o el Sector Llobet. Nuestra ubicación nos convierte en el taller de confianza para muchos vecinos de Manresa, que buscan un trato más cercano y honesto. También cubrimos las necesidades de los pueblos cercanos como Sant Fruitós de Bages, Santpedor, Callús y Fonollosa. Si te mueves habitualmente por el Bages, nos tienes a mano. El acceso es muy sencillo a través de la C-55, que nos conecta directamente con Manresa y el sur de la comarca, y estamos a pocos minutos del Eix Transversal (C-25), una vía clave para quienes viajan hacia Vic o Lleida.",
+  "zoneNeighborhoods": [
+    "Sant Joan de Vilatorrada",
+    "Manresa",
+    "Sant Fruitós de Bages",
+    "Santpedor",
+    "Callús",
+    "Fonollosa",
+    "Nucli Antic",
+    "Joncadella"
+  ],
+  "zoneAccessRoutes": [
+    "C-55",
+    "C-25 (Eix Transversal)",
+    "C-37z"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la revisión Pre-ITV para pasarla en la estación de Manresa?",
+      "a": "Sí, por supuesto. Es uno de nuestros servicios más demandados. Conocemos perfectamente los puntos críticos que revisan en la ITV de Manresa y hacemos una comprobación exhaustiva de luces, frenos, neumáticos, emisiones y suspensión. Nuestro objetivo es que vayas totalmente tranquilo y la pases a la primera, ahorrándote tiempo y el coste de una segunda inspección."
+    },
+    {
+      "q": "¿Qué tipo de neumáticos recomendáis para el clima del Bages?",
+      "a": "Dada la diferencia de temperatura entre el invierno y el verano en nuestra comarca, la mejor opción para la mayoría de conductores son los neumáticos 'all-season' o 'todo tiempo'. Ofrecen un buen agarre tanto con el calor del verano como con las bajas temperaturas o la lluvia del invierno, sin necesidad de tener dos juegos de ruedas. Si haces muchos kilómetros por carreteras de montaña, podríamos valorar un neumático de invierno específico."
+    },
+    {
+      "q": "Hago muchos kilómetros por la C-55 y el Eix, ¿qué mantenimiento especial necesita mi coche?",
+      "a": "Para un uso intensivo en carretera, es vital ser estricto con los cambios de aceite y filtros, usando siempre lubricantes de alta calidad que protejan el motor en trayectos largos. También es crucial revisar con más frecuencia el estado y la presión de los neumáticos, así como el sistema de frenos y la suspensión. Un coche bien alineado también te ahorrará combustible y desgaste de ruedas."
+    },
+    {
+      "q": "Mi diésel hace sobre todo trayectos cortos por el pueblo. ¿Cómo evito problemas con el filtro de partículas?",
+      "a": "Es un problema muy común. Para evitar la obstrucción del filtro (FAP o DPF), te recomendamos que, al menos una vez por semana, salgas a carretera (como la C-25) y conduzcas durante unos 15-20 minutos a un régimen de revoluciones algo más alto de lo normal (por ejemplo, en 4ª marcha a 100-110 km/h). Esto fuerza la regeneración y limpia el filtro. Si ya es tarde, podemos hacer una limpieza en el taller."
+    },
+    {
+      "q": "Si dejo el coche, ¿tenéis coche de cortesía? Lo necesito para ir a trabajar.",
+      "a": "Entendemos que no puedes quedarte parado. Disponemos de un número limitado de coches de cortesía para nuestros clientes. Te recomendamos solicitarlo al pedir tu cita para que podamos confirmar su disponibilidad y reservártelo, especialmente si la reparación va a durar más de un día. Consúltanos las condiciones al llamarnos."
+    },
+    {
+      "q": "¿Cuánto tardáis en hacer una revisión de mantenimiento normal?",
+      "a": "Una revisión estándar, como un cambio de aceite y filtros, suele llevar unas pocas horas. Si la dejas a primera hora de la mañana, lo más probable es que puedas recogerla a mediodía o a primera hora de la tarde. Si durante la revisión detectamos algo más, te llamaremos inmediatamente para informarte y darte un nuevo plazo, siempre con tu aprobación."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Sant Joan de Vilatorrada",
+  "closingCta": "Si tu coche necesita una revisión o notas algo raro, no esperes más. Llámanos o envíanos un WhatsApp para pedir tu presupuesto sin compromiso en nuestro taller de Sant Joan de Vilatorrada."
+}

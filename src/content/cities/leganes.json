@@ -1,0 +1,192 @@
+{
+  "slug": "leganes",
+  "name": "Leganés",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 188425,
+  "lat": 40.32718,
+  "lng": -3.7635,
+  "metaTitle": "Taller mecánico en Leganés — Multimarca y de confianza",
+  "metaDescription": "Tu taller multimarca en Leganés para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Pide tu cita ahora y conduces con tranquilidad.",
+  "heroSubtitle": "Cansado de los atascos en la A-42 y el desgaste que suponen para tu coche? En nuestro taller de Leganés lo entendemos perfectamente.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir en Leganés es una historia de contrastes. Por un lado, la rutina diaria de miles de 'pepineros' que cogen el coche para ir a trabajar a Madrid, Getafe o Alcorcón, enfrentándose cada mañana al tráfico denso de la A-42 o a las retenciones en la M-40 y M-45. Ese constante arrancar y parar es un castigo para cualquier embrague, caja de cambios y sistema de frenos. Lo vemos a diario en nuestro taller: coches con apenas unos años, principalmente SEAT, Renault, Peugeot o Ford, que ya muestran un desgaste prematuro en estos componentes. No es tu culpa, es la realidad de vivir y trabajar en el área metropolitana sur de Madrid.\n\nLuego está nuestro clima, que no da tregua. Los veranos son un auténtico horno, con temperaturas que ponen a prueba cualquier sistema de aire acondicionado. Justo cuando más lo necesitas, en pleno julio, es cuando falla. Por otro lado, los inviernos, aunque secos, traen heladas potentes. ¿A quién no le ha temblado el pulso al girar la llave en una mañana de enero en Zarzaquemada o Leganés Norte, rezando para que la batería responda? Este clima continental extremo, con saltos térmicos tan bruscos, acelera el envejecimiento de plásticos, gomas y, sobre todo, de la batería.\n\nPero tu coche no vive solo para el trabajo. Es también el que te lleva los fines de semana a la sierra, de compras a Parquesur o a visitar a la familia. Es el vehículo de una familia de El Carrascal, la furgoneta de un autónomo de San Nicasio o el primer coche de un joven de La Fortuna. La mayoría de estos vehículos tienen entre 4 y 15 años, ya fuera de la garantía oficial del fabricante, y necesitan un taller de confianza que entienda sus achaques específicos sin cobrar los precios de un concesionario oficial. Necesitas a alguien que sepa que el polvo en suspensión del verano ensucia los filtros más de la cuenta y que los badenes de las zonas residenciales castigan la suspensión.\n\nEn nuestro taller de Leganés, no solo reparamos coches; entendemos la vida de sus dueños. Sabemos lo que implica depender del coche en el sur de Madrid. Por eso, nuestro enfoque es directo, honesto y adaptado a la realidad local. No te contaremos historias. Diagnosticaremos el problema real de tu coche, te daremos un presupuesto cerrado y te explicaremos las opciones. Porque tu tranquilidad al volante, ya sea en un atasco en la autovía de Toledo o de camino al campo, es nuestra principal prioridad. Somos tu taller de barrio, con la profesionalidad de una gran red.",
+  "servicesIntro": "Desde la revisión para pasar la ITV sin problemas hasta el cambio de embrague por los atascos de la A-42, cubrimos toda la mecánica de tu coche en Leganés.",
+  "processIntro": "Sabemos que la confianza es lo primero. Por eso, te damos un presupuesto cerrado por adelantado y no hacemos nada en tu coche sin tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y nuestros técnicos realizan una inspección completa para identificar el origen del problema con precisión y sin rodeos."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas, sin costes ocultos ni sorpresas de última hora. Transparencia total."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisa el presupuesto con calma. No pedimos ninguna pieza ni empezamos la reparación hasta que nos das tu confirmación explícita. Tú tienes el control en todo momento."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos se ponen manos a la obra para tener tu coche listo en el plazo acordado y que puedas volver a la carretera."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para asegurar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El clima extremo de Madrid y el tráfico diario desde Leganés hacia la M-40 o el centro pasan factura. Estos son los problemas que más vemos en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El 'arranca y para' diario en la A-42 hacia Madrid o en la Avenida de Fuenlabrada en hora punta castiga el embrague y los frenos. Si notas el pedal duro o que el coche tarda en responder al frenar, es hora de una revisión. Diagnosticamos el desgaste y sustituimos el kit completo para que vuelvas a conducir con suavidad y seguridad por Leganés."
+    },
+    {
+      "title": "Fallos en el sistema de climatización",
+      "body": "Pasar un julio en Leganés sin aire acondicionado es una tortura. El calor extremo fuerza el compresor y puede provocar fugas de gas. Si tu aire no enfría como antes, no esperes a la ola de calor. Hacemos la carga de gas, detectamos fugas y reparamos el sistema para que los viajes a Parquesur o al trabajo sean de nuevo soportables."
+    },
+    {
+      "title": "Problemas de batería en invierno",
+      "body": "Las mañanas de helada en barrios como Leganés Norte o Vereda de los Estudiantes son la prueba de fuego para las baterías. El frío intenso reduce su capacidad y, si ya tiene unos años, es probable que te deje tirado. Comprobamos su estado en cada revisión y te avisamos si es momento de cambiarla para evitarte el mal trago de buena mañana."
+    },
+    {
+      "title": "Filtros de aire y habitáculo obstruidos",
+      "body": "El ambiente seco y a veces polvoriento del sur de Madrid, sumado a la polución del tráfico denso, obstruye los filtros rápidamente. Un filtro de aire sucio aumenta el consumo y uno de habitáculo empeora la calidad del aire que respiras. Es una operación de mantenimiento económica que mejora el rendimiento del motor y tu confort a bordo."
+    },
+    {
+      "title": "Averías en suspensión y silentblocks",
+      "body": "Entre los badenes de las zonas residenciales de Leganés y los baches que aparecen en algunas vías secundarias, la suspensión sufre. Ruidos raros al pasar por un resalto o inestabilidad en curvas en la M-45 son síntomas claros. Revisamos amortiguadores, silentblocks y rótulas para que tu coche absorba las irregularidades como el primer día."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Para gente de Leganés",
+      "body": "Conocemos tu día a día: el atasco en la A-42, el calor del verano, las heladas. Hablamos tu idioma y entendemos los problemas reales de tu coche en esta zona."
+    },
+    {
+      "title": "Presupuesto sin letra pequeña",
+      "body": "Lo que te presupuestamos es lo que pagas. Sin sorpresas ni extras de última hora. Te lo explicamos claro para que sepas exactamente en qué se invierte tu dinero."
+    },
+    {
+      "title": "Todas las marcas, sin excepción",
+      "body": "Da igual si conduces un SEAT León para ir al trabajo, un Peugeot 2008 familiar o una furgoneta Renault Kangoo. Tenemos la experiencia y el equipo para todos."
+    },
+    {
+      "title": "No tocamos nada sin tu OK",
+      "body": "La confianza es lo primero. Te llamamos, te explicamos qué hemos encontrado y te damos el presupuesto. Solo cuando nos das luz verde, empezamos a trabajar en tu coche."
+    },
+    {
+      "title": "Diagnóstico honesto y claro",
+      "body": "No vamos a cambiar piezas que no lo necesitan. Te decimos lo que es urgente y lo que puede esperar, para que tomes la mejor decisión para tu coche y tu bolsillo."
+    }
+  ],
+  "testimonialsIntro": "Estas son algunas situaciones típicas que nos encontramos. Podrían ser las historias de tus vecinos de Leganés, Getafe o Fuenlabrada.",
+  "testimonials": [
+    {
+      "name": "Carlos",
+      "neighborhood": "Zarzaquemada",
+      "car": "SEAT León 1.6 TDI 2015",
+      "body": "El embrague empezó a patinar en los atascos de la M-40. Me dieron cita rápido, el presupuesto fue el que me dijeron por WhatsApp y no hubo sorpresas. Ahora el coche va suave otra vez. Se nota que saben lo que hacen y son gente seria. Muy recomendable para cualquiera de Leganés.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "El Carrascal",
+      "car": "Renault Clio 1.2 2012",
+      "body": "Me quedé sin batería una mañana de enero que hacía un frío que pelaba. Los llamé, me atendieron genial y por la tarde ya tenía el coche con la batería nueva. Me revisaron el alternador para asegurarse de que todo estaba bien. Un servicio rápido y muy profesional.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "La Fortuna",
+      "car": "Peugeot Partner 2017",
+      "body": "Uso la furgoneta para trabajar por todo el sur de Madrid y necesitaba pasar la revisión y cambiar los neumáticos. Me lo hicieron todo en el día para no perder trabajo. El trato fue directo y honesto, sin intentar venderme nada que no necesitara. Volveré seguro.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Leganés Norte",
+      "car": "Ford Focus 1.0 EcoBoost 2016",
+      "body": "El aire acondicionado dejó de enfriar justo cuando empezó el calor fuerte. En otros sitios me daban cita para dos semanas. Aquí me lo solucionaron en un par de días. Era una pequeña fuga. Me explicaron el problema y la solución. El precio me pareció justo, aunque la pieza tardó un poco.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Leganés da servicio a conductores de toda la ciudad, desde el barrio de La Fortuna hasta Zarzaquemada, pasando por El Carrascal, San Nicasio o las zonas más nuevas como Poza del Agua. Muchos de nuestros clientes vienen de municipios vecinos como Getafe, Fuenlabrada y Alcorcón, buscando un servicio de confianza cerca de casa o del trabajo. Gracias a nuestra ubicación, es muy fácil llegar. Si vienes por la M-40, la M-45 o la A-42 (Autovía de Toledo), estarás aquí en pocos minutos. Somos el taller de referencia para el conductor del sur de Madrid que valora un trabajo bien hecho.",
+  "zoneNeighborhoods": [
+    "Zarzaquemada",
+    "El Carrascal",
+    "La Fortuna",
+    "San Nicasio",
+    "Leganés Norte",
+    "Vereda de los Estudiantes",
+    "Getafe",
+    "Fuenlabrada",
+    "Alcorcón",
+    "Solagua"
+  ],
+  "zoneAccessRoutes": [
+    "A-42 (Autovía de Toledo)",
+    "M-40",
+    "M-45",
+    "M-50",
+    "R-5"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la pre-ITV? La paso en la estación de Leganés y son bastante exigentes.",
+      "a": "Sí, por supuesto. Conocemos bien los puntos que más miran en la ITV de Leganés. Hacemos una revisión pre-ITV completa (luces, frenos, neumáticos, emisiones...) para que vayas con la total tranquilidad de que tu coche la pasará a la primera. Si detectamos algo, te damos presupuesto para solucionarlo antes de que vayas."
+    },
+    {
+      "q": "Mi coche es diésel y hago muchos trayectos cortos por Leganés, ¿qué mantenimiento especial necesita?",
+      "a": "Es una situación muy común. Los diésel modernos con filtro de partículas (FAP) sufren en trayectos urbanos cortos porque no alcanzan la temperatura para regenerarse. Te recomendamos salir a carretera de vez en cuando (por la M-45 o la A-42) a un régimen más alto durante unos 15-20 minutos. Además, es clave usar un aceite de calidad y revisar el estado del filtro periódicamente para evitar averías caras."
+    },
+    {
+      "q": "Con el calor del verano en Madrid, ¿cada cuánto debo revisar el aire acondicionado?",
+      "a": "No hay una regla fija, pero recomendamos una revisión del sistema cada dos años. En Leganés, con veranos que superan los 35ºC, el aire acondicionado trabaja a destajo. Una revisión preventiva, que incluye comprobar la presión del gas y el estado del compresor, puede evitar que te deje tirado en plena ola de calor y prevenir averías más costosas."
+    },
+    {
+      "q": "Vivo en La Fortuna y trabajo en Getafe, ¿ofrecéis coche de cortesía?",
+      "a": "Sí, disponemos de coche de cortesía para intervenciones que requieran inmovilizar tu vehículo más de un día, como un cambio de embrague o una reparación de motor. Está sujeto a disponibilidad, así que lo mejor es que nos lo comentes al pedir la cita para que podamos reservártelo y no te quedes sin vehículo."
+    },
+    {
+      "q": "Tengo que cambiar los neumáticos, ¿qué me recomendáis para el clima de aquí?",
+      "a": "Para el clima de Leganés, con veranos muy secos y calurosos e inviernos fríos pero con poca nieve, los neumáticos 'all-season' (todo tiempo) de buena calidad son una opción excelente y muy versátil. Ofrecen buen agarre en seco y mojado y se defienden bien con las heladas ocasionales. Si no, un buen neumático de verano es suficiente para la mayoría de conductores."
+    },
+    {
+      "q": "¿Trabajáis con coches de renting o de empresa?",
+      "a": "Nuestro enfoque principal es el cliente particular y el profesional autónomo con su propio vehículo o furgoneta. Por ahora, no trabajamos directamente con las grandes compañías de renting como taller concertado, pero sí podemos realizar el mantenimiento de tu coche si el contrato te permite elegir taller, emitiendo una factura oficial para ti."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Leganés",
+  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos, envíanos un WhatsApp o rellena el formulario y te responderemos enseguida. Confía en los que entienden tu coche y las calles de Leganés.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Leganés",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@taller-madrid.es",
+    "addressStreet": ""
+  }
+}

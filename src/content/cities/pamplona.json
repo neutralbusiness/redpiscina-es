@@ -1,0 +1,191 @@
+{
+  "slug": "pamplona",
+  "name": "Pamplona",
+  "province": "Navarra",
+  "ccaa": "Navarra",
+  "population": 208243,
+  "lat": 42.81687,
+  "lng": -1.64323,
+  "metaTitle": "Taller mecánico en Pamplona — Multimarca y de confianza",
+  "metaDescription": "Tu taller en Pamplona para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Expertos en el clima y carreteras de Navarra. Pide tu cita.",
+  "heroSubtitle": "¿Preocupado por el arranque en invierno o por la ITV? En nuestro taller de Pamplona conocemos tu coche y las carreteras navarras.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Todas las marcas"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Revisión Pre-ITV"
+    }
+  ],
+  "introLocal": "Conducir por Pamplona y su comarca tiene sus particularidades. No es lo mismo callejear por el Casco Antiguo, si tienes acceso, que hacer cada día el trayecto desde Zizur Mayor, Barañáin o Sarriguren hasta tu trabajo en el centro o en algún polígono industrial. Ese tráfico denso en la Ronda de Pamplona (PA-30) a primera hora de la mañana y a última de la tarde castiga el embrague, los frenos y el sistema start-stop de tu coche. En nuestro taller, entendemos perfectamente este desgaste diario porque también lo vivimos. Sabemos lo que sufre un coche en los atascos de la avenida de Navarra o al buscar aparcamiento en barrios como San Juan o Iturrama. Por eso, nuestras revisiones no se limitan a seguir un manual; comprobamos los puntos clave que más se resienten en el día a día pamplonés.\n\nEl clima de Navarra es otro factor decisivo. Los inviernos aquí son fríos y húmedos, con heladas frecuentes y esa niebla tan característica de la Cuenca que parece calar hasta los huesos... y hasta la batería de tu coche. ¿Cuántas mañanas de enero has cruzado los dedos para que el coche arranque a la primera? Una batería en buen estado y un anticongelante de calidad no son un lujo, son una necesidad. En verano, el calor aprieta y pone a prueba el sistema de aire acondicionado, vital para no asarse en un viaje por la A-12 hacia Estella o en la N-121 camino a la Ribera. Nuestro equipo está acostumbrado a diagnosticar y reparar estos sistemas, asegurando tu confort y seguridad durante todo el año, adaptando el mantenimiento a la exigente climatología navarra.\n\nEl parque automovilístico de Pamplona es muy representativo. Con la fábrica de Volkswagen en Landaben, los Polo son parte del paisaje, y conocemos sus motores y peculiaridades como la palma de nuestra mano. Pero también vemos a diario los SEAT, Renault, Peugeot y Ford que llenan las calles de la Rochapea o la Chantrea. Son coches fiables, de entre 5 y 15 años, que con un buen mantenimiento pueden durar mucho más. Entendemos que tu coche es una herramienta esencial, ya seas un autónomo con una furgoneta que necesita estar siempre a punto para ir a sus clientes o una familia que usa el coche para la compra en La Morea y para las escapadas de fin de semana al Pirineo o a la costa guipuzcoana por la A-15.\n\nPor eso, nuestro enfoque es práctico y honesto. No te vamos a vender una reparación que no necesitas. Cuando traes tu coche, ya sea para la revisión anual, un cambio de ruedas o porque has notado un ruido raro al pasar por los badenes de Mendillorri, lo primero que hacemos es un diagnóstico claro. Te explicamos qué le pasa, por qué ha ocurrido y te damos un presupuesto cerrado. Sin letra pequeña. Tú decides. Queremos ser tu taller de confianza en Pamplona, ese al que vienes sabiendo que cuidaremos de tu coche como si fuera nuestro, porque entendemos lo que significa depender de él en Navarra.",
+  "servicesIntro": "Desde la revisión para que pases la ITV sin problemas en Pamplona hasta la mecánica más compleja, cubrimos todas las necesidades de tu coche.",
+  "processIntro": "Trabajamos con total transparencia para que sepas en todo momento qué le pasa a tu coche y cuánto te va a costar. Sin sorpresas.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico inicial",
+      "body": "Escuchamos lo que le notas al coche y lo conectamos a nuestros equipos de diagnosis. Hacemos una primera valoración completa para entender el origen del problema y no dar palos de ciego."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en la mano, te preparamos un presupuesto detallado y por escrito. El precio que ves es el que pagas. Si surge algo imprevisto, no hacemos nada sin tu aprobación previa."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Te llamamos o te enviamos el presupuesto por WhatsApp. Te explicamos cada punto con calma para que lo entiendas todo. La reparación solo empieza cuando nos das tu visto bueno de forma explícita."
+    },
+    {
+      "title": "Reparación experta",
+      "body": "Nuestro equipo se pone manos a la obra utilizando piezas de primeras marcas y con garantía. Te mantenemos informado de los plazos para que puedas organizarte sin problemas."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando el coche está listo, te avisamos. Al recogerlo, te explicamos la reparación realizada y te entregamos la factura. Nos aseguramos de que todo haya quedado a tu gusto."
+    }
+  ],
+  "commonIssuesIntro": "El frío, la humedad y los trayectos cortos por la Cuenca de Pamplona generan una serie de averías muy características que vemos a diario en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Baterías que mueren en invierno",
+      "body": "El frío y la humedad de Pamplona son enemigos de las baterías, sobre todo en coches que duermen en la calle en barrios como la Rochapea. Si notas que al coche le cuesta arrancar por la mañana, no esperes a quedarte tirado. Comprobamos su estado y la carga del alternador para evitar sorpresas."
+    },
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico de entrada y salida por la PA-30, la avenida de Zaragoza o la Cuesta de Beloso, con sus constantes paradas y arranques, acelera el desgaste del embrague y los frenos. Hacemos una revisión específica de estos componentes, clave para tu seguridad en la conducción urbana de Pamplona."
+    },
+    {
+      "title": "Problemas con el aire acondicionado",
+      "body": "Del frío bajo cero a los más de 35 grados en verano. El sistema de climatización de tu coche trabaja a destajo en Navarra. Una fuga de gas o un compresor débil pueden dejarte tirado en el peor momento. Lo revisamos y recargamos para que viajes siempre a la temperatura ideal."
+    },
+    {
+      "title": "Suspensión y neumáticos castigados",
+      "body": "Entre los badenes de los nuevos barrios como Sarriguren y las carreteras secundarias hacia los valles (NA-), las suspensiones y los neumáticos sufren mucho. Unos amortiguadores en mal estado alargan la frenada y desgastan mal las ruedas. Los revisamos para garantizar tu agarre y confort."
+    },
+    {
+      "title": "Filtros de partículas (FAP) en diésel",
+      "body": "Muchos trayectos cortos por la ciudad impiden que los coches diésel regeneren bien el filtro de partículas. Esto provoca averías y pérdida de potencia. Si tu coche es diésel y apenas sale de la comarca, es un punto crítico que vigilamos y podemos solucionar con una limpieza profesional."
+    },
+    {
+      "title": "Humedad y pequeños fallos eléctricos",
+      "body": "La persistente humedad de Pamplona puede afectar a conexiones eléctricas, sensores y centralitas, especialmente en coches con algunos años. Si notas fallos intermitentes en luces o testigos del cuadro, es probable que la causa sea esta. Realizamos un diagnóstico electrónico para localizar y aislar el problema."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos Pamplona y tu coche",
+      "body": "No somos una franquicia sin alma. Entendemos el clima de Navarra, el tráfico de la comarca y los coches que se conducen aquí, desde un Polo de Landaben hasta una furgoneta de reparto."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el precio final. Si durante la reparación encontramos algo más, paramos, te llamamos, te lo explicamos y tú decides. Sin compromiso y sin sustos en la factura."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "Nuestro objetivo es que tu coche funcione bien y de forma segura. No te recomendaremos cambiar una pieza que todavía tiene vida útil. Te diremos lo que necesita tu coche, ni más ni menos."
+    },
+    {
+      "title": "Mecánica para todas las marcas",
+      "body": "Estamos equipados para trabajar con cualquier marca y modelo, ya sea gasolina, diésel, híbrido o eléctrico. Tenemos la tecnología y la formación para cuidar de tu coche, sea cual sea."
+    },
+    {
+      "title": "Pasión por el motor",
+      "body": "Nos gusta nuestro trabajo y eso se nota. Tratamos cada coche con el mismo cuidado y profesionalidad, desde una simple revisión de aceite hasta una reparación compleja de motor o electrónica."
+    },
+    {
+      "title": "Cerca de ti",
+      "body": "Estamos ubicados en un punto estratégico de Pamplona, con buenos accesos para que dejar y recoger tu coche sea un trámite rápido y cómodo, vengas de donde vengas de la comarca."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que solucionamos cada día para conductores como tú en Pamplona y su comarca.",
+  "testimonials": [
+    {
+      "name": "Iker",
+      "neighborhood": "San Juan",
+      "car": "Volkswagen Polo 1.6 TDI 2017",
+      "body": "Llevaba unas semanas notando que al coche le costaba arrancar por las mañanas. Con el frío que hace aquí, me temía lo peor. Los llamé, me dieron cita rápido, comprobaron la batería y el alternador y vieron que la batería estaba en las últimas. Me la cambiaron en un momento y me dieron un presupuesto cerrado desde el principio. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Maite",
+      "neighborhood": "Sarriguren",
+      "car": "Peugeot 3008 1.2 PureTech 2019",
+      "body": "Con tanto badén en el barrio y los viajes al pueblo, empecé a oír un ruido en la suspensión trasera. En el taller lo subieron al elevador y me enseñaron que una bieleta de la estabilizadora tenía holgura. Me explicaron qué era y para qué servía. Me parecieron muy honestos y el precio fue razonable. Ahora el coche va perfecto, sin ruidos.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Barañáin",
+      "car": "Renault Mégane dCi 2015",
+      "body": "Uso el coche todos los días para ir a trabajar a un polígono y notaba que había perdido fuerza. Se me encendió el testigo de avería de motor. Me diagnosticaron un problema con el filtro de partículas por hacer tantos trayectos cortos. Me hicieron una limpieza y me dieron consejos para evitar que volviera a pasar. Un servicio de diez.",
+      "rating": 5
+    },
+    {
+      "name": "Leire",
+      "neighborhood": "Chantrea",
+      "car": "SEAT Ibiza 1.0 TSI 2018",
+      "body": "Tenía que pasar la ITV y no estaba segura de si las ruedas estaban bien. Me hicieron una revisión pre-ITV muy completa, me dijeron que las ruedas delanteras estaban ya en el límite y me ofrecieron varias opciones de neumáticos. Elegí unos y me los montaron al día siguiente. Pasé la ITV sin un solo fallo. El trato fue bueno, aunque tardaron un poco más de lo que me dijeron al principio.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la Cuenca de Pamplona. Tanto si vives en barrios como Iturrama, San Jorge, la Rochapea o Mendillorri, como si vienes de municipios cercanos, nuestro taller está preparado para recibirte. Muchos de nuestros clientes se desplazan a diario desde Zizur Mayor, Barañáin, Burlada, Villava o el Valle de Egüés (Sarriguren y Olaz). Nuestra ubicación cuenta con un acceso muy cómodo desde las principales vías que vertebran la comarca, como la Ronda de Pamplona (PA-30), que te permite llegar rápidamente desde cualquier punto. También estamos cerca de los accesos a la Autovía del Camino (A-12) y la A-15, facilitando que puedas dejar tu coche de camino al trabajo o al volver a casa sin tener que desviarte demasiado de tu ruta habitual.",
+  "zoneNeighborhoods": [
+    "Iturrama",
+    "San Juan",
+    "Rochapea (Arrotxapea)",
+    "Chantrea (Txantrea)",
+    "Mendillorri",
+    "San Jorge (Sanduzelai)",
+    "Barañáin",
+    "Zizur Mayor",
+    "Burlada (Burlata)",
+    "Sarriguren"
+  ],
+  "zoneAccessRoutes": [
+    "PA-30 (Ronda de Pamplona)",
+    "A-15 (Autovía de Leitzaran / Navarra)",
+    "A-12 (Autovía del Camino)",
+    "N-121-A (Carretera de Francia por Velate)",
+    "PA-31 (Acceso Sur a Pamplona)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Tenéis experiencia con los Volkswagen fabricados en Landaben?",
+      "a": "Por supuesto. El Volkswagen Polo es uno de los coches que más vemos en nuestro taller de Pamplona. Conocemos perfectamente sus motores, tanto los TDI como los TSI, sus puntos débiles y sus necesidades de mantenimiento específicas. Puedes estar tranquilo, tu coche está en las mejores manos."
+    },
+    {
+      "q": "Mi coche duerme en la calle en Pamplona, ¿qué revisión especial necesita para el invierno?",
+      "a": "El frío y la humedad de aquí son duros. Recomendamos una revisión pre-invierno que incluya: comprobación del estado de la batería y el circuito de carga, análisis de la concentración del líquido anticongelante para evitar congelaciones, revisión de la presión y el estado de los neumáticos y verificación del buen funcionamiento de todas las luces, muy importante para los días de niebla."
+    },
+    {
+      "q": "¿Es necesario poner neumáticos de invierno si solo me muevo por la Cuenca?",
+      "a": "No es estrictamente obligatorio, pero sí muy recomendable. Aunque en Pamplona capital no nieve mucho, las heladas son constantes y el asfalto puede estar muy deslizante por debajo de 7ºC. Unos neumáticos de invierno o unos 'todo tiempo' con certificación invernal (3PMSF) te darán un plus de seguridad enorme, especialmente a primera hora de la mañana."
+    },
+    {
+      "q": "Noté que el embrague me patina un poco en la Cuesta de Beloso, ¿es grave?",
+      "a": "Un embrague que patina es un síntoma claro de desgaste. Ignorarlo puede dejarte tirado y, en algunos casos, dañar el volante motor, encareciendo la reparación. Te recomendamos que te pases por el taller para que lo probemos y te demos un diagnóstico preciso. Es mejor cogerlo a tiempo."
+    },
+    {
+      "q": "Voy a hacer un viaje largo por la AP-15, ¿qué puntos básicos debería revisar?",
+      "a": "Para un viaje largo por autopista, lo fundamental es la seguridad. Te recomendamos revisar la presión y el desgaste de los cuatro neumáticos (incluido el de repuesto), comprobar todos los niveles de líquidos (aceite, refrigerante, limpiaparabrisas) y asegurarte de que todas las luces funcionan correctamente. Una revisión rápida en nuestro taller te dará total tranquilidad."
+    },
+    {
+      "q": "El aire acondicionado no enfría como antes, ¿es una avería cara?",
+      "a": "No necesariamente. La causa más común es simplemente una falta de gas en el circuito, que pierde un poco cada año de forma natural. Una recarga suele solucionar el problema y es económica. Si la fuga es grande o el compresor está dañado, el coste es mayor, pero primero hacemos un diagnóstico para localizar el problema exacto y darte un presupuesto cerrado."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Pamplona",
+  "closingCta": "Pide tu presupuesto sin compromiso o reserva tu cita. Puedes llamarnos, enviarnos un WhatsApp o rellenar el formulario y te contestaremos enseguida para ayudarte con tu coche en Pamplona."
+}

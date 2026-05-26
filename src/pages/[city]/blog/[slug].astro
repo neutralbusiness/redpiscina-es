@@ -1,0 +1,162 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import { NETWORK } from "../../../lib/network.ts";
+import ContactForm from "../../../components/ContactForm.astro";
+import { getCollection, render } from "astro:content";
+
+interface CityRef {
+  slug: string;
+  name: string;
+  province: string;
+  ccaa: string;
+}
+
+export async function getStaticPaths() {
+  const cityMods = import.meta.glob<{ default: CityRef }>(
+    "../../../content/cities/*.json",
+    { eager: true },
+  );
+  const cities = Object.values(cityMods).map((m) => m.default);
+  const all = await getCollection("blog");
+
+  const paths: Array<{
+    params: { city: string; slug: string };
+    props: { city: CityRef; post: (typeof all)[0] };
+  }> = [];
+
+  for (const city of cities) {
+    for (const post of all) {
+      const parts = post.id.split("/");
+      const isCityPost = parts.length === 2 && parts[0] === city.slug;
+      const isGlobal = parts.length === 1;
+      if (!isCityPost && !isGlobal) continue;
+      const slug = parts[parts.length - 1];
+      paths.push({ params: { city: city.slug, slug }, props: { city, post } });
+    }
+  }
+  return paths;
+}
+
+const { city, post } = Astro.props;
+const { Content } = await render(post);
+
+const slug = post.id.split("/").pop()!;
+const canonical = `https://${city.slug}.${NETWORK.domain}/blog/${slug}/`;
+const title = post.data.metaTitle || post.data.title;
+const description = post.data.metaDescription;
+const fullImage = post.data.image
+  ? (post.data.image.startsWith("http") ? post.data.image : `https://${city.slug}.${NETWORK.domain}${post.data.image}`)
+  : undefined;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: post.data.title,
+  description: post.data.metaDescription,
+  image: fullImage,
+  datePublished: post.data.publishDate.toISOString(),
+  dateModified: (post.data.updatedDate || post.data.publishDate).toISOString(),
+  author: {
+    "@type": "Organization",
+    name: post.data.author || NETWORK.brand,
+  },
+  publisher: {
+    "@type": "Organization",
+    name: NETWORK.brand,
+    logo: { "@type": "ImageObject", url: `https://${NETWORK.domain}${NETWORK.heroImage}` },
+  },
+  mainEntityOfPage: { "@type": "WebPage", "@id": canonical },
+};
+
+function formatDate(d: Date): string {
+  return d.toLocaleDateString("es-ES", { day: "2-digit", month: "long", year: "numeric" });
+}
+---
+
+<Layout
+  title={title}
+  description={description}
+  canonical={canonical}
+  schema={schema}
+  ogImage={fullImage}
+>
+  <nav class="nav">
+    <div class="container nav-inner">
+      <a href={`/`} class="nav-brand">{NETWORK.brand}</a>
+      <div class="nav-links">
+        <a href={`/blog/`}>Blog</a>
+        <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay}</a>
+      </div>
+    </div>
+  </nav>
+
+  <article class="post">
+    <header class="post-header">
+      <div class="container">
+        <p class="breadcrumb">
+          <a href={`/`}>{city.name}</a> ·
+          <a href={`/blog/`}>Blog</a>
+        </p>
+        <p class="post-meta">
+          <span class="post-cat">{post.data.category}</span>
+          <time datetime={post.data.publishDate.toISOString()}>{formatDate(post.data.publishDate)}</time>
+          <span>· {post.data.readTime} min</span>
+        </p>
+        <h1>{post.data.title}</h1>
+        <p class="lead">{post.data.excerpt}</p>
+      </div>
+    </header>
+
+    {post.data.image && (
+      <div class="container">
+        <img src={post.data.image} alt={post.data.title} class="post-hero" width="1200" height="675" />
+      </div>
+    )}
+
+    <div class="container post-body">
+      <Content />
+    </div>
+
+    {post.data.tags && post.data.tags.length > 0 && (
+      <div class="container post-tags">
+        {post.data.tags.map((t) => <span class="tag">{t}</span>)}
+      </div>
+    )}
+  </article>
+
+  <ContactForm city={city.slug} cityName={city.name} networkDomain={NETWORK.domain} />
+
+  <style>
+    .post { padding: 0 0 3rem; }
+    .post-header { padding: 2.5rem 0 1rem; background: var(--surface-alt); border-bottom: 1px solid var(--border); }
+    .post-header h1 { margin: 0.5rem 0; line-height: 1.2; }
+    .breadcrumb { margin: 0 0 0.5rem; color: var(--muted); font-size: 0.875rem; }
+    .breadcrumb a { color: var(--muted); text-decoration: none; }
+    .breadcrumb a:hover { color: var(--text); }
+    .lead { color: var(--muted); font-size: 1.0625rem; line-height: 1.55; margin: 0.5rem 0 0; max-width: 700px; }
+    .post-meta {
+      color: var(--muted); font-size: 0.875rem;
+      display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; margin: 0;
+    }
+    .post-cat {
+      background: var(--amber-100); color: var(--amber-800);
+      padding: 0.125rem 0.625rem; border-radius: 999px;
+      font-weight: 600; font-size: 0.75rem;
+    }
+    .post-hero { width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: var(--radius); margin: 1.5rem 0; max-width: 800px; }
+    .post-body { max-width: 720px; line-height: 1.75; }
+    .post-body :global(h2) { margin: 2rem 0 1rem; font-size: 1.5rem; }
+    .post-body :global(h3) { margin: 1.5rem 0 0.75rem; font-size: 1.25rem; }
+    .post-body :global(p) { margin: 1em 0; }
+    .post-body :global(ul), .post-body :global(ol) { padding-left: 1.5rem; margin: 1em 0; }
+    .post-body :global(li) { margin: 0.5em 0; }
+    .post-body :global(img) { max-width: 100%; height: auto; border-radius: var(--radius); }
+    .post-body :global(blockquote) {
+      border-left: 3px solid var(--amber-500);
+      padding-left: 1rem; margin: 1.5em 0; color: var(--ink-700);
+    }
+    .post-body :global(a) { color: var(--amber-700); }
+    .post-tags { max-width: 720px; display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 2rem auto 0; }
+    .tag { background: var(--ink-100); color: var(--ink-700); padding: 0.25rem 0.75rem; border-radius: 999px; font-size: 0.8125rem; }
+  </style>
+</Layout>

@@ -1,0 +1,180 @@
+{
+  "slug": "calella",
+  "name": "Calella",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 18728,
+  "lat": 41.61381,
+  "lng": 2.65423,
+  "metaTitle": "Taller mecánico en Calella — Multimarca y de confianza",
+  "metaDescription": "Tu taller de confianza en Calella para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas para todas las marcas. ¡Pide tu cita ahora!",
+  "heroSubtitle": "Que una avería no te amargue el trayecto por la N-II o el verano en Calella. Conducir tranquilo tiene un precio, y es cerrado.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives o trabajas en Calella, sabes que tu coche no tiene una vida fácil. No es lo mismo conducir por el centro en pleno agosto, con el tráfico de turistas y las calles estrechas, que coger cada día la C-32 para ir a trabajar a Mataró o Barcelona. El uso que le das a tu vehículo aquí, en el corazón del Maresme, es intenso y particular. Entendemos perfectamente la diferencia entre el desgaste de un coche que apenas sale del núcleo urbano y el de otro que acumula kilómetros de autopista a diario. Por eso, nuestro enfoque no es genérico; es un servicio de mecánica pensado para los coches y conductores de Calella, Pineda de Mar y Sant Pol.\n\nEl clima mediterráneo es fantástico para vivir, pero es un desafío constante para la mecánica de tu coche. La brisa marina, cargada de salitre, es el enemigo silencioso número uno. Acelera la corrosión de los bajos, el sistema de escape y, sobre todo, los componentes de los frenos. ¿Has notado un óxido prematuro en los discos? Es el efecto directo de aparcar cerca de la playa. A esto se suma el calor húmedo del verano, que pone a prueba las baterías, el sistema de refrigeración y, por supuesto, el aire acondicionado. Un coche en Calella necesita una atención especial a estos puntos para evitar averías justo cuando más lo necesitas.\n\nLas carreteras que nos rodean también dictan el tipo de mantenimiento. La N-II, con sus rotondas y su tráfico denso, especialmente en verano, castiga los embragues y los frenos de cualquier coche, ya sea un SEAT Ibiza o una furgoneta de reparto. El constante arranca-para es una tortura para la transmisión. Por otro lado, si eres de los que usan la C-32 a diario, la velocidad constante exige que tus neumáticos, la suspensión y la alineación de la dirección estén en perfecto estado. Cualquier vibración o ruido a 120 km/h no es solo una molestia, es un riesgo. Conocemos el asfalto que pisas y adaptamos nuestras revisiones a ese uso real.\n\nEl parque móvil de Calella es un reflejo de su gente: coches prácticos y trabajadores. Vemos a diario Renault Clio, Peugeot 308, Ford Focus y SEAT León, vehículos fiables para el día a día, muchos de ellos diésel, que necesitan un mantenimiento riguroso del filtro de partículas para no dar problemas en los trayectos cortos por el pueblo. También atendemos a muchos profesionales autónomos de la zona con sus furgonetas tipo Berlingo, Partner o Kangoo, que son su herramienta de trabajo y no pueden permitirse tenerlas paradas. Sea cual sea tu coche, entendemos su mecánica y sus puntos débiles en el contexto del Maresme.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV sin problemas en Pineda hasta la reparación de ese ruido raro que oyes por la N-II, cubrimos toda la mecánica.",
+  "processIntro": "Sabemos que ir al taller genera desconfianza. Por eso, te damos un presupuesto cerrado por adelantado y no hacemos nada sin tu permiso. Claridad total.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le pasa a tu coche y hacemos una primera valoración. Conectamos nuestros equipos de diagnosis para identificar el origen exacto del problema, sin rodeos ni suposiciones."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Verás claramente el coste de las piezas y la mano de obra. El precio que ves es el que pagas, sin sorpresas de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo hasta que nos des tu visto bueno explícito. Tienes el control total. Si decides no reparar, solo se factura el tiempo de diagnóstico."
+    },
+    {
+      "title": "Reparación",
+      "body": "Trabajamos con recambios de primeras marcas y te informamos del tiempo estimado. Nuestro objetivo es ser eficientes para que recuperes tu coche lo antes posible, pero sin sacrificar la calidad."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Al recoger tu coche, te explicamos la reparación realizada. Guardamos el historial de tu vehículo para futuras revisiones y te contactamos si detectamos algo a futuro. Tu tranquilidad es nuestra prioridad."
+    }
+  ],
+  "commonIssuesIntro": "El salitre del mar, el calor del verano y el tráfico denso de la N-II no perdonan. Estos son los problemas que más vemos en los coches de Calella y el Maresme.",
+  "commonIssues": [
+    {
+      "title": "Corrosión en frenos y bajos",
+      "body": "La salinidad del aire en Calella es muy agresiva. Acelera la oxidación de discos de freno, pinzas, latiguillos y el sistema de escape. En nuestras revisiones prestamos especial atención a estos componentes, limpiándolos y protegiéndolos para alargar su vida útil y garantizar tu seguridad en la frenada."
+    },
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico de la N-II, sobre todo en verano, y las calles del centro de Calella obligan a un uso intensivo del embrague y los frenos. Este ciclo de 'arranca-para' provoca un desgaste prematuro. Diagnosticamos el estado real del kit de embrague y del sistema de frenado para que no te dejen tirado."
+    },
+    {
+      "title": "Fallos en el aire acondicionado",
+      "body": "Llega junio y el aire acondicionado no enfría. Un clásico en el Maresme. El calor y la humedad fuerzan el sistema. Realizamos cargas de gas, detectamos fugas y reparamos compresores para que puedas sobrevivir al bochorno del verano, ya sea en un atasco o yendo a la playa."
+    },
+    {
+      "title": "Problemas de batería y alternador",
+      "body": "Las altas temperaturas del verano degradan las baterías más rápido de lo normal. Si a eso le sumas trayectos cortos por Calella que no permiten una recarga completa, el riesgo de que el coche no arranque aumenta. Comprobamos el estado de la batería y el rendimiento del alternador."
+    },
+    {
+      "title": "Suspensión y neumáticos fatigados",
+      "body": "Combinar los baches y badenes de las calles locales con la alta velocidad en la C-32 para ir a trabajar desgasta amortiguadores y neumáticos de forma irregular. Unos amortiguadores en mal estado aumentan la distancia de frenado. Revisamos y alineamos la dirección para un agarre seguro."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos Calella y sus coches",
+      "body": "No somos una franquicia sin alma. Entendemos los problemas específicos que causa el salitre, el calor y el tráfico de la N-II. Hablamos tu mismo idioma y conocemos tu coche."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Se acabaron las llamadas a mitad de reparación con 'ha surgido un imprevisto'. La honestidad es nuestra principal herramienta."
+    },
+    {
+      "title": "Hablamos claro, sin tecnicismos",
+      "body": "Te explicamos la avería de forma que la entiendas, para que sepas exactamente qué le pasa a tu coche y por qué hay que repararlo. Sin humo ni palabras raras para inflar la factura."
+    },
+    {
+      "title": "Para todas las marcas y modelos",
+      "body": "Da igual si conduces un Audi de importación, un Dacia para ir a la huerta o un Peugeot de empresa. Tenemos la tecnología y el conocimiento para cuidar de cualquier coche que circule por el Maresme."
+    },
+    {
+      "title": "Agilidad para autónomos",
+      "body": "Sabemos que tu furgoneta o coche de empresa es tu oficina. Priorizamos tus reparaciones para que estés parado el mínimo tiempo posible y puedas seguir trabajando."
+    }
+  ],
+  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que resolvemos cada día en nuestro taller de Calella.",
+  "testimonials": [
+    {
+      "name": "Joan",
+      "neighborhood": "Poblenou",
+      "car": "SEAT León ST 2018",
+      "body": "Hago cada día el trayecto Calella-Mataró por la C-32 y notaba una vibración rara al volante. Me lo miraron, equilibraron las ruedas y alinearon la dirección. Ahora va fino como la seda. Se nota que entienden los problemas de los que hacemos muchos kilómetros por autopista. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Centre",
+      "car": "Renault Captur 2019",
+      "body": "Llevé el coche para la revisión antes de la ITV. Me preocupaba el tema de los humos, que es diésel. Hicieron una puesta a punto completa, revisando los puntos clave que miran en la estación de Pineda. Pasó la ITV a la primera y sin fallos. Me ahorraron tiempo y un segundo viaje.",
+      "rating": 5
+    },
+    {
+      "name": "Marc",
+      "neighborhood": "Calella Park",
+      "car": "Peugeot Partner 2017",
+      "body": "Soy electricista y la furgoneta no puede fallar. Empezó a hacer un ruido metálico en los frenos. Me dieron cita rápido, vieron que las pastillas estaban gastadísimas por el salitre y el trote por el pueblo. Me lo cambiaron en el mismo día. Un servicio ágil que valoro mucho.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "El Rierany dels Frares",
+      "car": "VW Polo 2014",
+      "body": "Justo antes de verano, el aire acondicionado dejó de enfriar. Con el calor que hace aquí, era imposible ir en el coche. Me encontraron una pequeña fuga en el circuito, la repararon y recargaron el gas. El presupuesto fue claro desde el principio y lo cumplieron. Trato muy correcto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Calella da servicio a toda la ciudad, desde el barrio del Centre o Poblenou hasta las urbanizaciones como Calella Park o El Rierany dels Frares. Nuestra ubicación es accesible para todos los vecinos, pero también para conductores de poblaciones cercanas que confían en nosotros. Recibimos cada día clientes de Pineda de Mar, que llegan en pocos minutos por la N-II, y de Sant Pol de Mar. También cubrimos las necesidades de los habitantes de Sant Cebrià de Vallalta, que bajan por la BV-5126. Si te mueves por el Alt Maresme, nuestro taller es tu punto de referencia, con fácil acceso desde la C-32 si vienes de más lejos.",
+  "zoneNeighborhoods": [
+    "Calella Centre",
+    "Poblenou (Calella)",
+    "Calella Park",
+    "El Rierany dels Frares",
+    "La Muntanyeta",
+    "Pineda de Mar",
+    "Sant Pol de Mar",
+    "Canet de Mar",
+    "Sant Cebrià de Vallalta"
+  ],
+  "zoneAccessRoutes": [
+    "N-II",
+    "C-32 (Autopista del Maresme)",
+    "BV-5126"
+  ],
+  "faqLocal": [
+    {
+      "q": "Tengo que pasar la ITV en la estación de Pineda, ¿revisáis los puntos clave?",
+      "a": "Sí, por supuesto. Conocemos perfectamente los puntos que revisan con más detalle en la ITV de Pineda de Mar. Hacemos una revisión pre-ITV exhaustiva que se centra en frenos, suspensión, neumáticos, luces y, muy importante en los diésel, la opacidad de los humos. El objetivo es que vayas sobre seguro y la pases a la primera."
+    },
+    {
+      "q": "¿Cómo puedo proteger mi coche del salitre de la playa de Calella?",
+      "a": "Es una batalla constante en el Maresme. Lo más eficaz es lavar el coche con frecuencia, especialmente los bajos y los pasos de rueda, con agua a presión. En el taller, podemos aplicar tratamientos protectores específicos en el bajo del vehículo y revisar el estado de los componentes metálicos más expuestos para prevenir la corrosión grave."
+    },
+    {
+      "q": "¿Es normal que el aire acondicionado enfríe poco al empezar el verano?",
+      "a": "Es muy habitual. Durante el invierno el sistema no se usa y las juntas pueden resecarse, causando pequeñas fugas de gas. Al llegar el calor y ponerlo a máxima potencia, se nota la falta de rendimiento. Recomendamos una revisión del sistema de climatización antes de que empiece el calor fuerte para evitar sorpresas."
+    },
+    {
+      "q": "Voy cada día a Barcelona por la C-32, ¿qué neumáticos me recomendáis?",
+      "a": "Para un uso intensivo en autopista como el tuyo, la prioridad es la seguridad y la durabilidad. Te recomendaremos neumáticos de primeras marcas (Michelin, Goodyear, Continental) con un buen agarre en mojado y diseñados para aguantar muchos kilómetros a alta velocidad. Un neumático de calidad es una inversión en seguridad."
+    },
+    {
+      "q": "Uso el coche solo en verano y para trayectos cortos por Calella, ¿qué mantenimiento necesita?",
+      "a": "Ese tipo de uso es muy exigente para la batería y el motor. La batería no se recarga bien y el motor no alcanza su temperatura óptima, lo que genera carbonilla. Te recomendamos arrancar el coche una vez por semana en invierno y hacer un trayecto un poco más largo. Y, sobre todo, una revisión completa antes de empezar a usarlo intensivamente en verano."
+    },
+    {
+      "q": "¿Tenéis coche de cortesía? Lo necesito para seguir trabajando.",
+      "a": "Sí, disponemos de coche de cortesía para minimizar las molestias, especialmente para profesionales y autónomos que dependen del vehículo. Este servicio está sujeto a disponibilidad, por lo que te recomendamos solicitarlo al pedir tu cita para poder garantizar que tienes un vehículo mientras reparamos el tuyo."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Calella",
+  "closingCta": "Si tu coche te da problemas o simplemente toca revisión, no le des más vueltas. Llámanos o envíanos un WhatsApp y te daremos cita en nuestro taller de Calella. Así de fácil."
+}

@@ -1,0 +1,183 @@
+{
+  "slug": "salamanca",
+  "name": "Salamanca",
+  "province": "Salamanca",
+  "ccaa": "Castilla y León",
+  "population": 144825,
+  "lat": 40.96882,
+  "lng": -5.66388,
+  "metaTitle": "Taller mecánico en Salamanca — Multimarca y de confianza",
+  "metaDescription": "Tu taller mecánico en Salamanca para revisiones, averías y neumáticos. Presupuesto cerrado y garantía. Pide tu cita ahora y conduce tranquilo.",
+  "heroSubtitle": "Para que la próxima helada en el Zurguén o el calor de julio no te dejen tirado de camino al trabajo por la A-62.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Todas las marcas"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Revisión Pre-ITV"
+    }
+  ],
+  "introLocal": "Conducir por Salamanca y su alfoz tiene sus particularidades, y lo sabes bien. No es lo mismo hacer trayectos cortos por el centro para ir a la Facultad o al trabajo, que el viaje diario desde Santa Marta de Tormes, Carbajosa de la Sagrada o Villamayor. Ese uso urbano, de arrancar y parar constantemente por el Paseo de Canalejas o la Gran Vía, es especialmente duro para los coches diésel, que son mayoría en nuestro parque móvil. El filtro de partículas sufre, el embrague se desgasta y el consumo se dispara. En nuestro taller entendemos esta realidad porque la vivimos cada día. Sabemos que tu coche, ya sea un SEAT León para moverte por la ciudad o una furgoneta para trabajar por la provincia, necesita un mantenimiento adaptado a las condiciones de Salamanca, no un manual genérico.\n\nEl clima de Castilla y León es otro factor clave que no podemos ignorar. Las heladas y la niebla densa que nos acompañan durante meses en invierno, especialmente en zonas como Pizarrales o El Zurguén, son una prueba de fuego para las baterías. Cada año, con la primera bajada seria de temperaturas, vemos la misma escena: coches que no arrancan y clientes que llegan tarde al trabajo. Por otro lado, el verano nos trae un calor seco e intenso que pone a prueba el sistema de refrigeración y el aire acondicionado. Quedarse sin aire acondicionado en pleno agosto, atrapado en un atasco en la A-66, no es una opción. Por eso, nuestras revisiones siempre tienen en cuenta estos extremos climáticos, comprobando el estado de la batería, el nivel de anticongelante y el circuito del climatizador.\n\nAdemás, muchos de nosotros usamos el coche para salir de la ciudad, cogiendo la Autovía de Castilla (A-62) hacia Valladolid o la Ruta de la Plata (A-66) hacia el norte o el sur. Estos trayectos por autovía exigen que los neumáticos, los frenos y la suspensión estén en perfecto estado. No es solo una cuestión de pasar la ITV en el polígono de Castellanos de Moriscos, es una cuestión de seguridad para ti y tu familia. Unos amortiguadores en mal estado o unos neumáticos gastados en un día de lluvia en la autovía son un riesgo que no debes correr. En nuestro taller de Salamanca, nos tomamos muy en serio la seguridad, y cada coche que revisamos sale preparado para circular con garantías tanto por las calles de Garrido como por las carreteras nacionales.\n\nEntendemos que tu coche es una herramienta fundamental. Ya seas un autónomo que se mueve por toda la provincia, un estudiante que lo usa para volver a casa los fines de semana o una familia que vive en el alfoz, necesitas un taller de confianza, que te hable claro y te dé un presupuesto cerrado. No queremos que te lleves sorpresas. Nuestro compromiso es ofrecerte un diagnóstico honesto y una reparación de calidad, utilizando recambios de primeras marcas, para que puedas seguir con tu día a día en Salamanca sin preocuparte por la mecánica. Conocemos los coches que se conducen aquí, desde el Peugeot 208 hasta la Citroën Berlingo, y sabemos qué necesitan para funcionar de forma fiable en nuestro entorno.",
+  "servicesIntro": "Desde la revisión anual antes de irte de vacaciones hasta esa avería inesperada, cubrimos todas las necesidades de tu coche en Salamanca.",
+  "processIntro": "Trabajamos con total transparencia para que siempre sepas qué le pasa a tu coche y cuánto te va a costar, sin sorpresas ni letra pequeña.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico inicial",
+      "body": "Cuando traes tu coche, un mecánico especialista lo revisa a fondo y escucha tus preocupaciones. Utilizamos equipos de diagnosis modernos para identificar con precisión el origen del problema, sea mecánico o electrónico."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te preparamos un presupuesto detallado y por escrito. Lo que ves es lo que pagas. Si durante la reparación surgiera un imprevisto, te contactaríamos inmediatamente para informarte y pedir tu aprobación."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No empezamos ninguna reparación ni cambiamos ninguna pieza sin tu consentimiento explícito. Tienes el control total sobre lo que se le hace a tu vehículo y sobre el coste final de la factura."
+    },
+    {
+      "title": "Reparación y piezas",
+      "body": "Nuestros mecánicos realizan el trabajo siguiendo las especificaciones del fabricante. Solo utilizamos recambios de primeras marcas con garantía, asegurando una reparación duradera y fiable para tu coche."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche esté listo. Al recogerlo, te explicamos la reparación realizada y te entregamos la factura detallada. Nos aseguramos de que te vayas completamente satisfecho con el servicio."
+    }
+  ],
+  "commonIssuesIntro": "El clima extremo de Salamanca y el tipo de conducción en la ciudad y su alfoz provocan una serie de averías muy características que vemos a diario en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Baterías que mueren en invierno",
+      "body": "El frío intenso y las heladas de Salamanca son el enemigo número uno de las baterías. Si tu coche duerme en la calle en barrios como Capuchinos o San José, es probable que una mañana no arranque. Revisamos y comprobamos el estado de tu batería para evitar que te deje tirado en el peor momento."
+    },
+    {
+      "title": "Filtro de partículas (DPF) obstruido",
+      "body": "Muchos salmantinos usan su coche diésel para trayectos cortos por la ciudad, lo que impide que el filtro de partículas se regenere correctamente. Esto provoca pérdida de potencia y averías costosas. Realizamos limpiezas y regeneraciones forzadas para alargar la vida del DPF y evitar su sustitución."
+    },
+    {
+      "title": "Fallo del aire acondicionado en verano",
+      "body": "El calor seco y sofocante del verano en Castilla pone el sistema de climatización al límite. Una fuga en el circuito o la falta de gas pueden convertir tu coche en un horno. Hacemos cargas de gas y detectamos fugas para que puedas combatir el calor de julio y agosto sin problemas."
+    },
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El tráfico de entrar y salir de Salamanca en hora punta, especialmente si vienes de municipios como Carbajosa o Villares de la Reina, castiga mucho el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche frena menos, es hora de una revisión."
+    },
+    {
+      "title": "Problemas de suspensión y silentblocks",
+      "body": "Aunque las carreteras principales como la A-62 están bien, algunas calles de la ciudad y carreteras comarcales de la provincia tienen un asfalto irregular. Esto, sumado a los badenes, acaba dañando amortiguadores y silentblocks, provocando ruidos y un mal comportamiento del coche."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Expertos en el clima local",
+      "body": "Conocemos el efecto que el frío de enero y el calor de agosto tienen en tu coche. Adaptamos cada revisión a las condiciones climáticas de Salamanca para prevenir las averías más comunes de cada estación."
+    },
+    {
+      "title": "Para el coche que usas aquí",
+      "body": "Sabemos que el parque móvil de Salamanca es variado. Desde un utilitario para la ciudad hasta un 4x4 para el campo, entendemos las necesidades de cada vehículo y su tipo de uso en nuestra provincia."
+    },
+    {
+      "title": "Presupuestos sin sustos",
+      "body": "Te damos un presupuesto cerrado antes de empezar. Sin costes ocultos ni sorpresas en la factura final. La honestidad es la base de la confianza, y queremos que vuelvas."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Todas nuestras intervenciones y los recambios que utilizamos están garantizados por escrito. Queremos que conduzcas con total tranquilidad sabiendo que el trabajo está bien hecho."
+    },
+    {
+      "title": "Cerca de ti y de tus rutas",
+      "body": "Estamos ubicados en un punto estratégico de Salamanca, con fácil acceso desde las principales vías como la SA-20 o la A-66, para que dejar y recoger tu coche sea cómodo y rápido."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que solucionamos cada día, contadas por conductores de Salamanca y alrededores como tú.",
+  "testimonials": [
+    {
+      "name": "Javier",
+      "neighborhood": "Garrido",
+      "car": "SEAT León 1.6 TDI 2016",
+      "body": "Lo uso todos los días para ir a trabajar al polígono y notaba que el coche había perdido fuerza. Me dijeron que era el filtro de partículas por hacer tanto trayecto corto. Me lo solucionaron rápido, con una limpieza, y me explicaron cómo evitar que vuelva a pasar. Muy profesionales y claros.",
+      "rating": 5
+    },
+    {
+      "name": "Isabel",
+      "neighborhood": "Santa Marta de Tormes",
+      "car": "Renault Clio 2018",
+      "body": "Tenía que pasar la ITV y no estaba segura de si los frenos y las luces estaban bien. Les pedí una revisión pre-ITV y me encontraron una bombilla fundida y las pastillas de freno delanteras algo gastadas. Me lo cambiaron en el mismo día y pasé la ITV sin ningún problema. Un alivio.",
+      "rating": 5
+    },
+    {
+      "name": "David",
+      "neighborhood": "Pizarrales",
+      "car": "Ford Focus 2012",
+      "body": "Con el frío de enero, el coche empezó a hacer el tonto al arrancar hasta que un día no hubo manera. La batería estaba muerta. Les llamé, me dieron cita para esa misma tarde y me pusieron una nueva a un precio razonable. Me salvaron de una buena. Muy agradecido por la rapidez.",
+      "rating": 5
+    },
+    {
+      "name": "Sara",
+      "neighborhood": "Carbajosa de la Sagrada",
+      "car": "Peugeot 3008 2017",
+      "body": "El aire acondicionado no enfriaba nada, solo echaba aire caliente. Con el verano que nos esperaba, era un drama. Me encontraron una pequeña fuga en el circuito, la repararon y me recargaron el gas. Ahora enfría perfectamente. El trato fue bueno, aunque tardaron un poco más de lo previsto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Salamanca y a los principales municipios de su alfoz. Si vives en barrios como Garrido, El Zurguén, Pizarrales, Capuchinos, San Bernardo o Vidal, nuestro taller te queda a mano. También somos el taller de confianza para muchos conductores que viven en Santa Marta de Tormes, Carbajosa de la Sagrada, Villamayor, Villares de la Reina o Aldeatejada y que entran a Salamanca a diario para trabajar o estudiar. Gracias a nuestra ubicación, puedes llegar fácilmente desde las principales vías de acceso como la A-62 (Autovía de Castilla), la A-66 (Ruta de la Plata) o la circunvalación SA-20, evitando el tráfico del centro de la ciudad.",
+  "zoneNeighborhoods": [
+    "Garrido",
+    "Pizarrales",
+    "El Zurguén",
+    "San Bernardo",
+    "Vidal",
+    "Capuchinos",
+    "Santa Marta de Tormes",
+    "Carbajosa de la Sagrada",
+    "Villamayor",
+    "Villares de la Reina"
+  ],
+  "zoneAccessRoutes": [
+    "A-62 (Autovía de Castilla)",
+    "A-66 (Autovía Ruta de la Plata)",
+    "SA-20 (Ronda Sur de Salamanca)",
+    "N-620",
+    "N-630"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Es necesario poner neumáticos de invierno en Salamanca?",
+      "a": "No es obligatorio, pero sí muy recomendable. Los inviernos en Salamanca son fríos, con heladas frecuentes y posibilidad de nieve. Un neumático de invierno o un 'todo tiempo' con certificación invernal te dará mucha más seguridad y agarre por debajo de 7°C, algo habitual durante varios meses al año, especialmente si circulas a primera hora de la mañana."
+    },
+    {
+      "q": "Uso mi coche diésel solo para moverme por la ciudad. ¿Qué mantenimiento especial necesita?",
+      "a": "El uso exclusivo en ciudad es muy perjudicial para los diésel modernos. El filtro de partículas (DPF) no alcanza la temperatura para regenerarse y se obstruye. Te recomendamos que, al menos una vez por semana, salgas a carretera y conduzcas durante 20-30 minutos a un régimen de revoluciones más alto (por ejemplo, en 4ª a 100-110 km/h por la A-62) para forzar esa limpieza."
+    },
+    {
+      "q": "Tengo que pasar la ITV en el polígono de Castellanos de Moriscos, ¿revisáis los puntos clave?",
+      "a": "Sí, por supuesto. Ofrecemos un servicio de revisión Pre-ITV muy completo. Comprobamos todos los puntos críticos que miran en la inspección: luces, frenos, neumáticos, suspensión, niveles de líquidos y emisiones de gases. Así te aseguras de pasarla a la primera y te ahorras tiempo y dinero."
+    },
+    {
+      "q": "En invierno echan mucha sal en las carreteras, ¿puede dañar mi coche?",
+      "a": "Sí, la sal es muy corrosiva para los bajos del coche, el sistema de escape, los frenos y la carrocería. Es muy importante lavar el coche con frecuencia en invierno, prestando especial atención a los bajos, para eliminar los restos de sal y prevenir la oxidación prematura de componentes metálicos."
+    },
+    {
+      "q": "Mi coche tiene ya más de 10 años, ¿seguís trabajando con modelos más antiguos?",
+      "a": "Claro que sí. Somos un taller multimarca y estamos acostumbrados a trabajar con el parque automovilístico real de Salamanca, que incluye muchos coches de entre 8 y 15 años. Tenemos la experiencia y el equipo para diagnosticar y reparar tanto modelos recientes como vehículos más veteranos."
+    },
+    {
+      "q": "¿Puedo esperar en el taller mientras hacéis una reparación rápida?",
+      "a": "Para intervenciones cortas como un cambio de aceite, de pastillas de freno o la sustitución de una batería, puedes esperar en nuestra zona de clientes. Para reparaciones más largas, te recomendamos dejar el coche y te avisaremos por teléfono en cuanto esté listo para recoger."
+    }
+  ],
+  "closingHeadline": "Tu coche a punto en Salamanca",
+  "closingCta": "Pide tu presupuesto sin compromiso o reserva tu cita. Llámanos o escríbenos un WhatsApp y te atenderemos encantados para resolver cualquier duda sobre tu coche en Salamanca."
+}

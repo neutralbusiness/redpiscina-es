@@ -1,0 +1,185 @@
+{
+  "slug": "colmenar-viejo",
+  "name": "Colmenar Viejo",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 43700,
+  "lat": 40.65909,
+  "lng": -3.76762,
+  "metaTitle": "Taller mecánico en Colmenar Viejo — Presupuesto cerrado y honesto",
+  "metaDescription": "Cansado de facturas infladas y sorpresas en tu taller? En Colmenar Viejo te damos un presupuesto cerrado para la revisión, averías o neumáticos. Pide cita.",
+  "heroSubtitle": "Sabemos que dependes del coche cada día en la M-607. Mereces un taller en Colmenar que no te tome el pelo con la factura final.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir en Colmenar Viejo no es una opción, es una necesidad. Cada mañana, miles de coches se incorporan a la M-607 en un ritual diario con destino a Madrid, Tres Cantos o la Autónoma. Tu coche no es un lujo, es la herramienta que te permite trabajar, llevar a los niños al colegio o simplemente vivir. Y cuando esa herramienta falla, te sientes vulnerable. Seguramente ya conoces esa sensación: la luz de avería que se enciende de camino al trabajo, el presupuesto que empieza siendo una cosa y acaba siendo otra, la llamada del taller con un “oye, que ha surgido esto otro…”. Esa desconfianza, nacida de malas experiencias, es precisamente lo que queremos cambiar.\n\nColmenar no es una ciudad dormitorio más. Tiene un carácter propio, forjado entre las canteras de granito y la presencia de la base de las FAMET. Aquí siempre ha habido una cultura del motor, de la mecánica de verdad. Pero el crecimiento espectacular de la ciudad, con nuevos barrios como El Vivero o La Estación, ha traído también un parque móvil mucho más moderno y complejo. El taller de “toda la vida” a veces se queda corto, y han proliferado otros que aplican la misma fórmula opaca de siempre a coches con mucha más electrónica. El resultado es el mismo: el conductor paga la factura de la incertidumbre.\n\nEl clima de la precordillera de la Sierra de Guadarrama tampoco ayuda. Las mañanas de invierno, con el coche cubierto de hielo en una calle de Las Adelfas, son una prueba de fuego para cualquier batería. Los veranos, con el asfalto de la M-607 ardiendo a las tres de la tarde, ponen al límite el sistema de refrigeración y el aire acondicionado. Cada estación trae sus propios desafíos mecánicos, y cada uno de ellos es una potencial visita al taller. Una visita que, para muchos, va acompañada de una dosis de ansiedad por no saber cuánto va a costar realmente la broma.\n\nEl tipo de coche que conducimos por aquí también lo dice todo. Hay una mezcla de diésel ruteros, devoradores de kilómetros en autovía, con SUVs familiares para las escapadas de fin de semana a La Pedriza o Manzanares el Real, y coches más pequeños y veteranos para moverse por el pueblo. Cada uno tiene sus achaques: el filtro de partículas de ese diésel que sufre en los atascos, los frenos de ese SUV que bajan puertos de montaña, el embrague de ese utilitario que ya tiene sus años… Atender esta diversidad requiere un conocimiento profundo, no recetas genéricas que acaban inflando el presupuesto.\n\nPor eso nuestro enfoque es radicalmente distinto. Entendemos tu coche, pero sobre todo, entendemos tu contexto y tu escepticismo. No vamos a contarte historias. Nuestro proceso se basa en un pilar innegociable: el presupuesto cerrado. Te decimos qué le pasa a tu coche, cuánto cuesta arreglarlo y no empezamos a trabajar hasta que nos das tu visto bueno. Sin letra pequeña, sin sorpresas, sin llamadas a media mañana para añadir conceptos a la factura. Es la única forma de recuperar la confianza perdida. Un taller honesto para la gente de Colmenar Viejo.",
+  "servicesIntro": "Tanto si es la revisión para pasar la ITV de Tres Cantos sin agobios, como un embrague gastado por los atascos diarios de la M-607, aquí lo cubrimos todo.",
+  "processIntro": "Se acabó el miedo a la llamada del taller. Este es nuestro proceso, pensado para que sepas qué le pasa a tu coche y cuánto te va a costar desde el minuto uno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Tu coche llega y lo primero es escucharte. Luego, conectamos nuestros equipos para entender el fallo real, no para empezar a cambiar piezas sin saber. La tecnología nos ayuda a ser precisos y a no hacerte perder el tiempo ni el dinero."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado por escrito. Incluye piezas, mano de obra e IVA. El precio que ves es el precio final que pagas. Ni un céntimo más. La transparencia es la base de nuestro trabajo."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola tuerca ni tocamos un tornillo sin tu aprobación explícita. Recibes el presupuesto, lo valoras con calma y nos das luz verde por teléfono o WhatsApp. El control siempre lo tienes tú, como debe ser."
+    },
+    {
+      "title": "Reparación",
+      "body": "Una vez aprobado, nuestros mecánicos se ponen a ello. Usamos recambios de primeras marcas con garantía y te mantenemos informado de los plazos. Trabajamos de forma rigurosa para que la reparación sea duradera y fiable."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche esté listo. Al recogerlo, te explicamos con detalle la reparación realizada. Y no nos olvidamos de ti: nos aseguramos de que todo funcione perfectamente días después de la entrega."
+    }
+  ],
+  "commonIssuesIntro": "Vivir en Colmenar implica un desgaste particular para tu coche: las heladas de la sierra, el calor seco del verano y los kilómetros en la autovía dejan su huella en la mecánica.",
+  "commonIssues": [
+    {
+      "title": "Embragues y distribuciones por el 'efecto M-607'",
+      "body": "El trayecto diario a Madrid con sus atascos intermitentes es un castigo para el embrague. Su desgaste se acelera muchísimo. Lo mismo ocurre con la correa de distribución por el alto kilometraje. Revisamos su estado real basándonos en tu uso, no solo en la teoría del fabricante, para evitar averías graves."
+    },
+    {
+      "title": "Problemas de batería en los inviernos de Colmenar",
+      "body": "Las heladas de la sierra no perdonan. Una batería que ya está algo débil puede dejarte tirado una mañana de enero en El Vivero. Por eso, en cada revisión comprobamos su estado de carga y salud para anticiparnos al problema y que no te lleves una sorpresa desagradable."
+    },
+    {
+      "title": "Frenos y suspensiones fatigados por la sierra",
+      "body": "La combinación de kilómetros en la M-607 y las escapadas de fin de semana a Manzanares, Soto del Real o la subida a Navacerrada exige mucho a los frenos y amortiguadores. Las carreteras con curvas y desniveles acortan su vida útil. Ponemos especial atención en estos componentes."
+    },
+    {
+      "title": "Filtros de partículas (FAP) en diésel de corto recorrido",
+      "body": "Muchos diésel hacen la ruta a Madrid, pero también trayectos cortos por Colmenar. Esta combinación es fatal para el FAP, que no consigue regenerarse y acaba obstruido, provocando una avería cara. Diagnosticamos su estado y podemos forzar la regeneración antes de que sea tarde."
+    },
+    {
+      "title": "Fallos y recargas del aire acondicionado",
+      "body": "El verano en la Comunidad de Madrid es muy duro, y el aire acondicionado no es un lujo. El calor extremo y el polvo de las zonas en expansión de Colmenar fuerzan el compresor y pueden provocar fugas en el circuito. Una revisión y recarga a tiempo evita averías mayores y costosas."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "Lo que te decimos que cuesta, es lo que cuesta. Por escrito y antes de empezar. Se acabaron las facturas misteriosas y los extras de última hora."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "No cambiamos piezas por cambiar. Buscamos el origen real de la avería para que no vuelvas en dos meses con el mismo problema. Ahorras tiempo y dinero."
+    },
+    {
+      "title": "Entendemos tu coche y tu vida",
+      "body": "Sabemos que tu coche es tu herramienta para ir a trabajar o llevar a los niños al colegio. Lo tratamos con esa prioridad, para devolvértelo lo antes posible."
+    },
+    {
+      "title": "Comunicación clara y directa",
+      "body": "Te hablamos en un lenguaje que entiendes, sin tecnicismos innecesarios. Si algo no está claro, te lo explicamos las veces que haga falta. Sin prisa."
+    },
+    {
+      "title": "Conocemos Colmenar",
+      "body": "Sabemos lo que sufre un coche que baja la M-607 a diario, que duerme a la intemperie en invierno y que se usa para escapadas a la sierra. Adaptamos el mantenimiento a esa realidad."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Todas nuestras intervenciones y los recambios que instalamos están garantizados por ley. Puedes estar tranquilo sabiendo que el trabajo está bien hecho y respaldado."
+    }
+  ],
+  "testimonialsIntro": "Estas son algunas historias y ejemplos de casos que hemos resuelto, situaciones de conductores de Colmenar como tú que buscaban un taller de confianza.",
+  "testimonials": [
+    {
+      "name": "Carlos",
+      "neighborhood": "La Estación",
+      "car": "Seat León TDI 2016",
+      "body": "Me fallaba el coche justo al salir hacia Tres Cantos. En mi taller de siempre me daban largas y excusas. Aquí me hicieron un diagnóstico rápido, me enviaron el presupuesto al móvil y en un día lo tenía listo. Se agradece la transparencia, que ya me la habían liado en otro sitio con 'costes extra' que aparecían de la nada.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Centro",
+      "car": "Renault Clio 2012",
+      "body": "Tenía que pasar la ITV y el coche hacía un ruido raro al frenar. Me lo miraron, me dijeron que eran las pastillas y me dieron un precio cerrado. Ni un euro más al final. Me lo dejaron perfecto y pasó la ITV sin problemas. Muy profesionales, no intentan colarte nada que no necesites de verdad.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "El Vivero",
+      "car": "Ford Focus 2018",
+      "body": "Soy autónomo y el coche es mi oficina. Se me encendió un testigo del motor y me puse de los nervios. Me atendieron súper rápido, encontraron un problema en un sensor y me explicaron exactamente qué era y por qué había fallado. El precio, el que me dijeron al principio. Un alivio encontrar gente así.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Las Adelfas",
+      "car": "Opel Astra 2010",
+      "body": "Llevaba tiempo con el aire acondicionado que no enfriaba bien. Pensaba que sería una pasta. Me revisaron el circuito, vieron que era una pequeña fuga y lo solucionaron. El presupuesto fue razonable y, lo más importante, se cumplió. La comunicación fue buena, aunque tardaron un poco más de lo previsto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller da servicio a toda la zona de Colmenar Viejo. Si vives en barrios como La Estación, El Vivero, Las Adelfas, Los Arcos o la zona centro, estamos a tu lado. Nuestra ubicación estratégica nos permite ser el taller de referencia también para los profesionales de los polígonos industriales y para conductores de municipios colindantes como Soto del Real, Manzanares el Real o Guadalix de la Sierra. Nos encontrarás fácilmente si te mueves por la M-607, la principal arteria de comunicación con Madrid, o si utilizas carreteras comarcales clave como la M-618 hacia Hoyo de Manzanares o la M-625.",
+  "zoneNeighborhoods": [
+    "La Estación",
+    "El Vivero",
+    "Las Adelfas",
+    "Los Arcos",
+    "Centro",
+    "Soto del Real",
+    "Manzanares el Real",
+    "Guadalix de la Sierra",
+    "Polígono Industrial Sur"
+  ],
+  "zoneAccessRoutes": [
+    "M-607",
+    "M-618",
+    "M-625",
+    "M-104"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Tenéis en cuenta el 'maltrato' que sufre el coche en la M-607 para las revisiones?",
+      "a": "Totalmente. No es lo mismo un coche de uso urbano que uno que hace 80 km diarios en la M-607. En nuestras revisiones prestamos especial atención a elementos de desgaste acelerado por este tipo de uso: embrague, frenos, neumáticos y filtro de partículas en los diésel. Te aconsejamos un mantenimiento preventivo ajustado a tu rutina real, no solo al manual del fabricante."
+    },
+    {
+      "q": "Mi coche duerme en la calle en Colmenar, ¿necesita algún cuidado especial por el frío?",
+      "a": "Sí, sin duda. Las heladas de Colmenar son duras, sobre todo para la batería. Recomendamos revisar su estado antes de que llegue el frío intenso para evitar que una mañana no te arranque. También comprobamos el nivel y la calidad del líquido anticongelante, que es vital para proteger el motor a temperaturas bajo cero, algo muy común aquí."
+    },
+    {
+      "q": "Voy mucho a la sierra los fines de semana, ¿afecta esto al mantenimiento?",
+      "a": "Claro que sí. Las carreteras de montaña como las que llevan a La Pedriza o al Puerto de Navacerrada exigen mucho más a los frenos, la suspensión y la caja de cambios. Si es tu caso, es buena idea revisar el líquido de frenos con más frecuencia y vigilar el desgaste de las pastillas y los neumáticos, que sufren más de lo normal."
+    },
+    {
+      "q": "Vivo en una urbanización nueva de Colmenar y hay mucho polvo, ¿es un problema?",
+      "a": "Es muy recomendable vigilarlo. El polvo en suspensión, típico de zonas en expansión como El Vivero, obstruye antes de tiempo el filtro del aire del motor y el filtro del habitáculo. Un filtro de aire sucio aumenta el consumo, y uno de habitáculo sucio empeora la calidad del aire que respiras y fuerza el aire acondicionado."
+    },
+    {
+      "q": "Uso el coche para ir de Colmenar a Tres Cantos, ¿es un trayecto malo para mi diésel?",
+      "a": "Puede serlo. Si el trayecto por la M-607 no permite que el motor diésel alcance su temperatura óptima durante suficiente tiempo, el filtro de partículas (FAP) puede tener problemas para regenerarse. Esto, a la larga, provoca averías costosas. En el taller podemos forzar una regeneración o aconsejarte sobre cómo evitar el problema."
+    },
+    {
+      "q": "¿Me preparáis el coche para pasar la ITV en la estación de Tres Cantos?",
+      "a": "Por supuesto. Ofrecemos un servicio Pre-ITV completo donde revisamos todos los puntos clave que miran en la inspección de Tres Cantos o en cualquier otra: luces, frenos, suspensión, holguras, neumáticos y emisiones de gases. El objetivo es que la pases a la primera, sin perder tiempo ni dinero en una segunda visita."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto para la vida en Colmenar",
+  "closingCta": "Se acabaron las dudas y las facturas con sorpresas. Pide tu presupuesto cerrado para tu taller en Colmenar Viejo. Llámanos o escríbenos un WhatsApp y vuelve a confiar en tu mecánico."
+}

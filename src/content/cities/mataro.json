@@ -1,0 +1,191 @@
+{
+  "slug": "mataro",
+  "name": "Mataró",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 126988,
+  "lat": 41.54211,
+  "lng": 2.4445,
+  "metaTitle": "Taller mecánico en Mataró — Multimarca y de confianza",
+  "metaDescription": "Tu taller multimarca en Mataró para revisiones, averías y neumáticos. Pide presupuesto cerrado y evita sorpresas. ¡Cuidamos tu coche con total transparencia!",
+  "heroSubtitle": "Harto de los atascos en la C-32 y el desgaste de ir a Barcelona cada día? Tu coche necesita un taller en Mataró que entienda tu rutina.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si conduces por Mataró y el Maresme, sabes que tu coche no tiene una vida fácil. No es lo mismo usarlo solo para ir al Mataró Parc el fin de semana que hacer cada día el trayecto Mataró-Barcelona por la C-32 o la N-II. El tráfico denso al entrar en la capital, las caravanas en la Ronda de Dalt o las retenciones en la propia Ronda de Mataró a horas punta someten a tu embrague, frenos y motor a un estrés constante. En nuestro taller, no vemos solo un coche; vemos tu Peugeot 308 diésel que sufre en los semáforos del Camí Ral o tu SEAT León que necesita estar a punto para subir y bajar a diario a la zona universitaria. Entendemos el desgaste específico que provoca la rutina de un conductor del Maresme.\n\nEl clima de Mataró es otro factor clave que no se puede ignorar. La proximidad al mar Mediterráneo, aunque agradable, trae consigo un enemigo silencioso para tu vehículo: el salitre. Esta salinidad en el aire acelera la corrosión de los bajos del coche, el sistema de escape, los conductos de freno y cualquier parte metálica expuesta. Por eso, una revisión en Mataró debe incluir una inspección a fondo de estos elementos, algo que en un taller del interior quizás pasarían por alto. Además, los veranos calurosos y húmedos ponen a prueba el sistema de aire acondicionado, una avería muy común cuando más lo necesitas. Sabemos que un coche en la costa envejece de forma distinta.\n\nEl parque automovilístico de Mataró es tan diverso como sus barrios. Vemos a diario los coches de familias de Cerdanyola o Rocafonda, vehículos prácticos y fiables que necesitan un mantenimiento económico y honesto. Atendemos a los autónomos con sus furgonetas Citroën Berlingo o Renault Kangoo que trabajan en el polígono del Pla d'en Boet y no pueden permitirse tener la herramienta de trabajo parada un solo día. También cuidamos los coches de quienes viven en el Eixample o en urbanizaciones de Argentona o Cabrera de Mar, que buscan un servicio profesional sin los precios de un concesionario oficial. Sea cual sea tu coche y tu rutina, hablamos tu mismo idioma.\n\nTodo esto se traduce en un enfoque de mantenimiento y reparación adaptado a Mataró. Cuando diagnosticamos un problema en el filtro de partículas (FAP), a menudo se debe a los trayectos cortos por la ciudad que impiden su regeneración. Si un cliente se queja de ruidos en la suspensión, pensamos en los badenes de las zonas residenciales o en el estado de algunas calles secundarias. No aplicamos soluciones genéricas. Analizamos cómo usas tu coche aquí, en el Maresme, para darte una solución duradera y un presupuesto justo. Porque un taller local debe entender la realidad local, desde el tipo de asfalto hasta el efecto de la brisa marina.\n\nPor eso, si buscas un taller mecánico en Mataró que vaya más allá de cambiar aceite y filtros, estás en el lugar correcto. Somos un taller multimarca que ofrece la misma calidad que un servicio oficial pero con la cercanía, la transparencia y los precios de un negocio de confianza. Te damos un presupuesto cerrado antes de empezar y no tocamos un solo tornillo sin tu autorización. Queremos ser tu taller de referencia en Mataró, el que recomiendas a tus vecinos y familiares porque sabes que aquí, cuidamos de tu coche como si fuera nuestro.",
+  "servicesIntro": "Desde la revisión para pasar la ITV de Mataró sin problemas hasta esa avería que te ha dejado tirado en la N-II, lo cubrimos todo.",
+  "processIntro": "Sabemos que la confianza es clave. Por eso, te damos un presupuesto cerrado y no hacemos nada en tu coche sin tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le pasa a tu coche y conectamos nuestro equipo de diagnosis para identificar la avería con precisión. No dejamos nada al azar."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas, sin costes ocultos ni sorpresas de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ninguna pieza ni empezamos la reparación hasta que nos das tu confirmación explícita. Tú tienes siempre el control total sobre tu coche y tu gasto."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado del proceso y los plazos."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando recoges tu coche, te explicamos la reparación realizada. Unos días después, te llamamos para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El salitre del mar, los atascos en la Ronda de Mataró y los trayectos diarios a Barcelona provocan averías muy típicas en los coches de la zona que conocemos bien.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico de Mataró, con sus cuestas en barrios como Cirera o Vista Alegre, y las retenciones diarias en la C-32 para ir a Barcelona, castigan el embrague y los frenos. Detectamos el desgaste a tiempo y usamos componentes de alta durabilidad para que aguantes más kilómetros."
+    },
+    {
+      "title": "Problemas con el filtro de partículas (FAP/DPF)",
+      "body": "Si usas tu diésel para trayectos cortos por la ciudad, como ir de Peramàs al centro, es normal que el filtro se sature. Somos especialistas en la diagnosis y limpieza de FAP, una solución mucho más económica que la sustitución que te propondrán en otros sitios."
+    },
+    {
+      "title": "Corrosión en bajos y sistema de escape",
+      "body": "Es el problema número uno en el Maresme. La brisa marina carga el aire de salitre que devora el metal. En cada revisión, inspeccionamos a fondo los bajos, las líneas de freno y el escape para detectar y frenar la corrosión antes de que se convierta en una avería grave y costosa."
+    },
+    {
+      "title": "Averías en el aire acondicionado",
+      "body": "Los veranos húmedos y calurosos de Mataró hacen que el aire acondicionado trabaje a pleno rendimiento durante meses. Esto provoca fugas de gas, fallos en el compresor o malos olores. Hacemos cargas, detectamos fugas y reparamos el sistema para que el calor no sea un problema."
+    },
+    {
+      "title": "Fallos en suspensión y silentblocks",
+      "body": "El asfalto irregular de algunas calles, los badenes para reducir la velocidad y las carreteras secundarias hacia Dosrius o el Montnegre i el Corredor, pasan factura a amortiguadores y silentblocks. Si notas ruidos o inestabilidad, lo revisamos para devolverte la seguridad al volante."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos Mataró",
+      "body": "Entendemos cómo afecta a tu coche conducir por el Maresme, el salitre, los atascos de la C-32... Nuestro diagnóstico es más preciso porque conocemos el entorno."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el precio final. Si durante la reparación surge un imprevisto, paramos y te llamamos. Tú decides siempre."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Tenemos la tecnología y la experiencia para reparar tu coche, sea un Dacia Sandero de 2015 o un BMW X3 de 2012. Sin distinciones."
+    },
+    {
+      "title": "Transparencia total",
+      "body": "Te explicamos las averías de forma que las entiendas, sin tecnicismos. Si quieres, te enseñamos las piezas sustituidas. Cero misterios."
+    },
+    {
+      "title": "Garantía por escrito",
+      "body": "Todas nuestras reparaciones y recambios están garantizados. Queremos que conduzcas con total tranquilidad sabiendo que hemos hecho un buen trabajo."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de casos reales de conductores de Mataró y cómo les hemos ayudado a volver a la carretera con confianza.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Cerdanyola",
+      "car": "SEAT León TDI 2016",
+      "body": "El coche me daba tirones y se encendió el testigo del motor. Lo uso mucho por Mataró para trayectos cortos y en el taller me explicaron que era el filtro de partículas. Me lo limpiaron y me dieron consejos para evitar que volviera a pasar. Un servicio honesto y mucho más barato que cambiar la pieza.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Centre",
+      "car": "Peugeot 208 2018",
+      "body": "Tenía que pasar la ITV y no quería sorpresas. Les pedí una revisión pre-ITV y me encontraron un silentblock en mal estado. Lo cambiaron el mismo día y pasé la ITV sin ningún fallo. Muy profesionales y el presupuesto fue exactamente el que me dijeron. Repetiré sin duda para la revisión anual.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Rocafonda",
+      "car": "Renault Kangoo 2015",
+      "body": "Soy autónomo y la furgoneta es mi oficina. El embrague empezó a patinar y necesitaba una solución rápida. Me dieron cita enseguida, entendieron mi urgencia y cumplieron el plazo. El precio, muy correcto. Saber que hay un taller de confianza en Mataró que entiende a los profesionales es un alivio.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Argentona",
+      "car": "VW Golf 2013",
+      "body": "Oía un ruido metálico en las ruedas traseras y en el concesionario oficial me daban cita para dentro de dos semanas. Aquí me lo cogieron al día siguiente, diagnosticaron un problema en los rodamientos y me lo solucionaron. El trato fue mucho más cercano y me explicaron todo perfectamente. Vale la pena bajar a Mataró.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda Mataró y a las poblaciones cercanas del Maresme. Tanto si vives en barrios céntricos como el Eixample o Peramàs, como en zonas más amplias como Cerdanyola, Rocafonda o Cirera, somos tu taller de proximidad. Muchos de nuestros clientes vienen de municipios colindantes como Argentona, Cabrera de Mar, Vilassar de Mar o Sant Andreu de Llavaneres, buscando un servicio transparente y profesional. Estamos perfectamente comunicados a través de las vías principales que vertebran la comarca, como la autopista C-32, la carretera N-II, la C-60 que conecta con Granollers y la ronda local B-40, lo que facilita que llegues a nuestro taller sin complicaciones.",
+  "zoneNeighborhoods": [
+    "Cerdanyola",
+    "Rocafonda",
+    "Peramàs-Eixample",
+    "Cirera",
+    "Pla d'en Boet",
+    "Vista Alegre",
+    "Argentona",
+    "Cabrera de Mar",
+    "Vilassar de Mar",
+    "Sant Andreu de Llavaneres"
+  ],
+  "zoneAccessRoutes": [
+    "C-32 (Autopista del Maresme)",
+    "N-II",
+    "C-60 (Mataró-Granollers)",
+    "B-40 (Ronda de Mataró)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Estáis especializados en problemas de corrosión por el salitre del mar?",
+      "a": "Sí, totalmente. Es una de nuestras especialidades por estar en Mataró. En cada revisión, hacemos una inspección visual de los bajos, escape y conductos de freno, que son las zonas más afectadas por el ambiente marino del Maresme. Sabemos qué buscar y cómo prevenir averías graves."
+    },
+    {
+      "q": "Voy cada día a trabajar a Barcelona por la C-32, ¿qué mantenimiento es más importante para mi coche?",
+      "a": "Para ese tipo de uso intensivo, es crucial vigilar el desgaste de embrague, frenos y neumáticos. En los motores diésel, el turbo y el filtro de partículas también sufren mucho. Te recomendamos revisiones periódicas de estos elementos para evitar averías que te dejen tirado en plena autopista."
+    },
+    {
+      "q": "La revisión pre-ITV que hacéis, ¿me asegura pasarla en la estación de Mataró?",
+      "a": "Nuestra revisión pre-ITV sigue punto por punto los mismos criterios que aplican en cualquier estación oficial, incluida la de Mataró. Comprobamos luces, frenos, emisiones, neumáticos, etc. Si detectamos algo, te damos presupuesto para solucionarlo y que vayas a la inspección con total garantía de pasarla a la primera."
+    },
+    {
+      "q": "Tengo un Ford Focus de 2009. ¿Trabajáis con coches de más de 10 años?",
+      "a": "Por supuesto. De hecho, son la mayoría de los coches que reparamos. El parque automovilístico de Mataró tiene una media de edad elevada y estamos perfectamente equipados y formados para mantener y reparar vehículos de entre 4 y 15 años, sea cual sea la marca. Conocemos sus puntos débiles y cómo mantenerlos fiables."
+    },
+    {
+      "q": "Vivo en Cabrera de Mar, ¿por qué debería llevaros el coche a Mataró?",
+      "a": "Muchos clientes de Cabrera, Vilassar o Argentona nos eligen por nuestra política de presupuesto cerrado y transparencia. Saben que no se encontrarán sorpresas en la factura y que les explicaremos cualquier avería de forma clara. La confianza y la honestidad son nuestra mejor carta de presentación."
+    },
+    {
+      "q": "Mi coche diésel ha perdido fuerza, ¿puede ser el filtro de partículas?",
+      "a": "Es muy probable, sobre todo si haces muchos trayectos cortos por Mataró sin salir a carretera. El filtro se obstruye y el motor no respira bien. Antes de plantear una sustitución, que es muy cara, realizamos una diagnosis completa para ver si es posible limpiarlo y regenerarlo, ahorrándote mucho dinero."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Mataró",
+  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos una solución clara y honesta para tu coche aquí, en Mataró.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Mataró",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@tallerbarcelona.com",
+    "addressStreet": ""
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "slug": "elche",
+  "name": "Elche",
+  "province": "Alicante",
+  "ccaa": "Comunidad Valenciana",
+  "population": 234765,
+  "lat": 38.26218,
+  "lng": -0.70107,
+  "metaTitle": "Taller mecánico en Elche — Multimarca y de confianza",
+  "metaDescription": "Tu coche a punto en Elche. Presupuesto cerrado para revisiones, averías y neumáticos. Pide cita en nuestro taller y conduce tranquilo por la A-7 y la ciudad.",
+  "heroSubtitle": "Deja de dar vueltas por Carrús o Altabix buscando un taller honesto. Te damos un presupuesto cerrado para que sepas lo que pagas desde el principio.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Elche tiene sus particularidades. No es solo moverse del centro a Altabix o cruzar la ciudad para llegar al polígono de Carrús. Es enfrentarse cada día a un tráfico que combina el ritmo urbano con las necesidades de una ciudad rodeada de campo y pedanías. Muchos de nosotros usamos el coche para todo: para ir a trabajar a Torrellano, para llevar a los niños al colegio en el Sector V o para escaparnos a las playas de Arenales del Sol o Santa Pola los fines de semana. Entendemos que tu coche es una herramienta esencial, y por eso necesita un mantenimiento que se adapte a las condiciones reales de Elche y su comarca.\n\nEl clima de aquí es un factor clave. Los veranos largos y calurosos, con temperaturas que superan fácilmente los 35°C, ponen a prueba los sistemas de refrigeración y el aire acondicionado. El asfalto caliente de la Ronda de Elche (EL-20) o de la A-7 en pleno agosto castiga los neumáticos. Además, el polvo en suspensión, procedente del campo y del propio Palmeral, se acumula en los filtros de aire y habitáculo mucho más rápido que en otras zonas, afectando al rendimiento del motor y a la calidad del aire que respiras dentro. La proximidad al mar también deja su huella en forma de salitre para quienes viven o frecuentan la costa, acelerando la corrosión.\n\nEl tipo de conducción también define el desgaste de tu vehículo. El constante \"arranca y para\" en las rotondas de la Avenida de la Libertad o buscando aparcamiento en El Pla desgasta prematuramente el embrague y los frenos. Por otro lado, los trayectos diarios a Alicante o Murcia por autovía exigen que el motor, los neumáticos y la suspensión estén en perfecto estado para garantizar tu seguridad. El parque móvil de Elche es un reflejo de su gente: práctico y trabajador. Vemos a diario desde el SEAT Ibiza o el Renault Clio de quien se mueve por la ciudad, hasta el Peugeot 3008 de las familias, pasando por la indispensable furgoneta Citroën Berlingo o Ford Transit de los autónomos y empresas locales.\n\nEn nuestro taller de Elche conocemos estos desafíos porque los vivimos contigo. No tratamos tu coche como uno más; entendemos si es un diésel que hace kilómetros por la N-340 o un gasolina que apenas sale del núcleo urbano. Nuestro enfoque es local porque los problemas de tu coche también lo son. Ofrecemos un servicio de mecánica honesto y profesional para los ilicitanos, ya vivan en el corazón de la ciudad o en pedanías como La Hoya, Las Bayas o Valverde. Estamos aquí para que puedas seguir moviéndote con total tranquilidad, sabiendo que tu coche está en buenas manos.",
+  "servicesIntro": "Cubrimos todas las necesidades de tu coche en Elche: desde la revisión anual hasta el cambio de embrague por el tráfico urbano o la diagnosis electrónica.",
+  "processIntro": "Trabajamos con transparencia total. Recibes un presupuesto detallado y cerrado, y no hacemos nada en tu coche sin tu aprobación previa.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, nuestros técnicos realizan una inspección completa para identificar el origen del problema. Escuchamos tus síntomas y usamos equipos de diagnosis modernos para asegurar que no se nos escapa nada. La precisión es clave para evitar reparaciones innecesarias."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin sorpresas. Incluye mano de obra y piezas, explicando cada punto. Te lo enviamos por WhatsApp o email para que lo revises tranquilamente antes de decidir. Sin letra pequeña ni costes ocultos."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "El coche no se toca hasta que nos das tu visto bueno explícito al presupuesto. Si durante la reparación surgiera algo imprevisto (algo muy poco habitual), nos detenemos y te contactamos de inmediato para explicarte la situación y darte una nueva valoración."
+    },
+    {
+      "title": "Reparación",
+      "body": "Una vez aprobado, procedemos con la reparación utilizando piezas de primeras marcas o equivalentes, siempre con garantía. Nuestros mecánicos siguen los procedimientos del fabricante para asegurar un trabajo de calidad. Te mantenemos informado sobre el progreso y los plazos de entrega."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo para recoger. Al entregártelo, te explicamos el trabajo realizado y respondemos a tus preguntas. Unos días después, te contactaremos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+    }
+  ],
+  "commonIssuesIntro": "El calor de Elche, el polvo del campo y el tráfico urbano diario provocan averías muy concretas que vemos a diario en nuestro taller. Aquí te contamos las más comunes.",
+  "commonIssues": [
+    {
+      "title": "Problemas con el Aire Acondicionado",
+      "body": "Los veranos en Elche son largos e intensos. Usar el A/C a máxima potencia durante meses fuerza el compresor y puede provocar fugas de gas. El polvo en suspensión del campo ilicitano también obstruye el filtro del habitáculo, reduciendo el flujo de aire frío. Revisamos el circuito, recargamos el gas y cambiamos los filtros para que el calor no te pille desprevenido de camino a la playa por la CV-86."
+    },
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "Conducir a diario por el centro de Elche, con sus rotondas, semáforos y atascos en la Ronda Norte, significa un uso constante del embrague y los frenos. Este patrón de \"arranca y para\" acelera su desgaste. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Un mantenimiento a tiempo evita averías más costosas."
+    },
+    {
+      "title": "Sobrecalentamiento del motor en verano",
+      "body": "Las altas temperaturas no solo nos afectan a nosotros. El sistema de refrigeración del coche sufre especialmente en los atascos de la A-7 en agosto. Un nivel bajo de anticongelante, un termostato defectuoso o un radiador sucio pueden provocar un sobrecalentamiento grave. Realizamos una limpieza del circuito y comprobamos todos sus componentes para garantizar que tu motor trabaje a su temperatura ideal."
+    },
+    {
+      "title": "Filtros de aire y habitáculo obstruidos",
+      "body": "Elche está rodeado de campo y tiene el palmeral más grande de Europa. Esto significa mucho polvo y polen en el aire, especialmente en primavera. Estos elementos saturan rápidamente el filtro de aire del motor, afectando al rendimiento y consumo, y el del habitáculo, empeorando la calidad del aire que respiras. Recomendamos cambiarlos con más frecuencia de lo habitual."
+    },
+    {
+      "title": "Daños en suspensión y neumáticos",
+      "body": "Aunque las vías principales como la EL-20 están bien, muchos caminos de las pedanías como La Hoya o Las Bayas, y algunas calles más antiguas de Carrús, presentan un asfalto irregular. Esto, junto con los badenes, castiga la suspensión, los amortiguadores y los neumáticos. Unos amortiguadores en mal estado aumentan la distancia de frenado y el desgaste de las ruedas."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de Elche",
+      "body": "Sabemos cómo afecta el clima y el tipo de conducción de la zona a tu coche. No es lo mismo un diésel que hace la A-7 a diario que un gasolina que solo se mueve por Altabix. Este conocimiento nos permite ir directos al problema."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "El precio que te damos es el que pagas. Sin extras inesperados ni \"ya que estamos...\". Te explicamos cada concepto para que entiendas perfectamente en qué se invierte tu dinero. La honestidad es nuestra principal herramienta."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un SEAT Ibiza, un Peugeot 3008, un Mercedes Clase A o una furgoneta Ford Transit. Tenemos la experiencia y el equipo de diagnosis para trabajar con la gran mayoría de coches y furgonetas que circulan por Elche."
+    },
+    {
+      "title": "Tú tienes el control",
+      "body": "No movemos ni un tornillo sin tu autorización expresa. Te mantenemos informado durante todo el proceso y si surge cualquier duda, te llamamos. Tú decides siempre qué se hace en tu coche, sin presiones."
+    },
+    {
+      "title": "Pasar la ITV sin estrés",
+      "body": "Conocemos los puntos críticos que miran en la ITV de Elche. Hacemos una revisión pre-ITV exhaustiva para que vayas con la tranquilidad de que tu coche está en perfecto estado y la pasarás a la primera, ahorrándote tiempo y dinero."
+    }
+  ],
+  "testimonialsIntro": "Aquí tienes algunos ejemplos de situaciones reales que solucionamos cada día para conductores de Elche, para que te hagas una idea de cómo trabajamos.",
+  "testimonials": [
+    {
+      "name": "María",
+      "neighborhood": "Altabix",
+      "car": "Peugeot 208 2017",
+      "body": "El aire acondicionado dejó de enfriar justo cuando empezó el calor fuerte. Con dos niños pequeños, era un suplicio ir en el coche. Me dieron cita rápido, encontraron una pequeña fuga, la repararon y recargaron el gas. El precio fue exactamente el del presupuesto. Un alivio para el verano ilicitano.",
+      "rating": 5
+    },
+    {
+      "name": "José Luis",
+      "neighborhood": "Carrús",
+      "car": "Ford Focus 1.6 TDCi 2012",
+      "body": "Uso el coche todos los días para ir a trabajar al polígono de Torrellano y notaba que el embrague patinaba. Me preocupaba el coste. Me dieron un presupuesto muy claro y más razonable que en otros sitios. Ahora las marchas entran suaves y el coche va como nuevo. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "El Pla de Sant Josep",
+      "car": "Renault Scénic 2015",
+      "body": "Tenía la revisión anual y la ITV al caer. Me hicieron el mantenimiento completo, aceite, filtros... y me revisaron todos los puntos para la ITV. Pasó sin un solo fallo. Me ahorraron el viaje y la incertidumbre. El trato fue muy cercano y me explicaron todo lo que le hicieron.",
+      "rating": 5
+    },
+    {
+      "name": "Ana",
+      "neighborhood": "Centro",
+      "car": "Volkswagen Golf 1.4 TSI 2014",
+      "body": "Se me encendió un testigo del motor y el coche daba tirones. Estaba bastante preocupada. Lo diagnosticaron rápido: un problema en una bobina de encendido. La cambiaron en el mismo día. Aprecio que me llamaran para explicarme el problema y el coste antes de hacer nada. Buen servicio.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller mecánico en Elche está pensado para dar un servicio cómodo y accesible a toda la ciudad y su comarca. Tanto si resides en los barrios más poblados como Carrús, Altabix, El Pla de Sant Josep o el Sector V, como si vives en el centro histórico, nos tienes muy cerca. Entendemos las necesidades de los conductores de las pedanías, por eso muchos clientes de El Altet, Torrellano, La Hoya, Las Bayas o Valverde confían en nosotros para el mantenimiento de su coche. Nuestra ubicación permite un acceso rápido desde las principales arterias de la zona. Puedes llegar fácilmente a través de la Ronda de Elche (EL-20), la N-340 o la autovía A-7. También estamos bien comunicados para quienes vienen de municipios limítrofes como Crevillent, Aspe, Monforte del Cid o la cercana Santa Pola a través de la CV-86.",
+  "zoneNeighborhoods": [
+    "Carrús",
+    "Altabix",
+    "El Pla de Sant Josep",
+    "Sector V",
+    "Centro",
+    "El Raval",
+    "Torrellano",
+    "El Altet",
+    "La Hoya",
+    "Las Bayas"
+  ],
+  "zoneAccessRoutes": [
+    "A-7 (Autovía del Mediterráneo)",
+    "EL-20 (Ronda de Elche)",
+    "N-340",
+    "CV-86 (Carretera de Santa Pola)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Es necesario cambiar los filtros más a menudo por vivir en Elche?",
+      "a": "Sí, lo recomendamos. Elche está rodeado de campo y tiene un clima seco, lo que genera mucho polvo en suspensión, además del polen del palmeral. Esto satura el filtro de aire del motor y el del habitáculo antes de lo que indica el fabricante. Cambiarlos con más frecuencia mejora el rendimiento del motor, reduce el consumo y garantiza que respires un aire más limpio dentro del coche."
+    },
+    {
+      "q": "Mi coche duerme en la calle cerca de la playa en Arenales del Sol, ¿necesita algún cuidado especial?",
+      "a": "Sí. Aunque no es la costa cantábrica, la brisa marina y la humedad salina de la costa ilicitana aceleran la corrosión de la carrocería y los bajos del coche. Recomendamos lavados frecuentes con agua a presión, especialmente en los bajos, para eliminar los depósitos de sal. También es bueno revisar el estado de los manguitos y las partes metálicas del motor periódicamente."
+    },
+    {
+      "q": "Uso el coche para ir y volver de la Universidad Miguel Hernández (UMH) todos los días, ¿en qué debo fijarme?",
+      "a": "Ese trayecto suele implicar tramos urbanos con mucho tráfico y paradas, especialmente en la zona de Altabix. Esto castiga sobre todo los frenos y el embrague. Te recomendamos estar atento a cualquier ruido al frenar o si el pedal del embrague se siente diferente. Un mantenimiento preventivo de estos elementos te ahorrará problemas y dinero a largo plazo."
+    },
+    {
+      "q": "Tengo una furgoneta de trabajo para moverme por el polígono de Carrús, ¿ofrecéis servicio para vehículos comerciales?",
+      "a": "Por supuesto. Conocemos perfectamente las necesidades de los autónomos y profesionales de Elche. Sabemos que tu furgoneta es tu herramienta de trabajo y necesita estar siempre a punto. Realizamos mantenimiento y reparaciones en la mayoría de modelos de vehículos comerciales ligeros, como Berlingo, Partner, Transit o similares, para que no pierdas ni un día de trabajo."
+    },
+    {
+      "q": "Voy a pasar la ITV en Elche, ¿son muy estrictos con los humos?",
+      "a": "Sí, las estaciones de ITV en general, y la de Elche no es una excepción, son cada vez más rigurosas con las emisiones, especialmente en los diésel. El uso urbano intensivo puede generar carbonilla. En nuestra revisión pre-ITV, comprobamos los niveles de opacidad y, si es necesario, podemos recomendarte productos o realizar una descarbonización para asegurar que pases la prueba sin problemas."
+    },
+    {
+      "q": "¿Tenéis en cuenta el calor extremo de Elche al hacer la revisión?",
+      "a": "Totalmente. El calor es el principal enemigo de la mecánica en verano. En cada revisión, prestamos especial atención al sistema de refrigeración (nivel de anticongelante, estado del radiador y manguitos), al sistema de aire acondicionado y a la presión y estado de los neumáticos, que sufren mucho más con el asfalto caliente. Es parte de nuestro protocolo para adaptar el mantenimiento a las condiciones locales."
+    }
+  ],
+  "closingHeadline": "Tu taller de confianza en Elche",
+  "closingCta": "No dejes que una avería te arruine el día. Pide tu presupuesto cerrado para tu coche en Elche. Llámanos o escríbenos por WhatsApp y te daremos cita lo antes posible."
+}

@@ -1,0 +1,185 @@
+{
+  "slug": "cervello",
+  "name": "Cervelló",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 8660,
+  "lat": 41.40125,
+  "lng": 1.95506,
+  "metaTitle": "Taller mecánico en Cervelló — Presupuesto cerrado y multimarca",
+  "metaDescription": "Tu coche de fin de semana necesita mimos. Revisión, averías y neumáticos en Cervelló con presupuesto cerrado. Pasa la ITV sin sustos. ¡Pide cita!",
+  "heroSubtitle": "Ese coche que apenas mueves entre semana es el que más guerra te da justo antes de salir de viaje. Dale una revisión en Cervelló y viaja tranquilo.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Vivir en Cervelló es un privilegio. Tienes la tranquilidad de las montañas de Ordal a un paso y la conexión con Barcelona por la B-24 para el día a día. Comprendemos perfectamente esa doble vida: el coche de batalla para ir a trabajar, quizás a Sant Feliu o Molins de Rei, y el segundo coche, ese que duerme en el garaje de lunes a viernes y que es tu pasaporte a la libertad el fin de semana. Es el coche para ir a buscar 'calçots' a Valls, para bajar a las playas del Garraf o para hacer una ruta por el Penedès. Pero precisamente por eso, por ser el 'coche de los domingos', es el que más sorpresas te puede dar cuando decides cogerlo.\n\nEl principal enemigo de un coche que se usa poco es la inactividad, y en el clima de Cervelló, con esa humedad que baja de la sierra, los efectos se notan más. La batería es la primera en 'cantar'. ¿Cuántas veces has ido a arrancarlo un viernes por la tarde y te has encontrado con que no hace ni el intento? Los discos de freno acumulan una fina capa de óxido que rasca al principio, los neumáticos pierden presión lentamente y los líquidos, si no circulan, pueden perder propiedades. Sabemos que no quieres que una tontería así te arruine la escapada. Por eso, nuestro enfoque no es solo reparar lo que se rompe, sino prevenir que pase, sobre todo en ese coche que tanto valoras para tu tiempo libre.\n\nEspecialmente antes de las vacaciones de verano o de un puente largo, es cuando más nos visitan clientes de urbanizaciones como Can Guitart Vell o Puigmontmany. Vienen a que le 'echemos un ojo' al coche. Una revisión pre-viaje con nosotros no es un simple cambio de aceite. Es asegurarnos de que el aire acondicionado enfría como debe para cuando te toque la caravana en la AP-7 dirección Tarragona, que los frenos responderán en las curvas de la carretera de l'Ordal y que no te quedarás tirado por un manguito reseco. Entendemos que la fiabilidad de este coche es la fiabilidad de tu descanso y tu ocio.\n\nEl parque móvil de estos segundos coches suele tener ya unos años. Hablamos de ese Seat León TDI que compraste de segunda mano, un Renault Clio de gasolina que va de maravilla pero que ya tiene más de una década, o el monovolumen familiar que se quedó para los viajes. Son coches que conocemos a la perfección. No nos asusta una distribución que lleva tiempo pidiendo un cambio, un embrague que empieza a patinar en las cuestas de Cervelló o esa lucecita del motor que se enciende de vez en cuando. Como taller multimarca, tenemos la experiencia y el equipo de diagnosis para tratar con la electrónica y la mecánica de prácticamente cualquier modelo que aparques en nuestras instalaciones.\n\nEn definitiva, somos tu taller de confianza en Cervelló porque entendemos tu coche y tu estilo de vida. No solo el del día a día, sino también el de tus momentos de desconexión. Te ofrecemos un presupuesto cerrado, claro y sin sorpresas para que el mantenimiento de tu segundo coche no se convierta en un pozo sin fondo. Queremos que cuando cojas ese coche el fin de semana, tu única preocupación sea decidir la ruta. Del resto, ya nos encargamos nosotros aquí, en casa.",
+  "servicesIntro": "Desde la revisión anual para el coche que usas poco hasta averías complejas, aquí en Cervelló cubrimos todo lo que tu vehículo necesita.",
+  "processIntro": "Trabajamos con total transparencia. Te damos un diagnóstico claro y un presupuesto cerrado para que tengas el control en todo momento.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le notas al coche y lo conectamos a nuestros equipos de diagnosis. Hacemos una valoración inicial completa para entender el origen del problema y no dar palos de ciego."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en la mano, te preparamos un presupuesto detallado, pieza por pieza y mano de obra. El precio que ves es el que pagas, sin sorpresas ni extras de última hora. Te lo enviamos por WhatsApp o email."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No movemos ni un solo tornillo sin tu confirmación explícita. Tienes tiempo para revisar el presupuesto, hacernos preguntas y darnos luz verde cuando estés completamente convencido. Tú mandas."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos se ponen manos a la obra siguiendo las especificaciones del fabricante. Te mantenemos informado si surgiera cualquier imprevisto, aunque no es lo habitual."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche esté listo para recoger. Te explicamos la reparación realizada y te entregamos la factura detallada. Unos días después, te contactamos para asegurarnos de que todo va perfecto."
+    }
+  ],
+  "commonIssuesIntro": "La combinación de poco uso, la humedad de la zona de Ordal y las carreteras con cuestas de Cervelló provoca una serie de problemas muy característicos en los coches.",
+  "commonIssues": [
+    {
+      "title": "Batería muerta el viernes",
+      "body": "Es el clásico. El coche parado toda la semana y la humedad ambiental de Cervelló no ayudan. La batería se descarga poco a poco y, cuando vas a arrancarlo para la escapada, no responde. Hacemos una comprobación del estado de la batería y del alternador para asegurar que no te vuelva a pasar."
+    },
+    {
+      "title": "Frenos que 'cantan' o están duros",
+      "body": "La inactividad provoca que se oxide la superficie de los discos. Al principio, ese ruido al frenar puede ser normal, pero si persiste, puede indicar un problema mayor. Es vital tener los frenos al 100% para las carreteras con curvas y pendientes que rodean Cervelló y van hacia Corbera o Vallirana."
+    },
+    {
+      "title": "El aire acondicionado no enfría",
+      "body": "Si el circuito del aire acondicionado no se usa regularmente, las juntas se resecan y el gas puede fugarse. Te encuentras con el problema en junio, justo antes de bajar a la playa por la C-32. Hacemos la recarga y comprobamos la estanqueidad del circuito para que viajes fresco todo el verano."
+    },
+    {
+      "title": "Neumáticos bajos o agrietados",
+      "body": "Un coche parado en el mismo sitio durante días puede deformar ligeramente los neumáticos y estos pierden presión. Además, el sol y el tiempo agrietan la goma. Antes de cargar el coche para un viaje largo por la A-2, es crucial revisar su estado y presión. Es tu único contacto con el asfalto."
+    },
+    {
+      "title": "Problemas de humos en la ITV",
+      "body": "Un coche que solo hace trayectos cortos o que está mucho tiempo parado acumula carbonilla en el motor y el escape. Esto suele provocar que dé valores altos de gases en la ITV. Una buena puesta a punto y una revisión Pre-ITV con nosotros te ahorra el segundo viaje a la estación."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos tu 'coche de finde'",
+      "body": "No es lo mismo un coche que hace 80 km diarios que uno que está parado. Conocemos los achaques típicos de la inactividad y sabemos cómo prevenirlos para que no te arruinen los planes."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "El precio que te damos es el que pagas. Ideal para el mantenimiento de un segundo coche, que no quieres que se convierta en una hucha rota. Transparencia total desde el primer momento."
+    },
+    {
+      "title": "El taller de aquí, de Cervelló",
+      "body": "No tienes que irte a Sant Vicenç o Molins de Rei para encontrar un servicio profesional. Estamos en el pueblo, somos tus vecinos y hablamos tu mismo idioma. Cercanía y confianza."
+    },
+    {
+      "title": "Diagnóstico claro y honesto",
+      "body": "Te explicamos lo que le pasa a tu coche sin rodeos ni tecnicismos que no entiendas. Te decimos lo que es urgente y lo que puede esperar, para que tomes la mejor decisión."
+    },
+    {
+      "title": "Pre-ITV para ir a la primera",
+      "body": "Sabemos qué puntos miran con lupa en la ITV, especialmente en coches con unos años. Le damos un repaso completo para que la pases sin problemas y no pierdas más mañanas en la estación."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Estas son algunas historias, ejemplos de casos reales que nos encontramos cada día en nuestro taller de Cervelló.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Can Guitart Vell",
+      "car": "Ford Focus 2.0 2010",
+      "body": "Tenía el coche parado casi dos semanas y el viernes, al ir a arrancarlo para ir a una calçotada, estaba muerto. Llamé y me atendieron súper rápido. No solo era la batería, revisaron el alternador y vieron que no cargaba bien. Ahora arranca a la primera. Muy profesionales y cercanos.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat",
+      "neighborhood": "Centro",
+      "car": "Renault Clio 2014",
+      "body": "Notaba un ruido raro en la suspensión, sobre todo en las curvas de la carretera de Corbera. Pensé que sería una tontería pero preferí que le echaran un ojo. Eran los silentblocks. Me dieron presupuesto cerrado y lo cumplieron. Ahora el coche va fino, fino. Muy contenta.",
+      "rating": 5
+    },
+    {
+      "name": "David",
+      "neighborhood": "Puigmontmany",
+      "car": "Seat León TDI 2012",
+      "body": "Cada año sufría por la ITV y los humos. El coche lo uso poco y siempre iba con miedo. Esta vez lo traje para una pre-ITV y me recomendaron un tratamiento y sacarlo a carretera. Mano de santo. Pasó la ITV sin un solo fallo. Me ahorraron tiempo y nervios.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Can Paulet",
+      "car": "Peugeot 308 SW 2015",
+      "body": "El aire acondicionado no enfriaba nada y nos íbamos de vacaciones a Andalucía. Me lo miraron y detectaron una pequeña fuga. Tuvieron que pedir una pieza y tardó un día más de lo previsto, pero me avisaron en todo momento. Al final, todo perfecto. Viajamos fresquitos. Son honestos.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller da servicio a toda la gente de Cervelló, ya vivas en el núcleo urbano o en alguna de las urbanizaciones que nos rodean, como Can Guitart Vell, Puigmontmany, Can Paulet o la Granja Garcia. Por nuestra ubicación y la confianza que generamos, muchos de nuestros clientes vienen también de municipios vecinos como Vallirana, La Palma de Cervelló y Corbera de Llobregat. Estamos en una zona de fácil acceso, te muevas por la N-340 o vengas por la B-24, el eje que conecta nuestra zona con el resto del Baix Llobregat y Barcelona.",
+  "zoneNeighborhoods": [
+    "Cervelló Centre",
+    "Can Guitart Vell",
+    "Can Paulet",
+    "Puigmontmany",
+    "Granja Garcia",
+    "Can Castany",
+    "Vallirana",
+    "La Palma de Cervelló",
+    "Corbera de Llobregat"
+  ],
+  "zoneAccessRoutes": [
+    "B-24",
+    "N-340",
+    "A-2",
+    "AP-7"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi coche se pasa la semana parado, ¿qué mantenimiento especial necesita?",
+      "a": "Un coche inactivo requiere atención especial. Recomendamos arrancarlo una vez por semana y moverlo, aunque sea unos metros, para lubricar el motor y evitar que los neumáticos se deformen. Lo más importante es vigilar la batería. Una revisión anual con nosotros, centrada en estos puntos, te evitará el 90% de las sorpresas. También comprobamos los niveles y el estado de los manguitos, que pueden resecarse."
+    },
+    {
+      "q": "Vivo en una urbanización de Cervelló con bastante humedad, ¿afecta esto al coche?",
+      "a": "Sí, y mucho. La humedad ambiental del entorno de Ordal acelera la corrosión en los bajos y en los discos de freno, además de ser el enemigo número uno de los componentes eléctricos y la batería. Si tu coche duerme a la intemperie, los efectos son mayores. Por eso en nuestras revisiones ponemos especial atención en estos puntos, aplicando protectores si es necesario."
+    },
+    {
+      "q": "Tengo que pasar la ITV pronto, ¿revisáis los puntos críticos para un coche que se usa poco?",
+      "a": "Por supuesto. Es uno de nuestros servicios más demandados. Nos centramos en los fallos típicos de estos coches: la prueba de gases (por la carbonilla acumulada), la eficacia de la frenada (por el posible óxido en los discos), el estado de los neumáticos (por grietas o baja presión) y el alumbrado. Con nuestra pre-ITV, te aseguras ir sobre seguro."
+    },
+    {
+      "q": "Tengo un coche de 12 años que solo uso para escapadas, ¿vale la pena seguir reparándolo?",
+      "a": "Depende. Nosotros te damos un diagnóstico honesto. Si es una reparación que garantiza la seguridad y te da un par de años más de servicio fiable, suele compensar. Te diremos claramente si creemos que estás 'tirando el dinero' en un coche con problemas graves. Nuestro objetivo es que tengas un coche seguro, no facturar a toda costa."
+    },
+    {
+      "q": "¿Notáis más averías por el tipo de carreteras que tenemos por aquí, con tantas curvas y cuestas?",
+      "a": "Totalmente. Las carreteras de la zona de Cervelló, como la subida a Corbera o las de Ordal, exigen mucho más a los frenos, la suspensión y el embrague. El continuo sube y baja y las curvas cerradas provocan un desgaste mayor en estos componentes. En las revisiones, prestamos especial atención al grosor de las pastillas, el estado de los amortiguadores y el tacto del embrague."
+    },
+    {
+      "q": "Si os dejo el coche en el taller, ¿cómo vuelvo al centro o a mi urbanización?",
+      "a": "Entendemos la movilidad en Cervelló. Siempre que sea posible y lo coordines con nosotros con antelación, podemos acercarte a un punto céntrico del pueblo. Para reparaciones más largas, consulta la disponibilidad de nuestro coche de cortesía. Queremos darte una solución para que dejar el coche no te suponga un trastorno."
+    },
+    {
+      "q": "El aire acondicionado de mi 'coche de verano' no enfría nada, ¿es una reparación cara?",
+      "a": "No tiene por qué. La causa más común es simplemente que ha perdido el gas por falta de uso, y una recarga es asequible. Primero hacemos una comprobación con un líquido detector de fugas. Si no hay fuga, se recarga y listo. Si hay una fuga, te damos un presupuesto cerrado para repararla antes de hacer nada más."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Cervelló",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o envíanos un WhatsApp y te daremos cita para revisar tu coche. Estamos aquí en Cervelló para lo que necesites."
+}

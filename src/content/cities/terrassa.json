@@ -1,0 +1,191 @@
+{
+  "slug": "terrassa",
+  "name": "Terrassa",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 218535,
+  "lat": 41.56667,
+  "lng": 2.01667,
+  "metaTitle": "Taller mecánico en Terrassa — Multimarca y de confianza",
+  "metaDescription": "Tu taller en Terrassa para revisiones, mecánica y neumáticos. Presupuesto cerrado y sin sorpresas. Trabajamos todas las marcas. Pide tu cita ahora.",
+  "heroSubtitle": "Para ti, que cada día coges la C-58 o la N-150 y necesitas un coche que no te deje tirado. Transparencia y profesionalidad en Terrassa.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Terrassa y el Vallès tiene sus particularidades. No es lo mismo callejear por el Centre o Ca n'Aurell que coger cada mañana la C-58 para ir a Barcelona o la N-150 hacia Sabadell. El tráfico denso en horas punta, las constantes rotondas y los trayectos interurbanos de alta velocidad someten a tu coche a un estrés constante. Aquí lo sabemos bien, porque somos de aquí y reparamos los coches que vemos cada día: el SEAT León de un comercial, el Peugeot 308 de una familia de Sant Pere, la furgoneta de un autónomo de Can Parellada o el Volkswagen Golf que sube a Matadepera los fines de semana. Entendemos que tu coche es una herramienta indispensable, no un lujo.\n\nEl clima del Vallès también juega su papel. Los inviernos son fríos y húmedos, con esas nieblas matutinas que castigan las baterías y hacen sufrir a los motores diésel en el arranque. Luego llega el verano, con un calor seco y intenso que pone a prueba el sistema de refrigeración y el aire acondicionado justo cuando más lo necesitas. Este contraste térmico, más acusado que en la costa, acelera el desgaste de manguitos, juntas y neumáticos. Por eso, un mantenimiento preventivo adaptado a las condiciones de Terrassa no es una opción, es una necesidad para evitar averías costosas y peligrosas, ya sea circulando por la Ronda de Ponent o en plena autopista.\n\nNuestro taller en Terrassa está pensado para el conductor real de la zona. Sabemos que tu tiempo es oro y que no puedes permitirte estar sin vehículo. Por eso, nos centramos en un diagnóstico preciso y en ofrecerte un presupuesto cerrado antes de empezar cualquier reparación. Sin sorpresas, sin letra pequeña. Hablamos tu mismo idioma, te explicamos qué le pasa a tu coche de forma clara y te damos opciones. No importa si tienes un coche con unos años que necesita un cambio de embrague por el trote urbano o un modelo más nuevo que pide una revisión oficial para mantener la garantía. Trabajamos con todas las marcas, utilizando recambios de calidad y la maquinaria de diagnosis más actual.\n\nEl parque móvil de Terrassa es diverso, pero dominan los coches de entre 5 y 15 años, mayoritariamente diésel y gasolina, que hacen muchos kilómetros al año. Somos especialistas en los problemas típicos de estos vehículos: desde la carbonilla en los motores diésel que hacen trayectos cortos por la ciudad hasta el desgaste de la suspensión por los badenes y el asfalto irregular de algunas zonas. También estamos preparados para la creciente electrificación, con técnicos formados en vehículos híbridos. Nuestro objetivo es sencillo: que puedas confiar plenamente en tu coche para ir al trabajo, llevar a los niños al colegio o escaparte el fin de semana al Parc Natural de Sant Llorenç del Munt i l'Obac.",
+  "servicesIntro": "Desde la revisión anual para tu coche hasta la avería más compleja, cubrimos todas las necesidades de tu vehículo aquí en Terrassa.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar. Sin sorpresas.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y nuestros técnicos realizan una inspección completa con equipos de diagnosis para identificar el problema real. No dejamos nada al azar."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado y por escrito, explicando cada punto. El precio que ves es el que pagas. Si surge algo nuevo durante la reparación, paramos y te consultamos."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No movemos ni un solo tornillo sin tu aprobación explícita. Tienes el control total sobre la reparación y el gasto. Tú decides cuándo y cómo procedemos con el trabajo."
+    },
+    {
+      "title": "Reparación",
+      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos cualificados realizan el trabajo siguiendo las especificaciones del fabricante para asegurar un resultado perfecto y duradero."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos la reparación realizada y te damos la factura detallada. Unos días después, contactamos para confirmar que todo va bien."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario en Terrassa, el clima del Vallès y el tipo de carreteras que usamos generan una serie de averías muy características en los coches de la zona.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El tráfico denso en la N-150 para ir a Sabadell y los constantes arranca-para dentro de Terrassa (rotondas, semáforos) castigan el embrague y los frenos. Diagnosticamos el desgaste real y sustituimos solo las piezas necesarias, usando componentes de alta durabilidad para que aguantes más kilómetros por la ciudad."
+    },
+    {
+      "title": "Fallos de batería en invierno",
+      "body": "Las mañanas frías y húmedas del Vallès son el peor enemigo de una batería algo gastada. Si notas que a tu coche le cuesta arrancar, sobre todo en zonas como Can Roca o Les Fonts, ven a que la comprobemos gratis. Una batería a tiempo te evita quedarte tirado en el peor momento."
+    },
+    {
+      "title": "Problemas con filtros de partículas (FAP)",
+      "body": "Muchos coches diésel en Terrassa hacen trayectos cortos que no permiten que el filtro de partículas se regenere correctamente, provocando averías y pérdida de potencia. Realizamos limpiezas profesionales del FAP y te asesoramos sobre cómo conducir para alargar su vida útil."
+    },
+    {
+      "title": "Sobrecalentamiento y fallos del aire acondicionado",
+      "body": "El calor seco del verano en Terrassa pone al límite el sistema de refrigeración y el climatizador. Una revisión del circuito, el nivel de anticongelante y una carga de gas del aire acondicionado antes de que llegue el calor te ahorrará un sofoco en plena C-58."
+    },
+    {
+      "title": "Desgaste de suspensión y neumáticos",
+      "body": "La combinación de kilómetros a alta velocidad en la C-16 o la B-40 con los badenes y el asfalto irregular de algunas calles de la ciudad pasa factura a amortiguadores y neumáticos. Revisamos su estado, la alineación y te ofrecemos las mejores opciones para tu coche y tu forma de conducir."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Somos de Terrassa",
+      "body": "Conocemos las carreteras, el clima y los problemas habituales de los coches de aquí. No te hablamos con tecnicismos, sino con soluciones claras para los problemas que tienes en tu día a día."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "Lo que presupuestamos es lo que pagas. Te damos un precio cerrado por escrito y, si encontramos algo más, no hacemos nada sin tu consentimiento previo. La honestidad es nuestra prioridad."
+    },
+    {
+      "title": "Especialistas en todas las marcas",
+      "body": "Da igual si conduces un SEAT, un Renault, un BMW o un Ford. Tenemos la formación y el equipo de diagnosis para cuidar de tu coche como si fuera el concesionario oficial, pero con un trato más cercano."
+    },
+    {
+      "title": "Agilidad y soluciones",
+      "body": "Sabemos que no puedes estar sin coche. Por eso, agilizamos el diagnóstico y la reparación para que recuperes tu vehículo lo antes posible. Y si lo necesitas, consulta por nuestro coche de cortesía."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Trabajamos con recambios de primeras marcas y confiamos en el trabajo de nuestros técnicos. Por eso, todas nuestras reparaciones e instalaciones están garantizadas por ley. Tu tranquilidad es la nuestra."
+    }
+  ],
+  "testimonialsIntro": "No nos creas a nosotros, conoce la experiencia de otros conductores de Terrassa. Estos son algunos ejemplos de casos que hemos atendido.",
+  "testimonials": [
+    {
+      "name": "Marta",
+      "neighborhood": "Sant Pere Nord",
+      "car": "Peugeot 3008 2017",
+      "body": "Llevaba tiempo notando que el coche no enfriaba bien. Con el calor que hace aquí en verano, era un suplicio. Me revisaron el circuito del aire acondicionado, encontraron una pequeña fuga y lo solucionaron en el mismo día. Me dieron un presupuesto cerrado y lo cumplieron. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Joan",
+      "neighborhood": "Ca n'Aurell",
+      "car": "Volkswagen Golf TDI 2014",
+      "body": "Hago muchos trayectos cortos por la ciudad y se me encendió el testigo del filtro de partículas. En otros sitios me hablaban de cambiarlo, una pasta. Aquí me explicaron que se podía limpiar, me lo hicieron y el coche va perfecto. Se agradece la honestidad y que busquen la solución más económica.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Ègara",
+      "car": "Renault Kangoo 2018",
+      "body": "Soy autónomo y la furgoneta es mi herramienta. Tenía que cambiar el kit de distribución y no podía parar de trabajar. Me organizaron la cita, me dejaron un vehículo de sustitución y cumplieron el plazo a rajatabla. Un servicio de 10 para los que dependemos del vehículo para trabajar.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Centre",
+      "car": "SEAT Ibiza 2015",
+      "body": "El coche hacía un ruido raro al frenar. Me lo miraron enseguida, eran las pastillas de freno traseras. Me llamaron, me dieron el precio y por la tarde ya lo tenía listo. El trato fue muy amable y el precio me pareció correcto. Lo único, que a veces cuesta un poco aparcar por la zona.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda Terrassa y sus alrededores. Si vives o trabajas en barrios como el Centre, Sant Pere, Ca n'Aurell, Ègara, Can Roca, Les Arenes o Can Parellada, estamos a tu lado. Nuestra ubicación nos permite un acceso rápido desde las principales vías que conectan la ciudad, como la C-58, la C-16 o la B-40 (Quart Cinturó), facilitando que nos traigas tu coche sin tener que callejear en exceso.\n\nNuestra área de influencia se extiende también a los municipios colindantes. Muchos de nuestros clientes vienen de Sabadell, Rubí, Matadepera, Sant Quirze del Vallès y Viladecavalls, buscando un servicio de confianza y un trato directo que a veces no encuentran en otros sitios. Si usas la N-150 a diario, somos una parada cómoda y eficiente para el mantenimiento de tu vehículo.",
+  "zoneNeighborhoods": [
+    "Terrassa Centre",
+    "Sant Pere",
+    "Ca n'Aurell",
+    "Ègara",
+    "Can Roca",
+    "Les Arenes-La Grípia-Can Montllor",
+    "Sabadell",
+    "Rubí",
+    "Matadepera",
+    "Sant Quirze del Vallès"
+  ],
+  "zoneAccessRoutes": [
+    "C-58 (Autopista del Vallès)",
+    "C-16 (Autopista de Montserrat)",
+    "B-40 (Quart Cinturó)",
+    "N-150"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la revisión pre-ITV para la estación de Terrassa?",
+      "a": "Sí, por supuesto. Conocemos perfectamente los puntos que revisan con más detalle en la estación ITV de Terrassa. Hacemos una comprobación exhaustiva de frenos, suspensión, neumáticos, luces y emisiones de gases para que vayas con la total tranquilidad de que vas a pasarla a la primera. Si detectamos algo, te damos presupuesto para solucionarlo antes de que vayas."
+    },
+    {
+      "q": "Vivo en Matadepera y trabajo en Terrassa. ¿Me da tiempo a dejar el coche y recogerlo?",
+      "a": "Claro. Entendemos perfectamente la rutina de la gente que vive en los alrededores. Nos adaptamos a tus horarios en la medida de lo posible. Además, para reparaciones de cierta envergadura, puedes consultar la disponibilidad de nuestro coche de cortesía para que no te quedes sin movilidad y puedas seguir con tu día a día sin problemas."
+    },
+    {
+      "q": "Mi coche diésel hace mucha ciudad por Terrassa. ¿Qué mantenimiento especial necesita?",
+      "a": "Es una consulta muy común. Los diésel modernos con filtro de partículas (FAP) sufren en trayectos urbanos cortos. Te recomendamos usar un aceite de calidad, no apurar el depósito de combustible y, si es posible, salir a carretera (como la C-58) una vez a la semana durante 20-30 minutos a un régimen alegre para forzar la regeneración del filtro. Además, podemos hacer limpiezas preventivas para evitar averías."
+    },
+    {
+      "q": "Tengo un coche de más de 10 años, ¿usáis recambios originales?",
+      "a": "Para coches que ya no están en garantía, solemos recomendar recambios de primeras marcas equivalentes a los originales. Ofrecen la misma calidad y fiabilidad, pero a un precio más competitivo. Por supuesto, si prefieres que montemos recambio original del fabricante, solo tienes que pedírnoslo y te lo presupuestamos sin ningún problema."
+    },
+    {
+      "q": "El aire acondicionado de mi coche no enfría como antes. ¿Es caro arreglarlo?",
+      "a": "No tiene por qué. Muchas veces es simplemente una falta de gas por pequeñas fugas naturales del sistema a lo largo de los años. Lo primero que hacemos es una carga con un líquido detector de fugas. Si es solo eso, la operación es rápida y económica. Si hay una avería mayor, te localizamos el problema y te damos un presupuesto cerrado antes de reparar."
+    },
+    {
+      "q": "Voy a comprar un coche de segunda mano en Terrassa, ¿podéis revisarlo antes?",
+      "a": "Sí, ofrecemos un servicio de revisión pre-compra. Es una inversión muy inteligente que te puede ahorrar mucho dinero y disgustos. Hacemos una inspección completa de mecánica, chapa y electrónica y te damos un informe detallado del estado real del vehículo para que puedas negociar el precio o descartar la compra con total seguridad."
+    }
+  ],
+  "closingHeadline": "Deja tu coche en buenas manos en Terrassa",
+  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o escríbenos por WhatsApp y te daremos cita para revisar tu coche. Estamos aquí para ayudarte a mantener tu vehículo en perfecto estado en Terrassa.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Terrassa",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@tallerbarcelona.com",
+    "addressStreet": ""
+  }
+}

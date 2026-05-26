@@ -1,0 +1,183 @@
+{
+  "slug": "sevilla",
+  "name": "Sevilla",
+  "province": "Sevilla",
+  "ccaa": "Andalucía",
+  "population": 686741,
+  "lat": 37.38283,
+  "lng": -5.97317,
+  "metaTitle": "Taller mecánico en Sevilla — Multimarca y de confianza",
+  "metaDescription": "Tu coche a punto en Sevilla. Presupuesto cerrado y sin sorpresas para revisiones, averías y neumáticos. Pide tu cita en nuestro taller y conduce tranquilo.",
+  "heroSubtitle": "Deja de preocuparte por el calor extremo de Sevilla, los atascos en la SE-30 o la próxima ITV. Cuidamos tu coche para que tú solo te dediques a conducir.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir en Sevilla es una experiencia única, y no siempre para bien. Si cada día te enfrentas al tráfico de la SE-30 para ir a trabajar a La Cartuja desde el Aljarafe, o si cruzas la ciudad desde Bellavista hasta la Macarena, sabes que tu coche sufre. El embrague y los frenos se desgastan en los semáforos interminables de Kansas City Avenue, y el motor diésel de tu coche, ya sea un SEAT León o una furgoneta de reparto, apenas tiene tiempo de regenerar el filtro de partículas en trayectos tan cortos. Entendemos perfectamente este día a día porque es también el nuestro. Sabemos lo que significa depender del coche para llevar a los niños al cole en Los Remedios o para hacer la compra en Nervión.\n\nEl clima de Sevilla es el segundo gran reto para cualquier vehículo. Cuando el termómetro supera los 40 grados en julio y agosto, el asfalto quema y cada componente de tu coche trabaja al límite. El aire acondicionado no es un lujo, es una necesidad vital, y su sistema (compresor, circuito, gas) sufre una tensión enorme. La batería pierde eficiencia a pasos agigantados con el calor extremo, y el sistema de refrigeración del motor tiene que funcionar a la perfección para evitar un sobrecalentamiento en mitad de un atasco en el Puente del V Centenario. Este castigo estival, seguido de inviernos húmedos, acelera el envejecimiento de plásticos, gomas y neumáticos, algo que tenemos muy presente en cada revisión.\n\nEl parque automovilístico sevillano es tan diverso como sus barrios. En zonas como Triana o San Pablo vemos a diario coches compactos y utilitarios, principalmente diésel y gasolina con unos cuantos años, que son el pilar de la movilidad familiar. Hablamos de Peugeot 308, Renault Clio, Volkswagen Golf o Ford Focus que necesitan un mantenimiento asequible y honesto para seguir siendo fiables. Al mismo tiempo, atendemos a profesionales y autónomos de polígonos como Calonge o Carretera Amarilla, que dependen de su furgoneta Citroën Berlingo o Renault Kangoo y no pueden permitirse tenerla parada un solo día. Sea cual sea tu coche, conocemos sus puntos débiles en el contexto sevillano.\n\nPor eso, nuestro enfoque va más allá de una simple reparación. Te preparamos el coche para que pases la ITV en la estación de Gelves o Pino Montano sin contratiempos. Hacemos esa revisión crucial antes de que cojas la A-49 para ir a las playas de Huelva o la A-92 camino de la costa malagueña en verano. Entendemos que un coche fiable es sinónimo de tranquilidad, de llegar a tiempo al trabajo y de disfrutar del fin de semana sin sobresaltos. Nuestro compromiso es ofrecerte un diagnóstico claro, un presupuesto cerrado sin sorpresas y un trabajo profesional que responda a las necesidades reales de conducir por Sevilla y sus alrededores.",
+  "servicesIntro": "Desde una recarga del aire acondicionado para el verano sevillano hasta un cambio de kit de distribución para tu coche que circula a diario por la A-49.",
+  "processIntro": "Creemos en la transparencia total. Te explicamos qué le pasa a tu coche, te damos un presupuesto cerrado y no movemos un tornillo sin tu aprobación.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le notas al coche y lo conectamos a nuestros equipos de diagnosis. Identificamos el problema real, sin especulaciones, para entender qué necesita tu vehículo y por qué."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Recibirás un presupuesto detallado por WhatsApp o email. El precio que ves es el precio final, con mano de obra, piezas e IVA incluidos. Sin letra pequeña ni sorpresas de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No empezamos ninguna reparación hasta que nos das tu visto bueno explícito. Tienes el control total. Si durante el proceso viéramos algo más, te llamaríamos antes de hacer nada."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas con garantía. Nuestros mecánicos realizan el trabajo siguiendo las especificaciones del fabricante para asegurar un resultado duradero y fiable para tu coche."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando recoges tu coche, te explicamos la reparación realizada. Guardamos tu historial y te recordamos futuros mantenimientos para que conduzcas siempre con seguridad por Sevilla y más allá."
+    }
+  ],
+  "commonIssuesIntro": "El calor extremo del verano, el polvo en suspensión y el tráfico denso de avenidas como La Palmera o la Ronda Urbana Norte provocan averías muy características en Sevilla.",
+  "commonIssues": [
+    {
+      "title": "Fallo del aire acondicionado en verano",
+      "body": "En Sevilla, el aire acondicionado no es opcional. Con temperaturas que superan los 40ºC, un fallo en el compresor o una fuga en el circuito es un problema serio. Realizamos diagnósticos precisos, detectamos fugas con nitrógeno y recargamos el gas para que vuelvas a conducir fresco y seguro."
+    },
+    {
+      "title": "Batería 'frita' por el calor",
+      "body": "Las altas temperaturas degradan las baterías de forma acelerada. Es común que un coche que arranca bien por la mañana, no lo haga por la tarde tras estar aparcado al sol. Comprobamos el estado de tu batería y el alternador y, si es necesario, la sustituimos por una de calidad, preparada para el clima sevillano."
+    },
+    {
+      "title": "Filtro de partículas (DPF) saturado",
+      "body": "Los trayectos cortos y el tráfico lento por la ciudad impiden que los coches diésel realicen la regeneración del filtro de partículas. Si te mueves principalmente por el centro o haces recorridos cortos por la SE-30, es probable que se obstruya. Realizamos limpiezas y regeneraciones forzadas para evitar costosas sustituciones."
+    },
+    {
+      "title": "Sobrecalentamiento del motor en atascos",
+      "body": "Un atasco en la SE-30 en pleno agosto es la prueba de fuego para el sistema de refrigeración. Un termostato defectuoso, un nivel bajo de anticongelante o un electroventilador que no salta pueden provocar una avería grave. Revisamos el circuito completo para garantizar que tu motor trabaje a su temperatura óptima."
+    },
+    {
+      "title": "Desgaste de embrague por tráfico urbano",
+      "body": "Arrancar y parar constantemente en los semáforos del centro o en las retenciones para cruzar el Guadalquivir desgasta el embrague de forma prematura. Si notas que el pedal está duro o que el coche patina al acelerar, es hora de revisarlo. Hacemos sustituciones de kit de embrague con primeras marcas."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos el clima de Sevilla",
+      "body": "Sabemos cómo el calor extremo afecta a tu batería, al aire acondicionado y al motor. Nuestro mantenimiento está pensado para que tu coche sobreviva al verano sevillano sin problemas."
+    },
+    {
+      "title": "Presupuesto final, sin sustos",
+      "body": "El precio que te damos es el que pagas. No añadimos costes inesperados ni trabajos que no has autorizado previamente. La confianza es nuestra prioridad."
+    },
+    {
+      "title": "Expertos en todas las marcas",
+      "body": "Da igual si conduces un Dacia por el Aljarafe o un Mercedes por Nervión. Tenemos la experiencia y el equipo para cuidar de cualquier coche que circule por Sevilla."
+    },
+    {
+      "title": "Diagnóstico honesto y claro",
+      "body": "Te diremos exactamente lo que tu coche necesita, ni más ni menos. Te explicamos la avería de forma que la entiendas para que tomes la mejor decisión."
+    },
+    {
+      "title": "Gestión y Pre-ITV",
+      "body": "Ahorra tiempo y nervios. Hacemos una revisión pre-ITV exhaustiva y, si quieres, llevamos nosotros mismos tu coche a la estación para que tú no te preocupes por nada."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de casos reales de conductores de Sevilla como tú que han pasado por nuestro taller. Su satisfacción es nuestra mejor garantía.",
+  "testimonials": [
+    {
+      "name": "José",
+      "neighborhood": "Triana",
+      "car": "Peugeot 308 1.6 HDI 2016",
+      "body": "El aire acondicionado dejó de enfriar a principios de julio, un drama. Me lo miraron rápido, encontraron una pequeña fuga que otros no vieron y me dieron un presupuesto cerrado. En un día lo tenía listo y enfriando como nunca. Un alivio para no asarme en los atascos para cruzar el puente.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Nervión",
+      "car": "SEAT León 1.5 TSI 2018",
+      "body": "Tenía que pasar la ITV y no tenía tiempo para nada. Les dejé el coche por la mañana, le hicieron una revisión completa, cambiaron una bombilla fundida y lo llevaron ellos a la inspección. Por la tarde ya lo tenía de vuelta con la pegatina puesta. Un servicio genial para los que vamos siempre corriendo.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Polígono Calonge",
+      "car": "Citroën Berlingo 2017",
+      "body": "Soy autónomo y la furgoneta es mi oficina. El embrague empezó a patinar y me urgía arreglarla. Me entendieron perfectamente, me dieron prioridad y cumplieron el plazo que me dijeron. El presupuesto, el que me dieron al principio. Muy profesionales, me salvaron la semana de trabajo.",
+      "rating": 5
+    },
+    {
+      "name": "Isabel",
+      "neighborhood": "Dos Hermanas",
+      "car": "Nissan Qashqai 2019",
+      "body": "Antes de irnos de vacaciones a la playa, siempre le hago una revisión completa. Me comprobaron niveles, presiones, frenos... todo. Me advirtieron que las pastillas traseras estaban a media vida, sin meterme prisa para cambiarlas. Agradezco esa honestidad. Nos fuimos por la A-49 mucho más tranquilos.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda Sevilla y su área metropolitana. Si vives o trabajas en barrios como Nervión, Triana, Macarena, Los Remedios o Sevilla Este, estamos a tu disposición. Entendemos las necesidades de los que se desplazan a diario desde los municipios del Aljarafe, como Mairena, Tomares o Bormujos, y de grandes localidades como Dos Hermanas o Alcalá de Guadaíra. Nuestra ubicación es accesible desde las principales vías que vertebran la provincia, como la ronda de circunvalación SE-30, la A-4 (Autovía del Sur), la A-92 hacia Granada y Málaga, y la A-49 que conecta con Huelva.",
+  "zoneNeighborhoods": [
+    "Nervión",
+    "Triana",
+    "Macarena",
+    "Los Remedios",
+    "Sevilla Este",
+    "Bellavista-La Palmera",
+    "San Pablo-Santa Justa",
+    "Dos Hermanas",
+    "Alcalá de Guadaíra",
+    "Mairena del Aljarafe"
+  ],
+  "zoneAccessRoutes": [
+    "SE-30 (Ronda de Circunvalación)",
+    "A-4 (Autovía del Sur)",
+    "A-92 (Sevilla-Granada)",
+    "A-49 (Sevilla-Huelva)",
+    "A-66 (Ruta de la Plata)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿El calor de Sevilla puede estropear la batería de mi coche aunque sea nueva?",
+      "a": "Sí, sin duda. El calor extremo acelera las reacciones químicas dentro de la batería, acortando su vida útil. Un coche aparcado al sol en Sevilla durante horas sufre mucho. Por eso, aunque la batería sea relativamente nueva, recomendamos comprobar su estado antes del verano y el invierno para evitar que te deje tirado. Una revisión del sistema de carga es clave."
+    },
+    {
+      "q": "Conduzco mucho por la SE-30, ¿es suficiente para limpiar el filtro de partículas de mi diésel?",
+      "a": "Depende. Si circulas a velocidad constante (más de 80 km/h) durante unos 20 minutos, sí puede ser suficiente. Pero si pillas el atasco habitual del Puente del V Centenario o vas a saltos, el motor no alcanza la temperatura necesaria y la regeneración no se completa. Si notas tirones o pérdida de potencia, es mejor que lo revisemos."
+    },
+    {
+      "q": "¿Qué tipo de aceite es mejor para un coche que circula en Sevilla?",
+      "a": "Es fundamental usar el aceite con la viscosidad que recomienda el fabricante (ej. 5W-30), pero siempre de alta calidad y sintético. Un buen aceite sintético mantiene mejor sus propiedades a altas temperaturas, protegiendo el motor durante el calor del verano y asegurando una buena lubricación en los arranques en frío del invierno."
+    },
+    {
+      "q": "Voy a coger la A-4 hacia Madrid en agosto, ¿qué es lo más importante que debo revisar?",
+      "a": "Para un viaje largo con calor, lo prioritario es: sistema de refrigeración (nivel y estado del anticongelante), presión y estado de los neumáticos (el asfalto caliente aumenta el riesgo de reventón) y el aire acondicionado. Un fallo en cualquiera de estos tres elementos puede arruinarte el viaje por Despeñaperros."
+    },
+    {
+      "q": "Vivo en el Aljarafe y bajo a Sevilla todos los días, ¿qué se desgasta más en mi coche?",
+      "a": "Ese trayecto diario combina tramos de autovía (A-49) con tráfico denso al entrar en la ciudad. Los componentes que más sufren son el embrague y los frenos por las retenciones, y los neumáticos. También es importante vigilar el filtro de partículas en los diésel y hacer los cambios de aceite a tiempo por el uso intensivo."
+    },
+    {
+      "q": "Mi coche duerme en la calle, ¿cómo puedo protegerlo del sol de Sevilla?",
+      "a": "El sol sevillano es muy agresivo con la pintura, los faros y los plásticos interiores. Lo ideal es usar un parasol de calidad para el salpicadero. Para el exterior, lavar el coche con frecuencia para eliminar el polvo y aplicar una cera con protección UV un par de veces al año puede ayudar a conservar el brillo de la pintura y protegerla."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Sevilla",
+  "closingCta": "No dejes que una avería te complique la vida en Sevilla. Llámanos, escríbenos por WhatsApp o envíanos un email para pedir tu presupuesto cerrado. Conduce con la tranquilidad de saber que tu coche está en buenas manos."
+}

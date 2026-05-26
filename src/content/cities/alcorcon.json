@@ -1,0 +1,192 @@
+{
+  "slug": "alcorcon",
+  "name": "Alcorcón",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 172384,
+  "lat": 40.34582,
+  "lng": -3.82487,
+  "metaTitle": "Taller mecánico en Alcorcón — Multimarca y de confianza",
+  "metaDescription": "Presupuesto cerrado para la revisión, averías o neumáticos de tu coche en Alcorcón. Cerca de Móstoles y Leganés. Pide tu cita y evita sorpresas.",
+  "heroSubtitle": "Sabemos que tu día a día depende del coche para ir a Madrid por la A-5 o moverte por el sur. Deja tu coche en buenas manos y sin líos.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives y conduces en Alcorcón, sabes lo que significa depender del coche. No es un lujo, es una necesidad. Ya sea para el trayecto diario a Madrid por una A-5 que nunca descansa, para cruzar la M-40 o la M-50, o simplemente para moverte entre Parque Lisboa, el Ensanche Sur y los polígonos, tu vehículo es tu herramienta principal. Entendemos perfectamente el desgaste que supone este uso intensivo: los atascos, los kilómetros acumulados y el estrés mecánico que todo esto genera en embragues, frenos y sistemas de refrigeración. Nuestro taller está pensado para conductores como tú, que necesitan soluciones fiables y un servicio que entienda la realidad del sur de Madrid, sin rodeos ni sorpresas en la factura.\n\nEl clima de la Comunidad de Madrid es otro factor clave que no podemos ignorar. Los veranos secos y tórridos de Alcorcón ponen a prueba cualquier sistema de aire acondicionado y exigen un sistema de refrigeración del motor en perfecto estado para evitar sobrecalentamientos en pleno atasco en la autovía de Extremadura. Por otro lado, las mañanas heladas de invierno, con temperaturas bajo cero, son la prueba de fuego para las baterías. Un coche que no arranca a las siete de la mañana puede arruinarte el día. Por eso, en nuestras revisiones prestamos especial atención a estos elementos, adaptando el mantenimiento a la estacionalidad y asegurando que tu coche responda cuando más lo necesitas, ya sea en agosto o en enero.\n\nEl parque automovilístico de Alcorcón y de municipios vecinos como Móstoles o Leganés es muy variado, pero dominan los coches de trabajo y familiares: SEAT León, Renault Mégane, Peugeot 308, Ford Focus, y un sinfín de SUVs compactos. Muchos de ellos, especialmente los de entre 5 y 12 años, son diésel. Conocemos al dedillo los problemas recurrentes de estos motores (TDI, HDI, dCi...), sobre todo los relacionados con los filtros de partículas (FAP/DPF) y las válvulas EGR, que sufren especialmente con los trayectos cortos por la ciudad o los recorridos a baja velocidad. No nos limitamos a cambiar piezas; diagnosticamos la causa para ofrecerte una solución duradera y adaptada al uso real que le das a tu coche.\n\nPor todo esto, no somos un taller más. Somos tu taller local en Alcorcón, un equipo de profesionales que habla tu mismo idioma y conoce los desafíos a los que se enfrenta tu coche cada día. Desde una simple revisión antes de irte de vacaciones por la A-5 hasta una avería compleja de motor o electrónica, estamos aquí para ayudarte. Te ofrecemos un diagnóstico honesto, un presupuesto cerrado para que no haya sustos y la tranquilidad de saber que tu coche está en manos de gente que sabe lo que hace. Porque tu tiempo y tu tranquilidad son lo más importante.",
+  "servicesIntro": "Ofrecemos una cobertura total para tu coche en Alcorcón: desde la revisión oficial y pre-ITV hasta averías de motor, embragues o electrónica.",
+  "processIntro": "Trabajamos con total transparencia. Te explicamos qué le pasa a tu coche, te damos un presupuesto cerrado y no reparamos nada sin tu autorización.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, nuestros técnicos realizan una revisión completa para identificar el origen del problema. Escuchamos tus explicaciones y utilizamos equipos de diagnosis avanzados para ser precisos y no dar palos de ciego."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin compromiso. Verás el coste de las piezas y la mano de obra por separado. El precio que te damos es el que pagas, sin sorpresas."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No movemos una sola tuerca sin tu consentimiento. Te llamamos, te explicamos la intervención necesaria y solo cuando nos das el 'vale', empezamos a trabajar. El control siempre es tuyo."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con total garantía. Nuestros mecánicos realizan la reparación siguiendo los estándares del fabricante para asegurar un resultado óptimo y duradero. Te mantenemos informado del proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando el coche está listo, te avisamos para que pases a recogerlo. Te explicamos la reparación realizada y te entregamos la factura detallada. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El calor extremo, el frío invernal y los atascos diarios en la A-5 y la M-40 generan problemas muy específicos en los coches de Alcorcón que vemos cada día en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico denso para entrar y salir de Madrid por la A-5, junto con la conducción urbana por Alcorcón, obliga a un uso constante del embrague y los frenos. Este ciclo de arrancar y parar acelera su desgaste. Realizamos sustituciones con componentes de calidad para devolverle a tu coche la suavidad y seguridad originales."
+    },
+    {
+      "title": "Averías en el aire acondicionado",
+      "body": "En julio y agosto, conducir por Alcorcón sin aire acondicionado es una tortura. El calor extremo de Madrid fuerza al máximo el compresor y puede provocar fugas en el circuito. Diagnosticamos el problema, ya sea una simple recarga de gas o una avería más compleja, para que vuelvas a conducir fresco."
+    },
+    {
+      "title": "Filtros de partículas (FAP/DPF) obstruidos",
+      "body": "Es el problema estrella de los diésel modernos que hacen mucha ciudad o trayectos cortos, algo muy común aquí. Si no sales a carretera con frecuencia, el filtro no se regenera y se tapona. Ofrecemos soluciones de limpieza y regeneración forzada para evitar una costosa sustitución."
+    },
+    {
+      "title": "Fallo de batería en invierno",
+      "body": "Las mañanas frías y secas del invierno madrileño son letales para las baterías con algunos años. El frío reduce su capacidad de arranque y, si el coche duerme en la calle, es fácil que una mañana te deje tirado. Comprobamos el estado de tu batería y te aconsejamos su cambio si es necesario."
+    },
+    {
+      "title": "Problemas de suspensión y neumáticos",
+      "body": "Entre badenes, rotondas y el estado variable de algunas calles, los amortiguadores, silentblocks y neumáticos sufren mucho. Un desgaste irregular o ruidos extraños al girar son síntomas claros. Realizamos alineaciones de dirección y revisiones completas del tren de rodaje para garantizar tu seguridad y confort."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos tu coche y tu ciudad",
+      "body": "Somos especialistas en las marcas y modelos más comunes en Alcorcón y entendemos cómo les afecta el uso diario en la zona. No damos soluciones genéricas, sino adaptadas a la realidad local."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Te detallamos cada concepto para que sepas exactamente en qué se invierte tu dinero. La honestidad es nuestra principal herramienta."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "No te haremos cambiar piezas que no necesitas. Nuestro objetivo es solucionar tu problema de forma eficiente y económica, construyendo una relación de confianza a largo plazo."
+    },
+    {
+      "title": "Facilidades para tu día a día",
+      "body": "Sabemos que necesitas el coche. Te ofrecemos opciones como el coche de cortesía (sujeto a disponibilidad) para que no te quedes parado mientras reparamos el tuyo."
+    },
+    {
+      "title": "Gestión integral de la ITV",
+      "body": "Ahorra tiempo y preocupaciones. Hacemos una revisión pre-ITV exhaustiva y, si quieres, llevamos nosotros mismos tu coche a la estación de Alcorcón para que tú no tengas que preocuparte por nada."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de casos reales de conductores de Alcorcón y alrededores que ya han confiado en nuestro taller. Tu experiencia podría ser la próxima.",
+  "testimonials": [
+    {
+      "name": "Javier",
+      "neighborhood": "Ensanche Sur",
+      "car": "SEAT León TDI 2016",
+      "body": "Se me encendió el testigo del filtro de partículas. Hago muchos trayectos cortos para llevar a los niños y casi no salgo a carretera. En el taller me explicaron el problema y me hicieron una regeneración forzada. Me ahorraron un dineral y el coche va perfecto. Muy honestos y profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Parque Lisboa",
+      "car": "Renault Clio 2018",
+      "body": "Llevé el coche para la revisión anual antes de irme de vacaciones. Me revisaron todos los puntos importantes, sobre todo el aire acondicionado y los neumáticos, que era lo que más me preocupaba. El trato fue genial, me dieron el presupuesto cerrado desde el principio y cumplieron el plazo. Volveré seguro.",
+      "rating": 5
+    },
+    {
+      "name": "David",
+      "neighborhood": "San José de Valderas",
+      "car": "Peugeot Partner 2015",
+      "body": "Soy autónomo y la furgoneta es mi oficina. El embrague empezó a patinar y necesitaba una solución rápida. Me dieron cita enseguida, entendieron la urgencia y en un par de días la tenía lista. El precio fue el que me dijeron. Un servicio eficaz, que es lo que necesito.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Prado Santo Domingo",
+      "car": "Ford Focus 2013",
+      "body": "El aire acondicionado dejó de enfriar en plena ola de calor. Me encontraron un hueco rápido para mirarlo. Resultó ser una fuga pequeña. Tardaron un poco más de lo previsto en conseguir la pieza, pero me mantuvieron informada en todo momento. Al final todo perfecto y el precio correcto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Alcorcón da servicio a toda la ciudad, desde el centro histórico hasta los nuevos desarrollos como el Ensanche Sur. Si vives o trabajas en barrios como Parque Lisboa, San José de Valderas, Ondarreta o Prado Santo Domingo, estamos a tu lado. Además, nuestra ubicación es ideal para conductores de municipios colindantes que buscan un taller de confianza sin tener que entrar en Madrid. Damos servicio a diario a clientes de Móstoles, Leganés, Fuenlabrada y Villaviciosa de Odón, gracias al fácil acceso desde las principales vías como la A-5, la M-50 y la M-40. Llegar a nuestro taller es sencillo y rápido, estés donde estés en la zona sur.",
+  "zoneNeighborhoods": [
+    "Ensanche Sur",
+    "Parque Lisboa",
+    "San José de Valderas",
+    "Prado Santo Domingo",
+    "Móstoles",
+    "Leganés",
+    "Fuenlabrada",
+    "Villaviciosa de Odón",
+    "Ondarreta",
+    "Alcorcón Centro"
+  ],
+  "zoneAccessRoutes": [
+    "A-5 (Autovía de Extremadura)",
+    "M-50",
+    "M-40",
+    "R-5",
+    "M-501 (Carretera de los Pantanos)"
+  ],
+  "faqLocal": [
+    {
+      "q": "Vivo en Móstoles, ¿me viene bien vuestro taller en Alcorcón?",
+      "a": "Por supuesto. Estamos muy cerca del límite entre ambos municipios y tenemos un acceso muy cómodo, por lo que muchos de nuestros clientes son de Móstoles. Te resultará más rápido y sencillo que buscar un taller en otras zonas. Llámanos y te indicamos la forma más fácil de llegar desde tu casa."
+    },
+    {
+      "q": "Mi coche es diésel y hago trayectos cortos por Alcorcón, ¿qué mantenimiento especial necesita?",
+      "a": "Es un caso muy común. Este tipo de uso tiende a obstruir el filtro de partículas (FAP/DPF) y la válvula EGR. Te recomendamos que, al menos una vez al mes, salgas a carretera (M-50 o A-5) y conduzcas durante 20-30 minutos a un régimen de revoluciones más alto (unas 2.500-3.000 rpm) para forzar la regeneración. En nuestras revisiones, prestamos especial atención a estos sistemas."
+    },
+    {
+      "q": "Con el calor de Madrid en verano, ¿qué debo revisar en mi coche?",
+      "a": "Es fundamental tener el sistema de refrigeración en perfecto estado (nivel de anticongelante y estado de los manguitos), el aire acondicionado funcionando correctamente y los neumáticos con la presión adecuada, ya que el asfalto caliente aumenta el riesgo de reventón. Una revisión antes de julio es la mejor inversión para evitar sustos."
+    },
+    {
+      "q": "Tengo que pasar la ITV en el centro de Alcorcón (calle Físicas), ¿ofrecéis servicio Pre-ITV?",
+      "a": "Sí. Ofrecemos un servicio completo de Pre-ITV donde revisamos todos los puntos críticos: luces, frenos, neumáticos, emisiones, etc. Si detectamos cualquier fallo, te damos presupuesto para solucionarlo. Si quieres, también podemos encargarnos de llevar tu coche a la estación de la ITV para que no pierdas tu tiempo."
+    },
+    {
+      "q": "Uso mucho el coche en los atascos de la A-5, ¿cómo afecta esto al embrague?",
+      "a": "El tráfico intermitente es el peor enemigo del embrague. Cada vez que arrancas y paras, el disco sufre un pequeño desgaste. Hacerlo cientos de veces al día acorta drásticamente su vida útil. Si notas que el pedal está más duro, que el coche vibra al salir o que el motor se revoluciona pero no gana velocidad, es hora de revisarlo."
+    },
+    {
+      "q": "Soy autónomo y tengo una furgoneta, ¿trabajáis con vehículos comerciales?",
+      "a": "Claro que sí. Entendemos que para un profesional, la furgoneta o el coche de trabajo es una herramienta indispensable. Damos un servicio ágil y prioritario para autónomos y pequeñas empresas de Alcorcón y alrededores, para que tu vehículo esté parado el mínimo tiempo posible y puedas seguir facturando."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Alcorcón",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos por WhatsApp y te daremos cita en nuestro taller de Alcorcón para que conduzcas con total tranquilidad.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Alcorcón",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@taller-madrid.es",
+    "addressStreet": ""
+  }
+}

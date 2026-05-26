@@ -1,0 +1,183 @@
+{
+  "slug": "zaragoza",
+  "name": "Zaragoza",
+  "province": "Zaragoza",
+  "ccaa": "Aragón",
+  "population": 686986,
+  "lat": 41.65606,
+  "lng": -0.87734,
+  "metaTitle": "Taller mecánico en Zaragoza — Multimarca y de confianza",
+  "metaDescription": "Tu taller mecánico en Zaragoza. Presupuesto cerrado para revisiones, averías, neumáticos e ITV en todas las marcas. Sin sorpresas. Pide tu cita online.",
+  "heroSubtitle": "Deja de preocuparte por el Cierzo, el calor del verano o los atascos en la Z-30. Tu coche, a punto y con un presupuesto que no cambia.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Zaragoza es algo más que ir de un punto a otro. Es enfrentarse a un clima de extremos que pone a prueba cualquier motor. En verano, el asfalto de la Z-40 parece derretirse y tu aire acondicionado trabaja a destajo para que no te ases dentro del coche. Luego llega el invierno, y el Cierzo no solo te congela al salir del portal, sino que exige el máximo a la batería de tu coche cada mañana, especialmente si duerme en un garaje comunitario en barrios como Delicias o el Actur. Este clima seco, aunque nos libra de la corrosión de la costa, levanta un polvo fino que acaba obstruyendo los filtros de aire y del habitáculo, afectando al rendimiento y a la calidad del aire que respiras.\n\nEl día a día de un conductor zaragozano es un constante desafío mecánico. Miles de personas cogen el coche a diario desde barrios como Valdespartera, Miralbueno o municipios cercanos como Utebo y Cuarte de Huerva para entrar a la ciudad. Esto significa atascos en la entrada por la A-2, circular a baja velocidad por Vía Hispanidad o el Paseo María Agustín, y un uso intensivo de embrague y frenos. Este tipo de conducción urbana es especialmente dañina para los coches diésel, cuyos filtros de partículas sufren al no poder regenerarse correctamente. Luego, el fin de semana, buscas una escapada al Moncayo o a los Pirineos, y necesitas que la suspensión, los neumáticos y los frenos respondan a la perfección en carreteras de montaña.\n\nEl parque automovilístico de Zaragoza es un reflejo de su gente: práctico y trabajador. La influencia de la planta de Stellantis en Figueruelas es innegable, con una gran presencia de Opel, Peugeot y Citroën. Junto a ellos, los habituales SEAT, Renault, Volkswagen y Ford llenan las calles de barrios como San José o Las Fuentes. Son coches de familias, de autónomos con su furgoneta, de jóvenes con su primer utilitario. Vehículos que necesitan un mantenimiento fiable y a un precio justo, sin las sorpresas que a veces deparan las facturas de los talleres.\n\nEn nuestra red de talleres entendemos esta realidad porque la vivimos. No te ofrecemos soluciones genéricas, sino un servicio adaptado a las necesidades de tu coche en Zaragoza. Sabemos lo que implica preparar un coche para pasar la ITV aquí, la importancia de un sistema de climatización que no falle en julio y de una batería que arranque a la primera en enero. Te ofrecemos un diagnóstico honesto, un presupuesto cerrado para que no haya sustos y la tranquilidad de saber que profesionales que conocen tu entorno están cuidando de tu vehículo. Ya sea para la revisión anual, un cambio de ruedas o esa avería que te trae de cabeza, estamos aquí para ayudarte.",
+  "servicesIntro": "Ofrecemos una cobertura total para tu coche en Zaragoza: desde la revisión oficial y la pre-ITV hasta la mecánica más compleja como embragues o distribuciones.",
+  "processIntro": "Creemos en la transparencia. Por eso, en nuestro taller de Zaragoza primero diagnosticamos, luego te damos un presupuesto cerrado y nunca reparamos nada sin tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Nos cuentas qué le pasa a tu coche y lo escuchamos. Usamos nuestra experiencia y equipos de diagnosis para encontrar el origen del problema de forma precisa, sin dar palos de ciego."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Recibirás un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas, sin extras inesperados ni letra pequeña. Claridad total para que decidas con toda la información."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "El coche es tuyo y tú mandas. No pedimos ninguna pieza ni empezamos ninguna reparación hasta que nos das tu confirmación explícita. Tienes el control total del proceso y del gasto."
+    },
+    {
+      "title": "Reparación",
+      "body": "Nuestros mecánicos se ponen manos a la obra utilizando recambios de primeras marcas. Todas nuestras reparaciones y piezas cuentan con garantía para que conduzcas con total tranquilidad."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Te lo entregamos limpio y te explicamos la reparación realizada. Unos días después, puede que te llamemos para confirmar que todo va perfecto."
+    }
+  ],
+  "commonIssuesIntro": "El calor extremo en verano, el frío con Cierzo en invierno y el tráfico diario de Zaragoza generan una serie de averías muy características que vemos constantemente en el taller.",
+  "commonIssues": [
+    {
+      "title": "Fallo del aire acondicionado",
+      "body": "Llegar a julio en Zaragoza con más de 40 grados y que el aire acondicionado no enfríe es una pesadilla. El calor extremo fuerza los compresores y puede provocar fugas de gas. Hacemos una diagnosis completa del sistema, buscamos fugas y lo recargamos para que vuelvas a conducir fresco."
+    },
+    {
+      "title": "Baterías que mueren en invierno",
+      "body": "El frío intenso y el Cierzo son enemigos directos de las baterías. A bajas temperaturas, su rendimiento cae en picado y es habitual que el coche no arranque por la mañana. Comprobamos el estado de tu batería y el alternador para evitar que te deje tirado en el momento más inoportuno."
+    },
+    {
+      "title": "Desgaste de embrague y frenos",
+      "body": "El tráfico de entrar y salir de Zaragoza por la Z-30 o la A-68, sumado a los constantes semáforos del centro, castiga el embrague y los frenos. Si notas que el pedal del embrague va duro o que el coche frena menos, es hora de una revisión. Los cambiamos por recambios de calidad para garantizar tu seguridad."
+    },
+    {
+      "title": "Filtros de aire y habitáculo sucios",
+      "body": "El ambiente seco y el viento levantan mucho polvo en Zaragoza. Estos filtros son la primera barrera y se saturan rápidamente, provocando que el motor rinda menos y que respires un aire de peor calidad dentro del coche. Es una operación de mantenimiento económica y muy necesaria que realizamos en cada revisión."
+    },
+    {
+      "title": "Sobrecalentamiento del motor",
+      "body": "Un atasco en pleno agosto en el Tercer Cinturón puede ser fatal para un sistema de refrigeración que no esté en perfecto estado. El calor extremo pone al límite manguitos, radiador y termostato. Revisamos el circuito y el nivel de anticongelante para prevenir averías graves y costosas."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de aquí",
+      "body": "Sabemos cómo afecta el Cierzo a una batería y el calor de agosto al aire acondicionado. Nuestro diagnóstico es más rápido y preciso porque entendemos las condiciones de conducción de Zaragoza."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "Te damos un precio cerrado y detallado antes de hacer nada. Se acabaron las facturas infladas y las sorpresas de última hora. Pagas exactamente lo que has aprobado, ni un céntimo más."
+    },
+    {
+      "title": "Expertos en todas las marcas",
+      "body": "Da igual si conduces un Opel Corsa, un SEAT León o una furgoneta Peugeot. Nuestros mecánicos tienen la formación y el equipo para trabajar con la misma garantía en cualquier vehículo del parque móvil zaragozano."
+    },
+    {
+      "title": "La ITV, a la primera",
+      "body": "No te la juegues. Con nuestro servicio de pre-ITV revisamos todos los puntos críticos para que vayas a la inspección con la total seguridad de que vas a pasarla sin defectos."
+    },
+    {
+      "title": "Transparencia total",
+      "body": "Te explicamos la avería de forma que la entiendas, sin tecnicismos. Si encontramos algo nuevo durante la reparación, paramos, te llamamos y te informamos antes de seguir. Tú decides siempre."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que resolvemos cada día para conductores de Zaragoza. Podrías ser tú perfectamente.",
+  "testimonials": [
+    {
+      "name": "Pilar",
+      "neighborhood": "Delicias",
+      "car": "Opel Astra 1.7 CDTI 2015",
+      "body": "El coche me daba tirones y se encendió el testigo del motor. Como solo lo uso para ir a trabajar por la ciudad, me dijeron que era el filtro de partículas. Me dieron un presupuesto cerrado, lo solucionaron rápido y me explicaron cómo evitar que vuelva a pasar. Un trato muy profesional.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Actur",
+      "car": "SEAT León TSI 2018",
+      "body": "Tenía que pasar la ITV y no quería sorpresas. Les pedí una revisión pre-ITV y encontraron que las pastillas de freno traseras estaban en las últimas. Me avisaron, me dieron precio y las cambiaron en el mismo día. Pasé la ITV sin un solo fallo. Muy recomendable.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Cuarte de Huerva",
+      "car": "Renault Clio 2016",
+      "body": "El aire acondicionado dejó de enfriar justo a principios de junio. Llamé asustada por si era una avería cara. Me localizaron una pequeña fuga, la repararon y recargaron el gas. El precio fue exactamente el que me dijeron por teléfono. Me salvaron el verano.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "San José",
+      "car": "Ford Focus 2012",
+      "body": "Notaba un ruido raro en la suspensión al pasar por badenes. Lo revisaron y vieron que un amortiguador estaba para cambiar. Tardaron un día más de lo previsto porque la pieza no llegaba, pero me mantuvieron informado en todo momento. El coche ahora va perfecto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Zaragoza y su área metropolitana. No importa si vives en un barrio consolidado como El Rabal, Torrero o el Centro, o en las zonas de nueva expansión como Valdespartera, Arcosur o Miralbueno. Nuestra ubicación nos permite un acceso rápido desde las principales vías de circunvalación, como la Z-30 y la Z-40, facilitando la llegada desde cualquier punto de la ciudad. Además, somos el taller de referencia para muchos conductores de municipios cercanos como Utebo, Cuarte de Huerva, La Puebla de Alfindén o Villanueva de Gállego, que aprovechan sus desplazamientos a la capital para realizar el mantenimiento de su vehículo.",
+  "zoneNeighborhoods": [
+    "Delicias",
+    "Actur-Rey Fernando",
+    "Centro",
+    "San José",
+    "Torrero-La Paz",
+    "El Rabal",
+    "Universidad",
+    "Valdespartera",
+    "Utebo",
+    "Cuarte de Huerva"
+  ],
+  "zoneAccessRoutes": [
+    "Z-40 (Cuarto Cinturón)",
+    "Z-30 (Tercer Cinturón)",
+    "A-2 (Autovía del Nordeste)",
+    "A-68 (Autovía del Ebro)",
+    "N-232"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Necesito neumáticos de invierno para conducir por Zaragoza?",
+      "a": "Generalmente, no. Para la conducción habitual por la ciudad y sus alrededores, unos neumáticos de verano o 'todo tiempo' de buena calidad son suficientes. El clima de Zaragoza no suele tener nevadas prolongadas. Sin embargo, si subes con frecuencia al Pirineo o a zonas de Teruel en invierno, entonces sí son muy recomendables para tu seguridad."
+    },
+    {
+      "q": "Mi coche diésel solo hace trayectos cortos por la ciudad, ¿qué debo vigilar?",
+      "a": "Es el uso más perjudicial para un diésel moderno. El filtro de partículas (DPF) no alcanza la temperatura para limpiarse y puede obstruirse, causando averías costosas. Te recomendamos salir a carretera (como la Z-40) al menos una vez al mes y conducir a revoluciones más altas durante unos 15-20 minutos para forzar la regeneración. También vigilamos la válvula EGR."
+    },
+    {
+      "q": "Con el calor del verano, ¿con qué frecuencia debo revisar el aire acondicionado?",
+      "a": "Lo ideal es hacer una revisión preventiva antes de que llegue el calor fuerte, sobre mayo o principios de junio. En esa revisión comprobamos la presión del gas y el estado del compresor. Así te aseguras de que no te falle en plena ola de calor, que es cuando más se fuerza y cuando suelen aparecer los problemas."
+    },
+    {
+      "q": "Vivo en un pueblo cercano y voy a Zaragoza a trabajar, ¿qué se desgasta más en mi coche?",
+      "a": "Ese tipo de uso mixto (carretera y ciudad) es bastante exigente. El tramo de autovía desgasta los neumáticos, mientras que el tráfico denso al entrar y moverte por Zaragoza castiga mucho el embrague y los frenos. Es importante no saltarse las revisiones y vigilar el estado de estos tres elementos de seguridad."
+    },
+    {
+      "q": "¿El Cierzo puede dañar mi coche de alguna manera?",
+      "a": "Directamente, el viento no daña la mecánica. Indirectamente, sí tiene efectos. Acelera el enfriamiento del motor en invierno, lo que exige más a la batería en el arranque. Además, arrastra mucho polvo y partículas que saturan antes los filtros de aire y polen, y puede llegar a erosionar la pintura si no se lava el coche con regularidad."
+    },
+    {
+      "q": "¿Tenéis coche de cortesía? Lo necesito para poder seguir trabajando.",
+      "a": "Sí, disponemos de coches de cortesía para nuestros clientes. Este servicio está sujeto a disponibilidad y se suele reservar para reparaciones que implican inmovilizar el vehículo durante más de una jornada laboral. Pregúntanos al pedir tu cita y te confirmaremos si tenemos uno libre para ti."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto para Zaragoza",
+  "closingCta": "No dejes que una avería te arruine el día. Pide tu presupuesto cerrado para tu coche en Zaragoza. Llámanos o escríbenos un WhatsApp y te atenderemos sin compromiso."
+}

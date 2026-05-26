@@ -1,0 +1,182 @@
+{
+  "slug": "gijon",
+  "name": "Gijón",
+  "province": "Asturias",
+  "ccaa": "Asturias",
+  "population": 271780,
+  "lat": 43.53573,
+  "lng": -5.66152,
+  "metaTitle": "Taller mecánico en Gijón — Multimarca y de confianza",
+  "metaDescription": "Tu taller mecánico en Gijón para revisiones, averías y neumáticos. Presupuesto cerrado y para todas las marcas. Pide tu cita y conduce con tranquilidad.",
+  "heroSubtitle": "Deja de preocuparte por el 'orbayu', la ITV y las averías inesperadas. En Gijón, te damos un presupuesto claro y sin sorpresas para tu coche.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Gijón es una experiencia única, marcada por el Cantábrico y un clima que no da tregua. Sabes de lo que hablamos: el 'orbayu' constante que deja las calzadas resbaladizas, la salitre que se pega a la carrocería después de un paseo por el Muro de San Lorenzo y la humedad que parece calar hasta los huesos del coche. Aquí, el mantenimiento no es una opción, es una necesidad. Un vehículo en Gijón sufre un desgaste particular, desde la corrosión prematura en los bajos y los pasos de rueda hasta el esfuerzo extra que hacen los neumáticos para agarrarse al asfalto mojado, especialmente en rotondas como la de la plaza del Padre Máximo González en La Calzada.\n\nComprendemos tu día a día porque es el nuestro. El atasco mañanero en la Ronda Sur para ir a trabajar, el trayecto diario por la A-8, la famosa 'Y Griega', para llegar a Oviedo o Avilés, o el simple callejeo por el centro buscando aparcamiento cerca de la calle Corrida. Este uso mixto, con tramos cortos urbanos y trayectos por autovía, es especialmente duro para los coches diésel, tan comunes en Asturias. El filtro de partículas (FAP) sufre, el embrague se desgasta en el tráfico denso de la avenida de la Costa y los frenos trabajan a destajo en las cuestas de barrios como Cimavilla o El Coto. No es lo mismo un coche que solo pisa la AS-II que uno que no sale del casco urbano.\n\nEl parque automovilístico de Gijón es un reflejo fiel de la ciudad: práctico y trabajador. Vemos a diario los SEAT León, Renault Mégane y Peugeot 308 de las familias que viven en Viesques o Nuevo Gijón. También las furgonetas Citroën Berlingo o Ford Transit de los autónomos que reparten por toda la comarca, desde Carreño hasta Villaviciosa. Y por supuesto, los coches más compactos, como un Opel Corsa o un Ford Fiesta, perfectos para moverse por El Llano. Conocemos las motorizaciones más habituales, los problemas endémicos de cada modelo y sabemos qué piezas tienden a fallar por el tipo de conducción y el clima asturiano.\n\nPor eso, nuestro enfoque es local y honesto. No te vamos a contar historias. Sabemos que necesitas el coche para llevar a los niños al colegio, para ir a la compra o para cumplir con tus clientes. Entendemos que una avería es un problema serio que trastoca tu rutina. Cuando revisamos tu coche, no solo vemos un motor; vemos un vehículo que tiene que ser seguro para circular por la N-632 un día de lluvia, fiable para no dejarte tirado de camino a una escapada por los Picos de Europa y estar a punto para pasar la ITV sin dramas. Te ofrecemos un diagnóstico claro, un presupuesto cerrado y la tranquilidad de saber que tu coche está en manos de gente que entiende Gijón.",
+  "servicesIntro": "Desde la revisión anual para tu coche en Gijón hasta la avería más compleja, cubrimos todas las necesidades de tu vehículo con total transparencia.",
+  "processIntro": "Trabajamos con un proceso claro y sin sorpresas para que siempre sepas qué le pasa a tu coche y cuánto te va a costar la reparación en Gijón.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos lo que te preocupa. Luego, nuestros técnicos realizan una inspección completa para identificar el origen del problema con equipos de diagnosis multimarca, entendiendo las condiciones de conducción de Gijón."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado y sin letra pequeña. Incluye mano de obra y piezas, explicando claramente cada punto. El precio que ves es el que pagas, sin sorpresas de última hora. Así de simple."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No movemos ni un tornillo sin tu aprobación explícita. Revisas el presupuesto con calma y, solo cuando nos das el visto bueno, empezamos a trabajar en tu coche. Tú tienes el control en todo momento."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado del proceso y cumplimos con los plazos acordados para que recuperes tu vehículo lo antes posible."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Al recoger tu coche, te explicamos la reparación realizada. Guardamos el historial de tu vehículo para futuras revisiones y te contactamos para asegurarnos de que todo funciona perfectamente tras la intervención en nuestro taller."
+    }
+  ],
+  "commonIssuesIntro": "La humedad, la sal del Cantábrico y el tráfico de la 'Y Griega' provocan averías muy específicas en los coches de Gijón. Estas son las que más vemos en nuestro taller.",
+  "commonIssues": [
+    {
+      "title": "Óxido y corrosión en los bajos",
+      "body": "La combinación de la alta humedad asturiana y la salitre del mar, especialmente si aparcas cerca de la playa de San Lorenzo o Poniente, acelera la corrosión del chasis, escape y suspensiones. Realizamos inspecciones preventivas y aplicamos tratamientos protectores para alargar la vida de los componentes metálicos y evitar problemas graves en la ITV."
+    },
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El tráfico denso en avenidas como la de la Constitución y las cuestas de muchos barrios de Gijón fuerzan constantemente el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, sobre todo en mojado, es hora de una revisión para garantizar tu seguridad."
+    },
+    {
+      "title": "Averías en el filtro de partículas (FAP)",
+      "body": "Muchos diésel en Gijón hacen trayectos cortos por la ciudad, de El Coto al centro, por ejemplo. Esto impide que el FAP se regenere correctamente, provocando obstrucciones y averías costosas. Realizamos limpiezas forzadas y diagnosticamos el sistema para que evites la temida luz de avería de motor."
+    },
+    {
+      "title": "Fallos eléctricos por la humedad",
+      "body": "El 'orbayu' no es un mito. La humedad ambiental se filtra en conexiones eléctricas, sensores y faros, causando fallos intermitentes, luces que no funcionan o problemas con el sistema de arranque. Sellamos y protegemos los componentes vulnerables para que tu coche no falle en el peor momento."
+    },
+    {
+      "title": "Problemas de alineación y suspensión",
+      "body": "Las carreteras asturianas, con sus cambios de rasante y firmes a veces irregulares, junto con los badenes y baches de la ciudad, pueden desalinear la dirección y desgastar los amortiguadores. Una correcta alineación es clave para el agarre, especialmente con lluvia, y para evitar un desgaste desigual de los neumáticos."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos Gijón",
+      "body": "No somos una franquicia sin más. Entendemos el clima, las carreteras y cómo afectan a tu coche. Hablamos tu mismo idioma y conocemos los problemas reales de conducir aquí, desde la humedad hasta el tráfico de la 'Y'."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "Te damos un precio cerrado por escrito antes de empezar. Lo que apruebas es lo que pagas. Se acabaron las llamadas con \"ha surgido un imprevisto\". Honestidad y transparencia para que controles tu gasto."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un Audi de Somió, un Dacia de Pumarín o una furgoneta de La Calzada. Tenemos el equipo y la experiencia para trabajar con cualquier marca y modelo, siempre con la misma profesionalidad."
+    },
+    {
+      "title": "Tú decides siempre",
+      "body": "Te explicamos la avería de forma clara, sin tecnicismos que no entiendas. Te damos opciones si las hay y nunca, jamás, haremos una reparación que no hayas autorizado previamente. El control lo tienes tú."
+    },
+    {
+      "title": "Garantía en todo",
+      "body": "Todas nuestras reparaciones y piezas tienen garantía por ley. Conducirás con la tranquilidad de saber que el trabajo está bien hecho y que respondemos si algo no va como debería. Tu confianza es lo primero."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Gijón que han confiado en nosotros. Sus casos podrían ser el tuyo.",
+  "testimonials": [
+    {
+      "name": "Javier",
+      "neighborhood": "La Calzada",
+      "car": "Renault Mégane dCi 2016",
+      "body": "Tenía la luz del motor encendida y el coche no tiraba. Lo uso todos los días para ir a Avilés por la A-8 y estaba preocupado. Me diagnosticaron un problema con el FAP por los trayectos cortos del fin de semana. Me lo explicaron todo genial, me dieron un presupuesto cerrado y en un día lo tenía listo. Ahora el coche va como la seda.",
+      "rating": 5
+    },
+    {
+      "name": "Covadonga",
+      "neighborhood": "Viesques",
+      "car": "Peugeot 208 2018",
+      "body": "Se acercaba la ITV y no quería sorpresas. Lo llevé para una revisión pre-ITV y me detectaron que las pastillas de freno traseras estaban en las últimas y una luz de posición fundida. Me llamaron, me dieron el precio y lo acepté. Pasé la ITV a la primera sin ningún problema. Muy profesionales y honestos.",
+      "rating": 5
+    },
+    {
+      "name": "Pelayo",
+      "neighborhood": "El Coto",
+      "car": "Citroën Berlingo 2015",
+      "body": "Soy autónomo y la furgoneta es mi herramienta de trabajo. El embrague empezó a patinar y necesitaba una solución rápida. En otros sitios me daban largas. Aquí entendieron la urgencia, me dieron cita enseguida y cumplieron el plazo. Un servicio eficiente que me salvó la semana de trabajo.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Cimavilla",
+      "car": "SEAT Ibiza 2012",
+      "body": "Notaba un ruido raro en la rueda delantera al girar. Como no entiendo de mecánica, me daba miedo que me quisieran engañar. Aquí fueron súper claros, me enseñaron la pieza desgastada (un rodamiento) y me explicaron por qué había que cambiarla. El trato fue muy cercano y el precio, el que me dijeron. Da gusto encontrar gente así.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Gijón da servicio a toda la ciudad y sus alrededores. Si vives o trabajas en barrios como La Calzada, El Natahoyo, Moreda, El Llano, El Coto, Viesques o Somió, estamos a tu disposición. También cubrimos las necesidades de los conductores de los concejos vecinos, siendo un taller de referencia para clientes de Carreño (Candás, Perlora), Villaviciosa o Siero que buscan un servicio de confianza.\n\nGracias a nuestra ubicación, tenemos un acceso rápido a las principales vías que conectan Gijón. Si vienes por la Autovía del Cantábrico (A-8), tanto desde el este como del oeste, nos encontrarás fácilmente. También estamos bien comunicados a través de la AS-II (Autovía Minera) si viajas desde la cuenca, y de la carretera nacional N-632 que recorre la costa.",
+  "zoneNeighborhoods": [
+    "La Calzada",
+    "El Coto",
+    "Viesques",
+    "Cimavilla",
+    "El Llano",
+    "Pumarín",
+    "Somió",
+    "Nuevo Gijón",
+    "Carreño (Candás)",
+    "Villaviciosa"
+  ],
+  "zoneAccessRoutes": [
+    "A-8 (Autovía del Cantábrico / 'Y Griega')",
+    "AS-II (Autovía Minera)",
+    "N-632",
+    "GJ-81 (Acceso Sur a Gijón)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Es verdad que la sal del mar daña tanto el coche en Gijón?",
+      "a": "Sí, es uno de los mayores enemigos de tu coche en la costa asturiana. La salitre acelera la oxidación de la carrocería, el chasis y el sistema de escape. Si vives o aparcas cerca de la playa, te recomendamos lavar los bajos del coche con frecuencia, especialmente en invierno, y hacer una revisión anual para aplicar tratamientos anticorrosión si fuera necesario."
+    },
+    {
+      "q": "Mi coche diésel solo lo uso por la ciudad, ¿qué puedo hacer para evitar problemas con el FAP?",
+      "a": "Es un problema muy común en Gijón. Para ayudar a que el filtro de partículas se regenere, intenta hacer un trayecto más largo por autovía (como por la A-8) al menos una vez a la semana, a unas 2.500-3.000 revoluciones durante 15-20 minutos. Esto ayuda a quemar la carbonilla acumulada. Si ya es tarde, tráenoslo para una diagnosis."
+    },
+    {
+      "q": "¿Qué neumáticos me recomendáis para el clima de Asturias?",
+      "a": "Para Gijón y Asturias en general, lo más importante es el rendimiento en mojado. No necesitas neumáticos de invierno puros a menos que subas a la montaña con frecuencia. Te recomendamos neumáticos 'all-season' (todo tiempo) de buena calidad o de verano con una calificación 'A' en agarre sobre mojado. Es la mejor inversión en seguridad para nuestras carreteras."
+    },
+    {
+      "q": "Tengo que pasar la ITV en la estación de Gijón, ¿qué miráis en la revisión pre-ITV?",
+      "a": "En nuestra revisión pre-ITV comprobamos todos los puntos críticos que miran en la inspección de Pruvia o Tremañes: luces, frenos, niveles de emisiones, estado de los neumáticos, suspensión, posibles holguras en la dirección y estado de los bajos. Nos aseguramos de que tu coche cumpla la normativa para que vayas a la ITV con total tranquilidad y la pases a la primera."
+    },
+    {
+      "q": "¿Tengo que dejar el coche todo el día para una revisión simple?",
+      "a": "No necesariamente. Para un mantenimiento básico como un cambio de aceite y filtros, intentamos ser lo más rápidos posible. Si pides cita previa, podemos organizarnos para que la espera sea mínima. Entendemos que necesitas tu coche, y optimizamos nuestro tiempo para devolvértelo cuanto antes, siempre garantizando un trabajo bien hecho."
+    },
+    {
+      "q": "Vivo en Candás, ¿me compensa llevar el coche a vuestro taller en Gijón?",
+      "a": "Muchos de nuestros clientes vienen de concejos cercanos como Carreño o Villaviciosa. Valoran nuestra transparencia con los presupuestos cerrados y la especialización multimarca. Por el trayecto corto que supone, te aseguras un servicio profesional y sin sorpresas, lo que a la larga supone un ahorro de dinero y problemas."
+    }
+  ],
+  "closingHeadline": "Tu coche a punto en Gijón",
+  "closingCta": "Pide tu presupuesto sin compromiso o reserva tu cita. Llámanos o escríbenos por WhatsApp y deja tu coche en manos de profesionales que entienden tu día a día en Gijón."
+}

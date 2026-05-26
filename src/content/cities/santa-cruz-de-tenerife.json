@@ -1,0 +1,182 @@
+{
+  "slug": "santa-cruz-de-tenerife",
+  "name": "Santa Cruz de Tenerife",
+  "province": "Santa Cruz de Tenerife",
+  "ccaa": "Canarias",
+  "population": 211359,
+  "lat": 28.46824,
+  "lng": -16.25462,
+  "metaTitle": "Taller mecánico en Santa Cruz de Tenerife — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Santa Cruz de Tenerife. Presupuestos cerrados para revisiones, averías y neumáticos. Protege tu coche del salitre y las cuestas. ¡Pide cita!",
+  "heroSubtitle": "Conducir por las cuestas de Santa Cruz y la TF-5 desgasta tu coche. Te damos un presupuesto claro para que no te lleves sorpresas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si conduces a diario por Santa Cruz de Tenerife, sabes que tu coche no tiene una vida fácil. No es lo mismo circular por aquí que por la península. Cada mañana, el tráfico denso en la TF-5 para ir a La Laguna o en la TF-1 bajando desde Candelaria pone a prueba tu embrague y tus frenos. El constante arranca-para en el centro, por la zona de La Salle o subiendo a La Salud, genera un desgaste que no se ve, pero que acaba pasando factura. Entendemos perfectamente la frustración de depender del coche para trabajar o llevar a los niños al colegio y que una avería inesperada te desmonte el día y el presupuesto.\n\nEl clima de nuestra isla, esa 'eterna primavera', es fantástico para nosotros, pero un enemigo silencioso para la mecánica. El principal culpable es el salitre. Si vives o aparcas cerca de la costa, desde San Andrés hasta Añaza, la brisa marina va corroyendo poco a poco los bajos de tu coche, los componentes de los frenos y las conexiones eléctricas. A esto se suma el sol intenso, que castiga la pintura, quema los faros y agrieta los salpicaderos y gomas de las puertas, especialmente en coches que duermen en la calle en barrios como Ofra o Somosierra. Y no nos olvidemos de la calima, ese polvo fino que se cuela por todas partes, saturando los filtros de aire y afectando al rendimiento del motor.\n\nLa propia geografía de Santa Cruz es un desafío. Las innumerables cuestas no son ninguna broma para el sistema de refrigeración, la caja de cambios y, por supuesto, los frenos. Subir a Vistabella, callejear por el Toscal o hacer una escapada de fin de semana por las carreteras de Anaga o hacia el Teide exige que tu coche esté en perfectas condiciones. Un sistema de refrigeración que no esté al 100% puede darte un susto en pleno ascenso, y unos amortiguadores gastados hacen que cada bache en las calles secundarias se sienta el doble. Por eso, un mantenimiento preventivo adaptado a estas condiciones no es un lujo, es una necesidad.\n\nConocemos el parque móvil de la isla: sabemos que la mayoría no conduce un coche nuevo. Vemos a diario los Toyota Yaris, Renault Clio, SEAT Ibiza y Volkswagen Polo que forman el grueso de los vehículos que circulan por nuestras calles. Coches fiables y duros, pero que con más de 8 o 10 años necesitan un taller que entienda sus achaques específicos. No aplicamos soluciones genéricas; diagnosticamos pensando en los problemas endémicos de Tenerife. Nuestra filosofía es simple: ofrecerte una solución honesta, con un presupuesto cerrado y un trato directo para que tu coche siga siendo tu aliado y no una fuente de problemas.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV en Taco sin problemas hasta el cambio de embrague por el uso en las cuestas de Santa Cruz, lo cubrimos todo.",
+  "processIntro": "Sabemos que un imprevisto en el coche es un problema. Por eso, te damos un presupuesto cerrado por adelantado y no hacemos nada sin tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Tu coche llega y lo primero es escucharte. Después, conectamos nuestros equipos de diagnosis y realizamos una inspección visual completa para encontrar el origen real del problema, no solo el síntoma."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con la avería localizada, te preparamos un presupuesto detallado y sin sorpresas. Te lo enviamos por WhatsApp o email para que lo revises con calma, sin letra pequeña ni costes ocultos de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "El coche no se toca hasta que nos des tu 'vale'. Revisas el presupuesto y, solo cuando lo apruebas, nuestros mecánicos se ponen manos a la obra. Tú tienes siempre el control total de la reparación."
+    },
+    {
+      "title": "Reparación",
+      "body": "Trabajamos con recambios de primeras marcas y con garantía. Te mantenemos informado del proceso y cumplimos los plazos acordados para que recuperes tu coche lo antes posible y con total confianza."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente como esperabas."
+    }
+  ],
+  "commonIssuesIntro": "El salitre de la costa, la calima, el sol intenso y las cuestas de Tenerife provocan averías muy concretas que vemos cada día y sabemos cómo solucionar de raíz.",
+  "commonIssues": [
+    {
+      "title": "Corrosión por salitre en frenos y bajos",
+      "body": "La brisa marina de Santa Cruz es muy agresiva. El salitre se deposita en los bajos, líneas de escape y, sobre todo, en los discos y pinzas de freno, acelerando su oxidación y reduciendo su eficacia. Realizamos una limpieza a fondo y aplicamos protectores específicos para alargar la vida de estos componentes vitales."
+    },
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El tráfico de la TF-5 y las empinadas calles de la ciudad obligan a un uso intensivo del embrague y los frenos. Este 'arranca-para' constante desgasta los discos y las pastillas mucho más rápido de lo normal. Hacemos una revisión exhaustiva del sistema y sustituimos los componentes solo cuando es estrictamente necesario."
+    },
+    {
+      "title": "Filtros obstruidos por la calima",
+      "body": "Cuando llega la calima, el aire se llena de un polvo finísimo que atasca el filtro de aire del motor y el del habitáculo. Un filtro de aire sucio aumenta el consumo y resta potencia. El del habitáculo, si está obstruido, fuerza el aire acondicionado y empeora la calidad del aire que respiras."
+    },
+    {
+      "title": "Sobrecalentamiento del motor en subidas",
+      "body": "Subir a La Laguna, a Anaga o simplemente callejear por las cuestas de Santa Cruz en verano puede llevar al límite el sistema de refrigeración de cualquier coche, especialmente si ya tiene unos años. Revisamos el nivel de anticongelante, el radiador y los manguitos para evitar un calentón que podría causar una avería grave."
+    },
+    {
+      "title": "Daños en plásticos y pintura por el sol",
+      "body": "El sol de Canarias es implacable. Degrada el barniz de la pintura, agrieta los salpicaderos y deja los plásticos exteriores blanquecinos y quebradizos. Aunque no hacemos chapa y pintura, podemos sustituir molduras, gomas y faros opacos para devolverle a tu coche un aspecto decente y funcional."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de aquí",
+      "body": "Sabemos qué les duele a los Toyota, SEAT o Renault que más se ven en Tenerife. No damos palos de ciego, vamos directos a las averías más comunes causadas por nuestro entorno."
+    },
+    {
+      "title": "Pasas la ITV sin dramas",
+      "body": "Hacemos una revisión pre-ITV a conciencia para que vayas sobre seguro a la estación de Mayorazgo o a la de Taco, ahorrándote tiempo y un segundo viaje por un fallo tonto."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "El precio que te damos es el que pagas. Somos transparentes desde el minuto uno. Si durante la reparación surge algo nuevo e importante, paramos y te llamamos. Sin tu OK, no se toca nada más."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Desde el Peugeot 208 de tu hija hasta tu furgoneta Berlingo para el trabajo. Tenemos el equipo y la experiencia para trabajar con la gran mayoría de coches y vehículos comerciales ligeros del mercado."
+    },
+    {
+      "title": "Comunicación clara y directa",
+      "body": "Te hablamos en un idioma que entiendes, sin tecnicismos innecesarios. Te explicamos qué le pasa a tu coche, por qué ha pasado y qué vamos a hacer para solucionarlo. Así de simple."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que solucionamos cada día en nuestro taller para conductores como tú en Santa Cruz.",
+  "testimonials": [
+    {
+      "name": "José",
+      "neighborhood": "Ofra",
+      "car": "Renault Clio 1.5 dCi 2015",
+      "body": "El embrague me empezó a patinar subiendo a La Laguna todos los días para trabajar. En otros sitios me daban largas o presupuestos por las nubes. Aquí me lo explicaron claro, me dieron un precio cerrado y en dos días tenía el coche listo. Se nota que saben lo que hacen.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Centro-Ifara",
+      "car": "Toyota Yaris Hybrid 2018",
+      "body": "Llevo el coche aquí para la revisión anual. Siempre me miran bien los frenos, que con las cuestas del centro es lo que más me preocupa. Son honestos, si algo está bien no te intentan vender la reparación. Me da mucha tranquilidad y confianza para todo el año.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Añaza",
+      "car": "SEAT León FR 2017",
+      "body": "Tenía un chirrido metálico en una rueda y, viviendo tan cerca del mar, ya me temía lo peor por el óxido. Lo llevé y era una pieza del freno que estaba corroída por el salitre. Me enseñaron la pieza vieja y la nueva. Rápidos, profesionales y a un precio justo.",
+      "rating": 5
+    },
+    {
+      "name": "Sofía",
+      "neighborhood": "La Salud",
+      "car": "Peugeot 208 2013",
+      "body": "Me echaron para atrás en la ITV por los gases. Estaba agobiada porque necesitaba el coche. Me lo miraron, limpiaron un par de cosas y ajustaron la inyección. Volví a la ITV y la pasé sin problema. Me salvaron de una buena. El trato fue muy bueno, aunque tardaron un poco más de lo que me dijeron al principio.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda el área metropolitana de Santa Cruz de Tenerife. Tanto si vives en el centro, como en barrios como La Salle, Ofra, Somosierra o Añaza, nuestro taller es tu solución de confianza. Además, somos una opción muy cómoda para los conductores que cada día se desplazan a la capital para trabajar desde municipios cercanos. Si vienes de San Cristóbal de La Laguna por la TF-5, o desde Candelaria, Güímar o El Rosario (Radazul, Tabaiba) por la TF-1, estamos en una ubicación accesible para que puedas dejar tu coche por la mañana y recogerlo al volver a casa. Nuestras instalaciones son fáciles de encontrar desde las principales vías de acceso como la TF-2 y la TF-4.",
+  "zoneNeighborhoods": [
+    "Centro-Ifara",
+    "La Salud-La Salle",
+    "Ofra-Costa Sur",
+    "Suroeste (Añaza)",
+    "Anaga",
+    "San Cristóbal de La Laguna",
+    "El Rosario",
+    "Candelaria",
+    "Tegueste",
+    "Somosierra"
+  ],
+  "zoneAccessRoutes": [
+    "TF-5 (Autopista del Norte)",
+    "TF-1 (Autopista del Sur)",
+    "TF-2 (Autovía de Interconexión)",
+    "TF-4 (Vía de Penetración)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Recomendáis algún tratamiento especial contra el salitre de la costa?",
+      "a": "Sí. Además del lavado frecuente, es muy recomendable una limpieza anual a fondo de los bajos del vehículo. En el taller podemos aplicar ceras protectoras específicas en el chasis y componentes metálicos expuestos para crear una barrera contra la corrosión causada por la brisa marina."
+    },
+    {
+      "q": "Con la calima, ¿cada cuánto debo cambiar el filtro de aire?",
+      "a": "Aunque el fabricante marque un intervalo, en Tenerife aconsejamos revisarlo cada 10.000 km y sustituirlo al menos una vez al año, o incluso antes si ha habido episodios de calima muy intensos. Un filtro limpio es vital para el rendimiento del motor y para mantener el consumo a raya."
+    },
+    {
+      "q": "Mi coche sufre mucho en las cuestas, ¿qué revisión es clave?",
+      "a": "Si usas el coche en las cuestas de Santa Cruz, hay dos sistemas críticos: el de refrigeración y los frenos. Es fundamental revisar el estado del líquido anticongelante, el radiador y los manguitos para evitar sobrecalentamientos. Y, por supuesto, comprobar el grosor de pastillas y discos de freno con más frecuencia."
+    },
+    {
+      "q": "Voy a la ITV de Taco, ¿qué miráis exactamente en la pre-ITV?",
+      "a": "Hacemos la misma inspección que ellos, pero para que apruebes. Revisamos alumbrado, neumáticos, niveles de holgura en la suspensión y dirección, sistema de frenado en el frenómetro y, muy importante en los diésel, la opacidad de los gases de escape (humos). Así vas sobre seguro."
+    },
+    {
+      "q": "Tengo un coche híbrido (Toyota, Hyundai...), ¿lleváis su mantenimiento?",
+      "a": "Sí, estamos preparados para el mantenimiento de la parte mecánica de los vehículos híbridos, que es muy similar a la de un coche de gasolina: aceite, filtros, frenos, suspensión... Para averías específicas del sistema eléctrico de alta tensión o las baterías, te derivaríamos al servicio oficial."
+    },
+    {
+      "q": "¿Es normal que los plásticos del interior de mi coche estén pegajosos?",
+      "a": "Desgraciadamente, sí. Es un problema muy común en Canarias por la acción del sol y el calor sobre ciertos polímeros. Degrada la capa superficial del plástico. Podemos realizar una limpieza profunda para intentar eliminar esa capa pegajosa, y si el daño es irreversible, podemos buscar y sustituir las piezas afectadas."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Santa Cruz de Tenerife",
+  "closingCta": "No dejes que una avería te complique la vida. Pide tu presupuesto cerrado para tu coche en Santa Cruz por teléfono, WhatsApp o rellenando el formulario. Te daremos una solución clara y honesta."
+}

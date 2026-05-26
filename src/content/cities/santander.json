@@ -1,0 +1,183 @@
+{
+  "slug": "santander",
+  "name": "Santander",
+  "province": "Cantabria",
+  "ccaa": "Cantabria",
+  "population": 173635,
+  "lat": 43.46589,
+  "lng": -3.80493,
+  "metaTitle": "Taller mecánico en Santander — Multimarca y de confianza",
+  "metaDescription": "Tu taller multimarca en Santander. Presupuesto cerrado para revisiones, averías y neumáticos. Pide cita y evita sorpresas en la factura. ¡Te esperamos!",
+  "heroSubtitle": "Cansado de que la humedad, las cuestas y el tráfico de la S-10 castiguen tu coche? Te damos un presupuesto claro y sin sorpresas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Santander y sus alrededores tiene su propio manual de instrucciones. Lo sabes bien si cada mañana te incorporas a la S-10 desde Astillero o Maliaño para llegar al trabajo, o si atraviesas la ciudad por la S-20 para ir a las playas del Sardinero en verano. El tráfico denso en el centro, las cuestas de General Dávila o Cazoña, y el constante arranca-para no solo ponen a prueba tu paciencia, sino también el embrague, los frenos y el motor de tu coche. En nuestro taller, no solo vemos un vehículo; vemos un coche que sufre el día a día de Santander, y sabemos exactamente qué necesita para seguir funcionando como debe.\n\nEl clima es el otro gran protagonista. La humedad constante del Cantábrico y el salitre que respiramos, sobre todo si aparcas cerca de la Magdalena o el Sardinero, son enemigos silenciosos de tu coche. Aceleran la corrosión en los bajos, el sistema de escape y los componentes metálicos de la suspensión. El famoso 'orbayu' no solo moja, sino que se filtra, pudiendo causar problemas eléctricos o empañar los faros. Por eso, una revisión en Santander va más allá de mirar el aceite; implica inspeccionar puntos críticos que en un clima seco como el de la Meseta ni se mirarían.\n\nEl parque automovilístico de nuestra zona es tan variado como sus paisajes. Vemos a diario los coches de batalla que mueven la ciudad: los SEAT León, Renault Clio y Peugeot 308 que suben y bajan al trabajo, muchos de ellos diésel de entre 5 y 12 años. También conocemos las furgonetas de autónomos y pequeñas empresas que reparten por el centro o se mueven por los polígonos de Peñacastillo y Raos. Para estos vehículos, cada día parados es dinero perdido. Entendemos que necesitas fiabilidad, ya sea para ir a la compra, llevar a los niños al colegio en Monte o para hacer la ruta diaria por la A-67 hacia Torrelavega.\n\nNuestro enfoque es multimarca porque la realidad de Santander lo es. Damos el mismo servicio profesional y riguroso a un Ford Focus que a un Audi A4 o a una Citroën Berlingo. Entendemos los problemas específicos de cada modelo en nuestro entorno: desde la obstrucción del filtro de partículas en los diésel que hacen demasiados trayectos cortos por la ciudad, hasta el desgaste de los neumáticos por las rotondas y el asfalto mojado. No aplicamos soluciones genéricas, aplicamos la experiencia de trabajar con los coches que circulan por nuestras calles, las de verdad.\n\nPor eso, cuando nos dejas tu coche, no solo te ofrecemos una reparación. Te ofrecemos la tranquilidad de saber que está en manos de gente que entiende lo que significa conducir en Cantabria. Te damos un presupuesto cerrado, sin letra pequeña, y no movemos un solo tornillo sin tu aprobación. Queremos ser tu taller de confianza en Santander, el lugar al que vienes sabiendo que te diremos la verdad y haremos solo lo que tu coche necesita para circular seguro por la bahía y más allá.",
+  "servicesIntro": "Desde la revisión para pasar la ITV de Raos sin agobios hasta el cambio de neumáticos para el húmedo asfalto cántabro, cubrimos todas tus necesidades.",
+  "processIntro": "Trabajamos con total transparencia. Por eso, te damos un presupuesto cerrado y detallado, y no hacemos absolutamente nada sin tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le notas al coche y lo conectamos a nuestros equipos de diagnosis. Analizamos el problema basándonos en nuestra experiencia con los vehículos que circulan por Santander para encontrar la causa real."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas, sin sorpresas ni costes ocultos de última hora. Lo que presupuestamos, lo cumplimos a rajatabla."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisa el presupuesto con calma. No pedimos ninguna pieza ni empezamos la reparación hasta que nos des tu confirmación explícita. Tú tienes siempre el control total sobre lo que se le hace a tu coche."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan el trabajo siguiendo las especificaciones del fabricante para asegurar un resultado fiable y duradero. Te mantenemos informado del proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho."
+    }
+  ],
+  "commonIssuesIntro": "La combinación de humedad, salitre, cuestas y tráfico urbano en Santander genera averías muy características que conocemos y solucionamos a diario en nuestro taller. Estas son las más comunes.",
+  "commonIssues": [
+    {
+      "title": "Corrosión en bajos y escape",
+      "body": "El cóctel de lluvia constante y el salitre de la bahía es letal para las partes metálicas inferiores del coche. Vemos muchos silenciadores y tubos de escape picados, así como óxido en trapecios y subchasis. Realizamos inspecciones a fondo y ofrecemos tratamientos preventivos para proteger tu vehículo del duro ambiente cántabro."
+    },
+    {
+      "title": "Desgaste prematuro de frenos",
+      "body": "Santander es una ciudad de cuestas. Subir y bajar constantemente por zonas como General Dávila, Cuesta de la Atalaya o el Alto de Miranda, sumado al tráfico denso, castiga enormemente los discos y pastillas de freno. Revisamos todo el sistema para garantizar tu seguridad en cualquier pendiente y condición."
+    },
+    {
+      "title": "Filtro de partículas (DPF) obstruido",
+      "body": "Muchos diésel en Santander hacen trayectos cortos por la ciudad, sin apenas salir a la S-10 o la A-67. Esto impide que el filtro de partículas se regenere correctamente, provocando averías costosas. Realizamos limpiezas y regeneraciones forzadas para evitar que el problema vaya a más y te quedes tirado."
+    },
+    {
+      "title": "Humedad en faros y fallos eléctricos",
+      "body": "La persistente humedad ambiental de Santander acaba condensándose dentro de los faros, reduciendo la visibilidad y pudiendo dañar la electrónica. También puede causar fallos esporádicos en conectores y sensores. Localizamos el origen de estas 'averías fantasma' y sellamos los componentes para evitar que se repitan."
+    },
+    {
+      "title": "Amortiguadores y silentblocks fatigados",
+      "body": "El asfalto de algunas calles, los badenes y el paso por zonas de obras o polígonos como el de Candina exigen mucho a la suspensión. Unos amortiguadores o silentblocks en mal estado no solo son incómodos, sino peligrosos, sobre todo con el suelo mojado. Revisamos el estado de todo el conjunto para que tu coche pise firme."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos tu entorno",
+      "body": "Sabemos lo que es conducir aquí. Entendemos el desgaste que provoca el tráfico de la S-10, la sal del Sardinero o las cuestas del centro. Nuestro diagnóstico parte de esa realidad local."
+    },
+    {
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio que te damos es el precio final. Sin extras inesperados ni letra pequeña. Nos comprometemos por escrito para que tengas total tranquilidad y control sobre el gasto."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual que conduzcas un SEAT Ibiza, una furgoneta Renault Kangoo o un BMW Serie 3. Tenemos la formación y el equipo para cuidar de tu coche con la misma profesionalidad y garantía."
+    },
+    {
+      "title": "Comunicación clara y directa",
+      "body": "Te explicamos la avería en un lenguaje que entiendes, sin tecnicismos innecesarios. Te mantenemos informado por WhatsApp o teléfono durante todo el proceso. Cero rodeos."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Utilizamos recambios de calidad y confiamos en nuestro trabajo. Por eso, todas nuestras reparaciones y piezas montadas cuentan con garantía, para que conduzcas con total seguridad."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de casos reales de conductores de Santander que ya han confiado en nuestra forma de trabajar, clara y sin sorpresas.",
+  "testimonials": [
+    {
+      "name": "Javier",
+      "neighborhood": "El Sardinero",
+      "car": "VW Golf TDI 2015",
+      "body": "Uso el coche para ir al trabajo en el centro y poco más. Se me encendió el testigo del motor y resultó ser el filtro de partículas. Me explicaron por qué pasaba por los trayectos cortos y me lo solucionaron con una limpieza, sin tener que cambiarlo. Muy honestos, me ahorraron una pasta.",
+      "rating": 5
+    },
+    {
+      "name": "Lucía",
+      "neighborhood": "Maliaño (Camargo)",
+      "car": "Peugeot 2008 2018",
+      "body": "Hago la S-10 todos los días y notaba que los frenos no iban finos. Les pedí presupuesto para la revisión y el cambio de pastillas. Me lo mandaron por WhatsApp, súper claro y detallado. El precio fue el que me dijeron y el coche va perfecto. Muy profesionales y cómodos.",
+      "rating": 5
+    },
+    {
+      "name": "David",
+      "neighborhood": "Peñacastillo",
+      "car": "Citroën Berlingo 2016",
+      "body": "Soy autónomo y la furgoneta es mi herramienta. El embrague empezó a patinar. Necesitaba una solución rápida y fiable. Cumplieron los plazos que me dieron y el presupuesto fue cerrado. Valoro mucho que entiendan que no puedo tener el vehículo parado. Totalmente recomendables.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Santa Cruz de Bezana",
+      "car": "Ford Focus 2017",
+      "body": "Me tocaba la revisión anual y la ITV. Les pedí que me hicieran una pre-ITV completa para ir sobre seguro. Detectaron una bombilla de freno fundida y un silentblock algo tocado. Lo cambiaron y pasé la ITV a la primera. Buen servicio, aunque tardaron un poco más de lo que esperaba.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la bahía de Santander y sus alrededores. Si vives o trabajas en barrios como El Sardinero, Valdenoja, Cazoña, El Alisal, Peñacastillo o el centro, estamos a tu disposición. Nuestra ubicación permite un acceso rápido y cómodo para clientes que vienen de municipios colindantes como Santa Cruz de Bezana, Camargo (Maliaño, Muriedas) o El Astillero, utilizando vías principales como la S-10 o la S-20. También estamos conectados con la A-67, facilitando la llegada a quienes se desplazan desde otras zonas de Cantabria. No importa si tu coche duerme frente a la playa o en un garaje de la periferia, te ofrecemos una solución cercana y profesional.",
+  "zoneNeighborhoods": [
+    "El Sardinero",
+    "Centro-Botín",
+    "Cuatro Caminos",
+    "Cazoña",
+    "El Alisal",
+    "Valdenoja",
+    "Peñacastillo",
+    "Maliaño (Camargo)",
+    "Muriedas (Camargo)",
+    "El Astillero",
+    "Santa Cruz de Bezana"
+  ],
+  "zoneAccessRoutes": [
+    "S-10 (Autovía de la Bahía)",
+    "S-20 (Ronda de la Bahía)",
+    "A-67 (Autovía Cantabria-Meseta)",
+    "N-623 (Carretera Santander-Burgos)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Revisáis la corrosión por el salitre? Vivo cerca de la playa del Sardinero.",
+      "a": "Sí, es uno de los puntos que miramos con más atención en Santander. La combinación de sal y humedad es muy agresiva. En cada revisión, inspeccionamos los bajos, el sistema de escape y los elementos de la suspensión en busca de óxido. Si lo detectamos a tiempo, podemos tratarlo para frenar su avance y evitar reparaciones mucho más caras en el futuro."
+    },
+    {
+      "q": "Mi diésel solo hace trayectos cortos por la ciudad, ¿revisáis el filtro de partículas?",
+      "a": "Por supuesto. Es un problema muy común en los coches diésel que circulan por Santander. Conectamos el coche a la máquina de diagnosis para ver el nivel de saturación del filtro (DPF/FAP) y, si es necesario, forzamos una regeneración en el taller. Es un mantenimiento preventivo clave para evitar la temida luz de avería de motor y una reparación costosa."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Raos, ¿la revisión pre-ITV que hacéis es completa?",
+      "a": "Totalmente. Revisamos punto por punto los mismos elementos que te mirarán en la estación de ITV de Raos: luces, frenos, suspensión, neumáticos, niveles y emisiones de gases. Nuestro objetivo es que vayas con la total tranquilidad de que vas a pasarla a la primera, ahorrándote tiempo y el coste de una segunda inspección."
+    },
+    {
+      "q": "Noto que el coche hace un ruido raro al frenar en las cuestas, ¿qué puede ser?",
+      "a": "El uso intensivo de los frenos en las cuestas de Santander puede cristalizar las pastillas o deformar los discos, causando ruidos y vibraciones. Te recomendamos que te pases por el taller para que lo revisemos sin compromiso. La seguridad en la frenada no es algo con lo que se deba jugar, y menos con el asfalto mojado tan frecuente aquí."
+    },
+    {
+      "q": "Con tanta lluvia, ¿es normal que los neumáticos duren menos?",
+      "a": "No necesariamente duran menos, pero su estado es mucho más crítico. Un neumático desgastado o con la presión incorrecta sobre el asfalto mojado de Cantabria aumenta drásticamente el riesgo de aquaplaning. En cada visita revisamos el desgaste y la presión para asegurarnos de que tu coche se agarra a la carretera como debe."
+    },
+    {
+      "q": "Si dejo el coche, ¿tenéis cómo moverme? Trabajo en el PCTCAN.",
+      "a": "Entendemos perfectamente que no puedes quedarte parado. Disponemos de coche de cortesía (sujeto a disponibilidad, consúltanos al pedir cita) para que puedas seguir con tu rutina y desplazarte al Parque Científico y Tecnológico de Cantabria o donde necesites mientras nosotros nos encargamos de tu vehículo."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Santander",
+  "closingCta": "No dejes que una avería te complique el día. Pide tu presupuesto cerrado y sin compromiso para tu coche en Santander. Llámanos, escríbenos un WhatsApp o contacta online y vuelve a conducir con total tranquilidad."
+}

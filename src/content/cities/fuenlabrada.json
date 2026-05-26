@@ -1,0 +1,191 @@
+{
+  "slug": "fuenlabrada",
+  "name": "Fuenlabrada",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 190496,
+  "lat": 40.28419,
+  "lng": -3.79415,
+  "metaTitle": "Taller mecánico en Fuenlabrada — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Fuenlabrada para revisiones, averías y neumáticos. Presupuesto cerrado sin sorpresas. Pide tu cita y conduce tranquilo.",
+  "heroSubtitle": "Cansado de los atascos en la M-50 y la A-42 con un coche que no responde como debería? Te lo ponemos a punto para que solo te preocupes de conducir.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives en Fuenlabrada, sabes que el coche no es un lujo, es una necesidad. Lo usas cada día para ir a trabajar a Getafe, Leganés o Madrid, peleándote con el tráfico de la A-42 o la M-506. Sabes lo que es el 'arranca y para' constante, el embrague que sufre en cada rotonda y los frenos que se calientan bajando hacia el polígono Cobo Calleja. En nuestro taller entendemos perfectamente esta realidad, porque la vivimos contigo. No tratamos tu coche como una pieza de museo, sino como la herramienta que te permite moverte y ganarte la vida en la zona sur de Madrid.\n\nEl clima de la meseta tampoco ayuda. Pasamos de un calor asfixiante en julio, que pone a prueba el sistema de refrigeración y el aire acondicionado, a un frío que pela en enero y que se come las baterías. ¿Cuántas veces has cruzado los dedos para que el coche arranque a primera hora en una mañana helada en Loranca? Este contraste térmico castiga los manguitos, las juntas y los fluidos del motor. Por eso, un mantenimiento preventivo adaptado al clima continental de Madrid no es un gasto, es una inversión en tranquilidad para ti y tu familia.\n\nEl parque móvil de Fuenlabrada es un reflejo de su gente: trabajador y práctico. Por nuestras calles vemos sobre todo SEAT León, Renault Mégane, Ford Focus, Peugeot 308 y muchos diésel de hace unos años que ahora empiezan a dar problemas con los filtros de partículas por el uso urbano. Somos especialistas en estos coches, los conocemos al dedillo. Sabemos dónde suelen fallar y cómo repararlos de forma eficiente y económica, sin que tengas que pagar la 'pasta' de un concesionario oficial. Entendemos que tu coche, con sus 8 o 12 años, necesita un cuidado experto pero a un precio razonable.\n\nPor todo esto, nuestro enfoque es directo y honesto. Cuando traes tu coche, no solo vemos una matrícula, vemos a un vecino de El Naranjo, del Parque de los Estados o de El Arroyo que depende de su vehículo. Te explicamos la avería en un lenguaje que entiendes, te damos un presupuesto cerrado para que no haya sustos y no tocamos un solo tornillo sin tu autorización. Nuestra misión es sencilla: que tu coche siga siendo fiable para el día a día en Fuenlabrada, sin que la visita al taller se convierta en un problema.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV sin problemas hasta la reparación de ese ruido raro que oyes en la M-506, cubrimos toda la mecánica de tu coche.",
+  "processIntro": "La confianza es clave. Por eso te damos un presupuesto cerrado y no tocamos un tornillo sin tu visto bueno. Así de simple.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Tu coche entra en el taller y lo primero es escuchar qué le pasa. Conectamos nuestros equipos de diagnosis y realizamos una inspección visual completa para entender el origen del problema, sin especulaciones. Te escuchamos a ti y a tu coche."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin sorpresas. Te lo enviamos por WhatsApp o email, explicando qué piezas y mano de obra incluye. El precio que ves es el que pagas, ni un céntimo más."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Revisa el presupuesto con calma. Si tienes dudas, llámanos. El coche no se toca hasta que nos des tu 'vale, adelante'. Tú tienes el control total sobre la reparación y el gasto en todo momento. Sin presiones ni letra pequeña."
+    },
+    {
+      "title": "Reparación",
+      "body": "Una vez aprobado, nuestros mecánicos se ponen manos a la obra. Usamos recambios de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado si surge cualquier imprevisto, aunque no es lo habitual."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche esté listo. Al recogerlo, te explicamos la reparación realizada. Guardamos tu historial para futuras revisiones y nos aseguramos de que todo funcione perfectamente. Tu satisfacción es nuestra mejor garantía."
+    }
+  ],
+  "commonIssuesIntro": "El calor de julio, los atascos en la A-42 y el 'arranca-para' diario en Fuenlabrada pasan factura. Estos son los problemas que más vemos y solucionamos en los coches de la zona.",
+  "commonIssues": [
+    {
+      "title": "Embragues y frenos gastados por el tráfico",
+      "body": "Ir a trabajar a Getafe, Leganés o Madrid centro significa pasar mucho tiempo pisando el embrague y el freno en la M-40 o la A-42. Este uso intensivo acelera el desgaste del disco de embrague y las pastillas de freno. Si notas que el pedal del embrague está duro o el coche tarda en frenar, pásate. Revisamos el sistema y te damos una solución para que conduzcas seguro en los atascos."
+    },
+    {
+      "title": "Problemas con el aire acondicionado",
+      "body": "Llega junio y el coche se convierte en un horno. En Fuenlabrada, con veranos que superan los 35ºC, un aire acondicionado que no enfría es un problema serio. Suele ser por una fuga de gas o un compresor averiado. Hacemos la diagnosis completa del circuito, localizamos fugas, recargamos el gas y reparamos el compresor para que los viajes por la M-50 en agosto sean soportables."
+    },
+    {
+      "title": "Filtros de partículas (FAP) obstruidos",
+      "body": "Muchos coches en Fuenlabrada son diésel y se usan para trayectos cortos por la ciudad, como ir al centro comercial Loranca 2 o llevar a los niños al cole. Este uso impide que el filtro de partículas se regenere correctamente y acaba obstruyéndose, provocando pérdida de potencia y averías caras. Realizamos limpiezas y regeneraciones forzadas para evitarte problemas mayores y que pases la ITV."
+    },
+    {
+      "title": "Baterías que mueren con el frío y el calor",
+      "body": "El clima continental de Madrid es extremo. El calor sofocante del verano degrada la batería y el frío intenso del invierno en la meseta le da la puntilla. Si notas que a tu coche le cuesta arrancar por la mañana en el barrio de El Naranjo, es probable que la batería esté en las últimas. La comprobamos gratis y, si hace falta, te instalamos una nueva de calidad para que no te deje tirado."
+    },
+    {
+      "title": "Suspensión y neumáticos castigados",
+      "body": "Los badenes y rotondas de las avenidas de Fuenlabrada, sumados a los kilómetros por carreteras como la M-506, castigan la suspensión. Amortiguadores gastados aumentan la distancia de frenado y desgastan mal los neumáticos. Revisamos amortiguadores, silentblocks y rótulas para garantizar tu seguridad y confort, y te asesoramos sobre los neumáticos más adecuados para nuestro asfalto."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Mecánicos, no comerciales",
+      "body": "Hablamos tu idioma: el de las averías y las soluciones. No intentaremos venderte nada que tu coche no necesite. Nuestra prioridad es que salgas de aquí con el problema resuelto y la confianza de haber pagado un precio justo por un buen trabajo."
+    },
+    {
+      "title": "Para el coche de cada día",
+      "body": "Conocemos perfectamente los Renault, SEAT, Peugeot o Ford que llenan las calles de Fuenlabrada. Sabemos sus puntos débiles y cómo repararlos de forma eficiente, porque son los coches que vemos a diario. Somos especialistas en el parque automovilístico real de la zona sur de Madrid."
+    },
+    {
+      "title": "Presupuesto claro y sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Desglosamos cada concepto para que sepas exactamente a dónde va tu dinero. Si durante la reparación vemos algo más, te llamamos, te lo explicamos y tú decides. Sin tu aprobación, no se hace nada extra."
+    },
+    {
+      "title": "Pasamos la ITV por ti",
+      "body": "La ITV es un trámite que a nadie le gusta. Hacemos una revisión Pre-ITV completa, detectamos posibles fallos leves (luces, neumáticos, humos) y si quieres, llevamos nosotros mismos tu coche a la estación de ITV. Te ahorramos tiempo y quebraderos de cabeza."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Trabajamos con recambios de primeras marcas y estamos seguros de lo que hacemos. Por eso, todas nuestras reparaciones y piezas instaladas cuentan con garantía por ley. Conduce tranquilo sabiendo que respondemos por nuestro trabajo."
+    }
+  ],
+  "testimonialsIntro": "Estos son ejemplos de situaciones reales que solucionamos cada día. Conductores de Fuenlabrada como tú nos cuentan su experiencia.",
+  "testimonials": [
+    {
+      "name": "Carlos",
+      "neighborhood": "Loranca",
+      "car": "SEAT León 1.6 TDI 2015",
+      "body": "Uso el coche todos los días para ir a trabajar a Getafe y el embrague ya iba durísimo. En otros sitios me daban largas o presupuestos por las nubes. Aquí me lo explicaron todo claro, me dieron un precio cerrado y lo cumplieron. Ahora el coche va suave como la seda. Muy profesionales y honestos, que es lo que se busca.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "El Naranjo",
+      "car": "Renault Clio 1.2 2012",
+      "body": "Se me encendió el testigo de avería de motor y el coche daba tirones. Estaba preocupada por si era algo grave. Lo llevé, me hicieron un diagnóstico rápido y resultó ser una bobina de encendido. Me llamaron, me dieron el precio y por la tarde ya lo tenía listo. Rápido y sin intentar colarme nada más. Lo recomiendo.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Fuenlabrada Central",
+      "car": "Ford Focus 2.0 2010",
+      "body": "Tenía que pasar la ITV y sabía que los neumáticos traseros estaban para cambiar. Además, una luz de freno no iba. Me lo revisaron todo, me aconsejaron unos neumáticos con buena relación calidad-precio y me cambiaron la bombilla. Pasé la ITV a la primera sin problemas. Un servicio muy completo.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Parque de los Estados",
+      "car": "Peugeot 308 HDI 2016",
+      "body": "El coche empezó a echar mucho humo negro y perdió fuerza. Me dijeron que era el filtro de partículas por hacer mucha ciudad. Me explicaron las opciones y opté por una limpieza. El coche ha vuelto a la normalidad. El trato fue bueno, aunque tardaron un día más de lo previsto, pero me mantuvieron informada.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Fuenlabrada da servicio a toda la ciudad y a los municipios de alrededor. Si vives o trabajas en barrios como Loranca, El Naranjo, La Avanzada, El Arroyo o Fuenlabrada Central, estamos a un paso. También somos el taller de confianza para muchos conductores de Leganés, Getafe, Móstoles, Humanes de Madrid y Moraleja de Enmedio que buscan un servicio profesional. Llegar es fácil, ya que estamos bien comunicados con las principales vías que vertebran la zona sur de Madrid, como la M-506, que conecta Fuenlabrada con Móstoles y Pinto, la autovía A-42 (Madrid-Toledo) y la M-50. Olvídate de buscar mecánicos lejos de casa; te ofrecemos una solución cercana y fiable para el mantenimiento de tu vehículo.",
+  "zoneNeighborhoods": [
+    "Loranca",
+    "El Naranjo",
+    "La Avanzada-La Cueva",
+    "El Arroyo",
+    "Fuenlabrada Central",
+    "Parque de los Estados",
+    "Leganés",
+    "Getafe",
+    "Móstoles",
+    "Humanes de Madrid"
+  ],
+  "zoneAccessRoutes": [
+    "M-506",
+    "A-42",
+    "M-50",
+    "R-5"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hacéis la pre-ITV? La paso en la estación de Móstoles o Getafe.",
+      "a": "Sí, por supuesto. Conocemos perfectamente los puntos que miran con lupa en las estaciones de ITV de Móstoles y Getafe, que son a las que vamos todos los de la zona. Hacemos una revisión exhaustiva de frenos, luces, neumáticos, humos y holguras. Si detectamos algo, te damos presupuesto para solucionarlo y que vayas sobre seguro. Si prefieres, también podemos llevar nosotros el coche a pasar la inspección por ti para que no pierdas tiempo."
+    },
+    {
+      "q": "Mi coche es diésel y hago muchos trayectos cortos por Fuenlabrada, ¿necesita algún cuidado especial?",
+      "a": "Totalmente. El uso urbano en Fuenlabrada, con mucho 'arranca y para', es lo peor para los diésel modernos. El filtro de partículas (FAP) y la válvula EGR sufren mucho al no alcanzar la temperatura óptima para autolimpiarse. Te recomendamos salir a carretera, por ejemplo por la M-50, al menos una vez al mes y conducir unos 20 minutos a revoluciones altas para forzar la regeneración. En el taller podemos hacer limpiezas preventivas para evitar averías más costosas."
+    },
+    {
+      "q": "Tengo que cambiar los neumáticos. ¿Cuáles me recomendáis para el clima de Madrid?",
+      "a": "Para el clima de Fuenlabrada, con veranos muy calurosos y secos e inviernos fríos pero sin nieve habitualmente, unos neumáticos 'all-season' (todo tiempo) de buena calidad son una opción excelente y muy versátil. Ofrecen buen agarre en seco y mojado, y se defienden bien con el frío. Si no quieres esa opción, unos buenos neumáticos de verano son suficientes para la mayor parte del año. Te asesoramos según tu presupuesto y el uso que le des al coche."
+    },
+    {
+      "q": "Voy a Madrid todos los días por la A-42. ¿Qué revisión me aconsejáis para no quedarme tirado?",
+      "a": "El trayecto diario por la A-42 es exigente. Te recomendamos prestar especial atención a los frenos y al embrague por los atascos. Además, es crucial tener los niveles de aceite y refrigerante siempre correctos, y los neumáticos con la presión adecuada para la velocidad de autovía. Una revisión anual completa, comprobando estos puntos junto con la batería y el sistema de climatización, te dará la tranquilidad que necesitas para ese trayecto."
+    },
+    {
+      "q": "¿Tenéis coche de sustitución? Lo necesito para seguir trabajando por la zona.",
+      "a": "Sí, disponemos de un servicio de coche de cortesía para que no te quedes parado. Entendemos que en Fuenlabrada el coche es una herramienta de trabajo o indispensable para la familia. Este servicio está sujeto a disponibilidad y puede tener un coste mínimo de gestión, consúltanos al pedir tu cita para que podamos reservarte uno y explicarte las condiciones. Nuestro objetivo es que la reparación de tu coche te afecte lo menos posible."
+    },
+    {
+      "q": "Mi coche tiene ya más de 10 años, ¿merece la pena seguir manteniéndolo con vosotros?",
+      "a": "Claro que sí. De hecho, somos especialistas en coches de esa edad, que forman la mayor parte del parque móvil de Fuenlabrada. Un vehículo bien mantenido puede durar muchos años más. Nos centramos en reparaciones lógicas y rentables, usando recambios de calidad pero a un precio ajustado. No te propondremos una reparación que cueste más que el coche. Nuestra meta es alargar su vida útil de forma segura y económica."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Fuenlabrada",
+  "closingCta": "No dejes que una avería te complique el día a día. Pídenos presupuesto sin compromiso por teléfono o WhatsApp y vuelve a conducir con total tranquilidad por Fuenlabrada. Estamos aquí para ayudarte.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Fuenlabrada",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@taller-madrid.es",
+    "addressStreet": ""
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "slug": "san-agustin-del-guadalix",
+  "name": "San Agustín del Guadalix",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 13273,
+  "lat": 40.67882,
+  "lng": -3.61639,
+  "metaTitle": "Taller para híbridos y eléctricos en San Agustín del Guadalix",
+  "metaDescription": "Mantenimiento y reparación de coches híbridos, eléctricos y de combustión en San Agustín del Guadalix. Presupuesto cerrado para tu día a día en la A-1. Pide cita.",
+  "heroSubtitle": "Sabemos que tu coche es la herramienta que te lleva cada día por la A-1 a Madrid. Lo cuidamos para que nunca te falle, sea híbrido, eléctrico o diésel.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Vivir en San Agustín del Guadalix es sinónimo de calidad de vida. Pero también significa que tu coche no es un lujo, sino tu herramienta de trabajo, tu conexión diaria con Madrid, Alcobendas o San Sebastián de los Reyes. Cada mañana, te incorporas a la A-1 sabiendo que te esperan kilómetros, posibles atascos y una rutina que pone a prueba la mecánica. Y si conduces un híbrido o un eléctrico, a las preocupaciones de siempre se suman otras nuevas: la salud de la batería, la eficiencia de la frenada regenerativa, la autonomía real cuando el termómetro cae en picado en invierno. No todos los talleres están preparados para entender esta nueva realidad. No se trata solo de cambiar aceite y filtros; se trata de comprender cómo el trayecto diario desde la sierra norte hasta los polígonos del norte de Madrid afecta a una tecnología más compleja y sensible.\n\nSi tienes un híbrido, conoces bien esa sensación de silencio al moverte por el centro del pueblo o la urbanización. Pero en cuanto enfilas la vía de servicio de la A-1, el motor de combustión entra en juego. Ese ciclo constante de encendido y apagado, el trabajo conjunto de dos sistemas, es una maravilla de la ingeniería, pero también un punto de estrés para el vehículo. ¿Está el sistema gestionando la carga de la batería de forma óptima en el atasco de las mañanas? ¿Los frenos regenerativos están capturando toda la energía que deberían al reducir antes del desvío hacia la M-104? Son detalles que un diagnóstico genérico no detecta, pero que marcan la diferencia en el consumo y en la vida útil de componentes que no son precisamente baratos. Necesitas un taller que sepa 'escuchar' a tu híbrido y anticipar los problemas que va a dar este tipo de uso intensivo.\n\nPara el conductor de un vehículo 100% eléctrico, la A-1 es un examen diario de autonomía. La pregunta no es si llegas, sino cómo llegas. Un día de julio, con 38 grados, el climatizador funcionando a tope en un atasco a la altura del Jarama puede reducir tu autonomía de forma drástica. Y al revés: una mañana helada de enero, con la carretera mojada y la calefacción encendida, la batería rinde menos. Es la física. Por eso, conocer el estado de salud de tu batería (el famoso SOH, o 'State of Health') es fundamental. No es lo mismo una batería al 98% de su capacidad original que una al 85%. Esa diferencia puede ser la que te permita hacer un recado extra en S.S. de los Reyes sin tener que buscar un cargador. Nosotros nos tomamos muy en serio el diagnóstico de baterías; es la pieza clave de tu tranquilidad y del valor de tu coche.\n\nPor supuesto, no nos olvidamos del parque móvil que sigue siendo mayoritario en San Agustín y alrededores como El Molar o Pedrezuela. Los coches diésel y gasolina siguen siendo los reyes de la autovía por su fiabilidad y consumo. Pero también sufren. Un embrague en el tráfico intermitente, un filtro de partículas que no regenera bien en trayectos que mezclan velocidad constante con paradas bruscas, o una distribución que acumula kilómetros a un ritmo vertiginoso. Son los problemas de siempre, pero agudizados por la dependencia que tenemos del coche en esta zona. Por eso, una revisión pre-ITV a fondo no es un trámite, es una necesidad para evitar sorpresas en la estación de San Sebastián de los Reyes y, sobre todo, para garantizar que el coche que usas a diario es seguro para ti y para los tuyos.\n\nEn definitiva, entendemos la vida del conductor de San Agustín del Guadalix porque la vivimos. Sabemos lo que es mirar el tráfico en el móvil antes de salir de casa y sabemos que una avería no es solo una factura: es un día de trabajo perdido, es no llegar a recoger a los niños, es un verdadero trastorno. Por eso nuestro enfoque es directo y honesto. Hacemos un diagnóstico completo, te damos un presupuesto cerrado y no tocamos un solo tornillo sin tu permiso. Tanto si tu coche tiene una batería de litio como si lleva un motor TDI que ha visto mundo, aquí lo vamos a tratar con el rigor que exige ser la herramienta más importante de tu día a día.",
+  "servicesIntro": "Ofrecemos un servicio completo para tu coche, con especial atención a los nuevos retos de los híbridos y eléctricos que circulan cada día por la A-1.",
+  "processIntro": "Trabajamos con total transparencia para que siempre sepas qué le pasa a tu coche y cuánto te va a costar, sin sorpresas ni letra pequeña.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando tu coche llega, lo primero es conectar nuestros equipos de diagnóstico avanzado. Leemos los códigos de error de todos los sistemas, desde el motor de combustión hasta la gestión de la batería en híbridos y eléctricos, para entender qué ocurre exactamente."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en la mano, te preparamos un presupuesto detallado y cerrado. Te explicamos cada punto, qué piezas se necesitan y la mano de obra. El precio que ves es el que pagas, sin sorpresas de última hora. Te lo enviamos por WhatsApp o email."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No empezamos ninguna reparación hasta que nos das tu visto bueno explícito. Revisas el presupuesto con calma y, si tienes cualquier duda, nos llamas y te la aclaramos. El control siempre lo tienes tú, no movemos ni un dedo sin tu OK."
+    },
+    {
+      "title": "Reparación",
+      "body": "Una vez aprobado, nuestros técnicos se ponen manos a la obra. Usamos piezas de primeras marcas, con garantía, para asegurar una reparación duradera y fiable. Te mantenemos informado si surgiera cualquier imprevisto, aunque no es lo habitual."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando el coche está listo, te avisamos. Al recogerlo, te explicamos el trabajo realizado y te enseñamos las piezas sustituidas si quieres. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho."
+    }
+  ],
+  "commonIssuesIntro": "El uso intensivo en la A-1 y el clima continental de Madrid provocan averías recurrentes que conocemos bien, tanto en coches modernos como en los de toda la vida.",
+  "commonIssues": [
+    {
+      "title": "Degradación de baterías en híbridos y eléctricos",
+      "body": "El calor extremo del verano madrileño y las heladas de invierno en la sierra afectan directamente a la química de las baterías, acelerando su degradación. El ciclo constante de carga y descarga en los atascos de la A-1 también suma estrés. Realizamos un diagnóstico del SOH (Estado de Salud) para que sepas la capacidad real que le queda y cómo alargar su vida útil."
+    },
+    {
+      "title": "Averías en el sistema de climatización (A/C)",
+      "body": "En julio, atrapado en la A-1, el aire acondicionado no es un lujo, es una necesidad. Este sistema trabaja a pleno rendimiento durante meses, y en los eléctricos, su uso intensivo impacta directamente en la autonomía. Diagnosticamos fugas, cargamos el gas y revisamos el compresor para que no te quedes sudando en el peor momento."
+    },
+    {
+      "title": "Desgaste prematuro de neumáticos y suspensión",
+      "body": "Los coches híbridos y eléctricos son más pesados por las baterías. Ese peso extra, combinado con miles de kilómetros anuales por la A-1 y las rotondas de las urbanizaciones de San Agustín, castiga neumáticos y amortiguadores. Revisamos presiones, alineación y estado de la suspensión para garantizar tu seguridad y evitar un desgaste irregular."
+    },
+    {
+      "title": "Filtros de partículas (FAP/DPF) diésel atascados",
+      "body": "Aunque la A-1 permite mantener velocidad de crucero, los tramos de tráfico lento o paradas bruscas impiden que el ciclo de regeneración del filtro de partículas se complete correctamente. Esto provoca una acumulación de carbonilla que puede llevar a averías costosas. Realizamos limpiezas forzadas y diagnosticamos el sistema para que tu diésel respire bien."
+    },
+    {
+      "title": "Fallos en la frenada regenerativa",
+      "body": "Este sistema es clave en un híbrido o eléctrico para recuperar energía. El tráfico intermitente de acceso a Madrid lo pone a prueba constantemente. Si notas que el coche no retiene como antes o el consumo ha subido, puede que el sistema no esté funcionando bien. Lo calibramos y diagnosticamos para optimizar tu eficiencia."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos tu rutina",
+      "body": "Sabemos que tu coche es tu herramienta para el día a día en la A-1. Nuestras revisiones y reparaciones están pensadas para la máxima fiabilidad en ese entorno tan exigente."
+    },
+    {
+      "title": "Diagnóstico para hoy y mañana",
+      "body": "Contamos con la tecnología para diagnosticar a fondo tanto un motor diésel con 200.000 km como el sistema de baterías de un híbrido de última generación."
+    },
+    {
+      "title": "Presupuestos honestos",
+      "body": "Te damos un precio cerrado y te lo explicamos todo con claridad. La confianza es la base de nuestro trabajo, no hay sorpresas ni letra pequeña."
+    },
+    {
+      "title": "Estamos aquí, en San Agustín",
+      "body": "No tienes que desplazarte a Madrid o Alcobendas para un servicio de calidad. Estamos en tu pueblo, accesibles y cercanos para lo que necesites."
+    },
+    {
+      "title": "Nos adaptamos a ti",
+      "body": "Sabemos que tu tiempo es oro. Intentamos ser ágiles con los plazos y te ofrecemos soluciones como el coche de cortesía para que tu ritmo no pare."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes famosos, pero sí vecinos como tú. Estos son algunos ejemplos de situaciones reales que resolvemos cada día en nuestro taller.",
+  "testimonials": [
+    {
+      "name": "Javier",
+      "neighborhood": "Urbanización Valdelagua",
+      "car": "Tesla Model 3 2021",
+      "body": "Estaba preocupado por la bajada de autonomía de mi coche en invierno, sobre todo los días de mucho frío para ir a la oficina en Plaza de Castilla. Me hicieron un diagnóstico completo de la batería, me explicaron el porqué y me dieron consejos para optimizarla. Se nota que controlan de coches eléctricos, no es el típico taller que solo sabe de aceite y filtros. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Lucía",
+      "neighborhood": "Centro de San Agustín",
+      "car": "Toyota C-HR 2019",
+      "body": "Mi híbrido empezó a hacer un ruido raro al frenar en los atascos de la A-1. Pensaba que sería una pasta. Lo llevé, lo miraron y me llamaron enseguida: era un tema del sistema de frenada regenerativa que se solucionaba con una calibración. Presupuesto claro y mucho más bajo de lo que esperaba. Me dieron mucha confianza.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "El Molar",
+      "car": "Peugeot 3008 BlueHDi 2018",
+      "body": "El coche me dio el aviso de 'Riesgo de obstrucción del filtro de partículas'. Hago muchos kilómetros por la autovía pero también mucho pueblo. Me hicieron una limpieza y me explicaron cómo conducir para evitar que volviera a pasar. Un servicio rápido y muy didáctico. Me ahorraron una avería gorda.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Polígono Industrial Sur",
+      "car": "VW Passat TDI 2015",
+      "body": "Uso el coche para trabajar y no puede fallar. Les pedí una revisión completa antes de un viaje largo y para la ITV. Le echaron un ojo a todo, me cambiaron un par de cosas que estaban a punto de dar guerra y pasó la ITV sin un solo fallo. El precio, el que me dijeron desde el principio. Son gente seria.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio principalmente en San Agustín del Guadalix, cubriendo tanto el casco urbano como las urbanizaciones de los alrededores, como Valdelagua o Cotos de Monterrey, y el Polígono Industrial Sur. Nuestra ubicación, con acceso directo desde la A-1, nos convierte en el taller de confianza para muchos conductores de municipios cercanos como El Molar, Pedrezuela y El Vellón, que valoran un servicio profesional sin tener que entrar en el caos de Alcobendas o San Sebastián de los Reyes. Si vives o trabajas en la zona norte de Madrid y usas la A-1 o la M-104 a diario, estamos en tu camino.",
+  "zoneNeighborhoods": [
+    "San Agustín del Guadalix",
+    "El Molar",
+    "Pedrezuela",
+    "Urbanización Valdelagua",
+    "Urbanización Cotos de Monterrey",
+    "Polígono Industrial Sur",
+    "El Vellón",
+    "Venturada"
+  ],
+  "zoneAccessRoutes": [
+    "A-1 (Autovía del Norte)",
+    "M-104",
+    "N-320 (Guadalajara-Venturada)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Revisáis la salud de la batería (SOH) de mi coche eléctrico o híbrido?",
+      "a": "Sí, es uno de nuestros servicios especializados. Conectamos un equipo de diagnóstico específico que analiza el estado de salud de la batería (SOH) y te damos un informe detallado sobre su capacidad real. Esto es crucial para saber la autonomía que puedes esperar, especialmente con el clima extremo de Madrid, y para conocer el valor real de tu coche."
+    },
+    {
+      "q": "Vivo en El Molar, ¿me pilla muy lejos vuestro taller?",
+      "a": "Para nada, estamos muy cerca. Tardas menos de 10 minutos en coche por la A-1. Muchos de nuestros clientes son de El Molar, Pedrezuela o Venturada porque prefieren nuestra atención especializada y la comodidad de no tener que meterse en los polígonos de Alcobendas para encontrar un taller de confianza. Es una parada rápida y fácil de camino a Madrid o de vuelta a casa."
+    },
+    {
+      "q": "Mi coche diésel hace muchos kilómetros por la A-1, ¿qué mantenimiento especial necesita?",
+      "a": "El uso intensivo en autovía es bueno para el motor, pero castiga otros elementos. Prestamos especial atención al filtro de partículas (FAP), que puede tener problemas para regenerar con tráfico variable, al estado del turbo y al sistema de inyección. Un buen aceite y cambiar los filtros cuando toca es vital. Te recomendamos una revisión específica para 'grandes ruteros' cada ciertos kilómetros."
+    },
+    {
+      "q": "¿Tenéis experiencia con las averías típicas de los híbridos en el tráfico de Madrid?",
+      "a": "Totalmente. Conocemos los problemas que surgen del ciclo constante de 'arranca-para' y el cambio entre motor eléctrico y de combustión. Desde fallos en el sistema de refrigeración de las baterías, que sufre mucho en verano, hasta desajustes en la frenada regenerativa o problemas en la transmisión. Sabemos dónde mirar para que tu híbrido funcione suave y eficiente."
+    },
+    {
+      "q": "¿Cómo afecta el frío de la sierra en invierno a la autonomía de mi eléctrico?",
+      "a": "El frío es el enemigo de la autonomía. Las baterías de iones de litio son menos eficientes a bajas temperaturas, por lo que el coche consume más para moverse y para la calefacción. Una noche a bajo cero en San Agustín puede reducir tu autonomía disponible entre un 20% y un 30% para el viaje del día siguiente. Te damos consejos prácticos, como pre-aclimatar el coche mientras carga, para mitigar este efecto."
+    },
+    {
+      "q": "Pasar la ITV en la estación de S.S. de los Reyes me da respeto. ¿La pre-ITV que hacéis es completa?",
+      "a": "Sí, nuestra pre-ITV es exhaustiva. Revisamos los mismos puntos que miran en la estación de San Sebastián de los Reyes o en la de la A-1 en Alcobendas: frenos, suspensión, neumáticos, luces, y sobre todo, las emisiones de gases, que es donde más problemas suelen poner. Si detectamos algo, te damos presupuesto para solucionarlo y que vayas a la inspección con total tranquilidad."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto para la A-1",
+  "closingCta": "No dejes una duda o un ruido raro para mañana. Pide tu cita en nuestro taller de San Agustín del Guadalix y conduce con la tranquilidad de saber que tu coche está en buenas manos. Llámanos o envíanos un WhatsApp y te daremos un presupuesto claro."
+}

@@ -1,0 +1,179 @@
+{
+  "slug": "arenys-de-mar",
+  "name": "Arenys de Mar",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 15307,
+  "lat": 41.5819,
+  "lng": 2.54936,
+  "metaTitle": "Taller mecánico en Arenys de Mar — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Arenys de Mar. Presupuestos cerrados para revisión, mecánica y neumáticos. Pide cita y evita sorpresas en tu factura.",
+  "heroSubtitle": "Deja de dar vueltas por el Maresme buscando un taller fiable. En Arenys, reparamos tu coche con un presupuesto claro y sin letra pequeña.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Arenys de Mar y el Maresme tiene sus particularidades. Lo sabes bien si cada día coges la N-II con sus rotondas y su tráfico denso hacia Mataró, o si subes y bajas de Arenys de Munt por la BV-511. Sabes lo que es buscar aparcamiento por el Port o la Riera en verano y el efecto que el salitre tiene en tu coche. No es lo mismo un vehículo que duerme junto al mar que uno del interior, y nosotros lo entendemos porque también vivimos y trabajamos aquí. El ambiente salino es corrosivo, la humedad afecta a la electrónica y el tráfico intermitente castiga embragues, frenos y filtros de partículas, especialmente en los diésel que hacen trayectos cortos para ir a la estación o al supermercado.\n\nEl parque móvil de Arenys es un reflejo de su gente: coches prácticos y fiables para el día a día. Vemos a diario los SEAT León y Ateca, Peugeot 2008, Renault Clio o Volkswagen Golf que usan las familias para ir al trabajo o llevar a los niños al colegio. También conocemos bien las furgonetas tipo Berlingo o Kangoo de los autónomos que trabajan por la zona. Entendemos que tu coche es una herramienta esencial, ya sea para tu trayecto diario por la C-32 hacia Barcelona o para moverte por los pueblos vecinos como Canet de Mar o Caldes d'Estrac. Por eso, nuestro enfoque es práctico: solucionar el problema de forma duradera y con un coste claro desde el principio.\n\nCada estación del año trae sus propios desafíos en la costa del Maresme. En verano, el calor intenso pone a prueba los sistemas de aire acondicionado y refrigeración, sobre todo en los atascos que se forman en la N-II. En otoño e invierno, la humedad constante puede provocar fallos eléctricos inesperados y acelera la oxidación de los componentes metálicos como los discos de freno o el sistema de escape. Un mantenimiento preventivo adaptado a este clima mediterráneo no es un lujo, es la forma más inteligente de evitar averías costosas y de garantizar que tu coche responda cuando más lo necesitas, ya sea en un día de lluvia intensa o en plena ola de calor.\n\nPor todo esto, nuestro taller en Arenys de Mar no es solo un lugar donde se cambian piezas. Es un centro donde diagnosticamos tu coche pensando en cómo y dónde lo usas. Comprendemos la diferencia entre el desgaste de un coche que solo se mueve por el pueblo y el de otro que hace 80 kilómetros diarios por autopista. Esta visión local nos permite ir al grano, identificar la raíz del problema y ofrecerte una solución honesta y un presupuesto cerrado. Queremos ser tu taller de confianza, el sitio al que vienes sabiendo que te hablaremos claro y cuidaremos de tu coche como si fuera nuestro.",
+  "servicesIntro": "Ofrecemos una solución integral para tu coche en Arenys de Mar, desde el mantenimiento programado hasta la reparación de averías electrónicas complejas.",
+  "processIntro": "Trabajamos con total transparencia. Te explicamos qué le pasa a tu coche, te damos un presupuesto cerrado y no hacemos nada sin tu visto bueno.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y realizamos una inspección completa. Usamos equipos de diagnosis modernos para identificar con precisión el origen de la avería, sin especulaciones."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y sin sorpresas. Te lo explicamos punto por punto por teléfono o WhatsApp para que sepas exactamente qué incluye y por qué es necesario."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "El coche no se toca hasta que nos das tu confirmación explícita. Tú tienes el control total. Si durante la reparación surgiera algo imprevisto (algo poco común), te llamaríamos de inmediato para informarte."
+    },
+    {
+      "title": "Reparación",
+      "body": "Nuestros mecánicos se ponen manos a la obra utilizando recambios de primeras marcas y siguiendo las especificaciones del fabricante. Todas nuestras reparaciones y piezas tienen garantía para tu total tranquilidad."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado y te entregamos la factura. Unos días después, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El clima del Maresme, el tráfico de la N-II y los trayectos cortos por el pueblo provocan averías muy concretas. Estas son las que más vemos en los coches de Arenys.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El tráfico de la N-II, con sus constantes paradas y arranques en rotondas entre Arenys, Canet y Caldes, castiga el sistema de embrague y los frenos. Si además subes a menudo a Arenys de Munt, el esfuerzo es mayor. Revisamos y sustituimos estos componentes para devolverte una conducción segura y suave."
+    },
+    {
+      "title": "Problemas con el filtro de partículas (DPF)",
+      "body": "Muchos coches diésel en Arenys se usan para trayectos cortos: ir a la estación, a comprar o al puerto. Esto impide que el filtro de partículas se regenere correctamente, provocando obstrucciones y averías costosas. Realizamos limpiezas y regeneraciones forzadas para evitar la sustitución del filtro."
+    },
+    {
+      "title": "Corrosión por el ambiente salino",
+      "body": "Vivir junto al mar es un lujo, pero el salitre es el enemigo número uno de tu coche. Acelera la oxidación de los discos de freno, el sistema de escape, los bajos y los componentes eléctricos. En nuestras revisiones prestamos especial atención a estos puntos para frenar su deterioro."
+    },
+    {
+      "title": "Fallos en el aire acondicionado",
+      "body": "En los veranos húmedos y calurosos del Maresme, el aire acondicionado no es negociable. El uso intensivo puede provocar fugas de gas, averías en el compresor o malos olores por la acumulación de bacterias. Nos encargamos de su recarga, limpieza y reparación para que no pases calor."
+    },
+    {
+      "title": "Suspensión y neumáticos castigados",
+      "body": "El estado irregular de algunas calles, los badenes en urbanizaciones como Els Canyadells y el paso por la Riera cuando lleva agua, afectan directamente a amortiguadores, silentblocks y neumáticos. Un sistema de suspensión en buen estado es clave para tu seguridad y confort al volante."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de aquí",
+      "body": "Entendemos los problemas específicos de conducir y mantener un coche en el Maresme. No te tratamos como un número, sino como un vecino."
+    },
+    {
+      "title": "Presupuestos sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Si surge cualquier imprevisto, paramos y te consultamos. La honestidad es nuestra principal herramienta."
+    },
+    {
+      "title": "Especialistas en todas las marcas",
+      "body": "Da igual si conduces un SEAT, un Peugeot, un BMW o una furgoneta Ford. Tenemos la experiencia y el equipo para cuidar de tu vehículo."
+    },
+    {
+      "title": "Nos encargamos de la Pre-ITV",
+      "body": "Ahorra tiempo y evita un resultado desfavorable. Revisamos los puntos clave y nos aseguramos de que tu coche esté listo para pasar la ITV a la primera."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Trabajamos con recambios de calidad y confiamos en nuestro trabajo. Por eso, todas nuestras intervenciones están garantizadas por escrito."
+    }
+  ],
+  "testimonialsIntro": "Estas son algunas situaciones reales que nos encontramos cada día. Quizá te sientas identificado con la experiencia de estos conductores de Arenys de Mar.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Centre",
+      "car": "SEAT León TDI 2017",
+      "body": "Me saltó el chivato del filtro de partículas. Uso el coche para ir a la estación y poco más, y me explicaron que por eso se había obstruido. Me hicieron una regeneración y me dieron un par de consejos para que no vuelva a pasar. Muy profesionales y honestos, no intentaron venderme una pieza nueva.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Port",
+      "car": "Renault Clio 2019",
+      "body": "Los frenos hacían un ruido horrible, sobre todo por la mañana con la humedad. Pensé que sería una reparación carísima. Lo revisaron, me dijeron que era por el óxido superficial del salitre y que con una limpieza y un ajuste quedaría bien. Así fue. Se agradece que no te la intenten colar.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Arenys de Munt",
+      "car": "Peugeot 3008 2016",
+      "body": "Bajo cada día a trabajar a Mataró por la Nacional y el embrague empezaba a patinar. Les pedí presupuesto y me lo dieron cerrado el mismo día. Pude dejar el coche por la mañana y recogerlo al día siguiente. Un servicio ágil, que para los que dependemos del coche es fundamental.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Urbanització els Canyadells",
+      "car": "VW Polo 2014",
+      "body": "Llevé el coche para la revisión anual y para que miraran el aire acondicionado, que no enfriaba. Lo solucionaron todo correctamente y el precio fue el que me dijeron. El único pero es que tardaron un poco más de lo estimado en avisarme, pero el trabajo quedó perfecto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio principalmente a conductores de Arenys de Mar, desde el centro y el puerto hasta las urbanizaciones de la periferia. Nuestra ubicación nos convierte en el taller de referencia para muchos vecinos de Arenys de Munt, que bajan por la carretera BV-511 buscando un servicio profesional y de confianza. También atendemos a diario a clientes de los municipios colindantes del Maresme, como Canet de Mar, Caldes d'Estrac (Caldetes) y Sant Vicenç de Montalt, que valoran nuestro trato cercano y la claridad de nuestros presupuestos. El acceso es sencillo tanto si vienes por la carretera N-II, el eje que vertebra la costa, como si utilizas la autopista C-32 y tomas la salida de Arenys.",
+  "zoneNeighborhoods": [
+    "Arenys de Mar Centre",
+    "Port d'Arenys",
+    "Arenys de Munt",
+    "Canet de Mar",
+    "Caldes d'Estrac",
+    "Sant Vicenç de Montalt",
+    "Urbanització els Canyadells",
+    "Barri de l'Escola Pia"
+  ],
+  "zoneAccessRoutes": [
+    "N-II",
+    "C-32",
+    "BV-511"
+  ],
+  "faqLocal": [
+    {
+      "q": "Vivo en Arenys de Munt, ¿me compensa bajar el coche a vuestro taller?",
+      "a": "Totalmente. Muchos de nuestros clientes son de Arenys de Munt. Valoran nuestra especialización en problemas derivados del tipo de conducción de la zona (subidas y bajadas, trayectos cortos) y la transparencia en los precios. El trayecto es corto y la tranquilidad de un trabajo bien hecho y garantizado compensa con creces."
+    },
+    {
+      "q": "El salitre del puerto está oxidando los bajos de mi coche, ¿qué podéis hacer?",
+      "a": "Es un problema muy común aquí. En la revisión, inspeccionamos a fondo los bajos, el sistema de escape y los frenos, que son los más afectados. Podemos aplicar tratamientos protectores específicos para retrasar la corrosión y te aconsejamos sobre cómo un lavado regular de los bajos puede alargar la vida de estos componentes."
+    },
+    {
+      "q": "Uso el coche para ir a la estación de tren cada día. ¿Qué mantenimiento especial necesita?",
+      "a": "Los trayectos cortos son muy exigentes para la mecánica. La batería sufre al no recargarse del todo y, si es diésel, el filtro de partículas no se regenera. Te recomendamos revisiones de batería más frecuentes y, para los diésel, sacarlo a carretera de vez en cuando. En el taller podemos forzar la regeneración si es necesario."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Mataró, ¿hacéis la revisión pre-ITV?",
+      "a": "Sí, es uno de nuestros servicios más demandados. Conocemos los puntos críticos que suelen mirar en la estación de ITV de Mataró. Revisamos a fondo frenos, suspensión, neumáticos, luces y emisiones para que vayas con la total seguridad de que vas a pasarla a la primera, ahorrándote tiempo y un segundo viaje."
+    },
+    {
+      "q": "Mi coche es diésel y hago mucha N-II, ¿en qué me debo fijar?",
+      "a": "El tráfico intermitente de la N-II es duro para la válvula EGR y el embrague. La EGR tiende a acumular carbonilla por no funcionar a un régimen constante, y el embrague sufre un desgaste mayor. En las revisiones, prestamos especial atención a estos elementos para prevenir averías mayores."
+    },
+    {
+      "q": "Tengo una furgoneta de reparto, ¿tenéis experiencia con vehículos comerciales?",
+      "a": "Por supuesto. Sabemos que tu furgoneta es tu herramienta de trabajo y no puede estar parada. Atendemos a muchos autónomos y pequeñas empresas de Arenys y alrededores. Entendemos las necesidades de estos vehículos, que sufren un gran desgaste, y priorizamos su reparación para que puedas volver al trabajo lo antes posible."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Arenys de Mar",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o envíanos un WhatsApp y te daremos cita en nuestro taller de Arenys de Mar para solucionar el problema de tu coche."
+}

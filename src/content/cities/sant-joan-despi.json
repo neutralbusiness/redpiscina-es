@@ -1,0 +1,186 @@
+{
+  "slug": "sant-joan-despi",
+  "name": "Sant Joan Despí",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 32030,
+  "lat": 41.36718,
+  "lng": 2.0574,
+  "metaTitle": "Taller mecánico en Sant Joan Despí — Cuidamos coches con historia",
+  "metaDescription": "Tu coche tiene más de 10 años y te da miedo el taller? En Sant Joan Despí te damos un presupuesto cerrado y sin sorpresas. Pide tu cita y conduce tranquilo.",
+  "heroSubtitle": "Sabemos lo que es cruzar la B-23 cada día con un coche que ya no es nuevo y pensar 'que no se rompa hoy'. Estamos para eso.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "En Sant Joan Despí, un coche con más de diez años no es una reliquia, es una herramienta. Es el SEAT Ibiza que aparcas como puedes en el barrio Centre para ir al mercado, el Renault Scénic que cargas hasta los topes para escapar el fin de semana, o el Volkswagen Golf TDI que te lleva cada mañana al trabajo, enfilando la B-23 con la esperanza de no encontrar el atasco de siempre a la altura de Esplugues. Comprendemos perfectamente esa sensación, ese nudo en el estómago cuando un testigo se enciende en el salpicadero o escuchas un ruido nuevo. No es solo la avería, es el miedo a una factura impredecible, la duda de si merece la pena seguir invirtiendo en un coche que ya tiene sus kilómetros y sus historias. Nuestro trabajo empieza ahí: en entender que tu coche no es solo una máquina, sino una parte fundamental de tu día a día en el Baix Llobregat.\n\nEl parque automovilístico de nuestra zona tiene una personalidad muy marcada. La sombra de la antigua fábrica de la Zona Franca y la actual de Martorell es alargada, y eso se nota en cada calle. Los SEAT León de segunda generación, los Altea XL y los incombustibles Ibiza de principios de los 2000 son mayoría en barrios como Les Planes o Torreblanca. Son coches duros, pero el tiempo no perdona. La humedad constante que sube del Llobregat se ceba con la electrónica y los contactos eléctricos de los modelos más veteranos, mientras que el tráfico denso de la Carretera de Laureà Miró (la N-340 a su paso por la ciudad) castiga sin piedad los embragues y los filtros de partículas de los diésel, obligados a un eterno arranca-para. Ese ruido intermitente que oyes al ralentí, que a veces recuerda al traqueteo del TRAM al cruzar hacia el Pont d'Esplugues, no es algo que debas ignorar. Es tu coche pidiendo una revisión honesta.\n\nPara un vehículo que ya ha soplado más de diez velas, la cita anual con la ITV de la zona (la de Sant Joan Despí-Cornellà) se convierte en una auténtica prueba de fuego. Los gases en los diésel, el estado de los silentblocks después de miles de badenes en zonas residenciales, o la eficacia de una suspensión que ha absorbido cada bache de la A-2 son los puntos críticos que quitan el sueño. Sabemos que la tentación de cruzar los dedos y 'probar suerte' es grande, pero a menudo es la peor decisión. Una pequeña fuga de aceite o un filtro de aire saturado, problemas relativamente sencillos y económicos de solucionar, pueden convertirse en un 'desfavorable' y en la obligación de volver al taller, esta vez con prisas y más gastos. Por eso, nuestro enfoque es preventivo: una inspección pre-ITV rigurosa que te da un diagnóstico claro y un presupuesto cerrado para que vayas a la inspección con la tranquilidad de que todo está en orden.\n\nNo somos un concesionario de coches nuevos. Somos mecánicos. Nuestro taller está pensado para el coche que conduce la gente de Sant Joan Despí, Sant Just o Cornellà. Para el Peugeot 207 que batalla por aparcamiento en el Eixample Residencial o el Ford Focus familiar que ya ha visto varias generaciones de niños en sus asientos traseros. Nuestra propuesta de valor no es venderte un coche nuevo, sino alargar la vida del tuyo de forma segura y asequible. Lo hacemos con total transparencia, explicándote qué le pasa a tu vehículo en un lenguaje que entiendes y dándote un precio final antes de tocar un solo tornillo. Queremos ser ese taller de confianza al que acudes sabiendo que cuidaremos de tu coche como si fuera nuestro, porque entendemos lo que significa para ti.",
+  "servicesIntro": "Desde la revisión anual para tu coche de batalla hasta la diagnosis de esa avería eléctrica que te trae de cabeza en Sant Joan Despí.",
+  "processIntro": "Olvídate de la incertidumbre. Te explicamos cada paso y te damos un presupuesto cerrado para que tengas el control total.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que te preocupa y conectamos tu coche a nuestros equipos de diagnosis. Analizamos el problema a fondo para encontrar la causa real, no solo para tapar el síntoma. No damos palos de ciego."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en la mano, te preparamos un presupuesto detallado por escrito o por WhatsApp. Incluye piezas, mano de obra e IVA. El precio que ves es el precio que pagas, sin sorpresas de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu confirmación explícita. Tienes tiempo para revisarlo todo y preguntarnos lo que necesites. Si decides no reparar, solo se factura el diagnóstico."
+    },
+    {
+      "title": "Reparación",
+      "body": "Trabajamos con recambios de primeras marcas y te informamos del plazo estimado de la reparación. Todas nuestras intervenciones tienen garantía para que conduzcas con total tranquilidad por Sant Joan Despí y alrededores."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos el trabajo realizado y te entregamos la factura detallada. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El clima húmedo del Llobregat, el tráfico de la N-340 y los trayectos cortos por Sant Joan Despí provocan una serie de averías muy características en los coches de la zona.",
+  "commonIssues": [
+    {
+      "title": "Desgaste de embrague por tráfico urbano",
+      "body": "El constante para-arranca en la Carretera de Laureà Miró o buscando aparcamiento en el barrio Centre desgasta prematuramente el embrague. Si notas que el pedal está duro o que el coche patina al acelerar, es hora de revisarlo. Hacemos un diagnóstico preciso y te ofrecemos un presupuesto cerrado para su sustitución."
+    },
+    {
+      "title": "Fallo del aire acondicionado en verano",
+      "body": "El calor húmedo del verano en el Baix Llobregat hace que el aire acondicionado sea imprescindible. La falta de uso en invierno y las pequeñas fugas en el circuito son las causas más comunes de que no enfríe. Revisamos el sistema, detectamos fugas y recargamos el gas para que vuelvas a conducir fresco."
+    },
+    {
+      "title": "Problemas de humos en diésel antes de la ITV",
+      "body": "Los trayectos cortos, como ir del polígono de las Begudes a la estación de Renfe, son fatales para los filtros de partículas (DPF) y las válvulas EGR de los motores diésel. Esto provoca un exceso de humos que garantiza un suspenso en la ITV. Realizamos limpiezas y diagnosis para solucionar el problema de raíz."
+    },
+    {
+      "title": "Ruidos en la suspensión y silentblocks",
+      "body": "Tantos años subiendo y bajando los badenes de zonas residenciales como Les Planes o circulando por calles con asfalto irregular acaban pasando factura a los amortiguadores y silentblocks. Si oyes golpes secos o chirridos en los baches, es una señal de desgaste. Un sistema en buen estado es clave para tu seguridad."
+    },
+    {
+      "title": "Fallos eléctricos por la humedad del Llobregat",
+      "body": "La cercanía al río genera una humedad ambiental que, en coches con más de una década, puede provocar corrosión en conexiones y fallos intermitentes en sensores, elevalunas o el cierre centralizado. Localizar estos 'gremlins' eléctricos es una de nuestras especialidades, ahorrándote tiempo y dinero."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Especialistas en tu coche de siempre",
+      "body": "Entendemos los problemas y achaques de los coches de más de 10 años. Sabemos dónde mirar y cómo reparar de forma eficaz y duradera, sin hacerte gastar de más en un vehículo que ya está amortizado."
+    },
+    {
+      "title": "Presupuesto que no cambia",
+      "body": "La mayor fuente de estrés en un taller es la factura final. Con nosotros, eso no existe. El precio que te damos es el que pagas. Si surge un imprevisto, paramos y te consultamos antes de seguir."
+    },
+    {
+      "title": "Diagnóstico honesto, sin inflar",
+      "body": "Nuestro objetivo es que tu coche siga funcionando, no venderte reparaciones que no necesitas. Te explicamos el porqué de cada intervención y te damos una opinión profesional sobre lo que es urgente y lo que puede esperar."
+    },
+    {
+      "title": "Cerca de ti en el Baix Llobregat",
+      "body": "Estamos ubicados en Sant Joan Despí, un punto estratégico y de fácil acceso para todos los vecinos de la comarca, desde Cornellà hasta Sant Feliu. Ahorra tiempo y trae tu coche a un taller de tu zona."
+    },
+    {
+      "title": "Pasamos la ITV por ti",
+      "body": "Si no tienes tiempo o simplemente quieres quitarte el trámite de encima, nosotros nos encargamos. Hacemos la pre-ITV, gestionamos la cita y llevamos tu coche a la inspección. Un servicio completo para tu comodidad."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Sant Joan Despí que, como tú, llegaron preocupados y se fueron conduciendo tranquilos.",
+  "testimonials": [
+    {
+      "name": "Carles",
+      "neighborhood": "Les Planes",
+      "car": "SEAT León 1.9 TDI 2008",
+      "body": "Llevaba meses con un ruido metálico al girar y con la ITV a la vuelta de la esquina estaba acojonado. Pensé que sería una fortuna. Aquí me explicaron que era una rótula de la suspensión. Me dieron el precio cerrado, lo acepté y en un día estaba listo. Pasé la ITV sin un solo fallo. Muy honestos.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Centre",
+      "car": "Renault Clio 2011",
+      "body": "El aire acondicionado me dejó tirada en plena ola de calor. En otros sitios me daban cita para la semana siguiente. Llamé aquí y me hicieron un hueco para diagnosticarlo. Era una fuga pequeña. Lo repararon rápido y a un precio razonable. Me salvaron el verano, ¡literalmente!",
+      "rating": 5
+    },
+    {
+      "name": "Joan",
+      "neighborhood": "Torreblanca",
+      "car": "Peugeot 308 SW 2012",
+      "body": "Tocaba hacerle la distribución al coche familiar y el presupuesto del servicio oficial era una locura. Pedí presupuesto aquí y fue mucho más ajustado. Me dio confianza que el precio fuera cerrado desde el principio. El coche va perfecto y me ahorré una buena pasta. Totalmente recomendable.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Residencial Sant Joan",
+      "car": "Volkswagen Golf 2010",
+      "body": "Mi Golf no pasó la prueba de gases en la ITV. Estaba desesperada pensando que tendría que cambiar medio motor. Lo traje aquí, hicieron una diagnosis y limpiaron la EGR. El coche ahora va más fino y pasó la ITV sin problemas. Tardaron un día más de lo que me dijeron, pero el resultado fue bueno.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio principalmente a conductores de Sant Joan Despí, cubriendo todos sus barrios, desde el núcleo histórico del Centre y el Eixample Residencial hasta las zonas de Les Planes y Torreblanca. Nuestra ubicación estratégica nos convierte en el taller de referencia para los municipios colindantes. Si vives o trabajas en Cornellà de Llobregat, Sant Just Desvern, Esplugues de Llobregat o Sant Feliu de Llobregat, estamos a pocos minutos. El acceso es muy sencillo a través de la N-340 (Carretera de Laureà Miró), la principal arteria que cruza la comarca. Además, estamos conectados con las grandes vías como la B-23, ideal si vienes de Barcelona o del interior, y con un acceso rápido a la Ronda de Dalt (B-20).",
+  "zoneNeighborhoods": [
+    "Centre",
+    "Les Planes",
+    "Residencial Sant Joan",
+    "Torreblanca",
+    "Cornellà de Llobregat",
+    "Sant Just Desvern",
+    "Esplugues de Llobregat",
+    "Sant Feliu de Llobregat",
+    "Polígon Fontsanta",
+    "Begudes"
+  ],
+  "zoneAccessRoutes": [
+    "B-23",
+    "N-340",
+    "B-20 (Ronda de Dalt)",
+    "A-2"
+  ],
+  "faqLocal": [
+    {
+      "q": "Mi coche es un diésel de 2009, ¿tenéis experiencia con estos motores para pasar la ITV?",
+      "a": "Por supuesto. Es uno de nuestros servicios más demandados en Sant Joan Despí. Conocemos a la perfección los motores TDI, HDi y dCi de esa época y sus problemas habituales de opacidad de humos por culpa de la carbonilla en la EGR o el FAP. Hacemos una diagnosis específica, te proponemos la solución más efectiva (desde una descarbonización hasta una limpieza por ultrasonidos) y te aseguramos que cumplirá la normativa en la inspección."
+    },
+    {
+      "q": "Vivo en el barrio Centre y las calles son muy estrechas, ¿es un problema dejar el coche?",
+      "a": "Para nada. Conocemos bien la zona y entendemos la dificultad de aparcar. Puedes acercarte al taller, dejarnos el coche y las llaves, y nosotros nos encargamos de gestionarlo. Si lo necesitas, podemos incluso coordinar la recogida en un punto cercano que te venga bien, como la Plaça de la Constitució, para facilitarte la logística. La comodidad de nuestros vecinos es una prioridad."
+    },
+    {
+      "q": "Trabajo en TV3, ¿ofrecéis alguna facilidad para dejar y recoger el coche fuera de mi horario?",
+      "a": "Sí, somos conscientes de los horarios particulares de los que trabajáis en el complejo de TV3 o en las oficinas de alrededor. Ofrecemos flexibilidad: puedes dejar el coche a primera hora de la mañana antes de entrar a trabajar y recogerlo al salir. También disponemos de un buzón de seguridad para dejar las llaves fuera de horario, previo acuerdo. Llámanos y buscamos la mejor solución para ti."
+    },
+    {
+      "q": "El coche tiene etiqueta B de la DGT, ¿vale la pena seguir invirtiendo en él para moverme por el Baix Llobregat?",
+      "a": "Es la gran pregunta para muchos conductores de la zona. Nuestra opinión es que, si el coche está bien mantenido y no te da grandes problemas, absolutamente sí. La Zona de Bajas Emisiones afecta principalmente a Barcelona ciudad. Para moverte por Sant Joan Despí, Cornellà o Sant Feliu, un coche con etiqueta B es perfectamente válido. Te ayudamos a mantenerlo en forma con un coste razonable, alargando su vida útil varios años."
+    },
+    {
+      "q": "Hacéis revisiones pre-viaje para ir a la Costa Brava por la AP-7 en verano?",
+      "a": "Claro. Es un clásico de cada verano. Antes de un viaje largo por autopista como ese, es fundamental revisar los puntos clave de seguridad. Comprobamos niveles de líquidos, presión y estado de los neumáticos, frenos y el sistema de climatización. Es una revisión rápida y económica que te da la tranquilidad de que el coche no te dejará tirado camino de las vacaciones."
+    },
+    {
+      "q": "El TRAM pasa cerca de mi casa en Torreblanca, ¿el polvo metálico que suelta afecta al coche?",
+      "a": "Es una observación muy buena. Sí, el ferodo de los frenos del TRAM y el polvo metálico de las vías pueden depositarse sobre la carrocería y, sobre todo, ensuciar mucho los filtros de aire y de habitáculo. Recomendamos cambiar el filtro del habitáculo una vez al año para garantizar que respiras aire limpio dentro del coche, especialmente si aparcas en la calle en esa zona."
+    },
+    {
+      "q": "¿El presupuesto cerrado incluye el IVA y la mano de obra? No quiero ninguna sorpresa.",
+      "a": "Absolutamente todo. Cuando decimos 'presupuesto cerrado' lo cumplimos a rajatabla. La cifra que te damos desglosa el coste de las piezas, las horas de mano de obra y el IVA correspondiente. No hay letra pequeña ni costes ocultos. La única forma de que ese precio cambie es que tú autorices una reparación adicional que haya podido surgir durante la intervención, y siempre te lo consultaremos antes."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Sant Joan Despí",
+  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o envíanos un WhatsApp y te daremos una cita para valorar tu coche. Recupera la confianza al volante aquí, en Sant Joan Despí."
+}

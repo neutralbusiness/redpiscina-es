@@ -1,0 +1,182 @@
+{
+  "slug": "el-prat-de-llobregat",
+  "name": "El Prat de Llobregat",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 63418,
+  "lat": 41.32784,
+  "lng": 2.09472,
+  "metaTitle": "Taller Mecánico en El Prat de Llobregat | Mantenimiento Local",
+  "metaDescription": "Taller multimarca en El Prat de Llobregat. Presupuestos cerrados para revisiones y averías. Cuidamos tu coche del salitre y el uso diario. Pide cita.",
+  "heroSubtitle": "Tu coche lo usa toda la familia para ir al aeropuerto, a Mercabarna o a la playa. ¿Seguro que está preparado para todo y para el salitre del Prat?",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "En El Prat de Llobregat, un coche no es solo un vehículo; es el centro logístico de la familia. Es la herramienta que te permite dejar a un hijo en el colegio antes de coger la C-31 hacia Barcelona, con el sol del Mediterráneo de frente y el rugido de los aviones despegando a tu derecha. Es el que te lleva al polígono Pratenc para una jornada de trabajo y el que, por la tarde, conduce otra persona de la casa para hacer la compra semanal en el Carrefour o acercarse a por productos frescos al Parc Agrari. Este coche familiar, a menudo el único del hogar, soporta un desgaste invisible pero constante, un desafío que va más allá de los kilómetros. Es un vehículo sometido a un estrés dual: los trayectos cortos y urbanos por el centro del Prat, que castigan la batería y el filtro de partículas, y los viajes por autovía hacia Gavà, Viladecans o el centro comercial Splau en Cornellà, que exigen el máximo al motor y a los neumáticos.\n\nEl principal enemigo de tu coche en El Prat no es el tráfico de la Ronda Litoral, sino el aire que respira. La marinada, esa brisa que en verano alivia el calor, es una portadora constante de salitre y humedad desde el mar y el Delta del Llobregat. Este ataque salino es implacable y silencioso. Se adhiere a los bajos del coche, corroyendo el sistema de escape, los conductos de freno y las suspensiones mucho antes de lo que indican los manuales del fabricante. Acelera la oxidación de cualquier pequeño golpe en la chapa, convirtiendo un rasguño insignificante en un problema mayor. En nuestro taller, entendemos esta realidad climática. No vemos un coche, vemos un vehículo que lucha a diario contra la corrosión. Por eso, nuestras revisiones van más allá de un simple cambio de aceite; son un chequeo de la salud estructural de tu coche frente a las condiciones específicas de vivir junto al mar.\n\nEste uso compartido y diverso del coche familiar define nuestras prioridades. Quizás tú conduces de forma suave por la autovía B-22 para ir a trabajar al aeropuerto, pero tu pareja lo utiliza para callejear por Sant Cosme y aparcar en espacios reducidos, forzando más el embrague y la dirección. El fin de semana, el coche se carga hasta los topes para una escapada, poniendo a prueba los amortiguadores en las carreteras secundarias. Cada conductor tiene sus hábitos, y el coche los sufre todos. Esta variedad de usos exige un mantenimiento predictivo, no solo reactivo. Se trata de anticipar que los frenos sufrirán más por la combinación de ciudad y autovía, o que los neumáticos necesitarán una alineación más frecuente debido a los diferentes estilos de conducción y a los badenes de nuestras calles. Nuestro trabajo es unificar el criterio y asegurar que el coche sea seguro y fiable para todos, sin importar quién coja las llaves.\n\nPor todo esto, nuestro enfoque es local y personal. Un coche en El Prat necesita un mantenimiento tan riguroso como el de un avión que despega a nuestro lado. Nosotros somos, por así decirlo, los mecánicos de tierra de tu familia. Comprendemos que necesitas el coche para ir a una visita médica en Bellvitge, para recoger un paquete en el polígono Mas Blau o simplemente para disfrutar de una tarde en la playa del Prat. No te tratamos como un número de matrícula más. Escuchamos cómo usas tu coche, quién lo conduce y qué esperas de él. A partir de ahí, te ofrecemos un diagnóstico honesto y un plan de mantenimiento adaptado no solo al modelo de tu vehículo, sino a la vida que lleva en El Prat de Llobregat. Porque un presupuesto cerrado y un trabajo bien hecho es lo mínimo que se puede pedir; entender de verdad tu necesidad es lo que nos diferencia.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV de Sant Boi sin sustos, hasta cambiar un embrague castigado por el tráfico de acceso a Barcelona, lo cubrimos todo.",
+  "processIntro": "Te damos un diagnóstico claro y un presupuesto que no se mueve. No aflojamos un solo tornillo sin tu visto bueno, así de transparente.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y realizamos una inspección inicial para entender el origen del problema. Conectamos nuestros equipos de diagnosis para tener una visión completa, sin especulaciones."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y por escrito. Especificamos piezas, mano de obra y el IVA. El precio que ves es el que pagas, sin sorpresas de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Te explicamos qué hemos encontrado y las opciones que tienes. No empezamos ninguna reparación hasta que nos das tu confirmación explícita por teléfono o WhatsApp. Tú siempre tienes el control total del proceso."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan el trabajo siguiendo las especificaciones del fabricante para asegurar un resultado fiable y duradero. Te mantenemos informado de los plazos."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado y te entregamos la factura. Unos días después, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El calor húmedo, el salitre del mar y el uso mixto entre el centro del Prat y la C-31 provocan en los coches una serie de averías muy características que conocemos bien.",
+  "commonIssues": [
+    {
+      "title": "Corrosión prematura en bajos y escape",
+      "body": "La brisa marina del Delta del Llobregat es muy agresiva con las partes metálicas inferiores del coche. Detectamos y tratamos la oxidación en líneas de escape, suspensiones y chasis antes de que se convierta en una reparación costosa o un fallo en la ITV. Una revisión a tiempo es la mejor prevención."
+    },
+    {
+      "title": "Fallos y bajo rendimiento del aire acondicionado",
+      "body": "El calor húmedo de los veranos en El Prat obliga al sistema de climatización a trabajar al máximo. Esto, sumado a los atascos en las Rondas, provoca fugas o agotamiento del gas. Realizamos cargas, detectamos fugas y reparamos compresores para que el calor no sea un problema."
+    },
+    {
+      "title": "Desgaste acelerado de embrague y frenos",
+      "body": "El uso combinado del coche —callejear por El Prat o L'Hospitalet y luego coger la C-31 a velocidad de crucero— somete a embragues y frenos a un estrés constante. Diagnosticamos el desgaste real y te asesoramos sobre el mejor momento para sustituirlos, garantizando tu seguridad."
+    },
+    {
+      "title": "Avisos del filtro de partículas (FAP/DPF)",
+      "body": "Muchos diésel se usan para trayectos cortos dentro del Prat, impidiendo que el filtro se regenere. Esto causa averías y pérdida de potencia. Hacemos limpiezas y regeneraciones forzadas para alargar la vida del filtro y evitar una sustitución que puede ser muy cara."
+    },
+    {
+      "title": "Cristalización de pastillas de freno",
+      "body": "La humedad ambiental y el salitre pueden afectar a los componentes del sistema de frenado, causando la cristalización de las pastillas. Esto provoca ruidos agudos al frenar y una pérdida de eficacia. Revisamos y sustituimos los componentes necesarios para asegurar una frenada potente y segura."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Especialistas en el clima del Delta",
+      "body": "Conocemos el efecto del salitre y la humedad en tu coche. No es lo mismo mantener un coche en el interior que aquí, y aplicamos ese conocimiento en cada revisión."
+    },
+    {
+      "title": "Entendemos el uso familiar",
+      "body": "Sabemos que tu coche lo conducen varias personas con distintos hábitos. Adaptamos el mantenimiento a ese uso mixto para garantizar la fiabilidad y seguridad para todos."
+    },
+    {
+      "title": "Presupuestos sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Si durante la reparación surge un imprevisto, paramos y te llamamos. Tú decides siempre."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "Solo reparamos lo que es necesario. Te explicamos claramente cuál es el problema y te damos opciones, sin intentar venderte reparaciones que no necesitas."
+    },
+    {
+      "title": "Cercanía y agilidad",
+      "body": "Estamos en El Prat, cerca de ti. Entendemos que necesitas tu coche y trabajamos de forma ágil para que lo tengas de vuelta lo antes posible."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de conductores que, como tú, usan su coche cada día en El Prat y sus alrededores. Sus historias podrían ser la tuya.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Centre",
+      "car": "SEAT Ateca 1.5 TSI 2019",
+      "body": "Usamos el coche toda la familia y me preocupaba un óxido que vi en el tubo de escape. En el taller me explicaron que es normal por el salitre del Prat y me lo trataron para protegerlo. Se nota que conocen la zona. Muy transparentes con el presupuesto, lo que se agradece.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "Les Palmeres",
+      "car": "Peugeot 308 HDI 2015",
+      "body": "Se me encendió la luz del filtro de partículas. Uso el coche sobre todo para ir a comprar y llevar a los niños al cole, trayectos cortos. Me explicaron por qué pasaba y me hicieron una limpieza del filtro, ahorrándome una pasta. Ahora ya sé que tengo que sacarlo a la autovía de vez en cuando.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Sant Cosme",
+      "car": "Ford Focus 1.6 2012",
+      "body": "Una semana antes de irnos de vacaciones en agosto, el aire acondicionado dejó de enfriar. Un drama. Les llamé, me dieron cita rápido y en un día tenía el gas recargado y el circuito revisado. Nos salvaron el viaje. Muy profesionales y eficientes.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat",
+      "neighborhood": "Viladecans",
+      "car": "Renault Clio 2017",
+      "body": "Aunque soy de Viladecans, me los recomendaron. Llevé el coche para la revisión pre-ITV y me detectaron las pastillas de freno delanteras muy gastadas. Me dieron presupuesto al momento y lo hicieron sobre la marcha. La ITV la pasé sin problemas. El trato fue bueno, aunque tardaron un poco más de lo que me dijeron.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio principalmente en El Prat de Llobregat, cubriendo todos sus barrios, desde el Centre y el Eixample hasta La Ribera, Sagnier o Sant Cosme. Si trabajas en los polígonos industriales como el Pratenc o Mas Blau, somos tu taller de confianza.\n\nNuestra ubicación, con acceso rápido a las principales vías, nos permite atender también a clientes de municipios vecinos. Muchos de nuestros clientes vienen de Sant Boi de Llobregat, Viladecans y Cornellà. También cubrimos la zona sur de L'Hospitalet de Llobregat, especialmente barrios como Bellvitge y Gornal. Si te mueves habitualmente por la C-31, la B-20 (Ronda de Dalt) o la B-22 de acceso al aeropuerto, estamos en tu ruta.",
+  "zoneNeighborhoods": [
+    "El Prat Centre",
+    "Sant Cosme",
+    "La Ribera",
+    "Sagnier",
+    "Les Palmeres",
+    "Viladecans",
+    "Sant Boi de Llobregat",
+    "Cornellà de Llobregat",
+    "L'Hospitalet (Bellvitge)"
+  ],
+  "zoneAccessRoutes": [
+    "C-31 (Autovia de Castelldefels)",
+    "B-22 (Acceso Aeropuerto T1)",
+    "B-20 (Ronda de Dalt)",
+    "B-250 (Carretera de la Marina)",
+    "Ronda Litoral (B-10)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿De verdad el salitre del mar en El Prat daña tanto el coche?",
+      "a": "Sí, y mucho más de lo que la gente piensa. La brisa marina transporta partículas de sal que se depositan en la carrocería y, sobre todo, en los bajos del coche. Acelera la corrosión del escape, suspensiones, conductos de freno y cualquier parte metálica expuesta. Por eso en nuestras revisiones ponemos especial atención a estos puntos, algo que un taller no costero podría pasar por alto."
+    },
+    {
+      "q": "Mi coche es diésel y casi solo lo muevo por el pueblo, ¿qué debo vigilar?",
+      "a": "El principal riesgo es el filtro de partículas (FAP/DPF). Necesita trayectos por carretera (como por la C-31) para calentarse y limpiarse automáticamente. Si solo haces trayectos cortos por El Prat, se obstruye, causando averías caras. Te recomendamos sacarlo a la autovía al menos una vez por semana durante 20 minutos. Si ya tienes avisos, tráelo para una regeneración forzada."
+    },
+    {
+      "q": "En verano, el aire acondicionado no enfría lo suficiente en los atascos para ir a Barcelona, ¿es normal?",
+      "a": "No es normal, pero sí es un síntoma común aquí. Con el calor y la humedad del Prat, el sistema trabaja al límite. En un atasco, al no haber flujo de aire, el rendimiento baja. Puede deberse a falta de gas, un filtro sucio o un problema en el compresor. Te recomendamos una revisión del sistema de climatización antes de que llegue el calor fuerte de julio y agosto."
+    },
+    {
+      "q": "Tengo que pasar la ITV en la estación de Sant Boi, ¿qué miráis en la Pre-ITV para evitar problemas?",
+      "a": "En nuestra Pre-ITV revisamos todos los puntos críticos que miran en la estación de Sant Boi: luces, frenos (eficacia y desequilibrio), holguras en la suspensión y dirección, estado de los neumáticos y, muy importante, las emisiones. Al estar en El Prat, prestamos especial atención a la corrosión en los bajos, un motivo común de rechazo."
+    },
+    {
+      "q": "Vivo en Viladecans, ¿me compensa traer el coche a vuestro taller en El Prat?",
+      "a": "Muchos clientes de Viladecans y Gavà nos eligen porque compartimos los mismos problemas climáticos. Entendemos perfectamente cómo el ambiente salino afecta a los coches de toda la zona del Delta. La cercanía por la C-31 hace que estemos a pocos minutos, y te aseguras de que tu coche lo revisa alguien que conoce los desafíos específicos de esta área."
+    },
+    {
+      "q": "El coche lo usamos mi pareja y yo, con estilos de conducción muy diferentes. ¿Afecta esto al mantenimiento?",
+      "a": "Totalmente. Un conductor más agresivo desgastará más rápido frenos y neumáticos, mientras que uno que hace muchos trayectos cortos forzará más la batería y el embrague. Al saber que el coche tiene un uso compartido, ajustamos nuestras revisiones para buscar un equilibrio y vigilar los componentes que sufren el doble castigo, asegurando que el coche sea fiable para ambos."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto para El Prat",
+  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Llámanos o envíanos un WhatsApp y cuéntanos qué necesita tu coche. Estamos en El Prat para ayudarte a mantenerlo en perfecto estado."
+}

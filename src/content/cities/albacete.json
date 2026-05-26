@@ -1,0 +1,183 @@
+{
+  "slug": "albacete",
+  "name": "Albacete",
+  "province": "Albacete",
+  "ccaa": "Castilla-La Mancha",
+  "population": 173050,
+  "lat": 38.99424,
+  "lng": -1.85643,
+  "metaTitle": "Taller mecánico en Albacete — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en Albacete para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Atendemos todas las marcas. ¡Pide tu cita!",
+  "heroSubtitle": "Del hielo de invierno al calor de verano en la A-31, tu coche sufre el clima de Albacete. Mantenlo a punto con nosotros.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Conducir por Albacete y sus alrededores es una experiencia de contrastes. Un día estás cruzando la ciudad desde el barrio de Fátima hasta el Hospital y al siguiente coges la A-31 para bajar a la playa en Alicante. Entendemos que tu coche no es solo para ir al centro o al Campus Universitario, es la herramienta que te lleva al trabajo en el Polígono Campollano o te permite visitar a la familia en La Roda o Chinchilla de Montearagón. Por eso, sabemos que necesitas un vehículo fiable que responda igual de bien en una mañana de helada en enero que en una tarde de agosto a 40 grados.\n\nEl clima continental de La Mancha es exigente. Las temperaturas extremas ponen a prueba baterías, sistemas de climatización y líquidos refrigerantes. Los inviernos fríos y secos pueden agrietar gomas y manguitos, mientras que el sol intenso del verano castiga la pintura y los plásticos interiores. No es lo mismo un coche que duerme en garaje en el barrio de San Pablo que uno que pasa la noche a la intemperie en una pedanía. En nuestro taller, tenemos muy en cuenta estos factores locales que no aparecen en los manuales de las marcas, pero que determinan la vida útil de muchos componentes.\n\nEl parque automovilístico de Albacete es un reflejo de su gente: práctico y trabajador. Vemos a diario los coches que de verdad se usan aquí: el SEAT León diésel para los viajes largos, el Renault Clio de gasolina para moverse por la ciudad, el Peugeot 3008 para la familia y, por supuesto, la furgoneta Citroën Berlingo o la Ford Transit del autónomo que no puede permitirse parar. Conocemos los puntos débiles de estos modelos en nuestro entorno: el desgaste de embrague en el tráfico urbano de la Avenida de España y los filtros de partículas que sufren en trayectos cortos.\n\nPor eso, nuestro enfoque es directo y honesto. Cuando traes tu coche, no solo vemos un modelo y un año; vemos un vehículo que circula por la N-430, que sube y baja la Cuesta de San Juan y que necesita estar listo para cualquier imprevisto. Desde una simple revisión de aceite y filtros hasta una reparación más compleja como un cambio de correa de distribución, aplicamos nuestro conocimiento del entorno de Albacete para darte un diagnóstico preciso y un presupuesto cerrado. Queremos que conduzcas con la tranquilidad de saber que tu coche está en manos de gente que entiende tu día a día.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV en Albacete sin sustos, hasta cambiar un embrague gastado en el tráfico del centro, cubrimos toda la mecánica.",
+  "processIntro": "No nos gustan las sorpresas, y sabemos que a ti tampoco. Por eso trabajamos con un presupuesto cerrado que siempre apruebas antes de empezar.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando dejas tu coche, escuchamos lo que te preocupa y nuestros técnicos realizan una inspección completa para identificar el origen del problema con precisión. Usamos equipos de diagnosis multimarca para no dejar nada al azar."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye mano de obra y piezas, sin letra pequeña ni sorpresas de última hora. Es un precio cerrado para que sepas exactamente cuánto te va a costar."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos ni un solo tornillo sin tu aprobación explícita. Revisa el presupuesto con calma y, si estás de acuerdo, danos el OK. Si decides no reparar, no hay ningún compromiso. Tú tienes el control."
+    },
+    {
+      "title": "Reparación",
+      "body": "Una vez aprobado, nos ponemos manos a la obra. Usamos recambios de primeras marcas con garantía y te mantenemos informado sobre el progreso de la reparación. Cumplimos los plazos acordados para que recuperes tu coche cuanto antes."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto tu coche esté listo. Al recogerlo, te explicamos la reparación realizada y te entregamos la factura detallada. Unos días después, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "El clima extremo de La Mancha y los trayectos por la A-31 y la N-322 castigan tu coche de formas muy concretas. Estos son los problemas que más vemos en nuestro taller de Albacete.",
+  "commonIssues": [
+    {
+      "title": "El aire acondicionado no enfría en verano",
+      "body": "Llega julio, coges el coche para ir a la piscina o a la costa y solo sale aire caliente. El calor extremo de Albacete fuerza al máximo el sistema de climatización, provocando fugas en el circuito o fallos en el compresor. Hacemos una diagnosis completa, buscamos la fuga, recargamos el gas y comprobamos que todo funcione para que no te ases de calor."
+    },
+    {
+      "title": "La batería muere en una mañana de helada",
+      "body": "En Albacete sabemos lo que es rascar el hielo del parabrisas en invierno. Esas mañanas bajo cero son la prueba de fuego para las baterías. Si tu coche tiene más de 4 años, es probable que un día te deje tirado. Comprobamos el estado de tu batería y el alternador para que el frío no te pille por sorpresa."
+    },
+    {
+      "title": "Desgaste de neumáticos en autovía",
+      "body": "Hacer kilómetros por las rectas interminables de la A-31 o la A-30 a velocidad constante provoca un desgaste muy particular en el centro de la banda de rodadura. Esto reduce el agarre en curvas o con lluvia. Revisamos la presión y el estado de tus neumáticos y te aconsejamos sobre el alineado para maximizar su vida útil y tu seguridad."
+    },
+    {
+      "title": "Problemas con el filtro de partículas (FAP)",
+      "body": "Muchos diésel que se mueven principalmente por Albacete ciudad, con trayectos cortos al trabajo o al colegio, acaban obstruyendo el filtro de partículas. Esto provoca pérdida de potencia y averías costosas. Realizamos limpiezas y regeneraciones forzadas del FAP para que tu coche vuelva a respirar bien y evites problemas en la ITV."
+    },
+    {
+      "title": "El embrague patina o va duro",
+      "body": "El tráfico denso en horas punta por la Circunvalación o la zona del Altozano obliga a un uso constante del embrague. Este desgaste prematuro es muy común en coches que hacen mucha ciudad. Si notas que el pedal va duro o el coche pierde fuerza al acelerar, es hora de revisarlo antes de que te deje tirado."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos el terreno",
+      "body": "Sabemos cómo afectan el clima y las carreteras de Albacete a tu coche. No aplicamos soluciones genéricas, sino un mantenimiento adaptado a la realidad de conducir por La Mancha."
+    },
+    {
+      "title": "Presupuesto claro, sin sustos",
+      "body": "Te damos un precio cerrado antes de empezar. Lo que apruebas es lo que pagas. La confianza es la base de nuestro trabajo, y eso empieza por la transparencia total."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si llevas un Audi de importación o un Dacia comprado en el concesionario local. Tenemos la tecnología y la experiencia para trabajar con cualquier marca y modelo del mercado."
+    },
+    {
+      "title": "Garantía por escrito",
+      "body": "Todas nuestras reparaciones y los recambios que utilizamos están garantizados. Queremos que te vayas tranquilo, sabiendo que el trabajo está bien hecho y respaldado."
+    },
+    {
+      "title": "Pasarás la ITV",
+      "body": "Nuestra revisión Pre-ITV es exhaustiva. Comprobamos los mismos puntos que en la estación de ITV de Albacete para que vayas sobre seguro y no pierdas ni tiempo ni dinero."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Albacete que han confiado en nosotros. Sus casos, que nos encontramos a diario, podrían ser el tuyo.",
+  "testimonials": [
+    {
+      "name": "José",
+      "neighborhood": "Imaginalia",
+      "car": "SEAT León TDI 2016",
+      "body": "Se me rompió el aire acondicionado justo una semana antes de irnos de vacaciones a la playa. Con el calor que hace aquí, era impensable hacer el viaje por la A-31 así. Me lo diagnosticaron rápido, me dieron un presupuesto cerrado y en dos días lo tenía listo. Un alivio, la verdad.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Centro-Carretas",
+      "car": "Renault Clio 2018",
+      "body": "Llevo el coche siempre aquí para la revisión anual antes de la ITV. Me despreocupo por completo. Lo revisan todo a fondo, me avisan si ven algo que no está bien y me lo dejan perfecto para pasarla a la primera. Es muy cómodo, sobre todo viviendo en el centro donde aparcar ya es un lío.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "La Gineta",
+      "car": "Peugeot Partner 2015",
+      "body": "Soy autónomo y la furgoneta es mi herramienta de trabajo, no puede parar. El embrague empezó a patinar y necesitaba una solución urgente. Entendieron mi situación, me dieron prioridad y cumplieron el plazo que me dijeron. Un servicio profesional, que es lo que necesito.",
+      "rating": 5
+    },
+    {
+      "name": "Isabel",
+      "neighborhood": "Universidad",
+      "car": "Ford Focus 2012",
+      "body": "El coche hacía un ruido raro en los baches y no me fiaba. En otro sitio me habrían dicho de cambiar media suspensión. Aquí lo miraron bien y vieron que era solo una bieleta. Me explicaron el problema, me enseñaron la pieza y la reparación fue mucho más barata de lo que esperaba. Se agradece la honestidad.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la ciudad de Albacete y sus alrededores. Tanto si vives en barrios como Fátima, Franciscanos, Universidad o Vereda, como si te desplazas a diario desde municipios cercanos, nuestro taller es tu solución de confianza. Cubrimos toda el área metropolitana, incluyendo a conductores de Chinchilla de Montearagón, La Roda, La Gineta o Pozo Cañada que utilizan las principales vías de acceso a la capital. Nos encontrarás fácilmente a través de la A-31 (Autovía de Alicante), la A-30 (Autovía de Murcia) o la N-322, arterias que conectan toda la provincia y por las que circulan nuestros clientes cada día.",
+  "zoneNeighborhoods": [
+    "Fátima",
+    "Franciscanos",
+    "Parque Sur",
+    "Universidad",
+    "Imaginalia",
+    "Polígono San Antón",
+    "Centro-Carretas",
+    "Chinchilla de Montearagón",
+    "La Roda",
+    "La Gineta"
+  ],
+  "zoneAccessRoutes": [
+    "A-31 (Autovía de Alicante)",
+    "A-30 (Autovía de Murcia)",
+    "N-322",
+    "N-430",
+    "CM-3203"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Tengo que preparar el coche de forma especial para el invierno de Albacete?",
+      "a": "Totalmente. El frío intenso de aquí exige un anticongelante de calidad y en su nivel correcto para evitar averías graves en el motor. También es crucial revisar el estado de la batería, que es el componente que más sufre con las heladas. Unos neumáticos en buen estado, no necesariamente de invierno pero sí con el dibujo adecuado, te darán seguridad en las mañanas de escarcha."
+    },
+    {
+      "q": "Mi coche es diésel y hago trayectos cortos por la ciudad, ¿qué problemas puedo tener?",
+      "a": "Es un caso muy común en Albacete. El principal riesgo es la saturación del filtro de partículas (FAP), ya que no alcanza la temperatura para regenerarse. Esto causa pérdida de potencia, aumento del consumo y una costosa avería a largo plazo. Te recomendamos salir a carretera, como por la autovía A-31, al menos una vez al mes y conducir a revoluciones altas durante 20 minutos."
+    },
+    {
+      "q": "Voy a hacer un viaje largo por la A-31 en verano, ¿qué debería revisar?",
+      "a": "Antes de un viaje largo con el calor de La Mancha, lo fundamental es revisar la presión y el estado de los neumáticos, el nivel de líquido refrigerante para evitar sobrecalentamientos y el funcionamiento del aire acondicionado. Un fallo en cualquiera de estos tres puntos puede arruinarte el viaje. Pásate y te lo miramos en un momento."
+    },
+    {
+      "q": "¿Tenéis experiencia con furgonetas de trabajo del Polígono Campollano?",
+      "a": "Sí, por supuesto. Sabemos que una furgoneta parada es dinero perdido. Entendemos las necesidades de los profesionales de Campollano y Romica: durabilidad, rapidez y fiabilidad. Tenemos experiencia en los problemas típicos de estos vehículos, como el desgaste de embragues, frenos y suspensiones por la carga y el uso intensivo."
+    },
+    {
+      "q": "¿Cómo afecta el ambiente seco y a veces polvoriento de La Mancha al coche?",
+      "a": "El polvo en suspensión, sobre todo en verano o en días de viento, puede obstruir prematuramente el filtro de aire del motor y el del habitáculo. Un filtro de aire sucio aumenta el consumo y reduce el rendimiento. El del habitáculo, si está muy sucio, empeora el funcionamiento de la climatización y la calidad del aire que respiras. Recomendamos revisarlos en cada mantenimiento."
+    },
+    {
+      "q": "Pasar la ITV en Albacete tiene su fama, ¿vuestra pre-ITV es fiable?",
+      "a": "Sí, es uno de nuestros servicios estrella. Conocemos perfectamente los puntos en los que más se fijan en la estación ITV de Albacete. Hacemos una revisión exhaustiva de frenos, suspensión, luces, emisiones y neumáticos para que vayas con la total seguridad de que vas a pasarla a la primera, ahorrándote un segundo viaje y el pago de otra tasa."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Albacete",
+  "closingCta": "Si tu coche necesita una revisión o notas algo raro, no lo dejes pasar. Llámanos o envíanos un WhatsApp para pedir tu presupuesto cerrado en Albacete. Estaremos encantados de ayudarte."
+}

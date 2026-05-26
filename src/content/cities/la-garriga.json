@@ -1,0 +1,181 @@
+{
+  "slug": "la-garriga",
+  "name": "la Garriga",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 14991,
+  "lat": 41.68333,
+  "lng": 2.28333,
+  "metaTitle": "Taller mecánico en la Garriga — Multimarca y honesto",
+  "metaDescription": "Tu taller de confianza en la Garriga para revisiones, mecánica y neumáticos. Presupuesto cerrado y sin sorpresas para tu coche. Pide cita hoy mismo.",
+  "heroSubtitle": "Tu coche te lleva cada día por la C-17. En nuestro taller de la Garriga, te damos la tranquilidad de un presupuesto cerrado y un servicio honesto.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si vives en la Garriga, sabes que tu coche no es un lujo, es una necesidad. Lo usas para todo: para bajar a Granollers a hacer gestiones, para coger la C-17 cada mañana dirección Barcelona o Vic, o para llevar a los niños al colegio. Este uso intensivo, que combina el callejeo por el centro con los tramos a alta velocidad de la autovía, genera un desgaste muy particular en embragues, frenos y neumáticos. Lo vemos a diario en nuestro taller: coches con pocos años pero muchos kilómetros de autovía que necesitan una atención específica, diferente a la de un coche que solo se mueve por ciudad. Entendemos perfectamente la rutina de parar y arrancar en el acceso a la C-17 en hora punta y cómo eso afecta a la mecánica de tu vehículo.\n\nEl clima del Vallès Oriental también juega su papel. No es lo mismo un coche que duerme en la calle en els Tremolencs durante una helada de enero, que uno que sufre el calor intenso de julio en el centro. Las mañanas frías y húmedas de invierno son la prueba de fuego para las baterías, y muchos conductores de la Garriga se han encontrado con la desagradable sorpresa de que el coche no arranca. En verano, el asfalto de la autovía quema y el aire acondicionado trabaja a destajo. Estos extremos climáticos, junto con la proximidad al Montseny y sus carreteras con curvas, exigen un mantenimiento preventivo para evitar averías costosas. Revisar el anticongelante, el estado de la batería o el sistema de climatización no es una opción, es una necesidad para conducir con seguridad por nuestra comarca.\n\nEl parque móvil de la Garriga y sus alrededores, como L'Ametlla del Vallès o Les Franqueses, es un reflejo de sus habitantes: práctico y funcional. Vemos muchos SEAT León, Peugeot 3008, Renault Mégane y Volkswagen Golf, coches fiables para el día a día. También atendemos a muchos profesionales autónomos con sus furgonetas tipo Citroën Berlingo o Peugeot Partner, herramientas de trabajo que no pueden permitirse estar paradas. Conocemos a la perfección los motores diésel TDI y HDi que predominan en estos modelos, sus puntos fuertes y sus averías más comunes, como los relacionados con el filtro de partículas por no poder regenerar correctamente en trayectos cortos.\n\nPor todo esto, nuestro taller en la Garriga no es un taller más. Somos mecánicos de aquí, que conducimos por las mismas carreteras que tú. Cuando traes tu coche, no vemos solo una matrícula, vemos al vecino que necesita llegar a su trabajo en Parets, a la familia que se escapa el fin de semana al Montseny o al comercial que recorre toda la provincia. Por eso nuestro compromiso es doble: ofrecerte un diagnóstico honesto, un presupuesto cerrado para que no haya sustos y una reparación hecha con la profesionalidad que tu coche y tu tranquilidad merecen. Trabajamos con todas las marcas porque sabemos que en la puerta de casa tienes un Ford, tu pareja un Opel y tu hijo un Renault.",
+  "servicesIntro": "Desde la revisión para pasar la ITV en Granollers sin problemas hasta cambiar un embrague gastado de tanto ir a Barcelona, lo cubrimos todo.",
+  "processIntro": "Creemos en la transparencia. Por eso, antes de hacer nada en tu coche, te damos un presupuesto claro, detallado y cerrado. Sin letra pequeña.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Nos cuentas qué le pasa a tu coche y lo escuchamos. Luego, conectamos nuestros equipos de diagnosis para identificar el problema con precisión. No dejamos nada al azar."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico en la mano, te preparamos un presupuesto detallado por escrito. Verás claramente el coste de las piezas y de la mano de obra. El precio que ves es el que pagas."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No movemos ni un tornillo sin tu visto bueno. Te llamamos o te enviamos un WhatsApp con el presupuesto y solo cuando nos das el OK, empezamos a trabajar en tu coche."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos piezas de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado del proceso si la reparación se alarga más de lo previsto."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Cuando el coche está listo, te avisamos. Al recogerlo, te explicamos la reparación realizada. Y si tienes cualquier duda días después, estamos aquí para ayudarte."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario por el Vallès, el clima y las carreteras de la zona de la Garriga provocan averías muy concretas que conocemos bien. Aquí tienes las más habituales.",
+  "commonIssues": [
+    {
+      "title": "Embragues y frenos castigados",
+      "body": "El trayecto diario por la C-17, con sus aceleraciones y las retenciones para entrar en Barcelona o Granollers, desgasta prematuramente el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Conocemos este patrón de desgaste y te ofrecemos una solución duradera."
+    },
+    {
+      "title": "La batería no responde en invierno",
+      "body": "Las mañanas de invierno en la Garriga son frías y húmedas, el peor enemigo de una batería con algunos años. Si a tu coche le cuesta arrancar, es probable que la batería esté en las últimas. Hacemos una comprobación gratuita del estado de tu batería y sistema de carga para que no te deje tirado."
+    },
+    {
+      "title": "Aviso del filtro de partículas (FAP)",
+      "body": "Muchos diésel que circulan por la Garriga combinan trayectos cortos por el pueblo con la autovía. A veces, esto no es suficiente para que el filtro de partículas se regenere, provocando que se encienda el testigo de avería. Realizamos limpiezas y regeneraciones forzadas del FAP para evitar una sustitución muy costosa."
+    },
+    {
+      "title": "Suspensiones y neumáticos sufridos",
+      "body": "No todas las carreteras son la C-17. Las vías secundarias que conectan con Cànoves, Samalús o Figaró tienen un firme más irregular. Los baches y las curvas cerradas afectan a amortiguadores, silentblocks y provocan un desgaste desigual de los neumáticos. Una alineación a tiempo y una revisión de la suspensión son clave."
+    },
+    {
+      "title": "El aire acondicionado no enfría",
+      "body": "Cuando llega el calor de junio al Vallès, el aire acondicionado es imprescindible. La causa más común de que no enfríe es una fuga en el circuito o falta de gas. Realizamos la diagnosis completa del sistema, detectamos fugas y recargamos el circuito para que vuelvas a viajar fresco."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos la Garriga",
+      "body": "No somos una franquicia sin alma. Vivimos aquí, conducimos por las mismas carreteras y entendemos los problemas específicos de los coches del Vallès. Hablamos tu mismo idioma."
+    },
+    {
+      "title": "Presupuesto sin sustos",
+      "body": "La confianza empieza por la claridad. Te damos un presupuesto cerrado antes de empezar. El precio que te decimos es el que pagas al final, sin sorpresas ni extras inesperados."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si conduces un SEAT, un Peugeot, un Mercedes o un Dacia. Tenemos la formación y el equipo para realizar el mantenimiento y las reparaciones en cualquier vehículo con total garantía."
+    },
+    {
+      "title": "Diagnóstico honesto",
+      "body": "Nuestro objetivo es solucionar tu problema, no venderte reparaciones que no necesitas. Si una pieza se puede reparar en lugar de sustituir, te lo diremos. Tu confianza es nuestro mayor activo."
+    },
+    {
+      "title": "Comunicación directa y clara",
+      "body": "Te explicamos las averías de forma que las entiendas, sin tecnicismos innecesarios. Siempre sabrás qué le pasa a tu coche, qué vamos a hacer y por qué es necesario hacerlo."
+    }
+  ],
+  "testimonialsIntro": "Estos son ejemplos de casos reales de conductores de la Garriga y alrededores. Quizás te sientas identificado con sus historias.",
+  "testimonials": [
+    {
+      "name": "Anna",
+      "neighborhood": "Centre",
+      "car": "SEAT León ST 2016",
+      "body": "Uso el coche todos los días para ir a trabajar a Granollers y empecé a oír un zumbido raro en la rueda delantera. Me preocupé bastante. Los llamé, me dieron cita para el día siguiente y lo miraron enseguida. Era un rodamiento. Me dieron el presupuesto por WhatsApp, acepté y por la tarde ya lo tenía listo. Súper eficientes y claros.",
+      "rating": 5
+    },
+    {
+      "name": "Jordi",
+      "neighborhood": "L'Ametlla del Vallès",
+      "car": "Citroën Berlingo 2018",
+      "body": "Soy autónomo y la furgoneta es mi oficina. No puede estar parada. Tenía que pasar la ITV y se la llevé para una revisión Pre-ITV. Me encontraron un silentblock del trapecio que estaba para cambiar. Si no es por ellos, me tiran para atrás en la ITV y pierdo una mañana entera. Me lo cambiaron en el momento. Un servicio que vale oro.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Els Tremolencs",
+      "car": "Peugeot 3008 2017",
+      "body": "Justo antes de irnos de vacaciones en agosto, el aire acondicionado dejó de enfriar. Con dos niños pequeños, era un drama. Llamé a varios talleres y me daban largas. Aquí me hicieron un hueco, encontraron la fuga, cargaron el gas y salvaron nuestras vacaciones. Muy profesionales y se nota que entienden la urgencia.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Can Noguera",
+      "car": "Renault Clio 2014",
+      "body": "Una mañana de enero, con el frío que hacía, el coche no arrancó. La batería murió. Llamé al taller y aunque estaban a tope, me dijeron que se lo llevara la grúa. Tardaron un poco más de lo que me dijeron en llamarme, pero por la tarde ya tenía la batería nueva puesta y el coche funcionando. El trato fue bueno y el precio correcto.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller mecánico en la Garriga da servicio a toda la comarca. Estamos ubicados en un punto de fácil acceso, tanto si vienes del centro del pueblo como de urbanizaciones como Can Noguera o el Padró. Recibimos cada día a clientes de municipios vecinos que valoran un servicio de confianza, como L'Ametlla del Vallès, Les Franqueses del Vallès o Canovelles. Nuestra proximidad a la C-17 nos convierte en una opción muy cómoda para quienes utilizan esta vía a diario para desplazarse. También es sencillo llegar desde Figaró-Montmany o Cànoves i Samalús a través de las carreteras locales como la BP-5107. Si vives o trabajas en la zona, somos tu taller de referencia.",
+  "zoneNeighborhoods": [
+    "La Garriga Centre",
+    "El Padró",
+    "Els Tremolencs",
+    "Can Noguera",
+    "L'Ametlla del Vallès",
+    "Les Franqueses del Vallès",
+    "Canovelles",
+    "Figaró-Montmany",
+    "Cànoves i Samalús"
+  ],
+  "zoneAccessRoutes": [
+    "C-17 (Autovia de l'Ametlla)",
+    "AP-7 (Autopista del Mediterrani)",
+    "BP-5107",
+    "BV-1432"
+  ],
+  "faqLocal": [
+    {
+      "q": "Vivo en L'Ametlla del Vallès, ¿estáis muy lejos?",
+      "a": "Para nada, estamos a pocos minutos en coche. Muchos de nuestros clientes son de L'Ametlla y nos eligen por la facilidad de acceso y la confianza. Puedes llegar rápidamente por las carreteras locales o cogiendo un momento la C-17. Dejar el coche por la mañana y recogerlo por la tarde es muy sencillo."
+    },
+    {
+      "q": "Tengo que pasar la ITV en Granollers, ¿me preparáis el coche?",
+      "a": "Por supuesto. Es uno de nuestros servicios más demandados. Hacemos una revisión Pre-ITV completa de los puntos clave: luces, frenos, neumáticos, emisiones, suspensiones... Así te aseguras de pasarla a la primera y te ahorras el viaje y el dinero de una segunda inspección. Conocemos perfectamente lo que miran en la estación de Granollers."
+    },
+    {
+      "q": "Mi coche diésel hace trayectos cortos por la Garriga, ¿qué mantenimiento necesita?",
+      "a": "Es una consulta muy habitual. Los diésel modernos con filtro de partículas (FAP) sufren si no salen a carretera. Te recomendamos usar un aditivo de calidad para el combustible de vez en cuando y, al menos una vez por semana, hacer un trayecto por la C-17 durante unos 20 minutos a un régimen estable para ayudar a que el filtro se limpie. En el taller podemos comprobar su estado y forzar una regeneración si es necesario."
+    },
+    {
+      "q": "Con el frío de invierno en el Vallès, ¿qué debo revisar en el coche?",
+      "a": "El frío es exigente con la mecánica. Lo fundamental es revisar el estado de la batería, que es lo que más falla. También es crucial comprobar el nivel y la calidad del líquido anticongelante para evitar averías graves en el motor, así como el estado de los neumáticos y las escobillas de los limpiaparabrisas, vitales para la seguridad con lluvia o niebla."
+    },
+    {
+      "q": "¿Tenéis experiencia con las marcas más comunes de la zona como SEAT o Peugeot?",
+      "a": "Totalmente. Aunque somos un taller multimarca, la mayoría de coches que reparamos son de las marcas más vendidas en España: SEAT, Peugeot, Renault, Volkswagen, Ford, Citroën... Conocemos sus motores, su electrónica y sus puntos débiles. Tenemos el equipo de diagnosis específico para comunicarnos con sus centralitas y solucionar cualquier avería."
+    },
+    {
+      "q": "Voy mucho de ruta por el Montseny, ¿qué revisión me recomendáis?",
+      "a": "Si disfrutas de las carreteras del Montseny, la seguridad es lo primero. Te recomendamos una revisión específica de lo que más sufre en ese tipo de conducción: frenos (estado de pastillas, discos y líquido), neumáticos (presión y desgaste) y suspensión (amortiguadores). Así te aseguras de que el coche responda perfectamente en cada curva."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en la Garriga",
+  "closingCta": "Si notas algo raro en tu coche o simplemente te toca la revisión, no lo dejes pasar. Llámanos o envíanos un WhatsApp para pedir un presupuesto para tu taller en la Garriga. Te atenderemos encantados."
+}

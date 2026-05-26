@@ -1,0 +1,208 @@
+{
+  "slug": "madrid",
+  "name": "Madrid",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 3255944,
+  "lat": 40.4165,
+  "lng": -3.70256,
+  "metaTitle": "Taller mecánico en Madrid — Multimarca y presupuesto cerrado",
+  "metaDescription": "Taller mecánico multimarca en Madrid. Presupuesto cerrado, sin sorpresas. Revisión, averías, pre-ITV y diagnóstico. Pide cita y olvídate del problema.",
+  "heroSubtitle": "Reparar el coche en Madrid sin que te claven, sin esperas eternas y sabiendo lo que vas a pagar antes de empezar.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Tener coche en Madrid es una relación complicada. Lo necesitas para escaparte el finde a la sierra, para subir a ver a tus padres a Burgos o para llegar al curro cuando el Cercanías decide que hoy no toca. Pero también lo sufres: atascos en la M-30 a las ocho de la mañana, semáforos cada cincuenta metros por Bravo Murillo, aparcamientos verticales que parecen diseñados para Smarts y una ZBE que cada año aprieta un poco más. Todo eso castiga al coche más de lo que la gente cree, y se nota cuando llega la ITV o cuando una mañana fría de enero no arranca a la primera.\n\nEl clima de Madrid tampoco ayuda. Veranos largos por encima de los 38 grados que machacan la batería, el aire acondicionado y los líquidos. Inviernos secos con heladas en Vallecas o en Hortaleza al amanecer que ponen a prueba la batería y los neumáticos. Y entre medias, episodios de calima, polen y polvo que acaban metidos en el filtro de habitáculo y en el de aire del motor. Si añades los miles de kilómetros que muchos madrileños hacen en trayectos cortos por ciudad (peor escenario posible para un diésel con DPF), entiendes por qué los talleres de Madrid vemos lo que vemos.\n\nNuestro cliente típico aquí es muy variado: el funcionario de Nuevos Ministerios con un Golf TDI de hace ocho años, la familia de Moratalaz con el monovolumen que ya pide distribución, el autónomo de Villaverde con la furgoneta que no puede parar dos días, o el vecino de Pozuelo con el Audi al que se le ha encendido el testigo del DPF. También vemos muchos coches de gente que se ha mudado a Rivas, Coslada o Alcobendas y baja a diario por la A-3, la A-2 o la A-1. Todos tienen algo en común: quieren saber lo que cuesta antes de dejar el coche.\n\nPor eso trabajamos con presupuesto cerrado. Diagnosticamos, te llamamos, te explicamos qué pasa con palabras normales (sin soltarte tres siglas seguidas) y tú decides. Si dices que sí, ese es el precio. Si aparece algo más durante la reparación, paramos y te volvemos a llamar. Nada de facturas infladas el día de la entrega. Somos multimarca, así que da igual si traes un Dacia Sandero, un BMW Serie 3, un Tesla Model 3 o la furgo de reparto: lo tratamos igual.\n\nY hablando de Madrid: trabajamos pensando en la ZBE y en las etiquetas DGT. Si tu coche no tiene etiqueta o la tiene B y te empieza a preocupar circular por el centro, te asesoramos sin venderte humo. A veces la respuesta es cambiar de coche, sí, pero muchas otras es simplemente hacer un mantenimiento decente y seguir tirando varios años más sin gastarte una fortuna.",
+  "servicesIntro": "Esto es lo que hacemos en el día a día para los conductores de Madrid, con piezas con garantía y presupuesto cerrado antes de empezar.",
+  "processIntro": "Así trabajamos cada coche que entra al taller en Madrid: transparente, paso a paso y sin tocar nada sin tu permiso.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando dejas el coche, lo primero es escuchar lo que nos cuentas y conectar el equipo de diagnosis. Revisamos códigos de avería, hacemos prueba dinámica si hace falta y comprobamos visualmente lo que sospechamos. Sin diagnóstico claro no hay presupuesto serio."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico encima de la mesa, calculamos mano de obra y piezas, y te mandamos el presupuesto por WhatsApp o email. Te lo explicamos sin tecnicismos raros. Ese precio es el que pagas: no se mueve salvo que aparezca algo nuevo y te lo consultemos antes."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Hasta que no nos dices que sí, el coche no se toca. Si quieres pensarlo un día, perfecto. Si prefieres hacer solo una parte de la reparación y dejar otra para más adelante, también. Tú decides qué hacer y cuándo, sin presión comercial."
+    },
+    {
+      "title": "Reparación",
+      "body": "Montamos pieza nueva con garantía (original o equivalente de marca reconocida, según lo que acordemos contigo). Te damos un plazo realista: si te decimos que está para el jueves, está para el jueves. Si surge cualquier imprevisto, te llamamos antes de seguir."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos el coche con la factura desglosada y te explicamos lo que se ha hecho. A los pocos días te escribimos para ver si todo va bien. Si hay cualquier ruido o duda, vuelves y lo revisamos sin coste dentro de la garantía."
+    }
+  ],
+  "commonIssuesIntro": "Lo que más vemos entrar por el taller en Madrid tiene un patrón claro: atascos, trayectos cortos, calor extremo en verano y un parque envejecido.",
+  "commonIssues": [
+    {
+      "title": "Filtro de partículas (DPF) saturado",
+      "body": "Es la avería estrella de los diésel madrileños. Mucho trayecto corto por la almendra central, mucho atasco en la M-30 y el A-30 y poca autovía para que el filtro regenere bien. Llegan coches con testigo encendido, pérdida de potencia o modo emergencia. Hacemos diagnóstico, intentamos primero regeneración forzada y limpieza, y solo si no hay manera proponemos cambio. Te decimos siempre qué opción tiene sentido según tu uso real."
+    },
+    {
+      "title": "Batería muerta en verano",
+      "body": "Madrid pasa de 40 grados en Carabanchel o Villaverde y eso revienta baterías más rápido de lo que la gente cree. Si encima haces poco kilómetro, el alternador no llega a cargarla bien. Probamos batería y alternador con equipo de carga, te decimos cuánta vida le queda y, si toca cambio, montamos batería con la amperaje correcto para tu coche. Nada de venderte una más grande \"por si acaso\"."
+    },
+    {
+      "title": "Aire acondicionado que no enfría",
+      "body": "En julio en Madrid, un aire que no enfría no es un capricho, es supervivencia. Lo habitual es pérdida de gas por antigüedad o por una junta cansada. Revisamos circuito con detector, recargamos con la mezcla correcta y, si hay fuga, localizamos y reparamos. También cambiamos filtro de habitáculo, que con la calima y el polen de Madrid se ensucia muchísimo."
+    },
+    {
+      "title": "Frenos castigados por atascos",
+      "body": "Conducir a diario por la A-2, la A-6 o la M-40 en hora punta significa frenar mil veces al día. Las pastillas y discos se gastan antes de lo que dice el manual. Cuando notas vibración al frenar o chirrido, vienes y medimos espesor de disco y pastilla. Te decimos qué necesita cambio ya, qué aguanta unos meses y qué está perfecto. Sin alarmismos."
+    },
+    {
+      "title": "Embrague de ciudad dormitorio",
+      "body": "Mucha gente vive en Móstoles, Getafe, Alcalá o Las Rozas y entra a Madrid a diario. Eso son dos horas de pisar embrague en atasco. Resultado: embragues a los 120.000-150.000 km en lugar de los 200.000 de catálogo. Detectamos patinamiento, dureza anormal o ruido al pisar. Cambiamos kit completo (disco, plato y cojinete) y, si toca, también volante bimasa."
+    },
+    {
+      "title": "Suspensiones tocadas por baches",
+      "body": "Madrid tiene tramos con asfalto impecable y otros, sobre todo en zonas industriales y polígonos, con baches que parten un eje. Amortiguadores, silentblocks y rótulas se resienten. Si notas que el coche rebota tras un bache, hace ruidos secos al girar o se va de morro, lo subimos al elevador y revisamos tren delantero y trasero. Te enseñamos lo que está mal antes de cambiar nada."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Presupuesto cerrado de verdad",
+      "body": "El precio que te decimos al principio es el que pagas al final. Si durante la reparación aparece algo nuevo, paramos y te llamamos. Nunca te vas a encontrar una factura hinchada el día de recoger el coche. Esto en Madrid, donde corren leyendas urbanas de talleres, marca la diferencia."
+    },
+    {
+      "title": "Multimarca con diagnosis seria",
+      "body": "Tenemos equipos de diagnosis multimarca actualizados, no un OBD de bazar. Eso significa que podemos leer y configurar centralitas de prácticamente cualquier coche que circule por Madrid, desde un Dacia hasta un BMW o un híbrido reciente. Sin tener que mandarte al concesionario por cualquier tontería."
+    },
+    {
+      "title": "Te explicamos en cristiano",
+      "body": "Nada de soltarte siglas y tecnicismos para marearte. Te enseñamos la pieza, te decimos qué hace, por qué falla y qué pasa si no la cambias. Si después de eso decides esperar, perfecto. Queremos que entiendas lo que estás pagando, no que firmes a ciegas."
+    },
+    {
+      "title": "Asesoramiento ZBE y etiqueta DGT",
+      "body": "Madrid Central, Madrid 360, la ampliación de la ZBE... cada año cambian las reglas. Si tu coche es antiguo y dudas si te merece la pena seguir reparándolo o cambiarlo, te damos una opinión honesta basada en el estado real del vehículo, no en venderte una reparación cara."
+    },
+    {
+      "title": "Pre-ITV antes de pasar por Villaverde",
+      "body": "Antes de que vayas a la estación de ITV (la de Villaverde, San Blas, Coslada o la que te toque), revisamos los puntos que más suspenden: luces, holguras, emisiones, frenos. Si algo falla, lo arreglamos antes. Te ahorras tener que volver y pagar segunda inspección."
+    },
+    {
+      "title": "Plazos que se cumplen",
+      "body": "Si te decimos que el coche está para el viernes, está para el viernes. Sabemos que en Madrid mucha gente depende del coche para trabajar o para llevar a los niños al cole. Si hay un retraso por una pieza que no llega, te avisamos enseguida, no el mismo día de la entrega."
+    }
+  ],
+  "testimonialsIntro": "Algunos ejemplos del tipo de casos que vemos cada semana en el taller, contados como nos los cuentan los clientes.",
+  "testimonials": [
+    {
+      "name": "Carlos",
+      "neighborhood": "Tetuán",
+      "car": "Volkswagen Golf TDI 2013",
+      "body": "Tenía el testigo del filtro de partículas encendido y en otro sitio me querían cobrar una pasta por cambiarlo entero. Aquí me hicieron primero una regeneración forzada y una limpieza, me explicaron que con mi tipo de uso (mucho atasco por la Castellana) tenía que hacer una vez al mes un viaje largo, y de momento llevo ocho meses sin que vuelva a saltar. Lo agradecí mucho, porque me ahorraron más de mil euros.",
+      "rating": 5
+    },
+    {
+      "name": "María",
+      "neighborhood": "Moratalaz",
+      "car": "Renault Mégane 2016",
+      "body": "Llevé el coche porque hacía un ruido raro al girar a la izquierda. Me dieron presupuesto cerrado por WhatsApp el mismo día con foto de la rótula desgastada. Lo autoricé y al día siguiente lo tenía. Lo que más me gustó es que me llamaron a media reparación para decirme que el otro lado todavía aguantaba, que no hacía falta cambiarlo. En otros sitios te lo habrían cambiado sin avisar.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Vallecas",
+      "car": "Ford Transit 2015",
+      "body": "Soy autónomo y la furgo es mi curro. Se me quedó tirada un lunes por la mañana con un problema eléctrico raro. La llevé y me la tuvieron lista el miércoles a mediodía, con presupuesto cerrado desde el primer momento. Me dejaron coche de cortesía esos dos días para no parar el reparto. Cumplieron lo prometido, sin sorpresas en la factura. Volveré seguro.",
+      "rating": 5
+    },
+    {
+      "name": "Ana",
+      "neighborhood": "Chamberí",
+      "car": "Mini Cooper 2014",
+      "body": "Pasé la pre-ITV antes de ir a la estación porque ya me había suspendido la vez anterior por unas luces. Me revisaron todo, ajustaron faros, cambiaron una bombilla y comprobaron emisiones. Pasé la ITV a la primera. La única pega es que el día de recoger el coche tuve que esperar un rato porque iban con retraso, pero por lo demás muy correcto y precio razonable.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Trabajamos para conductores de toda la almendra central y de los distritos periféricos de Madrid: Centro, Chamberí, Salamanca, Retiro, Arganzuela, Tetuán, Chamartín, Ciudad Lineal, Hortaleza, San Blas, Moratalaz, Vicálvaro, Vallecas (Puente y Villa), Usera, Villaverde, Carabanchel, Latina, Moncloa-Aravaca, Fuencarral-El Pardo y Barajas. También viene mucha gente desde los municipios del área metropolitana: Alcorcón, Móstoles, Leganés, Getafe, Fuenlabrada, Pozuelo de Alarcón, Majadahonda, Las Rozas, Pinto, Coslada, San Fernando de Henares, Alcobendas, San Sebastián de los Reyes y Rivas-Vaciamadrid. Las vías de acceso al taller son las habituales en Madrid: la M-30 como anillo interior, la M-40 para quien viene de fuera, y las radiales A-1 (norte), A-2 (Corredor del Henares), A-3 (sureste hacia Rivas y Arganda), A-4 (sur), A-5 (Extremadura) y A-6 (noroeste). Si vienes en hora punta, dinos por dónde entras y te orientamos para evitar los puntos negros.",
+  "zoneNeighborhoods": [
+    "Chamberí",
+    "Tetuán",
+    "Salamanca",
+    "Moratalaz",
+    "Vallecas",
+    "Carabanchel",
+    "Hortaleza",
+    "Chamartín",
+    "Ciudad Lineal",
+    "Arganzuela"
+  ],
+  "zoneAccessRoutes": [
+    "M-30",
+    "M-40",
+    "A-2",
+    "A-3",
+    "A-6"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Mi coche sin etiqueta DGT puede entrar a vuestro taller dentro de Madrid?",
+      "a": "Sí, sin problema. La normativa de la ZBE permite acceder a un taller para reparación aunque tu coche no tenga etiqueta o sea etiqueta B, siempre que la entrada al recinto esté justificada por la cita. Te recomendamos guardar el justificante de la cita y la factura por si hay alguna comprobación. Si tienes dudas sobre cómo entrar concretamente al taller según tu zona de origen, llámanos antes y te lo explicamos."
+    },
+    {
+      "q": "¿Hacéis pre-ITV antes de ir a Villaverde o San Blas?",
+      "a": "Sí, es uno de los servicios que más hacemos. Revisamos los puntos que más suspenden en las estaciones de ITV de Madrid: luces (alineación y funcionamiento), holguras de dirección, frenos, emisiones, neumáticos y elementos de seguridad. Si algo no pasaría, te damos presupuesto cerrado para arreglarlo antes. Así vas a la ITV con la tranquilidad de pasar a la primera y te ahorras la segunda inspección, que además del coste te hace perder otra mañana."
+    },
+    {
+      "q": "¿Cuánto tarda una revisión en Madrid en hora punta de trabajo?",
+      "a": "Una revisión estándar (aceite, filtros, comprobaciones) la tenemos lista el mismo día si nos dejas el coche por la mañana temprano. Para reparaciones más complejas (distribución, embrague, suspensión completa) hablamos de uno o dos días, dependiendo de disponibilidad de piezas. En Madrid trabajamos con proveedores que entregan varias veces al día, así que rara vez nos quedamos parados esperando una pieza, salvo modelos muy concretos."
+    },
+    {
+      "q": "Vivo en Móstoles o Getafe y trabajo en Madrid centro. ¿Cómo me organizo para dejar el coche?",
+      "a": "Es una situación habitual. Lo más cómodo es dejarlo a primera hora antes de entrar a trabajar y recogerlo por la tarde. Si la reparación lleva más tiempo, podemos valorar coche de cortesía según disponibilidad. También hay clientes que nos lo dejan el viernes por la tarde y lo recogen el lunes por la mañana ya listo. Coméntanos tu situación al pedir cita y buscamos la mejor opción."
+    },
+    {
+      "q": "¿Trabajáis con coches híbridos y eléctricos?",
+      "a": "Sí, atendemos híbridos (tanto convencionales tipo Toyota como enchufables) y eléctricos para el mantenimiento general, frenos, suspensión, neumáticos, climatización y diagnóstico de averías de baja tensión. Para intervenciones en el sistema de alta tensión de la batería de tracción, derivamos a especialistas certificados. Cada vez vemos más eléctricos en Madrid por la ventaja de la etiqueta CERO y los aparcamientos, y vamos formándonos al ritmo del parque."
+    },
+    {
+      "q": "Mi coche es diésel y solo lo uso para ciudad en Madrid. ¿Tiene sentido seguir manteniéndolo?",
+      "a": "Depende. Si es etiqueta C y aún no le toca cambio mayor, mantenerlo unos años más suele ser rentable. Si es sin etiqueta o B y empieza a dar problemas serios (DPF, EGR, turbo), conviene hacer cuentas. Te damos opinión sincera tras ver el estado real del coche: a veces compensa una reparación grande y otras veces no. No vivimos de venderte reparaciones que no necesitas, así que vas a oír la verdad."
+    },
+    {
+      "q": "¿Cambiáis neumáticos? ¿Recomendáis alguna marca para Madrid?",
+      "a": "Sí, montamos neumáticos de todas las marcas y medidas. Para Madrid, donde llueve poco pero cuando llueve cae fuerte y hay olas de calor brutales, lo importante es elegir un neumático con buen agarre en mojado y resistencia al calor. Trabajamos primeras marcas (Michelin, Continental, Bridgestone, Pirelli) y opciones de gama media muy correctas (Hankook, Kumho, Goodyear). Te asesoramos según tu coche, tu uso y tu presupuesto, sin empujarte a la más cara."
+    },
+    {
+      "q": "¿Qué pasa si después de la reparación el problema vuelve?",
+      "a": "Toda reparación lleva garantía sobre las piezas montadas y la mano de obra. Si tras recoger el coche notas que el problema persiste o aparece algo relacionado, vuelves y lo revisamos sin coste dentro del periodo de garantía. Lo importante es que nos avises pronto, no que esperes meses. A los pocos días de la entrega te contactamos nosotros para confirmar que todo va bien, precisamente para detectar estos casos cuanto antes."
+    }
+  ],
+  "closingHeadline": "Cuida tu coche en Madrid sin sustos",
+  "closingCta": "Pide cita por teléfono, WhatsApp o email y te damos hueco esta misma semana. Cuéntanos qué le pasa al coche o qué mantenimiento toca, y te decimos cómo lo enfocamos antes de que pases por el taller en Madrid.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red de Talleres Mecánicos · Madrid",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@taller-madrid.es",
+    "addressStreet": ""
+  }
+}

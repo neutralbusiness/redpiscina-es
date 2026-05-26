@@ -1,0 +1,193 @@
+{
+  "slug": "castelldefels",
+  "name": "Castelldefels",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 66375,
+  "lat": 41.27794,
+  "lng": 1.97033,
+  "metaTitle": "Taller mecánico en Castelldefels — Tu coche, a punto de todo",
+  "metaDescription": "Entendemos el desgaste de tu coche en Castelldefels, de la playa a la montaña. Presupuesto cerrado y diagnóstico honesto. Pide tu cita hoy.",
+  "heroSubtitle": "El mismo coche que sube a Montemar a diario no sufre lo mismo que el que aparca en La Pineda. Aquí entendemos esa doble vida.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "En Castelldefels, un coche no es solo un coche; es una herramienta de doble filo. Es el vehículo familiar que por la mañana coge la C-32 hacia Barcelona, luchando contra el tráfico para llegar al trabajo, y por la tarde se convierte en el transporte escolar que serpentea por las cuestas de Bellamar o El Poal. Un día sufre el desgaste de la alta velocidad y el otro el esfuerzo de arrancar en pendiente. Esta dualidad es el pan de cada día para cualquier familia de la zona. El problema es que el mantenimiento estándar no suele tener en cuenta que tu coche vive dos vidas completamente distintas, a menudo en el mismo día. La mecánica de un vehículo que solo pisa el llano de Can Bou no tiene nada que ver con la de uno que tiene su plaza de garaje mirando al mar en Les Botigues de Sitges.\n\nEl factor costero es el enemigo silencioso. La brisa marina que tanto se agradece en verano trae consigo un pasajero invisible pero muy destructivo: el salitre. Si aparcas habitualmente en la zona de La Pineda o Lluminetes, especialmente en segunda o tercera línea de mar, esa fina capa de sal se adhiere a la carrocería, a los bajos y, lo que es peor, a componentes críticos como los discos de freno o el radiador. El salitre acelera la corrosión de una forma que no se ve en ciudades de interior. Es una oxidación lenta y constante que debilita el metal y puede provocar averías prematuras en el sistema de refrigeración o un agarrotamiento de las pinzas de freno, algo que notamos mucho en coches que pasan la ITV por primera vez después de cuatro años en Castelldefels.\n\nLuego está la orografía. Castelldefels es engañosamente plano en su zona centro y playa, pero en cuanto cruzas la autovía, el panorama cambia radicalmente. Barrios como Montemar son un desafío constante para la mecánica. Cada vez que se sube una de sus empinadas calles, el embrague (en los manuales) y el convertidor de par (en los automáticos) trabajan bajo una tensión enorme. Los frenos, por su parte, sufren el castigo inverso en cada bajada. Este ciclo de esfuerzo y retención calienta los componentes y acelera su desgaste de forma exponencial. No es una suposición, es física. Un juego de pastillas de freno en un coche que se mueve solo por el Passeig Marítim puede durar el doble que en uno cuyo día a día incluye llevar a los niños al colegio en la parte alta de la ciudad.\n\nEsta mezcla de usos define el parque móvil local. Un diésel moderno necesita los trayectos por la C-31 o la C-32 para regenerar su filtro de partículas, pero el uso intensivo para recados cortos por el centro o la playa acaba por saturarlo. El coche de gasolina, más adaptado a lo urbano, puede sufrir en los largos trayectos veraniegos hacia la Costa Brava por la AP-7. El coche familiar compartido es el que se lleva la peor parte, porque sufre todos estos escenarios. El motor, la suspensión, los neumáticos... cada pieza es un punto en un mapa de tensiones. Nuestro trabajo es ver ese mapa completo, entender que el traqueteo que escuchas al bajar de Vista Alegre no es el mismo que el que aparece al coger un badén en la Avenida dels Banys.\n\nPor eso, nuestro enfoque no es tratar tu coche como un modelo estándar salido de fábrica, sino como un vehículo con un historial de servicio único, forjado por las calles y carreteras de Castelldefels. Analizamos el desgaste como un geólogo estudia las capas de una roca: cada capa cuenta una historia de sal, pendientes y kilómetros de autopista. No es solo cambiar una pieza; es entender por qué se ha desgastado precisamente aquí y ahora. Es la diferencia entre un apaño temporal y una solución que te da tranquilidad, ya sea para cruzar el Garraf dirección Sitges o para aparcar frente a la playa sin preocuparte por lo que la brisa le está haciendo a tus frenos. Cuidar tu coche aquí es entender su geografía.",
+  "servicesIntro": "Desde la revisión para aguantar el trote diario por la C-32 hasta la reparación del embrague castigado por las cuestas de Montemar.",
+  "processIntro": "Trabajamos con total transparencia. Recibes un diagnóstico claro y un presupuesto cerrado para que decidas sin sorpresas ni letra pequeña.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que le notas al coche y lo conectamos a nuestros equipos. Analizamos tanto los fallos electrónicos como el desgaste mecánico visible, pensando siempre en cómo usas el coche en Castelldefels."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye mano de obra y piezas, sin sorpresas. Lo que ves es lo que pagas, para que puedas decidir con toda la información sobre la mesa."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu confirmación explícita. Tienes el control total. Si durante el proceso vemos algo más, te llamaremos para informarte antes de actuar."
+    },
+    {
+      "title": "Reparación",
+      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos conocen las particularidades de los coches que circulan por esta zona y trabajan de forma eficiente para que lo tengas de vuelta cuanto antes."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te explicamos la reparación realizada al recoger tu coche. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el resultado. Tu tranquilidad es nuestro objetivo."
+    }
+  ],
+  "commonIssuesIntro": "El contraste entre la brisa marina cargada de salitre en La Pineda y las empinadas calles de Bellamar provoca un tipo de averías muy concretas en los coches de Castelldefels.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de frenos",
+      "body": "Las constantes subidas y bajadas en barrios como Montemar o El Poal someten a los frenos a un estrés térmico brutal. El material de fricción de las pastillas se cristaliza y los discos pueden alabearse. Revisamos todo el sistema para garantizar una frenada segura, no solo cambiamos las pastillas."
+    },
+    {
+      "title": "Corrosión en bajos y frenos",
+      "body": "El salitre del ambiente marino, especialmente si vives o aparcas cerca de la playa, es muy corrosivo. Acelera la oxidación de discos, pinzas de freno, latiguillos y el sistema de escape. Una inspección visual a tiempo puede evitar reparaciones mucho más costosas y problemas en la ITV."
+    },
+    {
+      "title": "Sufrimiento de embrague y cambio automático",
+      "body": "Arrancar repetidamente en las cuestas de la zona alta de Castelldefels es un castigo para el embrague y el convertidor de par de las cajas automáticas. Diagnosticamos tirones, patinazos o dificultad para engranar marchas para evitar que una pequeña avería se convierta en una reparación mayor."
+    },
+    {
+      "title": "Fallos en el aire acondicionado",
+      "body": "La combinación de alta humedad y calor en verano fuerza al máximo el sistema de climatización. Las fugas en el circuito o un compresor con bajo rendimiento son habituales. Una recarga a tiempo y una revisión del sistema aseguran que no te quedes tirado en plena ola de calor."
+    },
+    {
+      "title": "Problemas con el filtro de partículas (FAP/DPF)",
+      "body": "Muchos diésel se usan para trayectos cortos por el pueblo, de casa al colegio o al supermercado. Este uso impide que el filtro de partículas se regenere correctamente, provocando obstrucciones y averías caras. Realizamos limpiezas y regeneraciones forzadas para alargar su vida útil."
+    },
+    {
+      "title": "Suspensión y neumáticos fatigados",
+      "body": "La combinación de badenes en zonas residenciales, rotondas en la C-245 y los kilómetros a alta velocidad por la C-31 o C-32 desgasta amortiguadores, silentblocks y neumáticos de forma irregular. Un buen alineado y una suspensión en forma son clave para la seguridad, sobre todo con el asfalto mojado."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos el terreno",
+      "body": "Sabemos que el salitre de la playa y las cuestas de Montemar no son leyendas urbanas, son factores reales que afectan a tu coche. Nuestro diagnóstico siempre tiene en cuenta el entorno de Castelldefels."
+    },
+    {
+      "title": "Presupuestos sin sustos",
+      "body": "Te damos un precio cerrado y claro. No empezarás con una cifra para acabar con otra. La transparencia es la base de la confianza, y queremos que vuelvas porque te sientes seguro, no porque no te quede más remedio."
+    },
+    {
+      "title": "Para todas las marcas",
+      "body": "Da igual si tu coche es un SUV alemán, un utilitario francés o un compacto japonés. Tenemos la experiencia y el equipo para trabajar con la mayoría de vehículos que circulan por nuestras calles, sin importar la marca."
+    },
+    {
+      "title": "Tú das el visto bueno",
+      "body": "El coche es tuyo y las decisiones también. No tocamos nada sin tu aprobación explícita. Te explicamos las opciones, los pros y los contras, y tú eliges el camino a seguir. Sin presiones."
+    },
+    {
+      "title": "Más allá de la reparación",
+      "body": "No solo arreglamos lo que está roto. Te aconsejamos sobre cómo un mantenimiento preventivo, adaptado a tu uso particular del coche en Castelldefels, puede ahorrarte dinero y problemas en el futuro."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Estas son algunas situaciones típicas que hemos resuelto, contadas por quienes las vivieron.",
+  "testimonials": [
+    {
+      "name": "Marc",
+      "neighborhood": "Montemar",
+      "car": "Seat Ateca TSI 2018",
+      "body": "Vivimos en la parte alta y mi mujer y yo usamos el mismo coche. Yo para ir a la oficina a Cornellà y ella para moverse por el pueblo. Los frenos empezaron a chirriar una barbaridad. Pensé que sería una fortuna, pero aquí me explicaron que era por el calor de las bajadas. Me cambiaron pastillas y discos por un precio razonable y me dieron un par de consejos. Se nota que saben de lo que hablan.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "La Pineda",
+      "car": "Peugeot 208 HDI 2016",
+      "body": "Aparco en la calle, a dos manzanas de la playa. En la ITV me tiraron para atrás por óxido en los bajos y en los tubos de freno. Un desastre. Les traje el coche, lo sanearon todo, lo protegieron y pasó la inspección sin problemas. Me explicaron el tema del salitre y ahora lo llevo a lavar a menudo por debajo. Un servicio honesto.",
+      "rating": 5
+    },
+    {
+      "name": "Jordi",
+      "neighborhood": "Can Bou",
+      "car": "Ford Focus Ecoboost 2015",
+      "body": "Uso el coche para todo: ir a comprar, llevar a los críos y alguna escapada de fin de semana. Notaba que el embrague patinaba un poco al subir hacia el castillo. Me dieron un presupuesto cerrado, cumplieron el plazo y el coche va como la seda. Además, me ofrecieron un coche de cortesía y no me quedé colgado.",
+      "rating": 5
+    },
+    {
+      "name": "Silvia",
+      "neighborhood": "Centre",
+      "car": "Toyota Yaris Hybrid 2019",
+      "body": "Aunque es híbrido, hacemos bastante autopista para ir a ver a la familia a Tarragona. Me preocupaba el estado de las ruedas. Las revisaron, me dijeron que las de atrás aún aguantaban pero las de delante era mejor cambiarlas. No intentaron venderme las cuatro. Esa honestidad se agradece mucho.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda la zona de Castelldefels, desde los barrios más cercanos a la playa como Lluminetes y La Pineda hasta las zonas residenciales de montaña como Montemar, Bellamar y El Poal. Si vives en el centro, Can Bou o Can Roca, estamos a un paso. Nuestra ubicación nos permite ser el taller de referencia también para los vecinos de las localidades colindantes. Muchos de nuestros clientes vienen de Gavà Mar, por la proximidad y los problemas comunes derivados de la cercanía al mar, así como de Viladecans o Les Botigues de Sitges. Gracias a los accesos directos desde la autovía C-31 y la autopista C-32, llegar a nuestro taller es rápido y sencillo, evitando el tráfico denso del centro del pueblo. También estamos bien conectados a través de la C-245, que vertebra la comunicación con Gavà y Viladecans.",
+  "zoneNeighborhoods": [
+    "Centre",
+    "La Pineda",
+    "Lluminetes",
+    "Can Bou",
+    "Montemar",
+    "Bellamar",
+    "El Poal",
+    "Gavà Mar",
+    "Les Botigues de Sitges",
+    "Viladecans"
+  ],
+  "zoneAccessRoutes": [
+    "C-31 (Autovía de Castelldefels)",
+    "C-32 (Autopista Pau Casals)",
+    "C-245"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿De verdad afecta tanto el salitre del mar si vivo en Castelldefels?",
+      "a": "Sí, y mucho más de lo que parece. La brisa marina transporta partículas de sal que se depositan en tu coche. Aunque no lo veas, acelera la corrosión de los metales, afectando a la carrocería, el chasis, el sistema de escape y, muy importante, a los componentes de los frenos. Un lavado frecuente, especialmente de los bajos, ayuda a mitigarlo, pero una revisión periódica es clave para evitar sorpresas en la ITV y garantizar tu seguridad."
+    },
+    {
+      "q": "Vivo en Montemar y subo y bajo cuestas todo el día, ¿debo revisar los frenos más a menudo?",
+      "a": "Sin ninguna duda. El uso intensivo en pendientes somete a los frenos a un estrés térmico muy elevado. Esto no solo desgasta las pastillas más rápido, sino que puede cristalizarlas (haciendo que pierdan eficacia) y deformar los discos. Recomendamos una revisión del sistema de frenado al menos una vez al año si tu conducción habitual es por esa zona, independientemente de la revisión oficial."
+    },
+    {
+      "q": "Mi coche es diésel y lo uso para trayectos cortos por el pueblo. ¿Es un problema?",
+      "a": "Puede serlo para el filtro de partículas (FAP/DPF). Este sistema necesita alcanzar altas temperaturas durante un tiempo sostenido (como en un trayecto por autopista) para limpiarse. Los trayectos cortos impiden este proceso, causando su obstrucción. Si notas pérdida de potencia o se enciende un testigo, tráelo. Podemos forzar una regeneración o limpiarlo para evitar una sustitución muy costosa."
+    },
+    {
+      "q": "¿Qué tipo de neumáticos recomendáis para el clima y las carreteras de aquí?",
+      "a": "Para Castelldefels, lo ideal es un neumático de tipo 'touring' o de verano de buena calidad. Debe tener un buen rendimiento en seco para el calor del asfalto, pero sobre todo un excelente agarre en mojado. La combinación de humedad, rotondas y asfalto a veces deslizante exige un neumático que evacúe bien el agua. No es necesario un neumático de invierno, pero sí uno que responda bien en los días de lluvia intensa."
+    },
+    {
+      "q": "Vengo de Gavà Mar, ¿es complicado llegar a vuestro taller?",
+      "a": "Al contrario, es muy sencillo. La forma más directa es coger la autovía C-31 dirección Sitges y tomar la salida correspondiente a Castelldefels. Estarás en nuestro taller en pocos minutos sin necesidad de cruzar el centro del pueblo, que es donde se suele concentrar el tráfico, sobre todo en temporada alta."
+    },
+    {
+      "q": "¿Mi coche automático sufre más en las cuestas de Bellamar?",
+      "a": "Sufre de una manera diferente a un coche manual. El componente que más trabaja es el convertidor de par. Si notas que el coche da tirones al cambiar, revoluciona demasiado antes de engranar una marcha o le cuesta arrancar en pendiente, es síntoma de que el aceite de la caja de cambios (ATF) puede estar degradado o el sistema necesita una revisión. Es crucial mantenerlo bien para evitar averías graves."
+    },
+    {
+      "q": "¿Con el calor del verano, es importante revisar el aire acondicionado aunque enfríe?",
+      "a": "Sí. Que enfríe no significa que esté al 100%. Un sistema con poco gas o con el filtro sucio obliga al compresor a trabajar más, lo que aumenta el consumo de combustible y el riesgo de avería. Una revisión y recarga preventiva antes de que llegue el calor fuerte te asegura un verano fresco y te ahorra una posible reparación en el peor momento."
+    },
+    {
+      "q": "Tengo que pasar la ITV pronto, ¿hacéis una revisión pre-ITV específica para los problemas de aquí?",
+      "a": "Totalmente. Nuestra pre-ITV en Castelldefels pone especial atención a los puntos débiles locales: revisamos a fondo la corrosión en los bajos y los latiguillos de freno (por el salitre), el desgaste de la suspensión (por los badenes y rotondas) y el estado de los frenos (por las cuestas). Así te aseguras de ir a la estación de Viladecans con la máxima garantía de pasarla a la primera."
+    }
+  ],
+  "closingHeadline": "Tu coche a punto en Castelldefels",
+  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita para revisar tu coche y darte una solución clara y honesta en Castelldefels."
+}

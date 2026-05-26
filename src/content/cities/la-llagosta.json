@@ -1,0 +1,187 @@
+{
+  "slug": "la-llagosta",
+  "name": "La Llagosta",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 13820,
+  "lat": 41.51435,
+  "lng": 2.19297,
+  "metaTitle": "Taller mecánico en La Llagosta — Para tu coche de diario",
+  "metaDescription": "Mantenimiento y reparación para coches con uso intensivo en La Llagosta y el Vallès. Presupuesto cerrado y diagnóstico honesto. Pide tu cita.",
+  "heroSubtitle": "Si tu coche es tu herramienta de trabajo para ir cada día por la C-17 o la AP-7, no puedes permitirte una avería inesperada.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Vivir en La Llagosta significa entender el coche de una manera muy concreta. No es un capricho de fin de semana, es la herramienta que te permite cruzar el Vallès cada mañana para llegar al trabajo, ya sea en un polígono de Mollet, en las oficinas de Montcada o en el corazón de Barcelona. Sabes que hacer 50, 80 o más de 100 kilómetros diarios no es una exageración, es la norma. Es el peaje diario en la C-17 con sus atascos matutinos, el ritmo constante de la AP-7 o el trayecto más local por la N-152a hacia Parets. Este uso intensivo no es el que contemplan los manuales de usuario. Es un desgaste acelerado que exige un mantenimiento diferente, más previsor. Un coche que hace 25.000 o 30.000 kilómetros al año no es igual que uno que apenas sale del garaje. Lo sabes tú y lo sabemos nosotros.\n\nEl conductor de La Llagosta somete su vehículo a un estrés mecánico muy particular. Por un lado, tienes tramos de autopista a velocidad de crucero que calientan el motor y los neumáticos, pero a menudo se combinan con el tráfico denso y lento al acercarte a los nudos viarios como el de la Trinitat o las entradas a los polígonos industriales del CIM Vallès. Esta alternancia es especialmente dura para los sistemas anticontaminación de los diésel (el famoso filtro de partículas), para los embragues en los coches manuales y para los sistemas de frenado. Además, el clima del Vallès, con veranos muy calurosos que ponen a prueba el sistema de refrigeración y el aire acondicionado, y mañanas de invierno frías y húmedas en la cuenca del Besòs que castigan las baterías y los sistemas de arranque, añade otra capa de exigencia. No es lo mismo mantener un coche en la costa que aquí, en el interior.\n\nEntendemos que cuando tu coche falla, no es solo una molestia. Es un problema logístico y económico serio. Si dependes de él para tu jornada laboral, una avería significa perder horas de trabajo, buscar alternativas de transporte complejas o, directamente, no poder cumplir con tus obligaciones. Por eso, nuestro enfoque no es simplemente reparar lo que se ha roto. Es analizar el porqué, entender tu rutina de conducción y anticiparnos a los fallos que tu tipo de uso va a provocar. Un presupuesto cerrado no es solo una garantía de no llevarte sorpresas con la factura; es una herramienta de planificación para ti. Te permite saber exactamente cuánto te va a costar volver a tener tu coche a punto, sin letra pequeña, para que puedas organizar tu economía sabiendo que ese pilar fundamental de tu día a día es fiable.\n\nPor eso, cuando traes tu coche a nuestro taller en La Llagosta, no vemos solo un motor y cuatro ruedas. Vemos la herramienta de un comercial que visita clientes por todo el Barcelonès, el vehículo de un operario que se desplaza a la Zona Franca o el coche de una persona que trabaja a turnos en un hospital y no puede llegar tarde. Hablamos tu mismo idioma: el de la fiabilidad, el de la prevención y el de la transparencia. Conocemos la diferencia entre un problema urgente que te puede dejar tirado en la C-33 y un desgaste que puede esperar a la próxima revisión. Nuestra misión es que puedas coger tu coche cada mañana en el barrio del Mercat o en la Florida con la total tranquilidad de que te va a llevar a tu destino y te va a traer de vuelta, sin más preocupación que el propio tráfico.",
+  "servicesIntro": "Desde la revisión anual que tu coche necesita por el trote diario hasta la reparación de averías complejas, cubrimos todas las necesidades aquí en La Llagosta.",
+  "processIntro": "Trabajamos con un proceso claro y directo para que siempre sepas qué le pasa a tu coche, cuánto costará y cuándo lo tendrás listo. Sin sorpresas.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos lo que te preocupa y conectamos nuestros equipos de diagnosis para identificar el origen exacto del problema. No dejamos nada al azar, revisamos cada detalle para entender la causa raíz y no solo el síntoma visible."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye mano de obra y piezas, con el IVA desglosado. El importe que ves es el que pagarás, sin extras de última hora. Así puedes decidir con toda la información."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni empezamos a desmontar nada hasta que nos das tu visto bueno explícito. El control lo tienes siempre tú. Si decides no reparar, solo se factura el tiempo de diagnóstico si procede."
+    },
+    {
+      "title": "Reparación",
+      "body": "Usamos recambios de primeras marcas o equivalentes, siempre con garantía. Nuestros mecánicos realizan el trabajo siguiendo las especificaciones del fabricante para asegurar un resultado duradero y fiable, informándote de los plazos en todo momento."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, contactamos contigo para confirmar que todo funciona perfectamente y que estás satisfecho con el resultado."
+    }
+  ],
+  "commonIssuesIntro": "El uso intensivo y las condiciones de conducción en el Vallès provocan una serie de averías recurrentes que vemos cada día en nuestro taller de La Llagosta. Estas son las más comunes.",
+  "commonIssues": [
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "El ciclo de acelerar en la C-17 y frenar bruscamente en los atascos de entrada a Barcelona o en las rotondas de los polígonos es letal para embragues y frenos. Detectamos un desgaste mucho más rápido de lo normal en coches que hacen esta ruta a diario. Realizamos una revisión exhaustiva y usamos componentes reforzados para aumentar su durabilidad."
+    },
+    {
+      "title": "Obstrucción del filtro de partículas (FAP)",
+      "body": "Muchos diésel que circulan por la AP-7 o C-33 no siempre mantienen las condiciones óptimas para la regeneración del FAP, especialmente en trayectos con tráfico variable. Esto provoca tirones y pérdida de potencia. Diagnosticamos el nivel de saturación y aplicamos limpiezas químicas o regeneraciones forzadas para evitar la costosa sustitución."
+    },
+    {
+      "title": "Fallos de climatización por uso extremo",
+      "body": "El calor intenso del Vallès en verano obliga al aire acondicionado a trabajar al máximo durante meses. Esta presión continua, seguida de meses de inactividad en invierno, provoca fugas en el circuito y fallos en el compresor. Verificamos la estanqueidad del sistema y realizamos la carga con el gas correcto, garantizando que enfríe cuando más lo necesitas."
+    },
+    {
+      "title": "Holguras en la suspensión y silentblocks",
+      "body": "Miles de kilómetros por carreteras como la N-152a, junto con los badenes de zonas residenciales de La Llagosta o Santa Perpètua, acaban pasando factura a rótulas, silentblocks y amortiguadores. Un coche con holguras es inestable y devora los neumáticos. Hacemos una revisión completa del tren de rodaje para devolverle la seguridad y el confort."
+    },
+    {
+      "title": "Problemas de arranque en invierno",
+      "body": "Las mañanas frías y húmedas de la ribera del Besòs son una prueba de fuego para las baterías con algunos años. Si el coche duerme en la calle, el arranque se resiente mucho. Comprobamos el estado de la batería y el alternador para evitar que una mañana de camino al trabajo te deje tirado. Es una de las averías más comunes de noviembre a febrero."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Sabemos lo que es el Vallès",
+      "body": "Conocemos tus rutas, el clima y el tipo de desgaste que sufre tu coche. Nuestro consejo mecánico está basado en la realidad de conducir a diario por La Llagosta y sus alrededores, no en teoría."
+    },
+    {
+      "title": "Diagnóstico para planificar",
+      "body": "Te decimos qué es urgente reparar para tu seguridad y qué puede esperar. Te ayudamos a priorizar y planificar los gastos de mantenimiento de tu coche, que es tu herramienta de trabajo."
+    },
+    {
+      "title": "Presupuesto sin asteriscos",
+      "body": "El precio que te damos es el precio final. Para un profesional o un trabajador que depende de su sueldo, la certeza económica es fundamental. Con nosotros la tienes garantizada desde el principio."
+    },
+    {
+      "title": "Recambios que aguantan",
+      "body": "No montamos la pieza más barata, sino la que ofrece la mejor relación entre durabilidad y precio. Para un coche de alto kilometraje, invertir un poco más en un buen componente es ahorrar en futuras averías."
+    },
+    {
+      "title": "Comunicación directa y clara",
+      "body": "Hablamos de tú a tú. Te explicamos las averías en un lenguaje que entiendes, sin tecnicismos innecesarios. El objetivo es que sepas perfectamente qué le pasa a tu coche y por qué lo reparamos."
+    }
+  ],
+  "testimonialsIntro": "Estos son ejemplos de situaciones reales que atendemos cada día, basados en las experiencias de conductores como tú en nuestra zona.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Centre",
+      "car": "Seat León ST TDI 2016",
+      "body": "Soy comercial y hago unos 120 km al día por toda la provincia. El coche empezó a dar tirones y a mostrar el aviso de 'fallo motor'. Pensé que era algo grave. Aquí me diagnosticaron un problema con el filtro de partículas por no poder regenerar bien en los atascos de las rondas. Me hicieron una limpieza y me dieron consejos para evitarlo. Un alivio, porque el coche es mi oficina.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Barri la Florida",
+      "car": "Peugeot 208 Gasolina 2018",
+      "body": "Trabajo en un hospital en Barcelona y cojo el coche a las 6 de la mañana. Una mañana de invierno no arrancó. La batería había muerto por el frío. Llamé y me gestionaron la asistencia súper rápido. Me pusieron una batería de buena marca y revisaron el alternador para asegurarse de que cargaba bien. Para mí, que no puedo llegar tarde, esa eficiencia fue clave.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Santa Perpètua de Mogoda",
+      "car": "Ford Focus 1.0 EcoBoost 2015",
+      "body": "Notaba que al frenar fuerte en la C-59 el coche vibraba. Me tocaba la ITV y no quería sorpresas. Me confirmaron que los discos de freno delanteros estaban alabeados por el calor y el uso. Me dieron un presupuesto cerrado, lo acepté y en el mismo día lo tenía listo con su pre-ITV pasada. Pasé la ITV en Sabadell sin ningún fallo. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Mollet del Vallès",
+      "car": "Renault Clio dCi 2014",
+      "body": "Me tocaba hacer la distribución y pedí varios presupuestos. Aquí no eran los más baratos por muy poco, pero sí los que me dieron más confianza. Me explicaron que en la distribución cambian también la bomba de agua por prevención, algo que otros no incluían en el precio inicial. Prefiero pagar un poco más y saber que el trabajo está bien hecho, sobre todo haciendo tantos kilómetros.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller da servicio principalmente a conductores de La Llagosta y las localidades más cercanas del Vallès Oriental y Occidental. Si vives o trabajas en municipios como Santa Perpètua de Mogoda, Mollet del Vallès, Montcada i Reixac o Martorelles, estamos en una ubicación estratégica para ti. Entendemos perfectamente la dinámica de movilidad de la zona, marcada por el uso intensivo de vías rápidas. Tienes un acceso muy cómodo a nuestras instalaciones desde las principales arterias que vertebran la comarca, como la C-17 (autovía de Vic), la autopista AP-7, el conector C-33 hacia Barcelona y la carretera nacional N-152a, que sigue siendo una vía fundamental para los desplazamientos entre municipios. Estamos preparados para ser tu taller de confianza si tu día a día transcurre sobre el asfalto de estas carreteras.",
+  "zoneNeighborhoods": [
+    "La Llagosta Centre",
+    "Barri la Florida",
+    "Can Xiquet",
+    "Santa Perpètua de Mogoda",
+    "Mollet del Vallès",
+    "Montcada i Reixac",
+    "Mas Rampinyo",
+    "Martorelles",
+    "Polígon de la Llagosta",
+    "CIM Vallès"
+  ],
+  "zoneAccessRoutes": [
+    "C-17",
+    "AP-7",
+    "C-33",
+    "N-152a",
+    "C-59"
+  ],
+  "faqLocal": [
+    {
+      "q": "Hago 80 km diarios por la C-17, ¿con qué frecuencia debo revisar los frenos?",
+      "a": "Para un uso tan intensivo con tramos de tráfico denso, te recomendamos una inspección visual de pastillas y discos cada 10.000 km, en lugar de los 15.000 o 20.000 km habituales. No esperes a la revisión anual. Este tipo de conducción genera un desgaste muy superior al promedio, y la seguridad en la frenada es lo primero, especialmente en los accesos a Barcelona."
+    },
+    {
+      "q": "Mi diésel es de 2016. ¿Cómo puedo evitar problemas con el filtro de partículas en los atascos diarios?",
+      "a": "Es el gran problema de los diésel modernos en nuestra zona. Intenta, al menos una vez por semana, conducir durante unos 15-20 minutos por autopista (AP-7 o un tramo despejado de la C-17) a un régimen constante por encima de las 2.500 rpm. Esto ayuda a que el filtro alcance la temperatura para regenerarse. Evita también los trayectos ultracortos dentro de La Llagosta."
+    },
+    {
+      "q": "Para hacer tantos kilómetros al año, ¿merece la pena invertir en neumáticos de primera marca?",
+      "a": "Absolutamente. La diferencia en agarre, especialmente en mojado, y en durabilidad es enorme. Un neumático premium puede hacer entre 10.000 y 15.000 km más que uno de bajo coste, con mayor seguridad. Para un conductor del Vallès, que combina autopista seca en verano con asfalto húmedo en invierno, es una inversión en seguridad y, a la larga, en ahorro."
+    },
+    {
+      "q": "Vivo en La Llagosta pero trabajo en el CIM Vallès, ¿tenéis coche de cortesía si la reparación dura más de un día?",
+      "a": "Sí, disponemos de vehículos de cortesía para nuestros clientes. Entendemos que no puedes quedarte sin transporte. Es un servicio muy demandado, por lo que te recomendamos solicitarlo al pedir tu cita para asegurar su disponibilidad, especialmente si se trata de reparaciones largas como un embrague o una distribución."
+    },
+    {
+      "q": "El aire acondicionado de mi coche enfría poco en agosto. ¿Siempre es una simple recarga de gas?",
+      "a": "No siempre. Con el calor extremo del Vallès, es habitual que aparezcan pequeñas fugas en el circuito por la dilatación de los materiales. Antes de recargar, siempre realizamos una prueba de estanqueidad con nitrógeno y un colorante de contraste. Recargar un sistema con fugas es tirar el dinero y contaminar, por eso primero nos aseguramos de que el circuito esté sellado."
+    },
+    {
+      "q": "Tengo que pasar la ITV en la estación de Sant Cugat, ¿qué puntos clave revisáis en la pre-ITV para un coche con mucho uso?",
+      "a": "Además de lo básico (luces, neumáticos, frenos), en coches de alto kilometraje como el tuyo nos centramos en las holguras de suspensión y dirección (rótulas, silentblocks), que sufren mucho en nuestras carreteras. También hacemos una prueba de opacidad de humos muy exhaustiva, ya que los diésel con muchos kilómetros pueden dar problemas. Es la mejor forma de ir a la primera."
+    },
+    {
+      "q": "Con los cambios de temperatura del Vallès, ¿qué tipo de aceite es mejor para mi motor?",
+      "a": "Lo más importante es respetar siempre la viscosidad y especificación que marca el fabricante de tu coche (ej. 5W-30 con norma VW 507.00). Dicho esto, para el clima de aquí, es crucial usar un aceite sintético de buena calidad. Protege mejor el motor tanto en los arranques en frío del invierno como con las altas temperaturas del verano en un atasco en la AP-7."
+    }
+  ],
+  "closingHeadline": "Tu coche a punto en La Llagosta",
+  "closingCta": "Si tu coche es tu compañero de trabajo diario, se merece el mejor cuidado. Pide tu cita por teléfono, WhatsApp o email y descubre una forma más clara y honesta de mantenerlo. Te esperamos en La Llagosta."
+}

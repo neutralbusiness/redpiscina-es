@@ -1,0 +1,182 @@
+{
+  "slug": "sitges",
+  "name": "Sitges",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 27668,
+  "lat": 41.23506,
+  "lng": 1.81193,
+  "metaTitle": "Taller mecánico en Sitges — Multimarca y de confianza",
+  "metaDescription": "Tu taller mecánico en Sitges para revisiones, averías y neumáticos. Presupuesto cerrado y garantía. Pide cita para tu coche, sea cual sea la marca.",
+  "heroSubtitle": "Cansado de dar vueltas por Sitges para encontrar un taller honesto para tu coche? Aquí tienes un precio cerrado y sin sorpresas.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Si conduces por Sitges, sabes que tu coche no tiene una vida fácil. No es lo mismo usarlo solo para bajar a la playa de Sant Sebastià que hacer cada día el trayecto a Barcelona por la C-32. Entendemos perfectamente la diferencia. Conocemos el desgaste que supone subir las cuestas de Vallpineda o Quintmar a diario, el castigo para el embrague en el atasco veraniego del Passeig de la Ribera, o la tensión en la suspensión al disfrutar de las curvas de la carretera de las Costas, la C-31, hacia Castelldefels. Por eso, nuestro enfoque no es genérico; es local.\n\nEl parque automovilístico de Sitges es tan diverso como sus habitantes. Vemos desde el SEAT Ibiza o el Peugeot 208 que se mueve por el Poble Sec y el centro, hasta el Audi Q5 o el BMW X3 que necesita estar impecable para el trabajo, pasando por el Volkswagen Golf que es el coche para todo de una familia en Terramar. Seas quien seas y conduzcas lo que conduzcas, tu coche se enfrenta a un enemigo silencioso: el salitre. La brisa marina, tan agradable en verano, es corrosiva para la carrocería, los bajos, los conductos de freno y los componentes electrónicos. A esto se suma el sol intenso, que castiga la pintura, los plásticos interiores y acelera el envejecimiento de los neumáticos.\n\nEntendemos que tus necesidades cambian. Quizás eres un profesional autónomo que depende de su furgoneta para trabajar en Vilanova i la Geltrú o Sant Pere de Ribes y no puedes permitirte tenerla parada. O tal vez usas el coche principalmente los fines de semana para escapadas por el Penedès. El uso que le das a tu vehículo en la comarca del Garraf determina su mantenimiento. El tráfico intermitente del verano fuerza los sistemas de refrigeración y aire acondicionado, mientras que los trayectos cortos por el pueblo pueden obstruir los filtros de partículas de los coches diésel más modernos.\n\nPor todo esto, nuestro taller en Sitges va más allá de una simple reparación. Ofrecemos un mantenimiento preventivo pensado para el conductor de aquí. Diagnosticamos problemas antes de que se conviertan en averías caras, te asesoramos sobre el cuidado específico que tu coche necesita por vivir junto al mar y te damos la tranquilidad de saber que está en manos de profesionales que conocen tu entorno. No importa si tienes un coche con 15 años o uno casi nuevo; nuestro compromiso es la transparencia, un presupuesto cerrado y un trabajo bien hecho para que sigas disfrutando de las carreteras del Garraf con total seguridad.",
+  "servicesIntro": "Desde la revisión anual para pasar la ITV sin nervios hasta solucionar esa avería compleja que te ha dejado tirado, cubrimos todas las necesidades de tu coche en Sitges.",
+  "processIntro": "Creemos en la transparencia. Te explicamos cada paso, te damos un presupuesto cerrado por adelantado y nunca, nunca, hacemos nada sin tu permiso explícito.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Cuando traes tu coche, primero te escuchamos. Luego, nuestros técnicos utilizan equipos de diagnosis modernos para identificar con precisión el origen del problema, ya sea un ruido extraño o un testigo encendido en el cuadro."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin compromiso. Te lo enviamos por WhatsApp o email para que lo revises con calma. El precio que ves es el que pagarás, sin sorpresas de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos ni un tornillo sin tu visto bueno. Solo cuando nos das tu confirmación, nuestro equipo se pone manos a la obra. Tú siempre tienes el control sobre la reparación y el gasto."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía para asegurar una reparación duradera y fiable. Te mantenemos informado sobre el progreso y los plazos para que sepas cuándo volverás a tener tu coche a punto."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Al recoger tu coche, te explicamos en detalle el trabajo realizado. Unos días más tarde, te llamamos para confirmar que todo funciona a la perfección y estás completamente satisfecho con el servicio."
+    }
+  ],
+  "commonIssuesIntro": "El clima de Sitges, el tráfico veraniego y los trayectos habituales por la C-32 y las Costas del Garraf provocan una serie de averías muy características en los coches de la zona.",
+  "commonIssues": [
+    {
+      "title": "Corrosión por el ambiente salino",
+      "body": "La brisa marina de Sitges es implacable. Acelera la oxidación de los bajos del coche, las líneas de freno y escape, y sulfata las conexiones eléctricas. Si aparcas cerca del paseo o en Aiguadolç, el riesgo es mayor. Realizamos inspecciones y aplicamos tratamientos preventivos para proteger tu vehículo de este enemigo invisible."
+    },
+    {
+      "title": "Desgaste prematuro de embrague y frenos",
+      "body": "Las calles empinadas de urbanizaciones como Levantina o Vallpineda, junto con el constante arranca-para del centro en verano, suponen un castigo severo para el embrague y los frenos. Si notas que el pedal del embrague está duro o los frenos chirrían, es hora de una revisión para evitar una avería mayor."
+    },
+    {
+      "title": "Fallos en el sistema de Aire Acondicionado",
+      "body": "De mayo a octubre, el aire acondicionado trabaja sin descanso. El calor extremo fuerza el compresor y puede provocar fugas de gas. Nos especializamos en la diagnosis y recarga del sistema para que no te quedes 'tirado' por el calor en plena C-32 en un día de agosto."
+    },
+    {
+      "title": "Filtros de partículas (DPF) obstruidos",
+      "body": "Es un problema clásico en los diésel que hacen muchos trayectos cortos por Sitges sin salir a carretera. El filtro no alcanza la temperatura para autolimpiarse y se obstruye. Antes de que tengas que cambiarlo (una reparación muy cara), podemos forzar una regeneración o realizar una limpieza profesional."
+    },
+    {
+      "title": "Desgaste de suspensión y neumáticos",
+      "body": "La carretera de las Costas (C-31) es una prueba de fuego para la estabilidad del coche. Sus curvas y asfalto a veces irregular castigan amortiguadores, silentblocks y neumáticos. Un correcto alineado y la revisión de la suspensión son claves para tu seguridad en esta ruta tan nuestra."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos los coches de aquí",
+      "body": "Sabemos lo que sufre un coche en Sitges. Desde el salitre hasta las cuestas, entendemos los problemas locales y cómo prevenirlos. Somos especialistas multimarca, tratamos igual de bien un utilitario que un coche de alta gama."
+    },
+    {
+      "title": "Presupuestos sin sorpresas",
+      "body": "La honestidad es la base de nuestro trabajo. Recibirás un presupuesto detallado y cerrado antes de cualquier intervención. El precio que aceptas es el precio que pagas. Así de simple, así de transparente."
+    },
+    {
+      "title": "Garantía en cada trabajo",
+      "body": "Todas nuestras reparaciones y los recambios que utilizamos están garantizados por escrito. Queremos que conduzcas con total tranquilidad, sabiendo que tu coche está en las mejores manos y el trabajo está bien hecho."
+    },
+    {
+      "title": "Diagnóstico, no adivinación",
+      "body": "Invertimos en equipos de diagnosis de última generación para encontrar la causa real de la avería. No cambiamos piezas 'a ver si suena la flauta', lo que te ahorra tiempo y, sobre todo, dinero."
+    },
+    {
+      "title": "Estamos a tu lado",
+      "body": "Ofrecemos un trato cercano y profesional. Te explicamos las cosas de forma que las entiendas, sin tecnicismos innecesarios. Para nosotros, no eres una matrícula, eres un vecino."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que solucionamos cada día en nuestro taller. Los nombres son ficticios, pero los problemas y la satisfacción son muy reales.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Poble Sec",
+      "car": "SEAT Ateca 1.5 TSI 2019",
+      "body": "Vivo en Poble Sec y uso el coche para todo. El embrague empezó a patinar por las cuestas. Me dieron un presupuesto rápido, más barato que en el concesionario oficial, y en dos días lo tenía listo. Súper profesionales y cercanos, se nota que saben lo que hacen.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Aiguadolç",
+      "car": "MINI Cooper 2016",
+      "body": "El coche está siempre aparcado cerca del puerto de Aiguadolç y empezó a dar fallos eléctricos raros. Pensé que sería una fortuna. Lo revisaron y era un conector sulfatado por la humedad. Lo limpiaron y protegieron por muy poco. Su honestidad me ahorró un dineral.",
+      "rating": 5
+    },
+    {
+      "name": "Marc",
+      "neighborhood": "Quintmar",
+      "car": "Ford Focus 2.0 TDCI 2015",
+      "body": "Hago Sitges-Barcelona cada día por la C-32. Me saltó el aviso del filtro de partículas. En otros sitios me decían de cambiarlo, una pasta. Aquí me hicieron una regeneración forzada y limpieza. Me solucionaron el problema y me explicaron cómo evitarlo. Impecable.",
+      "rating": 5
+    },
+    {
+      "name": "Sarah",
+      "neighborhood": "Vallpineda",
+      "car": "VW Golf TDI 2014",
+      "body": "Tenía la ITV y no estaba segura de si pasaría por los frenos, que chirriaban un poco. Les pedí una revisión pre-ITV. Me cambiaron las pastillas delanteras a un precio razonable y pasó sin problemas. Me quitaron un peso de encima. Muy buen servicio.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Sitges da servicio a todo el municipio, desde el centro hasta las urbanizaciones más alejadas. Si vives en Terramar, Vinyet, Can Pei o subes a diario a Levantina, Quintmar o Vallpineda, estamos muy cerca de ti. Además, somos el taller de confianza para muchos conductores de Sant Pere de Ribes, Vilanova i la Geltrú e incluso Olivella que buscan un servicio profesional y honesto. Llegar es muy fácil, tanto si vienes por la carretera de las Costas (C-31) como si accedes desde la salida de la autopista C-32.",
+  "zoneNeighborhoods": [
+    "Aiguadolç",
+    "Poble Sec",
+    "Terramar",
+    "Vinyet",
+    "Quintmar",
+    "Levantina",
+    "Vallpineda",
+    "Can Pei",
+    "Sant Pere de Ribes",
+    "Vilanova i la Geltrú"
+  ],
+  "zoneAccessRoutes": [
+    "C-32",
+    "C-31",
+    "C-15B",
+    "BV-2111"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Realizáis algún tratamiento contra el salitre de la costa?",
+      "a": "Sí, es uno de nuestros servicios más demandados en Sitges. Ofrecemos inspecciones de los bajos del vehículo y aplicamos productos anticorrosión específicos para proteger el chasis, el sistema de escape y los conductos de freno. También revisamos y protegemos las conexiones eléctricas para prevenir los típicos fallos causados por la humedad salina."
+    },
+    {
+      "q": "Mi coche diésel solo hace trayectos cortos por el pueblo, ¿es malo?",
+      "a": "Puede ser un problema para el filtro de partículas (FAP/DPF), que necesita carretera para regenerarse. Si solo te mueves por Sitges, es probable que se obstruya. Si notas pérdida de potencia o tirones, tráelo. Podemos forzar una regeneración o limpiarlo, una solución mucho más económica que sustituirlo."
+    },
+    {
+      "q": "Conduzco a diario por la carretera de las Costas (C-31), ¿qué debería revisar?",
+      "a": "Esa carretera es muy exigente con la suspensión y los neumáticos. Te recomendamos revisar el estado de los amortiguadores y la alineación de la dirección al menos una vez al año. Unos neumáticos en buen estado y con la presión correcta son vitales para tu seguridad en las curvas del Garraf."
+    },
+    {
+      "q": "¿Hacéis mantenimiento de cajas de cambio automáticas?",
+      "a": "Por supuesto. Cada vez son más comunes en Sitges y su mantenimiento es crucial, sobre todo con las cuestas y el tráfico local. Realizamos el cambio de aceite (ATF) y filtro de la caja según las especificaciones del fabricante para asegurar su correcto funcionamiento y alargar su vida útil."
+    },
+    {
+      "q": "En verano mi aire acondicionado no enfría como antes, ¿tiene solución?",
+      "a": "Es la consulta estrella de cada verano en Sitges. Puede ser una simple recarga de gas, pero también una pequeña fuga en el circuito o un fallo del compresor. Hacemos una diagnosis completa del sistema de climatización, encontramos el problema y te damos un presupuesto cerrado para que vuelvas a conducir fresco."
+    },
+    {
+      "q": "Soy de Sant Pere de Ribes, ¿por qué debería bajar a vuestro taller?",
+      "a": "Muchos de nuestros clientes más fieles son de Sant Pere de Ribes y Vilanova. Vienen porque valoran la transparencia de nuestros presupuestos, la calidad de las reparaciones y el trato directo. Saben que entendemos los problemas de los coches de la comarca del Garraf. El trayecto es de solo unos minutos y la tranquilidad que ganas, para siempre."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Sitges",
+  "closingCta": "No dejes que una avería te complique la vida. Pide tu presupuesto cerrado para tu coche en Sitges. Llámanos o escríbenos por WhatsApp y te atenderemos sin compromiso."
+}

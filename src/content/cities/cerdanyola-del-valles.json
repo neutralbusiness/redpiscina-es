@@ -1,0 +1,185 @@
+{
+  "slug": "cerdanyola-del-valles",
+  "name": "Cerdanyola del Vallès",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 58747,
+  "lat": 41.49109,
+  "lng": 2.14079,
+  "metaTitle": "Taller mecánico en Cerdanyola del Vallès | Especialistas en híbridos",
+  "metaDescription": "Taller multimarca en Cerdanyola del Vallès. Expertos en coches híbridos, eléctricos y de combustión. Pide tu presupuesto cerrado y sin sorpresas hoy.",
+  "heroSubtitle": "El motor de tu híbrido se enciende más de la cuenta por la C-58 y no sabes si es normal. Necesitas un taller en Cerdanyola que hable tu idioma.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Cerdanyola del Vallès ya no es la misma de hace veinte años. Cada mañana, el paisaje sonoro del municipio cambia. El murmullo de los motores diésel que arrancan en barrios como Fontetes o Serraparera para enfilar la N-150 hacia Barberà, se mezcla cada vez más con el silencio casi absoluto de los coches híbridos y eléctricos que salen de las zonas residenciales de Bellaterra o las promociones nuevas cerca del Parc Tecnològic del Vallès. Este contraste define la nueva realidad de la automoción en nuestra ciudad. Un parque móvil que envejece por un lado, con coches que han recorrido mil veces la C-58 hacia Barcelona, y por otro, una flota que se electrifica a un ritmo acelerado, impulsada por el ecosistema de la UAB y el Sincrotró Alba. Un Peugeot 308 de 2010 tiene necesidades muy distintas a un Kia Niro de 2022, y nosotros entendemos ambas realidades porque las vemos a diario.\n\nEl conductor de Cerdanyola es único. No es lo mismo usar el coche solo los fines de semana para subir a Collserola, que hacer cada día el trayecto Cerdanyola-Sant Cugat por la AP-7. El tráfico denso, las cuestas pronunciadas hacia el Turó de Sant Pau y el constante 'para y arranca' de la vida urbana ponen a prueba la mecánica de formas muy concretas. En un híbrido, esto se traduce en un uso intensivo del sistema de frenada regenerativa y constantes cambios entre el motor eléctrico y el de combustión. En un diésel con ciertos años, significa un filtro de partículas que sufre por no poder regenerar correctamente en trayectos cortos al Mercadona o al CAP. El clima del Vallès, con veranos que superan los 35°C e inviernos fríos y húmedos, añade otra capa de complejidad, afectando desde la salud de la batería de alto voltaje de un eléctrico hasta la eficiencia del aire acondicionado en un coche de gasolina.\n\nEntender este cambio generacional en el parque móvil es nuestra clave. No se trata solo de tener la máquina de diagnosis más moderna; se trata de saber qué preguntar. Cuando un cliente nos dice que su Toyota C-HR 'hace un ruido raro al frenar suave', sabemos que puede no ser un problema de pastillas, sino del actuador del sistema de frenado electrónico. Cuando alguien con un SEAT León TDI nos comenta que 'le falta potencia al subir hacia Flor de Maig', nuestra primera sospecha recae sobre la válvula EGR o el turbo, componentes castigados por la conducción local. Este conocimiento profundo del coche y su entorno en Cerdanyola nos permite ir más allá del simple cambio de piezas. Nos permite anticipar problemas, aconsejar sobre el uso y, en definitiva, dar un servicio que un taller genérico no puede ofrecer.\n\nPor eso, nuestro enfoque es claro: somos un taller para la Cerdanyola de hoy y la de mañana. Estamos equipados y formados para realizar el mantenimiento completo de un coche eléctrico, revisar el complejo sistema híbrido de un Toyota o un Lexus, y a la vez, hacerle la distribución a un Renault Clio de 2008 con la misma precisión y garantía. No importa si vives en el Centre-Cordelles y usas el coche para todo, o en Montflorit y solo lo coges para ir a Barcelona. Tu vehículo es una herramienta esencial en el día a día del Vallès, y necesita un taller que entienda tanto de su mecánica y electrónica como del asfalto que pisa cada día.",
+  "servicesIntro": "Desde la revisión de un coche eléctrico hasta el cambio de embrague de un diésel, cubrimos todas las necesidades de tu vehículo en Cerdanyola.",
+  "processIntro": "Trabajamos con un proceso transparente de 5 pasos para que siempre sepas qué le pasa a tu coche y cuánto te va a costar, sin sorpresas.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico",
+      "body": "Escuchamos el problema y conectamos nuestros equipos de diagnosis a tu coche. Verificamos tanto los sistemas mecánicos tradicionales como la electrónica del sistema híbrido o la gestión de la batería para encontrar la causa raíz."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye mano de obra y piezas, explicando claramente qué es necesario reparar y por qué. El precio que ves es el que pagas, sin extras inesperados."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No pedimos ni una sola pieza ni desmontamos nada sin tu confirmación explícita. Revisas el presupuesto con calma y nos das luz verde. Tú tienes el control total sobre la reparación en todo momento."
+    },
+    {
+      "title": "Reparación",
+      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros técnicos, formados en las últimas tecnologías de hibridación y electrificación, se encargan de la reparación siguiendo los estándares del fabricante para asegurar un trabajo bien hecho."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario del coche por Cerdanyola y el Vallès, con su tráfico y clima, provoca averías muy específicas, sobre todo en la nueva generación de coches híbridos y eléctricos.",
+  "commonIssues": [
+    {
+      "title": "Fallos en la batería de 12V de coches híbridos",
+      "body": "Aunque tu coche sea híbrido, sigue usando una batería de 12V para arrancar el sistema. Los trayectos cortos por Cerdanyola y el calor del verano en el Vallès la degradan prematuramente, provocando que el coche no 'despierte'. Realizamos comprobaciones del sistema de carga y la salud de esta batería para evitar que te deje tirado."
+    },
+    {
+      "title": "Refrigeración de la batería de alto voltaje y el inversor",
+      "body": "El calor extremo del verano y el tráfico lento en la C-58 ponen a prueba el sistema que refrigera los componentes eléctricos. Un mantenimiento deficiente de este circuito puede reducir la vida útil de la batería o causar averías caras. Lo revisamos y mantenemos para garantizar un rendimiento óptimo."
+    },
+    {
+      "title": "Obstrucción del Filtro de Partículas (DPF) en diésel",
+      "body": "Es el problema clásico del conductor de Cerdanyola que trabaja en Barcelona o alrededores. Los trayectos por la AP-7 o C-58 con atascos impiden que el DPF se regenere bien, causando pérdida de potencia y averías. Ofrecemos diagnosis y soluciones de limpieza profesional para evitar su sustitución."
+    },
+    {
+      "title": "Desgaste irregular de neumáticos y suspensión",
+      "body": "La combinación de rotondas, los miles de badenes en barrios como Serraparera o Guiera, y el firme a veces irregular, castiga la suspensión y la alineación. Esto provoca un desgaste prematuro y anómalo de los neumáticos. Hacemos una revisión completa y alineación precisa para alargar su vida útil."
+    },
+    {
+      "title": "Problemas en sistemas de frenado electrónico (ECB)",
+      "body": "Los híbridos usan frenada regenerativa, por lo que las pastillas duran más. Sin embargo, los actuadores y bombas del sistema electrónico son complejos y pueden fallar. Un diagnóstico erróneo lleva a cambiar piezas innecesarias. Nosotros sabemos identificar y reparar el origen del problema en estos sistemas."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Expertos en la transición",
+      "body": "Entendemos la mecánica de un diésel de 2007 y la electrónica de un híbrido de 2023. Estamos formados para diagnosticar y reparar ambas generaciones de vehículos que conviven en Cerdanyola."
+    },
+    {
+      "title": "Diagnóstico, no 'cambiapiezas'",
+      "body": "Invertimos tiempo en encontrar la causa real del problema. No cambiamos piezas 'a ver si suena la flauta'. Ahorras dinero y ganas en fiabilidad."
+    },
+    {
+      "title": "Comunicación clara y directa",
+      "body": "Te explicamos las cosas sin tecnicismos que no entiendas. Si quieres, te enviamos fotos o vídeos del proceso por WhatsApp para que veas qué le pasa a tu coche."
+    },
+    {
+      "title": "Conocimiento local real",
+      "body": "Sabemos cómo afecta a tu coche el tráfico de la N-150, el clima del Vallès o el tipo de calles de tu barrio en Cerdanyola. Usamos ese conocimiento para un mejor diagnóstico."
+    },
+    {
+      "title": "Garantía en todo lo que hacemos",
+      "body": "Todas nuestras reparaciones y piezas tienen garantía por escrito. Tu tranquilidad es lo primero. Confía en un trabajo bien hecho y respaldado."
+    }
+  ],
+  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que nos encontramos cada día en nuestro taller de Cerdanyola.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "Bellaterra",
+      "car": "Tesla Model 3 2021",
+      "body": "Empecé a oír un 'clonck' en la suspensión delantera al pasar por los badenes de mi urbanización. En otros sitios no daban con la tecla, pero aquí enseguida identificaron un problema en un brazo de la suspensión. Me dieron presupuesto cerrado, lo acepté y en un día lo tenía listo. Saben de eléctricos.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "Fontetes",
+      "car": "Toyota Yaris Hybrid 2018",
+      "body": "Me tocaba la revisión anual y notaba que el coche gastaba un poco más de gasolina. Además del mantenimiento normal, hicieron una diagnosis completa del sistema híbrido y vieron que el filtro de la batería estaba muy sucio, algo típico por el polvo de la zona. Ahora va mucho más fino. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Marc",
+      "neighborhood": "Serraparera",
+      "car": "VW Golf TDI 2016",
+      "body": "Trabajo en Barberà y el coche se puso en modo de emergencia. Me dijeron que era el filtro de partículas. Me explicaron por qué pasaba por mis trayectos cortos y me ofrecieron una limpieza en vez de cambiarlo, que era una pasta. Me ahorraron un buen dinero y el coche va perfecto. Un 10.",
+      "rating": 5
+    },
+    {
+      "name": "Carla",
+      "neighborhood": "Vila Universitària (UAB)",
+      "car": "Peugeot 208 2015",
+      "body": "Tenía que pasar la ITV y estaba nerviosa porque el coche es de segunda mano. Lo traje para una pre-ITV. Le encontraron un silentblock roto y una luz de freno que no iba. Lo arreglaron súper rápido y a un precio razonable para una estudiante. La ITV la pasé a la primera. ¡Gracias!",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Damos servicio a toda Cerdanyola del Vallès y sus alrededores. Tanto si tu coche duerme en un garaje de Bellaterra como si aparca en las calles de Serraparera o Fontetes, estamos cerca de ti. Nuestra ubicación es de fácil acceso para los conductores que vienen de municipios colindantes como Ripollet, Montcada i Reixac o Barberà del Vallès, utilizando vías rápidas como la AP-7 y la C-58. También cubrimos las necesidades de los profesionales y estudiantes que se mueven a diario por el Parc Tecnològic del Vallès, el Sincrotró Alba y el campus de la UAB. Si vives o trabajas en la zona, somos tu taller de confianza.",
+  "zoneNeighborhoods": [
+    "Cerdanyola Centre-Cordelles",
+    "Serraparera",
+    "Fontetes",
+    "Bellaterra",
+    "Montflorit",
+    "Guiera",
+    "Canaletes",
+    "Ripollet",
+    "Barberà del Vallès"
+  ],
+  "zoneAccessRoutes": [
+    "AP-7",
+    "B-30",
+    "C-58",
+    "N-150"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Estáis preparados para el mantenimiento de un coche híbrido o eléctrico en Cerdanyola?",
+      "a": "Totalmente. Contamos con técnicos en constante formación y el equipo de diagnosis específico para vehículos electrificados. Entendemos las particularidades de estos coches, desde la revisión del sistema de baterías de alto voltaje hasta el mantenimiento de los circuitos de refrigeración específicos que tanto sufren con el calor del Vallès."
+    },
+    {
+      "q": "Vivo en Bellaterra y uso poco el coche, ¿qué mantenimiento especial necesita mi híbrido?",
+      "a": "Es una consulta muy común. El principal riesgo es la degradación de la batería de 12V, que se descarga si no se usa el coche. Además, los fluidos como el líquido de frenos se degradan por tiempo, no por kilómetros. Te recomendamos una revisión anual para comprobar estos puntos y asegurar que todo está en orden, aunque hagas pocos kilómetros."
+    },
+    {
+      "q": "Trabajo en el Parc de l'Alba y mi diésel me da problemas de humos, ¿es por los trayectos cortos?",
+      "a": "Es muy probable. El trayecto desde muchos barrios de Cerdanyola al Parc de l'Alba es demasiado corto para que un motor diésel moderno, sobre todo con filtro de partículas (DPF), alcance su temperatura óptima. Esto provoca carbonilla y obstrucciones. Podemos diagnosticarlo y recomendarte desde una limpieza hasta pautas de conducción para evitarlo."
+    },
+    {
+      "q": "La ITV en Cerdanyola es exigente, ¿la pre-ITV que ofrecéis cubre los nuevos tests para híbridos?",
+      "a": "Sí. Nuestra pre-ITV es exhaustiva y está actualizada. Para los híbridos, no solo revisamos los puntos de seguridad comunes (frenos, luces, neumáticos), sino que también conectamos el ordenador para verificar que no haya códigos de error en el sistema híbrido que puedan ser motivo de rechazo. Así vas a la estación de la C-58 con total tranquilidad."
+    },
+    {
+      "q": "¿Ofrecéis coche de cortesía si tengo que dejar el mío y vivo en Ripollet o Barberà?",
+      "a": "Sí, disponemos de coches de cortesía bajo disponibilidad. Entendemos que muchos de nuestros clientes vienen de municipios cercanos y necesitan seguir moviéndose. Lo mejor es que lo solicites al pedir tu cita para poder reservarte uno y que la reparación de tu coche no te suponga un trastorno."
+    },
+    {
+      "q": "Con el calor del verano en el Vallès, ¿debo revisar algo específico en mi coche eléctrico?",
+      "a": "El calor es el principal enemigo de las baterías. Es crucial que el sistema de refrigeración de la batería de tu coche eléctrico funcione perfectamente. Una revisión antes del verano para comprobar el nivel y estado del líquido refrigerante, y el funcionamiento de los ventiladores, puede prevenir averías graves y alargar la vida de la batería."
+    },
+    {
+      "q": "Se ha encendido un testigo naranja en el cuadro de mi coche nuevo, ¿es grave?",
+      "a": "Un testigo naranja indica una anomalía que no suele ser de extrema gravedad, pero que no debe ignorarse, especialmente en coches modernos llenos de electrónica. Puede ser desde un sensor hasta un problema en el sistema híbrido. Lo correcto es hacer un diagnóstico cuanto antes para evitar que el problema vaya a más y la reparación sea más costosa."
+    }
+  ],
+  "closingHeadline": "Tu coche, a punto en Cerdanyola",
+  "closingCta": "Pide tu cita y recibe un presupuesto cerrado para la reparación o el mantenimiento de tu coche. Llámanos o escríbenos por WhatsApp y te atenderemos sin compromiso. Confía en los especialistas de Cerdanyola del Vallès."
+}

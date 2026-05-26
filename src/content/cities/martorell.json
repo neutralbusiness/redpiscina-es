@@ -1,0 +1,186 @@
+{
+  "slug": "martorell",
+  "name": "Martorell",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 27850,
+  "lat": 41.47402,
+  "lng": 1.93062,
+  "metaTitle": "Taller mecánico en Martorell para híbridos y eléctricos",
+  "metaDescription": "Mecánica especializada en Martorell para tu coche híbrido o eléctrico. Diagnóstico, baterías y mantenimiento con presupuesto cerrado. Pide tu cita.",
+  "heroSubtitle": "Tu coche eléctrico o híbrido merece la misma experiencia y conocimiento que ha movido Martorell durante décadas. Sin sorpresas, con total transparencia.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Multimarca y especialista en electrificados"
+    },
+    {
+      "icon": "💬",
+      "text": "Te llamamos antes de tocar nada"
+    },
+    {
+      "icon": "🚗",
+      "text": "Coche de cortesía*"
+    },
+    {
+      "icon": "✅",
+      "text": "Pre-ITV incluida"
+    }
+  ],
+  "introLocal": "Martorell no es solo una ciudad; es el motor de la industria automotriz del país. Aquí, el coche no es un simple medio de transporte, es parte de nuestro ADN. Si conduces un SEAT o un Cupra, sabes que tu vehículo nació a pocos kilómetros, en una de las plantas más avanzadas de Europa. Pero el paradigma está cambiando. La transición hacia la movilidad híbrida y eléctrica es una realidad palpable en nuestras calles, desde el barrio de La Vila hasta las zonas más nuevas como La Sínia. Comprendemos que el conductor de un Cupra Born o un León e-HYBRID tiene nuevas preguntas y necesita respuestas que van más allá de la mecánica tradicional. Ya no se trata solo de cambios de aceite o correas de distribución; hablamos de gestión de baterías, sistemas de frenada regenerativa y software. En Martorell, la cuna del motor de combustión, ahora lideramos también la adaptación a su futuro eléctrico.\n\nEl día a día de un conductor en Martorell implica un uso intensivo y variado del vehículo. Muchos residentes se desplazan diariamente hacia Barcelona por la A-2, un trayecto que combina tramos de velocidad constante con retenciones imprevistas, un escenario donde la eficiencia de un sistema híbrido se pone a prueba. Otros utilizan la AP-7 para trayectos más largos o la red de carreteras comarcales hacia el Penedès o el Anoia. Este uso mixto, sumado al clima continentalizado del Vallès, con veranos que superan fácilmente los 30ºC, impone un estrés considerable sobre componentes clave como las baterías y los sistemas de climatización. Un calor excesivo puede afectar la autonomía y la vida útil de la batería de un eléctrico, mientras que un uso constante del aire acondicionado en modo bomba de calor exige un sistema en perfecto estado para no mermar el rendimiento.\n\nEl parque automovilístico de Martorell y sus alrededores —desde Abrera hasta Sant Esteve Sesrovires— es un reflejo directo de su herencia industrial. La presencia de vehículos del grupo Volkswagen, y en particular de SEAT y Cupra, es abrumadoramente mayoritaria. Esto nos ha obligado a adquirir un conocimiento profundo y específico de estas plataformas, especialmente de las más recientes como la MEB de los eléctricos. No somos un taller genérico; somos especialistas que entienden las particularidades de un Formentor e-HYBRID, los ciclos de carga de un Mii Electric o el sistema de tracción de un Tarraco PHEV. Conocemos sus puntos fuertes y sus debilidades, y disponemos de la capacidad de diagnóstico para intervenir con la misma precisión que un servicio oficial.\n\nNuestra experiencia no se limita a la planta motriz. El tipo de conducción en la zona, con frecuentes viajes de fin de semana hacia Montserrat o la costa, implica un desgaste específico en neumáticos y suspensiones. El par motor instantáneo de un vehículo eléctrico, por ejemplo, exige un tipo de neumático específico y un control riguroso de su desgaste y alineación para garantizar la seguridad y la eficiencia. Asimismo, los sistemas electrónicos y de asistencia a la conducción (ADAS) que equipan estos modelos modernos requieren calibraciones precisas tras cualquier intervención, ya sea un simple cambio de luna o una reparación más compleja. Nos aseguramos de que cada sensor y cada cámara de tu coche funcione como el primer día.\n\nPor todo ello, ofrecemos un servicio en Martorell que combina la tradición mecánica de la ciudad con una especialización real en las tecnologías que definirán el futuro. Entendemos que confiar tu coche eléctrico o híbrido, una inversión tecnológica importante, a un taller es una decisión crucial. Por eso, nuestro proceso se basa en la comunicación directa y un presupuesto cerrado. No realizamos ninguna operación sin tu consentimiento explícito. Queremos ser tu taller de confianza, el que entiende tu coche y entiende el entorno por el que te mueves cada día, desde los polígonos de Can Amat hasta el centro de la ciudad.",
+  "servicesIntro": "Ofrecemos un servicio integral para tu coche en Martorell, con especial atención a las nuevas motorizaciones híbridas y eléctricas.",
+  "processIntro": "Trabajamos con un método claro y transparente: diagnóstico preciso, presupuesto cerrado y tu autorización antes de cada paso.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico y análisis",
+      "body": "Al recibir tu vehículo, conectamos nuestros equipos de diagnóstico avanzado para identificar con precisión el origen de cualquier anomalía, prestando especial atención a los sistemas electrónicos y de baterías de los modelos más modernos."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Recibirás un presupuesto detallado y sin compromiso. Explicamos cada punto para que entiendas qué necesita tu coche y por qué. El precio que te damos es el precio final, sin costes ocultos ni sorpresas de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No iniciamos ninguna reparación ni sustitución de componentes sin tu aprobación explícita. Tienes el control total sobre las operaciones que se realizan en tu vehículo. La transparencia es nuestra máxima prioridad en cada fase del proceso."
+    },
+    {
+      "title": "Reparación experta",
+      "body": "Procedemos con la reparación utilizando recambios de calidad equivalente al original y herramientas específicas para cada modelo. Nuestro equipo está en formación continua, especialmente en las tecnologías de vehículos eléctricos e híbridos."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos el coche en el plazo acordado, explicando el trabajo realizado. Además, te contactamos días después para confirmar que todo funciona correctamente y resolver cualquier duda que pueda haber surgido tras la reparación."
+    }
+  ],
+  "commonIssuesIntro": "El uso diario en Martorell, desde el tráfico de la A-2 hasta el calor del verano, provoca problemas específicos en tu coche, especialmente si es híbrido o eléctrico.",
+  "commonIssues": [
+    {
+      "title": "Desgaste acelerado de neumáticos en eléctricos",
+      "body": "El elevado par motor instantáneo y el mayor peso de los coches eléctricos provocan un desgaste más rápido e irregular de los neumáticos si no se gestiona bien. En nuestro taller de Martorell revisamos presiones, realizamos alineaciones precisas y te recomendamos el compuesto adecuado para tu modelo, asegurando un agarre óptimo y una mayor durabilidad."
+    },
+    {
+      "title": "Pérdida de eficiencia de la batería en verano",
+      "body": "Los veranos calurosos de Martorell pueden sobrecalentar la batería de tu híbrido o eléctrico, reduciendo su autonomía y vida útil. Realizamos diagnósticos del sistema de refrigeración de la batería para asegurar que funciona correctamente, un mantenimiento preventivo clave para proteger tu inversión y garantizar el máximo rendimiento en los meses de más calor."
+    },
+    {
+      "title": "Mantenimiento del sistema de frenada regenerativa",
+      "body": "En los híbridos y eléctricos, los frenos mecánicos se usan menos, lo que puede causar cristalización de pastillas u oxidación de discos. Es un problema común en coches que circulan por la A-2 con tráfico denso. Revisamos y mantenemos todo el sistema para garantizar una frenada segura y una regeneración de energía eficiente."
+    },
+    {
+      "title": "Averías en el climatizador por bomba de calor",
+      "body": "Muchos eléctricos usan bombas de calor para la climatización. Son eficientes, pero sensibles a fallos. Un mal funcionamiento no solo afecta al confort, sino que puede disparar el consumo de batería. Contamos con el equipo para diagnosticar y reparar estos sistemas complejos, vitales durante el verano en Martorell."
+    },
+    {
+      "title": "Obstrucción del filtro de habitáculo",
+      "body": "La proximidad a zonas industriales y a vías de alta densidad como la AP-7 satura rápidamente el filtro de cabina. Un filtro sucio reduce la calidad del aire interior y fuerza el sistema de ventilación. Recomendamos su sustitución periódica para proteger tu salud y el rendimiento del climatizador."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Especialistas en la automoción local",
+      "body": "Conocemos el parque móvil de Martorell porque es el nuestro. Estamos especializados en SEAT, Cupra y el resto de marcas del grupo, sobre todo en sus nuevas plataformas eléctricas e híbridas."
+    },
+    {
+      "title": "Diagnóstico de nivel oficial",
+      "body": "Invertimos en la misma tecnología de diagnóstico que los concesionarios. Identificamos el problema real, sin especulaciones, especialmente en sistemas electrónicos complejos y gestión de baterías."
+    },
+    {
+      "title": "Presupuestos sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Detallamos cada concepto para que entiendas la intervención. La honestidad es la base de una relación de confianza a largo plazo."
+    },
+    {
+      "title": "Comunicación directa y clara",
+      "body": "Te explicamos la avería y las posibles soluciones en un lenguaje que entiendes. Siempre te llamaremos para pedir tu autorización antes de proceder con cualquier trabajo no presupuestado."
+    },
+    {
+      "title": "Garantía en todas las reparaciones",
+      "body": "Todo nuestro trabajo y los recambios que instalamos están garantizados por escrito. Tu tranquilidad es nuestro principal objetivo, y respondemos siempre por la calidad de nuestro servicio."
+    }
+  ],
+  "testimonialsIntro": "Estos son ejemplos de situaciones reales que atendemos cada día en Martorell, reflejando la experiencia de nuestros clientes.",
+  "testimonials": [
+    {
+      "name": "Jordi",
+      "neighborhood": "La Sínia",
+      "car": "Cupra Born 2022",
+      "body": "Tenía mis dudas sobre llevar el Born a un taller fuera del servicio oficial, pero me dieron más confianza que ellos. Notaba una pequeña pérdida de autonomía y aquí encontraron un problema en el sistema de refrigeración de la batería que en el concesionario no vieron. Presupuesto claro y me explicaron todo el proceso. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "El Pla",
+      "car": "SEAT León e-HYBRID 2021",
+      "body": "Uso el coche todos los días para ir a trabajar a Barcelona por la A-2 y el sistema híbrido empezó a dar tirones. Me hicieron un diagnóstico completo del software y la transmisión. Lo solucionaron en un día y me explicaron la causa. El trato fue excelente y el precio, justo. Ahora el coche va más suave que nunca.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Torrent de Llops",
+      "car": "SEAT Ateca 1.5 TSI 2019",
+      "body": "Llevo años trayendo mi coche aquí para las revisiones. Siempre han sido transparentes. Esta vez tocaba cambio de la correa de distribución y me dieron un presupuesto cerrado más competitivo que en otros sitios. Sabes que dejas el coche en buenas manos, gente que conoce estos motores a la perfección.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Can Carreres",
+      "car": "Peugeot 3008 Diésel 2017",
+      "body": "Me fallaron los frenos y necesitaba una solución rápida. Aunque mi coche no es un SEAT, me atendieron de maravilla. Me explicaron que los discos estaban alabeados y me enseñaron la pieza. Me dieron varias opciones de recambio y cumplieron el plazo. Un servicio muy honesto y eficiente, lo recomiendo.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller en Martorell da servicio a toda la ciudad y sus alrededores. Si vives en barrios como El Pla, Can Carreres, Torrent de Llops o en las zonas de La Vila y la Muntanyeta, estamos a tu disposición. También cubrimos las necesidades de los conductores de municipios colindantes como Abrera, Sant Andreu de la Barca, Olesa de Montserrat y Castellbisbal. Nuestra ubicación cuenta con un acceso rápido y directo desde las principales vías que conectan la comarca, como la autovía A-2, la autopista AP-7 y la carretera B-224, facilitando que puedas dejarnos tu vehículo cómodamente de camino al trabajo o al volver a casa.",
+  "zoneNeighborhoods": [
+    "El Pla",
+    "Can Carreres",
+    "Torrent de Llops",
+    "La Vila",
+    "La Sínia",
+    "Poble Nou",
+    "Abrera",
+    "Sant Andreu de la Barca",
+    "Olesa de Montserrat",
+    "Castellbisbal"
+  ],
+  "zoneAccessRoutes": [
+    "A-2",
+    "AP-7",
+    "B-224",
+    "BV-2249"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Estáis realmente preparados para el mantenimiento de un coche eléctrico como un Cupra Born?",
+      "a": "Sí, sin ninguna duda. Nuestro personal técnico recibe formación continua específica en vehículos de alto voltaje y disponemos de las herramientas de diagnóstico y el utillaje aislado necesarios. Entendemos la arquitectura de la plataforma MEB, los sistemas de gestión de baterías (BMS) y los procedimientos de seguridad para intervenir en estos coches con total garantía, al mismo nivel que un servicio oficial."
+    },
+    {
+      "q": "Mi híbrido enchufable hace un ruido extraño al pasar de modo eléctrico a combustión, ¿sabéis qué puede ser?",
+      "a": "Sí, es una consulta habitual. Ese tipo de ruidos o vibraciones en la transición suelen estar relacionados con los soportes del motor, el sistema de embrague que acopla el motor térmico o desajustes en la gestión electrónica. Realizaremos un diagnóstico dinámico para replicar la condición y determinar la causa exacta, sea mecánica o de software, para ofrecerte una solución precisa."
+    },
+    {
+      "q": "Vivo en Martorell y aparco en la calle. ¿Cómo afecta el calor del verano a la batería de mi coche?",
+      "a": "El calor es el principal enemigo de la longevidad de las baterías. Dejar el coche al sol de forma continuada en Martorell, donde se alcanzan altas temperaturas, acelera la degradación química de las celdas. Nuestro consejo es buscar sombra siempre que sea posible y realizar revisiones periódicas del sistema de refrigeración líquida de la batería para asegurar que funciona a pleno rendimiento y protege la batería eficazmente."
+    },
+    {
+      "q": "¿La Pre-ITV que ofrecéis cubre las pruebas específicas de emisiones de un híbrido?",
+      "a": "Por supuesto. Nuestra Pre-ITV es exhaustiva y está adaptada a cada tipo de motorización. En el caso de un híbrido, comprobamos todos los puntos generales (frenos, luces, neumáticos) y además realizamos un análisis de gases específico con el motor de combustión en marcha para asegurar que cumple con la normativa de emisiones vigente. Así te evitas sorpresas y rechazos en la estación de ITV."
+    },
+    {
+      "q": "¿Podéis diagnosticar fallos en el sistema multimedia o en las ayudas a la conducción?",
+      "a": "Sí. Los vehículos modernos, especialmente los eléctricos e híbridos, son ecosistemas de software complejos. Contamos con equipos de diagnosis multimarca avanzados que nos permiten acceder a los módulos de control de infoentretenimiento, ADAS (sistemas de ayuda a la conducción), y otros sistemas electrónicos para leer códigos de error, realizar ajustes y calibraciones, como la de la cámara frontal tras un cambio de parabrisas."
+    },
+    {
+      "q": "Vengo de Abrera por la A-2, ¿es fácil llegar a vuestro taller en hora punta?",
+      "a": "Sí, nuestra ubicación está pensada para ser accesible. Aunque la A-2 puede tener tráfico denso en horas punta, estamos situados de forma que puedes evitar los nudos más conflictivos del centro de Martorell. Te recomendamos las salidas que te dirigen hacia la zona industrial, que suelen tener una circulación más fluida. Si nos llamas, podemos darte indicaciones precisas en tiempo real para facilitarte la llegada."
+    },
+    {
+      "q": "El cambio de neumáticos en un eléctrico es más caro. ¿A qué se debe y ofrecéis alternativas?",
+      "a": "El coste es superior porque los neumáticos para vehículos eléctricos son específicos. Deben soportar más peso, un par motor instantáneo que acelera el desgaste y tener una baja resistencia a la rodadura para no penalizar la autonomía. Además, suelen llevar un compuesto de espuma interior para reducir el ruido. Te explicaremos las opciones disponibles para tu modelo, buscando siempre el mejor equilibrio entre rendimiento, durabilidad y precio."
+    }
+  ],
+  "closingHeadline": "El futuro de tu coche se cuida en Martorell",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Contacta con nosotros por teléfono, WhatsApp o a través de nuestra web y descubre por qué somos el taller de referencia para los nuevos conductores de Martorell."
+}
