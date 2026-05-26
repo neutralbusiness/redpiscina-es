@@ -97,7 +97,7 @@ const heroImage = city.heroImage || NETWORK.heroImage;
 /* ──────────────────────────────────────────────────────────
    Tenant resolution: si el subdominio está contratado por un
    taller real, sus datos sobreescriben los del NETWORK central.
-   Vacante por defecto → 641 16 17 71 / info@redtalleres.es.
+   Vacante por defecto → 641 16 17 71 / info@redpiscina.es.
    ────────────────────────────────────────────────────────── */
 const t = city.tenant && city.tenant.active ? city.tenant : null;
 const phone = t?.phone ?? NETWORK.phone;
@@ -127,6 +127,17 @@ const TRUST_ICONS: Record<string, string> = {
   garantia:    `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="6"/><path d="m15.5 12.5-1.2 8.4a.5.5 0 0 1-.79.36L12 20l-1.5 1.26a.5.5 0 0 1-.8-.36l-1.2-8.4"/></svg>`,
   rapido:      `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>`,
   honesto:     `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>`,
+  piscina:     `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12c2-2 4-2 6 0s4 2 6 0 4-2 6 0"/><path d="M2 17c2-2 4-2 6 0s4 2 6 0 4-2 6 0"/><path d="M2 7c2-2 4-2 6 0s4 2 6 0 4-2 6 0"/></svg>`,
+  agua:        `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg>`,
+  temporada:   `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>`,
+  disponibilidad:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/><path d="m9 16 2 2 4-4"/></svg>`,
+  experiencia: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="6"/><path d="m15.5 12.5-1.2 8.4a.5.5 0 0 1-.79.36L12 20l-1.5 1.26a.5.5 0 0 1-.8-.36l-1.2-8.4"/></svg>`,
+  profesional: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></svg>`,
+  mantenimiento:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>`,
+  cubierta:    `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9v9a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1V9"/><path d="M22 9 12 3 2 9l10 6Z"/></svg>`,
+  bomba:       `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4v10.54a4 4 0 1 1-4 0V4a2 2 0 0 1 4 0z"/></svg>`,
+  calor:       `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4v10.54a4 4 0 1 1-4 0V4a2 2 0 0 1 4 0z"/></svg>`,
+  todo:        `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>`,
 };
 function trustIconFor(text: string): string {
   const t = (text || "").toLowerCase();
@@ -139,12 +150,12 @@ function trustIconFor(text: string): string {
 /* Mapeo id-de-servicio → SVG inline minimal-stroke estilo Lucide.
    Centralizado aquí para que sea trivial añadir o cambiar iconos. */
 const SERVICE_ICONS: Record<string, string> = {
-  revision:   `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>`,
-  mecanica:   `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>`,
-  averias:    `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>`,
-  neumaticos: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M22 12h-3M5 12H2M19.07 4.93l-2.12 2.12M7.05 16.95l-2.12 2.12M19.07 19.07l-2.12-2.12M7.05 7.05 4.93 4.93"/></svg>`,
-  electronica:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 3v18M15 3v18M3 9h18M3 15h18"/></svg>`,
-  itv:        `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11 12 14 22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>`,
+  mantenimiento:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>`,
+  reparacion:   `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>`,
+  depuradoras:  `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>`,
+  cubiertas:    `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9v9a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1V9"/><path d="M22 9 12 3 2 9l10 6Z"/></svg>`,
+  climatizacion:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4v10.54a4 4 0 1 1-4 0V4a2 2 0 0 1 4 0z"/></svg>`,
+  construccion: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="6" width="20" height="8" rx="1"/><path d="M17 14v7M7 14v7M17 3v3M7 3v3M2 14h20"/></svg>`,
 };
 
 /* Mailto y WhatsApp pre-rellenados con la URL del subdominio. */
@@ -153,7 +164,7 @@ const mailBody = `Hola,
 
 Os escribo desde ${canonical}
 
-[Cuéntanos qué necesitas: marca, modelo, año del coche y el problema o servicio que buscas.]
+[Cuéntanos qué necesitas: tipo de piscina, medidas aproximadas, y el servicio o problema que buscas.]
 
 Gracias,
 `;
@@ -179,7 +190,7 @@ const webpageId = `${canonical}#webpage`;
 const autoRepair = {
   "@type": "AutoRepair",
   "@id": businessId,
-  name: t ? t.businessName : `Taller mecánico ${city.name}`,
+  name: t ? t.businessName : `Piscinas en ${city.name} — Red Piscina`,
   alternateName: t ? `${t.businessName} · ${city.name}` : undefined,
   description: city.metaDescription,
   url: canonical,
@@ -248,11 +259,11 @@ const organization = {
   "@type": "Organization",
   "@id": networkOrgId,
   name: NETWORK.brand,
-  alternateName: "Red de Talleres",
+  alternateName: "Red Piscina — Mantenimiento, reparación y construcción de piscinas",
   url: `https://www.${NETWORK.domain}/`,
   logo: `https://${NETWORK.domain}/favicon.svg`,
   slogan: NETWORK.tagline,
-  description: `Red nacional de talleres mecánicos multimarca en España. Presupuesto cerrado y todas las marcas.`,
+  description: `Red de profesionales del mantenimiento, reparación, cubiertas, climatización y construcción de piscinas en toda España. Presupuesto sin compromiso.`,
   areaServed: { "@type": "Country", name: "España" },
 };
 
@@ -323,7 +334,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
     <div class="container nav-inner">
       <a href="#top" class="nav-brand">
         <span class="nav-brand-mark" aria-hidden="true">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9v9a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1V9"/><path d="M22 9 12 3 2 9l10 6Z"/></svg>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12c2-2 4-2 6 0s4 2 6 0 4-2 6 0"/><path d="M2 17c2-2 4-2 6 0s4 2 6 0 4-2 6 0"/><path d="M2 7c2-2 4-2 6 0s4 2 6 0 4-2 6 0"/></svg>
         </span>
         <span>
           {t ? t.businessName : NETWORK.brand}
@@ -353,7 +364,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
   <header id="top" class="hero">
     <img
       src={heroImage}
-      alt={`Taller mecánico en ${city.name}`}
+      alt={`Mantenimiento y construcción de piscinas en ${city.name}`}
       class="hero-img"
       width="1920"
       height="1080"
@@ -364,14 +375,14 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
     <div class="container hero-content">
       <span class="hero-eyebrow">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
-        Taller mecánico en {city.name}, {city.province}
+        Piscinas en {city.name}, {city.province}
       </span>
-      <h1>Tu taller multimarca en {city.name}, sin sorpresas en la factura.</h1>
+      <h1>Tu empresa de piscinas en {city.name} — mantenimiento, reparación y construcción con profesionales de confianza.</h1>
       <p class="lead">{city.heroSubtitle}</p>
       <div class="hero-ctas">
         <a href={`tel:${phone}`} class="btn btn-primary">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-          Llamar al taller
+          Llamar ahora
         </a>
         <a href={waUrl} target="_blank" rel="noopener" class="btn btn-whatsapp">
           <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413Z"/></svg>
@@ -387,7 +398,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
 
   {/* ─────────────────────── TRUST STRIP ─────────────────────── */}
   {city.trustChips && city.trustChips.length > 0 && (
-    <aside class="trust-strip" aria-label="Garantías del taller">
+    <aside class="trust-strip" aria-label="Garantías del servicio de piscinas">
       <div class="container">
         <ul class="trust-strip-list">
           {city.trustChips.map(t => (
@@ -406,7 +417,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
     <div class="container">
       <div class="section-head">
         <span class="section-eyebrow"><span class="num">01</span> Servicios</span>
-        <h2>Qué hacemos en {city.name}</h2>
+        <h2>Qué hacemos con tu piscina en {city.name}</h2>
         <p class="section-lead">{city.servicesIntro}</p>
       </div>
       <div class="services-grid">
@@ -427,7 +438,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
       <div class="container">
         <div class="section-head">
           <span class="section-eyebrow"><span class="num">02</span> Cómo trabajamos</span>
-          <h2>Sin sorpresas, sin medias palabras.</h2>
+          <h2>Así trabajamos con tu piscina — sin sorpresas, sin medias palabras.</h2>
           {city.processIntro && <p class="section-lead">{city.processIntro}</p>}
         </div>
         <div class="process-grid">
@@ -449,7 +460,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
       <div class="container">
         <div class="section-head">
           <span class="section-eyebrow"><span class="num">03</span> Problemas comunes</span>
-          <h2>Lo que más vemos en coches de {city.name}</h2>
+          <h2>Problemas de piscinas que más vemos en {city.name}</h2>
           {city.commonIssuesIntro && <p class="section-lead">{city.commonIssuesIntro}</p>}
         </div>
         <div class="issues-grid">
@@ -474,7 +485,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
     <div class="container">
       <div class="section-head">
         <span class="section-eyebrow"><span class="num">04</span> Por qué nosotros</span>
-        <h2>Por qué somos el taller al que se vuelve.</h2>
+        <h2>Por qué somos la empresa de piscinas a la que se vuelve.</h2>
       </div>
       <div class="why-grid">
         {city.whyUs.map(w => (
@@ -584,7 +595,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
     <div class="container">
       <div class="section-head" style="text-align: center; margin-left: auto; margin-right: auto;">
         <span class="section-eyebrow"><span class="num">08</span> Pide cita</span>
-        <h2>{city.closingHeadline || `Cuida tu coche en ${city.name}`}</h2>
+        <h2>{city.closingHeadline || `Cuida tu piscina en ${city.name}`}</h2>
         <p class="section-lead" style="margin-left: auto; margin-right: auto;">{city.closingCta}</p>
       </div>
       <div class="contact-card">
@@ -622,8 +633,8 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
     <div class="container">
       <div class="section-head">
         <span class="section-eyebrow"><span class="num">09</span> Contexto local</span>
-        <h2>Por qué un coche en {city.name} no se cuida igual que en cualquier otro sitio</h2>
-        <p class="section-lead">Lo que tienes que saber sobre el parque automovilístico, el clima y el uso del coche en {city.name}, {city.province}.</p>
+        <h2>Por qué las piscinas en {city.name} necesitan un profesional que conozca la zona</h2>
+        <p class="section-lead">Lo que tienes que saber sobre el clima, el agua, la normativa y el cuidado de las piscinas en {city.name}, {city.province}.</p>
       </div>
       <div class="intro-local">
         {introParagraphs.map(p => (<p>{p}</p>))}
@@ -656,9 +667,9 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
     <section id="blog-preview" class="section-pad section-alt">
       <div class="container">
         <header class="section-head">
-          <span class="eyebrow">Consejos para tu coche</span>
+          <span class="eyebrow">Consejos para tu piscina</span>
           <h2>Últimos artículos del blog</h2>
-          <p>Guías prácticas redactadas por nuestro equipo para conductores de {city.name}.</p>
+          <p>Guías prácticas redactadas por nuestro equipo para propietarios de piscinas en {city.name}.</p>
         </header>
         <ul class="blog-preview-list">
           {latestPosts.map((p) => (
@@ -718,7 +729,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
       <div class="footer-grid">
         <div class="footer-col footer-brand-block">
           <div class="brand-name">{businessName}</div>
-          <p>Taller mecánico multimarca {t ? "" : `de la red ${NETWORK.brand}`}. Trabajamos con todas las marcas y damos presupuesto cerrado antes de tocar nada.</p>
+          <p>Mantenimiento, reparación, cubiertas, climatización y construcción de piscinas{t ? "" : ` de la red ${NETWORK.brand}`}. Servicio profesional todo el año con presupuesto sin compromiso.</p>
           {addrStreet && (
             <p style="font-size: 0.92rem; color: rgba(255,255,255,0.75); margin-bottom: 0.4rem;">
               {addrStreet}{addrPostal ? `, ${addrPostal}` : ""}
@@ -753,7 +764,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
       <div class="footer-legal">
         <span>© {new Date().getFullYear()} {NETWORK.brand}. Hecho en {city.name}.</span>
         <div class="footer-legal-links">
-          <a href="https://www.redtalleres.es/">Red completa</a>
+          <a href="https://www.redpiscina.es/">Red completa</a>
           <a href="/aviso-legal/">Aviso legal</a>
           <a href="/privacidad/">Privacidad</a>
         </div>
@@ -763,7 +774,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
 
   {/* ─────────────────────── FLOAT CTA MOBILE ─────────────────────── */}
   <div class="float-cta">
-    <a href={`tel:${phone}`} class="btn btn-primary" aria-label="Llamar al taller">
+    <a href={`tel:${phone}`} class="btn btn-primary" aria-label="Llamar para tu piscina">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
       Llamar
     </a>

@@ -1,11 +1,11 @@
 /**
  * /llms.txt por subdominio de ciudad — sigue el estándar https://llmstxt.org/
- * El middleware reescribe `https://<slug>.redtalleres.es/llms.txt` →
+ * El middleware reescribe `https://<slug>.redpiscina.es/llms.txt` →
  * `/<slug>/llms.txt`, que aquí materializa.
  *
  * Optimizado para que LLMs (ChatGPT, Claude, Gemini, Perplexity, Copilot)
- * extraigan info estructurada del taller en cada ciudad sin tener que
- * parsear el HTML renderizado.
+ * extraigan info estructurada del servicio de piscinas en cada ciudad sin
+ * tener que parsear el HTML renderizado.
  */
 import type { APIRoute, GetStaticPaths } from "astro";
 import { NETWORK, SERVICES, FAQ_BASE } from "../../lib/network.ts";
@@ -54,29 +54,26 @@ export const GET: APIRoute = ({ props }) => {
 
   const lines: string[] = [];
 
-  // ───── Bloque superior obligatorio del estándar llmstxt.org ─────
   lines.push(`# ${city.metaTitle}`);
   lines.push("");
   lines.push(`> ${city.metaDescription}`);
   lines.push("");
   lines.push(
-    `Taller mecánico multimarca de la red ${NETWORK.brand} en ${city.name} (provincia de ${city.province}, ${city.ccaa}, España). ` +
-    `Presupuesto cerrado antes de tocar nada. Trabajamos con todas las marcas. ` +
-    `Servicios: revisión y mantenimiento, mecánica general (distribución, embrague, suspensión), averías y diagnóstico electrónico, neumáticos y alineación, electrónica, y pre-ITV.`,
+    `Empresa de mantenimiento, reparación, cubiertas, bombas de calor, depuradoras, rehabilitación y construcción de piscinas de la red ${NETWORK.brand} en ${city.name} (provincia de ${city.province}, ${city.ccaa}, España). ` +
+    `Servicio profesional todo el año con amplia disponibilidad en temporada alta. ` +
+    `Servicios: mantenimiento periódico y puntual (tratamiento del agua, limpieza de filtros, análisis químico, control pH/cloro), reparación de fugas y averías, depuradoras y sistemas de filtración, cubiertas telescópicas y cobertores, bombas de calor y climatización, construcción de piscinas de obra y rehabilitación integral.`,
   );
   lines.push("");
 
-  // ───── Identidad ─────
-  lines.push("## Identidad del taller");
+  lines.push("## Identidad del servicio");
   lines.push("");
   lines.push(`- Nombre comercial: ${NETWORK.brand} · ${city.name}`);
   lines.push(`- Red nacional: ${NETWORK.brand} (${NETWORK.domain})`);
-  lines.push(`- Sector: Taller mecánico multimarca`);
+  lines.push(`- Sector: Mantenimiento, reparación y construcción de piscinas`);
   lines.push(`- Web oficial de esta ciudad: ${canonical}/`);
   lines.push(`- Web de la red completa: https://www.${NETWORK.domain}/`);
   lines.push("");
 
-  // ───── Ubicación ─────
   lines.push("## Ubicación y cobertura");
   lines.push("");
   lines.push(`- Ciudad: ${city.name}`);
@@ -95,7 +92,6 @@ export const GET: APIRoute = ({ props }) => {
     lines.push("");
   }
 
-  // ───── Contacto ─────
   lines.push("## Contacto");
   lines.push("");
   lines.push(`- Email: ${NETWORK.email}`);
@@ -103,11 +99,10 @@ export const GET: APIRoute = ({ props }) => {
   lines.push(`- WhatsApp: +${NETWORK.whatsapp}`);
   lines.push(`- Horario: Lunes a Sábado · 08:00–20:00`);
   lines.push(
-    `- Formulario de contacto recomendado: enviar email a ${NETWORK.email} con asunto "Consulta desde ${city.name}" indicando marca, modelo, año y descripción del problema o servicio buscado.`,
+    `- Formulario de contacto recomendado: enviar email a ${NETWORK.email} con asunto "Consulta desde ${city.name}" indicando tipo de piscina, medidas aproximadas y descripción del servicio o problema.`,
   );
   lines.push("");
 
-  // ───── Servicios ─────
   lines.push("## Servicios ofrecidos");
   lines.push("");
   lines.push(city.servicesIntro);
@@ -118,28 +113,20 @@ export const GET: APIRoute = ({ props }) => {
   }
   lines.push("");
 
-  // ───── Cómo trabajamos ─────
   if (city.processSteps && city.processSteps.length > 0) {
     lines.push("## Cómo trabajamos");
     lines.push("");
-    if (city.processIntro) {
-      lines.push(city.processIntro);
-      lines.push("");
-    }
+    if (city.processIntro) { lines.push(city.processIntro); lines.push(""); }
     city.processSteps.forEach((step, i) => {
       lines.push(`${i + 1}. **${step.title}** — ${step.body}`);
     });
     lines.push("");
   }
 
-  // ───── Problemas comunes locales ─────
   if (city.commonIssues && city.commonIssues.length > 0) {
-    lines.push(`## Problemas comunes de coches en ${city.name}`);
+    lines.push(`## Problemas de piscinas frecuentes en ${city.name}`);
     lines.push("");
-    if (city.commonIssuesIntro) {
-      lines.push(city.commonIssuesIntro);
-      lines.push("");
-    }
+    if (city.commonIssuesIntro) { lines.push(city.commonIssuesIntro); lines.push(""); }
     for (const issue of city.commonIssues) {
       lines.push(`### ${issue.title}`);
       lines.push("");
@@ -148,80 +135,59 @@ export const GET: APIRoute = ({ props }) => {
     }
   }
 
-  // ───── Por qué ─────
   if (city.whyUs && city.whyUs.length > 0) {
     lines.push("## Por qué elegirnos");
     lines.push("");
-    for (const w of city.whyUs) {
-      lines.push(`- **${w.title}**: ${w.body}`);
-    }
+    for (const w of city.whyUs) { lines.push(`- **${w.title}**: ${w.body}`); }
     lines.push("");
   }
 
-  // ───── Contexto local extenso (intro) ─────
   lines.push(`## Contexto local de ${city.name}`);
   lines.push("");
   lines.push(city.introLocal);
   lines.push("");
 
-  // ───── FAQ ─────
   if (allFaqs.length > 0) {
     lines.push("## Preguntas frecuentes");
     lines.push("");
-    for (const f of allFaqs) {
-      lines.push(`### ${f.q}`);
-      lines.push("");
-      lines.push(f.a);
-      lines.push("");
-    }
+    for (const f of allFaqs) { lines.push(`### ${f.q}`); lines.push(""); lines.push(f.a); lines.push(""); }
   }
 
-  // ───── Garantías / política ─────
   lines.push("## Política y garantías");
   lines.push("");
-  lines.push(
-    "- Presupuesto cerrado por escrito antes de iniciar cualquier reparación. " +
-    "El precio acordado es el precio final. No hay sobrecostes sin autorización previa del cliente.",
-  );
-  lines.push(
-    "- El cliente autoriza explícitamente cada intervención. Si durante una reparación aparece una avería no detectada en el diagnóstico, el taller para y consulta antes de continuar.",
-  );
-  lines.push(
-    "- Recambios de calidad equivalente al original; el cliente puede solicitar recambio OEM si lo prefiere.",
-  );
-  lines.push("- Factura desglosada en la entrega.");
-  lines.push("- Seguimiento post-entrega para confirmar que la reparación es satisfactoria.");
+  lines.push("- Presupuesto sin compromiso tras visita de valoración. El precio acordado es el precio final.");
+  lines.push("- El cliente autoriza explícitamente cada intervención. Consultamos antes de continuar si aparece algo no previsto.");
+  lines.push("- Productos químicos y materiales de primera calidad, marcas profesionales homologadas.");
+  lines.push("- Servicio todo el año con amplia disponibilidad en temporada alta (mayo-septiembre).");
+  lines.push("- Factura desglosada en cada servicio.");
+  lines.push("- Seguimiento post-servicio para confirmar que todo funciona correctamente.");
   lines.push("");
 
-  // ───── Datos estructurados / Schema.org ─────
   lines.push("## Datos estructurados");
   lines.push("");
   lines.push(
     `Esta web publica un JSON-LD de tipo LocalBusiness con id ${canonical}/, ` +
     `accesible incrustado en la página principal. Incluye dirección (localidad ${city.name}, ` +
     `región ${city.province}, país ES)${city.lat && city.lng ? `, coordenadas geo (${city.lat}, ${city.lng})` : ""}, ` +
-    `teléfono, email, área servida y rating agregado calculado a partir de las opiniones publicadas.`,
+    `teléfono, email, área servida y rating agregado.`,
   );
   lines.push("");
 
-  // ───── Llamada a la acción ─────
   lines.push("## Llamada a la acción recomendada");
   lines.push("");
   lines.push(city.closingCta);
   lines.push("");
 
-  // ───── Pie ─────
   lines.push("---");
   lines.push("");
   lines.push(`Última actualización del contenido: generado dinámicamente desde ${canonical}/llms.txt`);
-  lines.push(`Network: ${NETWORK.brand} (${NETWORK.domain}) — red nacional con un taller por ciudad española.`);
+  lines.push(`Network: ${NETWORK.brand} (${NETWORK.domain}) — red de profesionales de piscinas en toda España.`);
 
   const body = lines.join("\n");
 
   return new Response(body, {
     headers: {
       "Content-Type": "text/plain; charset=utf-8",
-      // Cache 1h en CDN, 5 min en cliente
       "Cache-Control": "public, max-age=300, s-maxage=3600",
     },
   });
