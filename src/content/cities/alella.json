@@ -1,0 +1,187 @@
+{
+  "slug": "alella",
+  "name": "Alella",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 9610,
+  "lat": 41.49451,
+  "lng": 2.29322,
+  "metaTitle": "Mantenimiento de piscinas en Alella — Red Piscina · Presupuesto cerrado",
+  "metaDescription": "Servicio profesional para tu piscina en Alella. Mantenimiento periódico, reparaciones y construcción. Pide tu presupuesto cerrado y disfruta de tu piscina.",
+  "heroSubtitle": "Disfruta de tu chalet en Alella sin preocuparte por la piscina. Nos encargamos del mantenimiento para que tú solo te ocupes de relajarte.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
+    },
+    {
+      "icon": "🔧",
+      "text": "Servicio todo el año"
+    },
+    {
+      "icon": "✅",
+      "text": "Materiales profesionales"
+    }
+  ],
+  "introLocal": "Tener una piscina en Alella es una extensión natural del paisaje. Es mirar desde tu jardín en Mas Coll o Alella Parc y ver cómo el azul del agua se funde con el del mar Mediterráneo al fondo. Es el refugio perfecto cuando el calor del verano aprieta en el Maresme. Pero ese placer conlleva una responsabilidad que a menudo roba el tiempo que precisamente buscas ganar viviendo aquí. El mantenimiento de una piscina no es solo echar cloro; es una ciencia que equilibra química, física y conocimiento del entorno local. Nosotros somos como los viticultores de tu piscina: cuidamos el equilibrio del agua con la misma dedicación que se cuida una cepa de Pansa Blanca, analizando cada detalle para que el resultado, tu baño, sea siempre excelente y seguro, sin que tengas que dedicarle ni un minuto de tu fin de semana.\n\nEl microclima de Alella, resguardado por la Serralada Litoral, alarga la temporada de baño desde mayo hasta bien entrado octubre, pero también presenta desafíos concretos. La proximidad del parque natural significa un aporte constante de polen en primavera y pinocha durante todo el año, materia orgánica que desequilibra el pH y alimenta las algas. Pero el principal enemigo silencioso es el agua de la red del Maresme: es un agua dura, con una alta concentración de carbonato de calcio. Esta cal, si no se controla, se incrusta en el gresite, dejando manchas blanquecinas, y lo que es peor, calcifica las células de los cloradores salinos y los componentes internos de la depuradora, reduciendo su vida útil y eficacia. Un mantenimiento genérico no basta; se necesita un plan específico que contemple tratamientos antical y una limpieza de filtros más frecuente y exhaustiva.\n\nEntendemos perfectamente el perfil del propietario de Alella. Es alguien que probablemente coge la C-32 cada día para ir a trabajar a Barcelona y que, cuando llega a casa, lo último que le apetece es enfrentarse a un agua turbia o a una depuradora que hace un ruido extraño. Nuestro servicio de mantenimiento periódico está diseñado precisamente para ti: para que llegues el viernes por la tarde y tu única decisión sea si te das un baño antes o después de abrir una botella de vino de la D.O. local. No vendemos horas de trabajo, vendemos tranquilidad. La tranquilidad de saber que un técnico de confianza ha revisado todo, ha ajustado los niveles de cloro y pH, ha limpiado el fondo y los skimmers, y ha verificado que todo el equipo funciona a la perfección. Tú solo tienes que coger la toalla.\n\nAdemás, el marco normativo es cada vez más estricto. Construir o rehabilitar una piscina hoy en día en Cataluña implica cumplir con el Codi Tècnic de l'Edificació (CTE) y, en particular, con sus exigencias sobre seguridad y acceso para evitar accidentes, especialmente si hay niños en casa. A esto se suman las ordenanzas municipales de Alella, que pueden regular aspectos como el llenado o el vaciado del vaso, sobre todo en los recurrentes periodos de sequía que afectan a la comarca. Nuestro trabajo también consiste en asesorarte para que tu instalación no solo sea funcional y bonita, sino también 100% legal y segura, desde la instalación de una valla perimetral homologada hasta la correcta gestión del agua de retrolavado del filtro, dándote una cobertura integral que va mucho más allá de la simple limpieza.",
+  "servicesIntro": "Ofrecemos una solución integral para cada necesidad de tu piscina en Alella, desde el mantenimiento semanal hasta la construcción de tu nuevo oasis.",
+  "processIntro": "Trabajamos con un método claro y transparente. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "processSteps": [
+    {
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu casa en Alella para ver la piscina. Evaluamos el estado del vaso, la depuradora y el resto de la instalación. Escuchamos tus necesidades y te explicamos qué opciones tienes, con total honestidad."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te entregamos una propuesta detallada por escrito. Cada servicio, material y la frecuencia de las visitas quedan claros desde el principio. El precio que ves es el precio que pagas. Sin compromiso si decides no seguir adelante."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "Nunca hacemos nada sin tu consentimiento. Si durante un servicio de mantenimiento detectamos una avería imprevista, te contactamos, te explicamos el problema y te damos un presupuesto antes de proceder con cualquier reparación."
+    },
+    {
+      "title": "Ejecución profesional",
+      "body": "Nuestros técnicos trabajan de forma limpia, eficiente y con los mejores productos. Tras cada visita, recibirás un informe con los parámetros del agua y las acciones realizadas, para que siempre sepas el estado de tu piscina."
+    },
+    {
+      "title": "Seguimiento y garantía",
+      "body": "Nuestro servicio no acaba con la visita. Hacemos un seguimiento para asegurar que todo funciona como debe. En los planes de mantenimiento, ajustamos el tratamiento según evoluciona la temporada y el uso de la piscina."
+    }
+  ],
+  "commonIssuesIntro": "Los problemas más comunes en las piscinas de Alella suelen estar ligados a su entorno: agua verde por el polen, depuradoras que sufren por la cal del agua del Maresme o skimmers atascados por la pinocha del pinar cercano.",
+  "commonIssues": [
+    {
+      "title": "Agua lechosa por la cal del Maresme",
+      "body": "La dureza del agua en Alella provoca que el calcio precipite, dejando el agua blanquecina y el gresite áspero. Aplicamos productos secuestrantes de cal de forma periódica y ajustamos el pH para mantener el agua cristalina y proteger tu equipo de cloración salina."
+    },
+    {
+      "title": "Atascos por hojas y pinocha",
+      "body": "La proximidad a la Serralada Litoral hace que las piscinas, sobre todo en zonas como Alella Parc, recojan mucha materia orgánica. Esto atasca skimmers y cestillos, forzando la bomba. Nuestro mantenimiento incluye una limpieza exhaustiva para prevenir averías."
+    },
+    {
+      "title": "pH inestable y consumo de cloro",
+      "body": "Las tormentas de verano y el aporte de materia orgánica desestabilizan el pH rápidamente. Un pH incorrecto hace que el cloro no sea efectivo, provocando la aparición de algas. Realizamos mediciones precisas y dosificamos los productos justos para mantener un equilibrio estable."
+    },
+    {
+      "title": "Célula del clorador salino con cal",
+      "body": "Es el problema número uno de los equipos de electrólisis en esta zona. La cal se adhiere a las placas de la célula, impidiendo que genere cloro. Realizamos limpiezas periódicas de la célula y controlamos la dureza del agua para alargar su vida útil."
+    },
+    {
+      "title": "Fisuras y pérdidas de agua",
+      "body": "Con las restricciones por sequía cada vez más frecuentes, una fuga no es solo un coste en la factura, es un problema serio. Utilizamos equipos de detección de fugas para localizar el punto exacto de la pérdida sin obras innecesarias y lo reparamos de forma definitiva."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Especialistas en el agua de Alella",
+      "body": "Conocemos la dureza del agua del Maresme y sus efectos. No aplicamos soluciones genéricas; nuestro tratamiento está diseñado para los desafíos específicos de tu piscina aquí."
+    },
+    {
+      "title": "Presupuestos sin letra pequeña",
+      "body": "Recibirás una propuesta clara y detallada. El precio es cerrado, para que tengas control total sobre la inversión y no haya sorpresas desagradables al final del servicio."
+    },
+    {
+      "title": "Un único interlocutor de confianza",
+      "body": "Desde el mantenimiento semanal hasta una reforma integral o una avería urgente, nos ocupamos de todo. No tendrás que buscar y coordinar a diferentes profesionales."
+    },
+    {
+      "title": "Asesoramiento en normativa",
+      "body": "Te ayudamos a navegar la normativa vigente sobre seguridad, construcción y uso del agua en piscinas, para que cumplas con la ley y evites posibles sanciones."
+    },
+    {
+      "title": "Respetamos tu tiempo y tu hogar",
+      "body": "Planificamos las visitas para interferir lo mínimo en tu rutina. Nuestros técnicos son discretos, limpios y trabajan con el máximo respeto por tu propiedad y tu privacidad."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones que resolvemos a diario. Reflejan la experiencia de propietarios como tú en la zona de Alella.",
+  "testimonials": [
+    {
+      "name": "Anna",
+      "neighborhood": "Alella Parc",
+      "pool": "Piscina de gresite 10×5, mantenimiento anual",
+      "body": "Contraté el mantenimiento anual y ha sido la mejor decisión. Antes perdía todos los sábados por la mañana limpiando la piscina. Ahora llego del trabajo el viernes y está perfecta, lista para disfrutarla con los niños. Conocen muy bien los problemas de las hojas de los pinos y la cal. Un servicio impecable y muy profesional.",
+      "rating": 5
+    },
+    {
+      "name": "Marc",
+      "neighborhood": "Can Comulada",
+      "pool": "Piscina de liner 8×4, reparación depuradora",
+      "body": "Se me estropeó la bomba en pleno agosto. Llamé a varios sitios y nadie podía venir. Ellos me dieron cita para el día siguiente. Vinieron, detectaron que el motor se había quemado y en 48 horas tenía una bomba nueva instalada y funcionando. Me salvaron las vacaciones. Muy eficientes y transparentes con el presupuesto.",
+      "rating": 5
+    },
+    {
+      "name": "David",
+      "neighborhood": "Nucli Urbà",
+      "pool": "Piscina comunitaria, cambio de filtro y clorador",
+      "body": "En la comunidad de vecinos teníamos problemas constantes con el agua turbia. Nos asesoraron y vimos que el filtro de arena era demasiado pequeño para el volumen de la piscina. Nos instalaron uno nuevo y un sistema de cloración salina. El cambio ha sido espectacular. El agua está cristalina y el mantenimiento es mucho más sencillo.",
+      "rating": 5
+    },
+    {
+      "name": "Sophie",
+      "neighborhood": "Mas Coll",
+      "pool": "Piscina de obra 9x4, instalación de cubierta de seguridad",
+      "body": "Tenemos niños pequeños y la seguridad era mi máxima prioridad. Nos explicaron los distintos tipos de cubiertas y nos instalaron un cobertor de seguridad que aguanta el peso de un adulto. Ahora estoy mucho más tranquila. El trato fue muy bueno y cumplieron los plazos que nos dieron.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro equipo técnico da servicio a toda la localidad de Alella, desde las urbanizaciones de la montaña como Alella Parc y Mas Coll hasta el núcleo urbano y las zonas más cercanas al mar como El Rengle. Gracias a nuestra ubicación estratégica y el fácil acceso a las principales vías, como la autopista C-32 y la carretera N-II, nos desplazamos con agilidad por toda la comarca. También cubrimos municipios colindantes como El Masnou, Teià y Tiana, ofreciendo la misma calidad de servicio y rapidez de respuesta. Si tienes tu chalet o comunidad en esta zona del Maresme, podemos ayudarte.",
+  "zoneNeighborhoods": [
+    "Alella Parc",
+    "Mas Coll",
+    "Can Comulada",
+    "El Rengle",
+    "Nucli Urbà (Alella)",
+    "El Masnou",
+    "Teià",
+    "Tiana"
+  ],
+  "zoneAccessRoutes": [
+    "C-32",
+    "N-II",
+    "BP-5002"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Cómo afecta realmente la dureza del agua de Alella a mi piscina?",
+      "a": "El agua de Alella, como en gran parte del Maresme, es muy dura. Esto significa que tiene un alto contenido en cal. Sin un tratamiento adecuado, la cal se incrusta en el gresite, las tuberías y, sobre todo, en la célula del clorador salino, dejándola inservible en poco tiempo. También puede provocar que el agua se vea turbia o lechosa. Nuestro mantenimiento incluye productos antical específicos para prevenir estos problemas."
+    },
+    {
+      "q": "¿Es recomendable instalar un clorador salino en Alella con esta agua?",
+      "a": "Sí, es una opción excelente por comodidad y calidad del agua, pero requiere un mantenimiento específico. La clave es realizar limpiezas periódicas de la célula del clorador para eliminar la cal acumulada. Algunos equipos modernos incluyen ciclos de autolimpieza (inversión de polaridad), pero aun así, una revisión y limpieza manual profesional al menos una vez por temporada es fundamental para asegurar su durabilidad y eficiencia."
+    },
+    {
+      "q": "Vivo en Alella Parc y mi piscina se llena de hojas de pino, ¿qué solución es la más efectiva?",
+      "a": "La pinocha es muy corrosiva y puede atascar los skimmers y dañar la bomba. La solución más efectiva es una combinación de acciones: un mantenimiento periódico de limpieza de cestillos y fondo, y la instalación de un cobertor (de lona en invierno o una cubierta telescópica para todo el año). Esto no solo mantiene el agua limpia, sino que también ahorra en productos químicos y reduce la evaporación."
+    },
+    {
+      "q": "¿Qué mantenimiento necesita mi piscina durante el invierno aquí en el Maresme?",
+      "a": "Aunque el clima es suave, la piscina necesita un invernaje para proteger la instalación y mantener el agua en buenas condiciones. Esto implica ajustar el pH, añadir un producto invernador de larga duración que evite la proliferación de algas y bajar el nivel del agua por debajo de los skimmers para protegerlos de posibles heladas, aunque sean poco frecuentes. Así, la puesta a punto en primavera será mucho más rápida y económica."
+    },
+    {
+      "q": "¿Me ayudáis con los permisos para construir una piscina nueva en Alella?",
+      "a": "Sí. Parte de nuestro servicio de construcción es el asesoramiento sobre la normativa municipal de Alella y el Codi Tècnic de l'Edificació. Te orientamos sobre los requisitos de seguridad, distancias a linderos y otros aspectos técnicos para que el proyecto que presentes en el ayuntamiento sea correcto y cumpla con toda la legislación vigente, evitando retrasos o problemas legales."
+    },
+    {
+      "q": "¿Cuál es la normativa sobre vallas de seguridad para piscinas en Cataluña?",
+      "a": "La normativa principal es el Codi Tècnic de l'Edificació (CTE). Exige que las piscinas de uso colectivo (comunidades) y unifamiliares tengan un sistema de protección para evitar caídas de niños menores de 5 años. Normalmente se trata de barreras de al menos 1,20 metros de altura, que no se puedan escalar y con una puerta de acceso que se cierre automáticamente. Te podemos asesorar sobre las soluciones homologadas más estéticas y funcionales."
+    },
+    {
+      "q": "Con la sequía, ¿hay restricciones para llenar la piscina en Alella?",
+      "a": "Sí. Durante las fases de alerta o emergencia por sequía declaradas por la Generalitat, el Ajuntament d'Alella aplica restricciones que prohíben el primer llenado de piscinas nuevas y limitan el rellenado parcial de las existentes a lo indispensable para garantizar la calidad sanitaria del agua. Es crucial estar al día de la fase en la que se encuentra el municipio. Nosotros te informamos de la situación y te proponemos soluciones para minimizar la pérdida de agua, como el uso de cobertores térmicos."
+    },
+    {
+      "q": "Mi chalet está en una calle estrecha de Mas Coll, ¿es un problema para el acceso?",
+      "a": "No es un problema. Conocemos perfectamente la orografía y las calles de todas las urbanizaciones de Alella. Nuestros vehículos y equipos están adaptados para poder acceder y trabajar en espacios complicados o con accesos difíciles, garantizando el servicio sin importar dónde se encuentre tu vivienda."
+    }
+  ],
+  "closingHeadline": "Tu piscina en Alella, siempre perfecta",
+  "closingCta": "Pídenos un presupuesto sin compromiso. Llámanos o escríbenos un WhatsApp y uno de nuestros técnicos te visitará en Alella para valorar tus necesidades y ofrecerte una solución a medida."
+}
