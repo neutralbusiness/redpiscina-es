@@ -1,0 +1,183 @@
+{
+  "slug": "tiana",
+  "name": "Tiana",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 8151,
+  "lat": 41.48791,
+  "lng": 2.27276,
+  "metaTitle": "Mantenimiento de piscinas en Tiana — Red Piscina · Presupuesto cerrado",
+  "metaDescription": "Servicio profesional para tu piscina en Tiana. Mantenimiento periódico, reparaciones y construcción. Pide tu presupuesto cerrado y despreocúpate.",
+  "heroSubtitle": "Tu chalet en Tiana es para disfrutarlo, no para pasar el fin de semana peleando con el cloro y la depuradora.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
+    },
+    {
+      "icon": "🔧",
+      "text": "Servicio todo el año"
+    },
+    {
+      "icon": "✅",
+      "text": "Materiales profesionales"
+    }
+  ],
+  "introLocal": "Tener una piscina en Tiana es un pequeño lujo. Es volver de un día de trabajo en Barcelona por la B-20, aparcar, y saber que tienes tu propio oasis esperándote, con vistas a las colinas de la Serralada de Marina o al mar. Ya vivas en un chalet en El Mas Ram o en una casa con jardín en el centro, la piscina es el corazón de la vida familiar durante más de seis meses al año. Pero ese paraíso privado exige un trabajo constante que no se ve. El clima del Maresme, con su humedad pegajosa en verano, es el caldo de cultivo perfecto para las algas. Una tormenta de verano inesperada puede dejarte el agua verde en menos de 24 horas. Y el agua de la red, con una dureza considerable, no ayuda: obliga a estar permanentemente ajustando el pH y luchando contra las incrustaciones de cal que estropean el gresite y la célula del clorador salino. Sabes de lo que hablo: esa sensación de bajar al cuarto de la depuradora un sábado por la mañana y no saber muy bien qué hacer, más allá de echar productos casi a ciegas.\n\nEl ciclo de la piscina en Tiana tiene sus propios ritmos. Hay una calma tensa que se rompe a finales de abril. De repente, todo el mundo quiere la 'puesta a punto' para tener la piscina impecable en mayo. Es una carrera contrarreloj para limpiar el fondo, revisar la depuradora que ha estado parada meses y hacer el primer tratamiento de choque. Luego llega el pico de Sant Joan, el pistoletazo de salida no oficial del verano. A partir de ahí, julio y agosto son un campo de batalla. Es cuando las bombas de calor deciden 'dar guerra', cuando una fuga que goteaba se convierte en un problema serio, o cuando la depuradora empieza a 'cantar' con un ruido que no augura nada bueno, justo el día que tienes invitados para una barbacoa. En esos momentos, encontrar un profesional disponible que pueda venir desde Montgat o Badalona sin darte cita para dentro de dos semanas es casi imposible. Y después, con la llegada de las lluvias de septiembre, empieza el ritual del cierre: el invernaje. Un paso que muchos subestiman, pero que es crucial para proteger el vaso de posibles heladas suaves y, sobre todo, para que la puesta a punto del año siguiente sea mucho más sencilla y barata.\n\nPor eso, un servicio de mantenimiento periódico no es un gasto, es una inversión en tranquilidad. Es delegar la responsabilidad en alguien que no solo sabe de piscinas, sino que conoce las particularidades de Tiana. Un técnico que sabe que el agua de tu zona tiende a desestabilizar el pH y que va a preverlo, ajustando la alcalinidad para que los niveles de cloro libre sean siempre estables y eficaces. Es la diferencia entre un baño seguro y uno que te deja los ojos rojos. Se trata de tener a alguien que, en su visita semanal o quincenal, no se limita a pasar el limpiafondos, sino que le echa un ojo a todo el sistema: escucha el sonido de la bomba de recirculación, revisa que no haya burbujas de aire en el prefiltro (un signo clásico de toma de aire), y comprueba la presión del filtro de arena. Es un trabajo preventivo que evita el 90% de las averías graves que siempre, por alguna razón, ocurren en el peor momento posible, como un domingo de agosto a las tres de la tarde.\n\nNuestro enfoque es sencillo: nos encargamos de la parte técnica para que tú solo te ocupes de disfrutar. Nos movemos por Tiana y sus alrededores, desde Alella hasta El Masnou, con la misma facilidad con la que tú bajas a la playa de Montgat. Conocemos las urbanizaciones, el tipo de construcción y los problemas recurrentes. Entendemos que una fuga en una piscina construida en una de las laderas de La Vilesa no es lo mismo que en una casa en terreno plano. Por eso, nuestro servicio va más allá del agua. Es una revisión integral de tu instalación, desde el estado del gresite o el liner hasta la eficiencia de tu bomba de calor. Te ofrecemos un presupuesto cerrado, sin letra pequeña, para que sepas exactamente cuánto cuesta tener tu piscina perfecta todo el año. Se acabó el almacenar bidones de productos químicos en el garaje. Se acabó la incertidumbre. Tu única preocupación será decidir si te das un baño antes o después de cenar.",
+  "servicesIntro": "Tanto si buscas un mantenimiento semanal para tu chalet en Tiana como si necesitas una reparación urgente, tenemos la solución.",
+  "processIntro": "Trabajamos con total transparencia para que sepas qué hacemos, por qué lo hacemos y cuánto te va a costar, sin sorpresas.",
+  "processSteps": [
+    {
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu casa en Tiana para ver la piscina. Evaluamos el estado del vaso, la depuradora, el equipo de cloración salina y la cubierta. Te explicamos qué necesita tu instalación y por qué."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Recibes un presupuesto detallado con cada tarea y material. Si es un mantenimiento, especificamos la frecuencia y las acciones de cada visita. Si es una reparación, el coste es fijo. Sin compromiso."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No hacemos nada sin tu visto bueno. Si durante una revisión encontramos un problema imprevisto, como una junta de skimmer deteriorada, te llamamos, te enviamos una foto y te damos la solución antes de actuar."
+    },
+    {
+      "title": "Ejecución profesional",
+      "body": "Nuestros técnicos trabajan con herramientas y productos de calidad. Al final de cada visita de mantenimiento, te dejamos un informe con los parámetros del agua (pH, cloro, alcalinidad) y el estado de los equipos."
+    },
+    {
+      "title": "Seguimiento y garantía",
+      "body": "Tras una reparación, hacemos un seguimiento para asegurar que todo funciona como debe. En el mantenimiento periódico, ajustamos el tratamiento según la meteorología y el uso de la piscina para optimizar el consumo."
+    }
+  ],
+  "commonIssuesIntro": "Los problemas de piscinas más comunes en Tiana y el Maresme están ligados a nuestro clima húmedo y a la calidad del agua: desde el agua verde tras una tormenta de verano hasta las incrustaciones de cal por la dureza del agua.",
+  "commonIssues": [
+    {
+      "title": "Agua verde por algas",
+      "body": "La combinación de calor y humedad del verano en el Maresme es ideal para la proliferación de algas. Una simple tormenta puede desequilibrar el pH y agotar el cloro libre, volviendo el agua verde en horas. Aplicamos un tratamiento de choque y ajustamos los niveles para evitar que vuelva a ocurrir."
+    },
+    {
+      "title": "Incrustaciones de cal en el vaso",
+      "body": "El agua de la red en la zona de Tiana es dura, con un alto contenido en calcio. Esto provoca que, si el pH no está perfectamente regulado, se formen depósitos blanquecinos en el gresite, la línea de flotación y, peor aún, en la célula del clorador salino, reduciendo su eficacia y vida útil."
+    },
+    {
+      "title": "La depuradora no tiene fuerza",
+      "body": "Si el limpiafondos no aspira o las boquillas de impulsión apenas mueven el agua, puede ser desde un filtro de arena sucio hasta una toma de aire en el circuito o una bomba a punto de fallar. Diagnosticamos el origen del problema para dar con la solución más eficaz y económica."
+    },
+    {
+      "title": "Fugas de agua en piscinas de ladera",
+      "body": "Muchas casas en Tiana están construidas en pendiente. Una pequeña fuga en el vaso o en una tubería no solo supone un gasto de agua, sino un riesgo para la estabilidad del terreno de la terraza. Utilizamos equipos de detección por ultrasonido para localizar la fuga sin obras innecesarias."
+    },
+    {
+      "title": "Problemas con la cloración salina",
+      "body": "El clorador salino es cómodo, pero sensible a la dureza del agua y a los niveles de sal. Si el aparato indica 'falta de sal' pero los niveles son correctos, es probable que la célula esté calcificada o agotada. La limpiamos o la sustituimos para que vuelva a funcionar como el primer día."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos Tiana y el Maresme",
+      "body": "Sabemos cómo afecta la humedad local, la dureza del agua y la proximidad de los pinos a tu piscina. No aplicamos soluciones genéricas, sino adaptadas a las condiciones de tu casa."
+    },
+    {
+      "title": "Tu tiempo es para disfrutar",
+      "body": "Nuestro servicio de mantenimiento periódico está diseñado para que te olvides de todo. Nos encargamos de la química, la limpieza y las revisiones para que tú solo te preocupes de bañarte."
+    },
+    {
+      "title": "Presupuestos claros y cerrados",
+      "body": "Antes de empezar cualquier trabajo, sabrás exactamente qué vamos a hacer y cuánto te costará. Sin sorpresas en la factura final. La confianza es la base de nuestro servicio."
+    },
+    {
+      "title": "Disponibilidad real en verano",
+      "body": "Sabemos que las averías no esperan. Por eso, priorizamos las urgencias de nuestros clientes, especialmente en julio y agosto, cuando tener la piscina a punto no es negociable."
+    },
+    {
+      "title": "Soluciones integrales",
+      "body": "Desde ajustar el pH hasta reformar por completo tu piscina. No necesitas buscar varios proveedores. Cubrimos mantenimiento, reparaciones, equipamiento y construcción con un único interlocutor."
+    }
+  ],
+  "testimonialsIntro": "No tenemos clientes, tenemos vecinos tranquilos. Estas son algunas de las situaciones que resolvemos cada día en la zona de Tiana.",
+  "testimonials": [
+    {
+      "name": "Anna",
+      "neighborhood": "El Mas Ram",
+      "pool": "Piscina de gresite 9×4, mantenimiento anual",
+      "body": "Llevaba años peleándome con los productos. Desde que contraté el mantenimiento con ellos, me he olvidado. Vienen una vez por semana, lo dejan todo impecable y el agua está perfecta siempre. Si ven algo raro, me avisan. Es la mejor inversión que he hecho en la casa, de verdad.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Centro",
+      "pool": "Piscina de liner 7x3, reparación de bomba",
+      "body": "La bomba de la depuradora se paró en pleno agosto. Llamé a varios sitios y nadie podía venir. Ellos me hicieron un hueco al día siguiente. Diagnosticaron que el motor se había quemado, me dieron un presupuesto para una nueva y la instalaron en 48 horas. Me salvaron el verano.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Els Vessants",
+      "pool": "Piscina de hormigón 10x5, instalación de cubierta",
+      "body": "Estaba harta de limpiar hojas de pino y de que el agua se enfriara tanto por la noche. Me aconsejaron una cubierta telescópica. Vinieron, midieron y me presentaron un proyecto muy claro. La instalación fue rápida y limpia. Ahora la uso desde abril hasta octubre. Un acierto total.",
+      "rating": 5
+    },
+    {
+      "name": "Joan",
+      "neighborhood": "La Vilesa",
+      "pool": "Piscina de gresite 8x4, detección de fuga",
+      "body": "Perdía muchísima agua y no sabíamos por dónde. Tenía miedo de tener que picar toda la terraza. Vinieron con una máquina especial y localizaron la fuga en una tubería junto a un skimmer. La reparación fue muy localizada y nos ahorraron una obra enorme. Muy profesionales.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro equipo de técnicos da servicio a toda la localidad de Tiana, garantizando una respuesta rápida y un conocimiento profundo de las particularidades de cada zona. Cubrimos desde las urbanizaciones de chalets como El Mas Ram y La Vilesa hasta las casas del centro del pueblo y la zona de Els Vessants. Nuestra proximidad nos permite desplazarnos con agilidad por las calles de Tiana y la carretera BV-5008. Además, nuestra área de actuación se extiende a los municipios colindantes del Maresme, como Montgat, Alella, El Masnou y Teià, a los que llegamos rápidamente a través de la C-31 y la B-20. Si tienes una piscina en esta zona, estamos a tu lado para lo que necesites.",
+  "zoneNeighborhoods": [
+    "Tiana Centre",
+    "El Mas Ram",
+    "La Vilesa",
+    "Els Vessants",
+    "Montgat",
+    "Alella",
+    "El Masnou",
+    "Teià"
+  ],
+  "zoneAccessRoutes": [
+    "B-20",
+    "C-31",
+    "BV-5008"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Cómo afecta realmente la dureza del agua de Tiana a mi piscina?",
+      "a": "El agua de la red en Tiana es bastante dura, lo que significa que tiene un alto contenido de calcio y magnesio. Esto hace que el pH tienda a subir constantemente. Un pH alto no solo irrita la piel y los ojos, sino que resta eficacia al cloro y provoca que la cal precipite, creando esas manchas blancas tan feas en el gresite y, peor aún, obstruyendo la célula de tu clorador salino. Un mantenimiento profesional se centra en mantener el pH y la alcalinidad bajo control para evitar estos problemas."
+    },
+    {
+      "q": "Con el clima del Maresme, ¿vale la pena instalar una bomba de calor?",
+      "a": "Absolutamente. Aunque tenemos un clima suave, una bomba de calor te permite alargar la temporada de baño de forma espectacular, desde abril hasta bien entrado octubre. En Tiana, al estar un poco resguardada por la Serralada, las noches pueden refrescar y enfriar el agua. Una bomba de calor inverter moderna es muy eficiente y te garantiza una temperatura perfecta con un consumo eléctrico contenido, haciendo que la inversión se amortice en disfrute."
+    },
+    {
+      "q": "¿Cuál es el mejor momento para hacer la puesta a punto en Tiana y evitar el colapso de mayo?",
+      "a": "El truco es adelantarse. Recomendamos programar la puesta a punto de tu piscina entre la última semana de marzo y las dos primeras de abril. En esas fechas, la demanda es menor, tenemos más disponibilidad y podemos dedicarle el tiempo necesario sin prisas. Así te aseguras tener la piscina lista para el primer fin de semana de calor de verdad, mientras los demás empiezan a llamar."
+    },
+    {
+      "q": "Vivo en una ladera en La Vilesa. ¿Cómo afrontáis una posible fuga de agua?",
+      "a": "Somos muy conscientes de los riesgos que implica una fuga en terrenos inclinados. Por eso, nunca actuamos a la ligera. Utilizamos equipos de detección no invasivos, como geófonos y cámaras termográficas, para localizar el punto exacto de la fuga sin necesidad de hacer obras a ciegas. La prioridad es una reparación precisa que garantice la estanqueidad y la seguridad estructural de tu terraza y jardín."
+    },
+    {
+      "q": "Los pinos de la Serralada de Marina me llenan la piscina de agujas. ¿Qué solución es la más práctica?",
+      "a": "Es el problema más clásico de la zona. Las agujas de pino son muy finas y a menudo pasan por el cesto del skimmer, atascando la bomba. La solución más eficaz es instalar un cobertor, ya sea una lona de invierno para la temporada baja o una cubierta telescópica o de persiana para todo el año. Esta última es la opción más cómoda, ya que mantiene la piscina limpia, segura y conserva la temperatura del agua."
+    },
+    {
+      "q": "¿Qué incluye un mantenimiento estándar para un chalet en El Mas Ram?",
+      "a": "Una visita de mantenimiento típica incluye: análisis completo del agua (pH, cloro libre, alcalinidad, sal, etc.), dosificación de los productos químicos necesarios, limpieza del fondo y paredes con limpiafondos manual o robot, vaciado y limpieza de cestos de skimmers y prefiltro de la bomba, revisión de la presión del filtro y lavado si es necesario, y una inspección visual general de todo el equipo. Te dejamos un informe de la visita para que sepas qué hemos hecho."
+    },
+    {
+      "q": "¿Dais servicio también en Badalona, cerca de la B-20?",
+      "a": "Sí, por supuesto. Aunque nuestra base de operaciones está centrada en Tiana, nuestra área de servicio cubre los municipios limítrofes. Damos servicio a urbanizaciones y barrios de Badalona con fácil acceso desde la B-20, como Mas Ram (que comparte con Tiana) o Montigalà, así como en Montgat. Nuestra logística nos permite llegar rápidamente a estas zonas."
+    }
+  ],
+  "closingHeadline": "Tu piscina en Tiana, siempre a punto",
+  "closingCta": "Pide una visita sin compromiso. Contacta con nosotros por teléfono, WhatsApp o email y te daremos un presupuesto cerrado para que disfrutes de tu piscina en Tiana sin preocupaciones."
+}
