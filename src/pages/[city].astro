@@ -188,7 +188,7 @@ const businessId = `${canonical}#business`;
 const webpageId = `${canonical}#webpage`;
 
 const autoRepair = {
-  "@type": "AutoRepair",
+  "@type": "LocalBusiness",
   "@id": businessId,
   name: t ? t.businessName : `Piscinas en ${city.name} — Red Piscina`,
   alternateName: t ? `${t.businessName} · ${city.name}` : undefined,
@@ -251,6 +251,17 @@ const autoRepair = {
           bestRating: 5,
           worstRating: 1,
         },
+        review: city.testimonials.map(t => ({
+          "@type": "Review",
+          author: { "@type": "Person", name: t.name },
+          reviewRating: {
+            "@type": "Rating",
+            ratingValue: t.rating || 5,
+            bestRating: 5,
+            worstRating: 1,
+          },
+          reviewBody: t.body,
+        })),
       }
     : {}),
 };
