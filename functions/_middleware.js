@@ -17,7 +17,7 @@
 export async function onRequest(context) {
   const { request, next, env } = context;
   const url = new URL(request.url);
-  const hostname = url.hostname.toLowerCase();
+  const hostname = (request.headers.get("x-forwarded-host") || url.hostname).toLowerCase();
 
   // Dominio principal sin subdominio relevante → master directorio
   const isApex = hostname === "redpiscina.es";
