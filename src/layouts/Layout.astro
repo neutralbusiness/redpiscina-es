@@ -892,6 +892,26 @@ const { title, description, canonical, schema, ogImage = `https://${NETWORK.doma
   <script async src="https://panel.neutralb.es/track.js"></script>
   </head>
   <body>
+    <!-- Navigation progress bar -->
+    <div id="np" style="position:fixed;top:0;left:0;width:0;height:3px;background:var(--accent,#3b82f6);z-index:9999;transition:width .3s ease;pointer-events:none;"></div>
+    <script>
+    (()=>{
+      const b=document.getElementById("np");
+      if(!b)return;
+      let t;
+      document.addEventListener("click",e=>{
+        const a=e.target.closest("a[href]");
+        if(!a||a.target==="_blank"||a.href.startsWith("tel:")||a.href.startsWith("mailto:")||a.href.startsWith("https://wa.me"))return;
+        if(new URL(a.href,location.origin).origin!==location.origin)return;
+        b.style.transition="width .3s ease";
+        b.style.width="30%";
+        t=setTimeout(()=>{b.style.width="60%"},300);
+        setTimeout(()=>{b.style.width="80%"},800);
+      });
+      window.addEventListener("beforeunload",()=>{b.style.transition="width .15s ease";b.style.width="100%";clearTimeout(t)});
+      window.addEventListener("pageshow",()=>{b.style.transition="none";b.style.width="0"});
+    })();
+    </script>
     <slot />
   </body>
 </html>
