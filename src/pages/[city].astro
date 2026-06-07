@@ -169,7 +169,8 @@ Os escribo desde ${canonical}
 Gracias,
 `;
 const mailtoUrl = `mailto:${email}?subject=${encodeURIComponent(mailSubject)}&body=${encodeURIComponent(mailBody)}`;
-const waMsg = `¡Hola! Estoy visitando ${city.slug}.${NETWORK.domain}, ¿estáis disponibles?`;
+const waMsg = `Hola! Quiero información.
+📍 ${city.slug}.${NETWORK.domain}`;
 const waUrl = `https://wa.me/${whatsapp}?text=${encodeURIComponent(waMsg)}`;
 
 const allFaqs = [...city.faqLocal, ...FAQ_BASE];
@@ -795,5 +796,3 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
     </a>
   </div>
 </Layout>
-
-
