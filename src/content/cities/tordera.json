@@ -4,180 +4,120 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 15345,
-  "lat": 41.69914,
-  "lng": 2.71888,
-  "metaTitle": "Taller mecánico en Tordera — Multimarca y de confianza",
-  "metaDescription": "Tu coche a punto en Tordera. Presupuestos cerrados para revisión, averías y neumáticos. Cerca de la N-II y Palafolls. Pide tu cita sin compromiso.",
-  "heroSubtitle": "Cansado de los talleres que te lían con facturas sorpresa? Aquí te damos un presupuesto cerrado para que conduzcas tranquilo por la N-II.",
+  "metaTitle": "Mantenimiento y reparación de piscinas en Tordera | Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Tordera. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
+  "heroSubtitle": "¿Tienes una piscina en Tordera y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
-    },
-    {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "text": "Todo el año"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En nuestro taller de Tordera entendemos que tu coche es una herramienta esencial, no un lujo. Sabemos lo que significa vivir aquí, a caballo entre el Maresme y La Selva, y depender del vehículo para todo: para ir a trabajar a los polígonos de la zona, para llevar a los niños al colegio o para hacer la compra semanal. Comprendemos perfectamente el desgaste que supone el trayecto diario hacia Blanes, Mataró o incluso Girona, utilizando constantemente la N-II o buscando la entrada a la AP-7. Ese uso intensivo, con tramos de carretera nacional y paradas constantes en las rotondas de acceso a Palafolls o Malgrat, es el día a día de la mayoría de coches que vemos por aquí, y sabemos exactamente qué componentes sufren más.\n\nEl parque móvil de Tordera es un reflejo de su gente: práctico y trabajador. Vemos a diario los SEAT Ibiza y León, los Renault Clio, los Peugeot 308 y los Ford Focus que forman el grueso de los coches familiares. También conocemos al dedillo las furgonetas como la Citroën Berlingo, la Peugeot Partner o la Ford Transit, imprescindibles para los autónomos y pequeñas empresas de los polígonos de Can Verdalet o el polígon Fibracolor. La mayoría son diésel de hace unos años, coches fiables que necesitan un mantenimiento preventivo para evitar problemas con el filtro de partículas por los trayectos cortos dentro del pueblo, desde urbanizaciones como Tordera Parc hasta el centro.\n\nEl clima de Tordera, con la humedad que aporta el río y los veranos calurosos, también deja su huella en la mecánica. No es lo mismo un coche que duerme en la calle en la zona de Sant Pere, expuesto a la humedad nocturna, que uno guardado en garaje. Esta humedad afecta a las baterías, a los sistemas de arranque y puede acelerar la corrosión en los bajos si no se vigila. En verano, un sistema de aire acondicionado que funcione a pleno rendimiento no es una opción, es una necesidad para soportar los atascos en la N-II dirección a las playas de la Costa Brava.\n\nSabemos que tu coche no solo circula por asfalto. Muchos de nuestros clientes aprovechan la cercanía del Parc Natural del Montnegre i el Corredor para hacer escapadas de fin de semana, circulando por pistas y caminos que ponen a prueba la suspensión y los neumáticos. Otros hacen un uso puramente urbano, moviéndose entre las diferentes urbanizaciones como Agora Parc o Mas Martí, lo que implica un desgaste diferente, más centrado en frenos y embrague. Sea cual sea tu caso, conocemos las condiciones y adaptamos nuestro diagnóstico a la realidad de conducir en Tordera y sus alrededores.",
-  "servicesIntro": "Desde la revisión para pasar la ITV en Blanes sin sustos hasta cambiar un embrague gastado de tanto circular por la N-II, cubrimos todas tus necesidades.",
-  "processIntro": "En nuestro taller de Tordera, la transparencia es la pieza más importante. Te damos un presupuesto claro y no movemos un tornillo sin tu autorización.",
+  "introLocal": "Tordera, en plena comarca del Maresme, combina el clima suave de la costa catalana con una alta densidad de viviendas unifamiliares con piscina, sobre todo en las zonas más alejadas del núcleo urbano. La proximidad al mar es una ventaja para el clima, pero también un desafío técnico: la brisa marina cargada de sal acelera la corrosión de escaleras, barandillas y carcasas metálicas de las depuradoras peor protegidas. En las viviendas más próximas al litoral prestamos especial atención a estos elementos en cada revisión.\n\nEl verano en el Maresme es largo y húmedo, lo que exige un tratamiento del agua constante para evitar algas y turbidez. Muchas piscinas de la zona, construidas hace décadas, siguen teniendo gresite y depuradoras poco eficientes: renovar el sistema de filtración con una bomba de velocidad variable suele ser la mejora que más se nota, tanto en la factura eléctrica como en la calidad del agua.",
+  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Tordera, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
+  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando traes tu coche, escuchamos qué te preocupa y nuestros técnicos realizan una inspección completa para identificar el origen del problema con precisión. No dejamos nada al azar."
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas, sin extras ni sorpresas de última hora. Así sabes exactamente cuánto te va a costar."
+      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "Revisas el presupuesto tranquilamente y nos das tu visto bueno. Hasta que no nos confirmas que estás de acuerdo, tu coche no se toca. Tú tienes siempre el control total."
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Nos ponemos manos a la obra utilizando piezas de primera calidad. Te mantenemos informado del proceso y cumplimos con los plazos acordados para que recuperes tu coche lo antes posible."
+      "title": "Ejecución profesional",
+      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos cuando tu coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, contactamos contigo para asegurar que todo funciona perfectamente."
+      "title": "Seguimiento y garantía",
+      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
     }
   ],
-  "commonIssuesIntro": "Los coches en Tordera sufren por el tráfico de la N-II, la humedad del río y los trayectos cortos por el pueblo. Estos son los problemas que más vemos y solucionamos:",
+  "commonIssuesIntro": "El clima y las condiciones del agua en Tordera generan averías características en las piscinas de la zona. Estas son las que más vemos.",
   "commonIssues": [
     {
-      "title": "Desgaste prematuro de embrague y frenos",
-      "body": "El uso diario de la N-II hacia Blanes o Mataró, con sus retenciones y rotondas, junto con el tráfico interno de Tordera, castiga mucho el embrague y los frenos. Realizamos sustituciones con componentes de calidad para asegurar una frenada segura y cambios de marcha suaves, adaptados a este tipo de conducción mixta."
+      "title": "Corrosión en escaleras y elementos metálicos",
+      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
     },
     {
-      "title": "Fallos en el sistema de aire acondicionado",
-      "body": "Los veranos húmedos y calurosos de la zona hacen que el aire acondicionado trabaje a máxima potencia. Es común que aparezcan fugas de gas o fallos en el compresor. Hacemos diagnósticos precisos, recargas de gas y reparaciones para que puedas afrontar el calor sin problemas."
+      "title": "Agua turbia en pleno verano",
+      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
     },
     {
-      "title": "Problemas de batería y arranque en frío",
-      "body": "La humedad del entorno del río Tordera, especialmente en invierno, afecta a la capacidad de la batería. Si además haces trayectos cortos, como ir de una urbanización al centro, la batería no se recarga por completo. Comprobamos el estado de tu batería y alternador para evitar que te deje tirado."
+      "title": "Depuradoras que fallan en temporada alta",
+      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
     },
     {
-      "title": "Suspensión y neumáticos castigados",
-      "body": "Entre las calles del pueblo, las carreteras comarcales hacia Hostalric y los caminos rurales cerca del Montnegre, la suspensión y los neumáticos sufren mucho. Revisamos amortiguadores, silentblocks y alineamos la dirección para garantizar tu seguridad y confort, sea cual sea el firme por el que conduzcas."
+      "title": "Fugas de agua difíciles de localizar",
+      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
     },
     {
-      "title": "Averías en filtros de partículas (FAP/DPF)",
-      "body": "Muchos diésel en Tordera se usan para recorridos cortos que no permiten que el filtro de partículas se regenere correctamente, provocando obstrucciones y averías costosas. Realizamos limpiezas y regeneraciones forzadas para alargar la vida del FAP y evitar que el coche entre en modo de emergencia."
+      "title": "Filtros de arena con menos rendimiento por la cal",
+      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos Tordera",
-      "body": "Sabemos cómo afecta a tu coche conducir a diario por la N-II, la humedad del río o los caminos del Montnegre. Nuestro diagnóstico siempre tiene en cuenta la realidad local."
+      "title": "Diagnóstico técnico honesto",
+      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "Te damos un precio cerrado antes de empezar. Lo que presupuestamos es lo que pagas. Sin letra pequeña ni extras inesperados en la factura final. Claridad ante todo."
+      "title": "Adaptado al clima y al agua de tu zona",
+      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
     },
     {
-      "title": "Técnicos, no comerciales",
-      "body": "Hablamos tu idioma. Te explicamos las averías de forma sencilla y honesta, centrándonos en la solución que realmente necesitas, sin intentar venderte reparaciones innecesarias."
+      "title": "Presupuestos cerrados",
+      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
     },
     {
-      "title": "Expertos en tu marca",
-      "body": "Desde un SEAT León para ir a trabajar hasta una furgoneta Peugeot Partner para tu negocio, conocemos el parque móvil de la zona y tenemos la experiencia para tratar cada coche como se merece."
+      "title": "Equipo técnico propio",
+      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
     },
     {
-      "title": "Garantía en cada reparación",
-      "body": "Todas nuestras intervenciones y las piezas que utilizamos están garantizadas por escrito. Queremos que salgas del taller con total tranquilidad y confianza en el trabajo realizado."
+      "title": "Disponibilidad en temporada alta",
+      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
     }
   ],
-  "testimonialsIntro": "Estas son algunas situaciones reales que nos encontramos. Quizá te sientas identificado con la experiencia de estos conductores de Tordera y alrededores.",
-  "testimonials": [
-    {
-      "name": "Anna",
-      "neighborhood": "Tordera Parc",
-      "car": "SEAT Ibiza 1.6 TDI 2015",
-      "body": "Hago cada día el trayecto Tordera-Mataró por la nacional y el coche empezaba a hacer un ruido raro al cambiar de marcha. Pensé que sería una pasta. Aquí me lo miraron, me explicaron que era el embrague y me dieron un presupuesto cerrado. Cumplieron con el precio y el plazo. Ahora va perfecto.",
-      "rating": 5
-    },
-    {
-      "name": "Jordi",
-      "neighborhood": "Sant Pere",
-      "car": "Peugeot Partner 2018",
-      "body": "Uso la furgoneta para trabajar por todo el Maresme y no puedo permitirme que falle. La traje para la revisión completa antes de un pico de trabajo y me detectaron un desgaste en las pastillas de freno que otros no habían visto. Muy profesionales, entienden que para algunos el vehículo es nuestra oficina.",
-      "rating": 5
-    },
-    {
-      "name": "Carme",
-      "neighborhood": "Palafolls",
-      "car": "Renault Clio 2016",
-      "body": "Tenía que pasar la ITV en Blanes y siempre voy con miedo. Los traje para una revisión pre-ITV y me ajustaron los faros y un par de cosas más que seguro me habrían tirado para atrás. La pasé a la primera sin problemas. Un servicio que te ahorra tiempo y dinero.",
-      "rating": 5
-    },
-    {
-      "name": "David",
-      "neighborhood": "Fogars de la Selva",
-      "car": "Ford Focus 2013",
-      "body": "Se me encendió una luz de avería del motor volviendo a casa por la GI-512. Me asusté bastante. Llamé y me atendieron rápido. Resultó ser un sensor del filtro de partículas. No fue una reparación barata, pero me explicaron bien el porqué y me dieron opciones. Agradezco la honestidad.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda Tordera y sus alrededores. Tanto si vives en el núcleo urbano como en barrios y urbanizaciones como Tordera Parc, Sant Pere, Fibracolor, Mas Martí o Agora Parc, estamos a tu disposición. Nuestra ubicación es ideal para clientes de municipios vecinos que buscan un taller de confianza, como Palafolls, Blanes, Malgrat de Mar, Santa Susanna y Fogars de la Selva. Gracias a nuestro fácil acceso desde la N-II y la BV-5122, llegar a nuestro taller es muy sencillo. También estamos a pocos minutos de los accesos a las principales vías rápidas como la AP-7 y la C-32.",
-  "zoneNeighborhoods": [
-    "Tordera Parc",
-    "Sant Pere",
-    "Fibracolor",
-    "Mas Martí",
-    "Agora Parc",
-    "Sant Daniel",
-    "Palafolls",
-    "Blanes",
-    "Malgrat de Mar",
-    "Fogars de la Selva"
-  ],
-  "zoneAccessRoutes": [
-    "N-II",
-    "AP-7",
-    "C-32",
-    "BV-5122",
-    "GI-512"
-  ],
+  "zoneText": "Damos servicio a Tordera y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
   "faqLocal": [
     {
-      "q": "¿Hacéis la Pre-ITV? Tengo que ir a la de Blanes y siempre me ponen pegas.",
-      "a": "Sí, por supuesto. Es uno de nuestros servicios más solicitados. Sabemos que la ITV de Blanes es exigente. Hacemos una revisión exhaustiva de los mismos puntos que miran ellos: luces, frenos, emisiones, neumáticos, suspensión... Así te aseguras de ir sobre seguro y pasarla a la primera, ahorrándote un segundo viaje y el coste de la reinspección."
+      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Tordera?",
+      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
     },
     {
-      "q": "Mi coche es diésel y casi solo lo uso por Tordera, ¿necesita un mantenimiento especial?",
-      "a": "Sí, es muy importante vigilarlo. Los diésel modernos con filtro de partículas (FAP) necesitan carretera para regenerarse. Si solo haces trayectos cortos por Tordera, el filtro puede obstruirse y provocar averías graves. Te recomendamos traerlo para revisiones periódicas donde podemos forzar la regeneración o realizar una limpieza si es necesario, y te daremos consejos para cuidarlo."
+      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
+      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
     },
     {
-      "q": "Vivo en una urbanización como Agora Parc, ¿el desgaste por esos caminos es diferente?",
-      "a": "Totalmente. Las calles de muchas urbanizaciones, con pendientes pronunciadas, curvas cerradas y a veces un asfalto más irregular, castigan más la suspensión, los neumáticos y los frenos. En nuestras revisiones prestamos especial atención a estos elementos si nos comentas que vives en una de estas zonas de Tordera, para garantizar tu seguridad."
+      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
+      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
     },
     {
-      "q": "Trabajo con la furgoneta por los polígonos de Tordera y Palafolls, ¿entendéis de vehículos comerciales?",
-      "a": "Claro que sí. Conocemos perfectamente las necesidades de los profesionales y autónomos de la zona. Sabemos que tu furgoneta es tu herramienta de trabajo y que no puede estar parada. Priorizamos estas reparaciones y entendemos el tipo de desgaste que sufren por la carga y el uso intensivo, tanto en motor como en frenos y embrague."
-    },
-    {
-      "q": "Tengo que coger la AP-7 todos los días, ¿qué revisión recomendáis para estar seguro?",
-      "a": "Para un uso intensivo en autopista, la seguridad es clave. Recomendamos una revisión enfocada en neumáticos (presión y desgaste), sistema de frenado, niveles de líquidos (aceite y refrigerante) y el estado de la correa de distribución si se acerca al kilometraje recomendado por el fabricante. Conducir a alta velocidad exige que el coche esté en perfecto estado."
-    },
-    {
-      "q": "El aire acondicionado de mi coche no enfría bien en verano, ¿es por la humedad de aquí?",
-      "a": "La humedad ambiental no debería afectar directamente al rendimiento si el sistema está bien, pero sí hace que la sensación de calor sea mayor y necesites que funcione al 100%. Lo más probable es que tu sistema tenga una pequeña fuga y haya perdido parte del gas refrigerante. Lo revisamos, detectamos la fuga si la hay y lo recargamos para que vuelva a enfriar como el primer día."
+      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
+      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
     }
   ],
-  "closingHeadline": "Tu coche, a punto para Tordera",
-  "closingCta": "Si tu coche necesita una revisión o notas algo raro, no esperes más. Llámanos o escríbenos un WhatsApp y te daremos cita en nuestro taller de Tordera sin ningún compromiso."
+  "closingHeadline": "Tu piscina en Tordera, sin sorpresas",
+  "closingCta": "Si tienes una piscina en Tordera y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
 }
