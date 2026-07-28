@@ -4,183 +4,120 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 32030,
-  "lat": 41.36718,
-  "lng": 2.0574,
-  "metaTitle": "Taller mecánico en Sant Joan Despí — Cuidamos coches con historia",
-  "metaDescription": "Tu coche tiene más de 10 años y te da miedo el taller? En Sant Joan Despí te damos un presupuesto cerrado y sin sorpresas. Pide tu cita y conduce tranquilo.",
-  "heroSubtitle": "Sabemos lo que es cruzar la B-23 cada día con un coche que ya no es nuevo y pensar 'que no se rompa hoy'. Estamos para eso.",
+  "metaTitle": "Mantenimiento y reparación de piscinas en Sant Joan Despí | Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Sant Joan Despí. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
+  "heroSubtitle": "¿Tienes una piscina en Sant Joan Despí y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
-    },
-    {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "text": "Todo el año"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Sant Joan Despí, un coche con más de diez años no es una reliquia, es una herramienta. Es el SEAT Ibiza que aparcas como puedes en el barrio Centre para ir al mercado, el Renault Scénic que cargas hasta los topes para escapar el fin de semana, o el Volkswagen Golf TDI que te lleva cada mañana al trabajo, enfilando la B-23 con la esperanza de no encontrar el atasco de siempre a la altura de Esplugues. Comprendemos perfectamente esa sensación, ese nudo en el estómago cuando un testigo se enciende en el salpicadero o escuchas un ruido nuevo. No es solo la avería, es el miedo a una factura impredecible, la duda de si merece la pena seguir invirtiendo en un coche que ya tiene sus kilómetros y sus historias. Nuestro trabajo empieza ahí: en entender que tu coche no es solo una máquina, sino una parte fundamental de tu día a día en el Baix Llobregat.\n\nEl parque automovilístico de nuestra zona tiene una personalidad muy marcada. La sombra de la antigua fábrica de la Zona Franca y la actual de Martorell es alargada, y eso se nota en cada calle. Los SEAT León de segunda generación, los Altea XL y los incombustibles Ibiza de principios de los 2000 son mayoría en barrios como Les Planes o Torreblanca. Son coches duros, pero el tiempo no perdona. La humedad constante que sube del Llobregat se ceba con la electrónica y los contactos eléctricos de los modelos más veteranos, mientras que el tráfico denso de la Carretera de Laureà Miró (la N-340 a su paso por la ciudad) castiga sin piedad los embragues y los filtros de partículas de los diésel, obligados a un eterno arranca-para. Ese ruido intermitente que oyes al ralentí, que a veces recuerda al traqueteo del TRAM al cruzar hacia el Pont d'Esplugues, no es algo que debas ignorar. Es tu coche pidiendo una revisión honesta.\n\nPara un vehículo que ya ha soplado más de diez velas, la cita anual con la ITV de la zona (la de Sant Joan Despí-Cornellà) se convierte en una auténtica prueba de fuego. Los gases en los diésel, el estado de los silentblocks después de miles de badenes en zonas residenciales, o la eficacia de una suspensión que ha absorbido cada bache de la A-2 son los puntos críticos que quitan el sueño. Sabemos que la tentación de cruzar los dedos y 'probar suerte' es grande, pero a menudo es la peor decisión. Una pequeña fuga de aceite o un filtro de aire saturado, problemas relativamente sencillos y económicos de solucionar, pueden convertirse en un 'desfavorable' y en la obligación de volver al taller, esta vez con prisas y más gastos. Por eso, nuestro enfoque es preventivo: una inspección pre-ITV rigurosa que te da un diagnóstico claro y un presupuesto cerrado para que vayas a la inspección con la tranquilidad de que todo está en orden.\n\nNo somos un concesionario de coches nuevos. Somos mecánicos. Nuestro taller está pensado para el coche que conduce la gente de Sant Joan Despí, Sant Just o Cornellà. Para el Peugeot 207 que batalla por aparcamiento en el Eixample Residencial o el Ford Focus familiar que ya ha visto varias generaciones de niños en sus asientos traseros. Nuestra propuesta de valor no es venderte un coche nuevo, sino alargar la vida del tuyo de forma segura y asequible. Lo hacemos con total transparencia, explicándote qué le pasa a tu vehículo en un lenguaje que entiendes y dándote un precio final antes de tocar un solo tornillo. Queremos ser ese taller de confianza al que acudes sabiendo que cuidaremos de tu coche como si fuera nuestro, porque entendemos lo que significa para ti.",
-  "servicesIntro": "Desde la revisión anual para tu coche de batalla hasta la diagnosis de esa avería eléctrica que te trae de cabeza en Sant Joan Despí.",
-  "processIntro": "Olvídate de la incertidumbre. Te explicamos cada paso y te damos un presupuesto cerrado para que tengas el control total.",
+  "introLocal": "En Sant Joan Despí, en el Baix Llobregat, damos servicio tanto a chalets particulares como a piscinas comunitarias, muy habituales en las urbanizaciones de la comarca. El uso intensivo de las piscinas comunitarias en temporada alta exige un mantenimiento más frecuente y un control estricto de los parámetros del agua, mientras que en las piscinas privadas el reto suele ser distinto: mantenerlas en buen estado con visitas más espaciadas durante el resto del año.\n\nLa cercanía al Llobregat y la humedad de la zona hacen que el gresite y las juntas de piscinas antiguas se degraden con el tiempo, provocando fugas difíciles de localizar a simple vista. Usamos equipos de detección profesional para dar con el punto exacto sin necesidad de obras innecesarias.",
+  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Sant Joan Despí, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
+  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que te preocupa y conectamos tu coche a nuestros equipos de diagnosis. Analizamos el problema a fondo para encontrar la causa real, no solo para tapar el síntoma. No damos palos de ciego."
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico en la mano, te preparamos un presupuesto detallado por escrito o por WhatsApp. Incluye piezas, mano de obra e IVA. El precio que ves es el precio que pagas, sin sorpresas de última hora."
+      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu confirmación explícita. Tienes tiempo para revisarlo todo y preguntarnos lo que necesites. Si decides no reparar, solo se factura el diagnóstico."
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Trabajamos con recambios de primeras marcas y te informamos del plazo estimado de la reparación. Todas nuestras intervenciones tienen garantía para que conduzcas con total tranquilidad por Sant Joan Despí y alrededores."
+      "title": "Ejecución profesional",
+      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos el trabajo realizado y te entregamos la factura detallada. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+      "title": "Seguimiento y garantía",
+      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
     }
   ],
-  "commonIssuesIntro": "El clima húmedo del Llobregat, el tráfico de la N-340 y los trayectos cortos por Sant Joan Despí provocan una serie de averías muy características en los coches de la zona.",
+  "commonIssuesIntro": "El clima y las condiciones del agua en Sant Joan Despí generan averías características en las piscinas de la zona. Estas son las que más vemos.",
   "commonIssues": [
     {
-      "title": "Desgaste de embrague por tráfico urbano",
-      "body": "El constante para-arranca en la Carretera de Laureà Miró o buscando aparcamiento en el barrio Centre desgasta prematuramente el embrague. Si notas que el pedal está duro o que el coche patina al acelerar, es hora de revisarlo. Hacemos un diagnóstico preciso y te ofrecemos un presupuesto cerrado para su sustitución."
+      "title": "Corrosión en escaleras y elementos metálicos",
+      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
     },
     {
-      "title": "Fallo del aire acondicionado en verano",
-      "body": "El calor húmedo del verano en el Baix Llobregat hace que el aire acondicionado sea imprescindible. La falta de uso en invierno y las pequeñas fugas en el circuito son las causas más comunes de que no enfríe. Revisamos el sistema, detectamos fugas y recargamos el gas para que vuelvas a conducir fresco."
+      "title": "Agua turbia en pleno verano",
+      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
     },
     {
-      "title": "Problemas de humos en diésel antes de la ITV",
-      "body": "Los trayectos cortos, como ir del polígono de las Begudes a la estación de Renfe, son fatales para los filtros de partículas (DPF) y las válvulas EGR de los motores diésel. Esto provoca un exceso de humos que garantiza un suspenso en la ITV. Realizamos limpiezas y diagnosis para solucionar el problema de raíz."
+      "title": "Depuradoras que fallan en temporada alta",
+      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
     },
     {
-      "title": "Ruidos en la suspensión y silentblocks",
-      "body": "Tantos años subiendo y bajando los badenes de zonas residenciales como Les Planes o circulando por calles con asfalto irregular acaban pasando factura a los amortiguadores y silentblocks. Si oyes golpes secos o chirridos en los baches, es una señal de desgaste. Un sistema en buen estado es clave para tu seguridad."
+      "title": "Fugas de agua difíciles de localizar",
+      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
     },
     {
-      "title": "Fallos eléctricos por la humedad del Llobregat",
-      "body": "La cercanía al río genera una humedad ambiental que, en coches con más de una década, puede provocar corrosión en conexiones y fallos intermitentes en sensores, elevalunas o el cierre centralizado. Localizar estos 'gremlins' eléctricos es una de nuestras especialidades, ahorrándote tiempo y dinero."
+      "title": "Filtros de arena con menos rendimiento por la cal",
+      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
     }
   ],
   "whyUs": [
     {
-      "title": "Especialistas en tu coche de siempre",
-      "body": "Entendemos los problemas y achaques de los coches de más de 10 años. Sabemos dónde mirar y cómo reparar de forma eficaz y duradera, sin hacerte gastar de más en un vehículo que ya está amortizado."
+      "title": "Diagnóstico técnico honesto",
+      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
     },
     {
-      "title": "Presupuesto que no cambia",
-      "body": "La mayor fuente de estrés en un taller es la factura final. Con nosotros, eso no existe. El precio que te damos es el que pagas. Si surge un imprevisto, paramos y te consultamos antes de seguir."
+      "title": "Adaptado al clima y al agua de tu zona",
+      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
     },
     {
-      "title": "Diagnóstico honesto, sin inflar",
-      "body": "Nuestro objetivo es que tu coche siga funcionando, no venderte reparaciones que no necesitas. Te explicamos el porqué de cada intervención y te damos una opinión profesional sobre lo que es urgente y lo que puede esperar."
+      "title": "Presupuestos cerrados",
+      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
     },
     {
-      "title": "Cerca de ti en el Baix Llobregat",
-      "body": "Estamos ubicados en Sant Joan Despí, un punto estratégico y de fácil acceso para todos los vecinos de la comarca, desde Cornellà hasta Sant Feliu. Ahorra tiempo y trae tu coche a un taller de tu zona."
+      "title": "Equipo técnico propio",
+      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
     },
     {
-      "title": "Pasamos la ITV por ti",
-      "body": "Si no tienes tiempo o simplemente quieres quitarte el trámite de encima, nosotros nos encargamos. Hacemos la pre-ITV, gestionamos la cita y llevamos tu coche a la inspección. Un servicio completo para tu comodidad."
+      "title": "Disponibilidad en temporada alta",
+      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Sant Joan Despí que, como tú, llegaron preocupados y se fueron conduciendo tranquilos.",
-  "testimonials": [
-    {
-      "name": "Carles",
-      "neighborhood": "Les Planes",
-      "car": "SEAT León 1.9 TDI 2008",
-      "body": "Llevaba meses con un ruido metálico al girar y con la ITV a la vuelta de la esquina estaba acojonado. Pensé que sería una fortuna. Aquí me explicaron que era una rótula de la suspensión. Me dieron el precio cerrado, lo acepté y en un día estaba listo. Pasé la ITV sin un solo fallo. Muy honestos.",
-      "rating": 5
-    },
-    {
-      "name": "Anna",
-      "neighborhood": "Centre",
-      "car": "Renault Clio 2011",
-      "body": "El aire acondicionado me dejó tirada en plena ola de calor. En otros sitios me daban cita para la semana siguiente. Llamé aquí y me hicieron un hueco para diagnosticarlo. Era una fuga pequeña. Lo repararon rápido y a un precio razonable. Me salvaron el verano, ¡literalmente!",
-      "rating": 5
-    },
-    {
-      "name": "Joan",
-      "neighborhood": "Torreblanca",
-      "car": "Peugeot 308 SW 2012",
-      "body": "Tocaba hacerle la distribución al coche familiar y el presupuesto del servicio oficial era una locura. Pedí presupuesto aquí y fue mucho más ajustado. Me dio confianza que el precio fuera cerrado desde el principio. El coche va perfecto y me ahorré una buena pasta. Totalmente recomendable.",
-      "rating": 5
-    },
-    {
-      "name": "Marta",
-      "neighborhood": "Residencial Sant Joan",
-      "car": "Volkswagen Golf 2010",
-      "body": "Mi Golf no pasó la prueba de gases en la ITV. Estaba desesperada pensando que tendría que cambiar medio motor. Lo traje aquí, hicieron una diagnosis y limpiaron la EGR. El coche ahora va más fino y pasó la ITV sin problemas. Tardaron un día más de lo que me dijeron, pero el resultado fue bueno.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio principalmente a conductores de Sant Joan Despí, cubriendo todos sus barrios, desde el núcleo histórico del Centre y el Eixample Residencial hasta las zonas de Les Planes y Torreblanca. Nuestra ubicación estratégica nos convierte en el taller de referencia para los municipios colindantes. Si vives o trabajas en Cornellà de Llobregat, Sant Just Desvern, Esplugues de Llobregat o Sant Feliu de Llobregat, estamos a pocos minutos. El acceso es muy sencillo a través de la N-340 (Carretera de Laureà Miró), la principal arteria que cruza la comarca. Además, estamos conectados con las grandes vías como la B-23, ideal si vienes de Barcelona o del interior, y con un acceso rápido a la Ronda de Dalt (B-20).",
-  "zoneNeighborhoods": [
-    "Centre",
-    "Les Planes",
-    "Residencial Sant Joan",
-    "Torreblanca",
-    "Cornellà de Llobregat",
-    "Sant Just Desvern",
-    "Esplugues de Llobregat",
-    "Sant Feliu de Llobregat",
-    "Polígon Fontsanta",
-    "Begudes"
-  ],
-  "zoneAccessRoutes": [
-    "B-23",
-    "N-340",
-    "B-20 (Ronda de Dalt)",
-    "A-2"
-  ],
+  "zoneText": "Damos servicio a Sant Joan Despí y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
   "faqLocal": [
     {
-      "q": "Mi coche es un diésel de 2009, ¿tenéis experiencia con estos motores para pasar la ITV?",
-      "a": "Por supuesto. Es uno de nuestros servicios más demandados en Sant Joan Despí. Conocemos a la perfección los motores TDI, HDi y dCi de esa época y sus problemas habituales de opacidad de humos por culpa de la carbonilla en la EGR o el FAP. Hacemos una diagnosis específica, te proponemos la solución más efectiva (desde una descarbonización hasta una limpieza por ultrasonidos) y te aseguramos que cumplirá la normativa en la inspección."
+      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Sant Joan Despí?",
+      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
     },
     {
-      "q": "Vivo en el barrio Centre y las calles son muy estrechas, ¿es un problema dejar el coche?",
-      "a": "Para nada. Conocemos bien la zona y entendemos la dificultad de aparcar. Puedes acercarte al taller, dejarnos el coche y las llaves, y nosotros nos encargamos de gestionarlo. Si lo necesitas, podemos incluso coordinar la recogida en un punto cercano que te venga bien, como la Plaça de la Constitució, para facilitarte la logística. La comodidad de nuestros vecinos es una prioridad."
+      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
+      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
     },
     {
-      "q": "Trabajo en TV3, ¿ofrecéis alguna facilidad para dejar y recoger el coche fuera de mi horario?",
-      "a": "Sí, somos conscientes de los horarios particulares de los que trabajáis en el complejo de TV3 o en las oficinas de alrededor. Ofrecemos flexibilidad: puedes dejar el coche a primera hora de la mañana antes de entrar a trabajar y recogerlo al salir. También disponemos de un buzón de seguridad para dejar las llaves fuera de horario, previo acuerdo. Llámanos y buscamos la mejor solución para ti."
+      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
+      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
     },
     {
-      "q": "El coche tiene etiqueta B de la DGT, ¿vale la pena seguir invirtiendo en él para moverme por el Baix Llobregat?",
-      "a": "Es la gran pregunta para muchos conductores de la zona. Nuestra opinión es que, si el coche está bien mantenido y no te da grandes problemas, absolutamente sí. La Zona de Bajas Emisiones afecta principalmente a Barcelona ciudad. Para moverte por Sant Joan Despí, Cornellà o Sant Feliu, un coche con etiqueta B es perfectamente válido. Te ayudamos a mantenerlo en forma con un coste razonable, alargando su vida útil varios años."
-    },
-    {
-      "q": "Hacéis revisiones pre-viaje para ir a la Costa Brava por la AP-7 en verano?",
-      "a": "Claro. Es un clásico de cada verano. Antes de un viaje largo por autopista como ese, es fundamental revisar los puntos clave de seguridad. Comprobamos niveles de líquidos, presión y estado de los neumáticos, frenos y el sistema de climatización. Es una revisión rápida y económica que te da la tranquilidad de que el coche no te dejará tirado camino de las vacaciones."
-    },
-    {
-      "q": "El TRAM pasa cerca de mi casa en Torreblanca, ¿el polvo metálico que suelta afecta al coche?",
-      "a": "Es una observación muy buena. Sí, el ferodo de los frenos del TRAM y el polvo metálico de las vías pueden depositarse sobre la carrocería y, sobre todo, ensuciar mucho los filtros de aire y de habitáculo. Recomendamos cambiar el filtro del habitáculo una vez al año para garantizar que respiras aire limpio dentro del coche, especialmente si aparcas en la calle en esa zona."
-    },
-    {
-      "q": "¿El presupuesto cerrado incluye el IVA y la mano de obra? No quiero ninguna sorpresa.",
-      "a": "Absolutamente todo. Cuando decimos 'presupuesto cerrado' lo cumplimos a rajatabla. La cifra que te damos desglosa el coste de las piezas, las horas de mano de obra y el IVA correspondiente. No hay letra pequeña ni costes ocultos. La única forma de que ese precio cambie es que tú autorices una reparación adicional que haya podido surgir durante la intervención, y siempre te lo consultaremos antes."
+      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
+      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
     }
   ],
-  "closingHeadline": "Cuida tu coche en Sant Joan Despí",
-  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o envíanos un WhatsApp y te daremos una cita para valorar tu coche. Recupera la confianza al volante aquí, en Sant Joan Despí."
+  "closingHeadline": "Tu piscina en Sant Joan Despí, sin sorpresas",
+  "closingCta": "Si tienes una piscina en Sant Joan Despí y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
 }
