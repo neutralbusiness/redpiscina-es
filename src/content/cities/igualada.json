@@ -4,179 +4,120 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 38918,
-  "lat": 41.58098,
-  "lng": 1.6172,
-  "metaTitle": "Taller mecánico en Igualada — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en Igualada para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Pide tu cita ahora.",
-  "heroSubtitle": "Cansado de los atascos en la A-2 y del taller que nunca te da un precio claro? En Igualada, reparamos tu coche con honestidad.",
+  "metaTitle": "Mantenimiento y reparación de piscinas en Igualada | Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Igualada. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
+  "heroSubtitle": "¿Tienes una piscina en Igualada y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
-    },
-    {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "text": "Todo el año"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Si vives o trabajas en Igualada, sabes lo que significa depender del coche. No es un lujo, es una necesidad para subir cada día a la A-2 dirección Martorell o Barcelona, para coger el Eix Diagonal (la C-37) hacia Manresa o simplemente para moverte entre el centro, el barrio de Les Comes y los polígonos. Seguramente conduces un coche como los que vemos a diario: un SEAT León, un Peugeot 308, un Volkswagen Golf o una furgoneta tipo Berlingo si eres autónomo. Coches fiables, pero que con el paso de los años y los kilómetros acumulados, necesitan un mantenimiento que entienda su uso real.\n\nEl clima de la Conca d'Òdena es un factor clave para la salud de tu vehículo. Esas mañanas de invierno con una niebla densa y heladora que no levanta en todo el día son el peor enemigo de las baterías. Y cuando llega julio, el calor seco y sofocante pone a prueba el sistema de aire acondicionado y la refrigeración del motor. Este contraste tan bestia, de bajo cero a más de treinta grados, acelera el desgaste de componentes, reseca plásticos y manguitos, y exige tener los líquidos (anticongelante, aceite, líquido de frenos) siempre en su nivel y estado óptimos. No es lo mismo un coche que duerme en la calle en el Poble Sec que uno que lo hace en un garaje en el centro.\n\nTu estilo de conducción aquí es mixto. Haces kilómetros por autovía, sí, pero también sufres el arranca-para del tráfico para cruzar Igualada o Vilanova del Camí en hora punta. Subes y bajas cuestas, aparcas en calles estrechas y circulas por polígonos industriales. Todo esto se traduce en un desgaste continuo de embrague, frenos y suspensión. Un amortiguador en mal estado no solo es incómodo, es un peligro en las curvas de la carretera de Òdena o en una frenada de emergencia en la A-2. Por eso, una revisión a tiempo no es un gasto, es una inversión en tu seguridad y la de los tuyos.\n\nEntendemos perfectamente este contexto porque somos de aquí. Somos un taller mecánico multimarca en Igualada preparado para dar servicio a la flota real de la comarca de Anoia. No importa si tienes un diésel con más de diez años, un gasolina moderno o un híbrido. Conocemos los problemas típicos de cada modelo y, sobre todo, los que surgen por el uso específico que le das en esta zona. Te ofrecemos un diagnóstico honesto, un presupuesto cerrado para que no haya sorpresas y la tranquilidad de saber que tu coche está en manos de profesionales que entienden tu día a día.",
-  "servicesIntro": "Desde la revisión anual de tu diésel antes de la ITV hasta esa avería eléctrica que te trae de cabeza, cubrimos toda la mecánica para tu coche en Igualada.",
-  "processIntro": "Creemos en la transparencia total. Así es como trabajamos en nuestro taller de Igualada: un proceso claro con un presupuesto que no cambia.",
+  "introLocal": "Igualada, entre el Penedès, el Garraf y l'Anoia, combina zonas de costa con un interior más agrícola y vitivinícola, lo que se traduce en piscinas muy distintas según la zona: desde chalets en urbanizaciones cercanas al mar hasta masías y casas de campo con piscinas más grandes y alejadas de una depuradora fácilmente accesible. Adaptamos la logística del servicio a cada caso, incluidas las visitas a fincas algo más apartadas.\n\nEl clima mediterráneo de la comarca, con veranos calurosos y secos, favorece un desgaste rápido del cloro y exige un tratamiento de agua bien ajustado a la temporada alta. En las piscinas más antiguas de la zona, con gresite y filtros de arena de hace décadas, la rehabilitación integral suele ser más rentable a largo plazo que ir parcheando averías sueltas.",
+  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Igualada, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
+  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Nos cuentas qué le pasa a tu coche y lo escuchamos. Después, nuestros técnicos lo revisan a fondo con equipos de diagnosis modernos para encontrar el origen real del problema, sin especulaciones."
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas. Sin asteriscos ni letra pequeña. Cero sorpresas."
+      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "Revisas el presupuesto tranquilamente y nos das tu visto bueno. No movemos ni un solo tornillo de tu coche sin tu confirmación explícita. Tú tienes siempre el control total."
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Procedemos a la reparación utilizando recambios de primera calidad. Te mantenemos informado del proceso y cumplimos con los plazos acordados para que recuperes tu coche lo antes posible."
+      "title": "Ejecución profesional",
+      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Cuando recoges el coche, te explicamos en detalle la reparación realizada. Unos días después, te llamamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+      "title": "Seguimiento y garantía",
+      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
     }
   ],
-  "commonIssuesIntro": "El clima de la Conca d'Òdena y el uso diario por la A-2 o la C-15 provocan averías muy concretas que conocemos perfectamente en nuestro taller de Igualada.",
+  "commonIssuesIntro": "El clima y las condiciones del agua en Igualada generan averías características en las piscinas de la zona. Estas son las que más vemos.",
   "commonIssues": [
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico denso para entrar y salir de Igualada, sumado a la circulación por Vilanova del Camí y Santa Margarida de Montbui, castiga el embrague y los frenos. Si notas el pedal del embrague duro o que el coche frena menos, es hora de una revisión. Diagnosticamos el desgaste y sustituimos los componentes para devolverte la seguridad."
+      "title": "Corrosión en escaleras y elementos metálicos",
+      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
     },
     {
-      "title": "Problemas con la batería en invierno",
-      "body": "La niebla y el frío intenso de Igualada son letales para las baterías, sobre todo si el coche duerme en la calle o hace trayectos cortos. Una batería débil puede dejarte tirado en el peor momento. Comprobamos su estado y la carga del alternador para que arranques a la primera cada mañana."
+      "title": "Agua turbia en pleno verano",
+      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
     },
     {
-      "title": "Fallos del aire acondicionado en verano",
-      "body": "Conducir por la A-2 en agosto sin aire acondicionado es una tortura. El calor extremo de la zona fuerza el sistema al máximo. Si no enfría lo suficiente, puede ser una simple fuga o falta de gas. Realizamos la diagnosis, recarga y reparación para que vuelvas a viajar fresco."
+      "title": "Depuradoras que fallan en temporada alta",
+      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
     },
     {
-      "title": "Filtro de partículas (FAP) obstruido",
-      "body": "Es el gran problema de los diésel que hacen mucha ciudad o se quedan atascados en la autovía. El coche no alcanza la temperatura para regenerar el filtro y acaba por obstruirse, provocando pérdida de potencia y averías caras. Realizamos limpiezas y regeneraciones forzadas para evitar su sustitución."
+      "title": "Fugas de agua difíciles de localizar",
+      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
     },
     {
-      "title": "Suspensión y silentblocks dañados",
-      "body": "Las carreteras comarcales de la Anoia, los badenes de las zonas urbanas y los caminos de los polígonos pasan factura a la suspensión. Ruidos, vibraciones o inestabilidad en curvas son síntomas claros. Revisamos amortiguadores, silentblocks y rótulas para que tu coche pise con seguridad y confort."
+      "title": "Filtros de arena con menos rendimiento por la cal",
+      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos la zona",
-      "body": "Entendemos cómo el clima y las carreteras de Igualada y la comarca de Anoia afectan a tu coche. No te tratamos como un número más, sino como un vecino."
+      "title": "Diagnóstico técnico honesto",
+      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
     },
     {
-      "title": "Presupuesto sin sustos",
-      "body": "Te damos un precio cerrado y detallado antes de empezar. Lo que apruebas es lo que pagas. Se acabaron las facturas infladas y las sorpresas de última hora."
+      "title": "Adaptado al clima y al agua de tu zona",
+      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
     },
     {
-      "title": "Expertos en todas las marcas",
-      "body": "Da igual si conduces un SEAT, un Renault, un Audi o una furgoneta Ford. Tenemos la experiencia y el equipo para cuidar de tu vehículo con total garantía."
+      "title": "Presupuestos cerrados",
+      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
     },
     {
-      "title": "Diagnóstico honesto",
-      "body": "Solo reparamos lo que es necesario. Si una pieza aún tiene vida útil, te lo diremos. Nuestro objetivo es que confíes en nosotros a largo plazo."
+      "title": "Equipo técnico propio",
+      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
     },
     {
-      "title": "La ITV, sin nervios",
-      "body": "Con nuestro servicio de Pre-ITV, revisamos los puntos clave para que vayas a la estación de Sant Pere de Riudebitlles con la tranquilidad de que todo está en orden."
+      "title": "Disponibilidad en temporada alta",
+      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Igualada y la comarca de Anoia que ya confían en nosotros para el cuidado de su coche.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "Les Comes",
-      "car": "SEAT Ateca 1.5 TSI 2019",
-      "body": "Llevé el coche para la revisión antes de irme de vacaciones. Me preocupaba un ruidito en la rueda delantera. Lo miraron, vieron que era una tontería y me lo solucionaron al momento sin cobrarme extra. Me dieron el presupuesto de la revisión por WhatsApp y lo cumplieron. Muy transparentes y profesionales. Repetiré seguro.",
-      "rating": 5
-    },
-    {
-      "name": "Maria",
-      "neighborhood": "Vilanova del Camí",
-      "car": "Peugeot 208 HDI 2016",
-      "body": "El coche empezó a dar tirones en la autovía y se encendió un testigo. Llamé asustada y me dieron cita para el día siguiente. Era un problema con el filtro de partículas por hacer demasiada ciudad. Me explicaron muy bien la causa y la solución, que fue mucho más barata que cambiar la pieza. Muy agradecida.",
-      "rating": 5
-    },
-    {
-      "name": "Carles",
-      "neighborhood": "Centre",
-      "car": "Ford Transit Connect 2017",
-      "body": "Soy autónomo y la furgoneta es mi herramienta de trabajo. Necesitaba cambiar el embrague y no podía estar muchos días parado. Se comprometieron a tenerla en 48 horas y cumplieron. El precio fue el que me dijeron desde el principio. Un servicio eficiente y serio, que es lo que necesito.",
-      "rating": 5
-    },
-    {
-      "name": "Anna",
-      "neighborhood": "Santa Margarida de Montbui",
-      "car": "Renault Clio 2014",
-      "body": "Fui para la revisión pre-ITV. Me atendieron bien y fueron amables. Encontraron que una luz de freno no funcionaba y una rótula tenía un poco de holgura. Me lo arreglaron y pasé la ITV sin problemas. El precio fue correcto, aunque tardaron un poco más de lo que me habían dicho inicialmente. Pero en general, bien.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Nuestro taller mecánico en Igualada da servicio a toda la ciudad y a la comarca de Anoia. Si vives en barrios como Les Comes, Fàtima, el Poble Sec o el centro, estamos a pocos minutos. También somos el taller de confianza para muchos conductores de los municipios colindantes como Vilanova del Camí, Santa Margarida de Montbui y Òdena, que valoran un servicio profesional y sin sorpresas. Gracias a nuestra ubicación, es muy fácil llegar a través de las principales vías de comunicación de la zona, como la autovía A-2, el Eix Diagonal C-37 o la C-15, que conectan toda la comarca.",
-  "zoneNeighborhoods": [
-    "Igualada Centre",
-    "Les Comes",
-    "Poble Sec",
-    "Fàtima",
-    "Set Camins",
-    "Vilanova del Camí",
-    "Santa Margarida de Montbui",
-    "Òdena",
-    "Jorba",
-    "La Pobla de Claramunt"
-  ],
-  "zoneAccessRoutes": [
-    "A-2 (Autovía del Nordeste)",
-    "C-37 (Eix Diagonal)",
-    "C-15 (Eix Garraf-Anoia)",
-    "N-IIa"
-  ],
+  "zoneText": "Damos servicio a Igualada y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
   "faqLocal": [
     {
-      "q": "¿Hacéis la revisión oficial manteniendo la garantía del fabricante?",
-      "a": "Sí, por supuesto. Realizamos la revisión de tu coche siguiendo estrictamente las especificaciones del fabricante y utilizando recambios de calidad equivalente a la original. Sellamos el libro de mantenimiento para que conserves la garantía oficial, pero con un precio más competitivo que el del concesionario."
+      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Igualada?",
+      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
     },
     {
-      "q": "Vivo en Masquefa, ¿me compensa llevar el coche a vuestro taller en Igualada?",
-      "a": "Muchos de nuestros clientes vienen de localidades como Masquefa, Piera o Capellades. Valoran nuestra transparencia con los presupuestos cerrados y la calidad del trabajo. Si buscas un taller que no te dé sorpresas en la factura y que sea claro desde el principio, el desplazamiento te compensará."
+      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
+      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
     },
     {
-      "q": "Mi diésel hace trayectos cortos por Igualada y a veces da tirones, ¿puede ser el filtro FAP?",
-      "a": "Es muy probable. Es un problema muy común en los coches diésel que no salen a carretera con frecuencia, como les pasa a muchos en Igualada. El filtro de partículas se satura y no puede regenerarse. Tráenos el coche y le haremos un diagnóstico para confirmarlo y buscar la solución más económica para ti."
+      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
+      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
     },
     {
-      "q": "¿Tenéis experiencia con furgonetas de autónomos?",
-      "a": "Totalmente. Sabemos que tu furgoneta es tu oficina y tu herramienta. Por eso priorizamos la rapidez y la fiabilidad en las reparaciones de vehículos comerciales. Entendemos la urgencia y te ofrecemos un servicio ágil para que puedas volver al trabajo cuanto antes. Consúltanos por nuestro servicio para profesionales."
-    },
-    {
-      "q": "En invierno, con la niebla de la Conca, ¿qué revisión recomendáis?",
-      "a": "La niebla y el frío de Igualada exigen tres cosas: buena visibilidad, buena batería y buenos neumáticos. Te recomendamos una revisión de luces (incluyendo antinieblas), un test del estado de la batería y el alternador, y una comprobación de la presión y el desgaste de los neumáticos para asegurar el agarre en mojado."
-    },
-    {
-      "q": "Voy a pasar la ITV en Sant Pere de Riudebitlles, ¿vuestra pre-ITV es completa?",
-      "a": "Sí. Nuestra revisión Pre-ITV es exhaustiva y cubre todos los puntos que miran en la estación de ITV de Sant Pere de Riudebitlles o cualquier otra. Revisamos frenos, suspensión, luces, emisiones, neumáticos... Si detectamos cualquier defecto, te damos un presupuesto para solucionarlo y que pases la inspección a la primera."
+      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
+      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
     }
   ],
-  "closingHeadline": "El taller de confianza para tu coche en Igualada",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o envíanos un WhatsApp y te daremos cita en nuestro taller de Igualada. Así de fácil y transparente."
+  "closingHeadline": "Tu piscina en Igualada, sin sorpresas",
+  "closingCta": "Si tienes una piscina en Igualada y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
 }
