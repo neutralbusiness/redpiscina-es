@@ -4,180 +4,120 @@
   "province": "Granada",
   "ccaa": "Andalucía",
   "population": 233532,
-  "lat": 37.18817,
-  "lng": -3.60667,
-  "metaTitle": "Taller mecánico en Granada — Multimarca y de confianza",
-  "metaDescription": "Tu taller en Granada para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Trabajamos todas las marcas. ¡Pide tu cita!",
-  "heroSubtitle": "Cansado de las cuestas, el atasco en la Circunvalación y el calor? Tu coche también lo nota. En nuestro taller de Granada lo ponemos a punto.",
+  "metaTitle": "Mantenimiento y reparación de piscinas en Granada | Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Granada. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
+  "heroSubtitle": "¿Tienes una piscina en Granada y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
-    },
-    {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "text": "Todo el año"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Conducir por Granada es un desafío único. No es lo mismo callejear por el Albaicín, con sus cuestas y giros cerrados que desgastan el embrague, que hacer el trayecto diario desde Armilla o Maracena atascado en la Circunvalación (GR-30). Tu coche sufre ese contraste: el esfuerzo en las subidas al Realejo y el continuo arranca-para del tráfico en hora punta hacia el Campus de la Salud. En nuestro taller entendemos esta realidad porque la vivimos cada día. Sabemos que tu SEAT Ibiza o tu Renault Clio no tiene las mismas necesidades si solo se mueve por La Chana que si cada fin de semana sube a la Sierra por la A-395 o baja a la costa de Motril por la A-44.\n\nEl clima de Granada es de extremos y tu coche lo paga. Los veranos superando los 40 grados ponen a prueba el sistema de refrigeración y el aire acondicionado hasta el límite. Pocas cosas son peores que un fallo del climatizador en pleno agosto. Por otro lado, las heladas secas del invierno, con noches bajo cero, son la causa principal de que muchas baterías no arranquen por la mañana. Por eso, una revisión de niveles, anticongelante y estado de la batería antes de que llegue el frío no es un gasto, es una inversión en tranquilidad. Conocemos el parque móvil de la ciudad y del 'Cinturón': desde los compactos diésel y gasolina que dominan barrios como el Zaidín hasta las furgonetas de autónomos de la Vega o los SUV familiares que se mueven por Ogíjares y La Zubia.\n\nCada coche es un mundo, pero todos comparten las mismas carreteras y el mismo clima. Por eso, nuestro enfoque es local. Cuando diagnosticamos un problema de suspensión, pensamos en los badenes de las avenidas principales y en el adoquinado de algunas zonas del centro. Cuando revisamos unos frenos, tenemos en mente las largas bajadas desde la Alhambra o la necesidad de una frenada precisa en el tráfico denso de Camino de Ronda. No aplicamos soluciones genéricas, sino que entendemos el porqué de cada avería en el contexto granadino. Nos especializamos en mecánica multimarca, así que da igual si conduces un Peugeot 308, un Volkswagen Golf o un Dacia Sandero con varios años; conocemos sus puntos débiles y cómo mantenerlos fiables.\n\nNuestro compromiso es darte un servicio honesto y transparente, con un presupuesto cerrado para que no haya sorpresas. Queremos ser tu taller de confianza en Granada, ese al que vienes para la revisión anual, para preparar la ITV y evitar un rechazo, o cuando ese ruido extraño en el motor te empieza a preocupar. No usamos tecnicismos para confundirte. Te explicamos qué le pasa a tu coche, qué opciones tienes y por qué recomendamos una reparación concreta. El objetivo es que tu vehículo sea seguro y fiable para todo lo que le pides: llevar a los niños al colegio, ir a trabajar a Albolote o escaparte un fin de semana a las Alpujarras. Tu tranquilidad es nuestra prioridad.",
-  "servicesIntro": "Desde la revisión para pasar la ITV en Granada hasta un cambio de embrague por las cuestas del Realejo, cubrimos toda la mecánica de tu coche.",
-  "processIntro": "La confianza es clave. Por eso te damos un presupuesto cerrado y no tocamos ni un tornillo de tu coche sin tu autorización previa. Así de simple.",
+  "introLocal": "En Granada, con veranos muy largos y extremadamente calurosos, la clave del mantenimiento de una piscina es anticiparse: revisar la depuradora en primavera, antes de que el uso intensivo de julio y agosto la ponga a prueba. Es habitual que las averías aparezcan justo en pleno verano, cuando la instalación lleva semanas trabajando a máximo rendimiento.\n\nEl calor extremo también acelera la evaporación, así que conviene distinguir bien una pérdida de agua normal de una fuga real. Hacemos pruebas de presión y, si hace falta, detección con gas trazador para localizar el punto exacto sin necesidad de vaciar la piscina.",
+  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Granada, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
+  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que le pasa a tu coche y lo conectamos a nuestros equipos de diagnosis. Identificamos la avería de forma precisa para no dar palos de ciego y centrarnos en la solución real."
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. El precio que ves es el precio final, con mano de obra e IVA incluidos. Sin letra pequeña ni sorpresas de última hora."
+      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No empezamos ninguna reparación hasta que nos das tu visto bueno. Si durante el proceso encontramos algo más, te llamamos, te lo explicamos y te damos un nuevo presupuesto. Tú decides siempre."
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos piezas de primeras marcas con garantía. Nuestros mecánicos realizan la reparación siguiendo las especificaciones del fabricante para asegurar un trabajo bien hecho y duradero."
+      "title": "Ejecución profesional",
+      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos cuando tu coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente."
+      "title": "Seguimiento y garantía",
+      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
     }
   ],
-  "commonIssuesIntro": "El calor extremo en verano, las cuestas y los trayectos cortos por Granada capital provocan averías muy concretas que conocemos y solucionamos a diario.",
+  "commonIssuesIntro": "El clima y las condiciones del agua en Granada generan averías características en las piscinas de la zona. Estas son las que más vemos.",
   "commonIssues": [
     {
-      "title": "Fallo del aire acondicionado en verano",
-      "body": "Con los 40°C de julio y agosto en Granada, el aire acondicionado no es un lujo, es una necesidad. El calor extremo fuerza el compresor y puede provocar fugas de gas. Realizamos cargas de gas, detectamos fugas y reparamos el sistema para que vuelvas a conducir fresco."
+      "title": "Agua turbia por el calor intenso",
+      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
     },
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "Las cuestas del Albaicín y el Realejo, junto al tráfico denso de la GR-30, castigan el embrague y los frenos. Si notas que el pedal del embrague patina o que el coche tarda en frenar, es hora de una revisión. Cambiamos kits de embrague y sistemas de frenado para tu seguridad."
+      "title": "Depuradoras que se averían en pleno verano",
+      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
     },
     {
-      "title": "Problemas de batería en invierno",
-      "body": "Las noches de invierno en Granada, con temperaturas bajo cero, son letales para las baterías con algunos años. El frío reduce su capacidad de arranque. Si tu coche duerme en la calle, es vital comprobarla. Diagnosticamos su estado y la sustituimos si es necesario para que no te deje tirado."
+      "title": "Filtros de arena calcificados",
+      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
     },
     {
-      "title": "Sobrecalentamiento del motor",
-      "body": "Subir la Carretera de la Sierra (A-395) en un día caluroso o estar en un atasco en la Circunvalación puede provocar un sobrecalentamiento. Ver la aguja de la temperatura subir es una señal de alarma. Revisamos el circuito de refrigeración, el termostato y los electroventiladores para evitar una avería grave."
+      "title": "Cloradores salinos con menor rendimiento",
+      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
     },
     {
-      "title": "Suspensión y neumáticos dañados",
-      "body": "Entre el asfalto irregular de algunas calles del centro, los badenes y las miles de rotondas del 'Cinturón', la suspensión y los neumáticos sufren mucho. Un amortiguador en mal estado alarga la frenada y desgasta las ruedas. Revisamos y sustituimos amortiguadores, silentblocks y neumáticos."
+      "title": "Fisuras y fugas en piscinas antiguas",
+      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos los coches de Granada",
-      "body": "Sabemos lo que sufre un diésel en los atascos de la GR-30 y un gasolina en las cuestas del Realejo. Entendemos tu coche porque entendemos cómo se conduce aquí."
+      "title": "Diagnóstico técnico honesto",
+      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
     },
     {
-      "title": "Presupuesto honesto y cerrado",
-      "body": "El precio que te damos es el que pagas. Sin sorpresas ni extras inesperados al recoger tu coche. La transparencia es la base de la confianza."
+      "title": "Adaptado al clima y al agua de tu zona",
+      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
     },
     {
-      "title": "Diagnóstico sin rodeos",
-      "body": "Usamos la tecnología para ir directos al problema. No te haremos cambiar piezas que no necesitas. Ahorras tiempo y dinero."
+      "title": "Presupuestos cerrados",
+      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
     },
     {
-      "title": "Perfecto para la Pre-ITV",
-      "body": "Conocemos los puntos críticos que revisan en las estaciones de ITV de Granada. Hacemos una revisión exhaustiva para que la pases a la primera sin complicaciones."
+      "title": "Equipo técnico propio",
+      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
     },
     {
-      "title": "Garantía en todas las reparaciones",
-      "body": "Todas nuestras intervenciones y las piezas que montamos están garantizadas por escrito. Queremos que conduzcas con total tranquilidad."
+      "title": "Disponibilidad en temporada alta",
+      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que solucionamos cada día para conductores de Granada y su cinturón metropolitano.",
-  "testimonials": [
-    {
-      "name": "María",
-      "neighborhood": "Zaidín",
-      "car": "Peugeot 208 2017",
-      "body": "El aire acondicionado dejó de enfriar en pleno julio, justo antes de irnos a la playa de Motril. Fue un agobio. Les llamé, me dieron cita rápido, encontraron una pequeña fuga y lo recargaron. El presupuesto fue exactamente el que me dijeron. ¡Me salvaron el viaje!",
-      "rating": 5
-    },
-    {
-      "name": "José",
-      "neighborhood": "La Chana",
-      "car": "Renault Megane dCi 2015",
-      "body": "Hago todos los días el trayecto a un polígono en Maracena y notaba que el embrague patinaba al salir en las rotondas. Estaba preocupado por el coste de la reparación. Aquí me dieron un presupuesto cerrado muy claro y en dos días tenía el coche listo. Se nota la diferencia al conducir.",
-      "rating": 5
-    },
-    {
-      "name": "Carlos",
-      "neighborhood": "Armilla",
-      "car": "Volkswagen Golf TDI 2014",
-      "body": "Una mañana de enero el coche no arrancó. La batería había muerto con el frío. Les llamé y por la tarde ya tenía una nueva montada. Muy eficientes y profesionales, y me explicaron por qué había pasado. Buen servicio cerca de casa, al lado de la Circunvalación.",
-      "rating": 5
-    },
-    {
-      "name": "Ana",
-      "neighborhood": "Realejo",
-      "car": "SEAT Ibiza 2018",
-      "body": "Tenía que pasar la ITV y lo llevé para una revisión pre-ITV. Me detectaron que las pastillas de freno traseras estaban en las últimas, normal con tanta cuesta por mi barrio. Las cambiaron en el mismo día. El coche pasó la inspección sin ningún fallo. El precio fue correcto.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda Granada capital y su área metropolitana. Tanto si vives en barrios como el Zaidín, La Chana, Genil o la zona Norte, como si te desplazas a diario desde el 'Cinturón', estamos a tu alcance. Nuestra ubicación es estratégica para clientes de Armilla, Maracena, Albolote, Peligros, La Zubia u Ogíjares. Gracias a un acceso rápido desde las principales vías como la Circunvalación de Granada (GR-30) y la Autovía de Sierra Nevada (A-44), llegar a nuestro taller es cómodo y rápido, evitando el tráfico del centro de la ciudad. Si trabajas en alguno de los polígonos industriales cercanos, somos tu opción ideal para dejar el coche por la mañana y recogerlo al salir.",
-  "zoneNeighborhoods": [
-    "Zaidín",
-    "La Chana",
-    "Albaicín",
-    "Realejo",
-    "Genil",
-    "Beiro",
-    "Norte",
-    "Armilla",
-    "Maracena",
-    "Albolote",
-    "La Zubia"
-  ],
-  "zoneAccessRoutes": [
-    "GR-30 (Circunvalación de Granada)",
-    "A-44 (Autovía de Sierra Nevada)",
-    "A-92",
-    "N-432"
-  ],
+  "zoneText": "Damos servicio a Granada y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
   "faqLocal": [
     {
-      "q": "¿Revisáis el coche para subir a Sierra Nevada en invierno?",
-      "a": "Sí, por supuesto. Es una de nuestras revisiones estacionales más demandadas. Comprobamos el nivel y la calidad del líquido anticongelante para que soporte las bajas temperaturas de la sierra, el estado de la batería y la presión y el dibujo de los neumáticos. Si lo necesitas, te asesoramos sobre neumáticos de invierno o todo tiempo."
+      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Granada?",
+      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
     },
     {
-      "q": "Mi coche sufre mucho con el calor de Granada, ¿qué revisión recomendáis?",
-      "a": "Recomendamos una revisión pre-verano centrada en el sistema de refrigeración y el climatizador. Verificamos el nivel de refrigerante, el estado del radiador y los manguitos, y el funcionamiento del electroventilador. Además, comprobamos el sistema de aire acondicionado para asegurarnos de que enfría correctamente y no tiene fugas."
+      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
+      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
     },
     {
-      "q": "Vivo en el Albaicín y el embrague me dura muy poco, ¿es normal?",
-      "a": "Es una queja muy común entre los residentes de barrios con cuestas como el Albaicín o el Realejo. El uso intensivo del embrague en primera y segunda marcha, y el juego de pedales en pendientes, acelera su desgaste. Podemos revisar el sistema y también darte algunos consejos de conducción para alargar su vida útil."
+      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
+      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
     },
     {
-      "q": "Hago el trayecto Granada-Motril por la A-44 a menudo, ¿qué debo vigilar?",
-      "a": "Ese trayecto tiene un desnivel considerable. Es fundamental vigilar el estado y la presión de los neumáticos, ya que se calientan más a alta velocidad. También el nivel de aceite y, sobre todo, los frenos. La larga bajada hacia la costa puede sobrecalentarlos si no están en perfecto estado. Una revisión de estos elementos es clave para tu seguridad."
-    },
-    {
-      "q": "¿Tenéis experiencia con furgonetas de reparto que se mueven por el Cinturón?",
-      "a": "Sí, trabajamos habitualmente con vehículos comerciales de autónomos y pequeñas empresas. Conocemos bien los modelos tipo Citroën Berlingo, Peugeot Partner o Renault Kangoo y sus problemas típicos derivados del uso intensivo: desgaste de frenos, suspensión por la carga y problemas en el embrague por el constante para-arranca."
-    },
-    {
-      "q": "¿El presupuesto cerrado incluye el IVA y la mano de obra?",
-      "a": "Sí, siempre. Nuestro presupuesto es un precio final y desglosado. Incluye el coste de las piezas, la mano de obra necesaria para la reparación y el IVA correspondiente. El objetivo es la máxima transparencia para que sepas exactamente cuánto vas a pagar antes de que empecemos a trabajar en tu coche."
+      "q": "¿El agua de mi zona es muy dura para la piscina?",
+      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
     }
   ],
-  "closingHeadline": "Tu coche, a punto para Granada",
-  "closingCta": "Si tu coche necesita una revisión o notas algo raro, no esperes más. Pide tu presupuesto sin compromiso para nuestro taller en Granada. Llámanos o escríbenos y te atenderemos."
+  "closingHeadline": "Tu piscina en Granada, sin sorpresas",
+  "closingCta": "Si tienes una piscina en Granada y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
 }
