@@ -1,182 +1,123 @@
 {
   "slug": "gasteiz-vitoria",
-  "name": "Gasteiz / Vitoria",
+  "name": "Vitoria-Gasteiz",
   "province": "Álava",
   "ccaa": "País Vasco",
   "population": 257407,
-  "lat": 42.84998,
-  "lng": -2.67268,
-  "metaTitle": "Taller mecánico en Vitoria-Gasteiz — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en Vitoria-Gasteiz para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Pide tu cita ahora.",
-  "heroSubtitle": "¿Preocupado por la ITV con el frío de Gasteiz o por ese ruido raro al coger la A-1? Conduce tranquilo, nosotros nos ocupamos.",
+  "metaTitle": "Mantenimiento y reparación de piscinas en Vitoria-Gasteiz | Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Vitoria-Gasteiz. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
+  "heroSubtitle": "¿Tienes una piscina en Vitoria-Gasteiz y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
-    },
-    {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "text": "Todo el año"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Si conduces por Vitoria-Gasteiz, sabes que tu coche es una herramienta indispensable. Ya sea para cruzar la ciudad desde Salburua hasta Zabalgana, para ir a trabajar cada día al polígono de Júndiz o para coger la A-1 el fin de semana, necesitas un vehículo fiable. Entendemos perfectamente el día a día del conductor vitoriano: los atascos en la rotonda de América Latina, los trayectos cortos para llevar a los niños al cole en Lakua y el uso intensivo que le das a tu furgoneta si eres autónomo y trabajas por toda la Llanada Alavesa. Tu coche no es un lujo, es una necesidad, y nosotros lo tratamos como tal.\n\nEl clima de Gasteiz marca el ritmo de tu coche. Los inviernos fríos y húmedos, con heladas constantes y alguna nevada ocasional, son la prueba de fuego para las baterías y los sistemas de arranque. No hay nada peor que ir a coger el coche una mañana de enero en Sansomendi y que no responda. La humedad persistente también acelera la corrosión en los bajos y en el sistema de escape, un enemigo silencioso que vigilamos en cada revisión. Y por supuesto, la lluvia, nuestra compañera casi constante, exige tener neumáticos y frenos en perfecto estado para garantizar tu seguridad en las carreteras alavesas como la N-622 hacia Bilbao.\n\nEl parque automovilístico de Vitoria es tan variado como sus barrios. Vemos a diario los diésel de batalla, esos SEAT León, Renault Mégane y Volkswagen Golf que suben y bajan por la cuesta de San Vicente, perfectos para los que hacen muchos kilómetros por la A-1. También conocemos bien las furgonetas Mercedes Vito o Sprinter, un clásico de nuestros polígonos industriales gracias a la fábrica local, y sabemos el trote que llevan. Cada vez más, nos llegan híbridos y coches de gasolina de última generación que se mueven por el centro, y estamos perfectamente equipados para su mantenimiento específico, como los filtros de partículas en trayectos cortos.\n\nPor eso, nuestro taller en Vitoria no es uno más. No aplicamos soluciones genéricas, porque un coche que se mueve principalmente por Adurza no sufre el mismo desgaste que uno que viaja a diario a Agurain. Desde una revisión pre-ITV que tenga en cuenta las particularidades de los diésel en recorridos urbanos, hasta un diagnóstico de ese testigo que se enciende de vez en cuando en el cuadro, nuestro equipo conoce los problemas habituales de los coches que circulan por Álava. Te ofrecemos un servicio honesto, con un presupuesto cerrado y la tranquilidad de saber que tu coche está en manos de gente que entiende tu día a día.",
-  "servicesIntro": "Desde la revisión anual para tu coche familiar hasta la puesta a punto de tu furgoneta de trabajo, cubrimos todas las necesidades mecánicas en Vitoria.",
-  "processIntro": "Trabajamos con total transparencia. Te explicamos qué le pasa a tu coche, te damos un presupuesto cerrado y no hacemos nada sin tu visto bueno.",
+  "introLocal": "En Vitoria-Gasteiz, con el clima húmedo y templado propio de la cornisa atlántica, el reto no es tanto el calor extremo como la humedad constante, que favorece la aparición de algas y moho en zonas del vaso y del entorno de la piscina que no reciben suficiente sol. Recomendamos un tratamiento de choque antes de cada apertura de temporada para partir de cero.\n\nLa temporada de baño natural aquí es más corta que en el resto de España, así que muchos propietarios de la zona nos piden instalar una bomba de calor para alargarla. Con el aislamiento adecuado y un buen dimensionado del equipo, es perfectamente viable disfrutar de la piscina varios meses más al año.",
+  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Vitoria-Gasteiz, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
+  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando tu coche llega, escuchamos lo que te preocupa y nuestros técnicos realizan una inspección completa para identificar el origen del problema con equipos de diagnosis multimarca."
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas, sin sorpresas ni letra pequeña. Si surge algo nuevo, paramos y te consultamos."
+      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo hasta que nos des tu confirmación explícita. Tú tienes el control total sobre la reparación de tu vehículo en todo momento."
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado sobre los plazos para que te organices sin problemas."
+      "title": "Ejecución profesional",
+      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado y te entregamos la factura detallada. Unos días después, contactamos para asegurar que todo va perfecto."
+      "title": "Seguimiento y garantía",
+      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
     }
   ],
-  "commonIssuesIntro": "El clima de Gasteiz y el tipo de conducción, mezclando ciudad y autovía, provocan una serie de averías muy características que vemos a diario en nuestro taller.",
+  "commonIssuesIntro": "El clima y las condiciones del agua en Vitoria-Gasteiz generan averías características en las piscinas de la zona. Estas son las que más vemos.",
   "commonIssues": [
     {
-      "title": "Baterías que mueren en invierno",
-      "body": "El frío y la humedad de Vitoria son letales para las baterías, sobre todo en coches que duermen en la calle. Por la mañana, el motor de arranque exige un pico de energía que una batería debilitada no puede dar. Comprobamos su estado y el del alternador para que no te quedes tirado en el peor momento."
+      "title": "Algas y moho por la humedad constante",
+      "body": "La humedad de la zona favorece el crecimiento de algas y moho en el vaso y en la coronación si no hay un mantenimiento regular, incluso fuera de temporada. Recomendamos un tratamiento de choque antes de cada apertura."
     },
     {
-      "title": "Filtros de partículas (DPF) obstruidos",
-      "body": "Muchos diésel se usan para trayectos cortos por la ciudad, de Zaramaga a Arriaga, sin dar tiempo a que el filtro se regenere. Esto provoca pérdida de potencia y averías costosas. Realizamos limpiezas y regeneraciones forzadas para evitar que el problema vaya a más."
+      "title": "Temporada de baño corta sin climatización",
+      "body": "El clima suave pero fresco de la zona acorta la temporada de baño natural. Instalamos bombas de calor dimensionadas para alargarla varios meses sin disparar el consumo eléctrico."
     },
     {
-      "title": "Desgaste de neumáticos y frenos por lluvia",
-      "body": "Conducir con lluvia es el pan de cada día en Álava. El asfalto mojado exige más a los neumáticos y al sistema de frenado. Unas ruedas gastadas o unos frenos en mal estado son un peligro. Revisamos la profundidad del dibujo y el estado de pastillas y discos para tu seguridad."
+      "title": "Corrosión por humedad prolongada",
+      "body": "La humedad constante, más que el calor, es el principal desgaste para los elementos metálicos de la instalación. Usamos materiales pensados para resistir la humedad todo el año."
     },
     {
-      "title": "Corrosión en bajos y escape",
-      "body": "La combinación de la alta humedad ambiental y la sal que se esparce en las carreteras en invierno crea un cóctel corrosivo. Los bajos del coche, suspensiones y la línea de escape son los más afectados. Una inspección a tiempo puede evitar reparaciones muy caras y problemas en la ITV."
+      "title": "Filtros de arena con moho o suciedad",
+      "body": "La combinación de humedad y poco sol directo favorece la aparición de suciedad orgánica en el sistema de filtración. Revisamos y limpiamos a fondo en cada mantenimiento."
     },
     {
-      "title": "Embragues y bimasa en diésel",
-      "body": "El tráfico urbano de Vitoria, con constantes paradas y arranques en zonas como la Avenida Gasteiz, castiga mucho el embrague, especialmente en los coches diésel con cambio manual. Diagnosticamos vibraciones y tirones para determinar si el problema está en el embrague o en el volante bimasa."
+      "title": "Fugas enmascaradas por la lluvia",
+      "body": "En una zona lluviosa es más difícil detectar a simple vista una pérdida de agua real. Hacemos pruebas de presión para confirmar si existe una fuga antes de actuar."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos los coches de Vitoria",
-      "body": "Sabemos cómo afecta el clima y las carreteras de Álava a tu coche. No somos un taller genérico, entendemos los problemas locales y cómo solucionarlos de forma eficaz."
+      "title": "Diagnóstico técnico honesto",
+      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
     },
     {
-      "title": "Presupuesto claro, sin sustos",
-      "body": "El precio que te damos es el precio final. Si durante la reparación encontramos algo imprevisto, te llamamos, te lo explicamos y tú decides. Cero sorpresas en la factura."
+      "title": "Adaptado al clima y al agua de tu zona",
+      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
     },
     {
-      "title": "Para todas las marcas",
-      "body": "Da igual si conduces un compacto para la ciudad, un SUV familiar o una furgoneta para el trabajo. Tenemos el equipo y la experiencia para trabajar con cualquier marca y modelo."
+      "title": "Presupuestos cerrados",
+      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
     },
     {
-      "title": "Garantía en cada reparación",
-      "body": "Todas nuestras reparaciones y los recambios que utilizamos están garantizados por ley. Puedes estar tranquilo, tu coche está en buenas manos y respondemos por nuestro trabajo."
+      "title": "Equipo técnico propio",
+      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
     },
     {
-      "title": "Nos encargamos de la Pre-ITV",
-      "body": "Pasar la ITV en Ali-Gobeo puede ser un trámite estresante. Hacemos una revisión exhaustiva de todos los puntos clave y, si quieres, nos encargamos de llevarlo por ti."
+      "title": "Disponibilidad en temporada alta",
+      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
     }
   ],
-  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Estas son algunas historias, como la tuya, de conductores de Vitoria que han confiado en nosotros.",
-  "testimonials": [
-    {
-      "name": "Iker",
-      "neighborhood": "Salburua",
-      "car": "Mercedes Vito 2017",
-      "body": "Uso la furgoneta todos los días para trabajar por los polígonos y pueblos de Álava. Empezó a hacer un ruido raro en la transmisión. Me dieron cita rápido, encontraron el problema en un rodamiento y me pasaron un presupuesto cerrado. Cumplieron el plazo y la furgo va perfecta. Muy profesionales.",
-      "rating": 5
-    },
-    {
-      "name": "Laura",
-      "neighborhood": "Zaramaga",
-      "car": "Renault Clio 2015",
-      "body": "Mi coche no arrancó una mañana de mucho frío. Pensé que sería una avería enorme. Los llamé, lo revisaron y era la batería que ya estaba en las últimas. Me explicaron las opciones, montaron una nueva el mismo día y a un precio razonable. Se agradece la honestidad.",
-      "rating": 5
-    },
-    {
-      "name": "Javier",
-      "neighborhood": "Lakua-Arriaga",
-      "car": "SEAT León TDI 2016",
-      "body": "Hago muchos kilómetros por la A-1 y notaba el coche algo inestable con lluvia. En la revisión vieron que los amortiguadores traseros estaban para cambiar. Me enseñaron la pieza y me explicaron por qué era importante. Ahora el coche va mucho más seguro. Un trato muy cercano.",
-      "rating": 5
-    },
-    {
-      "name": "Ainhoa",
-      "neighborhood": "Ariznabarra",
-      "car": "Peugeot 3008 2018",
-      "body": "Tenía que pasar la ITV y con los niños y el trabajo no tengo tiempo de nada. Les dejé el coche para la revisión anual y les pedí que se encargaran de todo. Lo revisaron, lo llevaron a la inspección y me lo devolvieron con todo en regla. Un servicio comodísimo y eficaz.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda Vitoria-Gasteiz y sus alrededores. Si vives o trabajas en barrios como Zabalgana, Salburua, Lakua-Arriaga, Sansomendi o el Ensanche, estamos a tu lado. También somos el taller de confianza para muchos conductores que vienen a diario a la capital desde municipios cercanos como Iruña de Oca (Nanclares), Legutio, Zuia o Arratzua-Ubarrundia. Nuestro fácil acceso desde las principales vías como la A-1 (Autovía del Norte) y la N-622 nos convierte en una opción cómoda y rápida para dejar tu coche sin tener que callejear en exceso por el centro de la ciudad.",
-  "zoneNeighborhoods": [
-    "Zabalgana",
-    "Salburua",
-    "Lakua-Arriaga",
-    "Sansomendi",
-    "Zaramaga",
-    "Ariznabarra",
-    "Adurza",
-    "Iruña de Oca",
-    "Legutio",
-    "El Pilar"
-  ],
-  "zoneAccessRoutes": [
-    "A-1 (Autovía del Norte)",
-    "N-622 (Autovía de Altube)",
-    "N-240 (Carretera de Bilbao)",
-    "A-132 (Carretera de Estella)"
-  ],
+  "zoneText": "Damos servicio a Vitoria-Gasteiz y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
   "faqLocal": [
     {
-      "q": "¿Es necesario poner neumáticos de invierno en Vitoria?",
-      "a": "No es obligatorio por ley, pero sí muy recomendable. Dadas las bajas temperaturas, las heladas frecuentes y la posibilidad de nieve, un neumático de invierno o un 'todo tiempo' con marcaje 3PMSF ofrece un agarre y una seguridad muy superiores por debajo de 7°C. Notarás la diferencia en frenada y estabilidad, especialmente si te mueves por carreteras secundarias de Álava."
+      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Vitoria-Gasteiz?",
+      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
     },
     {
-      "q": "Mi diésel hace trayectos cortos por la ciudad, ¿qué mantenimiento especial necesita?",
-      "a": "El principal problema es la acumulación de carbonilla en el filtro de partículas (DPF) y la válvula EGR. Te recomendamos que, al menos una vez por semana, salgas a la autovía (como la A-1) y conduzcas durante 15-20 minutos a un régimen de revoluciones algo más alto (2.500-3.000 rpm) para forzar la regeneración. Además, usar un aceite de calidad y específico para DPF es crucial."
+      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
+      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
     },
     {
-      "q": "Vivo en un pueblo de Álava y vengo a trabajar a Júndiz, ¿ofrecéis coche de cortesía?",
-      "a": "Sí, disponemos de coche de cortesía para nuestros clientes. Entendemos que muchos necesitáis el vehículo para trabajar o para volver a casa en pueblos como Nanclares o Murgia. Este servicio está sujeto a disponibilidad, por lo que te recomendamos solicitarlo al pedir tu cita para asegurarte de que tenemos uno libre para ti."
+      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
+      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
     },
     {
-      "q": "El coche no arranca por la mañana con el frío, ¿puede ser solo la batería?",
-      "a": "En la mayoría de los casos en Vitoria, sí. El frío intenso reduce drásticamente el rendimiento de la batería. Sin embargo, también podría ser un problema del motor de arranque o de los calentadores en un coche diésel. Lo mejor es hacer un diagnóstico completo para no cambiar piezas innecesariamente. Podemos comprobar el estado de todo el sistema de arranque."
-    },
-    {
-      "q": "¿Cómo afecta la sal de las carreteras en invierno a mi coche?",
-      "a": "La sal es extremadamente corrosiva para los componentes metálicos del coche. Acelera la oxidación de los bajos, el chasis, la línea de escape, los tornillos y los componentes de la suspensión y frenos. Es muy recomendable lavar el coche con frecuencia en invierno, prestando especial atención a los bajos, para eliminar los restos de sal y prevenir daños a largo plazo."
-    },
-    {
-      "q": "Tengo que pasar la ITV en Ali-Gobeo, ¿la revisión pre-ITV es completa?",
-      "a": "Por supuesto. Nuestra revisión pre-ITV es un chequeo exhaustivo de los mismos puntos que miran en la estación de ITV de Ali-Gobeo: luces, frenos, suspensión, neumáticos, niveles de emisiones de gases, posibles holguras y estado general de los bajos. El objetivo es que vayas con la total tranquilidad de que vas a pasarla a la primera."
+      "q": "¿Merece la pena instalar una bomba de calor con este clima?",
+      "a": "Sí, es la forma más habitual de alargar una temporada de baño que aquí es más corta que en el resto de España. Con el dimensionado adecuado, se puede disfrutar de la piscina varios meses más al año sin disparar el consumo eléctrico."
     }
   ],
-  "closingHeadline": "Cuida tu coche en Vitoria-Gasteiz",
-  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos, envíanos un WhatsApp o rellena el formulario y te responderemos lo antes posible para ayudarte con tu coche en Vitoria."
+  "closingHeadline": "Tu piscina en Vitoria-Gasteiz, sin sorpresas",
+  "closingCta": "Si tienes una piscina en Vitoria-Gasteiz y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
 }
