@@ -4,179 +4,120 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 38425,
-  "lat": 41.34618,
-  "lng": 1.69713,
-  "metaTitle": "Taller mecánico en Vilafranca del Penedès — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en Vilafranca del Penedès. Presupuesto cerrado para revisiones, averías y neumáticos. Pide cita y evita sorpresas.",
-  "heroSubtitle": "Sabes que coger la AP-7 cada día o callejear por el Centre desgasta tu coche. Lo entendemos y te damos un presupuesto claro y sin sorpresas.",
+  "metaTitle": "Mantenimiento y reparación de piscinas en Vilafranca del Penedès | Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Vilafranca del Penedès. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
+  "heroSubtitle": "¿Tienes una piscina en Vilafranca del Penedès y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
-    },
-    {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "text": "Todo el año"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Si conduces por Vilafranca del Penedès y el Alt Penedès, sabes que tu coche no tiene una vida fácil. No es lo mismo un vehículo que solo circula por una gran ciudad que uno que, como el tuyo, seguramente combina el tráfico denso del centro en días de mercado, los trayectos diarios por la AP-7 o la N-340 para ir a trabajar a Barcelona o Martorell, y las escapadas de fin de semana por los caminos de viñas que rodean nuestra comarca. Este uso mixto, con constantes arranques y paradas, kilómetros de autopista y el polvo de los caminos rurales, genera un desgaste muy específico que conocemos a la perfección.\n\nEn nuestro taller vemos cada día el parque móvil real de Vilafranca. Dominan los SEAT León y Ateca, los Peugeot 3008, los Renault Clio y, cada vez más, los Dacia Duster, perfectos para moverse por la zona. Son coches fiables, pero el uso intensivo pasa factura. Los embragues sufren en las caravanas de la N-340, los filtros de partículas de los diésel se resienten en los trayectos cortos a Sant Sadurní d'Anoia, y las suspensiones notan cada camino de tierra que coges para visitar una bodega. Somos un taller multimarca porque nuestros clientes conducen coches de todas las marcas, y estamos preparados para dar a cada uno el servicio que necesita, con el conocimiento de sus puntos débiles más habituales.\n\nEl clima del Penedès también juega su papel. Los veranos son calurosos y secos, lo que pone a prueba el sistema de aire acondicionado y la refrigeración del motor, especialmente en los atascos para ir a la playa por la C-15 hacia Vilanova. Por otro lado, los inviernos pueden ser húmedos y con nieblas persistentes, un cóctel que castiga las baterías y exige tener en perfecto estado las luces y los neumáticos para conducir con seguridad. El polvo fino de las viñas, omnipresente en el ambiente durante gran parte del año, se acumula en filtros de aire y habitáculo, reduciendo el rendimiento del motor y la calidad del aire que respiras dentro.\n\nEntendemos que tu coche es una herramienta fundamental, ya sea para ir a la oficina, llevar a los niños al colegio en La Girada o para trabajar en los campos de la comarca. Por eso, nuestro enfoque es directo y honesto. No te vamos a contar historias. Diagnosticamos el problema real, te explicamos las opciones que tienes en un lenguaje que entiendes y te damos un presupuesto cerrado. Sin letra pequeña, sin sorpresas al final. Queremos ser tu taller de confianza en Vilafranca, el sitio al que vienes sabiendo que cuidaremos de tu coche como si fuera nuestro, porque entendemos exactamente lo que necesita para seguir rodando por el Penedès.",
-  "servicesIntro": "Ofrecemos una solución integral para tu coche en Vilafranca, desde el mantenimiento programado y la pre-ITV hasta la diagnosis de averías complejas.",
-  "processIntro": "Trabajamos con total transparencia. Recibes un presupuesto cerrado y detallado, y no movemos un solo tornillo sin tu autorización explícita.",
+  "introLocal": "Vilafranca del Penedès, entre el Penedès, el Garraf y l'Anoia, combina zonas de costa con un interior más agrícola y vitivinícola, lo que se traduce en piscinas muy distintas según la zona: desde chalets en urbanizaciones cercanas al mar hasta masías y casas de campo con piscinas más grandes y alejadas de una depuradora fácilmente accesible. Adaptamos la logística del servicio a cada caso, incluidas las visitas a fincas algo más apartadas.\n\nEl clima mediterráneo de la comarca, con veranos calurosos y secos, favorece un desgaste rápido del cloro y exige un tratamiento de agua bien ajustado a la temporada alta. En las piscinas más antiguas de la zona, con gresite y filtros de arena de hace décadas, la rehabilitación integral suele ser más rentable a largo plazo que ir parcheando averías sueltas.",
+  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Vilafranca del Penedès, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
+  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que le pasa a tu coche y utilizamos equipos de diagnosis modernos para identificar el origen exacto del problema. Sin adivinanzas, solo datos precisos para empezar a trabajar sobre una base sólida."
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Verás claramente el coste de las piezas y la mano de obra. El precio que ves es el que pagas, sin sorpresas ni costes ocultos de última hora."
+      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "Revisa el presupuesto con calma. No empezamos ninguna reparación hasta que nos des tu visto bueno. Si tienes cualquier duda, te la resolvemos por teléfono. Tú tienes siempre el control total sobre la reparación."
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros técnicos se encargan de la reparación siguiendo los estándares del fabricante y te mantenemos informado si surge cualquier imprevisto durante el proceso."
+      "title": "Ejecución profesional",
+      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Cuando recoges tu coche, te explicamos en detalle el trabajo realizado. Además, hacemos un seguimiento para asegurarnos de que todo funciona perfectamente. Tu satisfacción y seguridad son nuestra prioridad."
+      "title": "Seguimiento y garantía",
+      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
     }
   ],
-  "commonIssuesIntro": "El calor del verano, los trayectos cortos por el Penedès y el polvo de los viñedos provocan averías muy típicas que solucionamos a diario en nuestro taller de Vilafranca.",
+  "commonIssuesIntro": "El clima y las condiciones del agua en Vilafranca del Penedès generan averías características en las piscinas de la zona. Estas son las que más vemos.",
   "commonIssues": [
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico intermitente en el centro de Vilafranca y las retenciones en la N-340 o la AP-7 en hora punta castigan el embrague y los frenos. Detectamos el desgaste a tiempo, evitando averías más costosas en el volante motor y garantizando tu seguridad en cada frenada."
+      "title": "Corrosión en escaleras y elementos metálicos",
+      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
     },
     {
-      "title": "Filtros de partículas (FAP) obstruidos",
-      "body": "Muchos diésel que circulan por Vilafranca hacen trayectos cortos, como ir a comprar o desplazarse a municipios cercanos como La Granada. Esto impide que el filtro FAP se regenere correctamente y acaba por obstruirse. Realizamos limpiezas y regeneraciones forzadas para que recuperes la potencia y evites una sustitución cara."
+      "title": "Agua turbia en pleno verano",
+      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
     },
     {
-      "title": "Fallos en el aire acondicionado",
-      "body": "Llegar a julio en el Penedès con el aire acondicionado sin funcionar es una pesadilla. El calor intenso fuerza el sistema al máximo. Somos especialistas en detectar fugas, recargar el gas y reparar compresores para que puedas combatir el calor de Vilafranca sin problemas."
+      "title": "Depuradoras que fallan en temporada alta",
+      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
     },
     {
-      "title": "Suspensión y neumáticos afectados",
-      "body": "Los caminos de viñas, los baches en algunas carreteras comarcales y los badenes del casco urbano de Vilafranca pasan factura a amortiguadores, silentblocks y neumáticos. Una suspensión en mal estado es peligrosa. La revisamos a fondo para asegurar la estabilidad y el confort de tu coche."
+      "title": "Fugas de agua difíciles de localizar",
+      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
     },
     {
-      "title": "Baterías agotadas por el frío y la humedad",
-      "body": "Los inviernos en la llanura del Penedès son fríos y con nieblas húmedas. Esta combinación es letal para las baterías con algunos años. Si notas que a tu coche le cuesta arrancar por la mañana, ven y comprobaremos su estado para que no te deje tirado en el momento más inoportuno."
+      "title": "Filtros de arena con menos rendimiento por la cal",
+      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos los coches del Penedès",
-      "body": "Sabemos qué problemas dan los modelos más comunes de Vilafranca y cómo solucionarlos de forma eficaz. No perdemos el tiempo, vamos directos al grano porque conocemos tu coche y las condiciones en las que se mueve."
+      "title": "Diagnóstico técnico honesto",
+      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
     },
     {
-      "title": "Presupuesto final, sin sustos",
-      "body": "El precio que te damos es el que pagas. Analizamos la avería y te ofrecemos un presupuesto cerrado para que sepas desde el primer minuto cuánto te va a costar la reparación. La confianza empieza por la claridad."
+      "title": "Adaptado al clima y al agua de tu zona",
+      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
     },
     {
-      "title": "Técnicos que reparan, no que venden",
-      "body": "Nuestro equipo está centrado en solucionar tu problema de la forma más eficiente. No te intentaremos vender reparaciones o cambios de piezas que no necesitas. Te asesoramos con honestidad para que tomes la mejor decisión."
+      "title": "Presupuestos cerrados",
+      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
     },
     {
-      "title": "Hablamos tu mismo idioma",
-      "body": "Te explicamos las averías de forma clara y sencilla, sin tecnicismos innecesarios. Queremos que entiendas qué le pasa a tu coche y por qué recomendamos una determinada reparación. La comunicación es clave."
+      "title": "Equipo técnico propio",
+      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
     },
     {
-      "title": "Garantía en cada trabajo",
-      "body": "Todas nuestras reparaciones y los recambios que instalamos tienen garantía. Puedes estar tranquilo sabiendo que respondemos por nuestro trabajo, ya sea para una revisión rutinaria o una avería de motor compleja."
+      "title": "Disponibilidad en temporada alta",
+      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de casos reales que hemos solucionado para conductores de Vilafranca y de toda la comarca del Alt Penedès.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "La Girada",
-      "car": "SEAT León ST 2018",
-      "body": "Hago cada día el trayecto Vilafranca-Martorell por la AP-7 y el embrague empezó a patinar. En otros sitios me daban largas o presupuestos desorbitados. Aquí me lo diagnosticaron rápido, me dieron un precio cerrado muy correcto y en dos días tenía el coche listo. Se nota que saben lo que hacen.",
-      "rating": 5
-    },
-    {
-      "name": "Montserrat",
-      "neighborhood": "El Centre",
-      "car": "Peugeot 2008 2017",
-      "body": "Justo antes de irnos de vacaciones en agosto, el aire acondicionado dejó de enfriar. Con el calor que hace aquí, era imposible viajar con los niños. Les llamé, me dieron cita para el día siguiente y localizaron una pequeña fuga. Lo repararon y recargaron en el mismo día. ¡Nos salvaron el viaje!",
-      "rating": 5
-    },
-    {
-      "name": "David",
-      "neighborhood": "L'Espirall",
-      "car": "Renault Kangoo 2015",
-      "body": "Uso la furgoneta para trabajar en las viñas y el polvo es un problema constante. Notaba que perdía fuerza. Me limpiaron el filtro de partículas y cambiaron todos los filtros. Ahora va como nueva. Un servicio rápido y profesional, que es lo que necesitamos los autónomos.",
-      "rating": 5
-    },
-    {
-      "name": "Laura",
-      "neighborhood": "Poble Nou",
-      "car": "Ford Focus 2012",
-      "body": "Tenía que pasar la ITV y el coche ya tiene sus años. Se lo llevé para una revisión pre-ITV. Me ajustaron los frenos y cambiaron una bombilla. Pasó la inspección a la primera sin problemas. Me ahorraron tiempo y el posible viaje de vuelta. Un poco caro el cambio de aceite, pero el servicio fue bueno.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda Vilafranca del Penedès, desde los barrios más nuevos como La Girada hasta el centro histórico o Poble Nou. Nuestra ubicación nos permite un acceso rápido a las principales vías, por lo que somos el taller de referencia para muchos conductores de la comarca del Alt Penedès. Si vives en municipios cercanos como Sant Sadurní d'Anoia, Santa Margarida i els Monjos, Olèrdola, La Granada o Pacs del Penedès, llegar a nuestro taller es muy sencillo. Nos encontrarás fácilmente tanto si vienes por la carretera N-340, la C-15 desde la costa o Igualada, o si utilizas la autopista AP-7. Cubrimos las necesidades de todos los conductores de la capital del vino.",
-  "zoneNeighborhoods": [
-    "La Girada",
-    "L'Espirall",
-    "El Centre",
-    "Poble Nou",
-    "Sant Julià",
-    "Les Clotes",
-    "Sant Sadurní d'Anoia",
-    "Santa Margarida i els Monjos",
-    "Olèrdola",
-    "La Granada"
-  ],
-  "zoneAccessRoutes": [
-    "AP-7",
-    "N-340",
-    "C-15",
-    "BP-2121"
-  ],
+  "zoneText": "Damos servicio a Vilafranca del Penedès y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
   "faqLocal": [
     {
-      "q": "¿Hacéis la revisión pre-ITV para pasarla en la estación de Vilafranca?",
-      "a": "Sí, por supuesto. Conocemos perfectamente los puntos que se revisan en la ITV de Vilafranca. Hacemos una revisión exhaustiva de frenos, luces, neumáticos, emisiones y suspensión para que vayas con la total tranquilidad de que tu coche la pasará a la primera, ahorrándote tiempo y un segundo viaje."
+      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Vilafranca del Penedès?",
+      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
     },
     {
-      "q": "Mi diésel hace trayectos cortos por Vilafranca, ¿qué mantenimiento especial necesita?",
-      "a": "Es un caso muy común. Los diésel modernos con filtro de partículas (FAP/DPF) sufren mucho en recorridos urbanos cortos porque no alcanzan la temperatura para autolimpiarse. Te recomendamos salir a carretera, como por la C-15, una vez cada dos semanas y conducir a revoluciones más altas durante unos 15 minutos. Además, en el taller podemos forzar la regeneración o realizar limpiezas preventivas."
+      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
+      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
     },
     {
-      "q": "En verano el coche se calienta en los atascos de la N-340, ¿es normal?",
-      "a": "No debería serlo. Que la aguja de la temperatura suba más de la cuenta en un atasco, incluso en los días más calurosos del Penedès, suele indicar un problema en el sistema de refrigeración: electroventilador, termostato, radiador sucio o falta de líquido refrigerante. Te recomendamos que lo traigas para una revisión antes de que cause una avería mayor."
+      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
+      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
     },
     {
-      "q": "¿Tenéis experiencia con furgonetas tipo Berlingo, Kangoo o Doblò?",
-      "a": "Totalmente. Son vehículos muy populares en Vilafranca y toda la comarca para profesionales y trabajos agrícolas. Conocemos su mecánica, sus puntos débiles y la importancia de tenerlas siempre a punto para que no fallen en el trabajo. Realizamos mantenimientos, reparaciones de embrague, distribución y todo lo que necesiten."
-    },
-    {
-      "q": "Vivo en Olèrdola y trabajo en Vilafranca, ¿ofrecéis coche de cortesía?",
-      "a": "Sí, disponemos de coche de cortesía para nuestros clientes (sujeto a disponibilidad, consúltanos al pedir cita). Entendemos que muchos de nuestros clientes vienen de pueblos cercanos como Olèrdola, Sant Cugat Sesgarrigues o Avinyonet y necesitan seguir moviéndose mientras reparamos su vehículo. Es un servicio pensado para facilitaros la vida."
-    },
-    {
-      "q": "El polvo de los caminos de viñas, ¿puede dañar el coche?",
-      "a": "Sí, es un factor a tener muy en cuenta en el Penedès. El polvo fino se acumula en el filtro del aire, lo que reduce el rendimiento del motor y aumenta el consumo. También ensucia el filtro del habitáculo, afectando al aire que respiras. Recomendamos cambiar ambos filtros con más frecuencia de la que indica el fabricante si circulas habitualmente por caminos."
+      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
+      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Vilafranca",
-  "closingCta": "Pide tu presupuesto cerrado sin ningún compromiso. Llámanos o envíanos un WhatsApp y te atenderemos enseguida. Confía en los que de verdad conocen los coches de Vilafranca del Penedès."
+  "closingHeadline": "Tu piscina en Vilafranca del Penedès, sin sorpresas",
+  "closingCta": "Si tienes una piscina en Vilafranca del Penedès y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
 }
