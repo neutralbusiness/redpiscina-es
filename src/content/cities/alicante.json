@@ -4,179 +4,120 @@
   "province": "Alicante",
   "ccaa": "Comunidad Valenciana",
   "population": 348901,
-  "lat": 38.34517,
-  "lng": -0.48149,
-  "metaTitle": "Taller mecánico en Alicante — Multimarca y de confianza",
-  "metaDescription": "Tu taller en Alicante para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Atendemos todas las marcas. ¡Pide tu cita ahora!",
-  "heroSubtitle": "Cansado de sorpresas en la factura y de no saber qué le pasa a tu coche en el tráfico de Alicante? Aquí hablamos claro.",
+  "metaTitle": "Mantenimiento y reparación de piscinas en Alicante | Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Alicante. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
+  "heroSubtitle": "¿Tienes una piscina en Alicante y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
-    },
-    {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "text": "Todo el año"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Si conduces a diario por Alicante, sabes lo que es sufrir el tráfico de la Gran Vía en hora punta, buscar aparcamiento por el centro en verano o coger la A-70 para ir a trabajar a Elche o San Vicente del Raspeig. Tu coche también lo sabe. El constante arranca-para desgasta el embrague y los frenos, mientras que los trayectos por autovía exigen que neumáticos y suspensión estén en perfecto estado. No es lo mismo usar el coche solo para ir a la playa de San Juan el fin de semana que hacer cada día el trayecto desde Mutxamel. Entendemos estas diferencias y adaptamos el mantenimiento a tu uso real, no a un manual genérico.\n\nEl clima de Alicante es fantástico para vivir, pero un desafío para la mecánica. El salitre del mar, que notas en el aire si vives en la Albufereta o el Cabo de las Huertas, es el enemigo número uno de la chapa, los bajos del coche y el sistema de escape, acelerando la corrosión de forma invisible. Por otro lado, el calor intenso desde junio hasta bien entrado septiembre pone a prueba el sistema de refrigeración y el aire acondicionado. Un fallo en cualquiera de los dos en pleno agosto puede convertir un simple atasco en la A-31 en una auténtica pesadilla. Por eso, en nuestro taller, prestamos especial atención a estos puntos críticos que el clima local castiga.\n\nConocemos el parque móvil de Alicante como la palma de nuestra mano. Vemos a diario los SEAT Ibiza y León, los Renault Clio, los Peugeot 208 y 308, y los Ford Focus que llenan nuestras calles, desde Carolinas hasta Benalúa. Sabemos qué averías son comunes en ese Volkswagen Golf TDI del 2014 que usas para todo o en ese Nissan Qashqai familiar. Ya sea un motor diésel con sus achaques por la edad y los kilómetros, o un gasolina más moderno, tenemos la experiencia y el equipo de diagnosis para tratar cada coche con el conocimiento que requiere, sin experimentos ni pérdidas de tiempo.\n\nUn taller de confianza en Alicante debe entender que tu coche es una herramienta esencial. Por eso, nuestra filosofía es la transparencia total. Antes de cambiar una sola pieza, recibirás un presupuesto cerrado y detallado. Si durante la reparación encontramos algo inesperado, paramos, te llamamos, te enviamos fotos si hace falta y te explicamos las opciones. Tú tienes siempre el control. Queremos ser tu taller de referencia, el lugar al que vienes tranquilo sabiendo que te diremos la verdad y que solo haremos lo que sea estrictamente necesario para que conduzcas seguro por la ciudad y alrededores.",
-  "servicesIntro": "Desde la revisión anual para tu coche que usas por Alicante hasta cambiar un embrague gastado en el tráfico del centro, lo cubrimos todo.",
-  "processIntro": "Creemos que la confianza es clave. Por eso, nuestro proceso es transparente: te explicamos todo con claridad y tú decides. Sin letra pequeña.",
+  "introLocal": "Alicante, en el Levante mediterráneo, tiene un clima cálido y seco con una de las temporadas de baño más largas de la España peninsular, que en años cálidos se extiende de abril a octubre sin necesidad de climatizar. El agua de la zona suele ser de dureza media, lo que con los años deja cal en juntas, tuberías y sistemas de cloración salina si no se hace un mantenimiento adecuado.\n\nEn las urbanizaciones de chalets tan habituales en el área, conviven piscinas de construcción reciente con otras de varias décadas que necesitan una puesta al día: nuevo revestimiento, sistema de filtración más eficiente y, cada vez más, protección adicional frente a la corrosión en las zonas más próximas a la costa.",
+  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Alicante, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
+  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando traes tu coche, escuchamos lo que te preocupa. Conectamos nuestros equipos de diagnosis y hacemos una inspección visual completa para entender el problema de raíz, no solo el síntoma."
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado por escrito. El precio que ves es el que pagas. Si surge algo imprevisto, paramos y te llamamos inmediatamente."
+      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu aprobación explícita por teléfono o WhatsApp. Tú tienes siempre el control total sobre la reparación y el gasto."
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos se ponen manos a la obra para tener tu coche listo en el plazo acordado, manteniéndote informado si hay alguna novedad."
+      "title": "Ejecución profesional",
+      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para asegurarnos de que todo va perfecto."
+      "title": "Seguimiento y garantía",
+      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
     }
   ],
-  "commonIssuesIntro": "El clima de Alicante, con su salitre y calor extremo, junto al tráfico urbano y de circunvalación, provoca averías muy concretas. Estas son las que más vemos en nuestro taller.",
+  "commonIssuesIntro": "El clima y las condiciones del agua en Alicante generan averías características en las piscinas de la zona. Estas son las que más vemos.",
   "commonIssues": [
     {
-      "title": "Fallos en el aire acondicionado",
-      "body": "El verano alicantino no perdona. El uso intensivo del climatizador de junio a septiembre fuerza el compresor y puede provocar fugas en el circuito. Muchos coches llegan con el A/C sin enfriar. Realizamos un diagnóstico completo del sistema, localizando la fuga o el componente eléctrico que falla, para una reparación duradera."
+      "title": "Corrosión en escaleras y elementos metálicos",
+      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
     },
     {
-      "title": "Desgaste de frenos y embrague",
-      "body": "El tráfico denso en el centro, la Gran Vía o los accesos a las playas en temporada alta significa un uso constante de freno y embrague. Este castigo acelera su desgaste. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión."
+      "title": "Agua turbia en pleno verano",
+      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
     },
     {
-      "title": "Óxido en bajos y sistema de escape",
-      "body": "El salitre es un enemigo silencioso, sobre todo para los coches que duermen en la calle en barrios costeros como la Playa de San Juan o la Albufereta. Ataca los bajos, las líneas de freno y el escape. En las revisiones, prestamos especial atención a estos puntos para prevenir averías graves y problemas en la ITV."
+      "title": "Depuradoras que fallan en temporada alta",
+      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
     },
     {
-      "title": "Sobrecalentamiento del motor en verano",
-      "body": "Un atasco en la A-70 a 40 grados puede ser fatal para un sistema de refrigeración que no esté al 100%. Radiadores obstruidos, termostatos que no abren o ventiladores que no saltan son averías típicas que vemos antes y durante el verano. Una revisión a tiempo evita que te quedes tirado."
+      "title": "Fugas de agua difíciles de localizar",
+      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
     },
     {
-      "title": "Faros opacos por el sol",
-      "body": "El sol intenso de Alicante 'quema' la capa protectora de los faros de policarbonato, dejándolos amarillentos y opacos. Esto no solo es un problema estético, sino que reduce peligrosamente la visibilidad nocturna y es un fallo grave en la ITV. Ofrecemos un servicio de pulido que los deja como nuevos."
+      "title": "Filtros de arena con menos rendimiento por la cal",
+      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
     }
   ],
   "whyUs": [
     {
-      "title": "Somos de Alicante",
-      "body": "Conocemos los coches que se conducen aquí y los problemas que dan. No te tratamos como un número, sino como un vecino de Carolinas, San Blas o La Florida."
+      "title": "Diagnóstico técnico honesto",
+      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
     },
     {
-      "title": "Presupuestos sin sorpresas",
-      "body": "El precio que te damos es el que pagas. Si durante la reparación vemos algo más, te llamamos, te lo explicamos y tú decides. Sin sustos en la factura final."
+      "title": "Adaptado al clima y al agua de tu zona",
+      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
     },
     {
-      "title": "Para todas las marcas",
-      "body": "Da igual si llevas un Dacia para el día a día o un BMW para disfrutar de la carretera. Tenemos el equipo y el conocimiento para cuidar de tu coche, sea cual sea."
+      "title": "Presupuestos cerrados",
+      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
     },
     {
-      "title": "Diagnóstico honesto",
-      "body": "No cambiamos piezas por cambiar. Buscamos el origen real de la avería para darte una solución duradera y económica, explicándote qué pasa con palabras que entiendes."
+      "title": "Equipo técnico propio",
+      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
     },
     {
-      "title": "Garantía en cada reparación",
-      "body": "Todas nuestras intervenciones y los recambios que instalamos están cubiertos por la garantía legal. Puedes estar tranquilo, tu coche está en buenas manos."
+      "title": "Disponibilidad en temporada alta",
+      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
     }
   ],
-  "testimonialsIntro": "Estas son algunas situaciones típicas que nos encontramos. Quizás te sientas identificado con la experiencia de estos conductores de Alicante.",
-  "testimonials": [
-    {
-      "name": "Lucía",
-      "neighborhood": "Playa de San Juan",
-      "car": "MINI Cooper 2016",
-      "body": "El aire acondicionado dejó de enfriar en pleno julio. En otros sitios me querían cambiar el compresor directamente. Aquí revisaron el circuito, encontraron una pequeña fuga en un manguito y lo solucionaron por mucho menos. Unos cracks, honestos y rápidos.",
-      "rating": 5
-    },
-    {
-      "name": "Carlos",
-      "neighborhood": "San Blas",
-      "car": "Peugeot 308 HDI 2015",
-      "body": "Uso el coche todos los días para ir a trabajar al polígono de Rabasa y el embrague ya patinaba. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial. Cumplieron con el plazo y el coche va como la seda. Muy recomendable.",
-      "rating": 5
-    },
-    {
-      "name": "María",
-      "neighborhood": "El Campello",
-      "car": "SEAT Ateca 2018",
-      "body": "Tenía que pasar la ITV y los faros estaban opacos por el sol. Además, las pastillas de freno estaban en las últimas. Me hicieron el pulido de faros y el cambio de pastillas en la misma mañana. Pasé la ITV sin un solo fallo. Servicio eficiente.",
-      "rating": 5
-    },
-    {
-      "name": "Javier",
-      "neighborhood": "Centro",
-      "car": "Ford Focus 2012",
-      "body": "Notaba un ruido metálico por debajo y pensé que sería el escape. Lo subieron al elevador y me enseñaron que era una chapa anticalórica suelta por el óxido. Me la fijaron en 15 minutos y casi no me cobraron. Podrían haberme dicho cualquier cosa, muy legales.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Nuestro taller en Alicante da servicio a conductores de toda la ciudad y alrededores. Si vives en barrios como Pla del Bon Repós, Carolinas, San Blas o La Florida, estamos a un paso. También somos el taller de confianza para muchos vecinos de municipios cercanos como San Vicente del Raspeig, Sant Joan d'Alacant o Mutxamel, que bajan a diario a Alicante para trabajar. Gracias a nuestro acceso rápido desde grandes vías como la Gran Vía o la A-70 (la Circunvalación), dejar y recoger tu coche es cómodo y no te desvía de tu ruta habitual. Tanto si vienes del centro como de la zona de playas, llegar es fácil.",
-  "zoneNeighborhoods": [
-    "Pla del Bon Repós",
-    "Carolinas Altas",
-    "Carolinas Bajas",
-    "San Blas-Santo Domingo",
-    "Benalúa",
-    "La Florida",
-    "Albufereta",
-    "Playa de San Juan",
-    "San Vicente del Raspeig",
-    "Sant Joan d'Alacant"
-  ],
-  "zoneAccessRoutes": [
-    "A-70 (Circunvalación de Alicante)",
-    "A-31 (Autovía de Alicante)",
-    "N-332",
-    "Gran Vía (CV-31)"
-  ],
+  "zoneText": "Damos servicio a Alicante y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
   "faqLocal": [
     {
-      "q": "¿Revisáis el coche para la ITV de Alicante? ¿Son muy estrictos?",
-      "a": "Sí, hacemos una revisión pre-ITV completa. Las estaciones de ITV de Alicante y San Vicente son rigurosas, sobre todo con emisiones en diésel antiguos, frenos y la opacidad de los faros por el sol. Nos aseguramos de que esos puntos estén perfectos para que la pases a la primera sin problemas."
+      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Alicante?",
+      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
     },
     {
-      "q": "Mi coche duerme en la calle cerca de la playa, ¿necesita algún cuidado especial?",
-      "a": "Absolutamente. El salitre del ambiente marino en zonas como El Postiguet o la Albufereta es muy corrosivo. Acelera el óxido en los bajos, el escape y los discos de freno. Recomendamos un lavado de bajos frecuente y revisiones periódicas para detectar y tratar la corrosión a tiempo."
+      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
+      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
     },
     {
-      "q": "¿Tenéis experiencia con coches que sufren en el tráfico de verano?",
-      "a": "Es nuestro día a día. El calor y los atascos para ir a las playas o por el centro en agosto fuerzan el embrague, los frenos y la refrigeración. Conocemos los puntos débiles de los modelos más comunes en Alicante y sabemos cómo reforzarlos para que aguanten el verano sin problemas."
+      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
+      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
     },
     {
-      "q": "Voy a hacer un viaje largo desde Alicante por la A-7, ¿qué debería revisar?",
-      "a": "Para un viaje largo, es crucial revisar niveles de aceite y refrigerante, la presión y estado de los neumáticos (el asfalto caliente los desgasta más), el sistema de frenos y, por supuesto, el aire acondicionado. Un chequeo rápido puede evitarte un disgusto y una factura enorme lejos de casa."
-    },
-    {
-      "q": "Tengo un diésel de más de 10 años, ¿me dará problemas de humos en la ITV?",
-      "a": "Es una preocupación común. Los diésel de cierta edad, sobre todo si hacen mucha ciudad por Alicante, acumulan carbonilla. Antes de la ITV, recomendamos una buena descarbonización del motor y revisar el sistema de inyección y el filtro de partículas. Así te aseguras de pasar la prueba de opacidad."
-    },
-    {
-      "q": "¿Cambiáis neumáticos? Con el calor de Alicante, ¿cuáles recomendáis?",
-      "a": "Sí, trabajamos con todas las marcas de neumáticos. Para el clima de Alicante, lo ideal son neumáticos de verano o 'all-season' de buena calidad. Aguantan mejor las altas temperaturas del asfalto, evacuan bien en caso de 'gota fría' y ofrecen un agarre seguro. Te asesoramos sobre la mejor opción para tu coche y tu presupuesto."
+      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
+      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Alicante",
-  "closingCta": "No dejes que una avería te amargue el día. Pide tu presupuesto cerrado para tu taller en Alicante. Llámanos o escríbenos por WhatsApp y te atenderemos sin compromiso."
+  "closingHeadline": "Tu piscina en Alicante, sin sorpresas",
+  "closingCta": "Si tienes una piscina en Alicante y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
 }
