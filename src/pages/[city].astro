@@ -169,8 +169,7 @@ Os escribo desde ${canonical}
 Gracias,
 `;
 const mailtoUrl = `mailto:${email}?subject=${encodeURIComponent(mailSubject)}&body=${encodeURIComponent(mailBody)}`;
-const waMsg = `Hola! Quiero información.
-📍 ${city.slug}.${NETWORK.domain}`;
+const waMsg = `IMPORTANTE: Envía este mensaje sin editarlo para hablar con nosotros: ${city.slug}.${NETWORK.domain}`;
 const waUrl = `https://wa.me/${whatsapp}?text=${encodeURIComponent(waMsg)}`;
 
 const allFaqs = [...city.faqLocal, ...FAQ_BASE];
