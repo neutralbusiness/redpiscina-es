@@ -4,179 +4,120 @@
   "province": "Sevilla",
   "ccaa": "Andalucía",
   "population": 122943,
-  "lat": 37.28287,
-  "lng": -5.92088,
-  "metaTitle": "Taller mecánico en Dos Hermanas — Multimarca y de confianza",
-  "metaDescription": "Presupuestos cerrados para tu coche en Dos Hermanas. Revisión, averías, neumáticos y pre-ITV. Cuidamos tu coche del calor y del uso diario. Pide tu cita.",
-  "heroSubtitle": "Harto de atascos en la A-4 y sorpresas en la factura del taller? En Dos Hermanas, te damos un presupuesto cerrado para que conduzcas tranquilo.",
+  "metaTitle": "Mantenimiento y reparación de piscinas en Dos Hermanas | Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Dos Hermanas. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
+  "heroSubtitle": "¿Tienes una piscina en Dos Hermanas y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
-    },
-    {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "text": "Todo el año"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Conducir por Dos Hermanas y sus alrededores es una prueba de resistencia para cualquier coche. Si cada mañana coges la A-4 o la SE-40 para ir a trabajar a Sevilla, sabes de lo que hablamos: el arranca-para constante, el embrague sufriendo en los atascos de entrada a la capital y los frenos trabajando a destajo. Tu SEAT León, tu Peugeot 3008 o tu furgoneta para el trabajo acumulan kilómetros en unas condiciones que no son precisamente un paseo. No es lo mismo circular por la Avenida de España en hora punta que hacer un viaje largo por la autovía; el desgaste diario en este entorno metropolitano es intenso y requiere un mantenimiento específico que entienda esta realidad.\n\nLuego está el factor que define nuestra tierra: el calor. Cuando el termómetro supera los 40 grados en julio y agosto, el asfalto de la N-IV parece derretirse y tu coche lo sufre en silencio. El aire acondicionado funciona sin descanso, el sistema de refrigeración va al límite para evitar un calentón en mitad de la SE-30 y la batería se degrada a un ritmo mucho más rápido que en climas más suaves. Este calor extremo no es una anécdota, es una condición que afecta directamente a la vida útil de componentes clave. Ignorarlo significa arriesgarse a una avería en el peor momento posible, como volviendo de la playa de Matalascañas un domingo por la tarde.\n\nEn nuestro taller de Dos Hermanas conocemos perfectamente este escenario. Entendemos el parque móvil de la zona, dominado por coches diésel y gasolina de marcas como Renault, Citroën, Ford o Volkswagen, vehículos fiables pensados para el día a día de familias de Vistazul o Montequinto y para autónomos que se mueven por los polígonos como La Isla. Sabemos que tu coche no es un lujo, es la herramienta que te permite llevar a los niños al colegio, hacer la compra o, simplemente, ganarte la vida. Por eso, nuestro enfoque es práctico, honesto y adaptado a las necesidades reales de los conductores nazarenos.\n\nAquí no te hablaremos con tecnicismos innecesarios ni intentaremos venderte reparaciones que no necesitas. Nuestro compromiso es simple: un diagnóstico claro, un presupuesto cerrado y sin sorpresas, y la garantía de que solo usamos recambios de calidad. Tanto si necesitas la revisión anual para pasar la ITV en Gelves sin problemas, como si has notado un ruido raro en la suspensión después de coger uno de tantos baches, o si simplemente el aire acondicionado ha decidido dejar de enfriar justo cuando empieza la feria. Estamos aquí para que tu coche siga siendo tu aliado y no una fuente de problemas y gastos imprevistos.",
-  "servicesIntro": "Desde el cambio de aceite para tu coche familiar hasta la reparación del embrague de tu furgoneta de trabajo, cubrimos todas las necesidades de tu vehículo en Dos Hermanas.",
-  "processIntro": "Queremos que estés tranquilo. Por eso nuestro proceso es 100% transparente: te explicamos el problema, te damos un presupuesto cerrado y no hacemos nada sin tu permiso.",
+  "introLocal": "En Dos Hermanas, con veranos muy largos y extremadamente calurosos, la clave del mantenimiento de una piscina es anticiparse: revisar la depuradora en primavera, antes de que el uso intensivo de julio y agosto la ponga a prueba. Es habitual que las averías aparezcan justo en pleno verano, cuando la instalación lleva semanas trabajando a máximo rendimiento.\n\nEl calor extremo también acelera la evaporación, así que conviene distinguir bien una pérdida de agua normal de una fuga real. Hacemos pruebas de presión y, si hace falta, detección con gas trazador para localizar el punto exacto sin necesidad de vaciar la piscina.",
+  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Dos Hermanas, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
+  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que le pasa a tu coche y lo revisamos a fondo. Usamos equipos de diagnosis para encontrar el origen exacto del problema, sin especulaciones. Te explicamos qué hemos encontrado en un lenguaje que entiendas."
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te entregamos un presupuesto detallado por escrito o por WhatsApp. El precio que ves es el que pagas, sin extras de última hora ni sorpresas desagradables. Incluye piezas, mano de obra e IVA. Todo claro desde el principio."
+      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo hasta que nos des tu visto bueno. Si durante la reparación surgiera algo nuevo e inesperado (es raro, pero puede pasar), te llamaremos inmediatamente para informarte y decidir."
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Nuestros mecánicos se ponen manos a la obra utilizando recambios de primeras marcas o equivalentes, siempre con garantía. Te mantenemos informado de los plazos para que sepas cuándo podrás recoger tu coche."
+      "title": "Ejecución profesional",
+      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Cuando el coche está listo, te avisamos. Al recogerlo, te explicamos la reparación realizada y te entregamos la factura. Unos días después, es posible que te contactemos para asegurarnos de que todo va perfecto."
+      "title": "Seguimiento y garantía",
+      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
     }
   ],
-  "commonIssuesIntro": "El calor asfixiante de Sevilla, el polvo del campo y los kilómetros diarios hacia la capital dejan huella. Estos son los problemas más comunes que vemos en los coches de Dos Hermanas.",
+  "commonIssuesIntro": "El clima y las condiciones del agua en Dos Hermanas generan averías características en las piscinas de la zona. Estas son las que más vemos.",
   "commonIssues": [
     {
-      "title": "El aire acondicionado no enfría",
-      "body": "En pleno agosto, un A/C que no funciona es un drama. El uso intensivo durante meses provoca fugas en el circuito o agota el gas. Revisamos el sistema de climatización, detectamos posibles fugas, recargamos el gas y cambiamos el filtro del habitáculo para que vuelvas a respirar aire fresco y limpio."
+      "title": "Agua turbia por el calor intenso",
+      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
     },
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico denso para entrar a Sevilla por la A-4 o los recorridos urbanos por Montequinto castigan el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Un cambio a tiempo evita averías mayores y más caras."
+      "title": "Depuradoras que se averían en pleno verano",
+      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
     },
     {
-      "title": "Baterías que mueren de repente",
-      "body": "El calor extremo del verano sevillano acorta drásticamente la vida de las baterías. No es raro que un coche que arrancaba perfectamente por la mañana, por la tarde no dé señales de vida. Comprobamos el estado de tu batería y el alternador para que no te quedes tirado en el peor momento."
+      "title": "Filtros de arena calcificados",
+      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
     },
     {
-      "title": "Sobrecalentamiento del motor",
-      "body": "Quedarse parado por un calentón en la SE-30 a 45 grados es una pesadilla. El calor y el esfuerzo constante pueden provocar fugas de refrigerante, fallos en el termostato o problemas en el radiador. Realizamos una revisión completa del circuito de refrigeración para garantizar que tu motor trabaje a su temperatura ideal."
+      "title": "Cloradores salinos con menor rendimiento",
+      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
     },
     {
-      "title": "Filtros de aire y polen obstruidos",
-      "body": "La cercanía del campo y el polen en primavera hacen que los filtros de aire y del habitáculo se saturen rápidamente en Dos Hermanas. Esto aumenta el consumo de combustible y reduce la calidad del aire que respiras dentro. Es una operación de mantenimiento económica que mejora el rendimiento y tu confort."
+      "title": "Fisuras y fugas en piscinas antiguas",
+      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico honesto",
-      "body": "Te decimos lo que tu coche necesita de verdad, ni más ni menos. No inflamos las facturas con reparaciones innecesarias. Nuestra reputación en Dos Hermanas se basa en la confianza."
+      "title": "Diagnóstico técnico honesto",
+      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
     },
     {
-      "title": "Entendemos tu día a día",
-      "body": "Sabemos lo que implica moverse por el área metropolitana de Sevilla. Por eso, nuestras soluciones son prácticas y buscan que pases el menor tiempo posible sin tu vehículo."
+      "title": "Adaptado al clima y al agua de tu zona",
+      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "El precio que te damos es el precio final. Creemos que la transparencia es la base de una buena relación. Así, puedes organizar tus gastos sin miedo a sustos de última hora."
+      "title": "Presupuestos cerrados",
+      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
     },
     {
-      "title": "Expertos en tu coche",
-      "body": "Trabajamos con todas las marcas, desde un Ford Fiesta a una Volkswagen Transporter. Conocemos los puntos débiles y fuertes de los modelos más comunes en nuestras carreteras."
+      "title": "Equipo técnico propio",
+      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
     },
     {
-      "title": "Garantía por escrito",
-      "body": "Todas nuestras reparaciones y los recambios que instalamos están cubiertos por garantía. Conducirás con la tranquilidad de saber que el trabajo está bien hecho."
+      "title": "Disponibilidad en temporada alta",
+      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que solucionamos a diario. Los nombres y coches son representativos, pero los problemas son los que sufren los conductores de Dos Hermanas.",
-  "testimonials": [
-    {
-      "name": "José",
-      "neighborhood": "Montequinto",
-      "car": "SEAT León TDI 2016",
-      "body": "Hago todos los días el trayecto a La Cartuja y el embrague ya empezaba a patinar. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial, y en dos días tenía el coche listo. Se nota la diferencia una barbaridad. Muy profesionales y claros en todo momento.",
-      "rating": 5
-    },
-    {
-      "name": "María",
-      "neighborhood": "Vistazul",
-      "car": "Peugeot 3008 2018",
-      "body": "Justo una semana antes de irnos de vacaciones a Cádiz, el aire acondicionado dejó de enfriar. Fue una faena. Los llamé, me dieron cita rápido, encontraron una pequeña fuga y lo solucionaron en el día. Me salvaron el viaje. ¡Un servicio de 10!",
-      "rating": 5
-    },
-    {
-      "name": "Carlos",
-      "neighborhood": "La Motilla",
-      "car": "Citroën Berlingo 2019",
-      "body": "Soy autónomo y la furgoneta es mi oficina. Tenía que pasar la ITV y no tenía tiempo de nada. Les pedí una revisión pre-ITV y me la hicieron de un día para otro, cambiaron una bombilla fundida y un filtro. La pasó a la primera. Eficaces y entienden que mi tiempo es oro.",
-      "rating": 5
-    },
-    {
-      "name": "Ana",
-      "neighborhood": "El Chaparral",
-      "car": "Ford Focus 2012",
-      "body": "El coche no me arrancó un día de mucho calor. Pensé que sería algo grave, pero me dijeron que era la batería, que con estos veranos es normal. Me la cambiaron en un rato y el precio fue razonable. Agradezco la honestidad, porque en otros sitios igual me hubieran contado una historia.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda Dos Hermanas y sus alrededores. Si vives en barrios como Montequinto, Vistazul, La Motilla, Arco Norte o Las Portadas, estamos a un paso de ti. También somos el taller de confianza para muchos conductores de municipios cercanos como Alcalá de Guadaíra, Bellavista, o incluso de Coria del Río y Los Palacios y Villafranca que buscan un servicio profesional y con precios claros. Nuestro fácil acceso desde las principales vías como la A-4 (Autovía del Sur), la SE-40 y la antigua N-IV, así como desde la A-376 (carretera de Utrera), hace que llegar a nuestro taller sea cómodo y rápido, evitando el denso tráfico del centro de la ciudad.",
-  "zoneNeighborhoods": [
-    "Montequinto",
-    "Vistazul",
-    "La Motilla",
-    "Arco Norte",
-    "Las Portadas",
-    "Fuente del Rey",
-    "El Chaparral",
-    "Bellavista",
-    "Alcalá de Guadaíra"
-  ],
-  "zoneAccessRoutes": [
-    "A-4 (Autovía del Sur)",
-    "SE-40",
-    "AP-4 (Autopista del Sur)",
-    "N-IV",
-    "A-376 (Autovía Sevilla-Utrera)"
-  ],
+  "zoneText": "Damos servicio a Dos Hermanas y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
   "faqLocal": [
     {
-      "q": "¿Hacéis la revisión pre-ITV para la estación de Gelves?",
-      "a": "Sí, por supuesto. Es la estación a la que acuden la mayoría de nuestros clientes. Hacemos una revisión completa de los puntos clave que miran en la inspección: luces, frenos, neumáticos, emisiones, etc. Nuestro objetivo es que la pases a la primera y te ahorres tiempo y un segundo viaje."
+      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Dos Hermanas?",
+      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
     },
     {
-      "q": "Mi coche sufre mucho en verano, ¿qué revisión especial recomendáis?",
-      "a": "Para el verano de Sevilla, recomendamos una revisión centrada en el sistema de refrigeración (niveles de anticongelante, estado de manguitos y radiador), el aire acondicionado (carga de gas y filtro de habitáculo) y la batería. Son los tres componentes que más fallan con el calor extremo y una revisión preventiva puede evitarte una avería importante."
+      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
+      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
     },
     {
-      "q": "Voy todos los días a Sevilla a trabajar, ¿cuándo debería revisar el embrague?",
-      "a": "El uso intensivo en atascos acorta la vida del embrague. No hay un kilometraje fijo, pero si notas que el pedal está más duro de lo normal, que el coche vibra al salir en primera o que el motor se revoluciona pero el coche no gana velocidad como antes, es el momento de que lo revisemos. Cogerlo a tiempo puede evitar dañar el volante motor, una reparación mucho más cara."
+      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
+      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
     },
     {
-      "q": "¿Tenéis experiencia con furgonetas tipo Berlingo, Partner o Kangoo?",
-      "a": "Totalmente. Son vehículos muy comunes entre los profesionales y autónomos de Dos Hermanas y conocemos a la perfección su mecánica. Realizamos mantenimientos, cambios de distribución, embragues y cualquier reparación que necesiten para que sigan siendo una herramienta de trabajo fiable."
-    },
-    {
-      "q": "Vivo en Montequinto, ¿tardáis mucho en dar cita?",
-      "a": "Intentamos ser lo más ágiles posible porque sabemos que necesitas tu coche. Normalmente podemos darte cita en 24-48 horas para revisiones o problemas comunes. Para averías urgentes, buscamos siempre un hueco lo antes posible. Llámanos y te confirmamos la disponibilidad al momento."
-    },
-    {
-      "q": "Con el polvo del campo y las obras de la SE-40, noto que entra mucho polvo. ¿Qué puedo hacer?",
-      "a": "Ese es un problema muy habitual aquí. La solución es sencilla y económica: cambiar el filtro del habitáculo (o filtro de polen). Recomendamos hacerlo una vez al año. Mejorará radicalmente la calidad del aire dentro del coche y el rendimiento del sistema de climatización."
+      "q": "¿El agua de mi zona es muy dura para la piscina?",
+      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Dos Hermanas",
-  "closingCta": "Pide tu presupuesto cerrado y sin compromiso para tu taller en Dos Hermanas. Llámanos o envíanos un WhatsApp y te atenderemos encantados para resolver cualquier duda."
+  "closingHeadline": "Tu piscina en Dos Hermanas, sin sorpresas",
+  "closingCta": "Si tienes una piscina en Dos Hermanas y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
 }
