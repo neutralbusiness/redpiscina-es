@@ -4,179 +4,120 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 23301,
-  "lat": 41.54372,
-  "lng": 1.89407,
-  "metaTitle": "Taller mecánico en Olesa de Montserrat — Multimarca y de confianza",
-  "metaDescription": "Tu taller mecánico multimarca en Olesa de Montserrat. Presupuesto cerrado y sin sorpresas para tu coche. Pide cita para revisión, averías o neumáticos.",
-  "heroSubtitle": "Cansado de los atascos en la A-2 y del taller que nunca te da un precio fijo? En Olesa, cuidamos tu coche para que solo te preocupes de conducir.",
+  "metaTitle": "Mantenimiento y reparación de piscinas en Olesa de Montserrat | Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Olesa de Montserrat. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
+  "heroSubtitle": "¿Tienes una piscina en Olesa de Montserrat y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
-    },
-    {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "text": "Todo el año"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Si vives en Olesa de Montserrat, sabes que tu coche no es un lujo, es una necesidad. Ya sea para bajar a Barcelona por la A-2 cada mañana, para ir a trabajar a la SEAT de Martorell o simplemente para moverte por el pueblo, desde el Centre hasta urbanizaciones como Ribes Blaves o Les Planes. Entendemos perfectamente el trote que le das a tu vehículo, porque nosotros también lo vivimos. Conocemos el parque móvil de la zona: una gran mayoría de SEAT León, Ibiza y Arona, pero también muchos Peugeot 208, Renault Clio y furgonetas de autónomos que son su herramienta de trabajo.\n\nEl clima de Olesa, a los pies de la montaña de Montserrat, también juega su papel. Los veranos son secos y muy calurosos, lo que pone a prueba el sistema de refrigeración y el aire acondicionado de cualquier coche. No es raro ver vehículos parados en el arcén de la C-55 por un calentón en pleno julio. En invierno, la humedad del Llobregat y las mañanas frías castigan las baterías, especialmente en coches diésel que duermen en la calle. Por eso, una revisión de los niveles y de la batería antes de cada cambio de estación no es una recomendación, es casi una obligación para evitar sustos.\n\nEl tipo de conducción aquí es muy exigente. El tráfico denso en la A-2 en hora punta significa un uso constante del embrague y los frenos. Si tu día a día es un continuo arranca-para entre Abrera y Martorell, estos componentes se desgastan mucho más rápido de lo normal. Además, las calles de muchas zonas residenciales, con sus cuestas y badenes, suponen un estrés adicional para la suspensión, las rótulas y los neumáticos. Y si te gusta escaparte los fines de semana a hacer curvas por Montserrat, necesitas que tus ruedas y amortiguadores estén en perfecto estado para garantizar tu seguridad.\n\nEn nuestro taller de Olesa, no vemos solo coches, vemos las historias de sus dueños. Entendemos que necesitas tu furgoneta para trabajar en el polígono, que tu coche familiar tiene que ser seguro para llevar a los niños al colegio y que, si tienes un diésel moderno, el filtro de partículas puede ser un quebradero de cabeza con tanto trayecto corto por el pueblo. Por eso, nuestro enfoque es local y personalizado. No aplicamos soluciones genéricas, diagnosticamos tu coche pensando en el uso real que le das en Olesa y sus alrededores, ofreciéndote un presupuesto cerrado para que no haya sorpresas.",
-  "servicesIntro": "Tanto si necesitas la revisión oficial de tu SEAT como si el embrague de tu furgoneta ha dicho basta, aquí cubrimos toda la mecánica de tu coche en Olesa.",
-  "processIntro": "Trabajamos con total transparencia. Recibes un presupuesto detallado y cerrado, y no movemos un solo tornillo de tu coche sin tu autorización explícita.",
+  "introLocal": "En Olesa de Montserrat, en el Baix Llobregat, damos servicio tanto a chalets particulares como a piscinas comunitarias, muy habituales en las urbanizaciones de la comarca. El uso intensivo de las piscinas comunitarias en temporada alta exige un mantenimiento más frecuente y un control estricto de los parámetros del agua, mientras que en las piscinas privadas el reto suele ser distinto: mantenerlas en buen estado con visitas más espaciadas durante el resto del año.\n\nLa cercanía al Llobregat y la humedad de la zona hacen que el gresite y las juntas de piscinas antiguas se degraden con el tiempo, provocando fugas difíciles de localizar a simple vista. Usamos equipos de detección profesional para dar con el punto exacto sin necesidad de obras innecesarias.",
+  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Olesa de Montserrat, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
+  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que le pasa a tu coche y utilizamos equipos de diagnosis para encontrar el origen exacto del problema. No dejamos nada al azar, vamos directos a la causa de la avería."
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto claro por WhatsApp o email, detallando piezas y mano de obra. El precio que ves es el que pagas. Sin asteriscos ni letra pequeña. Cero sorpresas."
+      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "Revisas la propuesta tranquilamente. Solo cuando nos das tu visto bueno, procedemos a pedir los recambios y a organizar el trabajo. Tú tienes siempre el control total."
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos piezas de primeras marcas con garantía. Nuestros mecánicos realizan la reparación siguiendo las especificaciones del fabricante para asegurar un trabajo bien hecho y duradero."
+      "title": "Ejecución profesional",
+      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te explicamos la reparación realizada y te mostramos las piezas sustituidas si lo deseas. Unos días después, te llamamos para confirmar que todo funciona perfectamente."
+      "title": "Seguimiento y garantía",
+      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
     }
   ],
-  "commonIssuesIntro": "El uso diario del coche en Olesa, entre los atascos de la A-2 y las escapadas a la montaña, genera una serie de averías típicas que conocemos muy bien.",
+  "commonIssuesIntro": "El clima y las condiciones del agua en Olesa de Montserrat generan averías características en las piscinas de la zona. Estas son las que más vemos.",
   "commonIssues": [
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico lento y las paradas constantes en la A-2 y la C-55 en dirección a Martorell o Barcelona castigan el sistema de embrague y los frenos. Detectamos el desgaste a tiempo y sustituimos los componentes por recambios de calidad para que aguantes miles de kilómetros de atascos."
+      "title": "Corrosión en escaleras y elementos metálicos",
+      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
     },
     {
-      "title": "Filtro de partículas (DPF) obstruido",
-      "body": "Muchos diésel modernos se usan para trayectos cortos dentro de Olesa, sin dar tiempo a que el filtro se regenere. Esto provoca averías y pérdida de potencia. Realizamos diagnosis, forzamos la regeneración o limpiamos el filtro para devolverle la vida y evitar una costosa sustitución."
+      "title": "Agua turbia en pleno verano",
+      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
     },
     {
-      "title": "Fallos en el aire acondicionado",
-      "body": "El calor extremo del verano en el interior de Cataluña fuerza el sistema de climatización al máximo. Las fugas de gas o el fallo del compresor son habituales. Hacemos una comprobación de estanqueidad antes de cada recarga para asegurar que el frío te dure todo el verano."
+      "title": "Depuradoras que fallan en temporada alta",
+      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
     },
     {
-      "title": "Problemas de suspensión y dirección",
-      "body": "Las cuestas, los badenes en urbanizaciones como Sant Bernat y las carreteras secundarias con asfalto irregular pasan factura a los amortiguadores y rótulas. Un coche que no pisa bien es un coche inseguro. Revisamos todo el tren de rodaje para garantizar tu estabilidad y confort."
+      "title": "Fugas de agua difíciles de localizar",
+      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
     },
     {
-      "title": "Baterías que mueren en invierno",
-      "body": "Las mañanas frías y húmedas de Olesa, por la proximidad del río y la montaña, son el peor enemigo de una batería algo gastada. Si tu coche arranca con dificultad, ven a que la comprobemos. Es una revisión rápida que te puede ahorrar muchos problemas."
+      "title": "Filtros de arena con menos rendimiento por la cal",
+      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos tu coche y tu zona",
-      "body": "Sabemos lo que sufre un SEAT León en la A-2 y un Dacia Duster en los caminos de las afueras. Nuestro diagnóstico tiene en cuenta el uso real que le das al coche en Olesa."
+      "title": "Diagnóstico técnico honesto",
+      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "El precio que te damos es el que pagas. Analizamos la avería y te damos un presupuesto cerrado para que no te lleves sustos en la factura final. Transparencia total."
+      "title": "Adaptado al clima y al agua de tu zona",
+      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
     },
     {
-      "title": "Hablamos tu idioma",
-      "body": "Te explicamos qué le pasa a tu coche de forma clara y sencilla. Queremos que entiendas la reparación y que tomes la decisión con toda la información en tu mano."
+      "title": "Presupuestos cerrados",
+      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
     },
     {
-      "title": "Agilidad y trato cercano",
-      "body": "Somos un taller de proximidad. Hablas directamente con el mecánico que tocará tu coche, sin intermediarios. Entendemos la urgencia si dependes del vehículo para trabajar."
+      "title": "Equipo técnico propio",
+      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
     },
     {
-      "title": "Garantía en cada trabajo",
-      "body": "Todas nuestras reparaciones están garantizadas por escrito, tanto las piezas como la mano de obra. Tu tranquilidad es nuestra prioridad."
+      "title": "Disponibilidad en temporada alta",
+      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
     }
   ],
-  "testimonialsIntro": "No nos creas a nosotros, estas son algunas situaciones reales de conductores de Olesa que hemos ayudado. Son ejemplos de nuestro día a día en el taller.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "Centre",
-      "car": "SEAT León 1.6 TDI 2017",
-      "body": "Se me encendió el testigo del filtro de partículas. Uso el coche sobre todo por el pueblo y para ir a Abrera, y me explicaron que era por eso. Me hicieron una regeneración forzada y me dieron un par de consejos para que no vuelva a pasar. Muy honestos, podrían haberme dicho de cambiarlo y me habría costado una pasta.",
-      "rating": 5
-    },
-    {
-      "name": "Anna",
-      "neighborhood": "Les Planes",
-      "car": "Peugeot 2008 1.2 PureTech 2018",
-      "body": "Con tanto badén en la urbanización, notaba un ruido raro en la suspensión delantera. Lo llevé y enseguida vieron que era un silentblock. Me dieron presupuesto al momento y en un día lo tenía listo. El trato fue muy cercano y el precio, correcto. Volveré para la revisión.",
-      "rating": 5
-    },
-    {
-      "name": "Carles",
-      "neighborhood": "Ribes Blaves",
-      "car": "Ford Transit Connect 2015",
-      "body": "Soy autónomo y la furgoneta es mi oficina. El embrague empezó a patinar y necesitaba una solución urgente. Entendieron el problema perfectamente, me dieron prioridad y en 48 horas estaba otra vez en la carretera. Me salvaron la semana de trabajo. Muy profesionales.",
-      "rating": 5
-    },
-    {
-      "name": "Montserrat",
-      "neighborhood": "Sant Bernat",
-      "car": "Renault Clio 2013",
-      "body": "Tenía que pasar la ITV en Terrassa y quería ir sobre seguro. Les pedí una revisión pre-ITV. Vieron que una luz de posición no iba bien y me la cambiaron en el momento. El coche pasó la inspección a la primera sin ningún fallo. El servicio fue bueno, aunque tuve que esperar un poco porque tenían mucho trabajo.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda Olesa de Montserrat, desde el núcleo urbano del Eixample y el Centre hasta las urbanizaciones de los alrededores como Les Planes, Ribes Blaves, Collet de Sant Joan y Sant Bernat. Nuestra ubicación es ideal no solo para los olesanos, sino también para conductores de municipios cercanos que buscan un taller de confianza alternativo al servicio oficial. Recibimos a diario clientes de Esparreguera, Abrera e incluso de Martorell, que valoran nuestro trato directo y precios competitivos. Gracias a nuestro fácil acceso desde las principales vías como la autovía A-2 y la carretera C-55, llegar a nuestro taller es rápido y sencillo, evitando el denso tráfico del centro de las grandes ciudades.",
-  "zoneNeighborhoods": [
-    "Olesa Centre",
-    "Eixample",
-    "Les Planes",
-    "Ribes Blaves",
-    "Sant Bernat",
-    "Collet de Sant Joan",
-    "Esparreguera",
-    "Abrera",
-    "Martorell",
-    "Vacarisses"
-  ],
-  "zoneAccessRoutes": [
-    "A-2 (Autovía del Nordeste)",
-    "C-55 (Eix del Llobregat)",
-    "AP-7 (Autopista del Mediterrani)",
-    "BV-1201"
-  ],
+  "zoneText": "Damos servicio a Olesa de Montserrat y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
   "faqLocal": [
     {
-      "q": "Tengo un SEAT, ¿no es mejor llevarlo al servicio oficial de Martorell?",
-      "a": "Somos una alternativa excelente. Usamos recambios de calidad original o equivalente, seguimos las pautas del fabricante y sellamos el libro de mantenimiento, por lo que no pierdes la garantía. A menudo, ofrecemos un trato más personal, mayor agilidad y precios más ajustados que el concesionario oficial."
+      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Olesa de Montserrat?",
+      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
     },
     {
-      "q": "Mi coche diésel hace muchos trayectos cortos por Olesa, ¿qué mantenimiento especial necesita?",
-      "a": "Es un caso muy común aquí. Te recomendamos prestar especial atención al filtro de partículas (DPF) y a la válvula EGR, que tienden a acumular carbonilla. Además, es aconsejable que al menos una vez por semana salgas a la A-2 y conduzcas unos 15-20 minutos a un régimen de revoluciones más alto para ayudar a limpiar el sistema."
+      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
+      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
     },
     {
-      "q": "Paso la ITV en Terrassa o Abrera, ¿vuestra Pre-ITV está adaptada a esas estaciones?",
-      "a": "Sí. Conocemos perfectamente los puntos críticos que más revisan en las estaciones de ITV de nuestra zona, como la de Abrera-Viladecavalls o la de Terrassa. Nuestra revisión pre-ITV se centra en los fallos más comunes que vemos en nuestros clientes: emisiones, holguras en la suspensión, frenado desigual y estado de los neumáticos."
+      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
+      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
     },
     {
-      "q": "Vivo en una urbanización con muchas cuestas, ¿qué neumáticos me recomendáis?",
-      "a": "Para las pendientes y el asfalto variable de las urbanizaciones de Olesa, es clave tener un neumático con buen agarre, tanto en seco como en mojado. Dependiendo de tu coche y presupuesto, una buena opción puede ser un neumático de tipo 'all-season' (todo tiempo) o un neumático de verano de primera marca que ofrezca un rendimiento excelente en agua."
-    },
-    {
-      "q": "Necesito el coche para ir a trabajar a Barcelona, ¿tenéis coche de cortesía?",
-      "a": "Sí, disponemos de coche de cortesía, aunque su disponibilidad es limitada. Es fundamental que lo solicites al concertar la cita, sobre todo si se trata de una reparación larga como una distribución o un embrague. Así podemos organizarnos para que no te quedes sin vehículo para tu desplazamiento diario por la A-2."
-    },
-    {
-      "q": "El aire acondicionado de mi coche no enfría bien en verano, ¿es solo una recarga?",
-      "a": "Podría ser, pero nunca recargamos un circuito sin antes comprobar su estanqueidad. El calor intenso de Olesa puede resecar las juntas y provocar pequeñas fugas. Rellenar el gas sin solucionar la fuga es tirar el dinero. Primero localizamos el problema y luego te ofrecemos la solución definitiva."
+      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
+      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Olesa de Montserrat",
-  "closingCta": "No dejes que una avería te complique el día a día. Pide tu presupuesto cerrado para tu coche en Olesa de Montserrat. Llámanos o envíanos un WhatsApp y te atenderemos sin compromiso."
+  "closingHeadline": "Tu piscina en Olesa de Montserrat, sin sorpresas",
+  "closingCta": "Si tienes una piscina en Olesa de Montserrat y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
 }
