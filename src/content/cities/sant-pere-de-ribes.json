@@ -4,179 +4,120 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 28353,
-  "lat": 41.26045,
-  "lng": 1.77391,
-  "metaTitle": "Taller mecánico en Sant Pere de Ribes — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en Sant Pere de Ribes para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. ¡Pide tu cita!",
-  "heroSubtitle": "Deja de preocuparte por el desgaste de ir a Barcelona o las cuestas del Garraf. Mantenemos tu coche a punto en Sant Pere de Ribes.",
+  "metaTitle": "Mantenimiento y reparación de piscinas en Sant Pere de Ribes | Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Sant Pere de Ribes. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
+  "heroSubtitle": "¿Tienes una piscina en Sant Pere de Ribes y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
-    },
-    {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "text": "Todo el año"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Entendemos que tener un coche en Sant Pere de Ribes no es un lujo, es una necesidad. Ya sea para bajar a Vilanova a hacer la compra, llevar a los niños al colegio en Ribes, ir a trabajar cada día a Barcelona por la C-32 o simplemente moverte entre las urbanizaciones y el núcleo de Les Roquetes. El coche es tu herramienta para el día a día, y sabemos que necesitas que sea fiable. Por eso, nuestro taller no es un lugar donde simplemente se cambian piezas, es el centro de mantenimiento para el vehículo que te da libertad en la comarca del Garraf.\n\nEl clima de aquí, tan agradable para vivir, es un desafío para la mecánica. La humedad y el salitre que llegan desde Sitges y Vilanova no perdonan, y poco a poco van afectando a la carrocería, los frenos y los componentes electrónicos, sobre todo si tu coche duerme en la calle. En verano, el calor intenso pone a prueba el sistema de refrigeración y el aire acondicionado justo cuando más los necesitas. Y no podemos olvidar la orografía: las cuestas de urbanizaciones como Mas d'en Serra o Vallpineda y las carreteras con curvas como la que sube a Olivella exigen mucho a la suspensión, los neumáticos y los frenos.\n\nEl parque automovilístico de Sant Pere de Ribes es tan diverso como sus habitantes. Vemos a diario los coches de batalla que cubren el trayecto a la Zona Franca o al Prat: SEAT León, Peugeot 308 o Volkswagen Golf, la mayoría diésel y con unos cuantos kilómetros encima. También conocemos bien las furgonetas de los autónomos de Les Roquetes, que necesitan estar siempre a punto para no perder un día de trabajo. Y, por supuesto, atendemos los SUV familiares y los coches de fin de semana que disfrutan de las carreteras del Penedès. Somos un taller multimarca porque la realidad de nuestro pueblo es multimarca.\n\nNuestra filosofía es sencilla: transparencia y profesionalidad. Sabemos que ir al taller genera desconfianza. ¿Me estarán cobrando de más? ¿Realmente necesitaba cambiar esa pieza? Aquí jugamos con las cartas sobre la mesa. Te damos un presupuesto cerrado antes de empezar. Si durante la reparación encontramos algo imprevisto, colgamos las herramientas, cogemos el teléfono y te llamamos. Te explicamos qué pasa, cuánto costaría y tú, y solo tú, decides si seguimos adelante. Queremos ser tu taller de confianza en Sant Pere de Ribes, el lugar al que vienes tranquilo sabiendo que cuidaremos de tu coche como si fuera nuestro.",
-  "servicesIntro": "Desde la revisión anual para tu diésel de batalla hasta la diagnosis de ese testigo raro que se enciende en las cuestas del Garraf, lo cubrimos todo.",
-  "processIntro": "Sabemos que la confianza es clave. Por eso, te damos un presupuesto cerrado y no tocamos un tornillo sin tu permiso. Así de claro.",
+  "introLocal": "Sant Pere de Ribes, entre el Penedès, el Garraf y l'Anoia, combina zonas de costa con un interior más agrícola y vitivinícola, lo que se traduce en piscinas muy distintas según la zona: desde chalets en urbanizaciones cercanas al mar hasta masías y casas de campo con piscinas más grandes y alejadas de una depuradora fácilmente accesible. Adaptamos la logística del servicio a cada caso, incluidas las visitas a fincas algo más apartadas.\n\nEl clima mediterráneo de la comarca, con veranos calurosos y secos, favorece un desgaste rápido del cloro y exige un tratamiento de agua bien ajustado a la temporada alta. En las piscinas más antiguas de la zona, con gresite y filtros de arena de hace décadas, la rehabilitación integral suele ser más rentable a largo plazo que ir parcheando averías sueltas.",
+  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Sant Pere de Ribes, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
+  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando traes tu coche, nuestros técnicos lo revisan a fondo con equipos de diagnosis modernos. Escuchamos lo que te preocupa y comprobamos los puntos clave para entender qué necesita tu vehículo exactamente."
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin sorpresas. Te lo explicamos punto por punto por teléfono o WhatsApp para que sepas exactamente qué se va a hacer y cuánto va a costar."
+      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "El coche es tuyo y tú decides. No empezamos ninguna reparación ni pedimos ninguna pieza hasta que nos das tu visto bueno explícito al presupuesto. Sin tu 'vale, adelante', el coche no se toca."
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos se ponen manos a la obra para dejar tu coche perfecto en el tiempo acordado, manteniéndote informado si surgiera cualquier imprevisto."
+      "title": "Ejecución profesional",
+      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, te contactamos para asegurarnos de que todo va como la seda y estás satisfecho."
+      "title": "Seguimiento y garantía",
+      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
     }
   ],
-  "commonIssuesIntro": "El aire salino del mar, el 'para y arranca' de Les Roquetes y los viajes diarios por la C-32 generan un desgaste muy particular en los coches de Sant Pere de Ribes.",
+  "commonIssuesIntro": "El clima y las condiciones del agua en Sant Pere de Ribes generan averías características en las piscinas de la zona. Estas son las que más vemos.",
   "commonIssues": [
     {
-      "title": "Desgaste prematuro de frenos y embrague",
-      "body": "El tráfico para ir a Vilanova o Sitges y las calles de Les Roquetes y el centro de Ribes obligan a un uso intensivo de freno y embrague. Si notas que el pedal está duro o que el coche frena menos, pásate. Revisamos pastillas, discos y el sistema de embrague para que conduzcas seguro por el Garraf."
+      "title": "Corrosión en escaleras y elementos metálicos",
+      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
     },
     {
-      "title": "Problemas en el sistema de climatización",
-      "body": "El calor y la humedad del verano en la costa ponen el aire acondicionado a prueba. Si no enfría como antes o huele mal, puede ser una falta de gas o un problema en el filtro. Lo revisamos y recargamos para que los viajes por la C-31 en agosto no sean una tortura."
+      "title": "Agua turbia en pleno verano",
+      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
     },
     {
-      "title": "Corrosión leve en bajos y escape",
-      "body": "Aunque no estemos en primera línea de mar, la brisa marina cargada de salitre de Sitges y Vilanova llega a Sant Pere de Ribes y acelera la corrosión, sobre todo en los bajos y el sistema de escape de coches que duermen en la calle. Una revisión a tiempo previene averías más caras."
+      "title": "Depuradoras que fallan en temporada alta",
+      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
     },
     {
-      "title": "Suspensión y neumáticos en carreteras secundarias",
-      "body": "Para ir a Olivella, Canyelles o simplemente moverte por urbanizaciones como Mas d'en Serra, las carreteras pueden ser exigentes. Unos amortiguadores en mal estado o neumáticos con la presión incorrecta aumentan la inseguridad y el desgaste. Los revisamos para garantizar tu agarre en cada curva."
+      "title": "Fugas de agua difíciles de localizar",
+      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
     },
     {
-      "title": "Filtros de partículas (FAP) en diésel",
-      "body": "Muchos usáis el coche para trayectos cortos dentro del pueblo o hasta Vilanova, lo que no permite que el FAP de los diésel se regenere bien. Si notas pérdida de potencia o se enciende el testigo, podemos hacer una regeneración forzada o una limpieza antes de que la avería sea mayor."
+      "title": "Filtros de arena con menos rendimiento por la cal",
+      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos la zona",
-      "body": "No somos una franquicia sin alma. Entendemos qué significa coger las Costas del Garraf a diario o buscar aparcamiento en Les Roquetes. Nuestro asesoramiento se basa en el uso real que le das a tu coche aquí."
+      "title": "Diagnóstico técnico honesto",
+      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
     },
     {
-      "title": "Presupuestos que se cumplen",
-      "body": "El precio que te damos es el que pagas. Sin extras de última hora ni letra pequeña. Si durante la reparación vemos algo más, te llamamos, te lo explicamos y tú decides. Transparencia total."
+      "title": "Adaptado al clima y al agua de tu zona",
+      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
     },
     {
-      "title": "Para todas las marcas",
-      "body": "Da igual si llevas un SEAT Ibiza para ir a la universidad, un Ford Transit para trabajar o un BMW de segunda mano. Tenemos la tecnología y el conocimiento para cuidar de cualquier coche que circule por Sant Pere de Ribes."
+      "title": "Presupuestos cerrados",
+      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
     },
     {
-      "title": "Sin tecnicismos innecesarios",
-      "body": "Te explicamos las averías en un lenguaje que entiendes. No intentamos impresionarte con jerga técnica, sino que te damos la información que necesitas para tomar la mejor decisión para tu coche y tu bolsillo."
+      "title": "Equipo técnico propio",
+      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
     },
     {
-      "title": "Pasión por los coches",
-      "body": "Más que un trabajo, es nuestra vocación. Nos gusta lo que hacemos y eso se nota en el cuidado que ponemos en cada vehículo, desde una simple revisión de aceite hasta una reparación compleja de motor."
+      "title": "Disponibilidad en temporada alta",
+      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
     }
   ],
-  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero aquí tienes algunos ejemplos de situaciones que resolvemos cada día en nuestro taller.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "Les Roquetes",
-      "car": "Peugeot Partner 2016",
-      "body": "Soy autónomo y la furgoneta es mi oficina. Empezó a perder fuerza subiendo a Mas d'en Serra y me temía lo peor. Me diagnosticaron un problema con el FAP por los trayectos cortos. Me lo solucionaron rápido y a un precio justo. Ahora va como un tiro. Muy profesionales.",
-      "rating": 5
-    },
-    {
-      "name": "Laura",
-      "neighborhood": "Centro (Ribes)",
-      "car": "VW Golf 1.6 TDI 2014",
-      "body": "Voy cada día a trabajar a Barcelona por la C-32 y el embrague ya patinaba. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial. Me dejaron un coche de cortesía y en dos días lo tenía listo. El trato fue súper cercano, te lo explican todo muy bien.",
-      "rating": 5
-    },
-    {
-      "name": "Mark",
-      "neighborhood": "Vallpineda",
-      "car": "Mercedes Clase A 2018",
-      "body": "Soy extranjero y a veces cuesta encontrar un taller de confianza. Aquí fueron muy transparentes desde el principio. Tenía un ruido raro en la suspensión delantera, seguramente por los badenes de la urbanización. Lo encontraron y repararon el mismo día. Totalmente recomendables.",
-      "rating": 5
-    },
-    {
-      "name": "Carla",
-      "neighborhood": "El Palou",
-      "car": "Renault Clio 2011",
-      "body": "Tenía que pasar la ITV y no estaba segura de si el coche estaba bien. Les pedí una revisión pre-ITV y encontraron que las luces de freno no iban bien y una rueda perdía algo de aire. Lo arreglaron por muy poco y pasé la ITV a la primera. Me ahorraron un segundo viaje.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Nuestro taller en Sant Pere de Ribes da servicio a todo el municipio, desde el núcleo de Ribes y la zona de El Palou hasta el barrio de Les Roquetes y las urbanizaciones como Mas d'en Serra, Els Cards, Mas Alba o Vallpineda. Si vives o trabajas en localidades vecinas como Sitges, Vilanova i la Geltrú, Canyelles u Olivella, también somos tu taller de confianza. Estamos estratégicamente situados con fácil acceso desde las principales vías que conectan el Garraf. Ya sea que vengas por la autopista C-32, la carretera C-31 que bordea la costa, o el Eix Diagonal (C-15) desde Vilafranca del Penedès, llegar a nuestro taller es rápido y sencillo. Olvídate de meterte en el caos de una gran ciudad para el mantenimiento de tu coche.",
-  "zoneNeighborhoods": [
-    "Les Roquetes",
-    "Centro (Ribes)",
-    "Vallpineda",
-    "Mas d'en Serra",
-    "Els Cards",
-    "Sitges",
-    "Vilanova i la Geltrú",
-    "Canyelles",
-    "Olivella",
-    "Mas Alba"
-  ],
-  "zoneAccessRoutes": [
-    "C-32 (Autopista Pau Casals)",
-    "C-31 (Costas del Garraf)",
-    "C-15 (Eix Diagonal)",
-    "BV-2111"
-  ],
+  "zoneText": "Damos servicio a Sant Pere de Ribes y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
   "faqLocal": [
     {
-      "q": "¿Revisáis coches para pasar la ITV en la estación de Vilanova i la Geltrú?",
-      "a": "Sí, por supuesto. Conocemos perfectamente los puntos que más miran en la ITV de Vilanova. Hacemos una revisión pre-ITV completa para que vayas con la tranquilidad de pasarla a la primera. Comprobamos frenos, luces, emisiones, neumáticos... todo lo necesario para evitarte un resultado desfavorable y un segundo viaje."
+      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Sant Pere de Ribes?",
+      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
     },
     {
-      "q": "Mi coche sufre mucho en verano con el calor, ¿qué mantenimiento recomendáis?",
-      "a": "El calor del Garraf en verano es exigente. Recomendamos una revisión del sistema de refrigeración (anticongelante, manguitos, electroventilador) y una puesta a punto del aire acondicionado. También es crucial verificar la presión y el estado de los neumáticos, ya que el asfalto caliente acelera su desgaste. Con esto, tu coche estará listo para el verano."
+      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
+      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
     },
     {
-      "q": "Vivo en una urbanización con cuestas, ¿afecta a mi coche?",
-      "a": "Totalmente. Vivir en zonas como Els Cards o Mas Alba, con constantes subidas y bajadas, somete a un esfuerzo extra al motor, la caja de cambios y, sobre todo, los frenos. Aconsejamos revisiones de frenos más periódicas y estar atento al nivel de aceite y refrigerante, especialmente en coches con algunos años."
+      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
+      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
     },
     {
-      "q": "Uso el coche para ir a Barcelona a diario por la C-32, ¿qué debo vigilar?",
-      "a": "El trayecto diario por la C-32 implica un desgaste constante a alta velocidad. Los neumáticos son el elemento clave: su estado y presión son vitales para tu seguridad. También sufren los filtros y el motor. Recomendamos no apurar los cambios de aceite y filtros para mantener el motor en óptimas condiciones y evitar averías costosas."
-    },
-    {
-      "q": "Aparco en la calle cerca de la playa en Sitges/Vilanova, ¿necesito algún cuidado especial?",
-      "a": "Sí, el salitre es muy corrosivo. Aunque no lo veas, se deposita en la carrocería, los bajos y los componentes metálicos como los discos de freno. Te recomendamos lavar el coche con frecuencia, especialmente los bajos, para eliminar la sal. En el taller podemos revisar el estado del chasis y el escape para detectar puntos de óxido a tiempo."
-    },
-    {
-      "q": "¿Tenéis experiencia con furgonetas de autónomos de la zona?",
-      "a": "Claro. Sabemos que para un profesional de Sant Pere de Ribes o Les Roquetes, la furgoneta es una herramienta de trabajo vital. Entendemos la urgencia y ofrecemos un servicio ágil para mantenimientos y averías, para que puedas volver al trabajo lo antes posible. Conocemos los modelos más comunes (Partner, Berlingo, Transit, etc.)."
+      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
+      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Sant Pere de Ribes",
-  "closingCta": "No dejes que una pequeña avería se convierta en un gran problema. Pide tu presupuesto cerrado para tu coche en Sant Pere de Ribes. Llámanos, envíanos un WhatsApp o rellena el formulario y te contactaremos."
+  "closingHeadline": "Tu piscina en Sant Pere de Ribes, sin sorpresas",
+  "closingCta": "Si tienes una piscina en Sant Pere de Ribes y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
 }
