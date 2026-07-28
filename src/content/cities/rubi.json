@@ -4,179 +4,120 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 72987,
-  "lat": 41.49226,
-  "lng": 2.03305,
-  "metaTitle": "Taller mecánico en Rubí — Especialistas en coches de uso ocasional",
-  "metaDescription": "Mantenimiento y reparación para el coche que usas los fines de semana en Rubí. Presupuesto cerrado para que disfrutes de tu tiempo libre sin sorpresas. Pide cita.",
-  "heroSubtitle": "Ese coche que descansa en el garaje toda la semana en Rubí es el que más mimos necesita antes de una escapada. Lo sabemos.",
+  "metaTitle": "Mantenimiento y reparación de piscinas en Rubí | Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Rubí. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
+  "heroSubtitle": "¿Tienes una piscina en Rubí y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
-    },
-    {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "text": "Todo el año"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Rubí, muchos tenemos un segundo coche. No es el que batalla cada día en la C-58 para ir a Barcelona o el que se mueve por los polígonos de La Llana o Can Jardí. Es el otro. El que duerme de lunes a viernes en un garaje de Ca n'Oriol o aparcado en una calle tranquila de Can Fatjó. Es el coche de las escapadas, el de cargar los bártulos para ir a la playa en la Costa Daurada o el de subir a la nieve por la C-16. Y ese coche, precisamente por estar parado, es el que más atención necesita. La inactividad es el peor enemigo de la mecánica: las baterías se descargan, los líquidos pierden propiedades y los neumáticos se deforman. No es una cuestión de kilómetros, sino de tiempo y de los contrastes a los que se somete.\n\nEl problema es que a este coche se le exige el máximo rendimiento en el peor momento. Le pedimos que, tras cinco días de quietud, se enfrente a la subida de Montserrat sin quejarse o que aguante un atasco en la AP-7 un domingo de agosto volviendo de Calafell. La geografía del Vallès no perdona. Las cuestas para salir de la ciudad hacia zonas como Sant Muç o las carreteras sinuosas que llevan a Sant Llorenç del Munt i l'Obac ponen a prueba frenos y suspensiones que han estado 'fríos' toda la semana. Es el contraste entre la humedad de las rieras de Rubí y el calor seco del interior de Cataluña en un mismo día lo que puede hacer que un manguito resentido finalmente 'cante' y te deje tirado.\n\nEste uso intermitente pero intenso genera un tipo de desgaste muy particular. No es el desgaste lineal del comercial que hace 50.000 km al año por autopista. Es un envejecimiento por ciclos de estrés. El motor pasa de la temperatura ambiente del garaje a su máximo rendimiento en pocos minutos para incorporarse a la autopista. El sistema de refrigeración, que apenas ha trabajado en meses, de repente tiene que gestionar el calor de una caravana en la C-58 volviendo a casa. Los frenos, que apenas se usan para ir al Mercadona, se calientan al rojo vivo bajando un puerto de montaña. Son estos picos de exigencia los que revelan las debilidades de un mantenimiento que a veces se pasa por alto porque 'el coche apenas se usa'.\n\nPor eso nuestro enfoque en Rubí se centra en la prevención para este tipo de vehículo. Entendemos que tu prioridad es la fiabilidad para tu tiempo de ocio. Quieres coger el coche un sábado por la mañana y saber que va a responder, ya sea para ir a la Festa Major de Terrassa o para una excursión improvisada. Analizamos los puntos críticos de un coche con poco uso: el estado de la batería, la cristalización de los neumáticos, la densidad del líquido de frenos y anticongelante, y el estado de correas y manguitos que se resecan con el tiempo, no con los kilómetros. Es un chequeo distinto, más profundo en ciertos aspectos que el de un coche de uso diario.\n\nEn definitiva, no tratamos tu coche como un número más. Entendemos su contexto, el tuyo. Sabemos lo que significa vivir en Rubí y querer aprovechar al máximo los fines de semana sin que una avería te arruine el plan. Antes de esa escapada a la Costa Brava o esa calçotada en el Penedès, pásate y le echamos un ojo. Te daremos un diagnóstico honesto y un presupuesto cerrado para que la única sorpresa sea el paisaje que descubras. Tu tranquilidad no tiene precio, y un coche fiable es el primer paso para conseguirla.",
-  "servicesIntro": "Desde una revisión completa antes de las vacaciones hasta esa avería que te preocupa, estos son los servicios que más nos piden los conductores de Rubí.",
-  "processIntro": "Trabajamos con total transparencia para que sepas qué le pasa a tu coche, cuánto cuesta y decidas tú. Sin sorpresas ni letra pequeña.",
+  "introLocal": "Rubí, en el Vallès, tiene un clima algo más continental que el litoral: veranos más calurosos y secos, e inviernos más fríos, lo que se traduce en una temporada de baño intensa pero concentrada entre junio y septiembre. Esa intensidad de uso desgasta antes las depuradoras y exige un tratamiento de agua más constante en los meses de más calor, cuando el cloro se consume mucho más rápido por la radiación solar.\n\nEn las urbanizaciones y viviendas unifamiliares de la zona, muchas piscinas llevan ya varias décadas de uso y empiezan a mostrar los signos típicos del paso del tiempo: gresite que se desprende, filtros de arena con menos rendimiento y depuradoras ruidosas que consumen más de lo que deberían. Adaptamos cada mantenimiento y cada rehabilitación a ese uso intensivo de temporada alta, no a una tabla genérica.",
+  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Rubí, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
+  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
   "processSteps": [
     {
-      "title": "Diagnóstico inicial",
-      "body": "Escuchamos lo que le notas al coche y lo conectamos a nuestros equipos de diagnosis. Hacemos una primera valoración visual y mecánica para entender el origen del problema, sin desmontar nada todavía."
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico en la mano, te preparamos un presupuesto detallado y por escrito. Verás el coste de las piezas y la mano de obra por separado. Es un precio final, sin sustos de última hora."
+      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu aprobación explícita. Te llamamos, te explicamos el presupuesto y tú nos das luz verde para proceder con la reparación. Tú mandas."
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Trabajamos con recambios de primeras marcas y te informamos de los plazos. Todas nuestras reparaciones y piezas cuentan con la garantía legal para tu total tranquilidad. Te avisamos en cuanto esté listo."
+      "title": "Ejecución profesional",
+      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Cuando vengas a por el coche, te explicamos con detalle el trabajo realizado. Guardamos el historial de tu vehículo para futuras revisiones y estamos a tu disposición para cualquier duda que te surja."
+      "title": "Seguimiento y garantía",
+      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
     }
   ],
-  "commonIssuesIntro": "El uso esporádico, la humedad del Vallès y las escapadas de fin de semana por carreteras exigentes provocan una serie de problemas recurrentes en los coches de Rubí.",
+  "commonIssuesIntro": "El clima y las condiciones del agua en Rubí generan averías características en las piscinas de la zona. Estas son las que más vemos.",
   "commonIssues": [
     {
-      "title": "Baterías que fallan sin avisar",
-      "body": "Un coche parado cinco días en un invierno húmedo como el de Rubí es la receta perfecta para una batería débil. Los pequeños consumos residuales y la autodescarga hacen que el lunes no arranque. Comprobamos su estado real con un densímetro y te aconsejamos si es momento de cambiarla antes de que te deje tirado."
+      "title": "Agua turbia por el calor intenso",
+      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
     },
     {
-      "title": "Frenos y suspensiones fatigados",
-      "body": "Las escapadas a zonas como el Montseny o simplemente subir y bajar las cuestas de urbanizaciones como Can Mir fuerzan mucho los frenos y la suspensión. Si notas que el coche 'flanea' en las curvas de la carretera de Ullastrell o que los frenos chirrían, es hora de una revisión. La seguridad en carreteras secundarias es vital."
+      "title": "Depuradoras que se averían en pleno verano",
+      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
     },
     {
-      "title": "Neumáticos cuarteados o deformados",
-      "body": "El sol intenso del verano en el Vallès sobre un coche aparcado en la calle y la falta de movimiento agrietan la goma de los neumáticos, aunque el dibujo esté bien. Esto es muy peligroso. Revisamos la fecha de fabricación y buscamos signos de cristalización para evitar un reventón en plena AP-7."
+      "title": "Filtros de arena calcificados",
+      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
     },
     {
-      "title": "Problemas de refrigeración en atascos",
-      "body": "El coche funciona bien en carretera, pero al volver a Rubí un domingo por la tarde y pillar el típico atasco en la C-58, la temperatura se dispara. Un circuito de refrigeración con líquido viejo o un electroventilador que no salta a tiempo puede provocar una avería muy grave. Lo revisamos a fondo."
+      "title": "Cloradores salinos con menor rendimiento",
+      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
     },
     {
-      "title": "Filtros de habitáculo y motor saturados",
-      "body": "Vivir cerca de zonas verdes como el Parc de Ca n'Oriol o moverse por caminos de tierra en los alrededores de Rubí llena los filtros de polvo y polen. Esto reduce el rendimiento del motor y la calidad del aire que respiras. Es un cambio económico que mejora mucho el confort y la mecánica."
+      "title": "Fisuras y fugas en piscinas antiguas",
+      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico honesto",
-      "body": "No cambiamos piezas por cambiar. Buscamos el origen real del problema para que no gastes de más. Si una reparación puede esperar, te lo decimos claramente."
+      "title": "Diagnóstico técnico honesto",
+      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
     },
     {
-      "title": "Pensado para tu coche",
-      "body": "Entendemos que un coche de 12 años no necesita el mismo trato que uno nuevo. Usamos recambios de calidad equivalentes al original, perfectos para alargar su vida útil sin arruinarte."
+      "title": "Adaptado al clima y al agua de tu zona",
+      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
     },
     {
-      "title": "Conocemos la zona",
-      "body": "Sabemos lo que sufre un coche en Rubí y alrededores. Nuestro consejo de mantenimiento está basado en la realidad local, desde el tráfico de la C-58 hasta las carreteras de montaña cercanas."
+      "title": "Presupuestos cerrados",
+      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
     },
     {
-      "title": "Sin tecnicismos absurdos",
-      "body": "Te explicamos la avería de forma que la entiendas, sin usar un lenguaje complicado para impresionarte. Queremos que sepas qué le pasa a tu coche y por qué hay que arreglarlo."
+      "title": "Equipo técnico propio",
+      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "El precio que te damos es el que pagas. Si durante la reparación surgiera algo imprevisto (algo muy poco común), paramos y te llamamos. Nunca te llevarás un susto en la factura final."
+      "title": "Disponibilidad en temporada alta",
+      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
     }
   ],
-  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Estas son algunas de las situaciones reales con las que ayudamos a conductores de Rubí cada día.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "Ca n'Oriol",
-      "car": "Renault Scénic 2011",
-      "body": "Tengo el coche para los fines de semana y las vacaciones. Antes de irnos en agosto a la Costa Brava, lo traje para una revisión. Me detectaron una pequeña fuga en el radiador que en el viaje nos habría dejado tirados seguro. Me salvaron las vacaciones. Muy profesionales y honestos, me explicaron todo perfecto.",
-      "rating": 5
-    },
-    {
-      "name": "Marta",
-      "neighborhood": "Les Torres",
-      "car": "Volkswagen Polo 2014",
-      "body": "Uso el coche poco y la batería me había dejado tirada dos veces. Pensaba que era mala suerte, pero aquí me explicaron que podía ser el alternador. Lo comprobaron y, efectivamente, no cargaba bien. Me lo cambiaron a un precio razonable y con presupuesto cerrado desde el principio. Ahora arranca siempre a la primera.",
-      "rating": 5
-    },
-    {
-      "name": "Carles",
-      "neighborhood": "El Pinar",
-      "car": "Ford Focus 2009",
-      "body": "Notaba un ruido raro en la suspensión al pasar por los badenes de la urbanización. En otro sitio me querían cambiar los cuatro amortiguadores. Aquí lo miraron bien y vieron que era solo una copela. Una reparación mucho más barata. Se agradece que no intenten 'colarte' lo más caro. Me han ganado como cliente.",
-      "rating": 5
-    },
-    {
-      "name": "Sílvia",
-      "neighborhood": "Centre",
-      "car": "Seat Ibiza 2012",
-      "body": "Tenía que pasar la ITV en la estación de Sant Cugat y me daba pánico por el tema de los humos. Lo traje para una pre-ITV y me hicieron una puesta a punto del motor y la inyección. Pasó sin problemas. El servicio fue rápido, aunque tuve que llamar yo para saber si estaba listo. Por lo demás, todo bien.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Nuestro taller da servicio a toda la ciudad de Rubí, desde el núcleo urbano en el Centre y el Mercat hasta barrios residenciales como Ca n'Oriol, Can Fatjó, El Pinar o Les Torres. Si vives en urbanizaciones de los alrededores como Sant Muç, también estás en nuestra área de influencia. Además, por nuestra ubicación y buenos accesos, somos el taller de confianza para muchos conductores de municipios vecinos como Sant Cugat del Vallès, Les Fonts, Terrassa y Castellbisbal. Nos encontrarás fácilmente tanto si vienes por la autopista AP-7 o la C-58 como si te mueves por carreteras locales como la BP-1503, que conecta con Sant Cugat.",
-  "zoneNeighborhoods": [
-    "Ca n'Oriol",
-    "Can Fatjó",
-    "Centre",
-    "El Pinar",
-    "Les Torres",
-    "Mercat",
-    "Sant Muç",
-    "Sant Cugat del Vallès",
-    "Terrassa",
-    "Castellbisbal"
-  ],
-  "zoneAccessRoutes": [
-    "AP-7",
-    "C-58",
-    "C-16",
-    "BP-1503"
-  ],
+  "zoneText": "Damos servicio a Rubí y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
   "faqLocal": [
     {
-      "q": "Vivo en una urbanización de Rubí con muchas cuestas, ¿qué debería revisar más a menudo?",
-      "a": "Sin duda, los frenos y el embrague. El uso constante en pendiente acelera el desgaste de las pastillas, los discos y el líquido de frenos. En coches manuales, el embrague sufre mucho al arrancar en cuesta. Te recomendamos una revisión del sistema de frenado al menos una vez al año y estar atento a cualquier ruido o vibración."
+      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Rubí?",
+      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
     },
     {
-      "q": "Mi coche duerme en la calle en Rubí todo el año. ¿Cómo le afecta el clima del Vallès?",
-      "a": "El principal problema es el contraste de temperatura y la humedad. En invierno, las mañanas frías y húmedas son duras para la batería. En verano, el sol intenso castiga la pintura, los plásticos exteriores y, sobre todo, los neumáticos, que pueden cristalizarse. Te aconsejamos usar parasol y revisar la presión y el estado de las ruedas con frecuencia."
+      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
+      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
     },
     {
-      "q": "Uso el coche casi solo para ir a la playa por la AP-7, ¿le afecta la sal del mar?",
-      "a": "Sí, aunque no vivas en primera línea de mar. El ambiente salino se transporta por el aire y se deposita en la carrocería y, lo que es peor, en los bajos del coche, acelerando la corrosión. Es muy recomendable darle un manguerazo a los bajos del coche en un lavadero a presión después de pasar unos días en la costa, especialmente en invierno."
+      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
+      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
     },
     {
-      "q": "¿Es necesario un mantenimiento especial si suelo circular por caminos de tierra cerca de Can Solà?",
-      "a": "Sí. El polvo es el principal enemigo. El filtro de aire del motor se saturará mucho antes, lo que aumenta el consumo y reduce la potencia. La suspensión también sufre más. Te recomendamos revisar y cambiar el filtro de aire con más frecuencia de la que indica el fabricante y hacer una inspección visual de los bajos y amortiguadores anualmente."
-    },
-    {
-      "q": "Tengo que pasar la ITV en la estación de Sant Cugat, ¿hay algo en lo que se fijen especialmente?",
-      "a": "Las estaciones de ITV del área metropolitana de Barcelona suelen ser muy estrictas con las emisiones, tanto en diésel como en gasolina. Si tu coche es antiguo o hace principalmente trayectos cortos por Rubí, es fácil que acumule carbonilla. Un servicio pre-ITV con diagnosis de gases y una limpieza de inyectores suele ser clave para pasarla sin problemas."
-    },
-    {
-      "q": "Antes de un viaje largo en verano, ¿cuál es el punto más crítico a revisar en un coche de más de 10 años?",
-      "a": "El sistema de refrigeración, sin ninguna duda. Un manguito reseco, un termostato que no abre bien o un radiador obstruido pueden causar un sobrecalentamiento y destrozar el motor. Es una avería muy cara que se puede prevenir con una simple revisión del estado de los componentes y la calidad del líquido anticongelante. Es lo primero que miramos."
+      "q": "¿El agua de mi zona es muy dura para la piscina?",
+      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
     }
   ],
-  "closingHeadline": "Deja tu coche a punto en Rubí",
-  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita para que puedas seguir disfrutando de tus escapadas desde Rubí con total tranquilidad."
+  "closingHeadline": "Tu piscina en Rubí, sin sorpresas",
+  "closingCta": "Si tienes una piscina en Rubí y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
 }
