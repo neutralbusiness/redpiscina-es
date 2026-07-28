@@ -4,177 +4,120 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 26659,
-  "lat": 41.62763,
-  "lng": 2.6889,
-  "metaTitle": "Taller mecánico en Pineda de Mar — Multimarca y de confianza",
-  "metaDescription": "Tu taller en Pineda de Mar para revisiones, mecánica y neumáticos. Presupuesto cerrado y sin sorpresas. Atendemos todas las marcas. ¡Pide tu cita!",
-  "heroSubtitle": "Harto de los atascos de la N-II y del salitre? Mantén tu coche a punto para el día a día en Pineda de Mar y tus escapadas.",
+  "metaTitle": "Mantenimiento y reparación de piscinas en Pineda de Mar | Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Pineda de Mar. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
+  "heroSubtitle": "¿Tienes una piscina en Pineda de Mar y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
-    },
-    {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "text": "Todo el año"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Si vives o trabajas en Pineda de Mar, sabes que tu coche no es un lujo, es una necesidad. Lo usas para todo: para bajar a comprar al centro, para llevar a los niños al colegio, para subir a hacer la compra grande o para ir a trabajar cada día a Mataró, a Granollers o incluso a Barcelona por la C-32. Entendemos perfectamente la vida aquí, entre el mar y la montaña, y sabemos que tu coche tiene que estar listo tanto para el trayecto corto por el pueblo como para el viaje largo por autopista. Por eso, nuestro taller en Pineda está pensado para darte un servicio honesto y profesional, adaptado al uso real que le das a tu vehículo en el Maresme.\n\nEl clima de la costa tiene sus peculiaridades. El salitre y la humedad constante, sobre todo si aparcas cerca de la playa en Poblenou o en el centro, son enemigos silenciosos de la carrocería, los bajos y, sobre todo, del sistema de frenos y el escape. No es raro ver coches con pocos años que ya muestran signos de corrosión. Además, la 'xafogor' (bochorno) del verano pone a prueba al máximo el sistema de aire acondicionado. Un coche que no enfría bien en agosto, con los atascos que se forman en la N-II para ir a Calella o Santa Susanna, es una tortura. Conocemos estos problemas porque también los sufrimos, y por eso ponemos especial atención en estos puntos durante cada revisión.\n\nEl parque automovilístico de Pineda de Mar es un reflejo de su gente: coches prácticos y trabajadores. Vemos a diario muchos SEAT León, Renault Clio, Peugeot 308, Ford Focus y furgonetas como la Berlingo o la Kangoo. Vehículos, en su mayoría diésel o gasolina, con unos cuantos años y kilómetros a sus espaldas, que necesitan un mantenimiento riguroso para seguir siendo fiables. El desgaste de embrague por el tráfico denso del verano o los frenos castigados por las constantes paradas en los semáforos de la N-II son el pan de cada día. No es lo mismo un coche que solo se usa para ir a la playa que uno que hace 80 kilómetros diarios por la autopista del Maresme.\n\nEn nuestro taller, no vemos solo una matrícula, vemos a un vecino de Pineda, de Les Creus o de Can Moré que necesita su coche para vivir. Por eso, nuestro enfoque es claro: diagnóstico preciso, presupuesto cerrado para que no haya sustos, y una explicación clara de lo que le pasa a tu coche y por qué. Queremos ser tu taller de confianza en Pineda de Mar, el sitio al que vienes sabiendo que te diremos la verdad y haremos solo lo que tu coche realmente necesita para que sigas conduciendo seguro por el Maresme.",
-  "servicesIntro": "Desde la revisión anual para tu coche familiar hasta el cambio de neumáticos gastados por la C-32, cubrimos toda la mecánica que necesitas en Pineda de Mar.",
-  "processIntro": "Sabemos que la confianza es clave. Por eso, te damos un presupuesto cerrado y no hacemos nada sin tu permiso. Transparencia total.",
+  "introLocal": "Pineda de Mar, en plena comarca del Maresme, combina el clima suave de la costa catalana con una alta densidad de viviendas unifamiliares con piscina, sobre todo en las zonas más alejadas del núcleo urbano. La proximidad al mar es una ventaja para el clima, pero también un desafío técnico: la brisa marina cargada de sal acelera la corrosión de escaleras, barandillas y carcasas metálicas de las depuradoras peor protegidas. En las viviendas más próximas al litoral prestamos especial atención a estos elementos en cada revisión.\n\nEl verano en el Maresme es largo y húmedo, lo que exige un tratamiento del agua constante para evitar algas y turbidez. Muchas piscinas de la zona, construidas hace décadas, siguen teniendo gresite y depuradoras poco eficientes: renovar el sistema de filtración con una bomba de velocidad variable suele ser la mejora que más se nota, tanto en la factura eléctrica como en la calidad del agua.",
+  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Pineda de Mar, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
+  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando traes tu coche, escuchamos qué te preocupa y nuestros técnicos realizan una inspección completa para identificar el origen del problema con precisión. Usamos equipos de diagnosis multimarca para no dejar nada al azar."
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico en la mano, te preparamos un presupuesto detallado y sin compromiso. El precio que te damos es el que pagas, sin sorpresas ni costes ocultos de última hora. Te lo explicamos todo claramente."
+      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No movemos ni un tornillo sin tu aprobación explícita. Te llamamos, te explicamos la intervención necesaria y solo cuando nos das el 'vale', empezamos a trabajar. El control siempre lo tienes tú."
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan la reparación siguiendo las especificaciones del fabricante para asegurar un trabajo bien hecho y duradero. Te mantenemos informado del proceso."
+      "title": "Ejecución profesional",
+      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos el trabajo realizado y te entregamos la factura detallada. Unos días después, podemos contactarte para asegurar que todo funciona perfectamente."
+      "title": "Seguimiento y garantía",
+      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
     }
   ],
-  "commonIssuesIntro": "El clima del Maresme y el uso diario entre Pineda, Calella y la N-II provocan averías muy concretas que conocemos bien, del aire acondicionado al desgaste de frenos.",
+  "commonIssuesIntro": "El clima y las condiciones del agua en Pineda de Mar generan averías características en las piscinas de la zona. Estas son las que más vemos.",
   "commonIssues": [
     {
-      "title": "Corrosión prematura por salitre",
-      "body": "Aparcar cerca del mar en Pineda acelera la oxidación de los bajos, discos de freno y sistema de escape. La brisa marina es muy agresiva. En nuestras revisiones, prestamos especial atención a estos componentes, aplicando protecciones si es necesario y recomendando limpiezas periódicas para alargar su vida útil."
+      "title": "Corrosión en escaleras y elementos metálicos",
+      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
     },
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico de la N-II, especialmente en verano con el turismo, y las calles del centro de Pineda obligan a un uso intensivo de embrague y frenos. Este 'arranca y para' constante reduce su durabilidad. Diagnosticamos el desgaste y te asesoramos sobre el mejor momento para su sustitución."
+      "title": "Agua turbia en pleno verano",
+      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
     },
     {
-      "title": "Fallos en el aire acondicionado",
-      "body": "El calor húmedo del verano en el Maresme hace que el aire acondicionado trabaje a pleno rendimiento. Las fugas de gas, los compresores fatigados o los filtros sucios son averías típicas. Realizamos cargas de gas, detección de fugas y reparaciones para que no pases calor en los atascos."
+      "title": "Depuradoras que fallan en temporada alta",
+      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
     },
     {
-      "title": "Desgaste de neumáticos y suspensión",
-      "body": "Quienes viajan a diario por la C-32 o la N-II saben que el asfalto no siempre está perfecto. Esto, sumado a las rotondas, provoca un desgaste desigual en los neumáticos y fuerza la suspensión. Revisamos la alineación y el estado de los amortiguadores para garantizar tu seguridad y confort."
+      "title": "Fugas de agua difíciles de localizar",
+      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
     },
     {
-      "title": "Problemas con filtros y olores",
-      "body": "La humedad ambiental de Pineda y el polen de los pinos pueden saturar rápidamente el filtro del habitáculo, provocando malos olores y reduciendo la eficacia de la ventilación. Es una pieza clave para la calidad del aire que respiras dentro del coche y recomendamos su cambio anual."
+      "title": "Filtros de arena con menos rendimiento por la cal",
+      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos los coches del Maresme",
-      "body": "Sabemos cómo afecta el salitre, el tráfico de la N-II y el clima local a tu vehículo. Nuestro diagnóstico y mantenimiento están adaptados a las condiciones reales de Pineda de Mar."
+      "title": "Diagnóstico técnico honesto",
+      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "Te damos un precio cerrado antes de empezar. Lo que presupuestamos es lo que pagas. Sin extras inesperados ni letra pequeña. La honestidad es nuestra principal herramienta."
+      "title": "Adaptado al clima y al agua de tu zona",
+      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
     },
     {
-      "title": "Para todas las marcas y edades",
-      "body": "Tanto si tienes un coche nuevo como un diésel con más de diez años, tenemos la experiencia y el equipo para cuidarlo. No hacemos distinciones, solo buen trabajo mecánico."
+      "title": "Presupuestos cerrados",
+      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
     },
     {
-      "title": "Gestión y Pre-ITV",
-      "body": "Sabemos que ir a la ITV de Mataró o Blanes es una pérdida de tiempo. Hacemos una revisión pre-ITV exhaustiva y, si quieres, nos encargamos de llevarlo para que tú no te preocupes."
+      "title": "Equipo técnico propio",
+      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
     },
     {
-      "title": "Comunicación clara y directa",
-      "body": "Hablamos tu idioma, no con tecnicismos. Te explicamos qué le pasa a tu coche, por qué y qué opciones tienes. Siempre disponibles por teléfono o WhatsApp para resolver tus dudas."
+      "title": "Disponibilidad en temporada alta",
+      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
     }
   ],
-  "testimonialsIntro": "Estas son algunas situaciones típicas que nos encontramos, ejemplos de casos reales de conductores de Pineda de Mar y alrededores.",
-  "testimonials": [
-    {
-      "name": "Joan",
-      "neighborhood": "Poblenou",
-      "car": "SEAT León ST TDI 2016",
-      "body": "Uso el coche todos los días para ir a trabajar a Mataró y el embrague empezaba a patinar. En el taller me lo confirmaron enseguida, me dieron un presupuesto cerrado que me pareció correcto y en un par de días lo tenía listo. Ahora el coche va fino otra vez. Se agradece la claridad y la rapidez.",
-      "rating": 5
-    },
-    {
-      "name": "Marta",
-      "neighborhood": "Centre",
-      "car": "Peugeot 2008 2018",
-      "body": "Tenía que pasar la ITV y no tenía tiempo para nada. Les pedí una revisión pre-ITV y que me lo llevaran ellos. Me llamaron para cambiar una bombilla fundida y ajustar los frenos. Pasó la ITV a la primera. Un servicio comodísimo para los que vamos siempre corriendo. Muy contenta.",
-      "rating": 5
-    },
-    {
-      "name": "Carles",
-      "neighborhood": "Santa Susanna",
-      "car": "Renault Kangoo 2015",
-      "body": "Soy autónomo y la furgoneta es mi oficina. En pleno junio, el aire acondicionado dejó de enfriar. Un drama. Me dieron cita rápido, encontraron una pequeña fuga, la repararon y recargaron el gas. Me salvaron el verano. Trato muy profesional y entienden que necesitas el vehículo para trabajar.",
-      "rating": 5
-    },
-    {
-      "name": "Anna",
-      "neighborhood": "Pinemar",
-      "car": "VW Polo 2013",
-      "body": "Llevé el coche para la revisión anual y les comenté que oía un chirrido al frenar. Pensé que sería una pasta. Me dijeron que las pastillas estaban bien pero los discos tenían algo de óxido por la humedad. Los limpiaron y el ruido desapareció. Podrían haberme cambiado todo, pero fueron honestos.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda Pineda de Mar, desde el barrio de Poblenou pegado al mar hasta las urbanizaciones como Can Moré o Pinemar. Si vives en el centro o en Les Creus, estamos a un paso. Nuestra ubicación es ideal no solo para los pinedencs, sino también para conductores de municipios vecinos como Calella, Santa Susanna y Malgrat de Mar, que usan la N-II a diario y buscan un taller de confianza en la zona. También cubrimos a clientes de Tordera que bajan a la costa. El acceso es sencillo tanto desde la propia N-II, la arteria que vertebra el Alt Maresme, como desde la salida de la autopista C-32.",
-  "zoneNeighborhoods": [
-    "Poblenou",
-    "Centre",
-    "Les Creus",
-    "Can Moré",
-    "Pinemar",
-    "Taurus",
-    "Calella",
-    "Santa Susanna",
-    "Malgrat de Mar"
-  ],
-  "zoneAccessRoutes": [
-    "N-II",
-    "C-32 (Autopista del Maresme)",
-    "BV-5126"
-  ],
+  "zoneText": "Damos servicio a Pineda de Mar y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
   "faqLocal": [
     {
-      "q": "Mi coche duerme en la calle cerca de la playa en Pineda, ¿qué mantenimiento especial necesita?",
-      "a": "El salitre es muy corrosivo. Te recomendamos lavar los bajos del coche con agua a presión de vez en cuando, sobre todo en invierno. En el taller, ponemos especial atención al estado de los frenos, el tubo de escape y los silentblocks, que sufren más. Una revisión visual anual de estos componentes es clave."
+      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Pineda de Mar?",
+      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
     },
     {
-      "q": "Uso el coche para ir a Barcelona por la C-32 casi todos los días, ¿qué debo vigilar más?",
-      "a": "El uso intensivo en autopista desgasta principalmente neumáticos, frenos y aceite. Es vital que revises la presión de las ruedas semanalmente y que no apures los cambios de aceite. Un buen alineado de dirección también es importante para evitar desgastes irregulares y mejorar la seguridad a alta velocidad."
+      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
+      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
     },
     {
-      "q": "En verano el aire acondicionado no enfría como antes, ¿es normal por el calor de Pineda?",
-      "a": "No es normal, aunque el calor extremo lo haga más evidente. Lo más probable es que el sistema haya perdido parte del gas refrigerante o que el filtro del habitáculo esté sucio. Es una de las reparaciones más comunes que hacemos en Pineda antes del verano. Con una simple recarga o limpieza suele solucionarse."
+      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
+      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
     },
     {
-      "q": "Tengo que pasar la ITV en Mataró o Blanes, ¿ofrecéis servicio pre-ITV?",
-      "a": "Sí, por supuesto. Es uno de nuestros servicios más demandados. Hacemos una revisión completa de los puntos críticos de la ITV: luces, frenos, emisiones, neumáticos, etc. Si encontramos algún fallo, te damos presupuesto para repararlo y asegurarte de que la pasarás a la primera, ahorrándote tiempo y un segundo viaje."
-    },
-    {
-      "q": "Vivo en Calella, ¿me compensa traer el coche a vuestro taller en Pineda?",
-      "a": "Totalmente. Estamos a menos de cinco minutos en coche y muchos de nuestros clientes son de Calella y Santa Susanna. Valoran nuestro trato directo, los presupuestos cerrados y que conocemos los problemas típicos de los coches de la zona. La proximidad y la confianza hacen que el pequeño desplazamiento merezca la pena."
-    },
-    {
-      "q": "Mi coche es diésel y ya tiene sus años, ¿seguís haciendo reparaciones de este tipo?",
-      "a": "Claro que sí. El parque móvil del Maresme todavía tiene una gran mayoría de coches diésel de entre 5 y 15 años. Estamos totalmente equipados y formados para diagnosticar y reparar cualquier avería en motores diésel, desde problemas con la EGR o el filtro de partículas hasta la distribución o el embrague."
+      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
+      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Pineda de Mar",
-  "closingCta": "Si notas algo raro en tu coche o simplemente te toca la revisión, no lo dejes pasar. Pide tu presupuesto para nuestro taller de Pineda de Mar por teléfono o WhatsApp y conduce con tranquilidad."
+  "closingHeadline": "Tu piscina en Pineda de Mar, sin sorpresas",
+  "closingCta": "Si tienes una piscina en Pineda de Mar y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
 }
