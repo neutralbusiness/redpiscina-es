@@ -4,188 +4,120 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 211734,
-  "lat": 41.54329,
-  "lng": 2.10942,
-  "metaTitle": "Taller mecánico en Sabadell — Multimarca y de confianza",
-  "metaDescription": "Tu taller mecánico en Sabadell para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Entendemos tu coche y tus rutas. Pide cita.",
-  "heroSubtitle": "Hartos del tráfico de la C-58 y de las facturas que no cuadran. Tu coche necesita un taller en Sabadell que entienda tu día a día.",
+  "metaTitle": "Mantenimiento y reparación de piscinas en Sabadell | Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Sabadell. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
+  "heroSubtitle": "¿Tienes una piscina en Sabadell y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
-    },
-    {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "text": "Todo el año"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Conducir por Sabadell y el Vallès Occidental tiene sus propias reglas. No es lo mismo un coche que solo pisa la Gran Via que uno que se enfrenta cada mañana al atasco de la C-58 en dirección a Barcelona o Terrassa. Ese arranque y parada constante, especialmente en los accesos a Barberà o antes del nudo de la Trinitat, es una tortura para cualquier embrague y un desgaste prematuro para los frenos. Si tu rutina diaria implica este trayecto, sabes perfectamente de lo que hablamos. No es una avería, es el peaje que paga la mecánica por vivir y trabajar en una de las áreas más dinámicas de Cataluña. En nuestro taller de Sabadell, vemos a diario las consecuencias de este uso intensivo: embragues que patinan antes de tiempo, pastillas de freno cristalizadas y un estrés general en la transmisión que un coche de uso más tranquilo jamás experimentaría.\n\nEl clima del Vallès también juega su partido. Aquí no tenemos la salinidad de la costa, pero sí un contraste térmico que pone a prueba los componentes. Los veranos son un auténtico horno, con temperaturas que convierten el asfalto de la N-150 en una parrilla. Es en julio y agosto cuando los sistemas de aire acondicionado dicen basta, los manguitos se resecan y los neumáticos sufren una degradación acelerada. Y luego llega el invierno, con esas mañanas frías y húmedas, sobre todo en zonas cercanas al Ripoll, donde a las baterías les cuesta arrancar y los motores diésel más veteranos protestan. Este ciclo de calor intenso y frío húmedo es un desafío constante para el sistema eléctrico, los fluidos y la climatización de tu vehículo.\n\nEl parque automovilístico de Sabadell es un reflejo de su gente: trabajador y práctico. Aquí predominan los SEAT León e Ibiza, los Renault Clio y Mégane, los Peugeot 208 y 308, y una cantidad enorme de Citroën Berlingo, Peugeot Partner y furgonetas similares. Son los vehículos de los autónomos y pequeñas empresas que se mueven por los polígonos de Can Roqueta, Sud-Oest o Santiga. No son coches de exposición, son herramientas de trabajo y vehículos familiares que necesitan ser fiables por encima de todo. Entendemos que tu Ford Focus no es un capricho, es lo que te permite llevar a los niños al colegio en Can Llong antes de ir a trabajar. Por eso, nuestro enfoque es siempre la fiabilidad y la durabilidad, no el lujo.\n\nAdemás del desgaste por los desplazamientos interurbanos, el propio Sabadell exige mucho a la mecánica. Moverse entre barrios como La Creu Alta, Gràcia o el Centre implica un sinfín de rotondas, semáforos y badenes que castigan la suspensión y la dirección. Un simple trayecto desde el Hospital Parc Taulí hasta el Eix Macià puede suponer un esfuerzo considerable para los amortiguadores, los silentblocks y las rótulas. Este tipo de conducción urbana, sumada a los kilómetros en autopista, crea un patrón de desgaste muy específico que sabemos cómo diagnosticar y prevenir. Si notas que tu coche ya no absorbe los baches como antes o escuchas ruidos extraños al girar, es muy probable que las calles de Sabadell estén pasando factura.",
-  "servicesIntro": "Desde la revisión de tu furgoneta de trabajo hasta la distribución de tu coche familiar, cubrimos todas las necesidades de los vehículos que circulan por Sabadell.",
-  "processIntro": "Trabajamos con total transparencia para que sepas qué le pasa a tu coche, cuánto te va a costar y solo reparemos con tu visto bueno.",
+  "introLocal": "En Sabadell, en pleno Vallès, el verano aprieta de verdad: temperaturas que superan con frecuencia los 32-33°C y una demanda de baño concentrada en pocos meses que pone a prueba la instalación. No es raro que la depuradora, tras años de uso, empiece a fallar justo quiere en pleno julio o agosto, cuando más se necesita. Por eso recomendamos siempre una revisión preventiva en primavera, antes de que arranque la temporada fuerte.\n\nTrabajamos tanto en piscinas particulares de las urbanizaciones periféricas como en piscinas comunitarias de las zonas más densas del municipio, con protocolos distintos según el uso: una comunitaria necesita un control más frecuente de los parámetros del agua por la normativa sanitaria y el mayor número de bañistas.",
+  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Sabadell, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
+  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando tu coche llega, nuestros técnicos lo revisan a fondo. Usamos equipos de diagnosis modernos para identificar la raíz del problema, no solo el síntoma. Escuchamos lo que nos cuentas para entender el uso que le das al vehículo."
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado y por escrito, sin letra pequeña. Lo que ves es lo que pagas. Si durante la reparación surgiera algo imprevisto, que no cunda el pánico: no hacemos nada sin tu aprobación previa."
+      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No pedimos un acto de fe. Revisas el presupuesto con calma y, solo cuando nos das tu confirmación, nos ponemos manos a la obra. El control sobre la reparación y el gasto lo tienes siempre tú. Sin sorpresas."
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos siguen los procedimientos del fabricante para asegurar un trabajo bien hecho. Te mantenemos informado sobre el progreso y los plazos de entrega estimados."
+      "title": "Ejecución profesional",
+      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Cuando recoges tu coche, te explicamos la reparación realizada. Guardamos el historial de tu vehículo para futuros mantenimientos y te contactamos si es necesario para asegurar que todo funciona perfectamente tras la intervención."
+      "title": "Seguimiento y garantía",
+      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
     }
   ],
-  "commonIssuesIntro": "El tráfico de la C-58, el clima del Vallès y el uso diario en Sabadell provocan una serie de averías muy características que conocemos y sabemos cómo solucionar.",
+  "commonIssuesIntro": "El clima y las condiciones del agua en Sabadell generan averías características en las piscinas de la zona. Estas son las que más vemos.",
   "commonIssues": [
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El trayecto diario a Barcelona o Terrassa por la C-58, con sus atascos constantes, es letal para el embrague y los frenos. El continuo pisar y soltar en primera y segunda acelera el desgaste del disco y sobrecalentando las pastillas. En nuestro taller de Sabadell revisamos y sustituimos kits de embrague y sistemas de frenado adaptándonos a este uso intensivo."
+      "title": "Agua turbia por el calor intenso",
+      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
     },
     {
-      "title": "Fallo del aire acondicionado en verano",
-      "body": "El calor extremo del verano en Sabadell pone al límite el sistema de climatización. La falta de gas, fugas en el circuito o un compresor agotado son averías típicas de junio a septiembre. Realizamos cargas de gas, detectamos fugas con nitrógeno y reparamos o sustituimos los componentes necesarios para que vuelvas a pasar un verano fresco al volante."
+      "title": "Depuradoras que se averían en pleno verano",
+      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
     },
     {
-      "title": "Problemas de humos y tirones en diésel",
-      "body": "Muchos coches diésel en Sabadell hacen trayectos cortos por ciudad, lo que provoca la acumulación de carbonilla en la válvula EGR y el filtro de partículas (FAP). Esto causa tirones, pérdida de potencia y problemas de humos en la ITV. Realizamos descarbonizaciones y limpiezas de estos sistemas para que tu diésel respire mejor."
+      "title": "Filtros de arena calcificados",
+      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
     },
     {
-      "title": "Amortiguadores y silentblocks castigados",
-      "body": "La cantidad de badenes en barrios como Gràcia o Can Llong, junto con el estado de algunas calles en polígonos, pasa factura a la suspensión. Si notas que el coche 'rebota' demasiado o escuchas golpes secos, es hora de revisar amortiguadores, copelas y silentblocks. Una buena suspensión es clave para tu seguridad y para pasar la ITV."
+      "title": "Cloradores salinos con menor rendimiento",
+      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
     },
     {
-      "title": "Baterías que mueren en invierno",
-      "body": "Las mañanas frías y húmedas del invierno vallesano son la prueba de fuego para las baterías. Una batería con algunos años puede no tener fuerza suficiente para arrancar el motor en frío. Si notas que al coche le cuesta arrancar, ven a que comprobemos el estado de tu batería y el alternador antes de que te deje tirado."
+      "title": "Fisuras y fugas en piscinas antiguas",
+      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos Sabadell y sus coches",
-      "body": "No somos una franquicia sin alma. Entendemos los problemas específicos de conducir aquí, desde el tráfico de la C-58 hasta el clima. Hablamos tu mismo idioma y conocemos tu coche, ya sea un SEAT o una furgoneta."
+      "title": "Diagnóstico técnico honesto",
+      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
     },
     {
-      "title": "Presupuestos que se cumplen",
-      "body": "Se acabó el miedo a la factura del taller. Te damos un presupuesto cerrado y claro. Si hay que hacer algo más, te llamamos, te lo explicamos y tú decides. Sin sorpresas desagradables al final."
+      "title": "Adaptado al clima y al agua de tu zona",
+      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
     },
     {
-      "title": "Mecánica para todas las marcas",
-      "body": "Tu coche, sea de la marca que sea, está en buenas manos. Tenemos la experiencia y el equipo de diagnosis para trabajar con la mayoría de fabricantes del mercado, con la misma profesionalidad que un servicio oficial pero con un trato más cercano."
+      "title": "Presupuestos cerrados",
+      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
     },
     {
-      "title": "Obsesión por la ITV",
-      "body": "Sabemos que pasar la ITV en Sabadell puede ser complicado. Por eso, nuestra revisión Pre-ITV es exhaustiva. Revisamos los puntos críticos de fallo, especialmente en emisiones de diésel, frenos y suspensión, para que vayas sobre seguro."
+      "title": "Equipo técnico propio",
+      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
     },
     {
-      "title": "Trato directo y honesto",
-      "body": "Aquí hablas con el mecánico, no con un comercial. Te explicamos las cosas de forma que las entiendas, sin tecnicismos innecesarios. Nuestro objetivo es que confíes en nosotros y vuelvas, no hacer la reparación más cara."
+      "title": "Disponibilidad en temporada alta",
+      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
     }
   ],
-  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Estas son algunas situaciones típicas que hemos resuelto, contadas por conductores como tú de Sabadell.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "Can Llong",
-      "car": "SEAT León TDI 2017",
-      "body": "Hago cada día Sabadell-Barcelona por la C-58 y el embrague empezó a patinar. En otros sitios me daban largas o presupuestos por las nubes. Aquí me lo explicaron claro, me dieron un precio cerrado y cumplieron el plazo. Se nota que saben lo que sufre un coche en ese atasco diario. Muy profesionales.",
-      "rating": 5
-    },
-    {
-      "name": "Laura",
-      "neighborhood": "Centre",
-      "car": "Renault Clio 2015",
-      "body": "El aire acondicionado dejó de enfriar justo en la peor ola de calor. Llamé desesperada y me hicieron un hueco rápido. Detectaron una pequeña fuga, la repararon e hicieron la carga de gas. El trato fue súper amable y el precio, muy razonable. Me salvaron el verano, literalmente.",
-      "rating": 5
-    },
-    {
-      "name": "Carlos",
-      "neighborhood": "Gràcia",
-      "car": "Peugeot Partner 2018",
-      "body": "Uso la furgoneta para trabajar y no puede estar parada. Tenía que pasar la ITV y echaba mucho humo. Me hicieron una limpieza del sistema de inyección y el filtro de partículas y pasó sin problemas. Entienden que para un autónomo el vehículo es clave. Eficaces y rápidos.",
-      "rating": 5
-    },
-    {
-      "name": "Montserrat",
-      "neighborhood": "La Creu Alta",
-      "car": "Ford Focus 2012",
-      "body": "Notaba el coche muy inestable en las rotondas y hacía un ruido raro en los baches. Pensé que sería algo carísimo. Revisaron la suspensión y solo eran unas bieletas y los silentblocks. Me enseñaron las piezas viejas para que viera el desgaste. Un gesto de honestidad que se agradece mucho.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda la ciudad de Sabadell y sus alrededores. Tanto si vives en barrios consolidados como el Centre, l'Eixample o Gràcia, como en zonas más nuevas como Can Llong o Castellarnau, nuestro taller es tu solución de confianza. Nuestra ubicación nos permite un acceso rápido y cómodo para clientes de municipios vecinos como Barberà del Vallès, Sant Quirze del Vallès o Castellar del Vallès. Estamos perfectamente comunicados a través de vías principales como la C-58, la N-150 o la AP-7, facilitando que puedas dejarnos tu coche de camino al trabajo o al volver a casa. Si trabajas en alguno de los polígonos industriales de la zona, como Can Roqueta, también estamos a tu alcance.",
-  "zoneNeighborhoods": [
-    "Sabadell Centre",
-    "Gràcia",
-    "Can Llong",
-    "La Creu Alta",
-    "Eixample",
-    "Creu de Barberà",
-    "Barberà del Vallès",
-    "Sant Quirze del Vallès",
-    "Castellar del Vallès",
-    "Polígon Can Roqueta"
-  ],
-  "zoneAccessRoutes": [
-    "C-58 (Autopista del Vallès)",
-    "N-150 (Carretera de Terrassa)",
-    "AP-7 (Autopista del Mediterrani)",
-    "B-140 (Carretera de Santa Perpètua)"
-  ],
+  "zoneText": "Damos servicio a Sabadell y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
   "faqLocal": [
     {
-      "q": "¿Preparáis el coche para la ITV de Sabadell?",
-      "a": "Sí, es una de nuestras especialidades. Conocemos los puntos en los que más inciden en la estación de ITV de Sabadell, especialmente en temas de emisiones en vehículos diésel, holguras en la suspensión y eficacia de frenado. Hacemos una revisión pre-ITV completa y, si lo necesitas, podemos incluso llevar el coche por ti para que no pierdas tu tiempo."
+      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Sabadell?",
+      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
     },
     {
-      "q": "Mi aire acondicionado no enfría, ¿es muy cara la reparación?",
-      "a": "No tiene por qué. Muchas veces es simplemente una recarga de gas, que es una operación rápida y económica. Si hay una fuga, el coste dependerá de dónde esté, pero siempre te daremos un presupuesto previo sin compromiso. Con el calor que hace en Sabadell en verano, es una reparación que vale la pena."
+      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
+      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
     },
     {
-      "q": "¿Tenéis experiencia con furgonetas de autónomos?",
-      "a": "Por supuesto. Sabemos que tu furgoneta es tu herramienta de trabajo y que necesitas que sea fiable y esté el mínimo tiempo posible parada. Estamos acostumbrados a trabajar con los modelos más comunes en Sabadell (Partner, Berlingo, Kangoo, Transit...) y priorizamos estas reparaciones para que puedas seguir facturando."
+      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
+      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
     },
     {
-      "q": "Hago muchos kilómetros por la C-58, ¿qué mantenimiento especial necesita mi coche?",
-      "a": "El uso intensivo en autopista y atascos requiere prestar especial atención al embrague, los frenos y los neumáticos. También es crucial hacer los cambios de aceite y filtros puntualmente, ya que el motor sufre más. Te recomendamos una revisión del estado de estos componentes al menos una vez al año para evitar averías costosas."
-    },
-    {
-      "q": "¿Es fácil aparcar cerca del taller para dejar el coche?",
-      "a": "Entendemos que aparcar en Sabadell puede ser complicado. Siempre intentamos facilitar al máximo la entrega y recogida del vehículo. Consúltanos al pedir cita y te indicaremos las mejores opciones para aparcar en la zona o cómo podemos coordinarnos para que sea lo más cómodo posible para ti."
-    },
-    {
-      "q": "Mi coche diésel no va fino en ciudad, ¿qué puede ser?",
-      "a": "Es un problema muy común en coches diésel modernos que hacen muchos trayectos cortos por Sabadell. La carbonilla se acumula en la válvula EGR y el filtro de partículas, provocando tirones y pérdida de rendimiento. Con una descarbonización o limpieza de estos sistemas, el coche suele recuperar su agilidad y reducir el consumo."
+      "q": "¿El agua de mi zona es muy dura para la piscina?",
+      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
     }
   ],
-  "closingHeadline": "Tu coche a punto en Sabadell",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos por WhatsApp y te daremos cita en nuestro taller de Sabadell para revisar tu coche con la confianza y profesionalidad que necesitas.",
-  "tenant": {
-    "active": true,
-    "businessName": "Red de Talleres Mecánicos · Sabadell",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@tallerbarcelona.com",
-    "addressStreet": ""
-  }
+  "closingHeadline": "Tu piscina en Sabadell, sin sorpresas",
+  "closingCta": "Si tienes una piscina en Sabadell y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
 }
