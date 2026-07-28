@@ -4,180 +4,120 @@
   "province": "Murcia",
   "ccaa": "Murcia",
   "population": 213943,
-  "lat": 37.60197,
-  "lng": -0.98397,
-  "metaTitle": "Taller mecánico en Cartagena — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en Cartagena para revisión, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Pide tu cita ahora y conduce tranquilo.",
-  "heroSubtitle": "¿Cansado de que el salitre y el calor de Cartagena pasen factura a tu coche? Te damos un diagnóstico claro y un precio cerrado.",
+  "metaTitle": "Mantenimiento y reparación de piscinas en Cartagena | Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Cartagena. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
+  "heroSubtitle": "¿Tienes una piscina en Cartagena y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
-    },
-    {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "text": "Todo el año"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Si conduces por Cartagena, sabes que tu coche no tiene una vida fácil. No es lo mismo circular por el centro, con el tráfico denso de la Alameda de San Antón o del Paseo Alfonso XIII, que hacer kilómetros diarios por la A-30 para ir a trabajar a Murcia o por la autovía del Mar Menor (RM-2) para escapar a la playa el fin de semana. Quizás usas tu furgoneta para trabajar en el Puerto o en el polígono industrial de Cabezo Beaza. Cada trayecto, cada rutina, somete a tu vehículo a un estrés particular, y nosotros lo entendemos porque vivimos y trabajamos aquí.\n\nEl clima de Cartagena es el mayor enemigo silencioso de tu coche. La combinación de sol intenso durante casi todo el año, la alta humedad y, sobre todo, el salitre del ambiente marino, es un cóctel corrosivo. Este ambiente acelera la oxidación de los bajos, los discos de freno y cualquier pequeña muesca en la chapa. El sol implacable castiga la pintura, los plásticos exteriores y el salpicadero, mientras que el sistema de aire acondicionado trabaja a pleno rendimiento de mayo a octubre, sufriendo un desgaste enorme. Por eso, un mantenimiento preventivo en Cartagena no es un lujo, es una necesidad para evitar averías costosas y alargar la vida de tu vehículo.\n\nConocemos el parque móvil de la zona. Sabemos que por nuestras calles circulan muchísimos SEAT Ibiza y León, Renault Mégane, Citroën C4 o Peugeot 308, coches fiables y perfectos para el día a día. También vemos a diario las furgonetas de autónomos y pequeñas empresas, como la Berlingo, la Partner o la Kangoo, que son herramientas de trabajo indispensables. Sea cual sea tu coche, un diésel con años que hace la ruta de La Unión a diario o un gasolina más moderno para moverte por la ciudad, conocemos sus puntos débiles y cómo mantenerlo en perfecto estado de revista.\n\nEntendemos la desconfianza que genera un taller. Las facturas que crecen, las reparaciones que no se han pedido. Nuestro compromiso es radicalmente distinto. Te ofrecemos un presupuesto cerrado y detallado. No tocamos un solo tornillo sin tu autorización explícita. Queremos ser tu taller de confianza en Cartagena, el lugar al que vienes sabiendo que te diremos la verdad sobre el estado de tu coche y te daremos un precio justo, sin sorpresas. Nuestra filosofía es sencilla: transparencia total para que conduzcas con total tranquilidad, ya sea para pasar la ITV o para irte de vacaciones.",
-  "servicesIntro": "Desde la revisión para pasar la ITV en Los Camachos sin agobios hasta cambiar un embrague gastado por el tráfico de la ciudad, cubrimos toda la mecánica de tu coche en Cartagena.",
-  "processIntro": "Sabemos que dejar el coche en el taller genera dudas. Por eso, nuestro proceso es 100% transparente: presupuesto cerrado por escrito y no hacemos nada sin tu visto bueno.",
+  "introLocal": "En Cartagena, con el clima cálido y seco típico del Levante, el reto principal en pleno verano es mantener el agua en condiciones pese al calor intenso y la fuerte radiación solar, que degradan el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta para reducir el mantenimiento manual.\n\nLa temporada de baño tan extensa de la zona hace que las depuradoras trabajen muchas más horas al año que en otras regiones, lo que acelera su desgaste. Recomendamos una revisión preventiva antes de cada temporada alta para evitar averías en el peor momento.",
+  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Cartagena, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
+  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos qué le pasa a tu coche y nuestros técnicos realizan una inspección completa para identificar el origen del problema con precisión. No dejamos nada al azar."
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado y por escrito, explicando cada punto. El precio que ves es el precio que pagas, sin sorpresas ni extras de última hora. Lo prometemos."
+      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "Revisas el presupuesto con calma y nos das tu aprobación. Hasta que no tenemos tu OK explícito, tu coche no se toca. Tú tienes siempre el control total de la reparación."
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Procedemos a la reparación utilizando recambios de primera calidad y con garantía. Te mantenemos informado de los plazos para que sepas cuándo estará listo tu vehículo."
+      "title": "Ejecución profesional",
+      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te entregamos el coche reparado y te explicamos el trabajo realizado. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho."
+      "title": "Seguimiento y garantía",
+      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
     }
   ],
-  "commonIssuesIntro": "El clima de Cartagena no perdona: el calor extremo de verano, la humedad del mar y el polvo en suspensión causan averías muy concretas que vemos a diario en nuestro taller.",
+  "commonIssuesIntro": "El clima y las condiciones del agua en Cartagena generan averías características en las piscinas de la zona. Estas son las que más vemos.",
   "commonIssues": [
     {
-      "title": "Fallo del aire acondicionado",
-      "body": "En Cartagena, el aire acondicionado no es un lujo, es una necesidad. El uso intensivo de mayo a octubre y las altas temperaturas fuerzan el compresor y pueden provocar fugas en el circuito. Realizamos diagnósticos precisos, recargas de gas y reparación de componentes para que el calor no te pille por sorpresa."
+      "title": "Corrosión en escaleras y elementos metálicos",
+      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
     },
     {
-      "title": "Corrosión en frenos y bajos",
-      "body": "La brisa marina, cargada de salitre, es el peor enemigo del metal. Acelera la oxidación de los discos y pastillas de freno, reduciendo su eficacia y seguridad, así como de los bajos del coche. Hacemos una revisión exhaustiva del sistema de frenado y del chasis para evitar problemas graves."
+      "title": "Agua turbia en pleno verano",
+      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
     },
     {
-      "title": "Sobrecalentamiento del motor",
-      "body": "Los atascos en la A-30 en pleno agosto o callejear por el centro con 40 grados a la sombra ponen al límite el sistema de refrigeración. Un nivel bajo de anticongelante o un radiador obstruido pueden causar una avería muy seria. Verificamos todo el circuito para que el motor trabaje siempre a su temperatura ideal."
+      "title": "Depuradoras que fallan en temporada alta",
+      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
     },
     {
-      "title": "Baterías que mueren sin avisar",
-      "body": "El calor extremo es el principal factor que acorta la vida de una batería. Evapora el líquido interno y degrada los componentes mucho más rápido que en climas fríos. Por eso, en Cartagena una batería puede fallar de repente en el momento más inoportuno. Comprobamos su estado en cada revisión para que no te deje tirado."
+      "title": "Fugas de agua difíciles de localizar",
+      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
     },
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "La orografía de Cartagena, con sus cuestas, y el tráfico urbano de 'arranca y para' en zonas como el Paseo Alfonso XIII o el Ensanche, provocan un desgaste acelerado del embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión."
+      "title": "Filtros de arena con menos rendimiento por la cal",
+      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
     }
   ],
   "whyUs": [
     {
-      "title": "Precio cerrado, sin sustos",
-      "body": "Te damos un presupuesto claro y por escrito antes de empezar. El importe acordado es el que pagas al final, sin costes ocultos ni imprevistos. Honestidad por delante."
+      "title": "Diagnóstico técnico honesto",
+      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
     },
     {
-      "title": "Especialistas en tu coche",
-      "body": "Trabajamos con todas las marcas y modelos que ves por Cartagena, desde un Ford Focus hasta una furgoneta Peugeot. Conocemos sus particularidades y usamos el recambio adecuado."
+      "title": "Adaptado al clima y al agua de tu zona",
+      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
     },
     {
-      "title": "Diagnóstico honesto",
-      "body": "No te vamos a vender una reparación que no necesitas. Te explicamos cuál es el problema real, las posibles soluciones y te aconsejamos la mejor opción para tu seguridad y tu bolsillo."
+      "title": "Presupuestos cerrados",
+      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
     },
     {
-      "title": "Garantía en cada reparación",
-      "body": "Todas nuestras reparaciones y los recambios que instalamos están cubiertos por garantía. Trabajamos para que el problema quede solucionado de forma duradera y fiable."
+      "title": "Equipo técnico propio",
+      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
     },
     {
-      "title": "Tu aliado para la ITV",
-      "body": "Sabemos lo que miran en la estación ITV de Los Camachos. Hacemos una revisión pre-ITV completa para que vayas sobre seguro y la pases a la primera, ahorrándote tiempo y dinero."
+      "title": "Disponibilidad en temporada alta",
+      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de las situaciones que nuestros clientes de Cartagena nos confían cada día. Tu caso podría ser el siguiente.",
-  "testimonials": [
-    {
-      "name": "Antonio",
-      "neighborhood": "San Antón",
-      "car": "SEAT León 2.0 TDI 2014",
-      "body": "El aire acondicionado dejó de enfriar justo a principios de junio. Con el calor que hace aquí, era un drama. Me dieron cita rápido, encontraron una pequeña fuga en un manguito y me lo solucionaron con un presupuesto cerrado. Ahora vuelve a ser un congelador. Muy profesionales y honestos.",
-      "rating": 5
-    },
-    {
-      "name": "Carmen",
-      "neighborhood": "Ensanche-Almarjal",
-      "car": "Peugeot 2008 2018",
-      "body": "Tenía que pasar la ITV y siempre me da pánico. Lo llevé para la revisión pre-ITV y me detectaron que las pastillas de freno traseras estaban en las últimas por el salitre. Me las cambiaron el mismo día y pasé la inspección sin un solo fallo. Me ahorraron un segundo viaje y muchos nervios.",
-      "rating": 5
-    },
-    {
-      "name": "José",
-      "neighborhood": "Los Dolores",
-      "car": "Citroën Berlingo 2016",
-      "body": "Uso la furgoneta para trabajar y notaba que el embrague patinaba. Me preocupaba quedarme tirado. Me explicaron el problema, me dieron un precio fijo para el kit de embrague y cumplieron el plazo. Valoro mucho la claridad y que entiendan que mi vehículo es mi herramienta de trabajo.",
-      "rating": 5
-    },
-    {
-      "name": "Lucía",
-      "neighborhood": "Canteras",
-      "car": "Ford Fiesta 2015",
-      "body": "El coche hacía un ruido raro al girar. En otro sitio seguro que me habrían contado una milonga. Aquí lo subieron al elevador, me enseñaron que era un guardapolvos de la transmisión roto y me lo cambiaron. Me gustó que me lo mostraran y me explicaran qué era. Se han ganado mi confianza.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda la ciudad de Cartagena y sus alrededores. Si vives en barrios como el Ensanche, el Casco Antiguo, San Antón, Los Dolores o el Barrio de la Concepción, estamos a tu disposición. También atendemos a clientes que se desplazan a diario desde municipios cercanos como La Unión, El Algar, Pozo Estrecho, Los Alcázares o Fuente Álamo.\n\nNuestra ubicación es de fácil acceso desde las principales vías que conectan la comarca. Puedes llegar cómodamente a través de la autovía A-30 si vienes de Murcia, la AP-7 si te mueves por la costa, o la carretera nacional N-332. Entendemos que tu tiempo es importante, por eso buscamos agilizar al máximo la recepción y entrega de tu vehículo.",
-  "zoneNeighborhoods": [
-    "Casco Antiguo",
-    "Ensanche-Almarjal",
-    "San Antón",
-    "Los Dolores",
-    "Barrio de la Concepción",
-    "Canteras",
-    "Santa Lucía",
-    "El Bohío",
-    "La Unión",
-    "El Algar"
-  ],
-  "zoneAccessRoutes": [
-    "A-30 (Autovía de Murcia)",
-    "AP-7 (Autopista del Mediterráneo)",
-    "N-332",
-    "RM-2 (Autovía del Mar Menor)",
-    "CT-32"
-  ],
+  "zoneText": "Damos servicio a Cartagena y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
   "faqLocal": [
     {
-      "q": "¿Tenéis en cuenta el problema del salitre de Cartagena en las reparaciones?",
-      "a": "Totalmente. Es uno de los factores que más vigilamos. En cada revisión, prestamos especial atención al estado de los bajos, sistema de escape y, sobre todo, los componentes de freno, que son los más expuestos a la corrosión por el ambiente marino. Usamos productos protectores y te avisamos si detectamos oxidación prematura para atajarla a tiempo."
+      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Cartagena?",
+      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
     },
     {
-      "q": "Mi coche es diésel y hago muchos trayectos cortos por la ciudad, ¿qué mantenimiento especial necesita?",
-      "a": "Es una situación muy común en Cartagena. Este tipo de uso puede saturar el filtro de partículas (FAP) y la válvula EGR. Te recomendamos hacer una salida a carretera por la A-30 o la AP-7 de vez en cuando, a un régimen más alto, para ayudar a la regeneración. En el taller, podemos comprobar el estado de estos sistemas y realizar limpiezas específicas para evitar averías costosas."
+      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
+      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
     },
     {
-      "q": "Voy a pasar la ITV en el polígono de Los Camachos, ¿qué revisáis en la Pre-ITV?",
-      "a": "Nuestra revisión Pre-ITV es exhaustiva y se centra en los puntos críticos que miran en la estación de Cartagena: luces, frenos (eficacia y desequilibrio), holguras en la dirección y suspensión, estado de los neumáticos y, muy importante, la emisión de gases. Nos aseguramos de que todo esté en orden para que la pases a la primera sin problemas."
+      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
+      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
     },
     {
-      "q": "El aire acondicionado de mi coche no enfría como antes, ¿es normal con el calor de aquí?",
-      "a": "Sí, es un síntoma muy habitual. El calor extremo y el uso constante fuerzan todo el sistema. Puede ser simplemente que necesite una recarga de gas por pequeñas pérdidas naturales, o que haya una fuga o un problema en el compresor. Lo mejor es hacer un diagnóstico para localizar el problema exacto y solucionarlo antes de que llegue lo peor del verano."
-    },
-    {
-      "q": "¿Trabajáis con furgonetas de autónomos o empresas?",
-      "a": "Por supuesto. Sabemos que para un profesional de Cartagena, la furgoneta es una herramienta de trabajo vital. Damos prioridad a estas reparaciones para que el vehículo esté inmovilizado el menor tiempo posible. Hacemos mantenimientos, embragues, distribuciones y cualquier avería en los modelos más comunes como Berlingo, Partner, Kangoo, etc."
-    },
-    {
-      "q": "Vivo en La Manga, ¿me compensa traer el coche a vuestro taller en Cartagena?",
-      "a": "Muchos clientes de La Manga y el Mar Menor confían en nosotros. El ambiente en La Manga es aún más agresivo por el salitre. Te compensa porque realizamos un mantenimiento preventivo enfocado en la corrosión que puede ahorrarte mucho dinero a largo plazo. Además, nuestro presupuesto cerrado te garantiza que el viaje merecerá la pena."
+      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
+      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Cartagena",
-  "closingCta": "No dejes que una avería te complique la vida. Pide tu presupuesto cerrado para tu coche en Cartagena. Llámanos o envíanos un WhatsApp y te atenderemos sin ningún compromiso."
+  "closingHeadline": "Tu piscina en Cartagena, sin sorpresas",
+  "closingCta": "Si tienes una piscina en Cartagena y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
 }
