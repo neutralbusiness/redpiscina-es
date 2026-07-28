@@ -1,0 +1,148 @@
+{
+  "slug": "barakaldo",
+  "name": "Barakaldo",
+  "province": "Bizkaia",
+  "ccaa": "País Vasco",
+  "population": 100435,
+  "lat": 43.29639,
+  "lng": -2.98813,
+  "metaTitle": "Mantenimiento de Piscinas para Negocios en Barakaldo — Red Piscina",
+  "metaDescription": "Servicio profesional de mantenimiento y reparación de piscinas para comunidades, hoteles y gimnasios en Barakaldo. Presupuesto cerrado y garantía. Llámanos.",
+  "heroSubtitle": "Garantiza el perfecto estado de la piscina de tu comunidad, hotel o gimnasio en Barakaldo frente a la humedad constante de la ría del Nervión.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "⭐",
+      "text": "Profesional certificado"
+    },
+    {
+      "icon": "⚡",
+      "text": "Respuesta rápida"
+    },
+    {
+      "icon": "📋",
+      "text": "Factura y garantía"
+    }
+  ],
+  "introLocal": "Barakaldo, con su pasado siderúrgico ligado a Altos Hornos de Vizcaya que marcó profundamente la identidad industrial de la ciudad durante todo el siglo XX, tiene un clima atlántico húmedo típico de la ría del Nervión, con lluvias frecuentes durante buena parte del año e inviernos frescos. Esta humedad constante, muy superior a la de otras zonas de España, exige un mantenimiento de piscinas especialmente atento a la corrosión de elementos metálicos y a la aparición de moho en zonas de vaso poco ventiladas, un reto muy distinto al de ciudades de clima más seco.\n\nLa ciudad, con el imponente edificio de BEC (Bilbao Exhibition Centre) como símbolo de la reconversión industrial hacia nuevos usos, combina barrios de vivienda obrera surgidos del desarrollo siderúrgico del siglo XX con zonas más modernas fruto de la regeneración urbana de las últimas décadas. Muchos de los polideportivos y gimnasios de la ciudad, así como comunidades de vecinos con piscina propia, conviven con esta humedad constante que exige revisiones de anticorrosión más frecuentes que en el interior peninsular.\n\nEl verano en Barakaldo, más fresco y menos predecible que en el interior peninsular, hace que la temporada de uso intensivo de las piscinas al aire libre sea más corta, mientras que las instalaciones cubiertas de gimnasios y polideportivos mantienen un uso constante durante todo el año, con necesidades de mantenimiento muy distintas a las de una piscina exterior de temporada. Trabajamos ajustando el tratamiento del agua y la protección anticorrosión tanto a las piscinas exteriores de comunidades de vecinos como a las instalaciones cubiertas de gimnasios y polideportivos, teniendo siempre en cuenta la humedad constante propia del clima de la ría del Nervión.",
+  "servicesIntro": "Ofrecemos mantenimiento y reparación de piscinas para comunidades, hoteles, gimnasios y polideportivos en Barakaldo, adaptados al clima húmedo de la ría del Nervión.",
+  "processIntro": "Trabajamos con un proceso claro pensado para comunidades, hoteles y gimnasios: transparencia desde el primer contacto y mínima interferencia con el uso diario de la instalación.",
+  "processSteps": [
+    {
+      "title": "Contacto",
+      "body": "Nos cuentas el tipo de instalación (comunidad, hotel, gimnasio) y su estado actual. Programamos una visita de diagnóstico sin compromiso."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Tras la visita, te entregamos un presupuesto cerrado y detallado. El precio que ves es el que pagas, sin ampliaciones de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No empezamos ningún trabajo sin tu aprobación expresa del presupuesto y del calendario de intervención."
+    },
+    {
+      "title": "Ejecución",
+      "body": "Realizamos el mantenimiento o la reparación adaptándonos a los horarios de menor afluencia, para no interferir con el uso de la piscina."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos un informe del trabajo realizado y quedamos disponibles para el seguimiento posterior que necesites."
+    }
+  ],
+  "commonIssuesIntro": "El clima húmedo de la ría del Nervión y el pasado industrial de la ciudad generan necesidades de mantenimiento propias de Barakaldo. Estas son las que más vemos.",
+  "commonIssues": [
+    {
+      "title": "Corrosión acelerada por la humedad constante de la ría",
+      "body": "El clima atlántico húmedo, con lluvias frecuentes durante buena parte del año, favorece la corrosión de escaleras y elementos metálicos. Recomendamos revisiones más frecuentes que en zonas más secas."
+    },
+    {
+      "title": "Moho en zonas de vaso poco ventiladas",
+      "body": "La humedad característica de Barakaldo favorece la aparición de moho si la instalación no está bien ventilada. Lo revisamos como parte del mantenimiento habitual."
+    },
+    {
+      "title": "Temporada de uso exterior más corta",
+      "body": "El verano en Barakaldo es más fresco que en el interior peninsular, lo que acorta la temporada de uso de las piscinas exteriores. Ajustamos el mantenimiento a este calendario real."
+    },
+    {
+      "title": "Uso constante en piscinas cubiertas de gimnasios y polideportivos",
+      "body": "A diferencia de las piscinas exteriores estacionales, las instalaciones cubiertas mantienen un uso constante todo el año. Requieren un mantenimiento sin la pausa invernal habitual en otras piscinas."
+    },
+    {
+      "title": "Instalaciones antiguas en barrios de origen obrero e industrial",
+      "body": "Muchos edificios construidos para los trabajadores de la industria siderúrgica del siglo XX pueden tener piscinas comunitarias con equipos que ya acumulan varias décadas."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Especialistas en la humedad de la ría del Nervión",
+      "body": "Sabemos lo que exige el clima atlántico vasco a una instalación, y revisamos con especial cuidado la protección anticorrosión."
+    },
+    {
+      "title": "Experiencia con piscinas cubiertas de uso constante",
+      "body": "Adaptamos el mantenimiento a instalaciones de gimnasios y polideportivos que no tienen la pausa invernal de una piscina exterior."
+    },
+    {
+      "title": "Presupuesto cerrado sin sorpresas",
+      "body": "El precio que te damos es el precio final, con pieza y mano de obra incluidas."
+    },
+    {
+      "title": "Conocemos el parque de vivienda obrera e industrial",
+      "body": "Adaptamos el servicio a las instalaciones más antiguas heredadas del pasado siderúrgico de Barakaldo."
+    },
+    {
+      "title": "Respuesta rápida cuando la necesitas",
+      "body": "Resolvemos la avería con rapidez, tanto en piscinas exteriores como en instalaciones cubiertas."
+    }
+  ],
+  "testimonialsIntro": "Así valoran nuestro servicio administradores de fincas y responsables de instalaciones en Barakaldo.",
+  "testimonials": [
+    {
+      "name": "Iñaki",
+      "neighborhood": "Retuerto",
+      "service": "Mantenimiento anual comunidad",
+      "body": "La humedad de Barakaldo siempre había sido un problema para las escaleras metálicas de nuestra piscina comunitaria. Desde que ajustaron el mantenimiento a este factor, se conservan mucho mejor.",
+      "rating": 5
+    },
+    {
+      "name": "Amaia",
+      "neighborhood": "San Vicente",
+      "service": "Mantenimiento piscina cubierta gimnasio",
+      "body": "Gestiono un gimnasio con piscina cubierta y necesitábamos un mantenimiento constante, no estacional. Han entendido bien esta diferencia respecto a una piscina exterior normal.",
+      "rating": 5
+    }
+  ],
+  "zoneText": "Atendemos comunidades, hoteles, gimnasios y polideportivos en Barakaldo y los municipios cercanos de la margen izquierda de la ría.",
+  "zoneNeighborhoods": [
+    "Retuerto",
+    "San Vicente",
+    "Cruces",
+    "Lutxana",
+    "Rontegi",
+    "Beurko"
+  ],
+  "zoneAccessRoutes": [
+    "A-8",
+    "BI-737",
+    "BI-3739",
+    "N-634"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Por qué mi piscina en Barakaldo se desgasta si el agua de la zona no es muy dura?",
+      "a": "El factor determinante en Barakaldo no es tanto la dureza del agua como la humedad constante del clima atlántico de la ría del Nervión, que acelera la corrosión de componentes metálicos. Recomendamos revisiones periódicas específicas para este factor."
+    },
+    {
+      "q": "Nuestro gimnasio tiene piscina cubierta, ¿el mantenimiento es distinto al de una piscina exterior?",
+      "a": "Sí, una piscina cubierta de uso constante no tiene la pausa invernal de una piscina exterior estacional, por lo que el mantenimiento debe ser continuo durante todo el año. Adaptamos el servicio a este tipo de instalación."
+    },
+    {
+      "q": "¿Cuándo se puede usar realmente la piscina exterior en Barakaldo?",
+      "a": "El clima de Barakaldo es más fresco que el del interior peninsular, por lo que la temporada real de uso exterior suele ser más corta. Ajustamos el calendario de mantenimiento a este patrón climático propio de la ría del Nervión."
+    }
+  ],
+  "closingHeadline": "Tu piscina en Barakaldo, protegida frente a la humedad de la ría",
+  "closingCta": "Si gestionas una comunidad, hotel, gimnasio o polideportivo en Barakaldo, contacta con nosotros. Presupuesto cerrado y garantía."
+}

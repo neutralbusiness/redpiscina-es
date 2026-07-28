@@ -1,0 +1,150 @@
+{
+  "slug": "cadiz",
+  "name": "Cadiz",
+  "province": "Cádiz",
+  "ccaa": "Andalucía",
+  "population": 116979,
+  "lat": 36.52672,
+  "lng": -6.2891,
+  "metaTitle": "Mantenimiento de Piscinas para Negocios en Cádiz — Red Piscina",
+  "metaDescription": "Servicio profesional de mantenimiento y reparación de piscinas para comunidades, hoteles y gimnasios en Cádiz. Presupuesto cerrado y garantía. Llámanos.",
+  "heroSubtitle": "Cádiz está prácticamente rodeada de mar: garantiza que tu piscina de comunidad o negocio resista la humedad marina constante durante todo el año.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "⭐",
+      "text": "Profesional certificado"
+    },
+    {
+      "icon": "⚡",
+      "text": "Respuesta rápida"
+    },
+    {
+      "icon": "📋",
+      "text": "Factura y garantía"
+    }
+  ],
+  "introLocal": "Cádiz, una de las ciudades habitadas más antiguas de Europa occidental, ocupa una estrecha península bañada por el Atlántico por casi todos sus flancos, lo que la convierte en una de las ciudades más exigentes de España para cualquier instalación de piscina con elementos metálicos. La humedad marina es constante durante los doce meses del año, agravada por el característico viento de levante que sopla con fuerza desde el este, un factor que acelera la corrosión de escaleras, barandillas, carcasas de bombas y cualquier componente metálico expuesto mucho más rápido que en ciudades de interior.\n\nLas comunidades de vecinos y hoteles del casco histórico, en barrios como el Pópulo o próximos al Paseo Marítimo, conviven con piscinas comunitarias que sufren esta combinación de sal y viento de forma especialmente intensa, mientras que las urbanizaciones más recientes de la zona de Puertatierra o hacia Cortadura tienen un desgaste algo menor por estar ligeramente más protegidas del frente marítimo directo. El clima suave gaditano, con inviernos templados y veranos moderados por la brisa, hace que muchas piscinas de comunidad se usen durante una temporada más larga que en el resto de España, lo que exige un mantenimiento del agua más constante y menos estacional.\n\nEl agua de la zona, unida a la arena fina que el viento de levante arrastra desde las playas cercanas, también puede acumularse en skimmers y filtros con mayor frecuencia que en otras ciudades. Trabajamos con materiales y tratamientos reforzados frente a la corrosión salina, y ajustamos la frecuencia de revisión de elementos metálicos y filtración en las instalaciones más próximas al frente marítimo gaditano, donde el desgaste es notablemente más rápido que en el resto de la provincia.",
+  "servicesIntro": "Ofrecemos mantenimiento y reparación de piscinas para comunidades, hoteles y gimnasios en Cádiz, con especial atención a la protección frente a la humedad marina constante de la ciudad.",
+  "processIntro": "Trabajamos con un proceso claro pensado para comunidades, hoteles y gimnasios: transparencia desde el primer contacto y mínima interferencia con el uso diario de la instalación.",
+  "processSteps": [
+    {
+      "title": "Contacto",
+      "body": "Nos cuentas el tipo de instalación (comunidad, hotel, gimnasio) y su estado actual. Programamos una visita de diagnóstico sin compromiso."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Tras la visita, te entregamos un presupuesto cerrado y detallado. El precio que ves es el que pagas, sin ampliaciones de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No empezamos ningún trabajo sin tu aprobación expresa del presupuesto y del calendario de intervención."
+    },
+    {
+      "title": "Ejecución",
+      "body": "Realizamos el mantenimiento o la reparación adaptándonos a los horarios de menor afluencia, para no interferir con el uso de la piscina."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos un informe del trabajo realizado y quedamos disponibles para el seguimiento posterior que necesites."
+    }
+  ],
+  "commonIssuesIntro": "La humedad marina constante y el viento de levante generan averías muy particulares en las piscinas de Cádiz. Estas son las que más vemos.",
+  "commonIssues": [
+    {
+      "title": "Corrosión acelerada de escaleras y barandillas",
+      "body": "Al estar la ciudad prácticamente rodeada de mar, los elementos metálicos se oxidan mucho más rápido que en el interior. Usamos materiales reforzados y revisamos estos puntos con mayor frecuencia."
+    },
+    {
+      "title": "Desgaste de bombas y carcasas por el viento de levante",
+      "body": "El levante gaditano agrava la humedad salina y acelera el deterioro de componentes mecánicos. Lo tenemos muy en cuenta en cada mantenimiento programado."
+    },
+    {
+      "title": "Arena en skimmers y filtros",
+      "body": "El viento arrastra arena fina de las playas cercanas hasta las instalaciones, incluso en comunidades alejadas de la costa directa. Revisamos y limpiamos estos elementos con más frecuencia que en ciudades de interior."
+    },
+    {
+      "title": "Temporada de uso más larga por el clima suave",
+      "body": "El clima templado gaditano hace que muchas piscinas se usen más semanas al año. Ajustamos el tratamiento del agua a este patrón de uso más constante."
+    },
+    {
+      "title": "Desgaste desigual según la proximidad al frente marítimo",
+      "body": "Las instalaciones del Paseo Marítimo y el casco histórico sufren más que las de zonas algo más protegidas como Puertatierra. Adaptamos la frecuencia de revisión a la ubicación real de cada comunidad."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Especialistas en protección frente a la humedad marina",
+      "body": "Sabemos que Cádiz, al estar rodeada de mar, exige materiales y revisiones más frecuentes que la media nacional."
+    },
+    {
+      "title": "Adaptados al viento de levante",
+      "body": "Ajustamos la frecuencia de mantenimiento de elementos metálicos y de filtración a este factor tan propio de la ciudad."
+    },
+    {
+      "title": "Presupuesto cerrado y transparente",
+      "body": "El precio que te damos es el precio final, sin sorpresas en la factura."
+    },
+    {
+      "title": "Experiencia con comunidades del casco histórico y urbanizaciones",
+      "body": "Adaptamos el servicio a las condiciones reales de cada zona de la ciudad."
+    },
+    {
+      "title": "Respuesta rápida ante averías",
+      "body": "Sabemos que una piscina de comunidad o negocio fuera de servicio en Cádiz no puede esperar."
+    }
+  ],
+  "testimonialsIntro": "Así valoran nuestro servicio administradores de fincas y responsables de instalaciones en Cádiz.",
+  "testimonials": [
+    {
+      "name": "Marisa",
+      "neighborhood": "Puertatierra",
+      "service": "Mantenimiento anual comunidad",
+      "body": "Llevo la administración de varias comunidades en Cádiz y la corrosión por la humedad del mar era un problema constante en la piscina. Desde que trabajamos con ellos, las escaleras y la maquinaria duran mucho más. Se nota que conocen bien lo que exige esta ciudad.",
+      "rating": 5
+    },
+    {
+      "name": "Antonio",
+      "neighborhood": "El Pópulo",
+      "service": "Reparación de bomba de filtración",
+      "body": "La bomba se estropeó en pleno verano, con la piscina llena de gente. Vinieron rápido, diagnosticaron el problema y lo solucionaron sin tener que cerrar la instalación más de un día. Muy profesionales.",
+      "rating": 5
+    }
+  ],
+  "zoneText": "Atendemos comunidades, hoteles y gimnasios en Cádiz capital y en los municipios cercanos de la bahía, adaptándonos a las particularidades de cada zona frente a la humedad marina.",
+  "zoneNeighborhoods": [
+    "El Pópulo",
+    "La Viña",
+    "Puertatierra",
+    "Cortadura",
+    "Loreto-Puntales",
+    "Segunda Aguada",
+    "San José Obrero",
+    "Bahía Blanca"
+  ],
+  "zoneAccessRoutes": [
+    "CA-33",
+    "A-4",
+    "N-443",
+    "Puente de la Constitución de 1812"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Por qué la piscina de nuestra comunidad se oxida tan rápido en Cádiz?",
+      "a": "La ciudad está prácticamente rodeada de mar, y la humedad salina constante, agravada por el viento de levante, acelera la corrosión de escaleras, barandillas y componentes metálicos mucho más que en ciudades de interior. Recomendamos revisiones más frecuentes que la media nacional."
+    },
+    {
+      "q": "¿En Cádiz hay que hacer invernaje de la piscina como en otras zonas de España?",
+      "a": "El clima suave gaditano hace que muchas piscinas de comunidad se usen durante una temporada más larga. Adaptamos el tratamiento del agua a este patrón de uso más constante en lugar de un invernaje estricto."
+    },
+    {
+      "q": "¿Por qué encontramos tanta arena en los filtros si no estamos justo en la playa?",
+      "a": "El viento de levante arrastra arena fina desde las playas cercanas incluso a zonas algo alejadas del frente marítimo directo. Recomendamos revisar y limpiar skimmers y filtros con más frecuencia que en ciudades de interior."
+    }
+  ],
+  "closingHeadline": "Tu piscina en Cádiz, protegida frente al mar que la rodea",
+  "closingCta": "Si gestionas una comunidad, hotel o gimnasio en Cádiz, contacta con nosotros. Presupuesto cerrado y garantía."
+}

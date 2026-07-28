@@ -1,0 +1,147 @@
+{
+  "slug": "jaen",
+  "name": "Jaén",
+  "province": "Jaén",
+  "ccaa": "Andalucía",
+  "population": 113457,
+  "lat": 37.76922,
+  "lng": -3.79028,
+  "metaTitle": "Mantenimiento de Piscinas para Negocios en Jaén — Red Piscina",
+  "metaDescription": "Servicio profesional de mantenimiento y reparación de piscinas para comunidades, hoteles y gimnasios en Jaén. Presupuesto cerrado y garantía. Llámanos.",
+  "heroSubtitle": "Garantiza el perfecto estado de la piscina de tu comunidad o negocio en Jaén durante el calor extremo del verano jiennense.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "⭐",
+      "text": "Profesional certificado"
+    },
+    {
+      "icon": "⚡",
+      "text": "Respuesta rápida"
+    },
+    {
+      "icon": "📋",
+      "text": "Factura y garantía"
+    }
+  ],
+  "introLocal": "Jaén, la capital mundial del aceite de oliva por la extensión de olivar que rodea la ciudad hasta donde alcanza la vista, tiene uno de los climas más extremos de Andalucía, con veranos muy calurosos y secos que disparan el uso de las piscinas comunitarias durante varios meses, e inviernos sorprendentemente fríos, con heladas frecuentes entre diciembre y febrero debido a la posición de la ciudad en un valle rodeado de sierras. Este contraste tan marcado exige un enfoque de mantenimiento muy distinto al que se aplica en otras capitales andaluzas de clima más suave.\n\nLa ciudad, dominada por la silueta del cerro de Santa Catalina y su parador sobre el antiguo castillo árabe, tiene comunidades de vecinos y complejos deportivos con piscina distribuidos entre el casco histórico y los barrios más modernos surgidos del desarrollo urbanístico de las últimas décadas hacia el sur y el este. El calor extremo del verano jiennense, con temperaturas que se mantienen altas durante buena parte del día, acelera la degradación del cloro en el agua mucho más rápido que en climas más templados, lo que exige ajustar la dosificación con frecuencia para evitar que el agua se enturbie.\n\nEl agua de Jaén, de dureza notable en la región, con los años también deja incrustaciones de cal en filtros y elementos de la instalación si no reciben mantenimiento periódico, un factor especialmente relevante dado el uso tan intensivo que tienen las piscinas comunitarias durante los meses de más calor. Trabajamos ajustando el tratamiento del agua a las condiciones reales del verano jiennense, y prestamos especial atención a que la instalación esté preparada tanto para el calor extremo de julio y agosto como para el frío intenso e inesperado del invierno, un factor que muchas comunidades subestiman por la ubicación andaluza de la ciudad.",
+  "servicesIntro": "Ofrecemos mantenimiento y reparación de piscinas para comunidades, hoteles y gimnasios en Jaén, adaptados al contraste extremo entre el calor del verano y el frío del invierno jiennense.",
+  "processIntro": "Trabajamos con un proceso claro pensado para comunidades, hoteles y gimnasios: transparencia desde el primer contacto y mínima interferencia con el uso diario de la instalación.",
+  "processSteps": [
+    {
+      "title": "Contacto",
+      "body": "Nos cuentas el tipo de instalación (comunidad, hotel, gimnasio) y su estado actual. Programamos una visita de diagnóstico sin compromiso."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Tras la visita, te entregamos un presupuesto cerrado y detallado. El precio que ves es el que pagas, sin ampliaciones de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No empezamos ningún trabajo sin tu aprobación expresa del presupuesto y del calendario de intervención."
+    },
+    {
+      "title": "Ejecución",
+      "body": "Realizamos el mantenimiento o la reparación adaptándonos a los horarios de menor afluencia, para no interferir con el uso de la piscina."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos un informe del trabajo realizado y quedamos disponibles para el seguimiento posterior que necesites."
+    }
+  ],
+  "commonIssuesIntro": "El calor extremo del verano y el frío inesperado del invierno jiennense generan averías propias de Jaén. Estas son las que más vemos.",
+  "commonIssues": [
+    {
+      "title": "Degradación rápida del cloro por el calor extremo",
+      "body": "Las altas temperaturas sostenidas del verano jiennense degradan el cloro mucho más rápido que en climas más templados. Ajustamos la dosificación a las condiciones reales de cada mes para evitar que el agua se enturbie."
+    },
+    {
+      "title": "Acumulación de cal por la dureza del agua de la región",
+      "body": "El agua de Jaén tiene una dureza notable que deja incrustaciones con rapidez en filtros y elementos de la instalación. Lo revisamos en cada mantenimiento periódico."
+    },
+    {
+      "title": "Necesidad de invernaje real pese a la ubicación andaluza",
+      "body": "Muchas comunidades subestiman el frío del invierno jiennense, con heladas frecuentes entre diciembre y febrero. Recomendamos un invernaje tan cuidadoso como en zonas de interior peninsular."
+    },
+    {
+      "title": "Uso muy intensivo en los meses de más calor",
+      "body": "El verano extremo dispara el uso de las piscinas comunitarias durante semanas seguidas. Recomendamos revisar la filtración antes de que llegue esta temporada de máxima demanda."
+    },
+    {
+      "title": "Instalaciones antiguas en comunidades del casco histórico",
+      "body": "Los edificios más antiguos de la ciudad pueden tener piscinas con equipos que ya acumulan varias décadas. Valoramos si compensa reparar o modernizar la instalación."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conocemos el contraste climático real de Jaén",
+      "body": "Sabemos que esta ciudad, pese a ser andaluza, tiene un invierno mucho más frío de lo esperado, y preparamos la instalación para ambos extremos."
+    },
+    {
+      "title": "Experiencia con la dureza del agua de la región",
+      "body": "Tratamos la acumulación de cal como parte habitual del mantenimiento en Jaén."
+    },
+    {
+      "title": "Presupuesto cerrado sin sorpresas",
+      "body": "El precio que te damos es el precio final, con pieza y mano de obra incluidas."
+    },
+    {
+      "title": "Ajuste de dosificación al calor extremo del verano",
+      "body": "Evitamos que el agua se enturbie por la degradación acelerada del cloro en los meses más calurosos."
+    },
+    {
+      "title": "Respuesta rápida en temporada alta",
+      "body": "Sabemos que una avería en pleno verano jiennense, con la piscina en máximo uso, no puede esperar."
+    }
+  ],
+  "testimonialsIntro": "Así valoran nuestro servicio administradores de fincas y responsables de instalaciones en Jaén.",
+  "testimonials": [
+    {
+      "name": "Rafael",
+      "neighborhood": "El Bulevar",
+      "service": "Mantenimiento anual comunidad",
+      "body": "El calor de Jaén en verano hacía que la piscina se enturbiara constantemente. Nos explicaron que había que ajustar la dosificación de cloro a las temperaturas reales de cada mes, y desde entonces el agua se mantiene perfecta incluso en los días de más calor.",
+      "rating": 5
+    },
+    {
+      "name": "Isabel",
+      "neighborhood": "La Alcantarilla",
+      "service": "Invernaje de piscina comunitaria",
+      "body": "Pensaba que en Jaén no hacía falta un invernaje tan cuidadoso como en el norte, pero nos explicaron que las heladas de aquí también dañan la instalación si no se protege bien. Buen trabajo de cara al invierno.",
+      "rating": 5
+    }
+  ],
+  "zoneText": "Atendemos comunidades, hoteles y gimnasios en Jaén capital y los municipios cercanos de la provincia.",
+  "zoneNeighborhoods": [
+    "El Bulevar",
+    "La Alcantarilla",
+    "Bulevar de Pablo Ruiz Picasso",
+    "Peñamefécit",
+    "El Valle",
+    "Las Fuentezuelas"
+  ],
+  "zoneAccessRoutes": [
+    "A-316",
+    "A-44",
+    "N-323a"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Por qué se enturbia tan rápido el agua de la piscina en Jaén en verano?",
+      "a": "El calor extremo del verano jiennense degrada el cloro mucho más rápido que en climas más templados. Recomendamos ajustar la dosificación específicamente a las temperaturas de cada mes para evitar que el agua se enturbie."
+    },
+    {
+      "q": "¿En Jaén hace falta hacer invernaje si estamos en Andalucía?",
+      "a": "Sí, y de forma cuidadosa: la posición de la ciudad en un valle rodeado de sierras hace que el invierno jiennense sea uno de los más fríos de toda Andalucía, con heladas frecuentes entre diciembre y febrero que pueden dañar la instalación si no se protege adecuadamente."
+    },
+    {
+      "q": "¿Por qué mi piscina acumula tanta cal en Jaén?",
+      "a": "El agua de la región tiene una dureza notable que deja incrustaciones con rapidez en filtros y otros elementos. Recomendamos un mantenimiento periódico específico para evitar que la cal reduzca la eficiencia de la instalación."
+    }
+  ],
+  "closingHeadline": "Tu piscina en Jaén, lista para el calor y preparada para el frío",
+  "closingCta": "Si gestionas una comunidad, hotel o gimnasio en Jaén, contacta con nosotros. Presupuesto cerrado y garantía."
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "orihuela",
+  "name": "Orihuela",
+  "province": "Alicante",
+  "ccaa": "Comunidad Valenciana",
+  "population": 101321,
+  "lat": 38.08483,
+  "lng": -0.94401,
+  "metaTitle": "Mantenimiento de Piscinas para Negocios en Orihuela — Red Piscina",
+  "metaDescription": "Servicio profesional de mantenimiento y reparación de piscinas para comunidades, hoteles y gimnasios en Orihuela. Presupuesto cerrado y garantía. Llámanos.",
+  "heroSubtitle": "Del casco histórico a Orihuela Costa: garantiza el perfecto estado de la piscina de tu comunidad o negocio en todo el municipio.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "⭐",
+      "text": "Profesional certificado"
+    },
+    {
+      "icon": "⚡",
+      "text": "Respuesta rápida"
+    },
+    {
+      "icon": "📋",
+      "text": "Factura y garantía"
+    }
+  ],
+  "introLocal": "Orihuela tiene una particularidad poco habitual en España: es un municipio enorme en extensión que abarca desde un casco histórico monumental tierra adentro, con su Catedral gótica y el entorno del río Segura, hasta pedanías costeras como Orihuela Costa, muy pobladas por segundas residencias y con un perfil demográfico marcadamente distinto, con gran presencia de residentes extranjeros. Esta dualidad geográfica exige un enfoque de mantenimiento de piscinas muy distinto según la zona del municipio: comunidades de vecinos de uso habitual en el centro urbano frente a urbanizaciones de piscina comunitaria en la costa con un patrón de uso muy estacional.\n\nEl casco histórico, con su trazado de origen árabe, tiene un clima algo más fresco en invierno que la costa, al estar más alejado del efecto moderador del mar, mientras que Orihuela Costa, con urbanizaciones como Playa Flamenca o Cabo Roig, disfruta de un clima mediterráneo mucho más suave donde muchas piscinas comunitarias permanecen en uso o semi-uso durante buena parte del año, especialmente en las comunidades con alta presencia de residentes extranjeros que viven en la zona de forma permanente o durante largas temporadas.\n\nEl agua de la región, con una dureza notable típica del sureste peninsular, hace que la acumulación de cal sea un problema habitual si no se realiza mantenimiento periódico, tanto en las instalaciones del interior como en las de la costa. Ofrecemos planes de mantenimiento adaptados tanto a las comunidades de uso habitual del centro urbano como a las urbanizaciones de Orihuela Costa, donde muchas piscinas comunitarias tienen un patrón de uso estacional marcado por la llegada de propietarios en temporada alta, con revisiones de puesta a punto antes de los periodos de mayor ocupación.",
+  "servicesIntro": "Ofrecemos mantenimiento y reparación de piscinas comunitarias para comunidades, hoteles y gimnasios en Orihuela, tanto en el casco histórico como en las urbanizaciones de Orihuela Costa.",
+  "processIntro": "Trabajamos con un proceso claro pensado para comunidades, hoteles y gimnasios: transparencia desde el primer contacto y mínima interferencia con el uso diario de la instalación.",
+  "processSteps": [
+    {
+      "title": "Contacto",
+      "body": "Nos cuentas el tipo de instalación (comunidad, hotel, gimnasio) y su estado actual. Programamos una visita de diagnóstico sin compromiso."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Tras la visita, te entregamos un presupuesto cerrado y detallado. El precio que ves es el que pagas, sin ampliaciones de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No empezamos ningún trabajo sin tu aprobación expresa del presupuesto y del calendario de intervención."
+    },
+    {
+      "title": "Ejecución",
+      "body": "Realizamos el mantenimiento o la reparación adaptándonos a los horarios de menor afluencia, para no interferir con el uso de la piscina."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos un informe del trabajo realizado y quedamos disponibles para el seguimiento posterior que necesites."
+    }
+  ],
+  "commonIssuesIntro": "La dualidad entre el casco histórico y las urbanizaciones costeras de Orihuela genera necesidades de mantenimiento muy distintas según la zona. Estas son las que más vemos.",
+  "commonIssues": [
+    {
+      "title": "Uso estacional marcado en piscinas de Orihuela Costa",
+      "body": "Muchas urbanizaciones costeras tienen un patrón de uso muy ligado a la llegada de propietarios en temporada alta. Ofrecemos revisiones de puesta a punto antes de estos periodos de mayor ocupación."
+    },
+    {
+      "title": "Acumulación de cal por la dureza del agua del sureste",
+      "body": "La región tiene un agua notablemente dura, que deja incrustaciones con rapidez tanto en el interior como en la costa. Lo revisamos en cada mantenimiento periódico."
+    },
+    {
+      "title": "Uso más constante en comunidades con residentes extranjeros permanentes",
+      "body": "Algunas urbanizaciones de Orihuela Costa tienen alta presencia de residentes que viven allí todo el año, lo que exige un mantenimiento menos estacional que en otras zonas costeras."
+    },
+    {
+      "title": "Diferencia de clima entre el centro urbano y la costa",
+      "body": "El casco histórico, más alejado del mar, tiene un invierno algo más fresco que Orihuela Costa. Adaptamos el calendario de mantenimiento a estas diferencias reales dentro del mismo municipio."
+    },
+    {
+      "title": "Comunicación con propietarios ausentes en la costa",
+      "body": "Muchas comunidades de Orihuela Costa tienen juntas de propietarios con miembros que no residen allí todo el año. Facilitamos la comunicación y los presupuestos a distancia."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Experiencia en las dos caras de Orihuela: casco histórico y costa",
+      "body": "Adaptamos el servicio tanto a las comunidades de uso habitual del centro como a las urbanizaciones estacionales de la costa."
+    },
+    {
+      "title": "Planes de mantenimiento para uso estacional",
+      "body": "Garantizamos que la piscina de tu urbanización en Orihuela Costa esté lista antes de los periodos de mayor ocupación."
+    },
+    {
+      "title": "Presupuesto cerrado sin sorpresas",
+      "body": "El precio que te damos es el precio final, con pieza y mano de obra incluidas."
+    },
+    {
+      "title": "Comunicación adaptada a juntas de propietarios a distancia",
+      "body": "Facilitamos la gestión con comunidades que tienen propietarios que no residen en la zona todo el año."
+    },
+    {
+      "title": "Atención en todo el municipio",
+      "body": "Resolvemos la avería con rapidez, tanto en el casco histórico como en las pedanías de la costa."
+    }
+  ],
+  "testimonialsIntro": "Así valoran nuestro servicio administradores de fincas en Orihuela.",
+  "testimonials": [
+    {
+      "name": "Vicente",
+      "neighborhood": "Casco histórico",
+      "service": "Mantenimiento anual comunidad",
+      "body": "Nuestra comunidad en el centro de Orihuela usa la piscina de forma habitual todo el año que hace buen tiempo. El servicio se ha adaptado bien a nuestro ritmo de uso, distinto al de las urbanizaciones de la costa.",
+      "rating": 5
+    },
+    {
+      "name": "Michael",
+      "neighborhood": "Playa Flamenca",
+      "service": "Puesta a punto de temporada",
+      "body": "Somos una comunidad con muchos propietarios extranjeros que solo vienen parte del año. Nos avisan y preparan la piscina antes de que lleguemos, así que siempre la encontramos lista sin tener que estar pendientes nosotros.",
+      "rating": 5
+    }
+  ],
+  "zoneText": "Atendemos comunidades, hoteles y gimnasios en todo el municipio de Orihuela, desde el casco histórico hasta las pedanías de Orihuela Costa como Playa Flamenca y Cabo Roig.",
+  "zoneNeighborhoods": [
+    "Casco histórico",
+    "Playa Flamenca",
+    "Cabo Roig",
+    "Dehesa de Campoamor",
+    "Los Dolses",
+    "La Zenia"
+  ],
+  "zoneAccessRoutes": [
+    "N-332",
+    "CV-95",
+    "AP-7",
+    "CV-905"
+  ],
+  "faqLocal": [
+    {
+      "q": "Nuestra piscina en Orihuela Costa solo se usa parte del año, ¿podéis hacer una puesta a punto antes de la temporada?",
+      "a": "Sí, ofrecemos planes de mantenimiento específicos para comunidades con uso estacional, con una puesta a punto antes de los periodos de mayor ocupación para que la piscina esté lista desde el primer día."
+    },
+    {
+      "q": "Nuestra junta de propietarios tiene miembros que no viven en España todo el año, ¿podemos gestionar el mantenimiento a distancia?",
+      "a": "Sí, tenemos experiencia trabajando con comunidades de Orihuela Costa con juntas de propietarios que residen fuera parte del año. Facilitamos presupuestos y comunicación a distancia."
+    },
+    {
+      "q": "¿Por qué el clima del centro de Orihuela es distinto al de Orihuela Costa?",
+      "a": "El casco histórico está más alejado del efecto moderador del mar, lo que provoca un invierno algo más fresco que en las pedanías costeras como Playa Flamenca o Cabo Roig. Adaptamos el calendario de mantenimiento a estas diferencias reales."
+    }
+  ],
+  "closingHeadline": "Tu piscina en Orihuela, lista todo el año",
+  "closingCta": "Si gestionas una comunidad, hotel o gimnasio en Orihuela, contacta con nosotros. Presupuesto cerrado y garantía."
+}

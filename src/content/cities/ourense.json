@@ -1,0 +1,147 @@
+{
+  "slug": "ourense",
+  "name": "Ourense",
+  "province": "Ourense",
+  "ccaa": "Galicia",
+  "population": 105233,
+  "lat": 42.33669,
+  "lng": -7.86407,
+  "metaTitle": "Mantenimiento de Piscinas para Negocios en Ourense — Red Piscina",
+  "metaDescription": "Servicio profesional de mantenimiento y reparación de piscinas para comunidades, hoteles y gimnasios en Ourense. Presupuesto cerrado y garantía. Llámanos.",
+  "heroSubtitle": "Garantiza el perfecto estado de la piscina de tu comunidad o negocio en Ourense frente a la humedad característica de Galicia interior.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "⭐",
+      "text": "Profesional certificado"
+    },
+    {
+      "icon": "⚡",
+      "text": "Respuesta rápida"
+    },
+    {
+      "icon": "📋",
+      "text": "Factura y garantía"
+    }
+  ],
+  "introLocal": "Ourense, atravesada por el río Miño y conocida por sus fuentes termales que brotan de forma natural en pleno centro urbano, tiene un clima de transición entre el Atlántico gallego y la meseta que se traduce en una humedad ambiental constante durante buena parte del año, superior a la de muchas otras capitales del interior peninsular. Esta humedad, unida a inviernos fríos con heladas frecuentes entre diciembre y febrero, exige un enfoque de mantenimiento de piscinas distinto al de zonas con clima más seco, con especial atención a la corrosión de elementos metálicos y a la aparición de moho en las zonas de borde de vaso peor ventiladas.\n\nLa ciudad, con su casco histórico dominado por la Catedral de San Martiño y el puente romano sobre el Miño, tiene un parque de comunidades de vecinos y complejos deportivos con piscina distribuidos entre el centro urbano y los barrios más modernos surgidos del crecimiento de las últimas décadas. La proximidad del río en muchas zonas de la ciudad favorece una humedad ambiental todavía mayor, un factor que muchas comunidades no tienen en cuenta al planificar el mantenimiento de su piscina, centrándose solo en el tratamiento químico del agua y descuidando la protección de la estructura frente a la humedad del entorno.\n\nEl verano ourensano, más caluroso de lo que se suele asociar con Galicia por su posición de interior alejada de la costa, hace que las piscinas comunitarias tengan una temporada de uso intensivo real, a diferencia de otras zonas gallegas de clima más fresco. Trabajamos ajustando el tratamiento del agua tanto a este calor de interior como a la humedad ambiental constante propia de la cuenca del Miño, y prestamos especial atención a la protección anticorrosión de escaleras y elementos metálicos, un factor tan determinante en Ourense como el propio frío del invierno.",
+  "servicesIntro": "Ofrecemos mantenimiento y reparación de piscinas para comunidades, hoteles y gimnasios en Ourense, adaptados al clima húmedo de Galicia interior.",
+  "processIntro": "Trabajamos con un proceso claro pensado para comunidades, hoteles y gimnasios: transparencia desde el primer contacto y mínima interferencia con el uso diario de la instalación.",
+  "processSteps": [
+    {
+      "title": "Contacto",
+      "body": "Nos cuentas el tipo de instalación (comunidad, hotel, gimnasio) y su estado actual. Programamos una visita de diagnóstico sin compromiso."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Tras la visita, te entregamos un presupuesto cerrado y detallado. El precio que ves es el que pagas, sin ampliaciones de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No empezamos ningún trabajo sin tu aprobación expresa del presupuesto y del calendario de intervención."
+    },
+    {
+      "title": "Ejecución",
+      "body": "Realizamos el mantenimiento o la reparación adaptándonos a los horarios de menor afluencia, para no interferir con el uso de la piscina."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos un informe del trabajo realizado y quedamos disponibles para el seguimiento posterior que necesites."
+    }
+  ],
+  "commonIssuesIntro": "La humedad constante del clima gallego interior y el verano más caluroso de lo esperado generan averías propias de Ourense. Estas son las que más vemos.",
+  "commonIssues": [
+    {
+      "title": "Corrosión acelerada por la humedad ambiental del Miño",
+      "body": "La proximidad del río en muchas zonas de la ciudad favorece una humedad constante que acelera el desgaste de elementos metálicos. Lo revisamos con especial atención en cada mantenimiento."
+    },
+    {
+      "title": "Moho en zonas de borde de vaso poco ventiladas",
+      "body": "El clima húmedo característico de Galicia interior favorece la aparición de moho si la instalación no está bien ventilada. Recomendamos revisiones más frecuentes que en zonas de clima seco."
+    },
+    {
+      "title": "Verano más caluroso de lo esperado por la posición de interior",
+      "body": "Ourense, al estar en el interior de Galicia, tiene un verano más caluroso que la costa gallega, lo que dispara el uso real de las piscinas comunitarias. Ajustamos el mantenimiento a esta temporada de uso intensivo."
+    },
+    {
+      "title": "Fallos de calefacción o protección en las heladas invernales",
+      "body": "Las heladas son habituales entre diciembre y febrero. Recomendamos revisar la instalación antes de que llegue esta época del año."
+    },
+    {
+      "title": "Descuido de la protección estructural frente a la humedad",
+      "body": "Muchas comunidades se centran solo en el tratamiento químico del agua y descuidan la protección de la estructura frente a la humedad ambiental. Incluimos ambos aspectos en nuestro mantenimiento."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Especialistas en la humedad de Galicia interior",
+      "body": "Sabemos que Ourense exige una protección frente a la humedad ambiental distinta a la de otras zonas de clima seco."
+    },
+    {
+      "title": "Conocemos el verano real de Ourense",
+      "body": "Sabemos que la ciudad tiene un calor de interior superior al de la costa gallega, y ajustamos el tratamiento del agua a esta realidad."
+    },
+    {
+      "title": "Presupuesto cerrado y transparente",
+      "body": "El precio que te damos es el precio final, sin sorpresas en la factura."
+    },
+    {
+      "title": "Protección estructural, no solo química",
+      "body": "Cuidamos tanto el tratamiento del agua como la protección de la instalación frente a la humedad ambiental."
+    },
+    {
+      "title": "Respuesta rápida cuando la necesitas",
+      "body": "Resolvemos la avería con rapidez, tanto en verano como frente a las heladas invernales."
+    }
+  ],
+  "testimonialsIntro": "Así valoran nuestro servicio administradores de fincas en Ourense.",
+  "testimonials": [
+    {
+      "name": "Xosé",
+      "neighborhood": "O Couto",
+      "service": "Mantenimiento anual comunidad",
+      "body": "No sabíamos que la humedad de Ourense afectaba tanto a las escaleras metálicas de la piscina hasta que nos lo explicaron. Desde que ajustaron el mantenimiento a este factor, la instalación se conserva mucho mejor.",
+      "rating": 5
+    },
+    {
+      "name": "Carmen",
+      "neighborhood": "A Ponte",
+      "service": "Revisión anticorrosión",
+      "body": "Vivimos muy cerca del Miño y la humedad siempre había sido un problema para la piscina de la comunidad. El servicio que nos dieron tiene en cuenta esto desde el principio, y se nota la diferencia.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Atendemos comunidades, hoteles y gimnasios en Ourense capital y los municipios cercanos de la provincia.",
+  "zoneNeighborhoods": [
+    "O Couto",
+    "A Ponte",
+    "Centro",
+    "Mariñamansa",
+    "Barbadás",
+    "Polvorín"
+  ],
+  "zoneAccessRoutes": [
+    "A-52",
+    "N-120",
+    "OU-540"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Por qué se oxidan tanto las escaleras de nuestra piscina en Ourense?",
+      "a": "La proximidad del río Miño y el clima húmedo característico de Galicia interior favorecen una humedad ambiental constante que acelera la corrosión de elementos metálicos. Recomendamos revisiones más frecuentes que en zonas de clima seco."
+    },
+    {
+      "q": "¿En Ourense hace tanto calor como para necesitar un mantenimiento intensivo en verano?",
+      "a": "Sí, al estar en el interior de Galicia, Ourense tiene un verano más caluroso que la costa gallega, lo que dispara el uso real de las piscinas comunitarias. Ajustamos el mantenimiento a esta temporada de uso más intensivo de lo que se suele esperar de una ciudad gallega."
+    },
+    {
+      "q": "¿Basta con tratar el agua o hay que proteger también la estructura de la piscina en Ourense?",
+      "a": "Recomendamos ambas cosas. La humedad ambiental de la zona afecta también a la estructura y a los elementos metálicos, no solo al agua, así que un mantenimiento completo debe cubrir los dos aspectos."
+    }
+  ],
+  "closingHeadline": "Tu piscina en Ourense, protegida frente a la humedad del Miño",
+  "closingCta": "Si gestionas una comunidad, hotel o gimnasio en Ourense, contacta con nosotros. Presupuesto cerrado y garantía."
+}
