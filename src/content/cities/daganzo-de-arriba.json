@@ -4,188 +4,124 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 9560,
-  "lat": 40.56253,
-  "lng": -3.43988,
-  "metaTitle": "Taller mecánico en Daganzo de Arriba — Diagnóstico y reparación",
-  "metaDescription": "Taller multimarca en Daganzo de Arriba. Presupuestos cerrados para mecánica, revisiones y pre-ITV. Entendemos tu coche y las carreteras locales. Pide cita.",
-  "heroSubtitle": "Para ti, que usas el coche a diario por la M-113 y la A-2 y necesitas que responda. Sin excusas. Sin sorpresas en la factura.",
+  "metaTitle": "Mantenimiento y reparación de piscinas en Daganzo de Arriba | Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Daganzo de Arriba. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
+  "heroSubtitle": "¿Tienes una piscina en Daganzo de Arriba y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
-    },
-    {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "text": "Todo el año"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Conducir en Daganzo de Arriba no es simplemente moverse del punto A al B. Es entender que tu coche es una herramienta de precisión sometida a un estrés constante y particular. Es la rutina diaria de coger la M-113 para incorporarse a la A-2 o la M-50, un trayecto donde la fiabilidad no es negociable. Es saber que el calor que se acumula en el asfalto del Polígono Industrial Gitesa en julio no es el mismo que el hielo que te encuentras a primera hora en invierno en cualquier calle del casco urbano. Para quien valora la mecánica y entiende su vehículo, mantenerlo en estado óptimo aquí requiere un conocimiento que va más allá del manual del fabricante. Se trata de anticipar cómo el entorno castiga a cada componente, desde los silentblocks hasta la gestión electrónica del motor, en un coche que lo mismo hace kilómetros a alta velocidad por la R-2 que callejea por Ajalvir o Cobeña.\n\nEl clima continental de esta zona del Corredor del Henares es un factor determinante y un enemigo silencioso para la mecánica. La oscilación térmica diaria y anual es extrema. En verano, el motor trabaja bajo un calor sofocante que puede superar los 40°C, poniendo a prueba cada manguito del sistema de refrigeración y forzando al compresor del aire acondicionado a funcionar sin descanso. Los plásticos interiores y los salpicaderos sufren una degradación acelerada por el sol implacable, algo visible en muchos coches que duermen en la calle. En invierno, el escenario es el opuesto: arranques en frío con temperaturas bajo cero que exigen el máximo a la batería y a los calentadores en los motores diésel, que son mayoría en el parque móvil de la zona. A esto se suma el polvo en suspensión, procedente de los campos que rodean Daganzo, que satura los filtros de aire y habitáculo mucho antes de lo que indican los intervalos de servicio oficiales.\n\nEl perfil de uso del vehículo es igualmente exigente. El conductor de Daganzo no suele hacer trayectos cortos y urbanos, sino un uso mixto intensivo. El desgaste del embrague se acelera en las retenciones matutinas para acceder a Madrid, mientras que el sistema de frenos y la suspensión se fatigan tanto en las curvas de la carretera hacia Paracuellos de Jarama como en los innumerables badenes de las nuevas zonas residenciales. El parque automovilístico local, con una edad media que supera los diez años, está dominado por mecánicas diésel probadas —TDI, HDI, dCi— que requieren un mantenimiento específico para sistemas como la válvula EGR o el filtro de partículas (FAP), muy sensibles a los patrones de conducción de un 'pueblo dormitorio'. Un mantenimiento genérico no es suficiente; se necesita un enfoque que considere si el coche circula principalmente por la M-100 o si realiza trayectos cortos hasta el colegio.\n\nPor eso, nuestro enfoque de trabajo se basa en el diagnóstico y la transparencia. No cambiamos piezas por cambiar. Analizamos el problema desde la raíz, entendiendo cómo el uso específico que le das a tu coche en el entorno de Daganzo ha podido causar la avería. Cuando te entregamos un presupuesto, es cerrado y detallado. Te explicamos qué vamos a hacer y por qué, usando un lenguaje técnico pero comprensible. Sabemos que tu tiempo es limitado y que necesitas tu vehículo para trabajar o para tu vida familiar. Nuestro objetivo es que vuelvas a la carretera con la certeza de que tu coche ha sido tratado por profesionales que conocen tan bien la mecánica como las carreteras por las que circulas cada día.",
-  "servicesIntro": "Realizamos desde la revisión oficial hasta la diagnosis electrónica más compleja, con un enfoque específico para los coches que circulan por Daganzo y el Corredor del Henares.",
-  "processIntro": "Trabajamos con un método claro y honesto en cinco pasos. Sabrás en todo momento qué le pasa a tu coche, cuánto cuesta y solo actuaremos con tu aprobación.",
+  "introLocal": "En Daganzo de Arriba, con el calor seco y extremo del verano madrileño, el mayor reto para una piscina es mantener el agua en condiciones pese a la evaporación y al consumo acelerado de cloro por la fuerte radiación solar. Ajustamos los sistemas de dosificación automática para reducir el mantenimiento manual en los meses de más calor.\n\nLa dureza del agua en buena parte de la Comunidad de Madrid es uno de los factores que más acorta la vida útil de depuradoras y cloradores salinos si no se hace un mantenimiento adecuado. Recomendamos equipos con función de autolimpieza y un control periódico del pH para minimizar este efecto.",
+  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Daganzo de Arriba, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
+  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos los síntomas que describes y realizamos una inspección técnica completa. Conectamos nuestros equipos de diagnosis para obtener un mapa preciso del estado electrónico y mecánico de tu vehículo, sin especulaciones."
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico en mano, elaboramos un presupuesto detallado y sin sorpresas. Especifica la mano de obra, las piezas necesarias (calidad original o equivalente) y el IVA. Lo que ves es lo que pagas."
+      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "Te llamamos y explicamos el presupuesto punto por punto. No movemos una sola tuerca ni pedimos una sola pieza sin tu confirmación explícita. Tienes el control total sobre la reparación de tu coche."
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Nuestros técnicos ejecutan la reparación siguiendo los estándares del fabricante. Utilizamos recambios con garantía y te mantenemos informado si surgiera cualquier imprevisto, aunque nuestro diagnóstico inicial busca evitarlo."
+      "title": "Ejecución profesional",
+      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, contactamos contigo para confirmar que todo funciona a la perfección y tu satisfacción es completa."
+      "title": "Seguimiento y garantía",
+      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
     }
   ],
-  "commonIssuesIntro": "El clima extremo y el uso intensivo en las carreteras de Daganzo y sus alrededores provocan una serie de averías recurrentes que conocemos bien y sabemos cómo solucionar de raíz.",
+  "commonIssuesIntro": "El clima y las condiciones del agua en Daganzo de Arriba generan averías características en las piscinas de la zona. Estas son las que más vemos.",
   "commonIssues": [
     {
-      "title": "Fallo del sistema de climatización",
-      "body": "El verano en Daganzo pone al límite el A/C. Las altas temperaturas fuerzan al compresor y pueden provocar fugas en un circuito debilitado por los años. Diagnosticamos el problema real, ya sea una fuga, un fallo del compresor o un problema eléctrico, para que no pases calor en los atascos de la A-2."
+      "title": "Daños por heladas mal prevenidas",
+      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
     },
     {
-      "title": "Desgaste prematuro de embrague",
-      "body": "La combinación de recorridos por el pueblo con el tráfico denso de la M-113 y la M-50 para ir a Madrid es la receta perfecta para acortar la vida del embrague. Si notas que el pedal está duro o que el coche patina al acelerar, es hora de una revisión antes de que te deje tirado."
+      "title": "Agua turbia por el calor seco del verano",
+      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
     },
     {
-      "title": "Problemas de arranque en invierno",
-      "body": "Con temperaturas que bajan de cero, las baterías con varios años sufren y los calentadores en los motores diésel son cruciales. Un fallo en cualquiera de ellos significa que el coche no arrancará. Verificamos el estado de todo el sistema de arranque para asegurar la fiabilidad en las mañanas más frías de Daganzo."
+      "title": "Depuradoras que fallan en pleno verano",
+      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
     },
     {
-      "title": "Obstrucción de filtros de aire y FAP",
-      "body": "El polvo de los campos agrícolas que nos rodean y el polen en primavera saturan el filtro de aire, afectando al rendimiento y consumo. En los diésel, los trayectos cortos para recados por el pueblo impiden la correcta regeneración del filtro de partículas (FAP), provocando averías costosas que podemos prevenir."
+      "title": "Filtros de arena calcificados",
+      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
     },
     {
-      "title": "Holguras en suspensión y dirección",
-      "body": "El paso constante por badenes en las urbanizaciones y el estado variable de algunas carreteras comarcales como la M-118 hacia Alcalá, castigan silentblocks, rótulas y amortiguadores. Ruidos, imprecisión en la dirección o desgaste irregular de neumáticos son síntomas claros de que algo necesita atención."
+      "title": "Fugas difíciles de localizar",
+      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico, no adivinación",
-      "body": "Invertimos en equipos de diagnosis y en formación para encontrar la causa raíz del problema. No cambiamos piezas hasta estar seguros, ahorrándote tiempo y dinero."
+      "title": "Diagnóstico técnico honesto",
+      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
     },
     {
-      "title": "Presupuestos sin letra pequeña",
-      "body": "Nuestro presupuesto es una propuesta cerrada. El importe que apruebas es el que pagas. Si durante la reparación surge un imprevisto (algo poco común), paramos y te consultamos."
+      "title": "Adaptado al clima y al agua de tu zona",
+      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
     },
     {
-      "title": "Conocemos tu entorno",
-      "body": "Entendemos por qué un coche de Daganzo sufre de una manera particular. Este conocimiento local nos permite hacer un mantenimiento preventivo más inteligente y eficaz."
+      "title": "Presupuestos cerrados",
+      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
     },
     {
-      "title": "Comunicación clara y directa",
-      "body": "Te explicamos las averías sin tecnicismos innecesarios. Queremos que entiendas qué le ocurre a tu coche y por qué recomendamos una reparación concreta. Valoramos tu confianza."
+      "title": "Equipo técnico propio",
+      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
     },
     {
-      "title": "Garantía total en reparaciones",
-      "body": "Todo nuestro trabajo, tanto en mano de obra como en piezas, está garantizado por escrito. Respondemos por lo que hacemos, ofreciéndote total tranquilidad tras pasar por nuestro taller."
+      "title": "Disponibilidad en temporada alta",
+      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
     }
   ],
-  "testimonialsIntro": "Estos son ejemplos de situaciones reales que atendemos cada día en nuestro taller, reflejando las experiencias de conductores como tú en nuestra zona.",
-  "testimonials": [
-    {
-      "name": "José",
-      "neighborhood": "Daganzo Casco",
-      "car": "Volkswagen Passat 2.0 TDI 2013",
-      "body": "Hago Daganzo-Madrid por la A-2 a diario. El coche empezó a dar tirones y a perder fuerza. En el taller diagnosticaron un problema con la EGR, algo típico por lo visto en este uso. Me explicaron la avería, me dieron un presupuesto cerrado y lo solucionaron rápido. Ahora el coche va fino otra vez. Se nota que saben lo que tocan.",
-      "rating": 5
-    },
-    {
-      "name": "Laura",
-      "neighborhood": "Ajalvir",
-      "car": "Nissan Qashqai 1.5 dCi 2016",
-      "body": "Uso el coche para todo: llevar a los niños, la compra, escapadas de fin de semana... Notaba un ruido raro al frenar. Pensé que sería una fortuna. Lo llevé y me dijeron que eran solo las pastillas traseras. Fueron honestos, podrían haber intentado cambiar también los discos. El presupuesto, clavado. Buen servicio.",
-      "rating": 5
-    },
-    {
-      "name": "Carlos",
-      "neighborhood": "Polígono Industrial Gitesa",
-      "car": "Citroën Berlingo 1.6 HDI 2018",
-      "body": "Mi furgoneta es mi oficina. El embrague empezó a patinar y no podía permitirme tenerla parada. Me entendieron perfectamente, me dieron prioridad y cumplieron el plazo que me dijeron. El precio fue el pactado desde el principio. Muy profesionales, para un autónomo eso es oro.",
-      "rating": 5
-    },
-    {
-      "name": "Marta",
-      "neighborhood": "Cobeña",
-      "car": "Renault Clio 0.9 TCe 2017",
-      "body": "En pleno julio, el aire acondicionado dejó de enfriar. Con el calor que hace por aquí, era insoportable. Me lo miraron, encontraron una pequeña fuga en un conducto y lo recargaron. No intentaron venderme un compresor nuevo ni nada raro. El trato fue muy correcto y el precio razonable. Volveré para la revisión.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Nuestro taller en Daganzo de Arriba da servicio a toda la zona noreste del Corredor del Henares. Si vives o trabajas en Daganzo, Ajalvir, Cobeña o Paracuellos de Jarama, estamos a pocos minutos. También cubrimos municipios cercanos como Fresno de Torote y Valdeavero. Nuestra ubicación es de fácil acceso desde las vías principales que vertebran la comarca. Puedes llegar cómodamente a través de la M-113, que conecta directamente con la A-2, o por la M-100 si vienes desde la zona de Alcalá de Henares o San Sebastián de los Reyes. El acceso a la M-50 y la R-2 también es rápido, lo que nos convierte en una opción conveniente para cualquier conductor que se mueva por este eje de Madrid.",
-  "zoneNeighborhoods": [
-    "Daganzo de Arriba",
-    "Ajalvir",
-    "Cobeña",
-    "Paracuellos de Jarama",
-    "Fresno de Torote",
-    "Valdeavero",
-    "Polígono Industrial Gitesa",
-    "Polígono Industrial de Ajalvir",
-    "Miramadrid (Paracuellos)",
-    "Polígono Industrial Las Matillas (Alcalá)"
-  ],
-  "zoneAccessRoutes": [
-    "A-2 (Autovía de Aragón)",
-    "M-50 (Circunvalación de Madrid)",
-    "M-113 (Carretera de Daganzo)",
-    "M-100 (Carretera de la Presa)",
-    "R-2 (Autopista Radial 2)"
-  ],
+  "zoneText": "Damos servicio a Daganzo de Arriba y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
   "faqLocal": [
     {
-      "q": "¿La revisión pre-ITV que hacéis está adaptada a la estación de ITV de Alcalá de Henares?",
-      "a": "Sí, completamente. Conocemos los puntos que los inspectores de la ITV de Alcalá y Guadalajara revisan con más atención. Nuestra pre-ITV no es un simple chequeo de luces y neumáticos; es una inspección a fondo de los elementos que suelen generar más rechazos en nuestra zona, como la opacidad en los diésel o el estado de los silentblocks, asegurando que vayas con la máxima garantía de pasarla a la primera."
+      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Daganzo de Arriba?",
+      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
     },
     {
-      "q": "Mi coche diésel duerme en la calle en Daganzo. ¿Qué mantenimiento extra necesita para el invierno?",
-      "a": "Es una pregunta clave. El frío intenso de Daganzo afecta mucho a los diésel. Recomendamos una comprobación del estado de la batería antes de que llegue el frío, ya que es el componente que más sufre. También es vital verificar el correcto funcionamiento de los calentadores y usar un gasóleo de buena calidad que no se solidifique. Un anticongelante con el punto de congelación adecuado es, por supuesto, imprescindible."
+      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
+      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
     },
     {
-      "q": "Voy y vuelvo a diario a Madrid por la A-2, ¿qué componentes del coche sufren más?",
-      "a": "Ese trayecto implica un uso intensivo de motor a altas revoluciones y frenadas constantes en atascos. Los componentes que más se resienten son el sistema de refrigeración, los frenos, el embrague y el filtro de partículas (FAP) en los diésel. Recomendamos acortar ligeramente los intervalos de cambio de aceite y revisar con más frecuencia el estado de pastillas y discos de freno."
+      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
+      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
     },
     {
-      "q": "En agosto el aire acondicionado de mi coche no enfría como debería, ¿es normal por el calor de aquí?",
-      "a": "Aunque el rendimiento baja con calor extremo, no es normal que deje de enfriar de forma notable. Puede ser síntoma de falta de gas por una pequeña fuga, un filtro de habitáculo sucio que obstruye el flujo de aire o un problema en el compresor. Con el calor de Daganzo en verano, tener el A/C al 100% es una necesidad, no un lujo. Conviene revisarlo."
+      "q": "¿El agua de mi zona es muy dura para la piscina?",
+      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
     },
     {
-      "q": "Vivo en una urbanización con muchas cuestas y badenes, ¿cómo afecta a mi coche?",
-      "a": "Afecta directamente a tres sistemas: frenos, por el uso constante en pendientes; embrague, por los arranques en cuesta; y suspensión (amortiguadores, silentblocks, rótulas), por los badenes. Es muy probable que estos elementos sufran un desgaste superior a la media. Es aconsejable una revisión anual del tren de rodaje para evitar holguras y problemas de seguridad."
-    },
-    {
-      "q": "A menudo paso por caminos de tierra cerca de Fresno de Torote. ¿Debo hacer algún mantenimiento especial?",
-      "a": "Sí. El polvo es el principal enemigo. El filtro de aire del motor se saturará mucho más rápido, lo que aumenta el consumo y reduce el rendimiento. Recomendamos revisarlo y cambiarlo con más frecuencia de la que indica el fabricante. También la suspensión y los bajos del coche sufren más, por lo que una inspección visual en cada revisión es muy importante."
-    },
-    {
-      "q": "¿El presupuesto cerrado cubre también averías electrónicas complejas?",
-      "a": "Sí. Nuestro proceso es el mismo. La primera fase es el diagnóstico, que en averías electrónicas es más largo y tiene un coste inicial que te comunicamos. Una vez identificada la centralita o el sensor afectado, te damos un presupuesto cerrado para su reparación o sustitución. Nunca procederemos con una reparación costosa sin tu aprobación explícita."
-    },
-    {
-      "q": "Necesito el coche para trabajar. ¿Tenéis coche de cortesía en vuestro taller de Daganzo?",
-      "a": "Sí, disponemos de vehículos de cortesía para nuestros clientes. Entendemos que en una localidad como Daganzo el coche es indispensable. Este servicio está sujeto a disponibilidad y se asigna principalmente para reparaciones de más de una jornada. Te recomendamos solicitarlo al pedir tu cita para poder garantizar su reserva y que no te quedes parado."
+      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
+      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
     }
   ],
-  "closingHeadline": "Tu coche a punto en Daganzo de Arriba",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos por WhatsApp para concertar una cita y deja que cuidemos de tu coche como se merece aquí, en Daganzo."
+  "closingHeadline": "Tu piscina en Daganzo de Arriba, sin sorpresas",
+  "closingCta": "Si tienes una piscina en Daganzo de Arriba y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
 }
