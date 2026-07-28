@@ -4,178 +4,120 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 10877,
-  "lat": 41.56667,
-  "lng": 2.48333,
-  "metaTitle": "Taller mecánico en Sant Andreu de Llavaneres | Multimarca",
-  "metaDescription": "Tu taller de confianza en Llavaneres. Presupuesto cerrado para revisiones, averías y neumáticos. Cuidamos tu coche para la C-32 y la ITV. Pide cita.",
-  "heroSubtitle": "Cansado de no saber cuánto te costará la reparación en Llavaneres? Te damos un presupuesto cerrado antes de empezar. Sin sorpresas.",
+  "metaTitle": "Mantenimiento y reparación de piscinas en Sant Andreu de Llavaneres | Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Sant Andreu de Llavaneres. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
+  "heroSubtitle": "¿Tienes una piscina en Sant Andreu de Llavaneres y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏊",
+      "text": "Profesionales de piscinas"
+    },
+    {
+      "icon": "📅",
+      "text": "Disponibilidad en temporada alta"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
-    },
-    {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "text": "Todo el año"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Conducir por Sant Andreu de Llavaneres no es lo mismo que hacerlo por el interior. Aquí, tu coche se enfrenta cada día a un cóctel de salitre, humedad, cuestas pronunciadas y trayectos que combinan la alta velocidad de la autopista C-32 con el tráfico denso de la N-II en verano. En nuestro taller, entendemos estas particularidades porque también las vivimos. Sabemos lo que implica usar el coche para bajar a Mataró a diario, subir a las urbanizaciones de Rocaferrera o Bell-Aire, o simplemente para hacer recados por el centro. Por eso, nuestro enfoque no es genérico; es un servicio pensado para el parque móvil del Maresme, desde un Volkswagen Golf para el día a día hasta un Mercedes GLC para los viajes de fin de semana.\n\nEl clima mediterráneo costero, aunque agradable para vivir, es exigente con la mecánica. La brisa marina, cargada de sal, acelera la corrosión en los bajos del coche, en los discos de freno y en los componentes metálicos del motor. No es un mito, es una realidad que vemos cada vez que un coche de Llavaneres, Sant Vicenç de Montalt o Caldes d'Estrac sube a nuestro elevador. Esta oxidación puede ser un motivo de rechazo en la ITV y, más importante, un riesgo para tu seguridad. Por ello, nuestras revisiones pre-ITV ponen un foco especial en detectar y tratar estos puntos débiles antes de que se conviertan en un problema serio o en una reparación costosa.\n\nEl tipo de conducción en nuestra zona también deja su huella. Los trayectos cortos y frecuentes para ir al Port Balís, al Club de Golf Llavaneres o al supermercado son el escenario perfecto para que los filtros de partículas de los coches diésel se obstruyan. Por otro lado, la necesidad de coger la C-32 para ir a Barcelona o la AP-7 para viajar más lejos somete a los neumáticos y a la suspensión a un estrés constante. Un mal alineado o unos amortiguadores en mal estado no solo aumentan el consumo, sino que comprometen la estabilidad del coche a alta velocidad. Conocemos el equilibrio que necesita tu vehículo para rendir bien tanto en las curvas de la carretera de Mata como en las rectas de la autopista.\n\nEn Llavaneres y sus alrededores vemos una gran variedad de vehículos. Desde los prácticos SEAT Ateca y Peugeot 3008, ideales para las familias, hasta berlinas y SUV de marcas como Audi, BMW o Volvo, muy comunes en la zona. Nuestra filosofía es clara: tratar cada coche con el conocimiento específico que requiere su marca y modelo. Disponemos de la tecnología de diagnosis electrónica para comunicarnos con la centralita de cualquier vehículo, ya sea un Ford Focus con diez años o un Audi Q5 recién salido de la garantía. No importa qué coche conduzcas; para nosotros, lo importante es que funcione de forma segura y fiable por las carreteras del Maresme.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu coche necesita para circular con seguridad por Llavaneres, la C-32 y las carreteras del Maresme.",
-  "processIntro": "Trabajamos con transparencia total. Te explicamos qué le pasa a tu coche, te damos un presupuesto cerrado y no hacemos nada sin tu aprobación.",
+  "introLocal": "Sant Andreu de Llavaneres, en plena comarca del Maresme, combina el clima suave de la costa catalana con una alta densidad de viviendas unifamiliares con piscina, sobre todo en las zonas más alejadas del núcleo urbano. La proximidad al mar es una ventaja para el clima, pero también un desafío técnico: la brisa marina cargada de sal acelera la corrosión de escaleras, barandillas y carcasas metálicas de las depuradoras peor protegidas. En las viviendas más próximas al litoral prestamos especial atención a estos elementos en cada revisión.\n\nEl verano en el Maresme es largo y húmedo, lo que exige un tratamiento del agua constante para evitar algas y turbidez. Muchas piscinas de la zona, construidas hace décadas, siguen teniendo gresite y depuradoras poco eficientes: renovar el sistema de filtración con una bomba de velocidad variable suele ser la mejora que más se nota, tanto en la factura eléctrica como en la calidad del agua.",
+  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Sant Andreu de Llavaneres, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
+  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que te preocupa y conectamos nuestros equipos de diagnosis para identificar la avería con precisión. Analizamos el problema a fondo para entender no solo el síntoma, sino la causa raíz."
+      "title": "Visita de valoración",
+      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos por WhatsApp o email un presupuesto detallado y sin sorpresas. Incluye piezas, mano de obra e IVA. Lo que ves es lo que pagas, ni un euro más. Sin letra pequeña."
+      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "Revisa el presupuesto con calma. No tocaremos ni un solo tornillo de tu coche hasta que nos des tu confirmación explícita. Tú tienes siempre el control total sobre la reparación."
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan el trabajo siguiendo las especificaciones del fabricante para asegurar un resultado óptimo y duradero. Te mantenemos informado del proceso."
+      "title": "Ejecución profesional",
+      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, te contactamos para confirmar que todo funciona perfectamente y estás satisfecho."
+      "title": "Seguimiento y garantía",
+      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
     }
   ],
-  "commonIssuesIntro": "El salitre del mar, las cuestas de Llavaneres y los trayectos por la C-32 y la N-II provocan un desgaste específico en los coches del Maresme que conocemos bien.",
+  "commonIssuesIntro": "El clima y las condiciones del agua en Sant Andreu de Llavaneres generan averías características en las piscinas de la zona. Estas son las que más vemos.",
   "commonIssues": [
     {
-      "title": "Óxido y corrosión por el ambiente marino",
-      "body": "La salinidad del aire en Llavaneres ataca silenciosamente los bajos, el sistema de escape y los conductos de freno de tu coche. Es un problema común en toda la costa del Maresme que puede causar fallos graves en la ITV y comprometer la seguridad. Realizamos inspecciones a fondo y aplicamos tratamientos preventivos para proteger tu vehículo."
+      "title": "Corrosión en escaleras y elementos metálicos",
+      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
     },
     {
-      "title": "Desgaste prematuro de frenos y embrague",
-      "body": "Las cuestas de las urbanizaciones como Rocaferrera o Supermaresme, combinadas con el tráfico intermitente de la N-II en verano, fuerzan constantemente los frenos y el embrague. Si notas que el pedal de embrague está duro o que el coche frena menos, es hora de una revisión. Cambiamos pastillas, discos y kits de embrague para devolverte la seguridad."
+      "title": "Agua turbia en pleno verano",
+      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
     },
     {
-      "title": "Averías en el sistema de aire acondicionado",
-      "body": "En los veranos húmedos y calurosos del Maresme, el aire acondicionado no es un lujo, es una necesidad. Un sistema que no enfría lo suficiente puede deberse a una fuga de gas o a un fallo del compresor. Hacemos diagnósticos precisos, recargas de gas y reparaciones para que conduzcas fresco incluso en plena ola de calor."
+      "title": "Depuradoras que fallan en temporada alta",
+      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
     },
     {
-      "title": "Obstrucción del filtro de partículas (DPF)",
-      "body": "Muchos diésel en Llavaneres se usan para trayectos cortos: llevar a los niños al colegio, ir a comprar... Este uso impide que el filtro de partículas se regenere correctamente, provocando averías y pérdida de potencia. Realizamos limpiezas y regeneraciones forzadas para evitar una sustitución mucho más cara."
+      "title": "Fugas de agua difíciles de localizar",
+      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
     },
     {
-      "title": "Desgaste irregular de neumáticos y problemas de suspensión",
-      "body": "La combinación de rotondas, badenes y la alta velocidad en la C-32 puede desalinear la dirección y desgastar los amortiguadores. Esto provoca que los neumáticos se gasten de forma desigual, reduciendo su vida útil y la seguridad. Un buen alineado y una suspensión en forma son claves para la estabilidad de tu coche."
+      "title": "Filtros de arena con menos rendimiento por la cal",
+      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos los coches del Maresme",
-      "body": "Sabemos cómo el salitre, la humedad y las carreteras locales afectan a tu vehículo. Nuestro mantenimiento está adaptado a las condiciones reales de Sant Andreu de Llavaneres."
+      "title": "Diagnóstico técnico honesto",
+      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
     },
     {
-      "title": "Presupuesto honesto y cerrado",
-      "body": "El precio que te damos es el que pagas. Sin sorpresas, sin añadidos de última hora. Creemos en la transparencia como base de la confianza."
+      "title": "Adaptado al clima y al agua de tu zona",
+      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
     },
     {
-      "title": "Tecnología para todas las marcas",
-      "body": "Desde un SEAT a un Mercedes, tenemos el equipo de diagnosis y la experiencia para tratar con la electrónica y la mecánica de tu coche, sea cual sea su marca."
+      "title": "Presupuestos cerrados",
+      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
     },
     {
-      "title": "Trato directo y personal",
-      "body": "Hablarás directamente con el mecánico que revisa tu coche. Te explicaremos las cosas de forma clara y sencilla, sin tecnicismos innecesarios."
+      "title": "Equipo técnico propio",
+      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
     },
     {
-      "title": "Pasión por el motor",
-      "body": "Nos gustan los coches y disfrutamos con nuestro trabajo. Esa pasión se traduce en un cuidado por el detalle y en la búsqueda de la mejor solución para ti y tu vehículo."
+      "title": "Disponibilidad en temporada alta",
+      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
     }
   ],
-  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que resolvemos cada día en nuestro taller de Llavaneres.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "Rocaferrera",
-      "car": "Audi A4 Avant 2018",
-      "body": "Notaba un ruido metálico al subir la cuesta hacia casa. En otros sitios me daban largas. Aquí lo subieron al elevador al momento y vieron que una chapa del escape estaba medio suelta por el óxido. Me lo soldaron en un rato y el presupuesto fue exactamente el que me dijeron. Muy profesionales y honestos.",
-      "rating": 5
-    },
-    {
-      "name": "Montserrat",
-      "neighborhood": "Centro",
-      "car": "VW Tiguan 2016",
-      "body": "El coche me dejó tirada en la N-II. Les llamé y me ayudaron a gestionar la grúa. El diagnóstico fue rápido: un problema con el alternador. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial, y en dos días lo tenía listo. El trato fue excelente, te mantienen informada de todo.",
-      "rating": 5
-    },
-    {
-      "name": "Anna",
-      "neighborhood": "Sant Vicenç de Montalt",
-      "car": "SEAT Ateca 2019",
-      "body": "Tenía que pasar la ITV en Mataró y siempre me pongo nerviosa. Les pedí una revisión pre-ITV y me encontraron una bombilla de freno fundida y las ruedas delanteras algo bajas de presión. Lo solucionaron en el momento. El coche pasó la ITV a la primera. Me ahorraron un segundo viaje y muchos nervios.",
-      "rating": 5
-    },
-    {
-      "name": "Marc",
-      "neighborhood": "El Balís",
-      "car": "BMW Serie 1 2015",
-      "body": "El aire acondicionado no enfriaba nada, y con el calor del verano era imposible coger el coche. Me comprobaron el circuito, encontraron una pequeña fuga y lo repararon. Ahora enfría perfectamente. El precio me pareció correcto por el trabajo que hicieron. Quizás tardaron un día más de lo previsto, pero el resultado es bueno.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Nuestro taller en Sant Andreu de Llavaneres da servicio a toda la zona norte del Maresme. Si vives en el propio Llavaneres, en urbanizaciones como Supermaresme, Rocaferrera o Bell-Aire, estamos a pocos minutos. También somos el taller de confianza para muchos conductores de municipios vecinos como Sant Vicenç de Montalt y Caldes d'Estrac (Caldetes), que valoran nuestro trato cercano y profesional. Gracias a nuestro fácil acceso desde la carretera N-II y la autopista C-32, muchos clientes de Arenys de Mar, Arenys de Munt e incluso de los barrios del norte de Mataró, como Vista Alegre o Can Quirze, nos eligen para el mantenimiento de sus vehículos. Si te mueves por el Maresme, estamos en tu camino.",
-  "zoneNeighborhoods": [
-    "Sant Andreu de Llavaneres",
-    "Sant Vicenç de Montalt",
-    "Caldes d'Estrac",
-    "Arenys de Mar",
-    "Arenys de Munt",
-    "Canet de Mar",
-    "Rocaferrera",
-    "Supermaresme",
-    "El Balís",
-    "Mataró (zona norte)"
-  ],
-  "zoneAccessRoutes": [
-    "C-32 (Autopista del Maresme)",
-    "N-II",
-    "C-60 (Carretera de la Roca)"
-  ],
+  "zoneText": "Damos servicio a Sant Andreu de Llavaneres y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
   "faqLocal": [
     {
-      "q": "¿Realmente afecta tanto el clima del Maresme a mi coche?",
-      "a": "Sí, y mucho más de lo que parece. La combinación de salitre y humedad acelera la corrosión de partes metálicas que no están a la vista, como los bajos, el sistema de escape o los conductos de freno. Un coche en Llavaneres requiere una vigilancia de estos componentes más estricta que uno en Vic, por ejemplo. En nuestras revisiones siempre lo tenemos en cuenta."
+      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Sant Andreu de Llavaneres?",
+      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
     },
     {
-      "q": "Tengo un coche de alta gama (Audi/BMW/Mercedes), ¿tenéis la máquina de diagnosis correcta?",
-      "a": "Por supuesto. Contamos con equipos de diagnosis multimarca de última generación compatibles con la gran mayoría de vehículos del mercado, incluyendo las marcas premium alemanas. Podemos leer y borrar fallos, programar componentes y realizar los mismos ajustes que en un servicio oficial, pero con un trato más cercano y un presupuesto más competitivo."
+      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
+      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
     },
     {
-      "q": "Vivo en Sant Vicenç de Montalt, ¿puedo llevaros el coche?",
-      "a": "Claro que sí. De hecho, muchos de nuestros clientes son de Sant Vicenç, Caldetes o Arenys. Nuestra ubicación es muy accesible desde los pueblos vecinos, ya sea por la N-II o por las carreteras locales. Tardarás apenas unos minutos en llegar. Siempre serás bienvenido, vengas de donde vengas del Maresme."
+      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
+      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
     },
     {
-      "q": "Mi diésel hace trayectos cortos por Llavaneres, ¿qué mantenimiento especial necesita?",
-      "a": "Es una consulta muy habitual. Los diésel modernos con filtro de partículas (DPF) sufren mucho con los trayectos cortos, ya que no alcanzan la temperatura para autolimpiarse. Te recomendamos que, al menos una vez por semana, salgas a la C-32 y conduzcas unos 15-20 minutos a un régimen de revoluciones más alto (unas 2.500 rpm) para forzar la regeneración. Además, en el taller podemos hacer limpiezas preventivas."
-    },
-    {
-      "q": "¿Cómo preparáis el coche para la ITV de Mataró?",
-      "a": "Nuestra revisión pre-ITV es exhaustiva. Comprobamos todos los puntos que miran en la estación de Mataró: luces, frenos, suspensión, neumáticos, emisiones de gases y, muy importante en esta zona, buscamos posibles puntos de óxido o corrosión grave en el chasis. Si detectamos algo, te avisamos y te damos presupuesto para solucionarlo antes de que vayas, ahorrándote un rechazo y un segundo viaje."
-    },
-    {
-      "q": "Voy a hacer un viaje largo por la AP-7, ¿qué revisión recomendáis?",
-      "a": "Para un viaje largo, la seguridad es lo primero. Recomendamos una revisión de los cinco puntos clave: niveles de líquidos (aceite, refrigerante, frenos), estado y presión de los neumáticos (incluida la rueda de repuesto), funcionamiento de todas las luces, estado de las pastillas y discos de freno, y el estado de las escobillas de los limpiaparabrisas. Es una revisión rápida que te da una gran tranquilidad en la carretera."
+      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
+      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Llavaneres",
-  "closingCta": "No dejes que una pequeña avería se convierta en un gran problema. Pide tu cita en nuestro taller de Sant Andreu de Llavaneres por teléfono, WhatsApp o email y conduce con total tranquilidad."
+  "closingHeadline": "Tu piscina en Sant Andreu de Llavaneres, sin sorpresas",
+  "closingCta": "Si tienes una piscina en Sant Andreu de Llavaneres y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
 }
