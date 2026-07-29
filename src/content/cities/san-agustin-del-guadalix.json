@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 13273,
-  "metaTitle": "Mantenimiento y reparación de piscinas en San Agustín del Guadalix | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en San Agustín del Guadalix. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en San Agustín del Guadalix y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en San Agustín del Guadalix",
+  "metaDescription": "Mantenimiento y reparación de piscinas para chalets, urbanizaciones y negocios en San Agustín del Guadalix. Presupuesto cerrado, sin sorpresas.",
+  "heroSubtitle": "Cuida la piscina de tu chalet o urbanización en San Agustín del Guadalix con un servicio técnico de confianza.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En San Agustín del Guadalix, con el calor seco y extremo del verano madrileño, el mayor reto para una piscina es mantener el agua en condiciones pese a la evaporación y al consumo acelerado de cloro por la fuerte radiación solar. Ajustamos los sistemas de dosificación automática para reducir el mantenimiento manual en los meses de más calor.\n\nLa dureza del agua en buena parte de la Comunidad de Madrid es uno de los factores que más acorta la vida útil de depuradoras y cloradores salinos si no se hace un mantenimiento adecuado. Recomendamos equipos con función de autolimpieza y un control periódico del pH para minimizar este efecto.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en San Agustín del Guadalix, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "San Agustín del Guadalix, en la sierra norte de Madrid, tiene un clima continental más marcado que el de la capital: las noches de invierno son especialmente frías, con heladas habituales por la altitud, mientras que los veranos son calurosos y secos durante el día pero con un notable descenso térmico al anochecer. En un municipio con un peso importante de urbanizaciones de chalets con piscina propia, este contraste térmico tiene un efecto directo sobre el mantenimiento durante todo el año.\n\nEl perfil de vivienda unifamiliar, muy presente en San Agustín del Guadalix, hace que buena parte de las piscinas sean de uso privado y estacional, abiertas sobre todo entre junio y septiembre. La sierra próxima aporta noches frescas incluso en pleno verano, lo que modera algo el consumo de cloro respecto a zonas más urbanas de Madrid, pero no elimina el riesgo de agua turbia tras días de mucho uso familiar o de visitas. Y cuando llega el frío, las heladas propias de la sierra exigen un invernaje cuidadoso, porque aquí el termómetro baja con más facilidad que en el centro de la región.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación e invernaje para piscinas de chalets, urbanizaciones y negocios en San Agustín del Guadalix.",
+  "processIntro": "Un proceso sencillo y transparente, pensado para propietarios de chalets y comunidades de la zona.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas qué necesitas",
+      "body": "Nos explicas el estado de tu piscina y el uso que le das, ya sea en un chalet particular o en una urbanización de San Agustín del Guadalix."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te preparamos una propuesta clara con el precio final, sin cargos añadidos ni sorpresas de última hora."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmas y coordinamos fecha",
+      "body": "Con tu aprobación, fijamos el día de la intervención según tu disponibilidad."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Trabajo en tu piscina",
+      "body": "Ejecutamos el servicio acordado con cuidado del entorno de tu chalet o comunidad."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Revisión final",
+      "body": "Comprobamos que todo funciona correctamente y te dejamos indicaciones para el cuidado hasta la próxima visita."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en San Agustín del Guadalix generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El contraste entre los días calurosos y las noches frías de la sierra norte genera incidencias particulares en las piscinas de San Agustín del Guadalix.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Heladas tempranas por altitud",
+      "body": "La sierra norte enfría antes que el centro de Madrid, y un invernaje tardío puede coincidir con las primeras heladas. Recomendamos adelantar esta tarea respecto a otras zonas de la región."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Agua turbia tras uso familiar intenso",
+      "body": "En fines de semana con muchas visitas, el pH se desequilibra con rapidez. Ajustamos el tratamiento para devolver la claridad al agua sin necesidad de vaciar la piscina."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Suciedad por entorno rural y arbolado",
+      "body": "La proximidad de zonas verdes y campo hace que hojas y polen se acumulen con facilidad en el vaso. Reforzamos la limpieza de skimmers y fondo en las épocas de mayor caída de hojas."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Fugas en piscinas de chalet más antiguas",
+      "body": "Muchas viviendas unifamiliares de la zona tienen piscinas con años de antigüedad. Detectamos y reparamos fugas en juntas y tuberías antes de que se conviertan en un problema mayor."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocemos la sierra norte de Madrid",
+      "body": "Sabemos que el frío llega antes aquí que en la capital, y adaptamos el calendario de invernaje a esa realidad."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos cerrados para chalets",
+      "body": "Ofrecemos precios claros desde el primer momento, sin ampliaciones inesperadas durante el trabajo."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Atención a urbanizaciones y particulares",
+      "body": "Trabajamos tanto con comunidades de urbanización como con propietarios individuales de chalet."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Desplazamiento sin complicaciones",
+      "body": "Nos organizamos para llegar a San Agustín del Guadalix sin retrasos, incluso en las zonas más alejadas del núcleo urbano."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Seguimiento cercano",
+      "body": "El mismo técnico conoce el historial de tu piscina, lo que agiliza cualquier intervención futura."
     }
   ],
-  "zoneText": "Damos servicio a San Agustín del Guadalix y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Atendemos chalets, urbanizaciones y negocios en San Agustín del Guadalix y su entorno en la sierra norte de Madrid.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en San Agustín del Guadalix?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Hace más frío en San Agustín del Guadalix que en Madrid capital?",
+      "a": "Sí, por su ubicación en la sierra norte, las temperaturas nocturnas son más bajas y las heladas llegan antes que en el centro de la región."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Cuándo debería invernar mi piscina si vivo en la zona?",
+      "a": "Recomendamos adelantar el invernaje respecto a otras zonas de Madrid, dado que las primeras heladas suelen llegar antes por la altitud."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con piscinas de chalet particular o solo con comunidades?",
+      "a": "Trabajamos con ambos: chalets particulares y comunidades de urbanización en San Agustín del Guadalix."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Qué hago si el agua se enturbia después de un fin de semana con muchos invitados?",
+      "a": "Es algo habitual en piscinas familiares con uso intenso puntual. Podemos aplicar un tratamiento correctivo rápido para recuperar la claridad del agua."
     }
   ],
-  "closingHeadline": "Tu piscina en San Agustín del Guadalix, sin sorpresas",
-  "closingCta": "Si tienes una piscina en San Agustín del Guadalix y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en San Agustín del Guadalix, lista para disfrutar",
+  "closingCta": "Escríbenos y te preparamos un presupuesto cerrado para el mantenimiento de tu piscina en San Agustín del Guadalix."
 }

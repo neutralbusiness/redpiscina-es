@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 41896,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Tres Cantos | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Tres Cantos. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Tres Cantos y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Tres Cantos — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas comunitarias y particulares en Tres Cantos. Presupuesto cerrado, factura y garantía. Solicita presupuesto.",
+  "heroSubtitle": "Piscinas en Tres Cantos siempre listas, del chalet familiar a la comunidad con zona ajardinada.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Tres Cantos, en el área metropolitana de Madrid, tiene un clima continental marcado: veranos muy calurosos y secos, con temperaturas que superan con frecuencia los 35°C en julio y agosto, e inviernos fríos que exigen un buen invernaje de la instalación. Esa amplitud térmica desgasta los equipos más que en zonas costeras, y el agua de la red, de dureza considerable en buena parte de la Comunidad de Madrid, deja cal con rapidez en tuberías, juntas de gresite y células de cloradores salinos.\n\nEn las urbanizaciones de chalets y adosados tan habituales en la zona, es frecuente encontrar piscinas de los años 80 y 90 que necesitan una puesta al día completa: nuevo revestimiento, depuradora más eficiente y, cada vez más, una bomba de calor para alargar la temporada de baño más allá de septiembre.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Tres Cantos, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Tres Cantos es un municipio planificado del área metropolitana de Madrid, con un urbanismo caracterizado por urbanizaciones de baja densidad, chalets con parcela y comunidades de vecinos con amplias zonas ajardinadas donde la piscina ocupa un lugar central en el día a día del verano. Al estar algo más alejado del centro de la capital y con mayor altitud, el municipio nota inviernos algo más fríos, con heladas que hay que tener muy en cuenta al planificar el invernaje de cualquier piscina.\n\nEn verano, el clima continental se manifiesta con la misma intensidad que en el resto de Madrid: temperaturas muy altas durante semanas, que en un entorno de tantas piscinas privadas y comunitarias se traduce en una demanda constante de mantenimiento. Muchas familias en Tres Cantos usan la piscina de la comunidad como punto de encuentro diario en los meses de calor, lo que exige un control del agua especialmente riguroso para evitar que el uso intensivo derive en problemas de turbidez o desequilibrio químico.",
+  "servicesIntro": "En Tres Cantos ofrecemos mantenimiento, reparación y puesta a punto para comunidades de vecinos y viviendas unifamiliares.",
+  "processIntro": "Nuestro proceso está pensado para dar tranquilidad tanto a propietarios particulares como a comunidades con zonas ajardinadas.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas tu situación",
+      "body": "Nos explicas si se trata de un chalet particular o de una comunidad, y el estado actual de la piscina y sus equipos."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita y presupuesto cerrado",
+      "body": "Valoramos la instalación y te entregamos una propuesta detallada, sin cargos añadidos posteriores."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación del trabajo",
+      "body": "El servicio comienza únicamente cuando apruebas el presupuesto, ya seas propietario particular o representante de comunidad."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución en la piscina",
+      "body": "Realizamos el trabajo acordado cuidando el entorno ajardinado tan característico de las urbanizaciones de Tres Cantos."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Cierre y recomendaciones",
+      "body": "Te dejamos indicaciones para el mantenimiento entre visitas y un calendario recomendado para la siguiente revisión."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Tres Cantos generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El uso intensivo de las piscinas comunitarias y los inviernos algo más fríos que en el centro de Madrid generan averías propias de Tres Cantos.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Turbidez por uso masivo en comunidades",
+      "body": "Las piscinas comunitarias con muchas familias usuarias en verano acumulan materia orgánica con rapidez. Reforzamos el filtrado y la dosificación en los días de mayor afluencia."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Fisuras por heladas en el invernaje",
+      "body": "Al notarse inviernos algo más fríos que en el centro de Madrid, un invernaje incompleto puede provocar daños por congelación. Aplicamos un protocolo completo que protege tuberías y skimmers."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Restos vegetales de zonas ajardinadas",
+      "body": "Las amplias zonas verdes que rodean muchas piscinas comunitarias y chalets de Tres Cantos aportan hojas y restos vegetales al agua. Reforzamos la limpieza de skimmers en las épocas de mayor caída."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
+      "title": "Alto consumo de cloro en los picos de calor",
+      "body": "Las temperaturas elevadas del verano madrileño degradan el desinfectante con rapidez. Optimizamos la dosificación para mantener el agua en condiciones sin disparar el gasto de la comunidad."
     },
     {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Desgaste de equipos por uso familiar diario",
+      "body": "Cuando la piscina se convierte en el punto de encuentro diario de la comunidad, bombas y filtros trabajan al límite. Revisamos preventivamente para evitar averías en plena temporada."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con comunidades ajardinadas",
+      "body": "Conocemos las necesidades específicas de las urbanizaciones de baja densidad tan características de Tres Cantos."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos claros para propietarios y comunidades",
+      "body": "Preparamos propuestas cerradas, igual de válidas para un chalet particular que para una junta de vecinos."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Protección real frente a heladas",
+      "body": "Adaptamos el invernaje a los inviernos algo más fríos que se notan en Tres Cantos respecto al centro de Madrid."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Atención al uso intensivo de verano",
+      "body": "Reforzamos el mantenimiento en las semanas de más calor, cuando la piscina se convierte en el centro de la vida social de la comunidad."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Trato cercano con administradores y particulares",
+      "body": "Facilitamos la comunicación tanto si tratamos con un propietario individual como con un administrador de fincas."
     }
   ],
-  "zoneText": "Damos servicio a Tres Cantos y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Cubrimos todo el municipio de Tres Cantos, con atención especial a las urbanizaciones y comunidades con piscina compartida y a las viviendas unifamiliares del municipio.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Tres Cantos?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Es cierto que en Tres Cantos hace más frío en invierno que en el centro de Madrid?",
+      "a": "Sí, por su ubicación y altitud, el municipio suele notar inviernos algo más fríos, con heladas que conviene tener muy presentes al planificar el invernaje de la piscina."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Podéis encargaros del mantenimiento de la piscina de nuestra urbanización?",
+      "a": "Sí, es uno de nuestros servicios más habituales en Tres Cantos. Nos adaptamos tanto a comunidades pequeñas como a urbanizaciones con zonas ajardinadas más extensas."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "En verano la piscina comunitaria se llena de familias, ¿eso complica el mantenimiento?",
+      "a": "Sí, el uso intensivo diario acelera el consumo de cloro y la aparición de turbidez. Reforzamos las visitas y la dosificación en las semanas de mayor afluencia para mantener el agua en condiciones."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Trabajáis con chalets particulares o solo con comunidades?",
+      "a": "Con ambos. En Tres Cantos atendemos tanto viviendas unifamiliares con piscina propia como comunidades de vecinos con piscina compartida."
     }
   ],
-  "closingHeadline": "Tu piscina en Tres Cantos, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Tres Cantos y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Tres Cantos, lista para cada verano",
+  "closingCta": "Solicita un presupuesto cerrado para tu piscina en Tres Cantos, sea de comunidad o de vivienda particular."
 }

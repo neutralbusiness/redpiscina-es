@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 193751,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Alcalá de Henares | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Alcalá de Henares. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Alcalá de Henares y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Alcalá de Henares — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas comunitarias y de negocio en Alcalá de Henares. Presupuesto cerrado, factura y garantía. Pide información.",
+  "heroSubtitle": "Cuidamos la piscina de tu comunidad o negocio en Alcalá de Henares durante todo el año, verano e invierno.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Alcalá de Henares, con el calor seco y extremo del verano madrileño, el mayor reto para una piscina es mantener el agua en condiciones pese a la evaporación y al consumo acelerado de cloro por la fuerte radiación solar. Ajustamos los sistemas de dosificación automática para reducir el mantenimiento manual en los meses de más calor.\n\nLa dureza del agua en buena parte de la Comunidad de Madrid es uno de los factores que más acorta la vida útil de depuradoras y cloradores salinos si no se hace un mantenimiento adecuado. Recomendamos equipos con función de autolimpieza y un control periódico del pH para minimizar este efecto.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Alcalá de Henares, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Alcalá de Henares, en pleno Corredor del Henares, comparte el clima continental de la Comunidad de Madrid: veranos calurosos y secos con máximas que superan con frecuencia los 35°C, e inviernos fríos con heladas habituales. Para las numerosas comunidades de propietarios de la ciudad, muchas con grandes piscinas en urbanizaciones como Espartales o Ciudad del Aire, este contraste estacional marca dos fases muy distintas de trabajo.\n\nEn los meses de julio y agosto, el uso intensivo de las piscinas comunitarias coincide con el momento de mayor degradación del cloro por el calor y la radiación solar, lo que obliga a un control químico frecuente para evitar que el agua se enturbie en pleno pico de afluencia. Cuando llega el otoño, el reto cambia de signo: las heladas del invierno alcalaíno exigen un invernaje riguroso que proteja tuberías, skimmers y el propio vaso frente a la expansión del hielo, evitando reparaciones costosas que solo se descubren al reabrir en primavera.",
+  "servicesIntro": "Ofrecemos mantenimiento integral, reparación y puesta a punto de piscinas comunitarias y de negocio en Alcalá de Henares.",
+  "processIntro": "Trabajamos con presupuesto cerrado y máxima transparencia en cada paso.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos explicas tu caso",
+      "body": "Nos cuentas el tipo de instalación en Alcalá de Henares y qué necesitas, ya sea mantenimiento, reparación o puesta a punto."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Presupuesto detallado",
+      "body": "Valoramos la piscina si es necesario y te entregamos una propuesta cerrada, sin cargos añadidos después."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación",
+      "body": "Solo actuamos con tu aprobación, coordinando la visita con los horarios de tu comunidad o negocio."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el trabajo acordado siguiendo protocolos de seguridad y minimizando molestias a vecinos o clientes."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe y seguimiento",
+      "body": "Cerramos con un parte de las tareas realizadas y quedamos disponibles para el mantenimiento continuado."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Alcalá de Henares generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El contraste entre veranos calurosos e inviernos fríos del Corredor del Henares provoca problemas recurrentes en las piscinas de Alcalá.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Agua turbia en pleno pico de uso veraniego",
+      "body": "El calor de julio y agosto, sumado al uso intensivo de las grandes piscinas comunitarias, puede desequilibrar el agua en poco tiempo si no se revisa con frecuencia."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Daños por heladas en invierno",
+      "body": "Un invernaje incompleto deja expuestas tuberías y skimmers a las heladas habituales de la zona, provocando fisuras que aparecen al reabrir en primavera."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Alto consumo de cloro en verano",
+      "body": "La intensa radiación solar del verano madrileño degrada rápido el cloro. Ajustamos la dosificación para mantener el agua estable sin disparar el gasto."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Saturación de filtros en temporada alta",
+      "body": "El uso masivo de las piscinas comunitarias en agosto satura los equipos de filtración si no reciben mantenimiento preventivo regular."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Presupuestos para juntas de propietarios",
+      "body": "Preparamos propuestas claras y detalladas, listas para su aprobación en junta de vecinos."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Adaptado al clima del Corredor del Henares",
+      "body": "Ajustamos el tratamiento a los extremos térmicos propios de la zona este de la Comunidad de Madrid."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Invernaje riguroso",
+      "body": "Protegemos cada instalación frente a las heladas habituales del invierno en Alcalá de Henares."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Un único técnico de referencia",
+      "body": "La misma persona sigue el historial de tu piscina en cada visita."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Buena logística por la A-2",
+      "body": "Nuestra planificación de rutas nos permite ser puntuales en Alcalá de Henares y su entorno."
     }
   ],
-  "zoneText": "Damos servicio a Alcalá de Henares y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Atendemos comunidades y negocios en toda Alcalá de Henares, incluidas las urbanizaciones de Espartales y Ciudad del Aire, así como municipios cercanos como Torrejón de Ardoz.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Alcalá de Henares?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Cómo gestionáis el mantenimiento en piscinas comunitarias grandes?",
+      "a": "Planificamos visitas con la frecuencia necesaria según el uso y tamaño de la instalación, priorizando el control en los momentos de mayor afluencia estival."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es necesario un invernaje completo en Alcalá de Henares?",
+      "a": "Sí, las heladas invernales de la zona pueden dañar tuberías y equipos desprotegidos. Aplicamos un protocolo de invernaje completo antes de la llegada del frío."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Podéis presentar presupuesto para que lo apruebe la junta de vecinos?",
+      "a": "Sí, elaboramos propuestas detalladas y cerradas, pensadas específicamente para su presentación y votación en junta de propietarios."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Trabajáis también con negocios como gimnasios u hoteles?",
+      "a": "Sí, además de comunidades atendemos piscinas de negocios en Alcalá de Henares, adaptando horarios para minimizar el impacto en la actividad diaria."
     }
   ],
-  "closingHeadline": "Tu piscina en Alcalá de Henares, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Alcalá de Henares y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Alcalá de Henares, lista para cada estación",
+  "closingCta": "Pide presupuesto cerrado para el mantenimiento de tu piscina comunitaria o de negocio en Alcalá de Henares."
 }

@@ -4,9 +4,9 @@
   "province": "Alicante",
   "ccaa": "Comunidad Valenciana",
   "population": 234765,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Elche | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Elche. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Elche y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Elche — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades, hoteles y negocios en Elche. Presupuesto cerrado frente al clima semiárido.",
+  "heroSubtitle": "Piscinas listas para el clima semiárido de Elche, con mantenimiento profesional todo el año.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Elche, en el Levante mediterráneo, tiene un clima cálido y seco con una de las temporadas de baño más largas de la España peninsular, que en años cálidos se extiende de abril a octubre sin necesidad de climatizar. El agua de la zona suele ser de dureza media, lo que con los años deja cal en juntas, tuberías y sistemas de cloración salina si no se hace un mantenimiento adecuado.\n\nEn las urbanizaciones de chalets tan habituales en el área, conviven piscinas de construcción reciente con otras de varias décadas que necesitan una puesta al día: nuevo revestimiento, sistema de filtración más eficiente y, cada vez más, protección adicional frente a la corrosión en las zonas más próximas a la costa.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Elche, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Elche es una de las grandes ciudades de la provincia de Alicante, célebre por su palmeral, y se asienta en un entorno de clima mediterráneo semiárido, con veranos muy calurosos y secos, escasas precipitaciones y una fuerte radiación solar la mayor parte del año. Esa combinación de calor seco y sol intenso degrada el cloro con rapidez en cualquier piscina de la ciudad, mientras que la cercanía a la costa alicantina, a apenas unos kilómetros, aporta un punto de humedad y salitre en las instalaciones más próximas al litoral, hacia El Altet y Arenales del Sol.\n\nLa ciudad combina un extenso casco urbano con comunidades de vecinos de piscina compartida, un importante tejido industrial y comercial vinculado al calzado, y zonas residenciales de reciente expansión. Para las comunidades del centro y los ensanches, la temporada de baño se extiende de forma generosa gracias al clima suave del otoño mediterráneo, lo que exige sostener el mantenimiento durante varios meses seguidos sin bajar la guardia en el control del agua.\n\nLos inviernos en Elche son templados, con heladas poco frecuentes, lo que simplifica el invernaje respecto a zonas de interior peninsular, aunque conviene proteger igualmente la instalación durante los meses de menor uso. Nuestro trabajo en la ciudad se adapta según la ubicación de cada piscina: mayor atención al consumo de cloro por el calor seco en el interior urbano, y más cuidado con la corrosión en las instalaciones cercanas a la costa.",
+  "servicesIntro": "Ofrecemos mantenimiento integral, reparación y puesta a punto de piscinas para comunidades, hoteles y negocios en Elche.",
+  "processIntro": "Un proceso claro con presupuesto cerrado, adaptado a la ubicación de cada piscina dentro del término municipal.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos explicas tu caso",
+      "body": "Nos cuentas el tipo de instalación, su ubicación en Elche y el servicio que necesitas."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita técnica y presupuesto",
+      "body": "Evaluamos la piscina y entregamos un presupuesto cerrado, adaptado a si está en el interior de la ciudad o cerca de la costa."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación",
+      "body": "El trabajo arranca solo cuando apruebas la propuesta presentada."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del trabajo",
+      "body": "Realizamos la intervención coordinándonos con los horarios de la comunidad, hotel o negocio."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe y seguimiento",
+      "body": "Entregamos un parte de trabajo con los parámetros del agua y quedamos disponibles para revisiones futuras."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Elche generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El clima semiárido de Elche y la proximidad a la costa alicantina generan problemas específicos en sus piscinas.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Consumo elevado de cloro por calor seco",
+      "body": "La fuerte radiación solar y las escasas precipitaciones de Elche degradan el cloro con rapidez. Ajustamos la dosificación en los meses de más calor."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Corrosión salina cerca de la costa",
+      "body": "Las instalaciones próximas a El Altet y Arenales del Sol sufren el desgaste del salitre en escaleras y equipos metálicos. Reforzamos su revisión en estos casos."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Evaporación notable en verano",
+      "body": "El clima seco propio de la ciudad hace bajar el nivel del vaso con rapidez. Revisamos el nivel de agua con frecuencia durante la temporada de más calor."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
+      "title": "Sobrecarga de filtros por temporada extendida",
+      "body": "El otoño suave alarga la temporada de baño en la ciudad, lo que exige contralavados más frecuentes para evitar averías en los filtros."
     },
     {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Agua turbia en piscinas comunitarias del centro urbano",
+      "body": "El uso intensivo de las comunidades densamente pobladas del centro exige un control estricto del cloro en los meses de más afluencia."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Enfoque distinto según ubicación en Elche",
+      "body": "Adaptamos el mantenimiento si la piscina está en el interior de la ciudad o cerca de la costa alicantina."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos claros para comunidades",
+      "body": "Documentación detallada y fácil de aprobar en junta de propietarios."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Experiencia con negocio hotelero e industrial",
+      "body": "Coordinamos las intervenciones para no interferir con la actividad de hoteles y negocios de la ciudad."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Técnico de referencia único",
+      "body": "La misma persona sigue el historial de tu piscina en cada visita."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de todo el término municipal",
+      "body": "Atendemos tanto el casco urbano como las zonas próximas a la costa."
     }
   ],
-  "zoneText": "Damos servicio a Elche y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en toda la ciudad de Elche, desde el centro urbano hasta las zonas próximas a la costa como El Altet y Arenales del Sol.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Elche?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué mi piscina consume tanto cloro en Elche?",
+      "a": "El clima semiárido de la ciudad, con fuerte radiación solar y escasas lluvias, degrada el cloro con rapidez, especialmente en el interior urbano alejado de la costa."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿El salitre afecta a las piscinas cerca de Arenales del Sol?",
+      "a": "Sí, en esas zonas próximas al litoral revisamos con más atención escaleras y equipos metálicos por el desgaste que provoca el ambiente marino."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Hasta cuándo se alarga la temporada de baño en Elche?",
+      "a": "El clima suave del otoño mediterráneo permite mantener muchas piscinas en uso hasta bien entrado octubre, lo que exige un mantenimiento sostenido más meses que en otras zonas."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Trabajáis con hoteles y negocios además de comunidades?",
+      "a": "Sí, atendemos hoteles, negocios y comunidades de vecinos en toda la ciudad de Elche, coordinando los trabajos con su actividad."
     }
   ],
-  "closingHeadline": "Tu piscina en Elche, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Elche y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "El mantenimiento que tu piscina necesita en Elche",
+  "closingCta": "Solicita presupuesto para tu comunidad, hotel o negocio en Elche, sin compromiso."
 }

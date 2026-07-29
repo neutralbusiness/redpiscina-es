@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 118162,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Torrejón de Ardoz | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Torrejón de Ardoz. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Torrejón de Ardoz y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Torrejón de Ardoz — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en Torrejón de Ardoz. Presupuesto cerrado, factura y garantía. Solicita presupuesto.",
+  "heroSubtitle": "Piscinas comunitarias y de negocio en Torrejón de Ardoz siempre listas, incluso en los picos de calor madrileños.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Torrejón de Ardoz, en el área metropolitana de Madrid, tiene un clima continental marcado: veranos muy calurosos y secos, con temperaturas que superan con frecuencia los 35°C en julio y agosto, e inviernos fríos que exigen un buen invernaje de la instalación. Esa amplitud térmica desgasta los equipos más que en zonas costeras, y el agua de la red, de dureza considerable en buena parte de la Comunidad de Madrid, deja cal con rapidez en tuberías, juntas de gresite y células de cloradores salinos.\n\nEn las urbanizaciones de chalets y adosados tan habituales en la zona, es frecuente encontrar piscinas de los años 80 y 90 que necesitan una puesta al día completa: nuevo revestimiento, depuradora más eficiente y, cada vez más, una bomba de calor para alargar la temporada de baño más allá de septiembre.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Torrejón de Ardoz, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Torrejón de Ardoz forma parte del corredor del Henares, en el este de la Comunidad de Madrid, con un clima continental que reproduce a escala local los mismos retos de la capital: veranos secos y muy calurosos, con jornadas que superan con facilidad los 35 grados en julio y agosto, e inviernos fríos con heladas que exigen un invernaje cuidadoso. La ciudad tiene un parque de vivienda muy amplio en comunidades de propietarios, muchas de ellas con piscina compartida como elemento central del complejo residencial.\n\nPara estas comunidades, el verano supone el periodo de mayor exigencia: la piscina pasa a recibir un uso intensivo de decenas o cientos de vecinos, lo que obliga a un control químico constante y a un sistema de filtración que no puede permitirse fallos en pleno agosto. Un desequilibrio de pH o una avería en la depuradora durante estas semanas no es solo una molestia estética, sino un problema que puede llevar al cierre temporal de la instalación si no se cumplen los parámetros sanitarios exigidos a las piscinas de uso colectivo.",
+  "servicesIntro": "En Torrejón de Ardoz ofrecemos mantenimiento, reparación y puesta a punto para comunidades de vecinos y negocios con piscina.",
+  "processIntro": "Trabajamos con un proceso pensado para que administradores de fincas y juntas de propietarios tengan control total sobre el gasto.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto y recopilación de datos",
+      "body": "Nos explicas el tipo de comunidad o negocio, el tamaño de la piscina y su nivel de uso habitual."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Evaluación y presupuesto cerrado",
+      "body": "Valoramos la instalación y entregamos una propuesta detallada, lista para presentar en junta de propietarios si hace falta."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Aprobación antes de actuar",
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita, para evitar cualquier malentendido sobre el alcance del servicio."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Trabajo en la instalación",
+      "body": "Ejecutamos el mantenimiento o la reparación acordada, coordinándonos con el administrador o el responsable del negocio."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe y seguimiento",
+      "body": "Entregamos un resumen de lo realizado y proponemos un calendario de seguimiento adaptado a la temporada."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Torrejón de Ardoz generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El calor extremo del verano madrileño y el uso intensivo de las piscinas comunitarias provocan averías recurrentes en Torrejón de Ardoz.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Agua verde por consumo acelerado de cloro",
+      "body": "Las altas temperaturas de julio y agosto degradan el desinfectante mucho más rápido de lo habitual. Ajustamos la dosificación para sostener la calidad del agua en los picos de calor."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Saturación de filtros en piscinas comunitarias",
+      "body": "El uso masivo de vecinos en verano puede colapsar sistemas de filtración mal dimensionados. Revisamos y ajustamos los ciclos de limpieza según la afluencia real."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Daños por heladas en el invernaje",
+      "body": "Los inviernos fríos de la zona pueden dañar tuberías y skimmers si el invernaje no se realiza correctamente. Aplicamos un protocolo completo cada otoño para evitar reparaciones costosas en primavera."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Incumplimientos sanitarios en temporada alta",
+      "body": "Un control químico irregular en piscinas de uso colectivo puede derivar en problemas ante una inspección sanitaria. Diseñamos planes de mantenimiento que garantizan el cumplimiento normativo durante toda la temporada."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Presupuestos listos para junta de propietarios",
+      "body": "Preparamos propuestas claras y desglosadas, fáciles de aprobar en una reunión de vecinos."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Adaptación al calor extremo madrileño",
+      "body": "Ajustamos la dosificación química a los picos de temperatura del verano en el corredor del Henares."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Cumplimiento de la normativa sanitaria",
+      "body": "Nuestros protocolos se ajustan a la legislación vigente para piscinas de uso colectivo."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Coordinación con administradores de fincas",
+      "body": "Facilitamos la comunicación y el reporte necesario para que la gestión de la piscina sea sencilla para la comunidad."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Respuesta ágil en temporada alta",
+      "body": "Sabemos lo crítico que es resolver una avería en pleno verano y priorizamos la rapidez en estos casos."
     }
   ],
-  "zoneText": "Damos servicio a Torrejón de Ardoz y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en todo Torrejón de Ardoz, con especial presencia en las comunidades de vecinos con piscina compartida repartidas por el municipio.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Torrejón de Ardoz?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Cómo afecta el calor extremo del verano madrileño al mantenimiento de una piscina comunitaria?",
+      "a": "Las temperaturas muy altas de julio y agosto aceleran la degradación del cloro y aumentan la evaporación. Ajustamos la dosificación y la frecuencia de revisión durante estas semanas para mantener el agua en condiciones."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Preparáis presupuestos que se puedan presentar directamente en junta de propietarios?",
+      "a": "Sí, es habitual en nuestro trabajo con comunidades. Entregamos propuestas claras y desglosadas, pensadas para facilitar su aprobación por parte de los vecinos."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Qué pasa si la piscina no cumple la normativa sanitaria en una inspección?",
+      "a": "Diseñamos nuestros planes de mantenimiento para cumplir en todo momento la normativa vigente sobre piscinas de uso colectivo, reduciendo el riesgo de incidencias en cualquier inspección."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Cómo protegéis la piscina durante los inviernos fríos de la zona?",
+      "a": "Aplicamos un protocolo de invernaje que incluye la protección de skimmers y tuberías frente a las heladas, evitando daños estructurales que resultarían mucho más caros de reparar en primavera."
     }
   ],
-  "closingHeadline": "Tu piscina en Torrejón de Ardoz, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Torrejón de Ardoz y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina comunitaria en Torrejón de Ardoz, sin sobresaltos",
+  "closingCta": "Pide un presupuesto cerrado para el mantenimiento de tu piscina en Torrejón de Ardoz, apto para junta de propietarios."
 }

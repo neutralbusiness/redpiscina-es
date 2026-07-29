@@ -4,9 +4,9 @@
   "province": "Sevilla",
   "ccaa": "Andalucía",
   "population": 122943,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Dos Hermanas | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Dos Hermanas. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Dos Hermanas y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Dos Hermanas, Sevilla",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en Dos Hermanas, Sevilla. Presupuesto cerrado frente al calor.",
+  "heroSubtitle": "Piscinas preparadas para el calor de Dos Hermanas, con mantenimiento profesional durante toda la temporada.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Dos Hermanas, con veranos muy largos y extremadamente calurosos, la clave del mantenimiento de una piscina es anticiparse: revisar la depuradora en primavera, antes de que el uso intensivo de julio y agosto la ponga a prueba. Es habitual que las averías aparezcan justo en pleno verano, cuando la instalación lleva semanas trabajando a máximo rendimiento.\n\nEl calor extremo también acelera la evaporación, así que conviene distinguir bien una pérdida de agua normal de una fuga real. Hacemos pruebas de presión y, si hace falta, detección con gas trazador para localizar el punto exacto sin necesidad de vaciar la piscina.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Dos Hermanas, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Dos Hermanas es una de las ciudades más pobladas de Andalucía, situada en la campiña sevillana, muy próxima al valle del Guadalquivir. Su clima mediterráneo continentalizado se traduce en veranos extremadamente calurosos, con jornadas frecuentes por encima de los 38-40°C entre junio y septiembre, y una radiación solar intensa que castiga con dureza el tratamiento químico de cualquier piscina. En estas condiciones, el cloro se degrada muy deprisa y la evaporación del agua es notable, lo que obliga a una revisión mucho más frecuente que en climas más templados.\n\nLa ciudad ha crecido de forma notable en las últimas décadas, con amplias zonas residenciales como Montequinto o el entorno del centro urbano, donde predominan las comunidades de vecinos con piscina compartida. Esa combinación de calor extremo y alta densidad de usuarios en las piscinas comunitarias hace que la temporada de mayor exigencia, entre junio y septiembre, requiera un seguimiento muy cercano para que el agua no pierda calidad entre visitas.\n\nLos inviernos en Dos Hermanas son suaves, con heladas poco frecuentes, lo que reduce la presión sobre el invernaje respecto a otras zonas de España, aunque sigue siendo recomendable proteger la instalación durante los meses sin uso. Nuestro trabajo en la ciudad se centra principalmente en sostener la calidad del agua durante una temporada de calor muy exigente y en ajustar el consumo de productos químicos para que no se dispare con el calor extremo del verano sevillano.",
+  "servicesIntro": "Ofrecemos mantenimiento integral, reparación y optimización química de piscinas para comunidades y negocios en Dos Hermanas.",
+  "processIntro": "Un proceso claro con presupuesto cerrado, adaptado a comunidades que afrontan un verano de calor extremo.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos explicas tu caso",
+      "body": "Nos cuentas el tipo de instalación y el servicio que necesitas."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Evaluación y presupuesto",
+      "body": "Visitamos la piscina y entregamos un presupuesto cerrado y detallado."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Tu aprobación",
+      "body": "Solo iniciamos el servicio cuando confirmas la propuesta."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del trabajo",
+      "body": "Realizamos la intervención coordinándonos con los horarios de la comunidad o negocio."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe y seguimiento",
+      "body": "Entregamos un parte de trabajo con los parámetros del agua y quedamos disponibles durante la temporada."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Dos Hermanas generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El calor extremo del verano en Dos Hermanas y la alta densidad residencial generan averías muy específicas.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Degradación rápida del cloro por calor extremo",
+      "body": "Las temperaturas por encima de 38°C consumen el cloro con mucha rapidez. Ajustamos la dosificación varias veces por semana durante el verano."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Evaporación notable del agua",
+      "body": "El calor sevillano hace bajar el nivel del vaso con rapidez, afectando a la dosificación automática. Revisamos el nivel con frecuencia en los meses de más calor."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "Agua turbia en piscinas comunitarias de alta densidad",
+      "body": "Las urbanizaciones de Montequinto y el entorno urbano concentran mucha afluencia en verano. Reforzamos el control de cloro en los fines de semana de mayor uso."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
+      "title": "Filtros saturados por temporada intensa",
+      "body": "El uso constante durante los meses de más calor satura los sistemas de filtración. Programamos contralavados frecuentes para evitar averías."
     },
     {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Consumo elevado de producto químico",
+      "body": "El calor extremo puede disparar el gasto en cloro si no se optimiza la dosificación. Recomendamos sistemas de control automático para ajustar el consumo."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Especialización en climas de calor extremo",
+      "body": "Adaptamos la frecuencia de mantenimiento al verano especialmente duro de la campiña sevillana."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos claros para comunidades",
+      "body": "Documentación detallada y fácil de aprobar en junta de propietarios."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Optimización del consumo químico",
+      "body": "Ajustamos la dosificación para controlar el coste durante los meses de más calor."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Técnico de referencia durante toda la temporada",
+      "body": "La misma persona sigue el historial de tu piscina en cada visita."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de toda la ciudad",
+      "body": "Atendemos tanto el centro urbano como zonas residenciales como Montequinto."
     }
   ],
-  "zoneText": "Damos servicio a Dos Hermanas y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en toda la ciudad de Dos Hermanas, incluidas las zonas residenciales de Montequinto y el entorno del centro urbano.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Dos Hermanas?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué mi piscina pierde tanto cloro en verano en Dos Hermanas?",
+      "a": "Las temperaturas extremas propias del verano sevillano degradan el cloro con mucha rapidez, por lo que ajustamos la dosificación varias veces por semana en los meses de más calor."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Cómo gestionáis la alta afluencia en las piscinas comunitarias de Montequinto?",
+      "a": "Reforzamos la revisión de cloro y pH en los fines de semana de verano, cuando estas piscinas reciben más usuarios en menos horas."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Es necesario invernar la piscina en Dos Hermanas?",
+      "a": "El invierno es suave, pero recomendamos una protección básica de la instalación durante los meses sin uso para evitar sorpresas al reabrir en primavera."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿Podéis ayudarme a reducir el gasto en productos químicos?",
+      "a": "Sí, el calor extremo de la zona puede disparar el consumo de cloro. Ajustamos la dosificación y podemos recomendar sistemas automáticos para optimizar el gasto."
     }
   ],
-  "closingHeadline": "Tu piscina en Dos Hermanas, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Dos Hermanas y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas listas para el calor de Dos Hermanas",
+  "closingCta": "Solicita presupuesto para tu comunidad o negocio en Dos Hermanas y afronta el verano sin sobresaltos."
 }

@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 15811,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Sant Just Desvern | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Sant Just Desvern. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Sant Just Desvern y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Sant Just Desvern — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas de chalet y comunidad en Sant Just Desvern, Baix Llobregat. Presupuesto cerrado. Infórmate.",
+  "heroSubtitle": "Un servicio técnico de confianza para la piscina de tu chalet o comunidad en Sant Just Desvern.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Sant Just Desvern, en el Baix Llobregat, reúne tanto zonas muy próximas a la costa como áreas más interiores junto al río, con piscinas tanto en viviendas unifamiliares como en comunidades de vecinos. El clima mediterráneo húmedo de la comarca favorece una temporada de baño larga, pero también un crecimiento más rápido de algas si el tratamiento de agua no se ajusta bien a la humedad ambiente.\n\nMuchas urbanizaciones de la zona se construyeron en los años 80 y 90, con piscinas de gresite y sistemas de filtración que hoy resultan poco eficientes energéticamente. Sustituir una bomba de filtración antigua por una de velocidad variable es, en la mayoría de los casos, la mejora que antes se amortiza, con ahorros eléctricos de hasta el 80% en la depuración.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Sant Just Desvern, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Sant Just Desvern se asienta en las estribaciones de Collserola, muy cerca de Barcelona, en una zona de renta alta con una elevada proporción de viviendas unifamiliares con piscina propia. La cercanía a la sierra le aporta un microclima algo más fresco por las noches que el de zonas más bajas del área metropolitana, aunque los días de verano siguen siendo calurosos y secos.\n\nEl perfil predominante de chalet con jardín y piscina privada, muy habitual en las urbanizaciones del municipio, hace que el mantenimiento sea en gran medida personalizado, con un uso concentrado en los meses de verano y en fines de semana. La proximidad al parque de Collserola aporta un entorno verde muy valorado por los propietarios, pero también implica una atención constante a la caída de hojas y restos vegetales en el vaso durante buena parte del año.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación e invernaje para piscinas de chalet en Sant Just Desvern.",
+  "processIntro": "Un servicio de trato directo, pensado para propietarios de vivienda unifamiliar del municipio.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas tu caso",
+      "body": "Nos explicas el estado de tu piscina y su entorno en Sant Just Desvern."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te presentamos una propuesta clara, con precio final desde el primer momento."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmas la visita",
+      "body": "Acordamos la fecha de la intervención según tu disponibilidad."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Trabajo en tu chalet",
+      "body": "Ejecutamos el servicio acordado con cuidado del jardín y el entorno de tu vivienda."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Recomendaciones finales",
+      "body": "Te dejamos indicaciones para el cuidado de la piscina hasta la próxima visita."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Sant Just Desvern generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La cercanía a Collserola y el perfil de vivienda unifamiliar generan incidencias propias en las piscinas de Sant Just Desvern.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Hojas y restos de Collserola en el vaso",
+      "body": "La proximidad al parque natural hace que hojas y polen lleguen con facilidad a la piscina. Reforzamos la limpieza de skimmers durante buena parte del año."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Agua turbia tras uso familiar intenso",
+      "body": "En fines de semana con visitas, el pH se desequilibra con rapidez. Aplicamos correcciones ágiles para devolver la claridad al agua."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Fugas en instalaciones más antiguas",
+      "body": "Muchas piscinas del municipio llevan años en funcionamiento. Detectamos y reparamos fugas en juntas y tuberías antes de que se agraven."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Invernaje ante el frescor nocturno de Collserola",
+      "body": "La cercanía a la sierra hace que las noches se enfríen algo más que en zonas más bajas, por lo que recomendamos un invernaje cuidadoso."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Especialistas en piscinas de chalet",
+      "body": "La mayor parte de nuestro trabajo en Sant Just Desvern es con viviendas unifamiliares de alto standing."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Atención al entorno de Collserola",
+      "body": "Adaptamos la limpieza a la presencia constante de vegetación cercana al parque natural."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuestos cerrados y claros",
+      "body": "Ofrecemos precios detallados desde el principio, sin sorpresas posteriores."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Discreción y trato cuidado",
+      "body": "Trabajamos con respeto al entorno y a la privacidad de cada vivienda."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Seguimiento personalizado",
+      "body": "Un mismo técnico conoce el historial de tu piscina en cada visita."
     }
   ],
-  "zoneText": "Damos servicio a Sant Just Desvern y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Atendemos chalets y comunidades en todo el término municipal de Sant Just Desvern.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Sant Just Desvern?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué mi piscina recibe tantas hojas si no tengo árboles en mi jardín?",
+      "a": "La cercanía al parque de Collserola hace que hojas y polen puedan llegar arrastrados por el viento incluso a jardines sin arbolado propio."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es distinto el mantenimiento aquí que en zonas más bajas de Barcelona?",
+      "a": "La cercanía a la sierra aporta noches algo más frescas, lo que puede influir ligeramente en el ritmo de calentamiento del agua en primavera."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con piscinas de chalet particular?",
+      "a": "Sí, es el tipo de instalación predominante en Sant Just Desvern y la mayor parte de nuestro trabajo en el municipio."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Hacéis revisión de fugas en piscinas antiguas?",
+      "a": "Sí, muchas viviendas del municipio tienen piscinas con años de antigüedad, y revisamos juntas y tuberías para detectar fugas antes de que se conviertan en un problema mayor."
     }
   ],
-  "closingHeadline": "Tu piscina en Sant Just Desvern, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Sant Just Desvern y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina, cuidada junto a Collserola",
+  "closingCta": "Contacta con nosotros para un presupuesto cerrado de mantenimiento en Sant Just Desvern."
 }

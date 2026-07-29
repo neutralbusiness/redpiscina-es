@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 21855,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Esparreguera | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Esparreguera. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Esparreguera y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Esparreguera — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas privadas y comunitarias en Esparreguera, junto a Montserrat. Presupuesto cerrado.",
+  "heroSubtitle": "Piscinas cuidadas en Esparreguera, a los pies de Montserrat, con presupuesto cerrado.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Esparreguera, en el Baix Llobregat, reúne tanto zonas muy próximas a la costa como áreas más interiores junto al río, con piscinas tanto en viviendas unifamiliares como en comunidades de vecinos. El clima mediterráneo húmedo de la comarca favorece una temporada de baño larga, pero también un crecimiento más rápido de algas si el tratamiento de agua no se ajusta bien a la humedad ambiente.\n\nMuchas urbanizaciones de la zona se construyeron en los años 80 y 90, con piscinas de gresite y sistemas de filtración que hoy resultan poco eficientes energéticamente. Sustituir una bomba de filtración antigua por una de velocidad variable es, en la mayoría de los casos, la mejora que antes se amortiza, con ahorros eléctricos de hasta el 80% en la depuración.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Esparreguera, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Esparreguera se encuentra en el interior del Baix Llobregat, a los pies del macizo de Montserrat, en un entorno de montaña que le da un clima mediterráneo de interior con veranos calurosos y secos durante el día, pero con noches más frescas que las zonas de llano cercanas a Barcelona gracias a la proximidad de la sierra. Esa cercanía a Montserrat también implica más vegetación y viento de montaña en algunas urbanizaciones del término, lo que aporta hojarasca al vaso de las piscinas situadas en las zonas más próximas al macizo. Los inviernos son fríos, con heladas frecuentes que exigen un invernaje cuidado antes de que llegue el frío serio.\n\nEl municipio combina un núcleo urbano consolidado, ligado a su pasado industrial textil, con urbanizaciones de vivienda unifamiliar en las zonas más elevadas. Para las piscinas privadas de estas urbanizaciones, el reto principal es adaptarse al contraste térmico propio de vivir junto a la montaña, mientras que las comunidades del núcleo urbano necesitan un mantenimiento más orientado al uso compartido durante los meses de verano.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación e invernaje de piscinas privadas y comunitarias en Esparreguera.",
+  "processIntro": "Un proceso sencillo, con presupuesto cerrado, adaptado al entorno de montaña propio del municipio.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto",
+      "body": "Nos explicas el estado de tu piscina y el servicio que necesitas."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita y presupuesto",
+      "body": "Evaluamos la instalación y entregamos un presupuesto cerrado y detallado."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Aprobación",
+      "body": "Solo empezamos a trabajar cuando confirmas la propuesta."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos la intervención acordada, con atención a la vegetación y el clima propios de la zona de Montserrat."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe final",
+      "body": "Entregamos un resumen de lo realizado y quedamos disponibles para el seguimiento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Esparreguera generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La cercanía a Montserrat y el contraste térmico de Esparreguera generan problemas específicos en sus piscinas.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Hojarasca por vegetación de montaña",
+      "body": "Las urbanizaciones más próximas al macizo reciben más restos vegetales en el vaso. Reforzamos la limpieza de skimmer y fondo en estas piscinas."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Roturas por heladas en zonas elevadas",
+      "body": "El frío invernal es más intenso en las urbanizaciones cercanas a la montaña. Aplicamos un invernaje reforzado para evitar daños por congelación."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Desequilibrio de pH por salto térmico día-noche",
+      "body": "El contraste entre el calor diurno y las noches frescas propias de la zona de montaña altera el pH con frecuencia. Realizamos controles periódicos para corregirlo."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Viento de montaña que ensucia el agua",
+      "body": "El viento propio del entorno de Montserrat arrastra polvo y partículas hacia las piscinas más expuestas. Ajustamos la frecuencia de limpieza en estos casos."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocimiento del entorno de Montserrat",
+      "body": "Adaptamos el mantenimiento a las piscinas más expuestas a la vegetación y al viento de la montaña."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuesto cerrado y sin sorpresas",
+      "body": "Sabes desde el inicio qué vas a pagar por el servicio."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Experiencia con vivienda unifamiliar de zona elevada",
+      "body": "Conocemos bien las necesidades de las urbanizaciones próximas al macizo."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Técnico de referencia estable",
+      "body": "La misma persona sigue el historial de tu piscina."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Atención también al núcleo urbano",
+      "body": "Cubrimos tanto las urbanizaciones de montaña como las comunidades del casco urbano."
     }
   ],
-  "zoneText": "Damos servicio a Esparreguera y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Esparreguera, tanto en el núcleo urbano como en las urbanizaciones próximas al macizo de Montserrat.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Esparreguera?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué mi piscina en Esparreguera acumula tanta hojarasca?",
+      "a": "Es habitual en las urbanizaciones más próximas a Montserrat, rodeadas de vegetación de montaña. Reforzamos la limpieza de skimmer y fondo en estos casos."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Las heladas son más intensas cerca de la montaña?",
+      "a": "Sí, las zonas más elevadas del municipio registran temperaturas invernales más bajas, por lo que aplicamos un invernaje reforzado en esas piscinas."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con comunidades del núcleo urbano además de urbanizaciones?",
+      "a": "Sí, atendemos tanto las comunidades de vecinos del casco urbano de Esparreguera como las urbanizaciones de vivienda unifamiliar."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Podéis venir para una puesta a punto antes del verano?",
+      "a": "Sí, ofrecemos revisiones puntuales de temporada sin necesidad de contratar mantenimiento continuado."
     }
   ],
-  "closingHeadline": "Tu piscina en Esparreguera, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Esparreguera y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Esparreguera, cuidada a los pies de Montserrat",
+  "closingCta": "Solicita presupuesto para tu piscina en Esparreguera, sin compromiso."
 }

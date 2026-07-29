@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 8226,
-  "metaTitle": "Mantenimiento y reparación de piscinas en El Molar | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en El Molar. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en El Molar y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en El Molar — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas en El Molar, sierra norte de Madrid. Presupuesto cerrado, técnico de confianza y garantía en cada intervención.",
+  "heroSubtitle": "Cuidamos tu piscina en El Molar durante todo el año, adaptándonos al clima cambiante de la sierra norte de Madrid.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "El Molar, en el área metropolitana de Madrid, tiene un clima continental marcado: veranos muy calurosos y secos, con temperaturas que superan con frecuencia los 35°C en julio y agosto, e inviernos fríos que exigen un buen invernaje de la instalación. Esa amplitud térmica desgasta los equipos más que en zonas costeras, y el agua de la red, de dureza considerable en buena parte de la Comunidad de Madrid, deja cal con rapidez en tuberías, juntas de gresite y células de cloradores salinos.\n\nEn las urbanizaciones de chalets y adosados tan habituales en la zona, es frecuente encontrar piscinas de los años 80 y 90 que necesitan una puesta al día completa: nuevo revestimiento, depuradora más eficiente y, cada vez más, una bomba de calor para alargar la temporada de baño más allá de septiembre.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en El Molar, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "El Molar se sitúa en la sierra norte de la Comunidad de Madrid, en una zona de transición hacia la sierra donde los inviernos son notablemente más fríos que en la capital y las oscilaciones térmicas entre el día y la noche son más marcadas. Esta altitud mayor, junto con heladas frecuentes desde noviembre hasta bien entrada la primavera, obliga a extremar el cuidado del invernaje: una piscina que en Madrid capital podría tolerar cierta dejadez en esta zona corre un riesgo real de sufrir daños estructurales si no se protege a tiempo.\n\nEl municipio ha crecido en las últimas décadas con numerosas urbanizaciones de vivienda unifamiliar, muchas de ellas con parcela y piscina privada, atrayendo a familias que buscan una vida más tranquila sin renunciar a la cercanía con Madrid a través de la A-1. En verano, esas mismas piscinas reciben un uso intenso durante los meses de más calor, mientras que en invierno quedan expuestas a las heladas propias de la sierra, lo que hace que el mantenimiento en El Molar tenga dos temporadas claramente diferenciadas y exigentes cada una a su manera.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación e invernaje de piscinas particulares en El Molar y el resto de la sierra norte de Madrid.",
+  "processIntro": "Trabajamos con un proceso claro para que sepas en todo momento qué se hace en tu piscina y cuánto cuesta.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto inicial",
+      "body": "Nos cuentas cómo está tu piscina en El Molar y qué necesitas, ya sea mantenimiento regular, una reparación o el invernaje de temporada."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita técnica",
+      "body": "Nos desplazamos a tu vivienda para revisar el estado del vaso, la instalación y los equipos, prestando especial atención a posibles daños por heladas anteriores."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Presupuesto sin sorpresas posteriores",
+      "body": "Te entregamos una propuesta detallada con el precio final. No hay cargos adicionales una vez aceptado el trabajo."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Tu confirmación antes de empezar",
+      "body": "El servicio comienza solo cuando nos das el visto bueno, coordinando la fecha según la climatología de la sierra."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Ejecución con consejos de temporada",
+      "body": "Realizamos el trabajo acordado y te explicamos cómo proteger mejor la piscina de cara al siguiente invierno o a la siguiente ola de calor."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en El Molar generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "Las heladas de la sierra norte y los veranos intensos generan en El Molar problemas muy distintos según la época del año.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Fisuras por heladas mal previstas",
+      "body": "Un invernaje incompleto en una zona donde las temperaturas nocturnas bajan de cero con facilidad puede fisurar tuberías y el propio vaso. Aplicamos un protocolo de invernaje reforzado, pensado para la altitud de la zona."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Roturas en el sistema de filtración por frío",
+      "body": "El agua que queda retenida en tuberías y bombas sin purgar correctamente se congela y expande, dañando piezas que luego hay que sustituir en primavera. Vaciamos y protegemos cada componente antes de la llegada del frío."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Agua verde tras el deshielo",
+      "body": "Con la subida de temperaturas en primavera, el agua que ha permanecido cubierta todo el invierno puede volverse verde con rapidez si el invernaje no fue completo. Hacemos tratamientos de choque para recuperar la piscina antes del verano."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Sobreesfuerzo de la depuradora en verano",
+      "body": "Con el buen tiempo, el uso intensivo de las piscinas de las urbanizaciones satura los filtros más rápido de lo esperado. Revisamos el sistema antes de la temporada alta para evitar averías en pleno agosto."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocemos el clima de la sierra norte",
+      "body": "Adaptamos cada intervención a las heladas y oscilaciones térmicas propias de El Molar, distintas de las de Madrid capital."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Invernaje pensado para la altitud",
+      "body": "Protegemos tuberías, bomba y vaso pensando en las temperaturas más bajas que se dan en esta zona de la sierra."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Precio cerrado tras la visita",
+      "body": "El precio acordado tras la valoración es el que facturamos, sin sorpresas posteriores."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Trato directo y cercano",
+      "body": "Procuramos que el mismo técnico conozca tu piscina y su historial en cada visita."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Prioridad en las urgencias de verano",
+      "body": "Priorizamos las averías que dejan la piscina inutilizable justo cuando más se necesita, en pleno verano."
     }
   ],
-  "zoneText": "Damos servicio a El Molar y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en El Molar y en los municipios de la sierra norte de Madrid, incluyendo urbanizaciones cercanas a la A-1, adaptando la logística a la orografía de la zona.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en El Molar?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué mi piscina se agrietó tras el invierno en El Molar?",
+      "a": "Es habitual cuando el invernaje no protege adecuadamente tuberías y skimmers frente a las heladas propias de la sierra norte, más intensas que en Madrid capital. Nuestro protocolo de invernaje está adaptado a estas temperaturas."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Cuándo es mejor hacer el invernaje de la piscina en esta zona?",
+      "a": "Recomendamos hacerlo a finales de octubre o principios de noviembre, antes de que lleguen las primeras heladas nocturnas propias de la sierra, que suelen adelantarse respecto a la capital."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "Tengo una urbanización con piscina comunitaria en El Molar, ¿trabajáis con comunidades?",
+      "a": "Sí, atendemos tanto piscinas de vivienda unifamiliar como comunitarias, adaptando el presupuesto y los horarios a las necesidades de cada caso."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Hasta dónde os desplazáis desde El Molar?",
+      "a": "Cubrimos el resto de municipios de la sierra norte de Madrid cercanos a la A-1, así que si tu vivienda está en una zona próxima, también podemos atenderla."
     }
   ],
-  "closingHeadline": "Tu piscina en El Molar, sin sorpresas",
-  "closingCta": "Si tienes una piscina en El Molar y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina protegida en cada estación en El Molar",
+  "closingCta": "Cuéntanos el estado de tu piscina en El Molar y te preparamos un presupuesto cerrado, adaptado al clima de la sierra."
 }

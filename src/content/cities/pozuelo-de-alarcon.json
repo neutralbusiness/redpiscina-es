@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 82428,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Pozuelo de Alarcón | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Pozuelo de Alarcón. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Pozuelo de Alarcón y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Pozuelo de Alarcón — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas en Pozuelo de Alarcón para viviendas unifamiliares. Presupuesto cerrado, sin letra pequeña.",
+  "heroSubtitle": "Cuidamos la piscina de tu vivienda en Pozuelo de Alarcón durante todo el año, en una de las zonas con más piscinas privadas de Madrid.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Pozuelo de Alarcón, en el área metropolitana de Madrid, tiene un clima continental marcado: veranos muy calurosos y secos, con temperaturas que superan con frecuencia los 35°C en julio y agosto, e inviernos fríos que exigen un buen invernaje de la instalación. Esa amplitud térmica desgasta los equipos más que en zonas costeras, y el agua de la red, de dureza considerable en buena parte de la Comunidad de Madrid, deja cal con rapidez en tuberías, juntas de gresite y células de cloradores salinos.\n\nEn las urbanizaciones de chalets y adosados tan habituales en la zona, es frecuente encontrar piscinas de los años 80 y 90 que necesitan una puesta al día completa: nuevo revestimiento, depuradora más eficiente y, cada vez más, una bomba de calor para alargar la temporada de baño más allá de septiembre.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Pozuelo de Alarcón, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Pozuelo de Alarcón, al oeste de Madrid, es uno de los municipios con mayor concentración de vivienda unifamiliar con piscina privada de toda la Comunidad, con urbanizaciones consolidadas desde hace décadas junto a otras de construcción más reciente. El clima comparte el carácter continental de Madrid, con veranos largos y muy calurosos e inviernos fríos con heladas frecuentes, pero la mayor altitud y la cercanía del monte de El Pardo suavizan ligeramente las temperaturas extremas respecto al centro de la capital, sin eliminar el riesgo de heladas invernales que sigue exigiendo un invernaje cuidadoso.\n\nCon un parque de piscinas privadas tan amplio y de edades muy variadas, en Pozuelo conviven instalaciones modernas con sistemas de control automatizado y piscinas construidas hace veinte o treinta años que arrastran equipos de filtración y cuadros eléctricos que ya no cumplen los estándares actuales. Esta diversidad hace que cada vivienda requiera una valoración individual antes de proponer cualquier intervención, ya que las necesidades de mantenimiento varían mucho entre una piscina recién reformada y otra que nunca ha recibido una puesta a punto integral.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparaciones y puesta a punto de piscinas particulares en viviendas unifamiliares de Pozuelo de Alarcón.",
+  "processIntro": "Nuestro proceso está pensado para darte claridad total sobre las tareas y el coste, adaptándonos a instalaciones de cualquier antigüedad.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Primer contacto",
+      "body": "Nos cuentas el estado de tu piscina en Pozuelo de Alarcón, su antigüedad aproximada y qué necesitas."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Inspección técnica a domicilio",
+      "body": "Revisamos el vaso, la depuradora y la instalación eléctrica, valorando el estado real de cada componente."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Presupuesto ajustado a tu instalación",
+      "body": "Te entregamos una propuesta detallada con el precio final, ajustada a la antigüedad y el estado de tu instalación."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Arrancamos con tu confirmación",
+      "body": "Empezamos a trabajar solo cuando apruebas el presupuesto, coordinando la fecha que mejor te convenga."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Servicio y recomendaciones a medio plazo",
+      "body": "Realizamos el servicio acordado y te explicamos qué actuaciones podrían ser convenientes a medio plazo si la instalación lo requiere."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Pozuelo de Alarcón generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La combinación de clima continental madrileño y un parque de piscinas de edades muy variadas genera en Pozuelo de Alarcón incidencias frecuentes.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Instalaciones eléctricas obsoletas",
+      "body": "En piscinas de veinte o treinta años es habitual encontrar cuadros eléctricos sin la protección diferencial que exige la normativa actual. Revisamos y adaptamos la instalación cuando es necesario."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Fisuras por el frío del oeste madrileño",
+      "body": "Aunque algo más suaves que en el centro de Madrid, las heladas siguen siendo frecuentes en Pozuelo. Un invernaje deficiente puede fisurar tuberías y el propio vaso, algo que evitamos con un protocolo adaptado a la zona."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Equipos de filtración fatigados",
+      "body": "Aconsejamos una puesta a punto preventiva antes de que arranque la temporada de más uso."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Alto consumo de cloro por sol intenso",
+      "body": "Las altas temperaturas del verano madrileño degradan el cloro con rapidez. Optimizamos la dosificación para controlar el gasto sin comprometer la calidad del agua."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con piscinas de todas las antigüedades",
+      "body": "Sabemos evaluar tanto instalaciones modernas como piscinas con varias décadas, ajustando el servicio a cada caso."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Precio cerrado sin cambios posteriores",
+      "body": "El importe acordado tras la visita es el que aparece en la factura final del servicio."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Atención a la normativa eléctrica vigente",
+      "body": "Revisamos que la instalación eléctrica de tu piscina cumpla con los estándares de seguridad actuales."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Trato directo y personalizado",
+      "body": "Nos adaptamos a las necesidades concretas de cada vivienda unifamiliar de Pozuelo de Alarcón."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Prioridad en plena temporada de calor",
+      "body": "Damos preferencia a las averías que dejan la piscina fuera de servicio en plena temporada."
     }
   ],
-  "zoneText": "Damos servicio a Pozuelo de Alarcón y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en todo Pozuelo de Alarcón y en los municipios cercanos del oeste de Madrid, adaptando la logística a las urbanizaciones de vivienda unifamiliar.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Pozuelo de Alarcón?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "Mi piscina en Pozuelo tiene más de veinte años, ¿la instalación eléctrica es segura?",
+      "a": "No siempre. Es habitual encontrar cuadros eléctricos sin la protección diferencial que exige la normativa actual en instalaciones de esa antigüedad. Recomendamos una revisión para comprobarlo."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Hace falta invernar la piscina en Pozuelo de Alarcón?",
+      "a": "Sí, aunque la zona es algo más suave que el centro de Madrid, las heladas invernales siguen siendo frecuentes y pueden dañar tuberías sin un invernaje adecuado."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis en todas las urbanizaciones de Pozuelo de Alarcón?",
+      "a": "Sí, atendemos viviendas unifamiliares con piscina en todo el municipio, adaptando el servicio a la antigüedad y el estado de cada instalación."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Podéis decirme si merece la pena reparar mi piscina o renovarla?",
+      "a": "Eso es justo lo que valoramos en la primera visita, comprobando el estado real del vaso y los equipos antes de recomendar una reparación puntual o una renovación más completa."
     }
   ],
-  "closingHeadline": "Tu piscina en Pozuelo de Alarcón, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Pozuelo de Alarcón y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en buenas manos en Pozuelo de Alarcón",
+  "closingCta": "Cuéntanos el estado de tu piscina en Pozuelo de Alarcón y te preparamos un presupuesto cerrado, sin compromiso."
 }

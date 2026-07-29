@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 15362,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Piera | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Piera. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Piera y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Piera — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas en Piera, comarca de l'Anoia. Presupuesto cerrado y atención personalizada en cada servicio.",
+  "heroSubtitle": "Cuidamos tu piscina en Piera durante todo el año, con el clima más continental de la comarca de l'Anoia.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Piera, entre el Penedès, el Garraf y l'Anoia, combina zonas de costa con un interior más agrícola y vitivinícola, lo que se traduce en piscinas muy distintas según la zona: desde chalets en urbanizaciones cercanas al mar hasta masías y casas de campo con piscinas más grandes y alejadas de una depuradora fácilmente accesible. Adaptamos la logística del servicio a cada caso, incluidas las visitas a fincas algo más apartadas.\n\nEl clima mediterráneo de la comarca, con veranos calurosos y secos, favorece un desgaste rápido del cloro y exige un tratamiento de agua bien ajustado a la temporada alta. En las piscinas más antiguas de la zona, con gresite y filtros de arena de hace décadas, la rehabilitación integral suele ser más rentable a largo plazo que ir parcheando averías sueltas.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Piera, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Piera se encuentra en la comarca de l'Anoia, más alejada de la costa que los municipios del Baix Llobregat o el Maresme, lo que le confiere un clima notablemente más continental: veranos más calurosos y secos, con menor humedad ambiental que en zonas próximas al mar, e inviernos con heladas más frecuentes y algo más intensas que en municipios costeros de la misma provincia. Esta diferencia climática respecto a otras comarcas cercanas influye directamente en el mantenimiento de las piscinas privadas de la zona.\n\nEl municipio combina un núcleo urbano tradicional con urbanizaciones de vivienda unifamiliar en su término, donde la piscina privada es habitual. En estas viviendas, el reto principal en verano es el consumo elevado de cloro por la fuerte insolación directa propia del interior, mientras que en invierno el foco se traslada a un invernaje riguroso, necesario por las heladas más marcadas que en la costa cercana de Barcelona.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparaciones y puesta a punto de piscinas particulares en Piera y el resto de l'Anoia.",
+  "processIntro": "Nuestro proceso está pensado para que sepas en todo momento qué tareas se realizan en tu piscina y cuánto van a costar.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Primer contacto",
+      "body": "Nos explicas el estado de tu piscina en Piera y qué servicio necesitas, y valoramos si conviene una visita técnica."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Revisión en tu vivienda",
+      "body": "Inspeccionamos el vaso, la depuradora y los parámetros del agua, considerando el clima más continental de la comarca."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Presupuesto claro y cerrado",
+      "body": "Te entregamos una propuesta detallada con el precio final, sin cargos añadidos posteriores."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Empieza el trabajo con tu ok",
+      "body": "Solo iniciamos el servicio cuando apruebas el presupuesto, buscando la fecha que mejor te encaje."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Servicio y consejos para el clima de interior",
+      "body": "Realizamos el servicio acordado y te explicamos cómo proteger mejor la piscina frente al clima de interior de la zona."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Piera generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El clima más continental de l'Anoia, con veranos secos e inviernos fríos, provoca en Piera problemas propios de esta comarca de interior.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Consumo elevado de cloro por sol directo",
+      "body": "La menor humedad ambiental y la fuerte insolación de l'Anoia degradan el cloro con más rapidez que en zonas costeras. Ajustamos la dosificación semana a semana según la previsión de calor."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Heladas más intensas que en la costa cercana",
+      "body": "El carácter continental de la comarca implica heladas más frecuentes e intensas que en municipios costeros de la misma provincia. Aplicamos un protocolo de invernaje reforzado para esta zona."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Evaporación intensa por el clima seco",
+      "body": "Los veranos secos propios del interior hacen bajar el nivel del agua con rapidez. Recomendamos revisar el nivel con frecuencia durante los picos de calor."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Fisuras por movimientos de terreno estacionales",
+      "body": "Las oscilaciones térmicas marcadas entre estaciones pueden generar pequeños movimientos en el terreno que afectan a juntas y skimmers. Los revisamos con prueba de presión antes de que se conviertan en fugas."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocemos el clima continental de l'Anoia",
+      "body": "Sabemos que Piera tiene un clima más marcado que otras comarcas de Barcelona más cercanas a la costa, y ajustamos el servicio en consecuencia."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "El precio no se mueve una vez aceptado",
+      "body": "El importe que fijamos en la visita técnica es el que ves reflejado en la factura final."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Invernaje reforzado para esta comarca",
+      "body": "Protegemos tuberías, bomba y vaso pensando en las heladas más intensas propias de esta comarca de interior."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Trato cercano en cada visita",
+      "body": "Nos centramos en dar un trato directo a las viviendas unifamiliares con piscina de Piera."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Ayuda a reducir el gasto en cloro",
+      "body": "Ayudamos a reducir el consumo de cloro en los veranos secos de la comarca sin comprometer la calidad del agua."
     }
   ],
-  "zoneText": "Damos servicio a Piera y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Piera y en el resto de municipios de la comarca de l'Anoia, adaptando la logística al carácter más interior de esta zona.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Piera?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué el cloro se gasta tan rápido en mi piscina de Piera?",
+      "a": "El clima más continental de l'Anoia, con menos humedad y mayor insolación directa que en la costa cercana de Barcelona, degrada el cloro con más rapidez. Ajustamos la dosificación semanalmente."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Necesito un invernaje más riguroso que en la costa por vivir en Piera?",
+      "a": "Sí, las heladas en esta comarca de interior suelen ser más frecuentes e intensas que en municipios costeros cercanos, por lo que aplicamos un protocolo de invernaje reforzado."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis en las urbanizaciones de vivienda unifamiliar de Piera?",
+      "a": "Sí, atendemos las viviendas con piscina privada de todo el municipio, adaptando el servicio a las particularidades del clima de la comarca."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Qué diferencia hay entre mantener una piscina en Piera y una en la costa de Barcelona?",
+      "a": "La principal diferencia es la menor humedad ambiental y las heladas más marcadas en invierno, lo que exige ajustar tanto el tratamiento del agua en verano como el invernaje de cara al frío."
     }
   ],
-  "closingHeadline": "Tu piscina en Piera, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Piera y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina preparada para el clima de l'Anoia en Piera",
+  "closingCta": "Cuéntanos el estado de tu piscina en Piera y te preparamos un presupuesto cerrado."
 }

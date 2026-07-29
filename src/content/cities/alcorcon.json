@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 172384,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Alcorcón | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Alcorcón. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Alcorcón y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Alcorcón — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas comunitarias y de negocio en Alcorcón. Presupuesto cerrado, factura y garantía. Contacta con nosotros.",
+  "heroSubtitle": "Cuidamos la piscina de tu comunidad o negocio en Alcorcón durante todo el año.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Alcorcón, en el área metropolitana de Madrid, tiene un clima continental marcado: veranos muy calurosos y secos, con temperaturas que superan con frecuencia los 35°C en julio y agosto, e inviernos fríos que exigen un buen invernaje de la instalación. Esa amplitud térmica desgasta los equipos más que en zonas costeras, y el agua de la red, de dureza considerable en buena parte de la Comunidad de Madrid, deja cal con rapidez en tuberías, juntas de gresite y células de cloradores salinos.\n\nEn las urbanizaciones de chalets y adosados tan habituales en la zona, es frecuente encontrar piscinas de los años 80 y 90 que necesitan una puesta al día completa: nuevo revestimiento, depuradora más eficiente y, cada vez más, una bomba de calor para alargar la temporada de baño más allá de septiembre.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Alcorcón, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Alcorcón, al suroeste de Madrid, es uno de los municipios con mayor densidad de comunidades de propietarios de la región, muchas de ellas con piscina propia construida en las décadas de expansión urbanística del sur madrileño. El clima continental de la zona trae veranos secos y calurosos, con máximas que rondan o superan los 35°C en julio y agosto, e inviernos fríos con heladas frecuentes.\n\nPara las comunidades de barrios como San José de Valderas o Parque Oeste, el reto principal en verano es sostener la calidad del agua bajo un uso intensivo y una degradación rápida del cloro por el calor y la radiación solar. En invierno, el enfoque cambia hacia la protección de la instalación: un invernaje mal hecho puede provocar fisuras por congelación en tuberías y skimmers que se descubren, con el consiguiente gasto, al reabrir en primavera.",
+  "servicesIntro": "Ofrecemos mantenimiento integral, reparación y puesta a punto de piscinas comunitarias y de negocio en Alcorcón.",
+  "processIntro": "Trabajamos con presupuesto cerrado y total transparencia en cada fase.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas tu necesidad",
+      "body": "Nos explicas el tipo de instalación en Alcorcón y qué servicio necesitas."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Presupuesto detallado",
+      "body": "Evaluamos la piscina si hace falta y entregamos una propuesta cerrada, sin sorpresas posteriores."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación previa",
+      "body": "Solo empezamos a trabajar con tu aprobación, coordinando la fecha con tu comunidad o negocio."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Realización del servicio",
+      "body": "Ejecutamos el trabajo acordado con protocolos de seguridad, minimizando molestias a vecinos o clientes."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe de cierre",
+      "body": "Te entregamos un parte de las tareas realizadas y quedamos disponibles para futuros mantenimientos."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Alcorcón generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El contraste entre veranos muy calurosos e inviernos fríos genera en Alcorcón problemas que conviene anticipar.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Agua turbia por calor y uso intensivo",
+      "body": "El calor de julio y agosto, junto al uso masivo de las piscinas comunitarias, puede enturbiar el agua si no se revisa con frecuencia suficiente."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Fisuras por heladas mal previstas",
+      "body": "Un invernaje incompleto deja expuestas tuberías y skimmers a las heladas del invierno madrileño, generando averías que aparecen en primavera."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Consumo elevado de cloro",
+      "body": "La intensa radiación solar del verano degrada el cloro con rapidez. Ajustamos la dosificación en cada visita para mantener el equilibrio."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Saturación de la depuradora en temporada alta",
+      "body": "El uso continuo de las instalaciones en pleno verano puede saturar filtros y bombas sin un mantenimiento preventivo adecuado."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Presupuestos claros para juntas de propietarios",
+      "body": "Preparamos propuestas detalladas y cerradas, listas para su aprobación en junta de vecinos."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Conocimiento del sur de Madrid",
+      "body": "Nos desplazamos con agilidad por Alcorcón y los municipios colindantes del suroeste de la región."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Invernaje adaptado a la zona",
+      "body": "Protegemos tu instalación frente a las heladas habituales del invierno en Alcorcón."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Técnico de referencia",
+      "body": "La misma persona sigue el historial de tu piscina en cada visita."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Coordinación con administradores de fincas",
+      "body": "Facilitamos toda la información que necesita el administrador para reportar a la comunidad."
     }
   ],
-  "zoneText": "Damos servicio a Alcorcón y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades y negocios en todo Alcorcón, incluidos San José de Valderas y Parque Oeste, así como municipios cercanos como Móstoles y Leganés.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Alcorcón?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Cómo evitáis que el agua se enturbie en pleno verano?",
+      "a": "Reforzamos la frecuencia de control en los meses de mayor calor y uso, ajustando la dosificación para compensar la degradación del cloro por el sol."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es necesario un invernaje completo en Alcorcón?",
+      "a": "Sí, las heladas invernales pueden dañar tuberías y equipos desprotegidos. Aplicamos un protocolo de invernaje completo antes de la llegada del frío."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Podéis presentar presupuesto para la junta de vecinos?",
+      "a": "Sí, elaboramos propuestas detalladas y cerradas pensadas específicamente para su aprobación en junta de propietarios."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Trabajáis también con negocios y no solo comunidades?",
+      "a": "Sí, atendemos piscinas de gimnasios, hoteles y otros negocios en Alcorcón, adaptando horarios a su actividad."
     }
   ],
-  "closingHeadline": "Tu piscina en Alcorcón, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Alcorcón y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Alcorcón, lista para cada estación",
+  "closingCta": "Pide presupuesto cerrado para el mantenimiento de tu piscina comunitaria o de negocio en Alcorcón."
 }

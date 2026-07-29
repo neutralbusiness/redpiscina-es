@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 43827,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Llefià | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Llefià. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Llefià y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Llefià, Badalona — Red Piscina",
+  "metaDescription": "Mantenimiento de piscinas comunitarias en Llefià, Badalona. Presupuesto cerrado, factura y garantía. Solicita información.",
+  "heroSubtitle": "Piscinas comunitarias en buen estado en Llefià, uno de los barrios con más población de Badalona.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Llefià, dentro del área metropolitana de Barcelona, tiene una densidad de vivienda muy alta y relativamente pocas piscinas privadas en comparación con otras zonas de la comarca, concentradas sobre todo en algunas urbanizaciones puntuales y piscinas comunitarias de comunidades de vecinos. En estas últimas, el uso es muy intensivo durante el verano y exige un control estricto de los parámetros del agua para cumplir la normativa sanitaria.\n\nEl clima húmedo del área metropolitana favorece el crecimiento de algas si el tratamiento de agua no está bien ajustado, y la proximidad al mar añade el factor de la corrosión salina en escaleras y elementos metálicos. Adaptamos el mantenimiento a ambos factores en cada visita.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Llefià, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Llefià es uno de los barrios más poblados de Badalona, con un tejido residencial de bloques de vecinos muy denso donde la piscina comunitaria es un recurso compartido por un número elevado de familias. El clima mediterráneo costero de esta zona del Barcelonès aporta veranos calurosos y húmedos, con una humedad relativa constante propia de la proximidad al mar que favorece la aparición de algas si el mantenimiento no es continuo, especialmente en instalaciones con poca ventilación en patios interiores.\n\nLa alta densidad de población del barrio se traduce en piscinas comunitarias con un uso muy intensivo durante los fines de semana de verano, lo que exige un control del cloro más frecuente que en comunidades de menor afluencia. La cercanía al mar, aunque Llefià no está directamente en primera línea de costa, sigue aportando cierto grado de salitre en el ambiente que conviene tener en cuenta en el mantenimiento de escaleras y elementos metálicos.",
+  "servicesIntro": "Ofrecemos mantenimiento para comunidades de piscina en Llefià, adaptado a su alta densidad de uso.",
+  "processIntro": "Un proceso simple, con presupuesto cerrado antes de intervenir.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto con la comunidad",
+      "body": "Recogemos los datos de la instalación y el número aproximado de usuarios habituales en Llefià."
+    },
+    {
+      "title": "Revisión técnica",
+      "body": "Comprobamos el estado del vaso, el filtro y la bomba antes de preparar la propuesta."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te enviamos una propuesta clara, lista para presentar en junta de propietarios."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el trabajo acordado, coordinando horarios con la comunidad para minimizar molestias."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
-    },
-    {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe para la comunidad",
+      "body": "Entregamos un documento con los parámetros del agua y las actuaciones realizadas."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Llefià generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La alta densidad de población y la humedad costera de Llefià generan averías recurrentes en las piscinas comunitarias.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Cloro insuficiente en fines de semana de alta afluencia",
+      "body": "La concentración de bañistas por metro cuadrado en las piscinas comunitarias de Llefià agota el cloro libre con rapidez en sábado y domingo."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Algas en patios interiores con poca ventilación",
+      "body": "La humedad propia de la zona, sumada a la falta de ventilación en algunos patios interiores del barrio, facilita la aparición de algas."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Desgaste de escaleras por el aire con salitre",
+      "body": "Aunque Llefià no está en primera línea de costa, el aire del entorno mediterráneo sigue afectando a los elementos metálicos de la piscina con el tiempo."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Filtros saturados por uso continuo",
+      "body": "El elevado número de usuarios respecto al tamaño de muchas instalaciones fuerza el sistema de filtración más de lo habitual en pleno verano."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con comunidades de alta densidad",
+      "body": "Sabemos gestionar piscinas con mucha afluencia respecto a su tamaño, habitual en Llefià."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos claros para comunidades",
+      "body": "Propuestas desglosadas, fáciles de votar en junta de vecinos."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Coordinación con administradores de fincas",
+      "body": "Facilitamos la documentación necesaria para justificar el gasto ante la comunidad."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Atención a la humedad de zonas interiores",
+      "body": "Aplicamos tratamientos específicos para patios con poca ventilación."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de Badalona y su entorno",
+      "body": "Damos servicio en Llefià y el resto de barrios de Badalona."
     }
   ],
-  "zoneText": "Damos servicio a Llefià y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Atendemos Llefià y el resto de barrios de Badalona, con especial atención a comunidades de piscina de uso intensivo y patios interiores.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Llefià?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué nuestra piscina comunitaria en Llefià pierde claridad tan rápido los fines de semana?",
+      "a": "La alta densidad de bañistas por lámina de agua, típica de un barrio tan poblado, agota el cloro con más rapidez de lo habitual. Recomendamos ajustar la frecuencia de visitas en temporada alta."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Trabajáis con comunidades pequeñas de pocos vecinos en Badalona?",
+      "a": "Sí, adaptamos el presupuesto y el plan de mantenimiento al tamaño real de cada comunidad, sea grande o pequeña."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿La cercanía al mar afecta a las piscinas de Llefià aunque no estén en primera línea?",
+      "a": "En menor medida que en un edificio frente al mar, pero sí, el aire de la zona sigue aportando cierto grado de salitre que conviene tener en cuenta con el tiempo."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Podéis coordinar la visita con el horario de uso de la piscina comunitaria?",
+      "a": "Sí, planificamos las intervenciones en las franjas de menor afluencia para no interferir con el uso de los vecinos."
     }
   ],
-  "closingHeadline": "Tu piscina en Llefià, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Llefià y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina comunitaria en Llefià, sin incidencias",
+  "closingCta": "Escríbenos y te preparamos un presupuesto cerrado para tu comunidad en Llefià, Badalona."
 }

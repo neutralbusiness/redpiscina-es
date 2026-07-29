@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 207095,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Móstoles | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Móstoles. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Móstoles y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Móstoles — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas en Móstoles para comunidades, negocios y viviendas. Presupuesto cerrado, factura y garantía.",
+  "heroSubtitle": "Garantizamos el buen estado de tu piscina en Móstoles durante todo el año, incluso en los picos de calor del verano madrileño.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Móstoles, en el área metropolitana de Madrid, tiene un clima continental marcado: veranos muy calurosos y secos, con temperaturas que superan con frecuencia los 35°C en julio y agosto, e inviernos fríos que exigen un buen invernaje de la instalación. Esa amplitud térmica desgasta los equipos más que en zonas costeras, y el agua de la red, de dureza considerable en buena parte de la Comunidad de Madrid, deja cal con rapidez en tuberías, juntas de gresite y células de cloradores salinos.\n\nEn las urbanizaciones de chalets y adosados tan habituales en la zona, es frecuente encontrar piscinas de los años 80 y 90 que necesitan una puesta al día completa: nuevo revestimiento, depuradora más eficiente y, cada vez más, una bomba de calor para alargar la temporada de baño más allá de septiembre.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Móstoles, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Móstoles, una de las ciudades más pobladas de la Comunidad de Madrid, comparte el clima continental de la región: veranos largos y muy calurosos, con temperaturas que superan con frecuencia los 35°C en julio y agosto, e inviernos fríos con heladas habituales entre diciembre y febrero. Para una comunidad de vecinos, un gimnasio o un negocio con piscina en Móstoles, esta combinación exige un mantenimiento planificado que atienda tanto la demanda máxima del verano como la protección estructural frente al frío invernal.\n\nLa ciudad ha crecido con un tejido residencial muy diverso, desde grandes bloques de viviendas con piscina comunitaria hasta polígonos industriales y zonas comerciales con instalaciones deportivas propias. En las comunidades con piscina de barrios como El Soto o Universidad, el uso intensivo durante julio y agosto por parte de cientos de vecinos pone a prueba los sistemas de filtración, mientras que en las instalaciones de uso público o semipúblico la exigencia normativa añade una capa adicional de responsabilidad para el gestor de la instalación.\n\nCuando llega el otoño, la atención se traslada al invernaje: las heladas en Móstoles, aunque algo más suaves que en la sierra, son suficientes para dañar tuberías y skimmers mal protegidos. Un invernaje deficiente se traduce en primavera en reparaciones que podrían haberse evitado con una preparación adecuada, un coste que ninguna comunidad de propietarios quiere ver reflejado en su presupuesto anual.",
+  "servicesIntro": "Ofrecemos mantenimiento integral, reparaciones y puesta a punto de piscinas comunitarias, de negocio y particulares en Móstoles.",
+  "processIntro": "Trabajamos con un proceso claro y estructurado, ideal para comunidades de propietarios y negocios que necesitan presupuestos cerrados y sin sorpresas.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto y recogida de datos",
+      "body": "Nos explicas el tipo de instalación en Móstoles, su uso y las necesidades concretas, ya sea una comunidad, un negocio o una vivienda particular."
+    },
+    {
+      "title": "Evaluación técnica",
+      "body": "Realizamos una visita para revisar el estado del vaso, la depuradora y los parámetros del agua, identificando cualquier incidencia antes de presupuestar."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te entregamos una propuesta detallada, sin letra pequeña, ideal para presentar en junta de propietarios o para la dirección del negocio."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Autorización previa",
+      "body": "No iniciamos ningún trabajo sin tu confirmación explícita, coordinando la intervención con los horarios de la comunidad o del negocio."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
-    },
-    {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Ejecución y entrega de informe",
+      "body": "Realizamos el servicio acordado y entregamos un informe de las actuaciones, útil para el administrador de fincas o el responsable de la instalación."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Móstoles generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El clima continental de Móstoles, con veranos muy calurosos e inviernos con heladas, genera problemas recurrentes en piscinas comunitarias y de negocio.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Saturación de filtros en temporada alta",
+      "body": "En julio y agosto, el uso intensivo de piscinas comunitarias en Móstoles somete a los sistemas de filtración a un desgaste considerable. Realizamos revisiones preventivas antes del pico de calor para evitar averías en pleno verano."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Daños estructurales por heladas invernales",
+      "body": "Un invernaje incompleto ante las heladas de diciembre a febrero puede fisurar tuberías y el propio vaso. Nuestro protocolo de invernaje protege cada componente antes de la llegada del frío."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Consumo elevado de cloro por radiación solar",
+      "body": "Las altas temperaturas y la intensa insolación del verano madrileño degradan el cloro rápidamente, disparando el gasto en productos si no se ajusta la dosificación. Optimizamos el tratamiento para reducir costes."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
+      "title": "Incumplimiento normativo en instalaciones de uso público",
+      "body": "Las piscinas comunitarias y de negocio en Móstoles están sujetas a inspecciones sanitarias. Un control deficiente de cloro y pH puede derivar en sanciones. Garantizamos el cumplimiento del Real Decreto 742/2013."
     },
     {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Agua turbia tras tormentas de verano",
+      "body": "Las tormentas veraniegas, aunque breves, arrastran polvo y materia orgánica que desestabilizan el agua con rapidez. Aplicamos tratamientos de choque para recuperar la claridad en poco tiempo."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Presupuestos aptos para juntas de propietarios",
+      "body": "Presentamos propuestas claras, ideales para ser evaluadas y aprobadas en juntas de vecinos, sin costes ocultos."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Conocimiento de la normativa sanitaria",
+      "body": "Operamos con pleno conocimiento de la normativa aplicable en la Comunidad de Madrid, garantizando el cumplimiento legal de tu instalación."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Adaptabilidad a comunidades y negocios",
+      "body": "Coordinamos las visitas para minimizar el impacto en vecinos o clientes, ajustando horarios según cada caso."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Técnico de referencia asignado",
+      "body": "Un mismo técnico sigue el historial de tu instalación, simplificando la comunicación y el seguimiento."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Informes útiles para administradores de fincas",
+      "body": "Entregamos partes de trabajo detallados que facilitan el reporte a la junta de propietarios."
     }
   ],
-  "zoneText": "Damos servicio a Móstoles y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Cubrimos toda la ciudad de Móstoles y los municipios cercanos del suroeste de Madrid, adaptando la logística tanto a comunidades de vecinos como a negocios e instalaciones deportivas.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Móstoles?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Cómo gestionáis el mantenimiento de una piscina comunitaria en Móstoles con mucho uso en verano?",
+      "a": "Planificamos revisiones preventivas antes de julio y agosto, cuando el uso se dispara, y ajustamos la frecuencia de mantenimiento a la afluencia real de la comunidad para evitar que el agua pierda calidad en los momentos de más demanda."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Vuestros servicios cumplen con la normativa sanitaria para piscinas comunitarias?",
+      "a": "Sí, todos nuestros procedimientos y productos cumplen con el Real Decreto 742/2013 y la normativa aplicable en la Comunidad de Madrid, ofreciendo garantías ante cualquier inspección sanitaria."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Ofrecéis informes para presentar en la junta de propietarios?",
+      "a": "Sí, tras cada visita podemos generar un parte de trabajo con los parámetros medidos y las actuaciones realizadas, muy útil para que el administrador de fincas informe a la junta."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Qué incluye vuestro servicio de invernaje en Móstoles?",
+      "a": "Incluye el ajuste del nivel de agua, la protección de skimmers y boquillas, la purga de tuberías y depuradora, y la aplicación de producto invernador, todo pensado para proteger la instalación de las heladas de invierno."
     }
   ],
-  "closingHeadline": "Tu piscina en Móstoles, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Móstoles y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "El mantenimiento profesional que tu piscina necesita en Móstoles",
+  "closingCta": "Contacta con nosotros para recibir un presupuesto cerrado y sin compromiso para tu comunidad, negocio o vivienda en Móstoles."
 }

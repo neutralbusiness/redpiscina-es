@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 10270,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Montgat | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Montgat. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Montgat y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Montgat — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas en Montgat, costa del Maresme. Presupuesto cerrado y atención cercana en cada visita.",
+  "heroSubtitle": "Mantenemos tu piscina en Montgat lista para el baño, con el Mediterráneo como telón de fondo.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Montgat, en plena comarca del Maresme, combina el clima suave de la costa catalana con una alta densidad de viviendas unifamiliares con piscina, sobre todo en las zonas más alejadas del núcleo urbano. La proximidad al mar es una ventaja para el clima, pero también un desafío técnico: la brisa marina cargada de sal acelera la corrosión de escaleras, barandillas y carcasas metálicas de las depuradoras peor protegidas. En las viviendas más próximas al litoral prestamos especial atención a estos elementos en cada revisión.\n\nEl verano en el Maresme es largo y húmedo, lo que exige un tratamiento del agua constante para evitar algas y turbidez. Muchas piscinas de la zona, construidas hace décadas, siguen teniendo gresite y depuradoras poco eficientes: renovar el sistema de filtración con una bomba de velocidad variable suele ser la mejora que más se nota, tanto en la factura eléctrica como en la calidad del agua.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Montgat, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Montgat es un municipio costero pequeño, situado en el arranque del Maresme junto al mar y protegido por la sierra de Marina, lo que le da un microclima suave pero con una humedad marina constante durante todo el año. Esta humedad, combinada con la brisa salina, es el principal factor a tener en cuenta en el mantenimiento de piscinas en la zona: acelera la corrosión de escaleras y elementos metálicos y favorece la aparición de moho en las zonas de solárium si no se ventilan bien.\n\nEl municipio, de tamaño reducido, combina un núcleo compacto junto al paseo marítimo con algunas zonas residenciales de vivienda unifamiliar en las cotas más altas, hacia la sierra de Marina, donde la piscina privada es más habitual. En estas viviendas, elevadas respecto al nivel del mar, el viento y la salinidad siguen presentes pero con menos arena que en las piscinas situadas justo junto a la playa, lo que exige un enfoque de mantenimiento algo distinto según la ubicación exacta de cada casa.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparaciones y puesta a punto de piscinas particulares en Montgat, adaptados al ambiente costero.",
+  "processIntro": "Nuestro proceso de trabajo en Montgat busca darte claridad total sobre las tareas y el coste antes de empezar.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Cuéntanos tu caso",
+      "body": "Nos explicas el estado de tu piscina en Montgat y qué servicio necesitas, y valoramos si hace falta una visita previa."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Inspección junto al mar",
+      "body": "Revisamos el vaso, la depuradora y las escaleras y anclajes metálicos, midiendo el desgaste que suele dejar el aire salino."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Presupuesto sin cargos añadidos",
+      "body": "Te presentamos un precio cerrado y detallado antes de tocar nada, para que decidas con toda la información."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Arrancamos cuando dices sí",
+      "body": "Nada se mueve hasta que apruebas la propuesta; después buscamos juntos la fecha que mejor te venga."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Servicio y pautas anticorrosión",
+      "body": "Terminado el trabajo, te contamos cómo alargar la vida de escaleras y equipos frente al desgaste marino."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Montgat generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La humedad y la salinidad constantes de la costa del Maresme provocan en Montgat incidencias propias del entorno marino.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Óxido temprano en escaleras y barandillas",
+      "body": "El aire salino que envuelve Montgat de forma constante ataca metales y anclajes con más rapidez que en zonas de interior. Aconsejamos revisiones periódicas para detectar el desgaste antes de que sea grave."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Moho en zonas de solárium poco ventiladas",
+      "body": "La humedad constante puede favorecer la aparición de moho en superficies cercanas a la piscina que no reciben suficiente sol o ventilación. Proponemos ajustes sencillos para reducir este problema."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Arena en el filtro en viviendas próximas a la playa",
+      "body": "Las piscinas más cercanas al paseo marítimo reciben arena arrastrada por el viento con más frecuencia. Ajustamos la periodicidad de limpieza de filtros según la ubicación exacta de cada vivienda."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Gasto elevado de cloro por sol y salinidad",
+      "body": "Sol intenso y ambiente salino trabajan juntos para descomponer el cloro con rapidez en Montgat. Vamos ajustando la dosis semana a semana para que el gasto no se dispare."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Trato especial al ambiente marino",
+      "body": "Sabemos que el aire salino de Montgat desgasta los equipos más rápido que en el interior, y ajustamos el mantenimiento a esa realidad."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Sabes lo que pagas desde el principio",
+      "body": "Antes de tocar nada te damos el precio final por escrito, y ese es el que se factura."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Servicio distinto según la altura sobre el mar",
+      "body": "No tratamos igual una piscina junto al paseo marítimo que una en las cotas altas hacia la sierra de Marina."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Asesoría en materiales resistentes a la sal",
+      "body": "Te orientamos sobre qué escaleras y anclajes aguantan mejor la salinidad si toca renovar algo."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Atentos en los meses de más uso",
+      "body": "En los meses de más calor damos preferencia a las averías que dejan la piscina fuera de servicio."
     }
   ],
-  "zoneText": "Damos servicio a Montgat y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Montgat y en el resto de municipios de la costa del Maresme, adaptando el mantenimiento a la cercanía de cada vivienda respecto al mar.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Montgat?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué se oxidan tan rápido los elementos metálicos de mi piscina en Montgat?",
+      "a": "El aire salino que envuelve el municipio de forma constante desgasta escaleras y anclajes con más rapidez que tierra adentro. Aconsejamos piezas de calidad marina y revisiones periódicas para detectar el óxido a tiempo."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "Mi piscina está cerca de la playa, ¿necesita más mantenimiento que una en las zonas altas?",
+      "a": "Sí, las piscinas más próximas al paseo marítimo suelen acumular más arena en el filtro y sufrir más exposición salina, por lo que ajustamos la frecuencia de limpieza según la ubicación exacta."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Qué materiales recomendáis para escaleras y barandillas en Montgat?",
+      "a": "Recomendamos acero inoxidable de calidad marina u otros materiales específicamente resistentes a la salinidad, que aguantan mucho mejor el ambiente costero que los materiales estándar."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Trabajáis en viviendas de las zonas altas de Montgat, cerca de la sierra de Marina?",
+      "a": "Sí, atendemos tanto las viviendas próximas al mar como las situadas en las cotas más altas del municipio, ajustando el servicio a las particularidades de cada ubicación."
     }
   ],
-  "closingHeadline": "Tu piscina en Montgat, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Montgat y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscina protegida del mar en Montgat",
+  "closingCta": "Cuéntanos el estado de tu piscina en Montgat y te preparamos un presupuesto cerrado."
 }

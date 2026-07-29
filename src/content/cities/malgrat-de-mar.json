@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 18472,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Malgrat de Mar | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Malgrat de Mar. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Malgrat de Mar y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Malgrat de Mar — Red Piscina",
+  "metaDescription": "Mantenimiento de piscinas comunitarias y de negocios turísticos en Malgrat de Mar, Maresme. Presupuesto cerrado y garantía.",
+  "heroSubtitle": "Piscinas cuidadas en Malgrat de Mar, el último municipio del Maresme frente al Mediterráneo.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Vivir en Malgrat de Mar, en el Maresme, significa disfrutar de una temporada de baño larga gracias al clima mediterráneo suave, pero también lidiar con la humedad salina que llega del mar y que ataca antes de lo esperado a los elementos metálicos de la piscina: escaleras, tornillería y motores de depuradora. En nuestras visitas por la zona es habitual encontrar corrosión avanzada en instalaciones de más de 15 años que no han recibido mantenimiento preventivo en estos puntos.\n\nLa mayoría de piscinas privadas en esta zona son de construcción de hormigón gunitado con gresite, un sistema fiable pero que con el tiempo sufre fisuras en las juntas y pérdida de piezas. Evaluamos cada vaso para decidir si conviene renovar el revestimiento o si es más rentable optar por una lámina de liner, que ofrece una estanqueidad total con una instalación más rápida.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Malgrat de Mar, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Malgrat de Mar, situado en el extremo norte de la comarca del Maresme, combina un núcleo de población permanente con una fuerte presencia de negocios turísticos y apartamentos vacacionales que multiplican el uso de las piscinas comunitarias durante los meses de verano. El clima mediterráneo costero de la zona aporta veranos calurosos y húmedos, con la brisa marina como factor constante que aporta salitre al ambiente y acelera el deterioro de escaleras, rejillas y elementos metálicos en las instalaciones más próximas al paseo marítimo.\n\nLa condición de destino turístico de Malgrat de Mar añade una exigencia adicional: muchas piscinas comunitarias reciben un uso muy intensivo y concentrado durante julio y agosto, con una rotación de usuarios propia de complejos de apartamentos vacacionales, muy distinta al patrón de uso de una comunidad de residentes permanentes. Esto exige un control del cloro y del filtrado especialmente riguroso en temporada alta, cuando cualquier incidencia en la calidad del agua tiene un impacto directo en la experiencia de los visitantes.",
+  "servicesIntro": "Ofrecemos mantenimiento para comunidades y negocios turísticos en Malgrat de Mar, adaptado al uso intensivo de temporada alta.",
+  "processIntro": "Un proceso claro, con presupuesto cerrado antes de comenzar.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto inicial",
+      "body": "Nos cuentas el tipo de instalación, comunidad residencial o complejo de apartamentos turísticos."
+    },
+    {
+      "title": "Valoración técnica",
+      "body": "Revisamos el vaso y los equipos, prestando atención al desgaste por salitre y al uso intensivo previsto."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te presentamos una propuesta clara y detallada, pensada para la temporada alta del Maresme."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Ejecución acordada",
+      "body": "Realizamos el servicio coordinando con el calendario de ocupación turística de la instalación."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
-    },
-    {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Refuerzo en temporada alta",
+      "body": "Ajustamos la frecuencia de visitas durante julio y agosto para garantizar la calidad del agua en el pico de uso."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Malgrat de Mar generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El salitre marino y el uso turístico intensivo de temporada alta generan averías particulares en Malgrat de Mar.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Corrosión de elementos metálicos por brisa marina",
+      "body": "La proximidad al Mediterráneo deteriora escaleras y rejillas con más rapidez de lo habitual en las piscinas próximas al paseo marítimo."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Cloro insuficiente en complejos de apartamentos turísticos",
+      "body": "La alta rotación de usuarios en temporada alta agota el cloro libre con rapidez, especialmente en instalaciones de uso vacacional."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Filtros saturados durante julio y agosto",
+      "body": "El pico de ocupación turística fuerza el sistema de filtración muy por encima del uso habitual del resto del año."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Turbidez tras tormentas de verano",
+      "body": "Las tormentas típicas del Mediterráneo estival arrastran materia orgánica que puede enturbiar el agua en pocas horas si no se actúa con rapidez."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con negocios turísticos costeros",
+      "body": "Sabemos gestionar el pico de uso propio de la temporada alta en un municipio turístico como Malgrat de Mar."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Protección específica frente al salitre",
+      "body": "Recomendamos materiales y revisiones adaptados a la corrosión marina de la zona."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Refuerzo de visitas en temporada alta",
+      "body": "Adaptamos la frecuencia de mantenimiento al pico de ocupación de julio y agosto."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Presupuestos claros para comunidades y negocios",
+      "body": "Propuestas desglosadas, sin sorpresas, adaptadas al calendario turístico."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de todo el Maresme",
+      "body": "Damos servicio en Malgrat de Mar y los municipios cercanos de la comarca."
     }
   ],
-  "zoneText": "Damos servicio a Malgrat de Mar y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Malgrat de Mar, incluyendo el paseo marítimo, las urbanizaciones residenciales y los complejos de apartamentos turísticos, así como los municipios cercanos del Maresme.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Malgrat de Mar?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿El uso turístico de Malgrat de Mar exige más mantenimiento que en una comunidad de residentes?",
+      "a": "Sí, la rotación de usuarios en complejos de apartamentos vacacionales suele ser mucho mayor que en una comunidad de residentes permanentes, lo que exige un control del agua más frecuente en temporada alta."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿El salitre afecta a todas las piscinas de Malgrat de Mar por igual?",
+      "a": "El efecto es más intenso en las instalaciones próximas al paseo marítimo, aunque la brisa del Mediterráneo se nota en menor medida en todo el municipio."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con comunidades de propietarios que alquilan sus apartamentos en verano?",
+      "a": "Sí, adaptamos el plan de mantenimiento a instalaciones con alta rotación de usuarios vacacionales durante la temporada alta."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Podéis reforzar las visitas solo durante julio y agosto?",
+      "a": "Sí, es habitual ajustar la frecuencia de mantenimiento al pico de ocupación turística y volver a un ritmo más ligero el resto del año."
     }
   ],
-  "closingHeadline": "Tu piscina en Malgrat de Mar, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Malgrat de Mar y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas listas para la temporada alta en Malgrat de Mar",
+  "closingCta": "Contacta con nosotros para un presupuesto cerrado adaptado al uso turístico y al salitre de Malgrat de Mar."
 }

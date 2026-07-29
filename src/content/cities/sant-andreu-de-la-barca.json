@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 26401,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Sant Andreu de la Barca | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Sant Andreu de la Barca. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Sant Andreu de la Barca y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Sant Andreu de la Barca",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en Sant Andreu de la Barca, Baix Llobregat. Presupuesto cerrado y garantía.",
+  "heroSubtitle": "Un servicio técnico de confianza para la piscina de tu comunidad o negocio en Sant Andreu de la Barca.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Sant Andreu de la Barca, en el Baix Llobregat, damos servicio tanto a chalets particulares como a piscinas comunitarias, muy habituales en las urbanizaciones de la comarca. El uso intensivo de las piscinas comunitarias en temporada alta exige un mantenimiento más frecuente y un control estricto de los parámetros del agua, mientras que en las piscinas privadas el reto suele ser distinto: mantenerlas en buen estado con visitas más espaciadas durante el resto del año.\n\nLa cercanía al Llobregat y la humedad de la zona hacen que el gresite y las juntas de piscinas antiguas se degraden con el tiempo, provocando fugas difíciles de localizar a simple vista. Usamos equipos de detección profesional para dar con el punto exacto sin necesidad de obras innecesarias.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Sant Andreu de la Barca, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Sant Andreu de la Barca se sitúa en el interior del Baix Llobregat, alejado de la influencia moderadora de la costa, lo que se traduce en veranos más calurosos que en los municipios litorales de la comarca. El valle del Llobregat retiene el calor durante las tardes de julio y agosto, y la humedad del río añade una sensación térmica más pesada que en zonas de interior seco, un factor que acelera la degradación del cloro y favorece la aparición de algas si el mantenimiento no es constante.\n\nEl municipio combina bloques de vecinos con algunas zonas de vivienda unifamiliar, por lo que conviven piscinas comunitarias de uso colectivo y piscinas privadas de chalet. En ambos casos, el calor húmedo del valle exige revisiones frecuentes durante la temporada alta, especialmente tras los días de mayor afluencia de bañistas o después de tormentas de verano, habituales en esta zona del Llobregat.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación e invernaje para piscinas comunitarias y de chalet en Sant Andreu de la Barca.",
+  "processIntro": "Un proceso sencillo, adaptado tanto a comunidades como a piscinas particulares del municipio.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Cuéntanos tu caso",
+      "body": "Nos explicas el tipo de piscina y su uso habitual en Sant Andreu de la Barca."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Propuesta cerrada",
+      "body": "Elaboramos un presupuesto claro y detallado, sin cargos adicionales de última hora."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación",
+      "body": "Empezamos el trabajo cuando das tu aprobación, coordinando la fecha más conveniente."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución",
+      "body": "Realizamos la intervención acordada con atención al calor húmedo característico del valle del Llobregat."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Cierre y recomendaciones",
+      "body": "Te dejamos un informe del trabajo hecho y consejos para mantener el agua en buen estado hasta la próxima visita."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Sant Andreu de la Barca generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El calor húmedo del valle del Llobregat y las tormentas de verano provocan incidencias características en Sant Andreu de la Barca.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Agua verde tras tormentas de verano",
+      "body": "Las tormentas propias del valle arrastran polvo y materia orgánica que desestabilizan el agua en pocas horas. Aplicamos tratamientos de choque para recuperar la transparencia rápidamente."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Proliferación de algas por calor húmedo",
+      "body": "La humedad del río Llobregat, sumada al calor de julio y agosto, favorece la aparición de algas si el cloro no se mantiene en niveles adecuados. Reforzamos el control en esos meses."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Sobrecarga de depuradoras comunitarias",
+      "body": "En las piscinas de vecinos con más uso, el sistema de filtración puede saturarse en temporada alta. Revisamos bombas y filtros de forma preventiva."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Daños por heladas en piscinas de chalet",
+      "body": "Los inviernos, aunque menos severos que en el interior de Cataluña, pueden dañar piscinas privadas mal invernadas. Recomendamos un invernaje completo cada año."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocemos el valle del Llobregat",
+      "body": "Sabemos cómo el calor húmedo de la zona afecta al mantenimiento y adaptamos el tratamiento en consecuencia."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Servicio para comunidades y chalets",
+      "body": "Nos adaptamos tanto a piscinas comunitarias como a instalaciones privadas de vivienda unifamiliar."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuestos sin sorpresas",
+      "body": "Ofrecemos precios cerrados y detallados desde el primer momento."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Respuesta ágil tras tormentas",
+      "body": "Priorizamos las incidencias urgentes después de episodios de lluvia intensa en verano."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Seguimiento continuo",
+      "body": "Un mismo técnico conoce el historial de tu piscina para intervenciones futuras más rápidas."
     }
   ],
-  "zoneText": "Damos servicio a Sant Andreu de la Barca y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Atendemos comunidades, chalets y negocios en todo el municipio de Sant Andreu de la Barca, en el Baix Llobregat.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Sant Andreu de la Barca?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué hace tanto calor húmedo en Sant Andreu de la Barca en verano?",
+      "a": "Al estar en el interior del valle del Llobregat, sin la influencia moderadora directa de la costa, las tardes de verano retienen más calor y humedad que en municipios litorales de la comarca."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Las tormentas de verano afectan mucho al agua de la piscina?",
+      "a": "Sí, las tormentas propias de la zona pueden enturbiar el agua en pocas horas por el arrastre de polvo y materia orgánica. Recomendamos revisar la piscina tras cada episodio de lluvia intensa."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con piscinas de chalet además de comunidades?",
+      "a": "Sí, atendemos tanto piscinas comunitarias como privadas en las zonas de vivienda unifamiliar del municipio."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Es necesario invernar la piscina en Sant Andreu de la Barca?",
+      "a": "Sí, aunque los inviernos son más suaves que en el interior de Cataluña, un invernaje adecuado sigue siendo importante para evitar daños en la instalación."
     }
   ],
-  "closingHeadline": "Tu piscina en Sant Andreu de la Barca, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Sant Andreu de la Barca y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Agua clara todo el verano en Sant Andreu de la Barca",
+  "closingCta": "Solicita un presupuesto cerrado para el mantenimiento de tu piscina en Sant Andreu de la Barca."
 }

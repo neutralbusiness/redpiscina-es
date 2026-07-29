@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 11134,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Pallejà | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Pallejà. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Pallejà y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Pallejà — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas en Pallejà, junto al Llobregat. Presupuesto cerrado y técnico de confianza en cada visita.",
+  "heroSubtitle": "Cuidamos tu piscina en Pallejà, junto al río Llobregat, durante todo el año.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Pallejà, en el Baix Llobregat, reúne tanto zonas muy próximas a la costa como áreas más interiores junto al río, con piscinas tanto en viviendas unifamiliares como en comunidades de vecinos. El clima mediterráneo húmedo de la comarca favorece una temporada de baño larga, pero también un crecimiento más rápido de algas si el tratamiento de agua no se ajusta bien a la humedad ambiente.\n\nMuchas urbanizaciones de la zona se construyeron en los años 80 y 90, con piscinas de gresite y sistemas de filtración que hoy resultan poco eficientes energéticamente. Sustituir una bomba de filtración antigua por una de velocidad variable es, en la mayoría de los casos, la mejora que antes se amortiza, con ahorros eléctricos de hasta el 80% en la depuración.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Pallejà, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Pallejà se sitúa a orillas del río Llobregat, en un tramo del Baix Llobregat donde el valle se estrecha entre las sierras, generando una humedad ambiental algo superior a la de zonas más abiertas de la comarca. Los veranos son calurosos, con jornadas de bochorno propias de los fondos de valle, mientras que la cercanía del río mantiene el ambiente húmedo incluso en los momentos de más calor, una combinación que favorece la aparición de algas en piscinas privadas si el tratamiento no es constante.\n\nEl municipio, de tamaño reducido, cuenta con un buen número de viviendas unifamiliares con piscina, tanto en el núcleo urbano cercano al río como en las zonas residenciales algo más elevadas. Para estas viviendas, el mantenimiento debe tener en cuenta la humedad constante del entorno fluvial, que exige revisiones del pH y del cloro más frecuentes que en municipios de interior alejados de cursos de agua.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparaciones y puesta a punto de piscinas particulares en Pallejà.",
+  "processIntro": "Nuestro proceso está pensado para darte claridad total sobre lo que se hace en tu piscina y su coste.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Empezamos por escucharte",
+      "body": "Nos explicas el estado de tu piscina en Pallejà y qué servicio necesitas, y valoramos si conviene una visita previa."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita al río, visita a tu vivienda",
+      "body": "Inspeccionamos el vaso, la depuradora y los parámetros del agua, siempre directamente en tu instalación."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Presupuesto con precio final",
+      "body": "Te entregamos una propuesta con el precio detallado, sin cargos añadidos después."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Trabajamos tras tu confirmación",
+      "body": "Empezamos a trabajar solo cuando apruebas el presupuesto, coordinando la fecha adecuada."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Ejecución y pautas por la humedad del entorno",
+      "body": "Realizamos el servicio acordado y te explicamos cómo mantener el agua estable dado el entorno húmedo del municipio."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Pallejà generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La humedad del valle del Llobregat en Pallejà genera incidencias particulares que conviene anticipar en cada temporada.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Algas que favorece la humedad del Llobregat",
+      "body": "La cercanía del Llobregat mantiene un ambiente húmedo que favorece el crecimiento de algas, incluso con un tratamiento de cloro aparentemente correcto. Ajustamos el pH y la dosificación con más frecuencia."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "El agua se descompensa tras las tormentas",
+      "body": "Las tormentas propias del valle en los meses de más calor alteran rápidamente el equilibrio químico del agua. Aplicamos correcciones específicas tras cada episodio de lluvia."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Filtros sucios por vegetación de ribera",
+      "body": "La vegetación propia del entorno fluvial puede llegar hasta las piscinas más próximas al río, saturando los filtros. Ajustamos la frecuencia de limpieza según la ubicación de cada vivienda."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Depuradora exigida por el calor del valle",
+      "body": "El uso intensivo en los meses de calor, junto con la humedad constante, obliga al sistema de filtración a rendir al máximo. Revisamos los equipos antes de que llegue la temporada alta."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocemos la humedad del valle del Llobregat",
+      "body": "Sabemos cómo afecta la cercanía del río al mantenimiento del agua en las viviendas de Pallejà."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Sin cambios de precio a mitad de obra",
+      "body": "El importe acordado tras la visita no varía al llegar la factura final."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Atención directa en cada visita",
+      "body": "Nos centramos en dar un trato directo y personalizado a las viviendas unifamiliares del municipio."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Revisamos antes de sustituir",
+      "body": "Verificamos qué falla realmente en cada componente antes de sugerir sustituirlo."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Máxima prioridad en verano",
+      "body": "Damos preferencia a las averías que impiden usar la piscina justo en los meses de más calor."
     }
   ],
-  "zoneText": "Damos servicio a Pallejà y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Pallejà y en los municipios cercanos del Baix Llobregat, adaptando el mantenimiento a la proximidad de cada vivienda con el río.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Pallejà?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué mi piscina en Pallejà tiene más algas que en otros municipios cercanos?",
+      "a": "La cercanía del río Llobregat mantiene una humedad ambiental algo más alta, lo que favorece el crecimiento de algas. Ajustamos el tratamiento con revisiones más frecuentes en las viviendas más próximas al río."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Las tormentas de verano afectan mucho al agua de mi piscina en Pallejà?",
+      "a": "Sí, las tormentas propias del valle del Llobregat pueden alterar el pH con rapidez. Recomendamos revisar el agua tras cada episodio de lluvia intensa en verano."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis en todas las zonas residenciales de Pallejà?",
+      "a": "Sí, atendemos tanto las viviendas más cercanas al río como las de las zonas residenciales más elevadas del municipio."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Qué hacéis si tengo una avería en plena temporada de verano?",
+      "a": "Priorizamos las averías que dejan la piscina inutilizable en los meses de más uso, para minimizar el tiempo que estés sin poder disfrutarla."
     }
   ],
-  "closingHeadline": "Tu piscina en Pallejà, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Pallejà y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Agua clara junto al Llobregat en Pallejà",
+  "closingCta": "Cuéntanos el estado de tu piscina en Pallejà y te preparamos un presupuesto cerrado."
 }

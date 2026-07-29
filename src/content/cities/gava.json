@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 45994,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Gavà | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Gavà. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Gavà y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Gavà — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas frente al salitre en Gavà, costa del Baix Llobregat. Presupuesto cerrado.",
+  "heroSubtitle": "Piscinas protegidas del salitre en Gavà, con mantenimiento profesional todo el año.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Gavà, en el Baix Llobregat, damos servicio tanto a chalets particulares como a piscinas comunitarias, muy habituales en las urbanizaciones de la comarca. El uso intensivo de las piscinas comunitarias en temporada alta exige un mantenimiento más frecuente y un control estricto de los parámetros del agua, mientras que en las piscinas privadas el reto suele ser distinto: mantenerlas en buen estado con visitas más espaciadas durante el resto del año.\n\nLa cercanía al Llobregat y la humedad de la zona hacen que el gresite y las juntas de piscinas antiguas se degraden con el tiempo, provocando fugas difíciles de localizar a simple vista. Usamos equipos de detección profesional para dar con el punto exacto sin necesidad de obras innecesarias.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Gavà, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Gavà es un municipio costero del Baix Llobregat con una extensa playa y una zona urbana, Gavà Mar, situada muy cerca del litoral, junto al núcleo urbano principal algo más alejado de la costa. Esa cercanía al mar marca de forma directa el mantenimiento de las piscinas de la zona: el aire salino corroe con rapidez elementos metálicos, escaleras y componentes de la depuradora en las instalaciones más próximas a la playa, mientras que el clima mediterráneo suave, atemperado por la brisa marina, hace que los veranos sean calurosos pero con humedad relativa notable.\n\nEl municipio combina las urbanizaciones de vivienda unifamiliar de Gavà Mar, muchas con piscina propia y uso muy vinculado a la temporada estival, con comunidades de vecinos en el núcleo urbano más alejado del litoral. Para las piscinas de Gavà Mar, el reto principal es la protección frente al salitre y la gestión de un uso estacional intenso en pocos meses, mientras que las comunidades del centro necesitan un mantenimiento más orientado al uso compartido durante todo el verano.",
+  "servicesIntro": "Ofrecemos mantenimiento, protección frente al salitre y reparación de piscinas privadas y comunitarias en Gavà.",
+  "processIntro": "Un proceso sencillo, con presupuesto cerrado, adaptado según la ubicación de la piscina dentro del municipio.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto",
+      "body": "Nos explicas la ubicación de tu piscina —Gavà Mar o el núcleo urbano— y el servicio que necesitas."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita y presupuesto",
+      "body": "Evaluamos la instalación, considerando su exposición al salitre, y entregamos un presupuesto cerrado."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Aprobación",
+      "body": "Solo empezamos a trabajar cuando confirmas la propuesta."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos la intervención acordada, adaptándonos al uso estacional si se trata de una vivienda de temporada."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe final",
+      "body": "Entregamos un resumen de lo realizado y quedamos disponibles para el seguimiento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Gavà generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El ambiente marino de Gavà Mar y el uso estacional de muchas viviendas generan averías propias de la zona.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Corrosión de elementos metálicos por salitre",
+      "body": "Escaleras, barandillas y componentes de la bomba se oxidan con más rapidez en Gavà Mar. Los revisamos en cada visita para anticipar el desgaste."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Arena en filtros de piscinas próximas a la playa",
+      "body": "El viento del litoral arrastra arena hacia las instalaciones más cercanas a la costa, saturando los filtros. Ajustamos la frecuencia de limpieza en consecuencia."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Descuido en piscinas de uso estacional",
+      "body": "Muchas viviendas de Gavà Mar se usan sobre todo en verano, lo que puede dejar la piscina sin control varios meses. Programamos un mantenimiento adaptado a este uso intermitente."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Algas por humedad marina en verano",
+      "body": "La combinación de calor estival y humedad del litoral favorece las algas si el cloro baja de nivel. Reforzamos el control en los meses de más uso."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con ambiente marino en Gavà Mar",
+      "body": "Sabemos cómo el salitre afecta a las instalaciones cercanas a la costa del Baix Llobregat."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Adaptación a viviendas de uso estacional",
+      "body": "Programamos visitas pensadas para un uso concentrado en los meses de verano."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Sin costes ocultos, sabes desde el inicio qué vas a pagar."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Técnico de referencia estable",
+      "body": "La misma persona sigue el historial de tu piscina."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de todo el municipio",
+      "body": "Atendemos tanto Gavà Mar como el núcleo urbano más alejado de la costa."
     }
   ],
-  "zoneText": "Damos servicio a Gavà y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Gavà, tanto en la zona de Gavà Mar próxima a la playa como en el núcleo urbano principal del municipio.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Gavà?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿El salitre afecta mucho a mi piscina en Gavà Mar?",
+      "a": "Sí, es una de las zonas más expuestas al ambiente marino del municipio. Corroe escaleras, barandillas y componentes metálicos de la depuradora, por lo que los revisamos en cada visita."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Podéis hacer el mantenimiento si solo uso la vivienda en verano?",
+      "a": "Sí, es una situación muy habitual en Gavà Mar. Adaptamos la frecuencia de visitas a un uso estacional de la vivienda."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿La arena de la playa satura los filtros de la piscina?",
+      "a": "Sí, en las instalaciones más cercanas al litoral el viento arrastra arena hacia el vaso, por lo que ajustamos la periodicidad de limpieza de los filtros."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Trabajáis también con comunidades del núcleo urbano de Gavà?",
+      "a": "Sí, además de las viviendas de Gavà Mar, atendemos comunidades de vecinos en el núcleo urbano principal, más alejado de la costa."
     }
   ],
-  "closingHeadline": "Tu piscina en Gavà, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Gavà y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas protegidas del salitre en Gavà",
+  "closingCta": "Solicita presupuesto para tu piscina en Gavà y prepárala para la temporada."
 }

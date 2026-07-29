@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 26659,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Pineda de Mar | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Pineda de Mar. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Pineda de Mar y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Pineda de Mar — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas en Pineda de Mar, costa del Maresme, para viviendas y comunidades. Presupuesto cerrado y garantía.",
+  "heroSubtitle": "Mantenemos tu piscina en Pineda de Mar lista para el baño, en la costa turística del Maresme.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Pineda de Mar, en plena comarca del Maresme, combina el clima suave de la costa catalana con una alta densidad de viviendas unifamiliares con piscina, sobre todo en las zonas más alejadas del núcleo urbano. La proximidad al mar es una ventaja para el clima, pero también un desafío técnico: la brisa marina cargada de sal acelera la corrosión de escaleras, barandillas y carcasas metálicas de las depuradoras peor protegidas. En las viviendas más próximas al litoral prestamos especial atención a estos elementos en cada revisión.\n\nEl verano en el Maresme es largo y húmedo, lo que exige un tratamiento del agua constante para evitar algas y turbidez. Muchas piscinas de la zona, construidas hace décadas, siguen teniendo gresite y depuradoras poco eficientes: renovar el sistema de filtración con una bomba de velocidad variable suele ser la mejora que más se nota, tanto en la factura eléctrica como en la calidad del agua.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Pineda de Mar, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Pineda de Mar, en la costa norte del Maresme, combina el clima mediterráneo suavizado por el mar con un fuerte carácter turístico en los meses de verano, cuando la población del municipio se multiplica con la llegada de visitantes. La humedad marina constante, presente durante todo el año, favorece la corrosión de elementos metálicos en las piscinas privadas y comunitarias, mientras que la brisa del mar arrastra arena hacia filtros y skimmers con más frecuencia que en zonas de interior.\n\nEl municipio combina un núcleo urbano orientado al turismo, con numerosos apartamentos y complejos residenciales, y zonas de vivienda unifamiliar algo más alejadas de la playa, donde la piscina privada es habitual. Para las comunidades y viviendas de esta zona, el mantenimiento en verano se enfrenta a un uso muy intensivo por parte de residentes y visitantes, mientras que fuera de temporada muchas instalaciones quedan con actividad reducida, lo que exige revisiones específicas antes de la reapertura estival.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparaciones y puesta a punto de piscinas particulares y comunitarias en Pineda de Mar, adaptados al ambiente costero y turístico.",
+  "processIntro": "Nuestro proceso de trabajo en Pineda de Mar está pensado para preparar tu piscina a tiempo para la temporada de mayor afluencia.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "La primera llamada",
+      "body": "Nos explicas el estado de tu piscina en Pineda de Mar y qué servicio necesitas, ya sea puesta a punto o mantenimiento continuado."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Revisión antes de temporada",
+      "body": "Inspeccionamos el vaso, la depuradora y el estado de los elementos metálicos, prestando atención al desgaste por la salinidad marina."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Presupuesto listo para tu decisión",
+      "body": "Te entregamos una propuesta con precio final claro, para que decidas con toda la información antes de empezar."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Confirmas y buscamos la fecha",
+      "body": "Solo empezamos a trabajar cuando apruebas el presupuesto, coordinando la fecha adecuada según la temporada."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Servicio y recomendaciones para el pico de verano",
+      "body": "Realizamos el servicio y te damos recomendaciones para afrontar bien el pico de uso del verano."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Pineda de Mar generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El ambiente marino y la fuerte afluencia turística estival generan en Pineda de Mar incidencias propias de una localidad costera con mucho movimiento en verano.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Corrosión de elementos metálicos",
+      "body": "La humedad salina constante de la costa del Maresme desgasta escaleras y anclajes con más rapidez que en el interior. Recomendamos materiales resistentes a la salinidad y revisiones periódicas."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Sobrecarga de la depuradora en temporada turística",
+      "body": "El aumento de población en verano por la llegada de visitantes multiplica el uso de piscinas comunitarias, exigiendo un rendimiento continuado del sistema de filtración. Revisamos los equipos antes del pico de temporada."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Arena en filtros y skimmers",
+      "body": "La brisa marina arrastra arena fina hacia las piscinas más próximas a la playa, saturando filtros con más frecuencia. Ajustamos la periodicidad de limpieza según la cercanía al mar."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Agua descuidada tras temporada baja",
+      "body": "Muchas instalaciones reducen su actividad fuera de temporada, lo que puede dejar el agua en peor estado del esperado al llegar la primavera. Recomendamos una revisión previa a la reapertura estival."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con el desgaste del ambiente marino",
+      "body": "Sabemos cómo la salinidad de la costa del Maresme afecta a los equipos de piscina en Pineda de Mar."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Preparación para la temporada turística",
+      "body": "Planificamos la puesta a punto para que tu piscina esté lista antes del pico de afluencia del verano."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "El precio de la visita es el de la factura",
+      "body": "El importe que te damos tras revisar la instalación no cambia al finalizar el servicio."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Atención a comunidades y viviendas particulares",
+      "body": "Trabajamos tanto con comunidades de apartamentos turísticos como con viviendas unifamiliares."
     },
     {
       "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "body": "Priorizamos las averías que dejan la piscina fuera de uso en los meses de mayor afluencia."
     }
   ],
-  "zoneText": "Damos servicio a Pineda de Mar y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Pineda de Mar y en el resto de municipios de la costa del Maresme, adaptando el mantenimiento a la intensidad turística de cada zona.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Pineda de Mar?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué se oxidan tan rápido los elementos metálicos de mi piscina en Pineda de Mar?",
+      "a": "La humedad salina propia de la costa del Maresme desgasta escaleras y anclajes con más rapidez que en el interior. Recomendamos piezas resistentes a la sal y revisiones periódicas para detectar el óxido a tiempo."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "Tengo una comunidad de apartamentos turísticos en Pineda, ¿os adaptáis al pico de uso del verano?",
+      "a": "Sí, planificamos revisiones preventivas antes de la temporada alta, cuando la afluencia de visitantes multiplica el uso de la piscina, para evitar averías en los meses de mayor demanda."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "Mi piscina ha estado poco activa en invierno, ¿necesita una revisión antes de abrir en verano?",
+      "a": "Sí, recomendamos siempre una revisión previa a la reapertura estival, ya que el agua y los equipos pueden haberse deteriorado durante la temporada de menor actividad."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Trabajáis en viviendas unifamiliares además de en complejos turísticos en Pineda de Mar?",
+      "a": "Sí, atendemos tanto comunidades de apartamentos como viviendas unifamiliares con piscina privada en todo el municipio."
     }
   ],
-  "closingHeadline": "Tu piscina en Pineda de Mar, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Pineda de Mar y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscina lista para la temporada alta en Pineda de Mar",
+  "closingCta": "Cuéntanos el estado de tu piscina en Pineda de Mar y te preparamos un presupuesto cerrado."
 }

@@ -4,9 +4,9 @@
   "province": "Gipuzkoa",
   "ccaa": "País Vasco",
   "population": 185357,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Donostia / San Sebastián | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Donostia / San Sebastián. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Donostia / San Sebastián y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en San Sebastián — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para hoteles, comunidades y negocios en Donostia-San Sebastián. Presupuesto cerrado. Solicita información.",
+  "heroSubtitle": "Cuidamos tu piscina en Donostia-San Sebastián frente a un clima atlántico que exige un mantenimiento distinto al del resto de España.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Donostia / San Sebastián, con el clima húmedo y templado propio de la cornisa atlántica, el reto no es tanto el calor extremo como la humedad constante, que favorece la aparición de algas y moho en zonas del vaso y del entorno de la piscina que no reciben suficiente sol. Recomendamos un tratamiento de choque antes de cada apertura de temporada para partir de cero.\n\nLa temporada de baño natural aquí es más corta que en el resto de España, así que muchos propietarios de la zona nos piden instalar una bomba de calor para alargarla. Con el aislamiento adecuado y un buen dimensionado del equipo, es perfectamente viable disfrutar de la piscina varios meses más al año.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Donostia / San Sebastián, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Donostia-San Sebastián tiene un clima atlántico húmedo y templado, muy alejado de los extremos térmicos de la meseta o el interior peninsular. Los veranos son suaves, rara vez superan los 28°C, y las precipitaciones se reparten a lo largo de todo el año, incluida la temporada de baño. Esta combinación de humedad constante y temperaturas moderadas hace que la temporada útil de piscina exterior sea más corta que en el resto de España, y que muchas instalaciones de la ciudad, especialmente en hoteles y polideportivos, apuesten por piscinas cubiertas y climatizadas de uso todo el año.\n\nLa humedad ambiental propia del Cantábrico tiene un efecto directo sobre el mantenimiento: favorece la aparición de hongos y moho en los alrededores del vaso, especialmente en zonas de sombra o mal ventiladas, y obliga a vigilar de cerca el equilibrio químico del agua, ya que la lluvia frecuente diluye el cloro y puede desestabilizar el pH incluso en piscinas cubiertas si hay entrada de agua de escorrentía. Para negocios como hoteles o balnearios de la ciudad, mantener el agua en condiciones óptimas todo el año, y no solo en verano, es parte esencial del servicio que ofrecen a sus clientes.\n\nAdemás, la costa cantábrica no sufre las heladas severas del interior, pero sí un otoño e invierno largos, lluviosos y con menos horas de sol, lo que hace que las piscinas exteriores permanezcan cerradas gran parte del año. Esto simplifica algunos aspectos del invernaje, pero traslada la exigencia de mantenimiento constante a las piscinas cubiertas, donde la calidad del aire y del agua deben cuidarse con el mismo rigor durante los doce meses.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y tratamiento de agua para piscinas cubiertas y exteriores de hoteles, comunidades y negocios en San Sebastián.",
+  "processIntro": "Un proceso claro y adaptado a las necesidades de las instalaciones donostiarras, muchas de ellas de uso todo el año.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Te escuchamos",
+      "body": "Nos cuentas el tipo de instalación —cubierta o exterior— y el uso que recibe tu piscina en San Sebastián."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Propuesta cerrada",
+      "body": "Elaboramos un presupuesto detallado, ajustado a si tu piscina funciona todo el año o solo en temporada estival."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación",
+      "body": "Comenzamos a trabajar únicamente cuando apruebas la propuesta, coordinando la intervención con tu actividad."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución",
+      "body": "Realizamos el mantenimiento o la reparación con especial atención a la humedad y a la ventilación en piscinas cubiertas."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Entrega y plan de seguimiento",
+      "body": "Te dejamos un informe de lo realizado y, si procede, un calendario de mantenimiento anual continuo."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Donostia / San Sebastián generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La humedad constante y las temperaturas suaves del Cantábrico generan problemas muy distintos a los de las zonas de interior.",
   "commonIssues": [
     {
-      "title": "Algas y moho por la humedad constante",
-      "body": "La humedad de la zona favorece el crecimiento de algas y moho en el vaso y en la coronación si no hay un mantenimiento regular, incluso fuera de temporada. Recomendamos un tratamiento de choque antes de cada apertura."
+      "title": "Moho y hongos en el entorno del vaso",
+      "body": "La humedad ambiental propia de Donostia favorece la aparición de moho en suelos y paredes cercanas a la piscina, especialmente en instalaciones cubiertas. Realizamos tratamientos específicos para controlarlo."
     },
     {
-      "title": "Temporada de baño corta sin climatización",
-      "body": "El clima suave pero fresco de la zona acorta la temporada de baño natural. Instalamos bombas de calor dimensionadas para alargarla varios meses sin disparar el consumo eléctrico."
+      "title": "Desequilibrio del pH por lluvias frecuentes",
+      "body": "La lluvia habitual, incluso en temporada de baño, diluye el cloro y altera el pH. Ajustamos el tratamiento con mayor frecuencia que en zonas de clima más seco."
     },
     {
-      "title": "Corrosión por humedad prolongada",
-      "body": "La humedad constante, más que el calor, es el principal desgaste para los elementos metálicos de la instalación. Usamos materiales pensados para resistir la humedad todo el año."
+      "title": "Baja rentabilidad de piscinas exteriores sin cubrir",
+      "body": "Con una temporada útil corta, muchas piscinas exteriores donostiarras permanecen cerradas buena parte del año. Asesoramos sobre cubiertas y climatización para ampliar su uso."
     },
     {
-      "title": "Filtros de arena con moho o suciedad",
-      "body": "La combinación de humedad y poco sol directo favorece la aparición de suciedad orgánica en el sistema de filtración. Revisamos y limpiamos a fondo en cada mantenimiento."
+      "title": "Calidad del aire en piscinas climatizadas",
+      "body": "En hoteles y polideportivos con piscina cubierta, el exceso de humedad puede afectar a la ventilación y al confort. Vigilamos el equilibrio químico para minimizar el olor a cloro."
     },
     {
-      "title": "Fugas enmascaradas por la lluvia",
-      "body": "En una zona lluviosa es más difícil detectar a simple vista una pérdida de agua real. Hacemos pruebas de presión para confirmar si existe una fuga antes de actuar."
+      "title": "Corrosión por ambiente marino",
+      "body": "La proximidad al mar y la salinidad del aire aceleran el desgaste de elementos metálicos en piscinas cercanas a la costa. Revisamos estos componentes con mayor frecuencia."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia en clima atlántico",
+      "body": "Sabemos cómo la humedad constante de San Sebastián afecta al mantenimiento y adaptamos los tratamientos en consecuencia."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Especialización en piscinas cubiertas",
+      "body": "Trabajamos con hoteles y polideportivos donostiarras que mantienen su piscina activa durante todo el año."
     },
     {
       "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "body": "Ofrecemos precios claros y detallados, sin sorpresas, adaptados al tipo de instalación."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Discreción en instalaciones hoteleras",
+      "body": "Coordinamos las intervenciones para no interferir con la experiencia de los huéspedes."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Un interlocutor técnico único",
+      "body": "Un mismo profesional sigue el historial de tu piscina, cubierta o exterior, durante todo el año."
     }
   ],
-  "zoneText": "Damos servicio a Donostia / San Sebastián y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a hoteles, comunidades, polideportivos y negocios en Donostia-San Sebastián y su área metropolitana en Gipuzkoa.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Donostia / San Sebastián?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué en San Sebastián hay tantas piscinas cubiertas en vez de exteriores?",
+      "a": "El clima atlántico, con veranos suaves y lluvias frecuentes, reduce mucho la temporada útil de una piscina exterior, por lo que hoteles y polideportivos optan por instalaciones cubiertas y climatizadas de uso todo el año."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿La lluvia constante afecta mucho al mantenimiento del agua?",
+      "a": "Sí, incluso en piscinas cubiertas la humedad y las filtraciones de agua de lluvia pueden diluir el cloro y alterar el pH, por lo que recomendamos revisiones más frecuentes que en zonas de clima seco."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Es necesario invernar una piscina exterior en San Sebastián?",
+      "a": "Sí, aunque las heladas severas no son habituales, el largo periodo de inactividad otoñal e invernal aconseja proteger la instalación frente a la humedad y las lluvias constantes."
     },
     {
-      "q": "¿Merece la pena instalar una bomba de calor con este clima?",
-      "a": "Sí, es la forma más habitual de alargar una temporada de baño que aquí es más corta que en el resto de España. Con el dimensionado adecuado, se puede disfrutar de la piscina varios meses más al año sin disparar el consumo eléctrico."
+      "q": "¿Trabajáis con hoteles que necesitan la piscina operativa todo el año?",
+      "a": "Sí, es una parte importante de nuestro trabajo en la ciudad, con planes de mantenimiento continuo pensados para minimizar cualquier interrupción del servicio."
     }
   ],
-  "closingHeadline": "Tu piscina en Donostia / San Sebastián, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Donostia / San Sebastián y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina, lista pase lo que pase el tiempo en Donostia",
+  "closingCta": "Contáctanos para un presupuesto cerrado de mantenimiento en San Sebastián, adaptado a tu piscina cubierta o exterior."
 }

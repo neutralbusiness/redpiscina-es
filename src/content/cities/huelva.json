@@ -4,9 +4,9 @@
   "province": "Huelva",
   "ccaa": "Andalucía",
   "population": 144258,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Huelva | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Huelva. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Huelva y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Huelva — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en Huelva. Presupuesto cerrado, factura y garantía. Infórmate.",
+  "heroSubtitle": "Piscinas listas para el calor húmedo y el aire marino de Huelva.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Huelva, en la costa andaluza, disfruta de una de las temporadas de baño más largas de España gracias a su clima cálido casi todo el año, lo que hace que muchas piscinas se usen desde marzo hasta noviembre. Esa temporada tan extensa exige un mantenimiento más constante que en el resto del país, con revisiones frecuentes de los parámetros del agua durante buena parte del año, no solo en verano.\n\nLa humedad y salinidad del ambiente costero desgastan antes los elementos metálicos de la instalación —escaleras, barandillas, carcasas de bombas— por lo que en estas zonas usamos materiales con mayor resistencia a la corrosión. También es habitual encontrar piscinas de urbanizaciones turísticas con un uso muy intensivo, que requieren depuradoras dimensionadas para un caudal de bañistas más alto de lo normal.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Huelva, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Huelva capital combina dos factores que pocas ciudades andaluzas juntan en la misma medida: un calor estival muy intenso, con temperaturas que suben con facilidad de 35°C entre julio y agosto, y una humedad relativa elevada por la confluencia de los ríos Tinto y Odiel con el océano Atlántico, muy distinta a la sequedad del interior andaluz. Esa combinación de calor y humedad favorece la proliferación de algas y hongos en el entorno de la piscina con más facilidad que en una ciudad de clima seco, incluso cuando el tratamiento químico del agua es correcto.\n\nLa proximidad al Atlántico añade otro factor a tener en cuenta: el aire cargado de salitre, especialmente en las comunidades y negocios más próximos a la ría o a las playas cercanas como Punta Umbría, acelera la corrosión de escaleras, rejillas y elementos metálicos de la instalación. Para una comunidad de vecinos en el Ensanche o en la zona de la Merced, esto significa revisar con más frecuencia los elementos metálicos de lo que sería habitual en una ciudad de interior.\n\nA esto se suma un verano que en Huelva se alarga más que en otras zonas de España, con temperaturas agradables hasta bien entrado octubre, lo que en la práctica extiende la temporada de uso de la piscina y, con ella, la necesidad de mantenimiento activo más allá del calendario habitual de junio a septiembre que se aplica en otras ciudades.",
+  "servicesIntro": "Ofrecemos mantenimiento adaptado al calor húmedo y al aire marino de Huelva, para comunidades y negocios.",
+  "processIntro": "Un proceso claro, con presupuesto cerrado antes de cualquier intervención.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto y datos",
+      "body": "Nos cuentas el tipo de instalación y su cercanía a la costa, un factor relevante para el tratamiento anticorrosión."
+    },
+    {
+      "title": "Valoración técnica",
+      "body": "Revisamos el vaso, los equipos y el estado de los elementos metálicos antes de cerrar la propuesta."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te presentamos una propuesta detallada y sin sorpresas, lista para tu aprobación o la de la comunidad."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Ejecución acordada",
+      "body": "Realizamos el servicio en la fecha pactada, coordinando con el uso habitual de la instalación."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
-    },
-    {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Entrega de resultados",
+      "body": "Te entregamos un informe de lo realizado y de los parámetros del agua tras la intervención."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Huelva generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La combinación de calor húmedo y aire marino provoca averías particulares en las piscinas de Huelva.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Aparición de algas pese a un tratamiento correcto",
+      "body": "La humedad ambiental elevada de Huelva favorece la proliferación de algas en superficies del entorno del vaso, no solo en el agua, algo poco habitual en climas más secos."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Corrosión acelerada en piscinas cercanas a la ría",
+      "body": "El aire cargado de salitre de la zona deteriora escaleras y rejillas metálicas con más rapidez de lo esperado si no se revisan periódicamente."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Temporada de uso más larga de lo habitual",
+      "body": "Las temperaturas suaves hasta octubre alargan el uso de la piscina, lo que exige mantener el tratamiento activo más allá del calendario típico de otras ciudades."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Consumo elevado de cloro en pleno agosto",
+      "body": "El calor intenso de agosto en Huelva acelera la degradación del cloro, obligando a ajustes de dosificación más frecuentes."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con el clima húmedo onubense",
+      "body": "Sabemos tratar la combinación de calor y humedad de Huelva de forma distinta a un clima seco de interior."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Protección específica frente al salitre",
+      "body": "Recomendamos materiales y revisiones adaptados a la corrosión marina de la zona."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuestos claros para comunidades y negocios",
+      "body": "Propuestas desglosadas, fáciles de aprobar sin letra pequeña."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Adaptación a la temporada larga de baño",
+      "body": "Ajustamos el calendario de mantenimiento a un uso que en Huelva se extiende más allá del verano estricto."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de la capital y su entorno",
+      "body": "Atendemos Huelva capital y las zonas próximas a la costa."
     }
   ],
-  "zoneText": "Damos servicio a Huelva y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Huelva capital, incluyendo el Ensanche, la zona de la Merced y las comunidades y negocios próximos a la ría de Huelva y a la costa cercana.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Huelva?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué aparecen algas en mi piscina de Huelva si el cloro está en niveles correctos?",
+      "a": "La humedad ambiental alta de la zona favorece el crecimiento de algas en superficies del entorno del vaso, no solo en el agua. Aplicamos un tratamiento específico para esas zonas."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿El salitre afecta a piscinas que no están justo en la costa?",
+      "a": "Sí, en Huelva capital el efecto del aire marino se nota incluso a varios kilómetros de la ría, aunque de forma más intensa cuanto más cerca del agua."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Recomendáis mantener la piscina activa hasta octubre?",
+      "a": "En muchos casos sí, dado que las temperaturas siguen siendo agradables. Podemos ajustar el plan de mantenimiento para cubrir esa temporada extendida."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Trabajáis con negocios y comunidades cerca de Punta Umbría?",
+      "a": "Sí, damos servicio tanto en Huelva capital como en las zonas próximas a la costa, incluyendo instalaciones más expuestas al aire marino."
     }
   ],
-  "closingHeadline": "Tu piscina en Huelva, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Huelva y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas a punto en Huelva, todo el año",
+  "closingCta": "Contacta con nosotros para un presupuesto cerrado adaptado al calor húmedo y al salitre de Huelva."
 }

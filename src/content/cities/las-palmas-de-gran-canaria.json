@@ -4,9 +4,9 @@
   "province": "Las Palmas",
   "ccaa": "Canarias",
   "population": 383516,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Las Palmas de Gran Canaria | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Las Palmas de Gran Canaria. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Las Palmas de Gran Canaria y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Las Palmas de Gran Canaria — Red Piscina",
+  "metaDescription": "Mantenimiento de piscinas para comunidades, hoteles y negocios en Las Palmas de Gran Canaria. Presupuesto cerrado y garantía.",
+  "heroSubtitle": "Piscinas listas todo el año en Las Palmas de Gran Canaria, con los alisios y el salitre atlántico como protagonistas.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Las Palmas de Gran Canaria, en Canarias, disfruta de un clima subtropical prácticamente constante durante todo el año, lo que hace que las piscinas estén en uso permanente, sin una temporada de cierre real como en el resto de España. Esto cambia por completo el enfoque del mantenimiento: no hablamos de apertura y cierre de temporada, sino de un cuidado continuo durante los doce meses.\n\nLa proximidad al mar y la calima ocasional son dos factores propios de la zona que afectan a la instalación: la humedad salina acelera la corrosión de elementos metálicos, y el polvo en suspensión de la calima puede ensuciar el agua con rapidez tras estos episodios. Ajustamos el tratamiento del agua y revisamos los filtros con más frecuencia cuando se produce este fenómeno.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Las Palmas de Gran Canaria, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Las Palmas de Gran Canaria tiene un clima subtropical prácticamente sin estaciones marcadas, con temperaturas suaves durante todo el año que permiten un uso de la piscina mucho más continuo que en la península. Esta ventaja tiene su contrapartida: los alisios, el viento constante del noreste que sopla gran parte del año, transportan una cantidad notable de salitre desde el Atlántico, lo que acelera de forma muy visible la corrosión de escaleras, rejillas y elementos metálicos en comunidades cercanas al litoral, desde Las Canteras hasta Ciudad Jardín.\n\nA esto se suma un fenómeno muy propio de Canarias: la calima, episodios de polvo en suspensión procedente del Sahara que pueden afectar a la calidad del aire y depositar partículas finas sobre la lámina de agua y los filtros, obligando a limpiezas adicionales cuando el episodio es intenso. Para una comunidad de vecinos en Vegueta, Triana o el Puerto, esto significa un mantenimiento que debe adaptarse tanto al viento constante como a estos episodios puntuales pero recurrentes de polvo atmosférico.\n\nAl no existir una temporada de baño cerrada como en la península, muchas piscinas comunitarias y de hoteles en Las Palmas se mantienen operativas los doce meses del año, lo que elimina el concepto de invernaje tal y como se entiende en climas continentales, pero exige un mantenimiento constante y sin pausas estacionales, algo que muchas empresas peninsulares no están preparadas para ofrecer con la misma naturalidad que en la isla.",
+  "servicesIntro": "Ofrecemos mantenimiento continuo, sin pausa estacional, adaptado al viento y al salitre de Las Palmas de Gran Canaria.",
+  "processIntro": "Un proceso claro, con presupuesto cerrado antes de cualquier intervención.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto inicial",
+      "body": "Nos cuentas el tipo de instalación y su cercanía al litoral, un factor clave por la exposición al salitre."
+    },
+    {
+      "title": "Valoración técnica",
+      "body": "Revisamos el vaso, los equipos y el estado de los elementos metálicos frente a la corrosión marina."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te presentamos una propuesta detallada, pensada para un mantenimiento sin pausas estacionales."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Ejecución acordada",
+      "body": "Realizamos el servicio en la fecha pactada, con la instalación operativa todo el año."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
-    },
-    {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Seguimiento continuo",
+      "body": "Establecemos un calendario de mantenimiento regular, sin el paréntesis de invernaje habitual en climas peninsulares."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Las Palmas de Gran Canaria generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "Los alisios, el salitre y la calima generan averías muy propias de las piscinas de Las Palmas de Gran Canaria.",
   "commonIssues": [
     {
-      "title": "Uso continuo durante todo el año",
-      "body": "Sin temporada de cierre, la instalación trabaja los doce meses. Ajustamos el plan de mantenimiento a un uso constante, no a una temporada concreta."
+      "title": "Corrosión acelerada de escaleras y rejillas",
+      "body": "El viento constante cargado de salitre deteriora los elementos metálicos con más rapidez que en cualquier ciudad de costa peninsular con menos viento."
     },
     {
-      "title": "Corrosión por la humedad salina marina",
-      "body": "La proximidad al mar acelera la oxidación de escaleras, barandillas y carcasas metálicas. Usamos materiales con mayor resistencia a la corrosión."
+      "title": "Depósitos de polvo tras episodios de calima",
+      "body": "Los episodios de calima procedentes del Sahara depositan partículas finas en la lámina de agua y en los filtros, que exigen una limpieza adicional."
     },
     {
-      "title": "Agua turbia tras episodios de calima",
-      "body": "El polvo en suspensión de la calima puede ensuciar el agua con rapidez. Revisamos el filtro y ajustamos el tratamiento tras estos episodios."
+      "title": "Uso continuo sin pausa estacional",
+      "body": "Al no haber una temporada de baño cerrada, el desgaste de la depuradora es más constante a lo largo del año que en climas con inviernos de reposo."
     },
     {
-      "title": "Depuradoras con desgaste por uso continuo",
-      "body": "Al no haber pausa de temporada, los equipos acumulan más horas de funcionamiento al año que en el resto de España. Recomendamos revisiones más frecuentes."
-    },
-    {
-      "title": "Filtros de arena con menor rendimiento",
-      "body": "El uso constante compacta antes el lecho filtrante. Valoramos la sustitución por vidrio filtrante cuando el rendimiento baja de forma notable."
+      "title": "Corrosión en gresite y juntas por aerosol marino",
+      "body": "En las comunidades más próximas al litoral, el aerosol marino constante puede deteriorar juntas y revestimientos si no se revisan con regularidad."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia en clima subtropical con viento constante",
+      "body": "Sabemos proteger las instalaciones frente a un desgaste por salitre que en la península es mucho más ocasional."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Mantenimiento sin pausa estacional",
+      "body": "Ofrecemos servicio continuo los doce meses del año, adaptado a un clima que permite el baño casi todo el año."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Protocolos específicos frente a la calima",
+      "body": "Sabemos actuar ante episodios de polvo en suspensión procedente del Sahara."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Presupuestos claros para comunidades y hoteles",
+      "body": "Propuestas desglosadas, sin sorpresas, adaptadas al uso continuo de la instalación."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de toda la capital grancanaria",
+      "body": "Atendemos desde Las Canteras hasta Vegueta, Triana y el resto de la ciudad."
     }
   ],
-  "zoneText": "Damos servicio a Las Palmas de Gran Canaria y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Las Palmas de Gran Canaria, incluyendo Las Canteras, Ciudad Jardín, Vegueta, Triana y el Puerto, con especial atención a la exposición al viento y al salitre en cada zona.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Las Palmas de Gran Canaria?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Es necesario invernar la piscina en Las Palmas de Gran Canaria?",
+      "a": "No en el sentido habitual de un clima continental. El clima suave permite el uso de la piscina prácticamente todo el año, por lo que el mantenimiento se plantea como continuo, sin pausa estacional."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Cómo afecta la calima al mantenimiento de la piscina?",
+      "a": "Durante los episodios de calima, el polvo en suspensión puede depositarse en el agua y saturar los filtros, por lo que recomendamos una revisión adicional tras cada episodio intenso."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿El salitre daña también piscinas alejadas de la costa?",
+      "a": "En menor medida, pero los alisios transportan aerosol marino de forma constante en toda la ciudad, aunque el efecto es más intenso cuanto más cerca del litoral."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
-    },
-    {
-      "q": "¿Hay que cerrar la piscina en algún momento del año?",
-      "a": "No, con el clima de las islas la mayoría de piscinas están en uso todo el año. El mantenimiento se planifica de forma continua, sin una temporada de cierre como en el resto de España."
+      "q": "¿Trabajáis con hoteles que necesitan la piscina operativa sin interrupciones?",
+      "a": "Sí, muchos de nuestros clientes en Las Palmas son hoteles y negocios que requieren un servicio continuo, y adaptamos el calendario de mantenimiento a esa necesidad."
     }
   ],
-  "closingHeadline": "Tu piscina en Las Palmas de Gran Canaria, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Las Palmas de Gran Canaria y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas listas todo el año en Las Palmas de Gran Canaria",
+  "closingCta": "Contacta con nosotros para un presupuesto cerrado adaptado al viento, el salitre y el uso continuo propio de Las Palmas."
 }

@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 43700,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Colmenar Viejo | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Colmenar Viejo. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Colmenar Viejo y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Colmenar Viejo, Madrid",
+  "metaDescription": "Mantenimiento y reparación de piscinas comunitarias y privadas en Colmenar Viejo, sierra de Madrid. Presupuesto cerrado.",
+  "heroSubtitle": "Piscinas preparadas para el clima de sierra de Colmenar Viejo, con mantenimiento profesional todo el año.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Colmenar Viejo, con el calor seco y extremo del verano madrileño, el mayor reto para una piscina es mantener el agua en condiciones pese a la evaporación y al consumo acelerado de cloro por la fuerte radiación solar. Ajustamos los sistemas de dosificación automática para reducir el mantenimiento manual en los meses de más calor.\n\nLa dureza del agua en buena parte de la Comunidad de Madrid es uno de los factores que más acorta la vida útil de depuradoras y cloradores salinos si no se hace un mantenimiento adecuado. Recomendamos equipos con función de autolimpieza y un control periódico del pH para minimizar este efecto.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Colmenar Viejo, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Colmenar Viejo se encuentra en la sierra norte de Madrid, a una altitud considerablemente mayor que la capital, lo que le da un clima más frío y con inviernos bastante más duros que en el llano madrileño: las heladas son frecuentes y persistentes entre noviembre y marzo, y no es raro ver nevadas puntuales. Esa diferencia de altitud es el factor que más condiciona el mantenimiento de las piscinas del municipio: un invernaje superficial, que puede bastar en zonas más templadas de Madrid, aquí se queda corto y puede acabar en tuberías reventadas o vasos agrietados si no se protege bien cada componente antes de que llegue el frío serio.\n\nEn verano, en cambio, Colmenar Viejo disfruta de temperaturas algo más suaves que la capital gracias a la altitud, aunque los días de más calor siguen exigiendo un control estricto del cloro. El municipio combina zonas de vivienda unifamiliar con piscina propia, muy extendidas en las urbanizaciones del término, con algunas comunidades de bloques residenciales en el casco urbano. Para ambos tipos de instalación, la clave está en anticipar bien el cambio de temporada: una puesta a punto sólida en primavera y, sobre todo, un cierre de invierno riguroso.",
+  "servicesIntro": "Ofrecemos mantenimiento, invernaje reforzado y reparación de piscinas comunitarias y privadas en Colmenar Viejo.",
+  "processIntro": "Un proceso claro, con presupuesto cerrado, adaptado a las exigencias del clima de sierra.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto",
+      "body": "Nos cuentas el tipo de instalación y el servicio que necesitas, teniendo en cuenta la altitud y exposición de tu piscina."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita y presupuesto",
+      "body": "Evaluamos la piscina y te entregamos un presupuesto cerrado, con especial atención al invernaje si procede."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación",
+      "body": "Empezamos a trabajar solo cuando apruebas la propuesta."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución",
+      "body": "Realizamos el servicio acordado, adaptado a las condiciones específicas de la sierra."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe final",
+      "body": "Entregamos un parte de lo realizado y quedamos disponibles para el seguimiento en cada cambio de temporada."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Colmenar Viejo generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El clima de sierra de Colmenar Viejo, con inviernos más duros que en el resto de Madrid, provoca averías específicas.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Roturas graves por heladas persistentes",
+      "body": "Las bajas temperaturas prolongadas del invierno serrano pueden fisurar tuberías y el propio vaso si el invernaje no es completo. Aplicamos un protocolo reforzado pensado para esta altitud."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Retraso en la apertura de temporada",
+      "body": "El frío se alarga más en Colmenar Viejo que en el llano madrileño, lo que puede retrasar la puesta a punto si no se planifica con antelación. Programamos la revisión de primavera con margen suficiente."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Desequilibrio químico por oscilación térmica",
+      "body": "El contraste entre días soleados y noches frías, incluso en primavera y otoño, altera el pH del agua con frecuencia. Realizamos controles periódicos para mantenerlo estable."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Depósitos de cal por dureza del agua",
+      "body": "El agua de la zona puede presentar dureza notable, favoreciendo depósitos calcáreos en el vaso y los equipos. Ajustamos el tratamiento para prevenirlo."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Especialización en clima de sierra",
+      "body": "Adaptamos el invernaje y la puesta a punto a las condiciones más duras de la sierra norte de Madrid."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuesto cerrado y claro",
+      "body": "Sin sorpresas, ideal tanto para comunidades como para propietarios particulares."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Técnico de referencia fijo",
+      "body": "La misma persona conoce el historial de tu piscina en cada visita."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Planificación anticipada de temporada",
+      "body": "Programamos con margen la apertura y el cierre, sabiendo que el clima serrano exige más previsión."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de todo el municipio",
+      "body": "Atendemos tanto urbanizaciones de chalets como comunidades del casco urbano."
     }
   ],
-  "zoneText": "Damos servicio a Colmenar Viejo y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Colmenar Viejo y sus urbanizaciones, adaptando cada intervención a la altitud y el clima de sierra propios del municipio.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Colmenar Viejo?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Necesito un invernaje distinto por estar en la sierra de Madrid?",
+      "a": "Sí, las heladas en Colmenar Viejo son más intensas y prolongadas que en la capital, por lo que aplicamos un protocolo de invernaje reforzado para evitar roturas por congelación."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Cuándo es buen momento para abrir la piscina en Colmenar Viejo?",
+      "a": "El frío se alarga algo más que en el llano madrileño, así que recomendamos programar la puesta a punto con margen antes de la temporada de baño para evitar prisas de última hora."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿El agua de Colmenar Viejo es dura?",
+      "a": "Puede presentar una dureza notable en algunas zonas, lo que favorece depósitos de cal si no se corrige el equilibrio químico, algo que incluimos en el mantenimiento regular."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Trabajáis con piscinas de chalet además de comunidades?",
+      "a": "Sí, en Colmenar Viejo la vivienda unifamiliar con piscina propia es muy habitual y es uno de nuestros perfiles de cliente más frecuentes."
     }
   ],
-  "closingHeadline": "Tu piscina en Colmenar Viejo, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Colmenar Viejo y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas preparadas para el invierno de la sierra en Colmenar Viejo",
+  "closingCta": "Solicita presupuesto para tu piscina en Colmenar Viejo antes de que llegue el frío."
 }

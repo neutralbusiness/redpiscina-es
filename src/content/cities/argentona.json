@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 11633,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Argentona | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Argentona. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Argentona y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Argentona — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas privadas y comunitarias en Argentona (Maresme). Presupuesto cerrado y garantía. Pide información.",
+  "heroSubtitle": "Cuidamos la piscina de tu vivienda o comunidad en Argentona, en el interior del Maresme.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Argentona, en plena comarca del Maresme, combina el clima suave de la costa catalana con una alta densidad de viviendas unifamiliares con piscina, sobre todo en las zonas más alejadas del núcleo urbano. La proximidad al mar es una ventaja para el clima, pero también un desafío técnico: la brisa marina cargada de sal acelera la corrosión de escaleras, barandillas y carcasas metálicas de las depuradoras peor protegidas. En las viviendas más próximas al litoral prestamos especial atención a estos elementos en cada revisión.\n\nEl verano en el Maresme es largo y húmedo, lo que exige un tratamiento del agua constante para evitar algas y turbidez. Muchas piscinas de la zona, construidas hace décadas, siguen teniendo gresite y depuradoras poco eficientes: renovar el sistema de filtración con una bomba de velocidad variable suele ser la mejora que más se nota, tanto en la factura eléctrica como en la calidad del agua.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Argentona, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Argentona se sitúa en el interior del Maresme, a pocos kilómetros de Mataró pero ya en un entorno más resguardado del litoral, entre zonas boscosas y urbanizaciones de vivienda unifamiliar donde la piscina privada es un elemento habitual. A diferencia de los municipios costeros de la comarca, aquí el salitre marino tiene menos impacto directo, pero el clima mediterráneo sigue marcando veranos calurosos e inviernos con heladas ocasionales, algo más frecuentes que en la costa por la mayor distancia al efecto termorregulador del mar.\n\nEl calor de julio y agosto acelera la evaporación y el consumo de cloro en las piscinas de la zona, mientras que las noches más frías del invierno, propias del interior de la comarca, exigen un invernaje cuidadoso para evitar daños por congelación en tuberías y equipos. Nuestro servicio en Argentona se adapta a este perfil de vivienda unifamiliar con uso estacional intenso, típico del interior del Maresme.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto para piscinas privadas y comunitarias en Argentona.",
+  "processIntro": "Un proceso claro y con presupuesto cerrado desde el primer contacto.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos explicas tu caso",
+      "body": "Nos cuentas el tipo de piscina en Argentona y qué necesitas."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Presupuesto sin sorpresas",
+      "body": "Valoramos la instalación si hace falta y te entregamos una propuesta cerrada y detallada."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmas el trabajo",
+      "body": "Empezamos solo con tu aprobación, acordando la fecha que mejor te convenga."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Realizamos el servicio",
+      "body": "Ejecutamos lo acordado con materiales de calidad y protocolos de seguridad."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Cerramos con informe",
+      "body": "Te entregamos constancia de lo realizado y quedamos disponibles para el siguiente mantenimiento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Argentona generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El clima del interior del Maresme, con veranos calurosos e inviernos algo más fríos que en la costa, provoca problemas concretos en Argentona.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Consumo elevado de cloro en verano",
+      "body": "El calor de julio y agosto degrada el cloro con rapidez en las piscinas de Argentona, exigiendo reposición y ajuste frecuentes."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Heladas ocasionales en invierno",
+      "body": "La mayor distancia al mar respecto a los municipios costeros del Maresme favorece noches más frías. Un invernaje adecuado evita daños en tuberías y equipos."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Algas por uso intensivo estival",
+      "body": "El uso concentrado de las piscinas privadas en verano acelera el consumo de cloro y puede favorecer la aparición de algas sin un tratamiento reforzado."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Cal en línea de flotación",
+      "body": "El agua de la zona puede dejar depósitos calcáreos si no se controla la dureza con regularidad."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocimiento del interior del Maresme",
+      "body": "Adaptamos el mantenimiento al perfil climático de Argentona, distinto al de los municipios costeros de la comarca."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuesto cerrado desde el inicio",
+      "body": "Sabes exactamente qué vas a pagar antes de empezar el trabajo."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Especializados en vivienda unifamiliar",
+      "body": "Entendemos las necesidades concretas de las piscinas privadas típicas de la zona."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Invernaje adaptado a noches más frías",
+      "body": "Protegemos tu piscina frente a las heladas ocasionales del interior de la comarca."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Trato directo y cercano",
+      "body": "Hablas siempre con la misma persona, que conoce el historial de tu piscina."
     }
   ],
-  "zoneText": "Damos servicio a Argentona y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Argentona y en municipios cercanos del Maresme como Mataró, Cabrera de Mar y Vilassar de Dalt.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Argentona?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Hace más frío en Argentona que en los municipios de la costa del Maresme?",
+      "a": "Sí, al estar más alejada del mar, Argentona registra noches algo más frías en invierno, lo que hace recomendable un invernaje cuidadoso de la piscina."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Trabajáis principalmente con piscinas privadas en la zona?",
+      "a": "Sí, es el tipo de instalación más habitual en Argentona. Adaptamos el mantenimiento al tamaño y uso de cada piscina particular."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Cuánto sube el consumo de cloro en verano?",
+      "a": "Con el calor de julio y agosto, el consumo aumenta de forma notable. Ajustamos la dosificación en cada visita para mantener el agua en condiciones."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Atendéis también comunidades de propietarios?",
+      "a": "Sí, además de piscinas privadas atendemos comunidades de vecinos en Argentona, con presupuestos pensados para presentar en junta."
     }
   ],
-  "closingHeadline": "Tu piscina en Argentona, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Argentona y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Argentona, cuidada durante todo el año",
+  "closingCta": "Pide presupuesto sin compromiso para el mantenimiento de tu piscina en Argentona."
 }

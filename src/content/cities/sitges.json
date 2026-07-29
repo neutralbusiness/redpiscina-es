@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 27668,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Sitges | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Sitges. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Sitges y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Sitges — Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y puesta a punto de piscinas para villas, hoteles y comunidades en Sitges. Presupuesto cerrado, factura y garantía. Pide cita.",
+  "heroSubtitle": "Cuida tu piscina en Sitges frente al salitre del Garraf y la máxima exigencia de la temporada turística.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Sitges nos encontramos con una mezcla característica de esta comarca: piscinas de chalets en urbanizaciones cercanas a Sitges o Vilanova, y piscinas de masías y casas rurales en el interior del Penedès y l'Anoia. Cada una tiene necesidades distintas — las primeras sufren más la humedad y el uso intensivo de verano, las segundas suelen tener sistemas más antiguos y aisladas de la red de mantenimiento habitual.\n\nEl verano seco y caluroso de la zona hace que el nivel de agua baje con rapidez por evaporación, y que sea fácil confundir esa pérdida normal con una fuga real. Hacemos siempre una prueba de estanqueidad antes de dar un diagnóstico, para no generar obras innecesarias.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Sitges, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Sitges vive del mar y de su fama como destino de referencia en la Costa de Garraf, y eso se nota en cada piscina de la localidad: chalets con vistas, hoteles boutique del centro histórico y urbanizaciones en las zonas altas conviven con un factor común, la brisa marina cargada de sal que llega prácticamente a diario. Ese salitre acelera la corrosión de escaleras, focos y elementos metálicos, y deposita una fina película salina sobre el agua que altera el equilibrio químico si no se revisa con frecuencia.\n\nA esto se suma una temporada de uso muy concentrada: entre mayo y septiembre la población se multiplica con turismo y segundas residencias, así que muchas piscinas pasan de un uso ocasional a una demanda intensa en cuestión de semanas. Para un hotel o una comunidad de propietarios cerca del paseo marítimo, eso significa filtros que trabajan al límite y una necesidad real de anticiparse antes de que llegue la afluencia de verano, en lugar de reaccionar cuando el agua ya se ha enturbiado.",
+  "servicesIntro": "En Sitges cubrimos desde el mantenimiento semanal de villas hasta contratos anuales para hoteles y comunidades del litoral.",
+  "processIntro": "Trabajamos con un proceso claro pensado para propietarios y administradores que necesitan previsibilidad, no sorpresas.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Primer contacto",
+      "body": "Nos cuentas si se trata de una vivienda unifamiliar, un hotel o una comunidad, y el estado actual de la piscina. Con eso valoramos el alcance real del servicio antes de desplazarnos."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita y presupuesto",
+      "body": "Si la piscina lo requiere, la inspeccionamos in situ para detectar corrosión por salitre, estado del gresite y del equipo de filtración, y te entregamos un presupuesto cerrado y desglosado."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación",
+      "body": "Nada se ejecuta sin tu visto bueno. Acordamos fechas compatibles con la ocupación de la vivienda o el calendario del negocio, especialmente relevante en temporada alta."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Trabajo en la piscina",
+      "body": "Nuestro técnico realiza el servicio acordado con materiales resistentes a ambientes salinos, cuidando el entorno del jardín o las zonas comunes durante toda la intervención."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Cierre y recomendaciones",
+      "body": "Te dejamos un resumen de lo realizado y, si procede, recomendaciones concretas para alargar la vida de los elementos metálicos frente a la corrosión marina."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Sitges generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El aire salino del Garraf y la presión de la temporada turística generan averías muy particulares en las piscinas de Sitges.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Corrosión acelerada en escaleras y focos",
+      "body": "El salitre ataca antes de lo esperado a los elementos metálicos de acero inoxidable de baja calidad. Revisamos y, si hace falta, sustituimos por componentes preparados para ambiente marino."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Agua turbia al inicio de temporada",
+      "body": "Tras meses de baja actividad en villas de uso vacacional, el agua acumula partículas y desequilibrio de pH. Aplicamos un tratamiento de choque para tenerla lista antes de la llegada de los propietarios o huéspedes."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Saturación de filtros en temporada alta",
+      "body": "El salto de uso ocasional a uso intensivo en julio y agosto colapsa filtros mal dimensionados. Ajustamos ciclos de filtrado y limpieza para sostener la calidad del agua durante el pico de afluencia."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Depósitos calcáreos por evaporación intensa",
+      "body": "El sol y el viento del litoral aumentan la evaporación y concentran minerales en el agua. Controlamos la dureza y reponemos el nivel de forma regular para evitar manchas en las paredes del vaso."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Materiales pensados para el litoral",
+      "body": "Trabajamos con componentes resistentes a la corrosión salina, una diferencia que se nota en la duración de escaleras, boquillas y elementos metálicos en Sitges."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuesto cerrado y sin letra pequeña",
+      "body": "Recibes una propuesta detallada antes de empezar, ideal tanto para propietarios particulares como para juntas de comunidad."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Preparación para la temporada turística",
+      "body": "Planificamos la puesta a punto con antelación suficiente para que tu piscina esté lista cuando empiece la afluencia real de visitantes."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Discreción en hoteles y villas",
+      "body": "Coordinamos las visitas para no interferir con huéspedes ni con la vida diaria de la vivienda, algo especialmente valorado en el casco antiguo y en el paseo marítimo."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Un técnico que conoce tu piscina",
+      "body": "Mantenemos continuidad en el seguimiento, de forma que quien te atiende conoce el historial y las particularidades de tu instalación."
     }
   ],
-  "zoneText": "Damos servicio a Sitges y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en todo el municipio de Sitges, desde el casco antiguo y el paseo marítimo hasta las urbanizaciones de las zonas altas y los núcleos residenciales cercanos a la costa del Garraf.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Sitges?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿La brisa marina de Sitges afecta realmente al mantenimiento de la piscina?",
+      "a": "Sí, de forma notable. El salitre acelera la corrosión de elementos metálicos y altera el equilibrio químico del agua con más frecuencia que en zonas de interior, por lo que recomendamos revisiones algo más seguidas que en otras localidades."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "Mi villa solo se usa en verano, ¿podéis prepararla justo antes de la temporada?",
+      "a": "Sí, es uno de nuestros servicios más habituales en Sitges. Hacemos la puesta a punto con antelación para que el agua esté en condiciones óptimas cuando lleguen los propietarios o los primeros huéspedes."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con hoteles y establecimientos turísticos del centro?",
+      "a": "Sí, tenemos experiencia coordinando el mantenimiento con la operativa hotelera, ajustando horarios para minimizar cualquier molestia a los huéspedes."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Qué diferencia hay en el mantenimiento entre una piscina de villa y una comunitaria en Sitges?",
+      "a": "La principal diferencia es el volumen de uso y la exposición del vaso. Adaptamos la frecuencia de visitas y la dosificación química según se trate de una piscina privada o de una comunidad con más bañistas."
     }
   ],
-  "closingHeadline": "Tu piscina en Sitges, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Sitges y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Sitges, lista para cada temporada",
+  "closingCta": "Escríbenos y te preparamos un presupuesto cerrado para tu piscina en Sitges, adaptado al ritmo de tu villa, hotel o comunidad."
 }

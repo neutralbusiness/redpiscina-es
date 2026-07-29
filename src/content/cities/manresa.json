@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 76250,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Manresa | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Manresa. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Manresa y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Manresa — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en Manresa, comarca del Bages. Presupuesto cerrado y garantía.",
+  "heroSubtitle": "Piscinas cuidadas en Manresa, capital del Bages, entre veranos calurosos e inviernos fríos de interior.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Manresa, con el clima más seco y continental propio del interior catalán, el reto principal en verano es mantener el agua en condiciones pese a la fuerte radiación solar, que degrada el cloro con rapidez. Revisamos y ajustamos los sistemas de dosificación automática para que no haga falta estar pendiente del tratamiento cada dos días.\n\nMuchas piscinas de la zona, sobre todo las de construcción más antigua, tienen filtros de arena que con los años acumulan cal y pierden capacidad de filtración. La solución más duradera suele ser sustituir la arena por vidrio filtrante, que aguanta mucho mejor la dureza del agua local.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Manresa, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Manresa, capital de la comarca del Bages, tiene un clima mediterráneo de interior con una amplitud térmica notablemente mayor que la de Barcelona o las comarcas litorales cercanas, pese a la relativa proximidad geográfica. Los veranos son calurosos y secos, con jornadas que superan con facilidad los 33-35°C en julio y agosto, mientras que los inviernos son fríos, con heladas frecuentes entre diciembre y febrero y una humedad matinal que en ocasiones se traduce en niebla en el valle del río Cardener, a cuyas orillas se asienta la ciudad.\n\nEsta combinación de calor seco estival y frío húmedo invernal exige un enfoque de mantenimiento distinto al de una ciudad de costa catalana. En las comunidades de vecinos de barrios como la Font dels Capellans o el Xup, la evaporación en verano es notable por la sequedad ambiental, mientras que el invernaje cobra una importancia que en Barcelona apenas se plantea con la misma seriedad. Las piscinas mal protegidas frente al frío en Manresa suelen mostrar fisuras y daños en la puesta a punto de primavera, un gasto evitable con un invernaje bien planificado.\n\nEl agua de abastecimiento de la zona, procedente en parte del sistema Ter-Llobregat, puede presentar cierta dureza que conviene controlar para evitar depósitos calcáreos en boquillas y filtros, especialmente en instalaciones con sistema de calentamiento auxiliar propio de piscinas comunitarias o de negocios deportivos de la ciudad.",
+  "servicesIntro": "Ofrecemos mantenimiento e invernaje adaptado al clima de interior del Bages, para comunidades y negocios de Manresa.",
+  "processIntro": "Un proceso claro, con presupuesto cerrado antes de cualquier intervención.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto inicial",
+      "body": "Nos cuentas el tipo de instalación y su ubicación en Manresa, un dato relevante por la variabilidad térmica de la comarca."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Revisión técnica",
+      "body": "Comprobamos el estado del vaso, la dureza del agua y los equipos antes de cerrar la propuesta."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Presupuesto detallado",
+      "body": "Te presentamos una propuesta cerrada y clara, lista para la junta de propietarios o tu decisión directa."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución programada",
+      "body": "Realizamos el trabajo en la fecha acordada, coordinando con la comunidad o el negocio."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Invernaje riguroso al cierre",
+      "body": "Protegemos la instalación frente a las heladas propias del interior del Bages."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Manresa generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El contraste entre veranos secos e inviernos fríos y húmedos del Bages genera averías particulares en Manresa.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Cal en boquillas y filtros por dureza del agua",
+      "body": "La dureza del agua de la zona favorece los depósitos calcáreos si no se ajusta regularmente la alcalinidad."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Daños por heladas en piscinas mal invernadas",
+      "body": "Las noches frías del invierno manresano, más intensas que en cualquier ciudad de costa catalana, exigen un invernaje riguroso."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "Evaporación notable en pleno verano",
+      "body": "La sequedad ambiental de julio y agosto en Manresa acelera la pérdida de agua, obligando a un control de nivel más frecuente."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
-    },
-    {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Humedad matinal por la proximidad del Cardener",
+      "body": "La niebla habitual en el valle del río en algunas mañanas de otoño e invierno puede favorecer la aparición de algas en el entorno del vaso."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocimiento del clima de interior del Bages",
+      "body": "Ajustamos el mantenimiento a la amplitud térmica real de Manresa, distinta a la de Barcelona pese a la cercanía."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Tratamiento específico para agua dura",
+      "body": "Corregimos la alcalinidad para evitar depósitos de cal en boquillas y filtros."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Invernaje serio, no simbólico",
+      "body": "Protegemos tuberías y vaso frente a heladas reales del interior catalán."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Presupuestos claros para comunidades",
+      "body": "Propuestas desglosadas, fáciles de aprobar en junta de propietarios."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de Manresa y el Bages",
+      "body": "Atendemos el centro urbano y las urbanizaciones cercanas de la comarca."
     }
   ],
-  "zoneText": "Damos servicio a Manresa y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Manresa, incluyendo la Font dels Capellans, el Xup, el centro histórico y las urbanizaciones del entorno, con desplazamientos habituales por toda la comarca del Bages.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Manresa?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué hace tanto más frío en Manresa en invierno que en Barcelona?",
+      "a": "Manresa tiene un clima de interior, más alejado de la influencia térmica moderadora del mar, lo que provoca inviernos más fríos y con heladas más frecuentes que en la costa catalana."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es necesario un invernaje completo en Manresa?",
+      "a": "Sí, las heladas del interior del Bages son suficientes para dañar tuberías y el propio vaso si el invernaje no se hace de forma rigurosa."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Por qué mi piscina en Manresa acumula cal aunque el cloro esté en orden?",
+      "a": "La dureza del agua de la zona no depende del cloro, sino de la alcalinidad y el calcio disuelto. Aplicamos un tratamiento específico para reducir esos depósitos."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿Cuándo conviene hacer la puesta a punto de primavera en Manresa?",
+      "a": "Recomendamos finales de marzo, con tiempo suficiente para resolver cualquier incidencia detectada tras el invierno antes del repunte de temperaturas."
     }
   ],
-  "closingHeadline": "Tu piscina en Manresa, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Manresa y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas preparadas para el clima del Bages",
+  "closingCta": "Solicita presupuesto para tu comunidad o negocio en Manresa y te proponemos un plan adaptado tanto al calor de julio como al frío del invierno del Bages."
 }

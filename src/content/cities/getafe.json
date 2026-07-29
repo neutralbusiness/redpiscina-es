@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 187525,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Getafe | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Getafe. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Getafe y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Getafe — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en Getafe. Presupuesto cerrado, factura y garantía. Contacta con nosotros.",
+  "heroSubtitle": "Cuidamos tu piscina comunitaria en Getafe con la misma exigencia que exige el clima seco del sur de Madrid.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Getafe, en el área metropolitana de Madrid, tiene un clima continental marcado: veranos muy calurosos y secos, con temperaturas que superan con frecuencia los 35°C en julio y agosto, e inviernos fríos que exigen un buen invernaje de la instalación. Esa amplitud térmica desgasta los equipos más que en zonas costeras, y el agua de la red, de dureza considerable en buena parte de la Comunidad de Madrid, deja cal con rapidez en tuberías, juntas de gresite y células de cloradores salinos.\n\nEn las urbanizaciones de chalets y adosados tan habituales en la zona, es frecuente encontrar piscinas de los años 80 y 90 que necesitan una puesta al día completa: nuevo revestimiento, depuradora más eficiente y, cada vez más, una bomba de calor para alargar la temporada de baño más allá de septiembre.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Getafe, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Getafe comparte el clima continental de la meseta madrileña, pero su posición al sur de la capital, más expuesta y con menos arbolado urbano que otros municipios del área metropolitana, hace que las piscinas comunitarias acumulen calor de forma especialmente intensa entre junio y agosto. Los polígonos residenciales de Los Molinos, Las Margaritas o El Bercial concentran cientos de bloques con piscina compartida, y el uso masivo en fin de semana pone a prueba la filtración desde primera hora de la mañana.\n\nEl otro extremo del año trae heladas nocturnas frecuentes de noviembre a febrero, con temperaturas que en las zonas más abiertas del término municipal bajan de cero con facilidad. Un vaso mal invernado en una comunidad de Getafe suele mostrar los daños en primavera, cuando ya es tarde para evitar la reparación. Ajustamos el calendario de invernaje a estas condiciones locales para que la puesta a punto de mayo no se convierta en un gasto extra para la comunidad.",
+  "servicesIntro": "Cubrimos todo lo que necesita una comunidad o negocio de Getafe para mantener su piscina en regla durante todo el año.",
+  "processIntro": "Trabajamos con un procedimiento claro para que la junta de propietarios sepa en todo momento qué se va a hacer y cuánto va a costar.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Primer contacto",
+      "body": "Nos cuentas el tipo de instalación, el número de usuarios habituales y cualquier incidencia previa. Con eso preparamos una primera valoración del alcance del servicio."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita técnica",
+      "body": "Si la piscina lo requiere, la visitamos para comprobar el estado del vaso, la depuradora y el cuadro eléctrico antes de cerrar cifras."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Propuesta cerrada",
+      "body": "Recibes un presupuesto detallado, sin partidas ambiguas, listo para llevar a junta de vecinos o para tu aprobación directa como negocio."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Trabajo acordado",
+      "body": "Ejecutamos exactamente lo presupuestado, coordinando horarios con la comunidad o el negocio para no interferir con el uso de la instalación."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Cierre y registro",
+      "body": "Dejamos constancia por escrito de lo realizado y de los parámetros del agua, un documento útil para el administrador de fincas."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Getafe generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El contraste entre veranos muy secos e inviernos con heladas deja una lista de averías que se repiten cada año en las comunidades de Getafe.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Evaporación acelerada en julio y agosto",
+      "body": "El aire seco de Getafe en pleno verano hace bajar el nivel del vaso con rapidez, lo que descompensa el skimmer y puede dejar la bomba trabajando en vacío si nadie lo vigila."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Fisuras por heladas mal previstas",
+      "body": "Las noches frías del invierno en la zona sur de Madrid dañan tuberías y boquillas cuando el invernaje no se ha hecho a tiempo o de forma completa."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Cloro residual insuficiente en fines de semana",
+      "body": "El uso concentrado de sábado y domingo en las piscinas comunitarias de Los Molinos y El Bercial agota el cloro libre más rápido de lo previsto, dejando el agua turbia el lunes."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Filtros colmatados por polvo ambiental",
+      "body": "El entorno de polígonos y suelo abierto de Getafe aporta más partículas en suspensión de lo habitual, obligando a limpiezas de filtro más frecuentes en temporada alta."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Presupuestos pensados para juntas de vecinos",
+      "body": "Entregamos una propuesta clara y desglosada, fácil de votar en junta sin necesidad de aclaraciones posteriores."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Conocemos el clima del sur de Madrid",
+      "body": "Ajustamos el calendario de tratamiento y de invernaje a las condiciones reales de Getafe, no a un genérico de manual."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Coordinación con administradores de fincas",
+      "body": "Facilitamos toda la documentación que necesita el administrador para justificar el gasto ante la comunidad."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Un técnico que conoce tu instalación",
+      "body": "La misma persona da seguimiento a tu piscina, lo que evita explicaciones repetidas cada visita."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Respuesta ágil en toda la zona sur",
+      "body": "Nuestra logística cubre Getafe y los municipios colindantes con tiempos de respuesta cortos."
     }
   ],
-  "zoneText": "Damos servicio a Getafe y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades y negocios en todo el término municipal de Getafe, incluyendo Los Molinos, Las Margaritas, El Bercial y el centro urbano, con desplazamientos frecuentes por la A-42 y la M-406.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Getafe?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Con qué antelación hay que reservar la puesta a punto de primavera en Getafe?",
+      "a": "Recomendamos contactar en marzo, antes de que empiece la demanda alta. Así garantizamos que la piscina esté lista antes de que suban las temperaturas en mayo."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿El invernaje es realmente necesario si el invierno en Getafe no parece tan frío?",
+      "a": "Sí. Aunque las temperaturas diurnas sean suaves, las heladas nocturnas en la zona sur de Madrid son suficientes para dañar tuberías y boquillas si el vaso no está protegido."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Podéis venir en fin de semana si hay una incidencia urgente?",
+      "a": "Sí, ofrecemos respuesta prioritaria para averías que afecten al uso de la piscina en los momentos de mayor afluencia."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Trabajáis con comunidades pequeñas o solo con grandes urbanizaciones?",
+      "a": "Trabajamos con instalaciones de cualquier tamaño, desde un bloque con piscina compartida hasta grandes urbanizaciones."
     }
   ],
   "closingHeadline": "Tu piscina en Getafe, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Getafe y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingCta": "Escríbenos y te preparamos un presupuesto cerrado para tu comunidad o negocio en Getafe, adaptado al clima seco y a las heladas de la zona sur de Madrid."
 }

@@ -4,9 +4,9 @@
   "province": "León",
   "ccaa": "Castilla y León",
   "population": 124772,
-  "metaTitle": "Mantenimiento y reparación de piscinas en León | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en León. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en León y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en León — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en León. Presupuesto cerrado, factura y garantía. Infórmate.",
+  "heroSubtitle": "Piscinas preparadas para el clima continental frío de León, con veranos cortos e inviernos duros.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "León, en plena meseta castellana, tiene un clima continental extremo: veranos cortos pero muy calurosos, e inviernos largos y fríos que obligan a un invernaje cuidadoso de la instalación para evitar daños por heladas en tuberías y equipos. La temporada de baño es más corta que en la costa, lo que hace aún más importante que la piscina esté lista y sin averías desde el primer día de calor.\n\nEl agua de la zona suele ser de dureza media-alta, lo que con los años deja cal en el sistema de filtración y en las células de los cloradores salinos. En las piscinas más antiguas de la comarca, muchas construidas hace 30 o 40 años, la rehabilitación integral —nuevo revestimiento, depuradora eficiente y protección frente al frío invernal— suele ser la opción más rentable a largo plazo.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en León, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "León tiene uno de los climas más fríos entre las capitales de provincia españolas, marcado por su altitud, en torno a 840 metros, y por su posición en el interior de la meseta norte, alejada de cualquier influencia marina suavizante. Los inviernos leoneses son largos y duros, con heladas frecuentes desde noviembre hasta marzo y nevadas ocasionales, mientras que el verano es corto y mucho más suave que en el centro o el sur peninsular, con temperaturas que rara vez alcanzan los extremos de Madrid o Andalucía.\n\nEsta realidad cambia por completo la lógica del mantenimiento respecto a ciudades de clima mediterráneo o continental cálido: en León, la temporada de baño efectiva es más corta, concentrada entre finales de junio y principios de septiembre, mientras que el invernaje se convierte en la fase más larga y crítica del calendario anual, no en un trámite secundario. Una comunidad de vecinos en el Ensanche o en la zona de Puente Castro necesita un invernaje mucho más riguroso que el que aplicaría una comunidad de Sevilla o Alicante, precisamente porque el riesgo de heladas severas se mantiene activo durante casi medio año.\n\nAdemás, el menor número de días de uso intensivo no significa menor exigencia técnica: el arranque de temporada tras un invierno tan largo requiere una revisión exhaustiva de equipos que puedan haberse visto afectados por las bajas temperaturas, y el agua, procedente en gran parte de la cuenca del Bernesga y el Torío, puede presentar variaciones de dureza que conviene comprobar antes de cada apertura de temporada.",
+  "servicesIntro": "Ofrecemos mantenimiento e invernaje riguroso, adaptado al clima frío y a la temporada de baño corta de León.",
+  "processIntro": "Un proceso claro, con presupuesto cerrado antes de cualquier intervención.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto inicial",
+      "body": "Nos cuentas el tipo de instalación y su historial de temporadas anteriores, relevante en un clima con inviernos tan largos."
+    },
+    {
+      "title": "Revisión técnica",
+      "body": "Comprobamos el estado del vaso y los equipos tras el invierno, buscando posibles daños por heladas."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te presentamos una propuesta clara y detallada, lista para la junta de propietarios o tu decisión directa."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Ejecución programada",
+      "body": "Realizamos el trabajo acordado con tiempo suficiente antes del inicio de la corta temporada de baño."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
-    },
-    {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Invernaje riguroso al cierre",
+      "body": "Al finalizar la temporada, aplicamos un protocolo de invernaje completo, adaptado a la duración e intensidad del invierno leonés."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en León generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El invierno largo y duro de León, junto con una temporada de baño corta, genera averías muy distintas a las de ciudades de clima cálido.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Daños estructurales por heladas prolongadas",
+      "body": "Los inviernos largos de León, con heladas que se mantienen activas durante meses, pueden dañar seriamente tuberías y el propio vaso si el invernaje no es exhaustivo."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Equipos deteriorados por la baja temperatura sostenida",
+      "body": "La bomba y el cuadro eléctrico pueden sufrir por el frío prolongado si no se protegen adecuadamente durante los meses de cierre."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Arranque de temporada más exigente",
+      "body": "Tras un invierno tan largo, la puesta a punto de junio requiere una revisión más exhaustiva que en climas donde el cierre es más breve."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Variaciones de dureza del agua de la cuenca leonesa",
+      "body": "El agua procedente del Bernesga y el Torío puede variar en dureza según la época, lo que conviene comprobar antes de cada apertura."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Especialización en climas fríos de interior",
+      "body": "Aplicamos un invernaje mucho más riguroso que el habitual en ciudades de clima mediterráneo o cálido."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Revisión exhaustiva de arranque de temporada",
+      "body": "Comprobamos a fondo el estado de los equipos tras meses de inactividad por el frío."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuestos claros para comunidades",
+      "body": "Propuestas desglosadas, fáciles de aprobar en junta de propietarios."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Planificación adaptada a la temporada corta",
+      "body": "Concentramos el servicio en las semanas de uso real, sin sobredimensionar el mantenimiento fuera de temporada."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Conocimiento del clima de la meseta norte",
+      "body": "Ajustamos cada intervención a la realidad de León, muy distinta a la de otras capitales de la misma comunidad."
     }
   ],
-  "zoneText": "Damos servicio a León y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en León capital, incluyendo el Ensanche, Puente Castro, La Palomera y las urbanizaciones cercanas, con especial atención al calendario de invernaje.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en León?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué el invernaje es tan importante en León comparado con otras ciudades?",
+      "a": "Porque el invierno leonés es largo y con heladas frecuentes desde noviembre hasta marzo. Un invernaje incompleto en estas condiciones tiene muchas más probabilidades de acabar en daños estructurales que en un clima más suave."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Cuándo conviene abrir la piscina en León?",
+      "a": "Dada la temporada de baño más corta, recomendamos concentrar la puesta a punto en junio, con tiempo suficiente para resolver cualquier incidencia antes del uso real en julio y agosto."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿El agua de León necesita un tratamiento distinto al de otras ciudades?",
+      "a": "Puede presentar variaciones de dureza según la época del año, por lo que recomendamos comprobar los parámetros antes de cada apertura de temporada."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Es rentable mantener una piscina comunitaria si la temporada de uso es tan corta?",
+      "a": "Sí, siempre que el mantenimiento se concentre de forma eficiente en las semanas de uso real y el invernaje se haga correctamente para evitar reparaciones costosas cada primavera."
     }
   ],
-  "closingHeadline": "Tu piscina en León, sin sorpresas",
-  "closingCta": "Si tienes una piscina en León y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas preparadas para el invierno leonés",
+  "closingCta": "Solicita presupuesto para tu comunidad o negocio en León y te proponemos un plan de mantenimiento e invernaje adaptado al clima de la meseta norte."
 }

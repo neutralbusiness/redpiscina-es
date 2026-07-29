@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 81860,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Coslada | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Coslada. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Coslada y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Coslada, Madrid",
+  "metaDescription": "Mantenimiento y reparación de piscinas comunitarias en Coslada, corredor del Henares. Presupuesto cerrado y garantía.",
+  "heroSubtitle": "Piscinas de comunidad siempre listas en Coslada, con presupuesto cerrado y respuesta ágil.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Coslada, con el calor seco y extremo del verano madrileño, el mayor reto para una piscina es mantener el agua en condiciones pese a la evaporación y al consumo acelerado de cloro por la fuerte radiación solar. Ajustamos los sistemas de dosificación automática para reducir el mantenimiento manual en los meses de más calor.\n\nLa dureza del agua en buena parte de la Comunidad de Madrid es uno de los factores que más acorta la vida útil de depuradoras y cloradores salinos si no se hace un mantenimiento adecuado. Recomendamos equipos con función de autolimpieza y un control periódico del pH para minimizar este efecto.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Coslada, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Coslada forma parte del corredor del Henares, al este de Madrid capital, muy próximo al aeropuerto de Barajas y con un desarrollo urbano marcado por grandes promociones de bloques residenciales con piscina comunitaria. El clima es el continental típico de la Comunidad de Madrid, con veranos secos y muy calurosos, agravados en esta zona por la menor presencia de vegetación de sombra respecto a otros puntos de la región, e inviernos fríos con heladas frecuentes que exigen un invernaje bien hecho antes de diciembre.\n\nAl ser un municipio de fuerte densidad residencial, con numerosas comunidades de vecinos construidas en las últimas décadas, la piscina comunitaria concentra un uso muy intenso durante el verano, sobre todo en las urbanizaciones con mayor número de viviendas. Esto exige un control del agua constante durante la temporada, unido a una preparación cuidadosa antes del frío del invierno madrileño para evitar daños en tuberías y equipos durante los meses en que la piscina permanece cerrada.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto de piscinas comunitarias para Coslada.",
+  "processIntro": "Un proceso claro y con presupuesto cerrado, pensado para comunidades del corredor del Henares.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto",
+      "body": "Nos explicas el estado de la piscina comunitaria y el servicio que necesita tu comunidad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Evaluamos la instalación y entregamos una propuesta detallada, lista para junta de propietarios."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Aprobación",
+      "body": "Iniciamos el trabajo solo cuando la comunidad confirma el presupuesto."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos la intervención coordinándonos con los horarios de uso de los vecinos."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe para la comunidad",
+      "body": "Entregamos un parte de trabajo claro, útil para el administrador de fincas."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Coslada generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El calor seco del verano madrileño y la alta densidad residencial de Coslada generan averías recurrentes.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Consumo elevado de cloro por calor y poca sombra",
+      "body": "La exposición solar directa, con menos zonas de sombra que en otros puntos de Madrid, acelera la degradación del cloro. Ajustamos la dosificación en los meses de más calor."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Agua turbia por uso masivo en comunidades grandes",
+      "body": "Las urbanizaciones con muchas viviendas concentran un uso intenso de la piscina en verano. Reforzamos el control de cloro en los días de mayor afluencia."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Roturas por heladas en el corredor del Henares",
+      "body": "Los inviernos fríos de la zona pueden dañar tuberías mal protegidas. Aplicamos un invernaje completo antes de que lleguen las heladas de diciembre."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Filtros saturados por temporada de alta ocupación",
+      "body": "El uso intensivo de julio y agosto satura los sistemas de filtración de las comunidades más grandes. Programamos contralavados frecuentes para evitar averías."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con grandes comunidades residenciales",
+      "body": "Sabemos gestionar el uso intensivo propio de las urbanizaciones de Coslada."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos claros para juntas de propietarios",
+      "body": "Documentación detallada y fácil de aprobar en comunidad."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Invernaje adaptado al frío madrileño",
+      "body": "Protegemos la instalación de las heladas propias del invierno de la zona."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Técnico de referencia para la comunidad",
+      "body": "La misma persona sigue el historial de la piscina cada temporada."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Buena logística en el corredor del Henares",
+      "body": "Planificamos rutas eficientes para llegar con puntualidad a cada comunidad."
     }
   ],
-  "zoneText": "Damos servicio a Coslada y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades de vecinos y negocios en Coslada y el entorno del corredor del Henares.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Coslada?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué mi piscina en Coslada pierde tanto cloro en verano?",
+      "a": "La fuerte exposición solar, con poca sombra en muchas urbanizaciones de la zona, acelera la degradación del cloro, por lo que ajustamos la dosificación en los meses de más calor."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es necesario invernar la piscina en Coslada?",
+      "a": "Sí, los inviernos del corredor del Henares registran heladas frecuentes que pueden dañar tuberías si no se protege bien la instalación antes de diciembre."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Podéis presentar el presupuesto en junta de propietarios?",
+      "a": "Sí, elaboramos presupuestos cerrados y desglosados, pensados para facilitar la aprobación en comunidad."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Cómo gestionáis comunidades con muchas viviendas y alta afluencia?",
+      "a": "Reforzamos la frecuencia de revisión y el control de cloro en las urbanizaciones más grandes, donde el uso de la piscina en verano es especialmente intenso."
     }
   ],
-  "closingHeadline": "Tu piscina en Coslada, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Coslada y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas de comunidad en orden en Coslada",
+  "closingCta": "Pide presupuesto para la piscina de tu comunidad en Coslada, Madrid."
 }

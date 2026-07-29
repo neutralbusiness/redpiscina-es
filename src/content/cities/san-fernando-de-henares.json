@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 39466,
-  "metaTitle": "Mantenimiento y reparación de piscinas en San Fernando de Henares | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en San Fernando de Henares. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en San Fernando de Henares y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en San Fernando de Henares",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en San Fernando de Henares. Presupuesto cerrado y garantía. Solicita información.",
+  "heroSubtitle": "Mantén en perfecto estado la piscina de tu comunidad o negocio en San Fernando de Henares durante todo el año.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En San Fernando de Henares, con el calor seco y extremo del verano madrileño, el mayor reto para una piscina es mantener el agua en condiciones pese a la evaporación y al consumo acelerado de cloro por la fuerte radiación solar. Ajustamos los sistemas de dosificación automática para reducir el mantenimiento manual en los meses de más calor.\n\nLa dureza del agua en buena parte de la Comunidad de Madrid es uno de los factores que más acorta la vida útil de depuradoras y cloradores salinos si no se hace un mantenimiento adecuado. Recomendamos equipos con función de autolimpieza y un control periódico del pH para minimizar este efecto.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en San Fernando de Henares, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "San Fernando de Henares, situado en el corredor del Henares, comparte el clima continental típico del este de Madrid: veranos largos y muy calurosos, con jornadas que se mantienen por encima de los 30°C durante semanas, e inviernos fríos con heladas frecuentes. Es un municipio con fuerte presencia industrial y residencial, donde las piscinas comunitarias son el modelo predominante frente a la vivienda unifamiliar, lo que implica un uso muy concentrado en las horas de tarde y los fines de semana de verano.\n\nEse uso intensivo y colectivo, propio de comunidades de vecinos con cientos de residentes, exige un mantenimiento constante durante la temporada alta para evitar que el agua se degrade con la afluencia de bañistas. La cercanía al aeropuerto de Barajas y a los polígonos industriales de la zona no afecta directamente a la piscina, pero sí marca la disponibilidad horaria de administradores y comunidades, algo que tenemos en cuenta al planificar cada visita.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto para piscinas comunitarias y de negocio en San Fernando de Henares.",
+  "processIntro": "Un proceso sencillo, pensado para comunidades de vecinos y administradores de fincas de la zona.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto inicial",
+      "body": "Nos indicas las características de tu piscina comunitaria y el volumen de uso habitual en San Fernando de Henares."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Presupuesto detallado",
+      "body": "Preparamos una propuesta cerrada, fácil de presentar y aprobar en junta de propietarios."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Aprobación",
+      "body": "Iniciamos el trabajo únicamente tras tu confirmación, coordinando la fecha con la comunidad."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el mantenimiento o reparación acordados, minimizando molestias a los vecinos."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe y seguimiento",
+      "body": "Entregamos un resumen de lo realizado y quedamos disponibles para el siguiente mantenimiento programado."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en San Fernando de Henares generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El uso intensivo y colectivo de las piscinas comunitarias, combinado con los veranos largos del corredor del Henares, genera problemas recurrentes.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Agua turbia por alta afluencia",
+      "body": "En comunidades con muchos residentes, el uso masivo de la piscina en fines de semana de verano desequilibra rápidamente el agua. Aplicamos tratamientos de choque para recuperar la claridad."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Sobreesfuerzo de la depuradora",
+      "body": "Los sistemas de filtración de piscinas comunitarias grandes trabajan al límite en temporada alta. Revisamos bombas y filtros de forma preventiva para evitar averías en pleno agosto."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Consumo elevado de cloro por calor prolongado",
+      "body": "Las largas rachas de calor del corredor del Henares degradan el cloro con rapidez. Ajustamos la dosificación para mantener el equilibrio sin disparar el gasto de la comunidad."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
+      "title": "Daños por heladas invernales",
+      "body": "Los inviernos fríos de la zona exigen un invernaje completo. Una protección insuficiente puede provocar fisuras en tuberías que solo se detectan en primavera."
     },
     {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Incumplimientos sanitarios en piscina comunitaria",
+      "body": "Las piscinas de uso colectivo están sujetas a control sanitario estricto. Llevamos un registro de parámetros que facilita el cumplimiento normativo."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Presupuestos para juntas de propietarios",
+      "body": "Preparamos propuestas claras y fáciles de aprobar, adaptadas al proceso de decisión de las comunidades de San Fernando de Henares."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Experiencia en piscinas comunitarias grandes",
+      "body": "Sabemos gestionar el mantenimiento de instalaciones con alto volumen de bañistas en temporada alta."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Horarios adaptados a la comunidad",
+      "body": "Planificamos las visitas para minimizar el impacto en los vecinos, en las franjas de menor uso."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Un técnico de referencia",
+      "body": "El mismo profesional conoce el historial de tu piscina y agiliza cualquier intervención futura."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura ágil en el corredor del Henares",
+      "body": "Nuestra planificación de rutas nos permite llegar con puntualidad a San Fernando de Henares y su entorno."
     }
   ],
-  "zoneText": "Damos servicio a San Fernando de Henares y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades de vecinos y negocios en todo el municipio de San Fernando de Henares.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en San Fernando de Henares?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Con qué frecuencia hay que revisar una piscina comunitaria en verano?",
+      "a": "En comunidades grandes con mucho uso recomendamos revisiones frecuentes, especialmente los fines de semana de julio y agosto, cuando la afluencia es máxima."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Podéis presentar el presupuesto directamente a la junta de propietarios?",
+      "a": "Sí, preparamos propuestas claras y detalladas pensadas para facilitar su presentación y aprobación en junta."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Es necesario invernar la piscina en San Fernando de Henares?",
+      "a": "Sí, los inviernos de la zona traen heladas frecuentes que pueden dañar la instalación si no se protege adecuadamente."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Qué pasa si el agua se pone turbia un fin de semana con mucha gente?",
+      "a": "Podemos aplicar un tratamiento correctivo rápido para devolver la calidad del agua antes del siguiente uso."
     }
   ],
-  "closingHeadline": "Tu piscina en San Fernando de Henares, sin sorpresas",
-  "closingCta": "Si tienes una piscina en San Fernando de Henares y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "El mantenimiento que tu comunidad necesita en San Fernando de Henares",
+  "closingCta": "Contáctanos y te preparamos un presupuesto cerrado para tu piscina comunitaria o de negocio en San Fernando de Henares."
 }

@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 228171,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Ciudad Lineal | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Ciudad Lineal. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Ciudad Lineal y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Ciudad Lineal, Madrid",
+  "metaDescription": "Mantenimiento y reparación de piscinas comunitarias en el distrito de Ciudad Lineal, Madrid. Presupuesto cerrado y garantía.",
+  "heroSubtitle": "Piscinas de comunidad siempre a punto en Ciudad Lineal, con presupuesto cerrado y trato cercano.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Ciudad Lineal, con el calor seco y extremo del verano madrileño, el mayor reto para una piscina es mantener el agua en condiciones pese a la evaporación y al consumo acelerado de cloro por la fuerte radiación solar. Ajustamos los sistemas de dosificación automática para reducir el mantenimiento manual en los meses de más calor.\n\nLa dureza del agua en buena parte de la Comunidad de Madrid es uno de los factores que más acorta la vida útil de depuradoras y cloradores salinos si no se hace un mantenimiento adecuado. Recomendamos equipos con función de autolimpieza y un control periódico del pH para minimizar este efecto.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Ciudad Lineal, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Ciudad Lineal es uno de los distritos con más historia de Madrid, nacido como barrio obrero-residencial a principios del siglo XX y hoy densamente poblado, con un tejido de comunidades de vecinos consolidadas donde la piscina comunitaria de verano sigue siendo un punto de encuentro para muchas familias. El clima de Madrid, continental y con veranos secos y muy calurosos, golpea con fuerza estas piscinas: la radiación solar intensa de julio y agosto degrada el cloro con rapidez, y la alta ocupación de las piscinas comunitarias en temporada, con muchos usuarios en pocas horas, exige un control del agua constante para no perder la calidad de un día para otro.\n\nAl tratarse en su mayoría de comunidades de propietarios con piscina compartida, el mantenimiento en Ciudad Lineal se organiza en gran parte en torno a la temporada de baño, entre junio y septiembre, con una preparación previa en primavera y un cierre cuidadoso en otoño antes de las primeras heladas del invierno madrileño. La densidad del barrio también implica accesos y aparcamiento limitados en varias calles, algo que tenemos en cuenta al planificar cada visita.",
+  "servicesIntro": "Ofrecemos mantenimiento, puesta a punto de temporada y reparación de piscinas comunitarias en Ciudad Lineal.",
+  "processIntro": "Un proceso pensado para administradores de fincas que necesitan presupuestos claros y fáciles de aprobar en junta.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto con la comunidad",
+      "body": "Nos explicas el estado de la piscina comunitaria y el servicio que se necesita."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita y presupuesto cerrado",
+      "body": "Evaluamos la instalación y entregamos una propuesta detallada, lista para presentar en junta de propietarios."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Aprobación",
+      "body": "Iniciamos el trabajo únicamente tras la conformidad de la comunidad."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos la intervención respetando los horarios de uso de vecinos y las limitaciones de acceso del barrio."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe para la comunidad",
+      "body": "Entregamos un parte de trabajo claro, útil para el administrador de fincas y para el archivo de la comunidad."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Ciudad Lineal generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La alta ocupación de las piscinas comunitarias y el calor madrileño provocan problemas recurrentes en Ciudad Lineal.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Agua turbia por uso intensivo de verano",
+      "body": "Las piscinas comunitarias del distrito reciben mucha afluencia en pocas horas, lo que puede enturbiar el agua rápidamente. Reforzamos el control de cloro en los fines de semana de mayor uso."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Degradación rápida del cloro por sol directo",
+      "body": "La fuerte radiación solar de los veranos madrileños consume el cloro con rapidez. Ajustamos la dosificación para mantener el agua en condiciones durante toda la jornada."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Filtros saturados en temporada alta",
+      "body": "El uso masivo de julio y agosto puede saturar los sistemas de filtración de las comunidades. Programamos contralavados frecuentes para evitarlo."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Daños por heladas en el cierre de temporada",
+      "body": "Un invernaje mal hecho antes del invierno madrileño puede provocar fisuras en tuberías. Aplicamos un protocolo de cierre completo cada otoño."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Presupuestos listos para junta de propietarios",
+      "body": "Documentación clara y desglosada que facilita la aprobación en comunidades del distrito."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Experiencia con piscinas comunitarias de barrio consolidado",
+      "body": "Conocemos bien la dinámica de uso intensivo propia de estas instalaciones."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Adaptación a accesos limitados",
+      "body": "Planificamos cada visita teniendo en cuenta el aparcamiento y las calles del distrito."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Un técnico de referencia para la comunidad",
+      "body": "La misma persona sigue el historial de la piscina año tras año."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Preparación completa para la temporada de baño",
+      "body": "Puesta a punto en primavera y cierre cuidadoso en otoño, ajustados al calendario de uso del barrio."
     }
   ],
-  "zoneText": "Damos servicio a Ciudad Lineal y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Atendemos comunidades de vecinos y negocios en todo el distrito de Ciudad Lineal, Madrid.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Ciudad Lineal?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Podéis presentar un presupuesto para llevarlo a la junta de propietarios?",
+      "a": "Sí, elaboramos presupuestos cerrados y desglosados, pensados precisamente para que el administrador de fincas los presente con claridad a la comunidad."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Cómo controláis la calidad del agua con tanta afluencia en verano?",
+      "a": "Reforzamos las visitas y la revisión de cloro en los fines de semana de mayor uso, cuando la piscina comunitaria recibe más usuarios en pocas horas."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Hacéis el cierre de la piscina antes del invierno?",
+      "a": "Sí, aplicamos un protocolo de invernaje completo en otoño para proteger la instalación de las heladas propias del invierno madrileño."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Tenéis en cuenta el acceso limitado en algunas calles del distrito?",
+      "a": "Sí, planificamos cada visita conociendo las particularidades de aparcamiento y acceso de las distintas zonas de Ciudad Lineal."
     }
   ],
-  "closingHeadline": "Tu piscina en Ciudad Lineal, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Ciudad Lineal y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "La piscina comunitaria de Ciudad Lineal, en buenas manos",
+  "closingCta": "Pide presupuesto para la piscina de tu comunidad en Ciudad Lineal, Madrid."
 }

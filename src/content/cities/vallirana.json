@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 14066,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Vallirana | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Vallirana. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Vallirana y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Vallirana — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para viviendas unifamiliares en Vallirana, Baix Llobregat. Presupuesto cerrado y garantía. Pide presupuesto.",
+  "heroSubtitle": "Cuidamos tu piscina en Vallirana, entre las colinas del Baix Llobregat.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Vallirana, en el Baix Llobregat, damos servicio tanto a chalets particulares como a piscinas comunitarias, muy habituales en las urbanizaciones de la comarca. El uso intensivo de las piscinas comunitarias en temporada alta exige un mantenimiento más frecuente y un control estricto de los parámetros del agua, mientras que en las piscinas privadas el reto suele ser distinto: mantenerlas en buen estado con visitas más espaciadas durante el resto del año.\n\nLa cercanía al Llobregat y la humedad de la zona hacen que el gresite y las juntas de piscinas antiguas se degraden con el tiempo, provocando fugas difíciles de localizar a simple vista. Usamos equipos de detección profesional para dar con el punto exacto sin necesidad de obras innecesarias.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Vallirana, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Vallirana se despliega sobre un terreno de relieve ondulado en la comarca del Baix Llobregat, con numerosas urbanizaciones de vivienda unifamiliar distribuidas en laderas y zonas elevadas, donde la piscina propia es un elemento habitual del jardín. Esta topografía tiene su efecto práctico: muchas piscinas están algo más expuestas al viento y reciben una insolación intensa durante buena parte del día, lo que acelera la evaporación en los meses de verano.\n\nEl clima mediterráneo del interior de la comarca trae veranos calurosos y secos, con menor humedad que en la costa cercana, y una temporada de baño que se concentra sobre todo entre junio y septiembre. Para las familias propietarias de estas viviendas, el reto habitual no es tanto un uso intensivo constante como los dos momentos críticos del año: la puesta a punto antes del verano y el invernaje al finalizar, dos fases donde un mantenimiento descuidado se paga después con agua turbia o averías evitables.",
+  "servicesIntro": "En Vallirana nos centramos en el mantenimiento y la reparación de piscinas de vivienda unifamiliar en zonas de terreno elevado.",
+  "processIntro": "Seguimos un proceso claro pensado para propietarios particulares que buscan tranquilidad y precios cerrados.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas tu caso",
+      "body": "Nos explicas la situación de tu piscina en Vallirana y si necesitas mantenimiento puntual o continuado."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Presupuesto sin sorpresas",
+      "body": "Valoramos lo que hace falta y te damos un precio cerrado antes de empezar cualquier trabajo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmas cuando quieras",
+      "body": "El servicio arranca únicamente cuando das tu visto bueno al presupuesto."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecutamos el servicio",
+      "body": "Nuestro técnico se desplaza a tu vivienda y realiza el trabajo acordado, teniendo en cuenta la exposición al viento propia de las zonas más elevadas."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Recomendaciones finales",
+      "body": "Te dejamos indicaciones claras para mantener el agua en condiciones hasta la siguiente visita."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Vallirana generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El relieve ondulado y la exposición al viento de Vallirana, junto al uso estacional de las piscinas, generan problemas característicos en la zona.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Evaporación elevada por exposición al viento",
+      "body": "Las piscinas situadas en zonas más altas y expuestas pierden agua con más rapidez de lo habitual. Vigilamos el nivel y reequilibramos el agua en cada visita para evitar desajustes."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Agua turbia al abrir la temporada",
+      "body": "Tras meses de baja actividad en viviendas de uso estacional, el agua acumula partículas y desequilibrio químico. Aplicamos un tratamiento de choque para dejarla lista antes del verano."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Daños por invernaje incompleto",
+      "body": "Un invernaje mal hecho puede provocar fisuras en tuberías y skimmers durante el invierno. Aplicamos un protocolo completo para proteger la instalación hasta la reapertura."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Acumulación de polvo y restos de jardín",
+      "body": "En zonas de terreno elevado y con jardín, el polvo y los restos vegetales llegan al agua con facilidad, sobre todo en días de viento. Reforzamos la limpieza de skimmers y fondo en consecuencia."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Especialistas en vivienda unifamiliar de terreno elevado",
+      "body": "Conocemos las particularidades de las piscinas en zonas con más exposición al viento y a la insolación, muy propias de Vallirana."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuesto claro desde el primer momento",
+      "body": "Sabes exactamente qué vas a pagar antes de que empecemos cualquier trabajo."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Puesta a punto de temporada bien planificada",
+      "body": "Nos anticipamos a la apertura de verano para que el agua esté lista cuando la necesites."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Invernaje cuidadoso",
+      "body": "Protegemos tu instalación frente a los daños típicos de un invierno mal gestionado."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Trato directo con el propietario",
+      "body": "Cuidamos la comunicación directa contigo en cada visita, sin intermediarios."
     }
   ],
-  "zoneText": "Damos servicio a Vallirana y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a viviendas unifamiliares en todo el término municipal de Vallirana, incluidas las urbanizaciones situadas en zonas de terreno más elevado.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Vallirana?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué mi piscina en Vallirana pierde tanta agua en verano?",
+      "a": "Es habitual en las zonas más elevadas y expuestas al viento del municipio, donde la evaporación es mayor. Revisamos el nivel de agua en cada visita y reequilibramos el tratamiento en consecuencia."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "Mi piscina lleva meses cerrada, ¿podéis dejarla lista para el verano?",
+      "a": "Sí, es uno de nuestros servicios más habituales en Vallirana. Aplicamos un tratamiento de choque y ajustamos la filtración hasta recuperar un agua clara y en condiciones de uso."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Qué incluye el servicio de invernaje para una vivienda particular?",
+      "a": "Incluye el ajuste del nivel de agua, la protección de skimmers y boquillas, la purga de tuberías y la aplicación de un producto invernador, para evitar daños durante los meses de menor uso."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Trabajáis solo con contratos anuales o también con visitas puntuales?",
+      "a": "Ofrecemos ambas opciones. Podemos hacer una intervención puntual para resolver un problema concreto o un seguimiento regular durante toda la temporada de baño."
     }
   ],
-  "closingHeadline": "Tu piscina en Vallirana, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Vallirana y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Vallirana, lista en cada temporada",
+  "closingCta": "Pide un presupuesto cerrado para el mantenimiento de tu piscina unifamiliar en Vallirana."
 }

@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 14329,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Paracuellos de Jarama | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Paracuellos de Jarama. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Paracuellos de Jarama y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Paracuellos de Jarama — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas en Paracuellos de Jarama para viviendas unifamiliares. Presupuesto cerrado y trato directo, sin sorpresas.",
+  "heroSubtitle": "Cuidamos la piscina de tu vivienda en Paracuellos de Jarama durante todo el año, en el área metropolitana este de Madrid.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Paracuellos de Jarama, en el área metropolitana de Madrid, tiene un clima continental marcado: veranos muy calurosos y secos, con temperaturas que superan con frecuencia los 35°C en julio y agosto, e inviernos fríos que exigen un buen invernaje de la instalación. Esa amplitud térmica desgasta los equipos más que en zonas costeras, y el agua de la red, de dureza considerable en buena parte de la Comunidad de Madrid, deja cal con rapidez en tuberías, juntas de gresite y células de cloradores salinos.\n\nEn las urbanizaciones de chalets y adosados tan habituales en la zona, es frecuente encontrar piscinas de los años 80 y 90 que necesitan una puesta al día completa: nuevo revestimiento, depuradora más eficiente y, cada vez más, una bomba de calor para alargar la temporada de baño más allá de septiembre.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Paracuellos de Jarama, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Paracuellos de Jarama forma parte del área metropolitana este de Madrid, con un desarrollo urbanístico marcado por urbanizaciones de vivienda unifamiliar de baja densidad, muchas de ellas con parcela y piscina privada. El clima comparte el carácter continental de la Comunidad de Madrid, con veranos largos y muy calurosos, agravados en esta zona por la menor altitud respecto a otras áreas del este metropolitano y la cercanía del valle del Jarama, lo que puede traducirse en jornadas de calor especialmente intensas en pleno julio y agosto.\n\nEl crecimiento urbanístico del municipio en las últimas décadas ha generado un parque de piscinas relativamente reciente en muchas urbanizaciones, aunque no exento de los problemas típicos de instalaciones con diez o quince años de antigüedad: equipos de filtración que empiezan a mostrar signos de fatiga y cuadros eléctricos que conviene revisar según la normativa actual. En este entorno de viviendas unifamiliares, el mantenimiento se centra en sostener la calidad del agua durante el uso intensivo del verano y en proteger correctamente la instalación de cara al invierno, con heladas moderadas pero presentes en la zona.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparaciones y puesta a punto de piscinas particulares en viviendas unifamiliares de Paracuellos de Jarama.",
+  "processIntro": "Nuestro proceso de trabajo está pensado para darte total claridad sobre las tareas y el coste antes de intervenir en tu piscina.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Primer contacto",
+      "body": "Nos cuentas el estado de tu piscina en Paracuellos de Jarama y qué necesitas, y valoramos si conviene una visita técnica."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita a la vivienda",
+      "body": "Revisamos el vaso, la depuradora y la instalación eléctrica, prestando atención a equipos con varios años de uso."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Presupuesto sin costes ocultos",
+      "body": "Te entregamos una propuesta detallada con el precio final, sin costes añadidos posteriores."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Damos comienzo tras tu visto bueno",
+      "body": "Empezamos a trabajar solo cuando apruebas el presupuesto, ajustando la fecha a tu disponibilidad."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Servicio y pautas para el resto del año",
+      "body": "Realizamos el servicio acordado y te dejamos recomendaciones para el mantenimiento del resto de la temporada."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Paracuellos de Jarama generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El calor intenso del área metropolitana este de Madrid y la antigüedad de algunas instalaciones generan en Paracuellos incidencias recurrentes.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Instalaciones eléctricas a actualizar",
+      "body": "Detectamos y, si hace falta, adaptamos el cuadro eléctrico de tu piscina a la normativa vigente."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Nivel de agua que baja rápido en verano",
+      "body": "El calor intenso propio de esta zona del este metropolitano hace bajar el nivel del agua con rapidez en los meses centrales del verano. Recomendamos revisar el nivel con frecuencia."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Filtros fatigados por uso intensivo",
+      "body": "Equipos de diez o quince años que funcionan bien en primavera pueden fallar al llegar el pico de calor de julio y agosto. Recomendamos una revisión preventiva antes de la temporada alta."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Fisuras por heladas moderadas de invierno",
+      "body": "Aunque menos intensas que en la sierra, las heladas de esta zona pueden dañar tuberías mal protegidas. Aplicamos un invernaje adaptado a las temperaturas concretas de la zona."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Especializados en vivienda unifamiliar con piscina",
+      "body": "Conocemos bien las necesidades de las urbanizaciones de baja densidad como las de Paracuellos de Jarama."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Cifra fija de principio a fin",
+      "body": "El precio pactado en la visita es exactamente el que aparece en la factura al terminar."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Revisión honesta de instalaciones antiguas",
+      "body": "Evaluamos con detalle si conviene reparar o renovar equipos con varios años de uso, sin recomendar cambios innecesarios."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Atención a la normativa eléctrica actual",
+      "body": "Revisamos que la instalación eléctrica de tu piscina cumpla con los estándares de seguridad vigentes."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Prioridad cuando el calor aprieta",
+      "body": "Ponemos por delante las averías que dejan la piscina inservible en pleno verano."
     }
   ],
-  "zoneText": "Damos servicio a Paracuellos de Jarama y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Paracuellos de Jarama y en los municipios cercanos del área metropolitana este de Madrid, adaptando la logística a las urbanizaciones de vivienda unifamiliar.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Paracuellos de Jarama?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué mi piscina en Paracuellos pierde tanta agua en verano?",
+      "a": "El calor intenso propio de esta zona del este metropolitano de Madrid acelera la evaporación en los meses centrales del verano. Aconsejamos comprobar el nivel del agua con frecuencia durante las olas de calor."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "Mi vivienda tiene quince años, ¿es normal que la instalación eléctrica de la piscina necesite revisión?",
+      "a": "Sí, es habitual encontrar instalaciones de esa antigüedad sin la protección diferencial que exige la normativa actual. Revisamos y, si hace falta, adaptamos el cuadro eléctrico de tu piscina."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Hace falta invernar la piscina en Paracuellos de Jarama?",
+      "a": "Sí, aunque las heladas en esta zona son moderadas comparadas con la sierra, siguen pudiendo dañar tuberías sin un invernaje adecuado. Aplicamos un protocolo ajustado a las temperaturas de la zona."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Trabajáis en toda la zona de urbanizaciones de Paracuellos de Jarama?",
+      "a": "Sí, atendemos las viviendas unifamiliares con piscina de todo el municipio, adaptando el servicio a cada caso concreto."
     }
   ],
-  "closingHeadline": "Tu piscina en Paracuellos de Jarama, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Paracuellos de Jarama y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina lista para el verano en Paracuellos de Jarama",
+  "closingCta": "Cuéntanos el estado de tu piscina en Paracuellos de Jarama y te preparamos un presupuesto cerrado."
 }

@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 11815,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Abrera | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Abrera. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Abrera y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Abrera — Red Piscina",
+  "metaDescription": "Servicio de mantenimiento y reparación de piscinas privadas y comunitarias en Abrera (Baix Llobregat). Presupuesto cerrado y garantía. Consúltanos.",
+  "heroSubtitle": "Mantenimiento profesional para la piscina de tu vivienda o comunidad en Abrera, en pleno Baix Llobregat.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Abrera, en el Baix Llobregat, damos servicio tanto a chalets particulares como a piscinas comunitarias, muy habituales en las urbanizaciones de la comarca. El uso intensivo de las piscinas comunitarias en temporada alta exige un mantenimiento más frecuente y un control estricto de los parámetros del agua, mientras que en las piscinas privadas el reto suele ser distinto: mantenerlas en buen estado con visitas más espaciadas durante el resto del año.\n\nLa cercanía al Llobregat y la humedad de la zona hacen que el gresite y las juntas de piscinas antiguas se degraden con el tiempo, provocando fugas difíciles de localizar a simple vista. Usamos equipos de detección profesional para dar con el punto exacto sin necesidad de obras innecesarias.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Abrera, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Abrera se sitúa en el Baix Llobregat, a los pies de la sierra de Montserrat y a poca distancia de Martorell, en una zona de transición entre el llano del río Llobregat y las primeras estribaciones montañosas. El municipio combina un núcleo urbano compacto con urbanizaciones de vivienda unifamiliar donde la piscina privada es habitual, un modelo residencial típico de esta comarca situada a menos de 30 minutos de Barcelona.\n\nEl clima mediterráneo de interior de Abrera trae veranos calurosos y secos, con temperaturas que suelen superar con facilidad los 30°C en julio y agosto, lo que acelera la evaporación y obliga a vigilar de cerca el nivel de cloro. Los inviernos, más fríos que en la costa por la cercanía a la sierra, hacen necesario un invernaje cuidadoso para proteger tuberías y equipos frente a heladas ocasionales. Nuestro servicio se adapta a este patrón: mantenimiento intensivo en temporada alta y una puesta en invernaje sólida antes de que lleguen los primeros fríos.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto para piscinas privadas y comunitarias en Abrera.",
+  "processIntro": "Un proceso sencillo y sin sorpresas, con presupuesto cerrado desde el primer momento.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas tu caso",
+      "body": "Nos explicas si se trata de una piscina privada o comunitaria en Abrera, su estado actual y qué necesitas resolver."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Valoramos y presupuestamos",
+      "body": "Evaluamos la instalación cuando es necesario y te entregamos un presupuesto cerrado, sin cargos añadidos posteriores."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Apruebas el trabajo",
+      "body": "Solo actuamos con tu confirmación previa, acordando la fecha que mejor encaje con tu disponibilidad."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Realizamos la intervención",
+      "body": "Ejecutamos el mantenimiento o la reparación acordada con materiales de calidad y siguiendo los protocolos de seguridad habituales."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Cerramos con un informe",
+      "body": "Te dejamos constancia de lo realizado y de los parámetros del agua, y quedamos disponibles para el siguiente mantenimiento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Abrera generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El verano seco y caluroso del interior del Baix Llobregat y los inviernos más fríos por la cercanía a Montserrat provocan problemas recurrentes en las piscinas de Abrera.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Evaporación acelerada en verano",
+      "body": "Las altas temperaturas de julio y agosto en Abrera hacen bajar el nivel de agua con rapidez, lo que desestabiliza el cloro si no se repone y ajusta con regularidad."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Cal por agua de dureza media-alta",
+      "body": "El agua de la zona puede dejar depósitos calcáreos en línea de flotación y equipos si no se controla la dureza, especialmente tras el llenado de la piscina."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Heladas puntuales en invierno",
+      "body": "La cercanía a la sierra de Montserrat trae noches frías en invierno. Sin un invernaje adecuado, las tuberías y el skimmer pueden sufrir daños por congelación."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Algas por uso intensivo en temporada alta",
+      "body": "El uso concentrado de la piscina en los meses de verano, típico de las viviendas unifamiliares de la zona, acelera el consumo de cloro y favorece la aparición de algas si no se refuerza el tratamiento."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Cercanía a Abrera y su entorno",
+      "body": "Nos desplazamos con agilidad por Abrera y el Baix Llobregat, sin los retrasos de otras empresas que operan solo desde Barcelona ciudad."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuesto cerrado desde el inicio",
+      "body": "Sabes exactamente qué vas a pagar antes de que empecemos a trabajar en tu piscina."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Adaptado a vivienda unifamiliar",
+      "body": "Entendemos las necesidades concretas de las piscinas privadas de la zona, distintas a las de grandes instalaciones urbanas."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Invernaje pensado para la zona",
+      "body": "Protegemos tu piscina frente a las heladas ocasionales propias de la proximidad a la sierra de Montserrat."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Trato directo y sin intermediarios",
+      "body": "Hablas siempre con la misma persona, que conoce el historial de tu piscina."
     }
   ],
-  "zoneText": "Damos servicio a Abrera y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Abrera y en los municipios cercanos del Baix Llobregat como Martorell, Esparreguera y Olesa de Montserrat.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Abrera?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Trabajáis con piscinas privadas de vivienda unifamiliar en Abrera?",
+      "a": "Sí, es nuestro tipo de instalación más habitual en la zona. Adaptamos el mantenimiento al tamaño y uso de cada piscina particular."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Hay riesgo real de heladas en Abrera?",
+      "a": "La cercanía a la sierra de Montserrat provoca noches frías en invierno, por lo que recomendamos un invernaje completo para evitar daños en tuberías y equipos."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Cuánto sube el consumo de cloro en verano?",
+      "a": "Con las temperaturas de julio y agosto en la comarca, el consumo aumenta de forma notable. Ajustamos la dosificación en cada visita para mantener el agua en condiciones."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Podéis venir también a comunidades de propietarios de la zona?",
+      "a": "Sí, además de piscinas privadas atendemos comunidades de vecinos en Abrera y municipios cercanos, con presupuestos pensados para presentar en junta."
     }
   ],
-  "closingHeadline": "Tu piscina en Abrera, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Abrera y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Abrera, cuidada durante todo el año",
+  "closingCta": "Pide presupuesto sin compromiso para el mantenimiento de tu piscina en Abrera."
 }

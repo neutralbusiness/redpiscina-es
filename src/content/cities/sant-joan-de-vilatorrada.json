@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 10779,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Sant Joan de Vilatorrada | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Sant Joan de Vilatorrada. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Sant Joan de Vilatorrada y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Sant Joan de Vilatorrada",
+  "metaDescription": "Mantenimiento y reparación de piscinas de chalet y comunidad en Sant Joan de Vilatorrada, Bages. Presupuesto cerrado. Infórmate ahora.",
+  "heroSubtitle": "Un servicio técnico adaptado al clima interior de Sant Joan de Vilatorrada, en la comarca del Bages.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Sant Joan de Vilatorrada, en la Catalunya Central, tiene un clima más continental que el litoral: veranos calurosos y secos, con más amplitud térmica entre el día y la noche que en la costa. Esto hace que la temporada de baño sea intensa pero algo más corta, concentrada en los meses centrales del verano, y que el mantenimiento preventivo antes de esas fechas sea especialmente importante para no quedarte sin depuradora en pleno julio.\n\nEn la zona conviven piscinas privadas de urbanizaciones periurbanas con piscinas comunitarias, sobre todo en los núcleos más densos. El agua de la comarca tiende a ser de dureza media-alta, lo que con los años deja cal en juntas de gresite y en el interior de los sistemas de filtración si no se hace un mantenimiento adecuado.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Sant Joan de Vilatorrada, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Sant Joan de Vilatorrada, en la comarca del Bages, tiene un clima de interior mucho más continental que el de los municipios costeros o del área metropolitana de Barcelona: veranos secos y calurosos, con jornadas que pueden superar los 34-35°C, e inviernos con heladas frecuentes y una amplitud térmica notable entre el día y la noche. Esta característica propia del interior catalán marca de forma directa el mantenimiento de las piscinas del municipio.\n\nEl municipio combina un núcleo urbano compacto con zonas de vivienda unifamiliar en su periferia, por lo que conviven piscinas comunitarias y privadas. El calor seco propio del Bages, sin la humedad moderadora de la costa, acelera notablemente la evaporación del agua y el consumo de cloro, mientras que los inviernos, más fríos que en el litoral, exigen un invernaje cuidadoso para evitar daños por heladas en la instalación.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación e invernaje para piscinas de chalet y comunidad en Sant Joan de Vilatorrada.",
+  "processIntro": "Un proceso sencillo, adaptado al clima seco y a las temporadas bien diferenciadas del interior catalán.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas tu caso",
+      "body": "Nos explicas el tipo de piscina y su estado actual en Sant Joan de Vilatorrada."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te presentamos una propuesta clara, con precio final desde el principio."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación",
+      "body": "Empezamos a trabajar en cuanto apruebas el presupuesto."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el mantenimiento o la reparación con atención al calor seco propio de la comarca."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Cierre del trabajo",
+      "body": "Te dejamos un informe y recomendaciones para el cuidado de la piscina."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Sant Joan de Vilatorrada generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El clima seco y continental del Bages, con veranos intensos e inviernos fríos, genera incidencias características en Sant Joan de Vilatorrada.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Evaporación acelerada por calor seco",
+      "body": "La ausencia de humedad costera hace que el agua se evapore con rapidez en los días de más calor. Recomendamos revisar el nivel de agua con frecuencia en pleno verano."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Alto consumo de cloro",
+      "body": "El sol intenso y el ambiente seco degradan el cloro más rápido que en zonas costeras. Ajustamos la dosificación para mantener el equilibrio sin encarecer el mantenimiento."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "Daños por heladas de interior",
+      "body": "Los inviernos del Bages son más fríos que los de la costa catalana. Un invernaje deficiente puede provocar fisuras que solo se detectan en primavera."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
-    },
-    {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Agua turbia tras picos de calor",
+      "body": "En las jornadas más calurosas, el desequilibrio del pH es más rápido. Aplicamos correcciones ágiles para devolver la claridad al agua."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Especialistas en clima de interior",
+      "body": "Conocemos las exigencias del clima seco y continental de la comarca del Bages."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Invernaje adaptado al frío interior",
+      "body": "Aplicamos un protocolo de invernaje riguroso, necesario ante los inviernos más fríos de la zona."
     },
     {
       "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "body": "Ofrecemos propuestas claras, sin cargos adicionales sorpresa."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Servicio para chalets y comunidades",
+      "body": "Nos adaptamos tanto a piscinas privadas como comunitarias del municipio."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Seguimiento continuo",
+      "body": "Un mismo técnico conoce el historial de tu piscina para intervenir con rapidez."
     }
   ],
-  "zoneText": "Damos servicio a Sant Joan de Vilatorrada y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Atendemos chalets, comunidades y negocios en Sant Joan de Vilatorrada y su entorno en la comarca del Bages.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Sant Joan de Vilatorrada?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué se evapora tanto el agua de mi piscina en verano?",
+      "a": "El clima seco y continental del Bages, sin la humedad moderadora de la costa, acelera la evaporación en los días de más calor. Recomendamos revisar el nivel de agua con regularidad."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Los inviernos son más fríos aquí que en Barcelona ciudad?",
+      "a": "Sí, al ser una zona de interior, el Bages tiene inviernos más fríos y con heladas más frecuentes que el área metropolitana costera de Barcelona."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Es más caro mantener una piscina en esta zona por el calor seco?",
+      "a": "El consumo de cloro puede ser algo mayor, pero ajustamos la dosificación y recomendamos sistemas de control automático para optimizar el gasto."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿Trabajáis con piscinas privadas de chalet en Sant Joan de Vilatorrada?",
+      "a": "Sí, es habitual que atendamos tanto piscinas comunitarias del núcleo urbano como privadas en las zonas de vivienda unifamiliar del municipio."
     }
   ],
-  "closingHeadline": "Tu piscina en Sant Joan de Vilatorrada, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Sant Joan de Vilatorrada y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas a punto en el interior del Bages",
+  "closingCta": "Contacta con nosotros para un presupuesto cerrado de mantenimiento en Sant Joan de Vilatorrada."
 }

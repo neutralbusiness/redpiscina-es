@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 19036,
-  "metaTitle": "Mantenimiento y reparación de piscinas en El Goloso | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en El Goloso. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en El Goloso y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en El Goloso, Madrid",
+  "metaDescription": "Mantenimiento y reparación de piscinas comunitarias y privadas en El Goloso, norte de Madrid. Presupuesto cerrado.",
+  "heroSubtitle": "Piscinas cuidadas en El Goloso, zona norte de Madrid, con presupuesto cerrado y atención cercana.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En El Goloso, con el calor seco y extremo del verano madrileño, el mayor reto para una piscina es mantener el agua en condiciones pese a la evaporación y al consumo acelerado de cloro por la fuerte radiación solar. Ajustamos los sistemas de dosificación automática para reducir el mantenimiento manual en los meses de más calor.\n\nLa dureza del agua en buena parte de la Comunidad de Madrid es uno de los factores que más acorta la vida útil de depuradoras y cloradores salinos si no se hace un mantenimiento adecuado. Recomendamos equipos con función de autolimpieza y un control periódico del pH para minimizar este efecto.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en El Goloso, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "El Goloso es una zona residencial del norte de Madrid, en el entorno de Fuencarral y próxima a Tres Cantos, que combina urbanizaciones de vivienda unifamiliar con algunos desarrollos de bloques residenciales más recientes. Al situarse en una cota algo más elevada que el centro de la capital, el clima presenta oscilaciones térmicas algo más marcadas: veranos calurosos y secos, con jornadas de más de 33-35°C, e inviernos con heladas frecuentes y algo más intensas que en zonas más céntricas de Madrid. Esta diferencia de altitud es un factor a tener en cuenta a la hora de planificar el invernaje de cualquier piscina de la zona.\n\nEl perfil residencial de El Goloso, con muchas viviendas unifamiliares de reciente construcción, hace que las piscinas privadas sean muy habituales, junto a alguna comunidad de bloques con piscina compartida. Para estas instalaciones, el reto principal es sostener el equilibrio del agua durante el calor seco del verano madrileño y proteger bien la instalación antes de las heladas del invierno, que en esta zona norte pueden llegar con algo más de intensidad que en el centro de la ciudad.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación e invernaje de piscinas privadas y comunitarias en El Goloso.",
+  "processIntro": "Un proceso claro y con presupuesto cerrado, adaptado a las viviendas y comunidades de la zona norte de Madrid.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto",
+      "body": "Nos explicas el tipo de instalación y el servicio que necesitas."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita y presupuesto",
+      "body": "Evaluamos la piscina y entregamos un presupuesto cerrado y detallado."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Aprobación",
+      "body": "Solo empezamos a trabajar cuando confirmas el presupuesto."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos la intervención acordada, con atención al clima algo más frío propio de la zona norte."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe final",
+      "body": "Entregamos un resumen de lo realizado y quedamos disponibles para el seguimiento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en El Goloso generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La cota más elevada de El Goloso respecto al centro de Madrid genera problemas específicos en sus piscinas.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Heladas más intensas que en el centro de Madrid",
+      "body": "La altitud de la zona norte agrava el frío invernal. Aplicamos un invernaje reforzado para evitar roturas en tuberías y equipos."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Consumo elevado de cloro en verano",
+      "body": "El calor seco propio de la Comunidad de Madrid degrada el cloro con rapidez. Ajustamos la dosificación en los meses de más calor."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Desequilibrio químico por oscilación térmica",
+      "body": "El contraste entre días calurosos y noches frescas, más marcado en esta zona elevada, altera el pH con frecuencia. Realizamos controles periódicos para corregirlo."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Piscinas privadas sin supervisión constante",
+      "body": "En viviendas de reciente construcción con menor ocupación diaria, la piscina puede quedar sin control varios días. Programamos un mantenimiento adaptado a este uso."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocimiento del clima de la zona norte de Madrid",
+      "body": "Adaptamos el invernaje a las heladas algo más intensas propias de esta cota."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuesto cerrado y sin sorpresas",
+      "body": "Sabes desde el inicio qué vas a pagar por el servicio."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Experiencia con vivienda unifamiliar reciente",
+      "body": "Conocemos bien las piscinas propias de las nuevas urbanizaciones de la zona."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Técnico de referencia estable",
+      "body": "La misma persona sigue el historial de tu piscina."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Buena logística en el norte de Madrid",
+      "body": "Cubrimos con eficiencia El Goloso y su entorno próximo a Tres Cantos."
     }
   ],
-  "zoneText": "Damos servicio a El Goloso y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en El Goloso y su entorno, en la zona norte de Madrid próxima a Tres Cantos y Fuencarral.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en El Goloso?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Las heladas son más fuertes en El Goloso que en el centro de Madrid?",
+      "a": "Sí, la cota algo más elevada de esta zona norte favorece heladas más intensas, por lo que aplicamos un invernaje reforzado en las piscinas de la zona."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Trabajáis con las nuevas urbanizaciones de vivienda unifamiliar de la zona?",
+      "a": "Sí, es un tipo de instalación muy habitual en El Goloso y contamos con experiencia en su mantenimiento."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Podéis venir para una puesta a punto antes del verano sin contrato continuado?",
+      "a": "Sí, ofrecemos revisiones puntuales de temporada sin necesidad de contratar mantenimiento regular."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Atendéis también comunidades de bloques con piscina compartida?",
+      "a": "Sí, aunque predomina la vivienda unifamiliar, también atendemos comunidades de bloques residenciales en la zona."
     }
   ],
-  "closingHeadline": "Tu piscina en El Goloso, sin sorpresas",
-  "closingCta": "Si tienes una piscina en El Goloso y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en El Goloso, lista para cada temporada",
+  "closingCta": "Solicita presupuesto para tu piscina en El Goloso, Madrid, sin compromiso."
 }

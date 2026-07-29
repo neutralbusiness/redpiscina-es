@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 20204,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Algete | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Algete. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Algete y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Algete — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas privadas y comunitarias en Algete (Madrid). Presupuesto cerrado, factura y garantía. Pide información.",
+  "heroSubtitle": "Cuidamos la piscina de tu vivienda o comunidad en Algete durante todo el año.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Algete, con el calor seco y extremo del verano madrileño, el mayor reto para una piscina es mantener el agua en condiciones pese a la evaporación y al consumo acelerado de cloro por la fuerte radiación solar. Ajustamos los sistemas de dosificación automática para reducir el mantenimiento manual en los meses de más calor.\n\nLa dureza del agua en buena parte de la Comunidad de Madrid es uno de los factores que más acorta la vida útil de depuradoras y cloradores salinos si no se hace un mantenimiento adecuado. Recomendamos equipos con función de autolimpieza y un control periódico del pH para minimizar este efecto.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Algete, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Algete, al noreste de la Comunidad de Madrid, es un municipio de crecimiento residencial marcado por urbanizaciones de vivienda unifamiliar con piscina propia, un modelo muy distinto al de los grandes bloques urbanos de la capital. El clima continental de la zona trae veranos secos y calurosos, con temperaturas que superan con frecuencia los 35°C en julio y agosto, e inviernos fríos con heladas habituales dada la altitud del municipio.\n\nPara los propietarios de estas viviendas, el verano exige un control constante del cloro frente a la fuerte radiación solar, mientras que el invierno obliga a un invernaje cuidadoso: las heladas de la zona pueden fisurar tuberías, skimmers y filtros si la piscina no queda bien protegida antes de los primeros fríos. Nuestro servicio en Algete se adapta a este calendario, con especial atención a las viviendas unifamiliares y sus piscinas de uso estacional intenso.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto para piscinas privadas y comunitarias en Algete.",
+  "processIntro": "Un proceso claro y con presupuesto cerrado desde el primer contacto.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos explicas tu caso",
+      "body": "Nos cuentas si se trata de una piscina privada o comunitaria en Algete y qué necesitas."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Presupuesto sin sorpresas",
+      "body": "Valoramos la instalación si hace falta y te entregamos una propuesta cerrada y detallada."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmas el trabajo",
+      "body": "Empezamos solo con tu aprobación, acordando la fecha que mejor te convenga."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Realizamos el servicio",
+      "body": "Ejecutamos lo acordado con materiales de calidad y siguiendo protocolos de seguridad."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Cerramos con informe",
+      "body": "Te entregamos constancia de lo realizado y quedamos disponibles para el siguiente mantenimiento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Algete generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El contraste entre veranos secos y calurosos e inviernos fríos con heladas provoca en Algete problemas recurrentes.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Consumo elevado de cloro en verano",
+      "body": "El calor intenso de julio y agosto degrada el cloro con rapidez en las piscinas privadas de Algete, exigiendo reposición frecuente."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Daños por heladas invernales",
+      "body": "La altitud del municipio favorece heladas notables en invierno. Un invernaje incompleto puede fisurar tuberías y skimmers."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Evaporación acelerada",
+      "body": "La sequedad del verano madrileño hace bajar el nivel de agua con rapidez, exigiendo ajustes frecuentes del tratamiento."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Cal en línea de flotación",
+      "body": "El agua de la zona puede dejar depósitos calcáreos si no se controla la dureza con regularidad."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Especializados en vivienda unifamiliar",
+      "body": "Conocemos las necesidades concretas de las piscinas privadas de Algete y su entorno residencial."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuesto cerrado desde el inicio",
+      "body": "Sabes exactamente qué vas a pagar antes de empezar el trabajo."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Invernaje reforzado para la zona",
+      "body": "Protegemos tu piscina frente a las heladas propias del noreste de la Comunidad de Madrid."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Trato directo",
+      "body": "Hablas siempre con la misma persona, que conoce el historial de tu piscina."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Buena logística en la zona norte de Madrid",
+      "body": "Nos desplazamos con agilidad por Algete y los municipios cercanos."
     }
   ],
-  "zoneText": "Damos servicio a Algete y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Algete y en municipios cercanos como Cobeña, Fuente el Saz de Jarama y San Sebastián de los Reyes.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Algete?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Trabajáis principalmente con piscinas privadas en Algete?",
+      "a": "Sí, es el tipo de instalación más habitual en la zona. Adaptamos el mantenimiento al tamaño y uso de cada piscina particular."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es necesario proteger la piscina de las heladas en Algete?",
+      "a": "Sí, la altitud del municipio provoca heladas frecuentes en invierno. Recomendamos un invernaje completo para evitar daños en tuberías y equipos."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Cuánto sube el consumo de cloro en verano?",
+      "a": "Con las temperaturas de julio y agosto, el consumo aumenta de forma notable. Ajustamos la dosificación en cada visita para mantener el agua en condiciones."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Atendéis también comunidades de propietarios en Algete?",
+      "a": "Sí, además de piscinas privadas atendemos comunidades de vecinos, con presupuestos pensados para presentar en junta."
     }
   ],
-  "closingHeadline": "Tu piscina en Algete, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Algete y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Algete, cuidada durante todo el año",
+  "closingCta": "Pide presupuesto sin compromiso para el mantenimiento de tu piscina en Algete."
 }

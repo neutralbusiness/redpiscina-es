@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 118821,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Santa Coloma de Gramenet | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Santa Coloma de Gramenet. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Santa Coloma de Gramenet y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Santa Coloma de Gramenet",
+  "metaDescription": "Mantenimiento y reparación de piscinas comunitarias en Santa Coloma de Gramenet. Presupuesto cerrado y garantía. Solicita información hoy.",
+  "heroSubtitle": "Un servicio técnico fiable para la piscina comunitaria de tu finca en Santa Coloma de Gramenet.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Santa Coloma de Gramenet, dentro del área metropolitana de Barcelona, tiene una densidad de vivienda muy alta y relativamente pocas piscinas privadas en comparación con otras zonas de la comarca, concentradas sobre todo en algunas urbanizaciones puntuales y piscinas comunitarias de comunidades de vecinos. En estas últimas, el uso es muy intensivo durante el verano y exige un control estricto de los parámetros del agua para cumplir la normativa sanitaria.\n\nEl clima húmedo del área metropolitana favorece el crecimiento de algas si el tratamiento de agua no está bien ajustado, y la proximidad al mar añade el factor de la corrosión salina en escaleras y elementos metálicos. Adaptamos el mantenimiento a ambos factores en cada visita.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Santa Coloma de Gramenet, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Santa Coloma de Gramenet es uno de los municipios más densamente poblados de España, con un urbanismo de bloques de pisos que deja muy poco espacio para la vivienda unifamiliar. Situada en el Barrionès, junto a Barcelona y en la ladera de Serra de Marina, sus piscinas son casi en su totalidad comunitarias, integradas en fincas con un número elevado de vecinos, algo que marca de forma decisiva el tipo de mantenimiento que se necesita.\n\nEsta alta densidad de uso, combinada con un clima mediterráneo de veranos calurosos, hace que las piscinas comunitarias de Santa Coloma reciban una afluencia muy superior a la media, especialmente los fines de semana de julio y agosto, cuando cientos de familias buscan un respiro al calor en un entorno urbano con pocas alternativas de ocio al aire libre. Mantener el agua en condiciones óptimas bajo esa presión de uso, y cumplir con la normativa sanitaria exigida a las piscinas de uso colectivo, requiere una atención constante y bien planificada durante toda la temporada.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto para piscinas comunitarias en Santa Coloma de Gramenet.",
+  "processIntro": "Un proceso claro, pensado específicamente para comunidades de vecinos con un uso muy intensivo.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas tu caso",
+      "body": "Nos explicas las características de la piscina comunitaria y el número aproximado de vecinos que la utilizan."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Preparamos una propuesta detallada, pensada para presentarse directamente en junta de propietarios."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Aprobación de la comunidad",
+      "body": "Empezamos a trabajar en cuanto la comunidad da su visto bueno."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Intervención técnica",
+      "body": "Realizamos el mantenimiento o reparación acordados, coordinándonos con el administrador de la finca."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe de cierre",
+      "body": "Entregamos un resumen del trabajo realizado, útil para el seguimiento de la junta."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Santa Coloma de Gramenet generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La altísima densidad de uso de las piscinas comunitarias de Santa Coloma de Gramenet genera problemas muy característicos.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Agua turbia por saturación de uso",
+      "body": "En comunidades con muchos vecinos, la afluencia de los fines de semana de verano puede desequilibrar el agua en cuestión de horas. Aplicamos tratamientos de choque para recuperar la claridad con rapidez."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Sobrecarga extrema de la depuradora",
+      "body": "El volumen de bañistas en piscinas de gran densidad exige un sistema de filtración muy exigido. Revisamos bombas y filtros de forma preventiva antes de la temporada alta."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Consumo elevado de cloro",
+      "body": "La alta ocupación acelera el consumo de cloro más que en piscinas de uso moderado. Ajustamos la dosificación para mantener el equilibrio sin encarecer el presupuesto comunitario."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
+      "title": "Riesgo de incumplimiento sanitario",
+      "body": "Las piscinas de uso muy colectivo están sujetas a un control sanitario estricto. Llevamos un registro de parámetros que facilita el cumplimiento normativo y evita sanciones."
     },
     {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Desgaste acelerado de equipos",
+      "body": "El uso intensivo desgasta antes bombas, filtros y elementos del vaso. Recomendamos revisiones más frecuentes que en comunidades de menor densidad."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Especialistas en piscinas de alta densidad",
+      "body": "Sabemos gestionar el mantenimiento de piscinas comunitarias con un volumen de uso muy superior a la media."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos para juntas de propietarios",
+      "body": "Preparamos propuestas claras y fáciles de aprobar en comunidades con muchos vecinos."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Coordinación con administradores de fincas",
+      "body": "Trabajamos de forma fluida con los administradores para simplificar la gestión."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Revisiones más frecuentes en temporada alta",
+      "body": "Ajustamos la periodicidad del mantenimiento al alto uso característico de las piscinas del municipio."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cumplimiento sanitario garantizado",
+      "body": "Llevamos un control riguroso de los parámetros exigidos para piscinas de uso colectivo."
     }
   ],
-  "zoneText": "Damos servicio a Santa Coloma de Gramenet y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades de vecinos en todo el municipio de Santa Coloma de Gramenet.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Santa Coloma de Gramenet?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué las piscinas comunitarias de Santa Coloma reciben tanto uso?",
+      "a": "La altísima densidad de población del municipio, con un urbanismo de bloques de pisos y pocas alternativas de ocio al aire libre, concentra mucha afluencia en las piscinas comunitarias durante el verano."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Cómo evitáis que el agua se enturbie con tanto uso?",
+      "a": "Aplicamos revisiones más frecuentes y tratamientos de choque cuando es necesario, adaptando la frecuencia del mantenimiento al volumen real de bañistas."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con piscinas particulares o solo comunitarias?",
+      "a": "En Santa Coloma de Gramenet nuestro trabajo se centra prácticamente en su totalidad en piscinas comunitarias, dado el perfil urbanístico del municipio."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Podéis ayudarnos a cumplir con la normativa sanitaria?",
+      "a": "Sí, llevamos un registro de los parámetros del agua que facilita el cumplimiento normativo exigido a las piscinas de uso colectivo."
     }
   ],
-  "closingHeadline": "Tu piscina en Santa Coloma de Gramenet, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Santa Coloma de Gramenet y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas comunitarias siempre en condiciones en Santa Coloma",
+  "closingCta": "Contacta con nosotros para un presupuesto cerrado de mantenimiento en Santa Coloma de Gramenet."
 }

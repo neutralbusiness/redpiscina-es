@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 27901,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Sant Vicenç dels Horts | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Sant Vicenç dels Horts. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Sant Vicenç dels Horts y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Sant Vicenç dels Horts",
+  "metaDescription": "Mantenimiento y reparación de piscinas comunitarias y de negocio en Sant Vicenç dels Horts. Presupuesto cerrado y garantía. Infórmate.",
+  "heroSubtitle": "Un servicio técnico fiable para la piscina de tu comunidad o negocio en Sant Vicenç dels Horts.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Sant Vicenç dels Horts, en el Baix Llobregat, damos servicio tanto a chalets particulares como a piscinas comunitarias, muy habituales en las urbanizaciones de la comarca. El uso intensivo de las piscinas comunitarias en temporada alta exige un mantenimiento más frecuente y un control estricto de los parámetros del agua, mientras que en las piscinas privadas el reto suele ser distinto: mantenerlas en buen estado con visitas más espaciadas durante el resto del año.\n\nLa cercanía al Llobregat y la humedad de la zona hacen que el gresite y las juntas de piscinas antiguas se degraden con el tiempo, provocando fugas difíciles de localizar a simple vista. Usamos equipos de detección profesional para dar con el punto exacto sin necesidad de obras innecesarias.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Sant Vicenç dels Horts, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Sant Vicenç dels Horts se extiende a orillas del río Llobregat, en una zona baja del Baix Llobregat con veranos calurosos y una humedad ambiental notable por la cercanía al cauce fluvial. El nombre del municipio, ligado históricamente a las huertas que se regaban con el agua del río, ya anticipa un entorno donde la humedad forma parte del paisaje habitual, algo que también se traslada al mantenimiento de las piscinas.\n\nEl municipio combina comunidades de vecinos, mayoritarias en el núcleo urbano, con algunas zonas de vivienda unifamiliar en la periferia. En las piscinas comunitarias, el uso colectivo intenso durante los fines de semana de verano, sumado a la humedad propia de la ribera del Llobregat, favorece la proliferación de algas si no se mantiene un control constante del cloro, algo que priorizamos especialmente en los meses de mayor afluencia.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto para piscinas comunitarias y de negocio en Sant Vicenç dels Horts.",
+  "processIntro": "Un proceso claro, pensado para comunidades de vecinos y negocios del municipio.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos explicas tu caso",
+      "body": "Nos cuentas el tipo de instalación y su uso habitual en Sant Vicenç dels Horts."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Preparamos una propuesta detallada, fácil de presentar en junta de propietarios."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Aprobación",
+      "body": "Comenzamos el trabajo solo cuando confirmas la propuesta."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos la intervención acordada, minimizando molestias a vecinos o clientes."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe final",
+      "body": "Entregamos un resumen del trabajo y quedamos disponibles para el siguiente mantenimiento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Sant Vicenç dels Horts generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La humedad propia de la ribera del Llobregat y el uso intensivo de las piscinas comunitarias generan incidencias recurrentes en Sant Vicenç dels Horts.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Proliferación de algas por humedad del río",
+      "body": "La cercanía al Llobregat mantiene una humedad ambiental constante que favorece la aparición de algas. Reforzamos el control de cloro durante los meses cálidos."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Agua turbia por alta afluencia",
+      "body": "En las comunidades más grandes, el uso intenso de fin de semana desequilibra el agua con rapidez. Aplicamos tratamientos de choque para recuperar la claridad."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Sobrecarga de depuradoras comunitarias",
+      "body": "El sistema de filtración de piscinas con mucho uso puede saturarse en pleno verano. Revisamos bombas y filtros de forma preventiva."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Daños por heladas en piscinas de chalet",
+      "body": "En las zonas de vivienda unifamiliar de la periferia, los inviernos fríos exigen un invernaje cuidadoso para evitar daños en la instalación."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia en comunidades grandes",
+      "body": "Sabemos gestionar piscinas comunitarias con alto volumen de uso, muy presentes en Sant Vicenç dels Horts."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Adaptación a la humedad de ribera",
+      "body": "Ajustamos el tratamiento a la humedad constante propia de la cercanía al Llobregat."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuestos claros para juntas",
+      "body": "Nuestras propuestas facilitan la aprobación en comunidad de vecinos."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Atención también a viviendas unifamiliares",
+      "body": "Trabajamos también con chalets en las zonas periféricas del municipio."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Seguimiento técnico continuo",
+      "body": "Un mismo profesional conoce el historial de tu piscina en cada intervención."
     }
   ],
-  "zoneText": "Damos servicio a Sant Vicenç dels Horts y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades de vecinos, chalets y negocios en todo el municipio de Sant Vicenç dels Horts.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Sant Vicenç dels Horts?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué hay tanta humedad en Sant Vicenç dels Horts?",
+      "a": "La proximidad del municipio al río Llobregat, histórica zona de huertas regadas con su agua, mantiene una humedad ambiental notable que se nota en el mantenimiento de las piscinas."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Esa humedad favorece la aparición de algas?",
+      "a": "Sí, por lo que reforzamos el control del nivel de cloro durante los meses más cálidos para evitarlo."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con comunidades de vecinos grandes?",
+      "a": "Sí, buena parte de nuestro trabajo en el municipio es con comunidades de tamaño considerable en el núcleo urbano."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Atendéis también piscinas de chalet en la periferia?",
+      "a": "Sí, en las zonas de vivienda unifamiliar de Sant Vicenç dels Horts atendemos también piscinas privadas, con especial atención al invernaje."
     }
   ],
-  "closingHeadline": "Tu piscina en Sant Vicenç dels Horts, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Sant Vicenç dels Horts y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas en orden junto al Llobregat",
+  "closingCta": "Contáctanos para un presupuesto cerrado de mantenimiento en Sant Vicenç dels Horts."
 }

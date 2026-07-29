@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 52484,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Mollet del Vallès | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Mollet del Vallès. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Mollet del Vallès y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Mollet del Vallès — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas en Mollet del Vallès. Presupuesto cerrado y atención cercana en cada servicio.",
+  "heroSubtitle": "Cuidamos tu piscina en Mollet del Vallès, en pleno Vallès Oriental, durante todo el año.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Mollet del Vallès, en pleno Vallès, el verano aprieta de verdad: temperaturas que superan con frecuencia los 32-33°C y una demanda de baño concentrada en pocos meses que pone a prueba la instalación. No es raro que la depuradora, tras años de uso, empiece a fallar justo quiere en pleno julio o agosto, cuando más se necesita. Por eso recomendamos siempre una revisión preventiva en primavera, antes de que arranque la temporada fuerte.\n\nTrabajamos tanto en piscinas particulares de las urbanizaciones periféricas como en piscinas comunitarias de las zonas más densas del municipio, con protocolos distintos según el uso: una comunitaria necesita un control más frecuente de los parámetros del agua por la normativa sanitaria y el mayor número de bañistas.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Mollet del Vallès, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Mollet del Vallès se encuentra en la llanura del Vallès Oriental, una zona de interior donde el clima presenta oscilaciones térmicas más marcadas que en la costa cercana: veranos secos y calurosos, con jornadas de calor sofocante en julio y agosto, e inviernos con heladas ocasionales que sorprenden a quienes no están habituados al clima de interior. Esta diferencia respecto al Maresme, a poca distancia, hace que las piscinas de Mollet necesiten un mantenimiento algo distinto: menos humedad ambiental que en la costa, pero mayor exposición solar directa que degrada el cloro con rapidez en pleno verano.\n\nEl municipio combina un núcleo urbano consolidado, con importante actividad comercial e industrial, con barrios de vivienda unifamiliar donde la piscina privada es habitual, especialmente en las urbanizaciones más alejadas del centro. Para estas viviendas, el reto principal suele ser mantener el equilibrio químico del agua durante los picos de calor sin disparar el consumo de productos, algo que revisamos en cada visita ajustando la dosificación a la climatología real de cada semana.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto de piscinas particulares y comunitarias en Mollet del Vallès.",
+  "processIntro": "Nuestro proceso de trabajo en Mollet está diseñado para que tengas control total sobre lo que se hace y su coste.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas qué necesitas",
+      "body": "Nos explicas el estado de tu piscina en Mollet del Vallès y el tipo de servicio que buscas, y decidimos si hace falta una visita previa."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Diagnóstico en sitio",
+      "body": "Nos desplazamos a tu vivienda o comunidad para inspeccionar el vaso, los equipos y los parámetros del agua."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Propuesta con precio final",
+      "body": "Te entregamos una propuesta con el precio detallado, sin costes que aparezcan después."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Empezamos con tu aprobación",
+      "body": "Solo iniciamos el trabajo cuando apruebas el presupuesto, coordinando la fecha que mejor te convenga."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Servicio y disponibilidad continuada",
+      "body": "Realizamos el servicio acordado y quedamos disponibles para el mantenimiento continuado si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Mollet del Vallès generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El clima de interior del Vallès Oriental, con veranos secos y calurosos, provoca en Mollet del Vallès problemas específicos en las piscinas.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Degradación rápida del cloro por sol directo",
+      "body": "La fuerte insolación de los días de verano en el interior del Vallès reduce la eficacia del cloro más rápido que en zonas costeras con más nubosidad. Ajustamos la dosificación en función de la previsión meteorológica de cada semana."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Evaporación acelerada en olas de calor",
+      "body": "Las jornadas de calor extremo del Vallès Oriental hacen bajar el nivel del agua con rapidez, lo que puede dejar la bomba trabajando en vacío si no se controla. Recomendamos revisar el nivel con frecuencia en los picos de calor."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "Heladas puntuales en invierno",
+      "body": "Aunque menos severas que en zonas de sierra, las heladas de interior en Mollet pueden dañar tuberías mal protegidas. Aplicamos un invernaje adaptado a estas temperaturas, sin sobreproteger de más ni dejar puntos débiles."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
-    },
-    {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Consumo elevado de productos químicos",
+      "body": "La combinación de calor y radiación solar directa dispara el gasto en cloro si no se optimiza el tratamiento. Proponemos ajustes de dosificación y, cuando conviene, sistemas de control automático para reducir el gasto anual."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Adaptados al clima de interior del Vallès",
+      "body": "Sabemos que Mollet no tiene la misma humedad que la costa, y ajustamos el tratamiento del agua a esa diferencia."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Precio fijo desde la primera visita",
+      "body": "El precio pactado tras la visita técnica es el que facturamos al terminar el trabajo, sin cambios."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Atendemos particulares y comunidades",
+      "body": "Trabajamos igual con una vivienda unifamiliar que con una comunidad de propietarios en Mollet del Vallès."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Ayuda para reducir el gasto en productos",
+      "body": "Te ayudamos a reducir el consumo de cloro sin comprometer la calidad del agua, algo especialmente relevante en veranos calurosos."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "No desaparecemos tras la primera visita",
+      "body": "Seguimos disponibles para el mantenimiento de temporada una vez terminado el primer servicio."
     }
   ],
-  "zoneText": "Damos servicio a Mollet del Vallès y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Mollet del Vallès y en los municipios cercanos del Vallès Oriental, ajustando cada visita a las necesidades concretas de vivienda unifamiliar o comunidad.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Mollet del Vallès?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué el cloro se gasta tan rápido en mi piscina de Mollet en verano?",
+      "a": "La fuerte insolación directa del interior del Vallès Oriental, con menos nubosidad que en la costa, degrada el cloro con más rapidez. Vamos revisando la dosis semana a semana según la previsión de calor."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Hace falta invernar la piscina en Mollet del Vallès?",
+      "a": "Sí, aunque las heladas de interior en esta zona son menos severas que en zonas de sierra, siguen pudiendo dañar tuberías si no se protegen adecuadamente antes del invierno."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con comunidades de propietarios en Mollet?",
+      "a": "Sí, atendemos tanto viviendas unifamiliares como comunidades de vecinos en Mollet del Vallès, ajustando presupuesto y calendario a cada tipo de instalación."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿Podéis ayudarme a reducir el gasto en cloro de mi piscina?",
+      "a": "Sí, revisamos la dosificación y, si conviene, recomendamos sistemas de control automático que ajustan el tratamiento según las condiciones reales, reduciendo el consumo anual de productos."
     }
   ],
-  "closingHeadline": "Tu piscina en Mollet del Vallès, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Mollet del Vallès y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscina lista para el verano en Mollet del Vallès",
+  "closingCta": "Cuéntanos el estado de tu piscina en Mollet del Vallès y te preparamos un presupuesto cerrado."
 }

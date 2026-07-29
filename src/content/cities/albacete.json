@@ -4,9 +4,9 @@
   "province": "Albacete",
   "ccaa": "Castilla-La Mancha",
   "population": 173050,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Albacete | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Albacete. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Albacete y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Albacete — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en Albacete. Presupuesto cerrado, factura y garantía. Solicita información.",
+  "heroSubtitle": "Protege tu piscina comunitaria o de negocio en Albacete frente al clima continental más extremo de La Mancha.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Albacete, con inviernos largos y fríos típicos de la meseta, el invernaje correcto de la piscina es tan importante como el mantenimiento de verano: una instalación mal protegida frente a las heladas puede sufrir daños serios en tuberías y depuradora. Ofrecemos un servicio de puesta a punto tanto al cerrar la temporada como al abrirla en primavera.\n\nEl verano, aunque más corto que en el litoral, es intenso, con picos de calor que exigen un tratamiento de agua bien ajustado para evitar que se enturbie. Revisamos el estado del filtro de arena, que con la dureza del agua local tiende a calcificarse con los años y perder capacidad de filtración.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Albacete, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Albacete se asienta en plena Meseta manchega, a más de 700 metros de altitud, lo que le otorga uno de los climas continentales más marcados de España: veranos secos y muy calurosos, con máximas que superan con frecuencia los 35°C en julio y agosto, e inviernos fríos con heladas habituales. Para quien gestiona una piscina comunitaria o de un negocio en la ciudad, este contraste extremo entre estaciones es el factor que más condiciona el mantenimiento durante todo el año.\n\nEn verano, la sequedad ambiental combinada con el calor intenso acelera tanto la evaporación como la degradación del cloro por radiación solar. Las piscinas de comunidades en barrios como Fátima o Carretera de Jaén sufren un desgaste de producto químico notable en pleno agosto, cuando la demanda de baño es máxima. Un control descuidado del pH en estas condiciones puede enturbiar el agua en poco tiempo.\n\nEl agua de la zona, procedente de captaciones con dureza considerable, favorece además la formación de depósitos calcáreos en línea de flotación y equipos si no se trata con regularidad. Y cuando llega el invierno, las heladas frecuentes de la Meseta obligan a un invernaje riguroso: una tubería o un skimmer mal protegidos pueden fisurarse con el hielo, generando reparaciones costosas que solo se descubren en primavera. Nuestro servicio en Albacete combina estos dos frentes: un tratamiento intensivo en la temporada de calor y una puesta en invernaje sólida antes de las primeras heladas.",
+  "servicesIntro": "Ofrecemos mantenimiento integral, reparación y puesta a punto de piscinas para comunidades y negocios en Albacete.",
+  "processIntro": "Un proceso claro, con presupuesto cerrado antes de iniciar cualquier trabajo.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto inicial",
+      "body": "Nos cuentas las características de tu instalación en Albacete y el problema o servicio que necesitas."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Evaluación y presupuesto cerrado",
+      "body": "Si es necesario, revisamos la piscina in situ y te enviamos una propuesta detallada sin costes ocultos."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Tu aprobación",
+      "body": "Empezamos a trabajar únicamente cuando confirmas el presupuesto, coordinando la fecha con tu comunidad o negocio."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el trabajo acordado con materiales adecuados al clima continental de la zona y protocolos de seguridad."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe final",
+      "body": "Entregamos un parte de lo realizado y de los parámetros del agua, quedando disponibles para el mantenimiento continuado."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Albacete generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El clima continental extremo de Albacete, con veranos muy calurosos e inviernos fríos, genera problemas específicos que hay que anticipar.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Consumo elevado de cloro en verano",
+      "body": "El calor seco e intenso de julio y agosto degrada el cloro con rapidez. Ajustamos la dosificación y recomendamos sistemas de control automático para estabilizar el consumo."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Cal por dureza del agua",
+      "body": "El agua de la zona tiende a dejar depósitos calcáreos en la línea de flotación y en los equipos de filtración si no se controla la dureza de forma periódica."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Daños por heladas invernales",
+      "body": "Los inviernos fríos de la Meseta manchega pueden fisurar tuberías y skimmers mal protegidos. Aplicamos un protocolo de invernaje riguroso adaptado a este clima."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
+      "title": "Evaporación acelerada por sequedad ambiental",
+      "body": "La baja humedad relativa de Albacete en verano acelera la pérdida de agua, lo que exige reponer nivel y reajustar el tratamiento con más frecuencia que en climas húmedos."
     },
     {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Picos de uso en temporada alta",
+      "body": "Las comunidades de Albacete concentran el uso de la piscina en pocas semanas de verano, lo que satura filtros y bombas si no reciben mantenimiento preventivo."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocimiento del clima manchego",
+      "body": "Adaptamos el tratamiento del agua a los extremos térmicos propios de la Meseta, algo que un mantenimiento estándar no siempre contempla."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos cerrados para juntas de propietarios",
+      "body": "Facilitamos propuestas claras que se pueden aprobar sin sorpresas en la reunión de la comunidad."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Invernaje reforzado",
+      "body": "Protegemos tuberías y equipos frente a las heladas habituales del invierno albaceteño."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Técnico de referencia",
+      "body": "La misma persona conoce el historial de tu piscina en cada visita, agilizando cualquier incidencia."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura en toda la ciudad",
+      "body": "Nos desplazamos con regularidad por Albacete y su área metropolitana, adaptándonos a los horarios de cada instalación."
     }
   ],
-  "zoneText": "Damos servicio a Albacete y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades y negocios en toda la ciudad de Albacete y municipios cercanos como La Roda y Chinchilla de Montearagón.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Albacete?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué se gasta tanto cloro en verano en Albacete?",
+      "a": "El calor seco e intenso propio del clima continental de la Meseta acelera la degradación del cloro por radiación solar. Ajustamos la dosificación en cada visita para compensarlo."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es realmente necesario un invernaje tan cuidadoso aquí?",
+      "a": "Sí, los inviernos de Albacete traen heladas frecuentes que pueden dañar tuberías y skimmers desprotegidos. Nuestro protocolo de invernaje está pensado específicamente para este clima."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿El agua de Albacete requiere tratamientos anticalcáreos?",
+      "a": "En muchos casos sí, dada la dureza habitual del agua de la zona. Recomendamos un control periódico para evitar depósitos de cal en línea de flotación y equipos."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Ofrecéis presupuestos para comunidades de propietarios?",
+      "a": "Sí, elaboramos propuestas detalladas y cerradas, pensadas para su presentación y aprobación en junta de vecinos."
     }
   ],
-  "closingHeadline": "Tu piscina en Albacete, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Albacete y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas preparadas para el clima extremo de Albacete",
+  "closingCta": "Solicita tu presupuesto cerrado para el mantenimiento de la piscina de tu comunidad o negocio en Albacete."
 }

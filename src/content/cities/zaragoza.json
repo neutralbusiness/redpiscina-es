@@ -4,9 +4,9 @@
   "province": "Zaragoza",
   "ccaa": "Aragón",
   "population": 686986,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Zaragoza | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Zaragoza. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Zaragoza y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Zaragoza — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en Zaragoza. Presupuesto cerrado, factura y garantía. Solicita tu presupuesto.",
+  "heroSubtitle": "Piscinas en Zaragoza preparadas para el calor extremo y el cierzo del valle del Ebro.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Zaragoza, en el valle del Ebro, tiene un clima continental marcado por veranos muy calurosos y secos —con el característico viento del cierzo en algunas zonas— e inviernos fríos que exigen un buen invernaje de la instalación. La amplitud térmica entre el día y la noche es mayor que en la costa, lo que también afecta al comportamiento del agua y a la necesidad de ajustar el tratamiento según la época del año.\n\nEl agua de la zona suele tener una dureza considerable, lo que con el tiempo deja cal en tuberías, juntas de gresite y células de cloradores salinos. En las piscinas más antiguas, recomendamos revisar a fondo el sistema de filtración antes del verano para evitar quedarse sin depuradora en pleno julio o agosto.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Zaragoza, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Zaragoza tiene uno de los climas más exigentes de España para cualquier piscina: veranos muy calurosos y secos, con temperaturas que se mantienen altas durante semanas, y un viento característico, el cierzo, que sopla con fuerza y frecuencia a lo largo de todo el año. Esta combinación de calor extremo y viento constante acelera la evaporación del agua muy por encima de lo habitual en otras ciudades, además de arrastrar polvo y partículas que afectan a la transparencia del agua si el filtrado no se ajusta correctamente.\n\nEn una comunidad de propietarios o un negocio con piscina en Zaragoza, el cierzo no es un factor menor: además de la pérdida de agua por evaporación, el viento fuerte puede desestabilizar cubiertas mal ancladas y arrastrar hojas, tierra y otros restos hacia el vaso con una frecuencia mayor que en zonas resguardadas. A esto se suma un verano largo y muy caluroso, típico del valle del Ebro, que mantiene la demanda de baño alta durante meses y exige un control químico constante para sostener la calidad del agua.\n\nPara instalaciones de uso colectivo, ya sean comunidades, hoteles o polideportivos, esta doble exigencia climática se traduce en una necesidad real de anticipación: revisar el nivel de agua con más frecuencia de la habitual, reforzar la filtración en los días de viento intenso y ajustar la dosificación química a un calor que no da tregua durante buena parte del verano. Nuestro trabajo en Zaragoza está pensado precisamente para responder a esta combinación de cierzo y calor extremo que distingue a la ciudad de cualquier otra en la que trabajamos.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto de piscinas para comunidades, negocios y viviendas particulares en Zaragoza.",
+  "processIntro": "Trabajamos con un proceso transparente, pensado para el clima extremo del valle del Ebro.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Primer contacto",
+      "body": "Nos explicas el tipo de instalación, su tamaño y la situación actual del agua y los equipos, en Zaragoza capital o en su área metropolitana."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Evaluamos lo necesario y te entregamos una propuesta detallada, sin cargos añadidos posteriores."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Tu confirmación",
+      "body": "Solo empezamos a trabajar cuando apruebas el presupuesto, algo especialmente relevante para juntas de propietarios."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el mantenimiento o la reparación acordada, con atención especial al efecto del cierzo sobre cubiertas y filtrado."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe y seguimiento",
+      "body": "Entregamos un resumen de la intervención y recomendaciones para sostener la calidad del agua en los días de más viento y calor."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Zaragoza generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El calor extremo y el cierzo característico de Zaragoza generan averías muy propias de la ciudad.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Evaporación intensa por calor y viento",
+      "body": "La combinación de altas temperaturas y cierzo frecuente provoca una pérdida de agua muy superior a la habitual. Reponemos el nivel y reequilibramos el tratamiento con revisiones frecuentes."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Suciedad arrastrada por el viento",
+      "body": "El cierzo arrastra polvo, hojas y otros restos hacia el vaso con más frecuencia que en zonas resguardadas. Reforzamos la limpieza de skimmers y fondo, especialmente tras días de viento fuerte."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "Consumo acelerado de cloro en verano",
+      "body": "Las temperaturas altas y sostenidas del valle del Ebro degradan el desinfectante con rapidez. Ajustamos la dosificación para mantener el agua en condiciones durante todo el verano."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
+      "title": "Daños en cubiertas por cierzo fuerte",
+      "body": "Una cubierta mal anclada puede desprenderse o dañarse con las rachas de cierzo. Revisamos el anclaje y recomendamos soluciones adecuadas para el viento característico de Zaragoza."
     },
     {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Incumplimientos sanitarios en piscinas comunitarias",
+      "body": "El uso intensivo en las semanas de más calor puede derivar en problemas si el control químico no es constante. Diseñamos planes de mantenimiento ajustados a la normativa vigente."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con el clima del valle del Ebro",
+      "body": "Adaptamos el mantenimiento tanto al calor extremo como al cierzo característico de Zaragoza, dos factores que no se dan juntos en ninguna otra ciudad donde trabajamos."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos aptos para junta de propietarios",
+      "body": "Preparamos propuestas claras y detalladas, fáciles de aprobar en una reunión de comunidad."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Atención al efecto del viento",
+      "body": "Revisamos cubiertas, skimmers y filtrado pensando específicamente en el efecto del cierzo sobre la instalación."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Cumplimiento normativo",
+      "body": "Nuestros procedimientos se ajustan a la normativa sanitaria vigente para piscinas de uso colectivo."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de toda la ciudad",
+      "body": "Damos servicio en los distintos barrios de Zaragoza y su área metropolitana, tanto a comunidades como a negocios y viviendas particulares."
     }
   ],
-  "zoneText": "Damos servicio a Zaragoza y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Cubrimos toda la ciudad de Zaragoza y su área metropolitana, atendiendo comunidades de propietarios, negocios y viviendas particulares con piscina.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Zaragoza?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Cómo afecta el cierzo al mantenimiento de mi piscina en Zaragoza?",
+      "a": "El cierzo aumenta la evaporación del agua y arrastra polvo y restos hacia el vaso con más frecuencia que en zonas resguardadas del viento. Reforzamos la limpieza y el control del nivel de agua en consecuencia."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿El calor extremo de Zaragoza obliga a un mantenimiento distinto al de otras ciudades?",
+      "a": "Sí, las temperaturas altas y sostenidas del verano en el valle del Ebro degradan el cloro con más rapidez de lo habitual, por lo que ajustamos la dosificación específicamente a estas condiciones."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Preparáis presupuestos para presentar en junta de propietarios?",
+      "a": "Sí, es habitual en nuestro trabajo con comunidades de Zaragoza. Entregamos propuestas claras y desglosadas, pensadas para facilitar su aprobación por parte de los vecinos."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿Qué recomendáis para evitar que el cierzo dañe la cubierta de la piscina?",
+      "a": "Revisamos el sistema de anclaje de la cubierta y recomendamos soluciones reforzadas adecuadas para las rachas de viento frecuentes en la ciudad, evitando desprendimientos y daños."
     }
   ],
-  "closingHeadline": "Tu piscina en Zaragoza, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Zaragoza y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "El mantenimiento que tu piscina necesita frente al cierzo y el calor de Zaragoza",
+  "closingCta": "Solicita un presupuesto cerrado para tu piscina en Zaragoza, adaptado al calor extremo y al viento característico de la ciudad."
 }

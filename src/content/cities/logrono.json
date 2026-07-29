@@ -4,9 +4,9 @@
   "province": "La Rioja",
   "ccaa": "La Rioja",
   "population": 151164,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Logroño | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Logroño. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Logroño y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Logroño — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en Logroño. Presupuesto cerrado, factura y garantía.",
+  "heroSubtitle": "Piscinas cuidadas en Logroño, en el valle del Ebro, entre veranos calurosos e inviernos fríos de interior.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Logroño, con los veranos secos y calurosos propios del valle del Ebro, el agua se enturbia con facilidad si el tratamiento no se ajusta a la fuerte radiación solar de la zona. Revisamos y ajustamos los sistemas de dosificación automática para que el mantenimiento en temporada alta sea más sencillo.\n\nLos inviernos fríos de la zona hacen que el invernaje correcto de la piscina sea tan importante como el mantenimiento de verano, para evitar daños por heladas en tuberías y equipos mal protegidos.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Logroño, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Logroño se sitúa en el valle del Ebro, un entorno que combina cierta influencia atlántica moderada con un clima predominantemente continental, dando lugar a veranos calurosos y secos, con temperaturas que en julio y agosto superan con frecuencia los 33-35°C, e inviernos fríos con heladas habituales entre diciembre y febrero. La ciudad, rodeada de la comarca vitivinícola de La Rioja, tiene un parque residencial con comunidades de vecinos en barrios como El Cortijo o Yagüe, además de un número notable de viviendas unifamiliares en las urbanizaciones periféricas.\n\nEl agua de abastecimiento de Logroño, procedente en gran parte del propio Ebro y de la sierra riojana, presenta una dureza apreciable que puede favorecer la formación de cal en boquillas y filtros si no se controla con regularidad la alcalinidad, algo especialmente relevante para comunidades con sistemas de calentamiento auxiliar en piscinas cubiertas. El entorno agrícola de la comarca, con importante actividad vitivinícola durante buena parte del año, también aporta polvo y polen en determinadas épocas que puede afectar a la calidad del filtrado.\n\nEl invierno riojano, aunque menos severo que el de otras zonas de interior de Castilla, trae heladas suficientes como para exigir un invernaje serio en todas las piscinas al aire libre de la ciudad, un aspecto que a menudo se subestima al comparar Logroño con capitales de clima más templado.",
+  "servicesIntro": "Ofrecemos mantenimiento adaptado al clima del valle del Ebro y a la dureza del agua de Logroño.",
+  "processIntro": "Un proceso claro, con presupuesto cerrado antes de comenzar.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto inicial",
+      "body": "Nos cuentas el tipo de instalación, comunidad o vivienda unifamiliar, y su ubicación en Logroño."
+    },
+    {
+      "title": "Revisión técnica",
+      "body": "Comprobamos el vaso, la dureza del agua y los equipos antes de preparar la propuesta."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te presentamos una propuesta clara y detallada, lista para la junta de propietarios o tu decisión directa."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Ejecución acordada",
+      "body": "Realizamos el trabajo en la fecha pactada, coordinando con el uso de la instalación."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
-    },
-    {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe final",
+      "body": "Entregamos un documento con los parámetros del agua y las actuaciones realizadas."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Logroño generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La dureza del agua del Ebro y el contraste climático propio de La Rioja generan averías características en Logroño.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Cal en boquillas y filtros por dureza del agua",
+      "body": "La dureza del agua de la cuenca del Ebro favorece los depósitos calcáreos si no se ajusta con regularidad la alcalinidad."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Daños por heladas en piscinas mal invernadas",
+      "body": "Las heladas del invierno riojano, a menudo subestimadas, pueden dañar tuberías y boquillas si el invernaje no se hace a tiempo."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "Polvo y polen agrícola en el filtro",
+      "body": "La actividad vitivinícola de la comarca aporta partículas en suspensión en determinadas épocas del año, saturando el filtro antes de lo previsto."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
-    },
-    {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Evaporación notable en pleno verano",
+      "body": "Las temperaturas secas de julio y agosto en Logroño aceleran la pérdida de agua, exigiendo un control de nivel más frecuente."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Tratamiento específico para agua dura",
+      "body": "Corregimos la alcalinidad para evitar depósitos de cal en tuberías y equipos de tu piscina."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Conocimiento del clima del valle del Ebro",
+      "body": "Ajustamos el mantenimiento al contraste real entre veranos calurosos e inviernos fríos de Logroño."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Invernaje serio, no subestimado",
+      "body": "Protegemos la instalación frente a heladas que a menudo se infravaloran al comparar Logroño con otras ciudades."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Presupuestos claros para comunidades y negocios",
+      "body": "Propuestas desglosadas, fáciles de aprobar sin letra pequeña."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de Logroño y La Rioja",
+      "body": "Atendemos el centro urbano y las urbanizaciones periféricas de la ciudad."
     }
   ],
-  "zoneText": "Damos servicio a Logroño y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Logroño, incluyendo El Cortijo, Yagüe, el centro histórico y las urbanizaciones periféricas, con desplazamientos habituales por toda la comarca riojana.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Logroño?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué mi piscina en Logroño acumula cal si el cloro está en niveles correctos?",
+      "a": "La dureza del agua de la cuenca del Ebro no depende del cloro, sino de la alcalinidad y el calcio disuelto. Aplicamos un tratamiento específico para reducir esos depósitos."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es necesario invernar la piscina en Logroño como en Castilla?",
+      "a": "Sí, aunque el clima riojano es algo más suave que el de otras zonas de interior, las heladas invernales son suficientes para dañar una piscina sin proteger."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿La actividad vitivinícola de la zona afecta al mantenimiento de la piscina?",
+      "a": "En determinadas épocas, el polvo y polen agrícola de la comarca puede aumentar la carga del filtro, por lo que recomendamos revisiones más frecuentes en esos periodos."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿Trabajáis con viviendas unifamiliares además de comunidades en Logroño?",
+      "a": "Sí, damos servicio tanto a comunidades del centro urbano como a viviendas unifamiliares de las urbanizaciones periféricas."
     }
   ],
-  "closingHeadline": "Tu piscina en Logroño, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Logroño y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas listas para el clima del valle del Ebro",
+  "closingCta": "Solicita presupuesto para tu comunidad, negocio o vivienda en Logroño y te proponemos un plan adaptado al clima y al agua de la zona."
 }

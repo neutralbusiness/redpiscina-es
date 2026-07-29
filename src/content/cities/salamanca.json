@@ -4,9 +4,9 @@
   "province": "Salamanca",
   "ccaa": "Castilla y León",
   "population": 144825,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Salamanca | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Salamanca. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Salamanca y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Salamanca — Red Piscina",
+  "metaDescription": "Servicio profesional de mantenimiento y reparación de piscinas para comunidades y negocios en Salamanca. Presupuesto cerrado y garantía de trabajo.",
+  "heroSubtitle": "Cuidamos tu piscina de comunidad o negocio en Salamanca durante una temporada de baño corta pero exigente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Salamanca, con inviernos largos y fríos típicos de la meseta, el invernaje correcto de la piscina es tan importante como el mantenimiento de verano: una instalación mal protegida frente a las heladas puede sufrir daños serios en tuberías y depuradora. Ofrecemos un servicio de puesta a punto tanto al cerrar la temporada como al abrirla en primavera.\n\nEl verano, aunque más corto que en el litoral, es intenso, con picos de calor que exigen un tratamiento de agua bien ajustado para evitar que se enturbie. Revisamos el estado del filtro de arena, que con la dureza del agua local tiende a calcificarse con los años y perder capacidad de filtración.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Salamanca, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Salamanca se asienta en plena meseta castellana, con un clima continental marcado por inviernos largos y fríos, con heladas frecuentes desde noviembre hasta marzo, y veranos cortos pero intensos, con jornadas de calor seco que pueden superar los 35°C en julio. Esta meseta impone un calendario de piscina muy concentrado: apenas dos o tres meses de uso real, lo que obliga a que la puesta a punto y el invernaje se hagan con precisión, ya que no hay margen para improvisar cuando la temporada es tan corta.\n\nEn una ciudad universitaria como Salamanca, con residencias, colegios mayores, hoteles y comunidades de vecinos, la piscina suele concentrar toda su actividad entre junio y principios de septiembre. Esa intensidad de uso en un periodo tan breve exige que el agua esté en condiciones óptimas desde el primer día, porque cualquier retraso en la apertura o cualquier incidencia durante el verano tiene un impacto proporcionalmente mayor que en zonas con temporadas más largas.\n\nEl otro extremo del año es igual de determinante: los inviernos salmantinos, con heladas que pueden mantenerse varios días seguidos, exigen un invernaje completo y bien ejecutado. Una instalación que no proteja adecuadamente tuberías, skimmers y vaso corre el riesgo de sufrir daños estructurales por la expansión del hielo, que solo se descubren al llegar la siguiente primavera, cuando ya es tarde y caro de resolver.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto para piscinas de comunidades, residencias y negocios en Salamanca.",
+  "processIntro": "Nuestro proceso está pensado para aprovechar al máximo la corta temporada de baño de Salamanca, sin imprevistos.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Primer contacto",
+      "body": "Nos cuentas el estado de tu piscina y el uso que le da tu comunidad, residencia o negocio en Salamanca, para valorar el trabajo necesario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Propuesta cerrada",
+      "body": "Te enviamos un presupuesto detallado y sin sorpresas, ajustado a la temporada de baño y a las necesidades reales de tu instalación."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Tu aprobación",
+      "body": "Solo empezamos a trabajar cuando confirmas la propuesta, coordinando la fecha para que la piscina esté lista a tiempo para el verano."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos la intervención acordada con la meseta y su calendario en mente: la ventana de buen tiempo es corta y no se puede perder."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe final",
+      "body": "Te entregamos un resumen del trabajo hecho y, si procede, planificamos ya el invernaje de cara al siguiente otoño."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Salamanca generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El contraste extremo entre el verano corto y el invierno largo de la meseta salmantina genera problemas muy característicos.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Daños por heladas prolongadas",
+      "body": "Los inviernos de Salamanca, con heladas que se mantienen varios días, pueden fisurar tuberías si el invernaje no se hizo bien. Revisamos cada instalación antes del frío fuerte para evitar sorpresas en primavera."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Apertura de temporada tardía",
+      "body": "Con una ventana de baño tan corta, cualquier retraso en la puesta a punto reduce los días útiles de la piscina. Planificamos la apertura con antelación para que esté lista en cuanto llegue el calor."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Agua turbia por arranque brusco",
+      "body": "Tras meses cerrada, el arranque del sistema de filtración puede sacar sedimentos acumulados. Hacemos un tratamiento de choque inicial para que el agua esté cristalina desde el primer baño."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
+      "title": "Sobrecarga en los picos de calor de julio",
+      "body": "Cuando llegan las jornadas de calor seco propias de la meseta, el uso se concentra y el sistema de filtración trabaja al límite. Revisamos bombas y filtros para que aguanten esos días de máxima demanda."
     },
     {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Deterioro de cubiertas y accesorios por el frío",
+      "body": "El frío intenso del invierno castellano puede dañar cubiertas y elementos plásticos si no se retiran o protegen a tiempo. Incluimos esta revisión dentro de nuestro protocolo de invernaje."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Especialistas en clima de meseta",
+      "body": "Conocemos el calendario tan concentrado de la temporada de baño en Salamanca y planificamos el trabajo para aprovecharlo al máximo."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Invernaje riguroso",
+      "body": "Aplicamos un protocolo de invernaje completo, imprescindible ante los inviernos largos y fríos de la ciudad."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuestos sin sorpresas",
+      "body": "Trabajamos con precios cerrados, fáciles de aprobar tanto en comunidades de vecinos como en residencias o negocios."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Puntualidad en la apertura de temporada",
+      "body": "Sabemos que en Salamanca cada semana de verano cuenta, por lo que priorizamos la puesta a punto antes del inicio del calor."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Trato directo y cercano",
+      "body": "Un mismo profesional conoce el historial de tu piscina y te atiende de forma directa, sin intermediarios."
     }
   ],
-  "zoneText": "Damos servicio a Salamanca y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades, residencias universitarias, hoteles y negocios en toda la ciudad de Salamanca.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Salamanca?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué la temporada de baño en Salamanca es tan corta?",
+      "a": "El clima continental de la meseta trae inviernos largos y fríos y veranos cortos, lo que reduce la ventana de uso real de la piscina a apenas dos o tres meses."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es realmente necesario invernar la piscina en Salamanca?",
+      "a": "Sí, es imprescindible. Las heladas frecuentes en los meses de invierno pueden dañar tuberías y el vaso si la instalación no queda bien protegida."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Podéis tener la piscina lista justo para el inicio del verano?",
+      "a": "Sí, planificamos la puesta a punto con antelación suficiente para que la piscina esté operativa desde los primeros días de calor."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Trabajáis con residencias universitarias además de comunidades?",
+      "a": "Sí, es habitual que trabajemos con residencias, colegios mayores y comunidades de vecinos en Salamanca, adaptando el servicio a cada tipo de instalación."
     }
   ],
-  "closingHeadline": "Tu piscina en Salamanca, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Salamanca y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Aprovecha al máximo el verano salmantino",
+  "closingCta": "Contáctanos para preparar tu piscina en Salamanca a tiempo para la temporada, con un presupuesto cerrado y sin imprevistos."
 }

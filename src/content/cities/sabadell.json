@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 211734,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Sabadell | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Sabadell. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Sabadell y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Sabadell — Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y puesta a punto de piscinas para comunidades y negocios en Sabadell. Presupuesto cerrado, sin sorpresas. Pide información hoy.",
+  "heroSubtitle": "Mantén tu piscina comunitaria o de negocio en Sabadell en perfectas condiciones durante todo el año, con un servicio técnico de confianza.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Sabadell, en pleno Vallès, el verano aprieta de verdad: temperaturas que superan con frecuencia los 32-33°C y una demanda de baño concentrada en pocos meses que pone a prueba la instalación. No es raro que la depuradora, tras años de uso, empiece a fallar justo quiere en pleno julio o agosto, cuando más se necesita. Por eso recomendamos siempre una revisión preventiva en primavera, antes de que arranque la temporada fuerte.\n\nTrabajamos tanto en piscinas particulares de las urbanizaciones periféricas como en piscinas comunitarias de las zonas más densas del municipio, con protocolos distintos según el uso: una comunitaria necesita un control más frecuente de los parámetros del agua por la normativa sanitaria y el mayor número de bañistas.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Sabadell, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Sabadell, en pleno corazón del Vallès Occidental, tiene un clima mediterráneo interior con una amplitud térmica notable: veranos calurosos y secos, con jornadas que superan con frecuencia los 32-34°C entre julio y agosto, e inviernos fríos con heladas ocasionales que exigen un invernaje riguroso. Esta combinación obliga a un mantenimiento que se adapta a dos extremos del año muy diferentes, y no es lo mismo gestionar la piscina de una comunidad de vecinos que la de una escuela deportiva o un hotel de la ciudad.\n\nDurante los meses de calor, el uso intensivo de las piscinas comunitarias en Sabadell —muy numerosas en los polígonos residenciales y urbanizaciones que rodean el centro— pone a prueba los sistemas de filtración y el equilibrio químico del agua. La radiación solar propia del interior catalán, sin la moderación que ofrece la costa, acelera el consumo de cloro y favorece la proliferación de algas si el mantenimiento no es constante. Nuestro trabajo se centra en anticipar estos picos de demanda con revisiones periódicas y ajustes preventivos.\n\nCon la llegada del otoño, la ciudad experimenta un descenso térmico notable, y no son raras las heladas nocturnas en los meses de diciembre y enero. Un invernaje mal ejecutado en una piscina comunitaria de Sabadell puede traducirse en fisuras en las conducciones o en el propio vaso, con reparaciones que desajustan cualquier presupuesto de comunidad. Por eso planteamos el mantenimiento como un ciclo anual completo, no como una serie de intervenciones puntuales.",
+  "servicesIntro": "Cubrimos todas las necesidades técnicas de tu piscina en Sabadell, desde el mantenimiento periódico hasta reparaciones e invernaje.",
+  "processIntro": "Trabajamos con un proceso claro y ordenado, pensado para que juntas de propietarios y gestores de negocio tengan siempre el control.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas tu caso",
+      "body": "Nos explicas el tipo de instalación, su uso y los problemas que hayas detectado. Con esa información valoramos el alcance real del servicio que necesitas en Sabadell."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te entregamos una propuesta detallada, con precio cerrado y sin letra pequeña, para que la junta de propietarios o la dirección del negocio pueda decidir con toda la información."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación",
+      "body": "El trabajo arranca únicamente cuando das el visto bueno. Coordinamos fechas y horarios según la disponibilidad de tu comunidad o establecimiento."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Intervención técnica",
+      "body": "Nuestro equipo se desplaza a tu piscina en Sabadell y ejecuta el servicio acordado, respetando los tiempos pactados y minimizando molestias a vecinos o clientes."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Cierre y seguimiento",
+      "body": "Entregamos un informe claro de lo realizado y quedamos disponibles para resolver cualquier duda posterior o planificar el siguiente mantenimiento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Sabadell generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El contraste entre los veranos secos y los inviernos fríos del Vallès genera una serie de incidencias recurrentes en las piscinas de Sabadell.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Agua turbia por sobrecarga estival",
+      "body": "En las semanas de más calor, el uso intensivo de piscinas comunitarias satura el filtro y desequilibra el pH, dejando el agua turbia. Aplicamos correcciones rápidas y revisamos el sistema de filtración para evitar que se repita."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Grietas por heladas de invierno",
+      "body": "Las heladas de diciembre y enero pueden dañar tuberías y skimmers si el invernaje no se ha hecho correctamente. Revisamos cada instalación antes del frío para evitar roturas costosas en primavera."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "Consumo elevado de cloro",
+      "body": "La fuerte insolación del interior catalán degrada el cloro con rapidez en verano. Ajustamos la dosificación y recomendamos sistemas de control automático para reducir el gasto sin comprometer la calidad del agua."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
+      "title": "Depuradoras forzadas en temporada alta",
+      "body": "En agosto, muchas piscinas comunitarias de Sabadell trabajan al límite de su capacidad. Revisamos bombas y filtros de forma preventiva para evitar averías en los días de mayor afluencia."
     },
     {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Incumplimiento de parámetros sanitarios",
+      "body": "Las piscinas comunitarias están sujetas a control sanitario. Llevamos un registro de parámetros que facilita el cumplimiento normativo y evita sanciones a la comunidad."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Presupuestos claros para comunidades",
+      "body": "Preparamos propuestas fáciles de entender y aprobar en junta de propietarios, sin costes ocultos ni ampliaciones sorpresa."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Conocimiento del Vallès Occidental",
+      "body": "Conocemos las particularidades climáticas y de instalación de la zona, lo que nos permite anticipar problemas antes de que ocurran."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Adaptación a tu actividad",
+      "body": "Planificamos las visitas según tu horario de menor afluencia, ya sea una comunidad, un gimnasio o un hotel de la ciudad."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Un técnico de referencia",
+      "body": "El mismo profesional sigue el historial de tu piscina, lo que agiliza cualquier intervención futura."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura ágil en Sabadell",
+      "body": "Nuestra logística nos permite responder con rapidez a las principales zonas residenciales y polígonos de la ciudad."
     }
   ],
-  "zoneText": "Damos servicio a Sabadell y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades, negocios e instalaciones deportivas en todo el término municipal de Sabadell y su área de influencia en el Vallès Occidental.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Sabadell?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Cómo afecta el calor del verano en Sabadell al mantenimiento de la piscina?",
+      "a": "Las altas temperaturas del interior catalán aceleran la evaporación y el consumo de cloro. Recomendamos revisiones más frecuentes durante julio y agosto para mantener el agua en condiciones óptimas."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es necesario el invernaje en Sabadell aunque no nieve mucho?",
+      "a": "Sí. Aunque las nevadas no son frecuentes, las heladas nocturnas de diciembre y enero pueden dañar tuberías y el propio vaso si no se protege correctamente la instalación."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con comunidades de propietarios además de negocios?",
+      "a": "Sí, una parte importante de nuestro trabajo en Sabadell es precisamente con comunidades de vecinos, adaptando nuestros presupuestos al proceso de aprobación en junta."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿Podéis venir con urgencia si hay un problema justo antes del fin de semana?",
+      "a": "Intentamos dar prioridad a las incidencias urgentes, especialmente en temporada alta, para que tu piscina esté disponible cuanto antes."
     }
   ],
-  "closingHeadline": "Tu piscina en Sabadell, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Sabadell y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Sabadell, siempre bajo control",
+  "closingCta": "Escríbenos y te preparamos un presupuesto cerrado para el mantenimiento de tu piscina en Sabadell, adaptado a tu comunidad o negocio."
 }

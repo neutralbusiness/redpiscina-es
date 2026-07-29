@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 257038,
-  "metaTitle": "Mantenimiento y reparación de piscinas en L'Hospitalet de Llobregat | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en L'Hospitalet de Llobregat. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en L'Hospitalet de Llobregat y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en L'Hospitalet — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas comunitarias en L'Hospitalet de Llobregat. Presupuesto cerrado, factura y garantía. Contacta.",
+  "heroSubtitle": "Piscinas comunitarias impecables en L'Hospitalet de Llobregat, la ciudad más densa de Cataluña.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En L'Hospitalet de Llobregat, muy cerca de Barcelona capital, trabajamos principalmente con piscinas comunitarias, un tipo de instalación que requiere un enfoque distinto al de una piscina particular: visitas más frecuentes, análisis exhaustivo del agua y un mantenimiento preventivo constante de los equipos, que en instalaciones con años de uso intensivo es clave para evitar averías en plena temporada alta.\n\nSi eres presidente o vocal de una comunidad de vecinos con piscina en la zona, sabemos lo importante que es evitar sorpresas: te damos un plan de mantenimiento claro, con visitas programadas y un histórico del estado de la instalación para que la junta tenga toda la información.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en L'Hospitalet de Llobregat, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "L'Hospitalet de Llobregat es el municipio con mayor densidad de población de Cataluña, lo que se traduce en un tipo de piscina muy particular: casi siempre comunitaria, en azoteas o patios interiores de bloques de gran altura, con un número de usuarios por metro cuadrado de lámina de agua muy superior al de una comunidad de vivienda unifamiliar. En barrios como el Centre, Collblanc o Bellvitge, esto significa que la calidad del agua se pone a prueba de una forma mucho más constante durante todo el verano, sin apenas momentos de baja afluencia.\n\nEl clima mediterráneo de L'Hospitalet, muy similar al de Barcelona por su proximidad, aporta veranos calurosos y húmedos, con una humedad relativa que favorece cierta proliferación de algas si el mantenimiento no es constante, y una degradación del cloro más moderada que en zonas de interior, pero sostenida por el uso intensivo propio de una ciudad tan densamente poblada. Las piscinas en azotea, además, están más expuestas al viento y a variaciones de temperatura que las de patio interior, lo que exige un seguimiento diferenciado según la ubicación exacta dentro del edificio.\n\nPara las comunidades de propietarios de L'Hospitalet, gestionadas en muchos casos por administradores de fincas que llevan decenas de edificios en la ciudad, la claridad del presupuesto y la rapidez de respuesta ante una incidencia son tan importantes como la calidad técnica del servicio, dado el elevado número de usuarios que dependen de que la piscina esté siempre en condiciones.",
+  "servicesIntro": "Ofrecemos mantenimiento para comunidades de alta densidad de uso en L'Hospitalet de Llobregat.",
+  "processIntro": "Un proceso ágil, pensado para el ritmo de una ciudad densamente poblada como L'Hospitalet.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto con el administrador o la comunidad",
+      "body": "Recogemos los datos de la instalación, incluyendo su ubicación en azotea o patio interior, un factor relevante para el mantenimiento."
+    },
+    {
+      "title": "Visita técnica si procede",
+      "body": "Revisamos el vaso y los equipos, prestando atención al desgaste propio de un uso muy intensivo."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Preparamos una propuesta clara y detallada, lista para presentar en junta de propietarios."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Ejecución coordinada",
+      "body": "Realizamos el servicio en horarios de baja afluencia para minimizar molestias en un edificio de alta densidad."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
-    },
-    {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe para el administrador",
+      "body": "Entregamos un documento con los parámetros del agua y las actuaciones, útil para la gestión de la finca."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en L'Hospitalet de Llobregat generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El uso muy intensivo propio de la densidad de población de L'Hospitalet genera averías que se repiten con frecuencia.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Cloro insuficiente por alta rotación de bañistas",
+      "body": "El elevado número de usuarios por metro cuadrado de lámina de agua agota el cloro libre con más rapidez que en comunidades menos densas."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Desgaste acelerado de la depuradora",
+      "body": "El uso continuo durante todo el día en piscinas de azotea o patio interior fuerza el sistema de filtración más de lo habitual."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Algas favorecidas por la humedad ambiental",
+      "body": "La humedad propia del clima mediterráneo costero, sumada a la falta de ventilación en algunos patios interiores, facilita la aparición de algas."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Variaciones de temperatura en piscinas de azotea",
+      "body": "Las piscinas en altura están más expuestas al viento y a los cambios de temperatura, lo que puede alterar el equilibrio químico del agua."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con comunidades de alta densidad",
+      "body": "Sabemos gestionar piscinas con un uso muy superior a la media, típico de L'Hospitalet."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Coordinación directa con administradores de fincas",
+      "body": "Facilitamos toda la documentación que necesita el administrador para justificar el gasto ante la comunidad."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Horarios adaptados a edificios densos",
+      "body": "Planificamos las visitas para minimizar molestias en comunidades con mucha afluencia."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Presupuestos claros y cerrados",
+      "body": "Propuestas sin letra pequeña, fáciles de votar en junta de vecinos."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Respuesta rápida en toda la ciudad",
+      "body": "Nuestra logística cubre L'Hospitalet con tiempos de respuesta cortos, dada la compacidad del municipio."
     }
   ],
-  "zoneText": "Damos servicio a L'Hospitalet de Llobregat y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en toda L'Hospitalet de Llobregat, incluyendo el Centre, Collblanc-Torrassa, Bellvitge, Pubilla Cases y Sant Josep, con especial atención a piscinas en azotea y patio interior.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en L'Hospitalet de Llobregat?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿El uso tan intensivo de las piscinas en L'Hospitalet exige más visitas de mantenimiento?",
+      "a": "En muchos casos sí. La alta densidad de usuarios por lámina de agua consume el cloro más rápido, por lo que muchas comunidades optan por un ritmo de visitas más frecuente en verano."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿El mantenimiento es distinto entre una piscina de azotea y una de patio interior?",
+      "a": "Sí, las piscinas de azotea están más expuestas al viento y a los cambios de temperatura, mientras que las de patio interior pueden sufrir más problemas de ventilación y humedad."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Podéis coordinar directamente con nuestro administrador de fincas?",
+      "a": "Sí, trabajamos habitualmente con administradores que gestionan varias comunidades en L'Hospitalet y facilitamos toda la documentación necesaria."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Cómo minimizáis las molestias en un edificio tan concurrido?",
+      "a": "Planificamos las visitas en horarios de menor afluencia, normalmente a primera hora de la mañana, para no interferir con el uso de los vecinos."
     }
   ],
-  "closingHeadline": "Tu piscina en L'Hospitalet de Llobregat, sin sorpresas",
-  "closingCta": "Si tienes una piscina en L'Hospitalet de Llobregat y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas comunitarias a punto en L'Hospitalet",
+  "closingCta": "Contacta con nosotros o con tu administrador de fincas y preparamos un presupuesto cerrado para tu comunidad en L'Hospitalet de Llobregat."
 }

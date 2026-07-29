@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 38918,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Igualada | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Igualada. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Igualada y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Igualada — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas comunitarias y unifamiliares en Igualada. Presupuesto cerrado, factura y garantía.",
+  "heroSubtitle": "Piscinas cuidadas en Igualada, capital de la comarca de l'Anoia.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Igualada, entre el Penedès, el Garraf y l'Anoia, combina zonas de costa con un interior más agrícola y vitivinícola, lo que se traduce en piscinas muy distintas según la zona: desde chalets en urbanizaciones cercanas al mar hasta masías y casas de campo con piscinas más grandes y alejadas de una depuradora fácilmente accesible. Adaptamos la logística del servicio a cada caso, incluidas las visitas a fincas algo más apartadas.\n\nEl clima mediterráneo de la comarca, con veranos calurosos y secos, favorece un desgaste rápido del cloro y exige un tratamiento de agua bien ajustado a la temporada alta. En las piscinas más antiguas de la zona, con gresite y filtros de arena de hace décadas, la rehabilitación integral suele ser más rentable a largo plazo que ir parcheando averías sueltas.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Igualada, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Igualada, capital de la comarca de l'Anoia, tiene un clima de interior más marcado que el de las comarcas litorales cercanas: veranos calurosos pero con noches que refrescan de forma notable, e inviernos claramente fríos, con heladas habituales que sorprenden a quien la compara con ciudades de la costa catalana a poca distancia. Esta amplitud térmica obliga a tratar el invernaje de la piscina con la misma seriedad que en ciudades de interior de mayor tamaño.\n\nEn Igualada conviven comunidades de vecinos en el casco urbano con viviendas unifamiliares en las urbanizaciones del extrarradio, muchas de ellas con piscina propia. En ambos casos, el reto habitual del verano es la oscilación térmica entre el día y la noche, que puede favorecer condensación y cambios en el pH si el tratamiento no se ajusta con regularidad. El invierno, por su parte, exige un invernaje completo: las heladas de la comarca de l'Anoia no son un riesgo teórico, sino una realidad que cada año deja fisuras en piscinas mal protegidas.",
+  "servicesIntro": "Ofrecemos mantenimiento e invernaje adaptado al clima de interior de Igualada y la comarca de l'Anoia.",
+  "processIntro": "Un proceso sencillo, con presupuesto cerrado antes de intervenir.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto inicial",
+      "body": "Nos cuentas el tipo de instalación, comunidad o vivienda unifamiliar, y su ubicación en Igualada."
+    },
+    {
+      "title": "Revisión del estado",
+      "body": "Comprobamos el vaso y los equipos, prestando atención a posibles daños de heladas anteriores."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te enviamos una propuesta clara y detallada, sin sorpresas de última hora."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el trabajo acordado en la fecha pactada, con la mínima molestia para vecinos o familia."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
-    },
-    {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Cierre e informe",
+      "body": "Te entregamos un resumen de la intervención y recomendaciones para el siguiente mantenimiento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Igualada generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El clima de interior de l'Anoia, con inviernos fríos y veranos de fuerte oscilación térmica, deja averías características en Igualada.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Fisuras por heladas en piscinas mal invernadas",
+      "body": "Los inviernos de Igualada son más fríos de lo que muchos propietarios esperan, y un invernaje incompleto suele traducirse en daños visibles en primavera."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Cambios de pH por la oscilación térmica diaria",
+      "body": "La diferencia entre las temperaturas diurnas y nocturnas del verano en la comarca puede desestabilizar el equilibrio químico si no se revisa con regularidad."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Algas en piscinas de uso intermitente",
+      "body": "En las viviendas unifamiliares con uso irregular, la falta de seguimiento constante favorece la aparición de algas en pleno verano."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Consumo irregular de cloro entre semana y fin de semana",
+      "body": "El contraste de uso entre días laborables y fin de semana en las comunidades del casco urbano exige ajustar la dosificación de forma flexible."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocimiento del clima de l'Anoia",
+      "body": "Aplicamos un calendario de mantenimiento e invernaje ajustado a la realidad de interior de la comarca."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Trabajo con comunidades y viviendas unifamiliares",
+      "body": "Adaptamos el servicio tanto a un bloque de vecinos como a una piscina privada."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Invernaje riguroso",
+      "body": "Protegemos la instalación frente a heladas reales, no ante un riesgo teórico de manual genérico."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Presupuestos sin sorpresas",
+      "body": "Propuestas cerradas y desglosadas, fáciles de aprobar."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de Igualada y l'Anoia",
+      "body": "Damos servicio en el casco urbano y en las urbanizaciones cercanas de la comarca."
     }
   ],
-  "zoneText": "Damos servicio a Igualada y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Atendemos Igualada y los municipios cercanos de la comarca de l'Anoia, tanto comunidades del centro como viviendas unifamiliares del extrarradio.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Igualada?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿De verdad hace tanto frío en Igualada como para necesitar invernaje serio?",
+      "a": "Sí. Al ser una ciudad de interior, alejada de la influencia térmica del mar, las heladas invernales en Igualada son habituales y pueden dañar seriamente una piscina sin proteger."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Cuándo es el mejor momento para hacer la puesta a punto de primavera?",
+      "a": "Recomendamos finales de marzo o principios de abril, para tener margen si aparece alguna incidencia derivada del invierno."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis también en las urbanizaciones fuera del centro de Igualada?",
+      "a": "Sí, damos servicio tanto en el casco urbano como en las urbanizaciones y viviendas unifamiliares del extrarradio."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Podéis revisar si mi piscina sufrió daños por el frío del invierno pasado?",
+      "a": "Sí, realizamos revisiones específicas para detectar fisuras o daños derivados de heladas antes de la reapertura de temporada."
     }
   ],
-  "closingHeadline": "Tu piscina en Igualada, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Igualada y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina lista para el clima de l'Anoia",
+  "closingCta": "Escríbenos y preparamos un presupuesto cerrado para tu piscina en Igualada, adaptado a los inviernos fríos de la comarca."
 }

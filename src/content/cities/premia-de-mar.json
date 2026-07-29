@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 27399,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Premià de Mar | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Premià de Mar. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Premià de Mar y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Premià de Mar — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas en Premià de Mar, costa del Maresme. Presupuesto cerrado y trato cercano en cada visita.",
+  "heroSubtitle": "Mantenemos tu piscina en Premià de Mar lista para el baño, frente al Mediterráneo del Maresme.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Premià de Mar, en plena comarca del Maresme, combina el clima suave de la costa catalana con una alta densidad de viviendas unifamiliares con piscina, sobre todo en las zonas más alejadas del núcleo urbano. La proximidad al mar es una ventaja para el clima, pero también un desafío técnico: la brisa marina cargada de sal acelera la corrosión de escaleras, barandillas y carcasas metálicas de las depuradoras peor protegidas. En las viviendas más próximas al litoral prestamos especial atención a estos elementos en cada revisión.\n\nEl verano en el Maresme es largo y húmedo, lo que exige un tratamiento del agua constante para evitar algas y turbidez. Muchas piscinas de la zona, construidas hace décadas, siguen teniendo gresite y depuradoras poco eficientes: renovar el sistema de filtración con una bomba de velocidad variable suele ser la mejora que más se nota, tanto en la factura eléctrica como en la calidad del agua.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Premià de Mar, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Premià de Mar, en plena costa del Maresme, disfruta de un clima mediterráneo suavizado por el mar, con una humedad relativa alta y constante durante todo el año que es la principal característica a tener en cuenta en el mantenimiento de piscinas de la zona. La brisa marina aporta salinidad al ambiente de forma continua, acelerando la corrosión de escaleras, barandillas y otros elementos metálicos con más rapidez de lo que sucede en municipios de interior a pocos kilómetros de distancia.\n\nEl municipio combina un núcleo urbano compacto junto al paseo marítimo con zonas residenciales de vivienda unifamiliar algo más alejadas de la playa, donde la piscina privada es habitual. Para las piscinas más próximas al mar, la arena que arrastra el viento se convierte en un factor añadido que satura filtros y skimmers con más frecuencia que en las viviendas situadas en las calles interiores del municipio.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparaciones y puesta a punto de piscinas particulares en Premià de Mar, adaptados al ambiente costero.",
+  "processIntro": "Nuestro proceso de trabajo en Premià de Mar busca darte claridad total sobre las tareas y el coste antes de empezar.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Cuéntanos qué necesitas",
+      "body": "Nos cuentas el estado de tu piscina en Premià de Mar y qué servicio necesitas, y valoramos si hace falta una visita previa."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Revisión frente al mar",
+      "body": "Inspeccionamos el vaso, la depuradora y las piezas metálicas, midiendo el desgaste típico de la exposición directa a la costa."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Presupuesto claro antes de tocar nada",
+      "body": "Te presentamos un precio cerrado y detallado, sin sorpresas una vez empezado el trabajo."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Empezamos cuando dices que sí",
+      "body": "Nada se mueve hasta que apruebas la propuesta; después coordinamos la fecha que mejor te venga."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Servicio y consejos frente a la salinidad",
+      "body": "Terminado el trabajo, te explicamos cómo proteger mejor tu piscina del desgaste que impone el ambiente marino."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Premià de Mar generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La humedad y la salinidad constantes de la costa del Maresme provocan en Premià de Mar incidencias propias del entorno marino.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Corrosión de piezas metálicas junto al mar",
+      "body": "Vivir tan cerca del Mediterráneo tiene su precio: escaleras, barandillas y anclajes se oxidan antes que en el interior. Recomendamos sustituir por materiales de calidad marina cuando toque renovar algo."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Arena en filtros de piscinas próximas al mar",
+      "body": "Las viviendas más cercanas al paseo marítimo reciben arena arrastrada por el viento con más frecuencia, saturando filtros y skimmers. Ajustamos la periodicidad de limpieza según la cercanía a la costa."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Algas por humedad constante",
+      "body": "La humedad relativa alta y constante del ambiente costero favorece el crecimiento de algas si el tratamiento no es riguroso. Ajustamos la dosificación de cloro con regularidad."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "El cloro se consume más rápido de lo normal",
+      "body": "La mezcla de mucho sol y aire salino acelera la pérdida de cloro en Premià de Mar. Revisamos la dosificación cada pocos días para que el agua no se resienta."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Trato especializado al desgaste marino",
+      "body": "Sabemos cómo la salinidad de la costa del Maresme afecta a los equipos de piscina y ajustamos el mantenimiento en consecuencia."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuesto que no da sorpresas",
+      "body": "Fijamos el precio final en la visita, y es justo el que ves reflejado en la factura al terminar."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Distinto trato según la cercanía al mar",
+      "body": "No es lo mismo una piscina junto al paseo marítimo que una en las calles interiores de Premià de Mar, y lo tenemos en cuenta."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Asesoría en materiales duraderos",
+      "body": "Te asesoramos sobre qué elementos aguantan mejor el ambiente salino a la hora de renovar equipos."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Atentos en los meses de más calor",
+      "body": "Priorizamos las averías que dejan la piscina fuera de uso en los meses de más calor."
     }
   ],
-  "zoneText": "Damos servicio a Premià de Mar y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Premià de Mar y en el resto de municipios de la costa del Maresme, adaptando el mantenimiento a la cercanía de cada vivienda respecto al mar.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Premià de Mar?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué se oxidan tan rápido los elementos metálicos de mi piscina en Premià de Mar?",
+      "a": "Vivir tan cerca del mar acelera la corrosión de escaleras y anclajes respecto a lo que sucede en el interior. Recomendamos materiales de calidad marina y una revisión periódica para adelantarnos al óxido."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "Mi piscina está cerca del paseo marítimo, ¿necesita más mantenimiento que una en las calles interiores?",
+      "a": "Sí, las piscinas más próximas al mar suelen acumular más arena en el filtro y sufrir más exposición salina, por lo que ajustamos la frecuencia de limpieza según la ubicación exacta."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Qué materiales recomendáis para escaleras y barandillas en Premià de Mar?",
+      "a": "Recomendamos acero inoxidable de calidad marina u otros materiales resistentes a la salinidad, que aguantan mucho mejor el ambiente costero que los materiales estándar."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Trabajáis en toda la zona residencial de Premià de Mar?",
+      "a": "Sí, atendemos tanto las viviendas próximas al paseo marítimo como las situadas en las calles más interiores del municipio."
     }
   ],
-  "closingHeadline": "Tu piscina en Premià de Mar, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Premià de Mar y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscina protegida del mar en Premià de Mar",
+  "closingCta": "Cuéntanos el estado de tu piscina en Premià de Mar y te preparamos un presupuesto cerrado."
 }

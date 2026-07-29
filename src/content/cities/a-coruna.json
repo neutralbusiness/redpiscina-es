@@ -4,9 +4,9 @@
   "province": "A Coruña",
   "ccaa": "Galicia",
   "population": 250438,
-  "metaTitle": "Mantenimiento y reparación de piscinas en A Coruña | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en A Coruña. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en A Coruña y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en A Coruña — Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y puesta a punto de piscinas para comunidades y negocios en A Coruña. Presupuesto cerrado, factura y garantía. Contacta ya.",
+  "heroSubtitle": "Cuidamos tu piscina comunitaria o de negocio en A Coruña frente a la humedad atlántica y el salitre constante de la costa gallega.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En A Coruña, con el clima húmedo y templado propio de la cornisa atlántica, el reto no es tanto el calor extremo como la humedad constante, que favorece la aparición de algas y moho en zonas del vaso y del entorno de la piscina que no reciben suficiente sol. Recomendamos un tratamiento de choque antes de cada apertura de temporada para partir de cero.\n\nLa temporada de baño natural aquí es más corta que en el resto de España, así que muchos propietarios de la zona nos piden instalar una bomba de calor para alargarla. Con el aislamiento adecuado y un buen dimensionado del equipo, es perfectamente viable disfrutar de la piscina varios meses más al año.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en A Coruña, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "A Coruña vive bajo un clima oceánico húmedo, con temperaturas suaves todo el año pero una humedad relativa que rara vez baja del 70%. Para quien gestiona una piscina comunitaria o de un hotel en la ciudad, esto se traduce en un enemigo distinto al del interior de España: no es tanto el calor extremo como la proliferación constante de algas y hongos, favorecida por la escasa insolación directa en muchos periodos del año y la persistente brisa marina cargada de humedad.\n\nLa proximidad al mar, con el Atlántico rodeando buena parte de la ciudad entre la Torre de Hércules y el Orzán, añade otro factor: el salitre. El aerosol marino se deposita sobre cercados metálicos, escaleras de acero inoxidable y equipos de depuración situados en exterior, acelerando la corrosión si no se limpian con regularidad. En comunidades de zonas como Elviña o el entorno de Riazor, donde el viento del noroeste es habitual, este desgaste es más rápido de lo que muchos administradores de fincas esperan.\n\nA esto se suma un régimen de lluvias abundante, especialmente entre octubre y marzo, que exige vigilar el equilibrio del agua tras cada episodio de lluvia intensa, ya que el agua de escorrentía altera el pH y aporta materia orgánica. Nuestro trabajo en A Coruña se centra en un control químico más frecuente que en climas secos, en la protección anticorrosión de los elementos metálicos y en un invernaje que, aunque no enfrenta heladas severas, sí debe lidiar con humedad constante y viento durante los meses de cierre.",
+  "servicesIntro": "Cubrimos el mantenimiento integral de piscinas de comunidades, hoteles y negocios de A Coruña, con especial atención a la humedad y el ambiente marino.",
+  "processIntro": "Trabajamos con un proceso transparente y un presupuesto cerrado antes de tocar ninguna instalación.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Primer contacto",
+      "body": "Nos cuentas el tipo de instalación —comunidad, hotel, gimnasio— y su ubicación en A Coruña. Con esos datos valoramos el alcance del servicio necesario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Presupuesto sin sorpresas",
+      "body": "Tras revisar la piscina si hace falta, te enviamos una propuesta cerrada y detallada. No hay partidas ocultas ni ajustes de última hora."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación por tu parte",
+      "body": "Solo empezamos cuando das el visto bueno. Coordinamos la fecha según el uso de la instalación y las condiciones de acceso al edificio."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Trabajo en la instalación",
+      "body": "Nuestro técnico ejecuta lo acordado con protocolos de seguridad, cuidando el entorno y coordinándose con conserjería o dirección para no interferir en la actividad diaria."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe y seguimiento",
+      "body": "Cerramos cada visita con un parte de los parámetros medidos y las tareas realizadas, y quedamos disponibles para el mantenimiento continuado."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en A Coruña generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La humedad constante, el salitre atlántico y las lluvias frecuentes generan en A Coruña problemas muy distintos a los de una ciudad de interior.",
   "commonIssues": [
     {
-      "title": "Algas y moho por la humedad constante",
-      "body": "La humedad de la zona favorece el crecimiento de algas y moho en el vaso y en la coronación si no hay un mantenimiento regular, incluso fuera de temporada. Recomendamos un tratamiento de choque antes de cada apertura."
+      "title": "Algas por falta de insolación directa",
+      "body": "Con menos horas de sol intenso que en el interior, el cloro se degrada más despacio pero la humedad ambiental favorece la aparición de algas en zonas de sombra del vaso. Ajustamos la dosificación a este perfil concreto."
     },
     {
-      "title": "Temporada de baño corta sin climatización",
-      "body": "El clima suave pero fresco de la zona acorta la temporada de baño natural. Instalamos bombas de calor dimensionadas para alargarla varios meses sin disparar el consumo eléctrico."
+      "title": "Corrosión de escaleras y cercados por salitre",
+      "body": "El aerosol marino ataca metales y anclajes en piscinas cercanas al litoral coruñés. Recomendamos revisiones periódicas de los elementos de acero inoxidable y tratamientos protectores antes de que aparezcan picaduras."
     },
     {
-      "title": "Corrosión por humedad prolongada",
-      "body": "La humedad constante, más que el calor, es el principal desgaste para los elementos metálicos de la instalación. Usamos materiales pensados para resistir la humedad todo el año."
+      "title": "Desequilibrio del agua tras lluvias intensas",
+      "body": "Las borrascas atlánticas que llegan entre otoño e invierno aportan agua de escorrentía que altera el pH y la turbidez. Reaccionamos con analíticas y correcciones inmediatas tras cada episodio de lluvia fuerte."
     },
     {
-      "title": "Filtros de arena con moho o suciedad",
-      "body": "La combinación de humedad y poco sol directo favorece la aparición de suciedad orgánica en el sistema de filtración. Revisamos y limpiamos a fondo en cada mantenimiento."
+      "title": "Humedad en cuartos de máquinas",
+      "body": "La humedad relativa alta favorece la corrosión de cuadros eléctricos y bombas en salas técnicas mal ventiladas. Revisamos la estanqueidad y ventilación de estos espacios como parte del mantenimiento preventivo."
     },
     {
-      "title": "Fugas enmascaradas por la lluvia",
-      "body": "En una zona lluviosa es más difícil detectar a simple vista una pérdida de agua real. Hacemos pruebas de presión para confirmar si existe una fuga antes de actuar."
+      "title": "Invernaje frente a viento y humedad, no frío extremo",
+      "body": "En A Coruña el invernaje no se enfrenta a heladas severas pero sí a viento constante y humedad que deterioran las cubiertas mal fijadas. Ajustamos el protocolo a este perfil climático concreto."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia en clima atlántico",
+      "body": "Conocemos el comportamiento del agua y de los materiales bajo la humedad y el salitre propios de A Coruña, algo que un mantenimiento genérico no contempla."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos claros para comunidades",
+      "body": "Entregamos propuestas detalladas y fáciles de presentar en junta de propietarios, sin costes que aparezcan después."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Protección específica frente a la corrosión",
+      "body": "Incluimos revisión de elementos metálicos expuestos al ambiente marino dentro de nuestras visitas de mantenimiento."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Técnico de referencia",
+      "body": "La misma persona sigue el historial de tu piscina, lo que agiliza cualquier incidencia y evita explicaciones repetidas."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura en toda el área coruñesa",
+      "body": "Nos desplazamos con regularidad por la ciudad y su entorno metropolitano, adaptando horarios a la actividad de cada instalación."
     }
   ],
-  "zoneText": "Damos servicio a A Coruña y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades, hoteles y negocios en toda la ciudad de A Coruña y su área metropolitana, incluyendo los municipios cercanos de Oleiros, Culleredo y Cambre.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en A Coruña?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿El agua de A Coruña necesita un tratamiento distinto al de otras ciudades?",
+      "a": "Sí. La humedad ambiental alta y la menor insolación directa cambian el ritmo de degradación del cloro respecto a climas más secos. Ajustamos la dosificación a estas condiciones concretas."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Cómo protegéis las escaleras y cercados metálicos del salitre?",
+      "a": "Incluimos revisiones periódicas de los elementos de acero inoxidable y aplicamos tratamientos protectores para frenar la corrosión que provoca el aerosol marino en las piscinas próximas a la costa."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Es necesario cubrir la piscina en invierno si no hay heladas fuertes?",
+      "a": "Sí, aunque el frío no sea extremo, el viento y la humedad constante deterioran el agua y los equipos si el vaso queda expuesto. Nuestro invernaje protege frente a este perfil climático, no solo frente al hielo."
     },
     {
-      "q": "¿Merece la pena instalar una bomba de calor con este clima?",
-      "a": "Sí, es la forma más habitual de alargar una temporada de baño que aquí es más corta que en el resto de España. Con el dimensionado adecuado, se puede disfrutar de la piscina varios meses más al año sin disparar el consumo eléctrico."
+      "q": "¿Trabajáis con administradores de fincas de la ciudad?",
+      "a": "Sí, presentamos presupuestos cerrados y detallados pensados para su presentación en juntas de propietarios, con un interlocutor fijo durante todo el contrato."
     }
   ],
-  "closingHeadline": "Tu piscina en A Coruña, sin sorpresas",
-  "closingCta": "Si tienes una piscina en A Coruña y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Mantenimiento de piscinas adaptado al clima atlántico de A Coruña",
+  "closingCta": "Escríbenos y te preparamos un presupuesto cerrado para tu piscina en A Coruña, pensado para la humedad y el salitre de la costa gallega."
 }

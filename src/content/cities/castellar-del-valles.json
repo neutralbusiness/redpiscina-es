@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 24036,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Castellar del Vallès | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Castellar del Vallès. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Castellar del Vallès y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Castellar del Vallès",
+  "metaDescription": "Mantenimiento, reparación y puesta a punto de piscinas comunitarias y de negocio en Castellar del Vallès. Presupuesto cerrado y garantía escrita.",
+  "heroSubtitle": "Cuidamos la piscina de tu comunidad o negocio en Castellar del Vallès con la misma exigencia con la que tú cuidas tu actividad.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Castellar del Vallès, en el Vallès, tiene un clima algo más continental que el litoral: veranos más calurosos y secos, e inviernos más fríos, lo que se traduce en una temporada de baño intensa pero concentrada entre junio y septiembre. Esa intensidad de uso desgasta antes las depuradoras y exige un tratamiento de agua más constante en los meses de más calor, cuando el cloro se consume mucho más rápido por la radiación solar.\n\nEn las urbanizaciones y viviendas unifamiliares de la zona, muchas piscinas llevan ya varias décadas de uso y empiezan a mostrar los signos típicos del paso del tiempo: gresite que se desprende, filtros de arena con menos rendimiento y depuradoras ruidosas que consumen más de lo que deberían. Adaptamos cada mantenimiento y cada rehabilitación a ese uso intensivo de temporada alta, no a una tabla genérica.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Castellar del Vallès, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Castellar del Vallès se asienta en el interior del Vallès Occidental, resguardado por las estribaciones de Sant Llorenç del Munt, lo que le da un clima mediterráneo de marcado carácter continental: veranos largos y secos con jornadas de más de 30°C, e inviernos con noches frías y heladas ocasionales que no perdonan a una piscina mal preparada. Esta oscilación térmica tan amplia entre julio y enero es el factor que más condiciona el mantenimiento aquí: el agua se calienta y se evapora deprisa en verano, forzando el consumo de cloro, mientras que en diciembre y enero el riesgo de congelación en tuberías y skimmers obliga a un invernaje serio, no improvisado.\n\nEl municipio combina urbanizaciones de vivienda unifamiliar con piscina propia, muy habituales en las zonas próximas al casco urbano y hacia Sant Feliu del Racó, con algunas comunidades de vecinos de bloques residenciales. El agua de suministro en esta zona del Vallès suele presentar una dureza notable, lo que favorece la formación de cal en las paredes del vaso y en los equipos de filtración si no se corrige el pH y la alcalinidad con regularidad. Trabajamos con analíticas periódicas para evitar ese efecto acumulativo que, con el tiempo, encarece cualquier reparación.",
+  "servicesIntro": "Cubrimos todo lo que necesita una piscina de comunidad o negocio en Castellar del Vallès, desde el mantenimiento semanal hasta reparaciones puntuales.",
+  "processIntro": "Trabajamos con un procedimiento claro para que sepas en todo momento qué se va a hacer y cuánto va a costar.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Primer contacto",
+      "body": "Nos cuentas el tipo de instalación —comunidad, negocio o urbanización— y el problema o servicio que necesitas. Reunimos la información básica para preparar la visita."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita y presupuesto",
+      "body": "Un técnico revisa la piscina in situ y te entrega un presupuesto cerrado y desglosado, sin partidas ambiguas ni sorpresas posteriores."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Aprobación",
+      "body": "El trabajo no empieza hasta que das el visto bueno. Así la comunidad o el negocio tiene control total sobre el gasto antes de comprometerlo."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Intervención",
+      "body": "Ejecutamos la actuación acordada, coordinando horarios con la comunidad o el negocio para minimizar molestias a vecinos o clientes."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Cierre e informe",
+      "body": "Entregamos un parte de trabajo con lo realizado y los parámetros del agua, y quedamos disponibles para el seguimiento posterior."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Castellar del Vallès generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La combinación de veranos secos y calurosos con inviernos fríos en Castellar del Vallès genera averías muy concretas en las piscinas de la zona.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Cal en paredes y equipos",
+      "body": "La dureza del agua de la comarca favorece los depósitos calcáreos en gresite y filtros. Ajustamos el equilibrio químico para frenar este proceso antes de que obligue a un vaciado completo."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Roturas por heladas de enero",
+      "body": "Un invernaje mal hecho en las urbanizaciones del entorno de Sant Feliu del Racó puede acabar en tuberías reventadas. Aplicamos un protocolo de invernaje completo que protege cada punto sensible de la instalación."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "Evaporación acelerada en julio y agosto",
+      "body": "Las jornadas secas y calurosas del verano vallesano hacen bajar el nivel del vaso con rapidez, descompensando la dosificación automática. Revisamos y reponemos con la frecuencia que exige la temporada alta."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
-    },
-    {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Filtros saturados por uso intensivo",
+      "body": "En las comunidades con piscina compartida, el pico de uso de julio satura los filtros de arena si no se realizan contralavados a tiempo. Programamos revisiones antes de que la turbidez se haga visible."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Presupuesto cerrado y sin letra pequeña",
+      "body": "Lo que se presupuesta es lo que se factura, algo especialmente valorado por juntas de propietarios que necesitan aprobar gastos con seguridad."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Conocimiento del agua de la comarca",
+      "body": "Ajustamos los tratamientos a la dureza y las características propias del suministro en el Vallès Occidental, no a una receta genérica."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Un técnico de referencia",
+      "body": "La misma persona sigue el historial de tu piscina, lo que evita explicaciones repetidas y acelera cualquier intervención futura."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Horarios que respetan tu actividad",
+      "body": "Coordinamos las visitas para no interferir con el uso de la piscina por parte de vecinos o clientes."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Informes claros para la comunidad",
+      "body": "Cada actuación queda documentada con datos concretos, útiles para presentar en junta o para el archivo del negocio."
     }
   ],
-  "zoneText": "Damos servicio a Castellar del Vallès y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Castellar del Vallès y en las urbanizaciones de su término municipal, con desplazamientos habituales por el eje de la comarca del Vallès Occidental.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Castellar del Vallès?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿El agua de Castellar del Vallès es muy dura para las piscinas?",
+      "a": "Sí, es un agua con una dureza notable, típica de la comarca. Eso favorece la cal en paredes y equipos si no se corrige el pH y la alcalinidad de forma periódica, algo que incluimos en el mantenimiento."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es necesario cubrir la piscina en invierno en Castellar del Vallès?",
+      "a": "Muy recomendable. Las heladas nocturnas de diciembre y enero son habituales en la zona, y una cubierta junto a un invernaje correcto evita roturas por congelación en tuberías y skimmers."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Atendéis urgencias fuera del mantenimiento programado?",
+      "a": "Sí, atendemos averías puntuales como fugas, fallos de bomba o problemas de agua turbia, siempre con presupuesto cerrado previo a la intervención."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿Trabajáis tanto con comunidades de vecinos como con viviendas unifamiliares con piscina?",
+      "a": "Sí, en Castellar del Vallès es habitual la vivienda unifamiliar con piscina propia, y también atendemos comunidades de bloques residenciales."
     }
   ],
-  "closingHeadline": "Tu piscina en Castellar del Vallès, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Castellar del Vallès y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Castellar del Vallès, en orden todo el año",
+  "closingCta": "Pide presupuesto para el mantenimiento o la reparación de tu piscina en Castellar del Vallès sin compromiso."
 }

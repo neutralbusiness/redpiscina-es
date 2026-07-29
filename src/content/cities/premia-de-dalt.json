@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 10429,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Premià de Dalt | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Premià de Dalt. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Premià de Dalt y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Premià de Dalt — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas en Premià de Dalt, Maresme interior. Presupuesto cerrado y atención cercana garantizada.",
+  "heroSubtitle": "Cuidamos tu piscina en Premià de Dalt, en el Maresme interior, ligeramente elevado sobre la costa.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Vivir en Premià de Dalt, en el Maresme, significa disfrutar de una temporada de baño larga gracias al clima mediterráneo suave, pero también lidiar con la humedad salina que llega del mar y que ataca antes de lo esperado a los elementos metálicos de la piscina: escaleras, tornillería y motores de depuradora. En nuestras visitas por la zona es habitual encontrar corrosión avanzada en instalaciones de más de 15 años que no han recibido mantenimiento preventivo en estos puntos.\n\nLa mayoría de piscinas privadas en esta zona son de construcción de hormigón gunitado con gresite, un sistema fiable pero que con el tiempo sufre fisuras en las juntas y pérdida de piezas. Evaluamos cada vaso para decidir si conviene renovar el revestimiento o si es más rentable optar por una lámina de liner, que ofrece una estanqueidad total con una instalación más rápida.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Premià de Dalt, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Premià de Dalt se sitúa ligeramente hacia el interior del Maresme, en las primeras estribaciones de la Serralada Litoral, a diferencia de su vecina costera Premià de Mar. Esta pequeña diferencia de altitud y distancia al mar suaviza algo la salinidad ambiental respecto a las localidades justo en la costa, aunque la humedad del Maresme sigue presente y favorece el crecimiento de algas en las piscinas privadas si el mantenimiento no es constante. El relieve más ondulado del municipio también implica algo más de viento en ciertas zonas, que arrastra hojarasca hacia las piscinas más próximas a las laderas.\n\nEl municipio, de carácter residencial, cuenta con numerosas viviendas unifamiliares con piscina privada, tanto en el núcleo urbano como en las zonas más altas del término. Para estas viviendas, el mantenimiento combina la humedad propia de toda la comarca del Maresme con una exposición algo menor a la salinidad directa que las localidades costeras, lo que se traduce en un desgaste de equipos metálicos algo más lento pero no inexistente.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparaciones y puesta a punto de piscinas particulares en Premià de Dalt.",
+  "processIntro": "Trabajamos con un proceso pensado para que tengas total claridad sobre las tareas y el coste de cada visita.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos trasladas tu caso",
+      "body": "Nos explicas el estado de tu piscina en Premià de Dalt y qué servicio necesitas, y valoramos si conviene una visita previa."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Revisión a domicilio",
+      "body": "Inspeccionamos el vaso, la depuradora y los parámetros del agua, considerando la humedad propia del Maresme interior."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Propuesta con precio final claro",
+      "body": "Te presentamos el precio final desglosado por tareas, sin añadidos posteriores."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Solo empezamos con tu aprobación",
+      "body": "El trabajo arranca en cuanto das tu aprobación, coordinando la fecha que mejor te encaje."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Servicio y pautas para esta zona del Maresme",
+      "body": "Realizamos el servicio acordado y te explicamos cómo mantener el agua estable en esta zona algo elevada del Maresme."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Premià de Dalt generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La humedad de la comarca del Maresme, combinada con el relieve ondulado de Premià de Dalt, genera incidencias propias de esta zona.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Algas por humedad de la comarca",
+      "body": "Aunque algo menos expuesta que las localidades costeras, la humedad general del Maresme sigue favoreciendo el crecimiento de algas si el tratamiento no es constante. Ajustamos la dosificación con regularidad."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Hojarasca en piscinas cercanas a las laderas",
+      "body": "El relieve más ondulado del municipio genera zonas con más viento que arrastran hojas hacia las piscinas próximas a las laderas. Ajustamos la frecuencia de limpieza de filtro según la ubicación."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Desgaste moderado de elementos metálicos",
+      "body": "La menor exposición directa a la salinidad respecto a la costa reduce, aunque no elimina, la corrosión de escaleras y anclajes. Recomendamos revisiones periódicas igualmente."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Tormentas que alteran el equilibrio del agua",
+      "body": "Las tormentas propias de la comarca elevan de golpe la materia orgánica y descompensan el agua. Actuamos cuanto antes tras cada episodio para devolver el equilibrio."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocemos las particularidades del Maresme interior",
+      "body": "Sabemos que Premià de Dalt no tiene la misma exposición salina que las localidades costeras, y ajustamos el servicio en consecuencia."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "El precio no cambia con el trabajo empezado",
+      "body": "El precio que acordamos en la visita técnica no cambia una vez iniciado el trabajo."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Trato cercano vivienda a vivienda",
+      "body": "Nos centramos en dar un trato directo a las viviendas unifamiliares con piscina del municipio."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Revisamos antes de recomendar cambios",
+      "body": "Verificamos qué falla realmente en cada equipo antes de sugerir cambiarlo."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Prioridad cuando más se usa la piscina",
+      "body": "Adelantamos la visita cuando la avería deja la piscina sin uso en los meses de más calor."
     }
   ],
-  "zoneText": "Damos servicio a Premià de Dalt y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Premià de Dalt y en el resto de municipios del Maresme, tanto en la franja costera como en las zonas más interiores de la comarca.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Premià de Dalt?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Mi piscina en Premià de Dalt sufre tanta corrosión como una junto al mar?",
+      "a": "Algo menos, ya que el municipio está ligeramente hacia el interior respecto a la costa, pero la humedad general del Maresme sigue presente, por lo que seguimos recomendando revisiones periódicas de elementos metálicos."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Por qué mi piscina acumula hojas si no tengo árboles muy cerca?",
+      "a": "El relieve ondulado de Premià de Dalt genera zonas con más viento que arrastra hojarasca desde las laderas cercanas, incluso sin árboles justo al lado de la piscina."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis en toda la zona residencial de Premià de Dalt?",
+      "a": "Sí, atendemos las viviendas unifamiliares con piscina de todo el municipio, tanto en el núcleo urbano como en las zonas más altas."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Las tormentas de verano afectan mucho al agua en esta zona?",
+      "a": "Sí, las tormentas de la comarca del Maresme pueden alterar el agua con rapidez. Recomendamos revisarla tras cada episodio de lluvia fuerte del verano."
     }
   ],
-  "closingHeadline": "Tu piscina en Premià de Dalt, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Premià de Dalt y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Agua clara todo el año en Premià de Dalt",
+  "closingCta": "Cuéntanos el estado de tu piscina en Premià de Dalt y te preparamos un presupuesto cerrado."
 }

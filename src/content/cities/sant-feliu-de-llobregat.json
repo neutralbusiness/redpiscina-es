@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 42919,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Sant Feliu de Llobregat | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Sant Feliu de Llobregat. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Sant Feliu de Llobregat y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Sant Feliu de Llobregat",
+  "metaDescription": "Mantenimiento y reparación de piscinas comunitarias y de negocio en Sant Feliu de Llobregat. Presupuesto cerrado, sin sorpresas. Infórmate.",
+  "heroSubtitle": "Cuidamos la piscina de tu comunidad o negocio en Sant Feliu de Llobregat, entre Collserola y el río.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Sant Feliu de Llobregat, en el Baix Llobregat, damos servicio tanto a chalets particulares como a piscinas comunitarias, muy habituales en las urbanizaciones de la comarca. El uso intensivo de las piscinas comunitarias en temporada alta exige un mantenimiento más frecuente y un control estricto de los parámetros del agua, mientras que en las piscinas privadas el reto suele ser distinto: mantenerlas en buen estado con visitas más espaciadas durante el resto del año.\n\nLa cercanía al Llobregat y la humedad de la zona hacen que el gresite y las juntas de piscinas antiguas se degraden con el tiempo, provocando fugas difíciles de localizar a simple vista. Usamos equipos de detección profesional para dar con el punto exacto sin necesidad de obras innecesarias.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Sant Feliu de Llobregat, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Sant Feliu de Llobregat se extiende entre el río Llobregat y las estribaciones del parque natural de Collserola, lo que le otorga un relieve variado, con zonas bajas junto al río y otras más elevadas hacia la sierra. Esta variedad de altitud genera pequeñas diferencias de temperatura dentro del propio municipio: las zonas más próximas al río acumulan más humedad y calor en verano, mientras que las partes altas, cercanas a Collserola, se benefician de un ligero frescor nocturno.\n\nCon una proporción notable de comunidades de vecinos junto a zonas de vivienda unifamiliar en las urbanizaciones de la parte alta, el mantenimiento aquí requiere adaptarse a dos realidades distintas dentro del mismo término municipal. En las piscinas comunitarias de las zonas más bajas y húmedas, el control del cloro es más exigente, mientras que en los chalets de las cotas más altas, el reto suele estar más relacionado con la limpieza de hojas y restos del entorno de Collserola.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación e invernaje para piscinas comunitarias y de chalet en Sant Feliu de Llobregat.",
+  "processIntro": "Un proceso claro, adaptado tanto a las zonas bajas junto al río como a las urbanizaciones de Collserola.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos explicas tu caso",
+      "body": "Nos cuentas la ubicación y el tipo de piscina, ya sea en las zonas bajas o en las urbanizaciones altas de Sant Feliu de Llobregat."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Preparamos una propuesta clara y detallada, adaptada a las características de tu instalación."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación",
+      "body": "Iniciamos el trabajo cuando das tu aprobación, coordinando la fecha más conveniente."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Intervención técnica",
+      "body": "Ejecutamos el servicio acordado, con especial cuidado en instalaciones cercanas a zona arbolada."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Cierre del servicio",
+      "body": "Te entregamos un informe claro y quedamos disponibles para el siguiente mantenimiento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Sant Feliu de Llobregat generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La combinación de zonas húmedas junto al río y zonas altas cerca de Collserola genera problemas distintos dentro del mismo municipio.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Agua turbia en zonas bajas por humedad del río",
+      "body": "Las piscinas más próximas al Llobregat acumulan más humedad ambiental, lo que puede desestabilizar el pH con mayor facilidad. Reforzamos el control en esas zonas."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Acumulación de hojas cerca de Collserola",
+      "body": "Las urbanizaciones más elevadas, próximas al parque natural, reciben más restos vegetales. Reforzamos la limpieza de skimmers en esas piscinas."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Consumo desigual de cloro según altitud",
+      "body": "Las diferencias de temperatura entre las zonas bajas y las altas del municipio hacen que el consumo de cloro varíe. Ajustamos la dosificación según la ubicación exacta de cada piscina."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Sobrecarga de depuradoras comunitarias",
+      "body": "En las comunidades de las zonas más pobladas, el sistema de filtración puede saturarse en temporada alta. Realizamos revisiones preventivas antes del verano."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocemos las dos caras de Sant Feliu",
+      "body": "Adaptamos el servicio tanto a las zonas bajas junto al río como a las urbanizaciones próximas a Collserola."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos claros para comunidades",
+      "body": "Preparamos propuestas fáciles de aprobar en junta de propietarios."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Atención a piscinas de chalet",
+      "body": "Trabajamos también con viviendas unifamiliares en las zonas altas del municipio."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Revisión adaptada al entorno",
+      "body": "Ajustamos la frecuencia de limpieza según la cercanía a zona arbolada o a la humedad del río."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Un técnico de referencia",
+      "body": "El mismo profesional conoce el historial de tu piscina en cada intervención."
     }
   ],
-  "zoneText": "Damos servicio a Sant Feliu de Llobregat y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Atendemos comunidades, chalets y negocios en todo el término municipal de Sant Feliu de Llobregat.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Sant Feliu de Llobregat?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Hay diferencias de mantenimiento entre las zonas bajas y las altas del municipio?",
+      "a": "Sí, las piscinas más próximas al río acumulan más humedad, mientras que las de las urbanizaciones cercanas a Collserola reciben más hojas y restos vegetales, por lo que adaptamos el servicio a cada caso."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Trabajáis con comunidades de vecinos y con chalets particulares?",
+      "a": "Sí, en Sant Feliu de Llobregat atendemos ambos tipos de instalación, muy presentes en distintas zonas del municipio."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Es necesario invernar las piscinas en las zonas altas cercanas a Collserola?",
+      "a": "Sí, recomendamos un invernaje completo en todas las piscinas del municipio, con especial atención a las zonas de mayor altitud donde el frío se nota algo más."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Podéis presentar el presupuesto en junta de propietarios?",
+      "a": "Sí, nuestras propuestas están pensadas para facilitar su presentación y aprobación en las juntas de comunidades de vecinos."
     }
   ],
-  "closingHeadline": "Tu piscina en Sant Feliu de Llobregat, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Sant Feliu de Llobregat y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Sant Feliu de Llobregat, cuidada a medida",
+  "closingCta": "Contáctanos para un presupuesto cerrado de mantenimiento en Sant Feliu de Llobregat."
 }

@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 75912,
-  "metaTitle": "Mantenimiento y reparación de piscinas en San Sebastián de los Reyes | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en San Sebastián de los Reyes. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en San Sebastián de los Reyes y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en San Sebastián de los Reyes",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades, urbanizaciones y negocios en San Sebastián de los Reyes. Presupuesto cerrado y garantía.",
+  "heroSubtitle": "Mantén tu piscina de comunidad, urbanización o negocio en San Sebastián de los Reyes lista durante toda la temporada.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "San Sebastián de los Reyes, en el área metropolitana de Madrid, tiene un clima continental marcado: veranos muy calurosos y secos, con temperaturas que superan con frecuencia los 35°C en julio y agosto, e inviernos fríos que exigen un buen invernaje de la instalación. Esa amplitud térmica desgasta los equipos más que en zonas costeras, y el agua de la red, de dureza considerable en buena parte de la Comunidad de Madrid, deja cal con rapidez en tuberías, juntas de gresite y células de cloradores salinos.\n\nEn las urbanizaciones de chalets y adosados tan habituales en la zona, es frecuente encontrar piscinas de los años 80 y 90 que necesitan una puesta al día completa: nuevo revestimiento, depuradora más eficiente y, cada vez más, una bomba de calor para alargar la temporada de baño más allá de septiembre.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en San Sebastián de los Reyes, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "San Sebastián de los Reyes, al norte del área metropolitana de Madrid, comparte el clima continental de la región: veranos calurosos y secos, con temperaturas que superan con frecuencia los 33-35°C en julio y agosto, e inviernos fríos con heladas habituales. El municipio combina grandes desarrollos de comunidades de vecinos con numerosas urbanizaciones de chalets, lo que hace que convivan dos realidades de mantenimiento muy distintas: piscinas comunitarias de uso masivo y piscinas privadas de uso familiar.\n\nEn las comunidades más grandes, el volumen de bañistas durante los fines de semana de verano exige una vigilancia constante de los parámetros del agua, mientras que en las urbanizaciones de chalets el reto suele ser otro: mantener el agua en condiciones óptimas con un uso más irregular, a veces intenso en vacaciones y prácticamente nulo entre semana. En ambos casos, el calor seco propio del norte de Madrid acelera la evaporación y el consumo de productos químicos, por lo que un seguimiento regular resulta clave durante toda la temporada.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación e invernaje para piscinas comunitarias, de urbanización y de negocio en San Sebastián de los Reyes.",
+  "processIntro": "Un proceso pensado tanto para comunidades grandes como para urbanizaciones de chalets de la zona.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos explicas tu situación",
+      "body": "Nos cuentas si se trata de una piscina comunitaria, de urbanización o de negocio, y el uso habitual que recibe en San Sebastián de los Reyes."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Preparamos una propuesta clara y detallada, adaptada al tipo de instalación y a su volumen de uso."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Tu confirmación",
+      "body": "Iniciamos el servicio únicamente cuando das tu aprobación, coordinando la fecha según tu disponibilidad."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Trabajo en la instalación",
+      "body": "Ejecutamos el mantenimiento o la reparación acordados, con la mínima interferencia en el uso de la piscina."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Cierre del servicio",
+      "body": "Te entregamos un informe de lo realizado y quedamos disponibles para el siguiente mantenimiento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en San Sebastián de los Reyes generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La combinación de comunidades grandes y urbanizaciones de chalets, junto al calor seco del norte de Madrid, da lugar a incidencias muy variadas.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Agua turbia en comunidades con mucho uso",
+      "body": "En las piscinas comunitarias de mayor tamaño, los fines de semana de verano concentran una gran afluencia que desequilibra el agua. Aplicamos correcciones rápidas para devolver la claridad."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Desequilibrio por uso irregular en chalets",
+      "body": "En urbanizaciones con piscina privada, el uso intermitente entre semana favorece la proliferación de algas si no se revisa con regularidad. Recomendamos un mantenimiento periódico incluso en semanas de menor uso."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Alto consumo de cloro por calor seco",
+      "body": "Las temperaturas elevadas y secas típicas de la zona degradan el cloro con rapidez. Ajustamos la dosificación para mantener el equilibrio sin disparar los costes."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
+      "title": "Daños por heladas en piscinas de chalet",
+      "body": "Los inviernos fríos del norte de Madrid pueden dañar piscinas privadas mal invernadas. Revisamos cada instalación antes del frío para evitar reparaciones costosas."
     },
     {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Sobrecarga de depuradoras en comunidades grandes",
+      "body": "En las urbanizaciones con más residentes, el sistema de filtración puede saturarse en pleno agosto. Realizamos revisiones preventivas antes de la temporada alta."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con comunidades y chalets",
+      "body": "Sabemos adaptar el servicio tanto a grandes comunidades de vecinos como a piscinas privadas de urbanización."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos cerrados y claros",
+      "body": "Ofrecemos propuestas fáciles de aprobar, ya sea en junta de propietarios o de forma individual."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Conocimiento del norte de Madrid",
+      "body": "Conocemos el clima y las particularidades de las instalaciones de San Sebastián de los Reyes y su entorno."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Planificación flexible",
+      "body": "Adaptamos las visitas al calendario de uso de tu comunidad o urbanización."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Seguimiento continuo",
+      "body": "El mismo técnico conoce el historial de tu piscina, agilizando cualquier intervención futura."
     }
   ],
-  "zoneText": "Damos servicio a San Sebastián de los Reyes y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Atendemos comunidades, urbanizaciones y negocios en todo el municipio de San Sebastián de los Reyes.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en San Sebastián de los Reyes?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Es distinto el mantenimiento de una piscina comunitaria y de una urbanización de chalets?",
+      "a": "Sí, las comunidades grandes suelen requerir un seguimiento más frecuente por el volumen de bañistas, mientras que en las urbanizaciones de chalets el reto es mantener el equilibrio pese a un uso más irregular."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Con qué antelación hay que preparar la piscina antes del verano?",
+      "a": "Recomendamos empezar la puesta a punto varias semanas antes de la temporada alta, para que el agua esté en condiciones óptimas desde el primer día de calor."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿El calor seco de la zona afecta al consumo de productos?",
+      "a": "Sí, las temperaturas elevadas y secas degradan el cloro más rápido, por lo que ajustamos la dosificación para mantener el equilibrio sin encarecer el mantenimiento."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Hacéis invernaje en urbanizaciones de chalets?",
+      "a": "Sí, es un servicio habitual en la zona, dado que los inviernos fríos pueden dañar piscinas privadas que no queden bien protegidas."
     }
   ],
-  "closingHeadline": "Tu piscina en San Sebastián de los Reyes, sin sorpresas",
-  "closingCta": "Si tienes una piscina en San Sebastián de los Reyes y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en San Sebastián de los Reyes, sin sobresaltos",
+  "closingCta": "Escríbenos para un presupuesto cerrado, ya sea para tu comunidad, urbanización o negocio en San Sebastián de los Reyes."
 }

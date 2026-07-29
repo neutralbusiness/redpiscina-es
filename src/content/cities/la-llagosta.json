@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 13820,
-  "metaTitle": "Mantenimiento y reparación de piscinas en La Llagosta | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en La Llagosta. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en La Llagosta y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en la Llagosta — Red Piscina",
+  "metaDescription": "Mantenimiento de piscinas comunitarias en la Llagosta, Vallès Oriental. Presupuesto cerrado, factura y garantía. Infórmate.",
+  "heroSubtitle": "Piscinas comunitarias en buen estado en la Llagosta, junto al río Besòs.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En La Llagosta, en pleno Vallès, el verano aprieta de verdad: temperaturas que superan con frecuencia los 32-33°C y una demanda de baño concentrada en pocos meses que pone a prueba la instalación. No es raro que la depuradora, tras años de uso, empiece a fallar justo quiere en pleno julio o agosto, cuando más se necesita. Por eso recomendamos siempre una revisión preventiva en primavera, antes de que arranque la temporada fuerte.\n\nTrabajamos tanto en piscinas particulares de las urbanizaciones periféricas como en piscinas comunitarias de las zonas más densas del municipio, con protocolos distintos según el uso: una comunitaria necesita un control más frecuente de los parámetros del agua por la normativa sanitaria y el mayor número de bañistas.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en La Llagosta, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "La Llagosta, uno de los municipios más pequeños del Vallès Oriental, se sitúa junto al río Besòs, en un entorno de clima mediterráneo de interior con veranos calurosos y una humedad ligeramente superior a la de municipios más alejados del cauce fluvial. El tejido residencial del municipio se concentra en bloques de piscina comunitaria, con un uso muy intensivo en los meses de verano dado el tamaño compacto de la localidad y el número de vecinos por instalación.\n\nEn un municipio de superficie reducida como la Llagosta, las comunidades no siempre disponen de un espacio amplio alrededor del vaso, lo que concentra a más bañistas por metro cuadrado de lámina de agua durante los fines de semana de julio y agosto. Esto exige un control del cloro más frecuente que en piscinas de menor afluencia relativa, además de una atención constante al filtro para evitar que se sature antes de lo previsto.",
+  "servicesIntro": "Ofrecemos mantenimiento para comunidades de piscina en la Llagosta, adaptado a su uso intensivo de verano.",
+  "processIntro": "Un proceso simple, con presupuesto cerrado antes de intervenir.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto con la comunidad",
+      "body": "Recogemos los datos de la instalación y el número aproximado de usuarios habituales."
+    },
+    {
+      "title": "Revisión técnica",
+      "body": "Comprobamos el estado del vaso, el filtro y la bomba antes de preparar la propuesta."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te enviamos una propuesta clara, lista para presentar en junta de propietarios."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el trabajo acordado, coordinando horarios con la comunidad."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
-    },
-    {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe para la comunidad",
+      "body": "Entregamos un documento con los parámetros del agua y las actuaciones realizadas."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en La Llagosta generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El uso intensivo propio de un municipio compacto como la Llagosta genera averías recurrentes en verano.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Cloro insuficiente en fines de semana de alta afluencia",
+      "body": "La concentración de bañistas por metro cuadrado en las piscinas comunitarias de la Llagosta agota el cloro libre con rapidez en sábado y domingo."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Filtros saturados por uso continuo",
+      "body": "El elevado número de usuarios respecto al tamaño de las instalaciones fuerza el sistema de filtración más de lo habitual."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "Humedad ambiental por la cercanía al Besòs",
+      "body": "La proximidad al río puede aumentar ligeramente la humedad ambiental, favoreciendo la aparición de algas si el mantenimiento no es constante."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
-    },
-    {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Desequilibrios de pH tras el uso masivo del fin de semana",
+      "body": "El contraste entre el uso intenso de fin de semana y el reposo entre semana exige un ajuste regular del equilibrio químico."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con comunidades de uso intensivo",
+      "body": "Sabemos gestionar piscinas con mucha afluencia respecto a su tamaño, habitual en municipios compactos como la Llagosta."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos claros para comunidades pequeñas",
+      "body": "Propuestas desglosadas, adaptadas a comunidades de tamaño reducido."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Coordinación con administradores de fincas",
+      "body": "Facilitamos la documentación necesaria para justificar el gasto ante la comunidad."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Atención al filtro en instalaciones de alta rotación",
+      "body": "Reforzamos la limpieza del sistema de filtración en las semanas de mayor uso."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura del Vallès Oriental",
+      "body": "Damos servicio en la Llagosta y los municipios cercanos de la comarca."
     }
   ],
-  "zoneText": "Damos servicio a La Llagosta y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Atendemos la Llagosta y los municipios cercanos del Vallès Oriental, con especial atención a comunidades de piscina de uso intensivo.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en La Llagosta?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué nuestra piscina comunitaria pierde claridad tan rápido los fines de semana?",
+      "a": "En municipios compactos como la Llagosta, la concentración de bañistas por metro cuadrado de lámina de agua es alta, lo que agota el cloro con más rapidez de lo habitual."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Recomendáis aumentar la frecuencia de visitas en verano?",
+      "a": "En comunidades de uso muy intensivo, como suele ser el caso en la Llagosta, sí solemos recomendar un ritmo de visitas más frecuente durante julio y agosto."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con comunidades pequeñas de pocos vecinos?",
+      "a": "Sí, adaptamos el presupuesto y el plan de mantenimiento al tamaño real de cada comunidad."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿Podéis coordinar la visita con el horario de la piscina comunitaria?",
+      "a": "Sí, planificamos las intervenciones en las franjas de menor afluencia para no interferir con el uso de los vecinos."
     }
   ],
-  "closingHeadline": "Tu piscina en La Llagosta, sin sorpresas",
-  "closingCta": "Si tienes una piscina en La Llagosta y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina comunitaria en la Llagosta, sin incidencias",
+  "closingCta": "Escríbenos y te preparamos un presupuesto cerrado para tu comunidad en la Llagosta."
 }

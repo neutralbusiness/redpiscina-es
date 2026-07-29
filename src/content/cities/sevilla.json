@@ -4,9 +4,9 @@
   "province": "Sevilla",
   "ccaa": "Andalucía",
   "population": 686741,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Sevilla | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Sevilla. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Sevilla y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Sevilla — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades, hoteles y negocios en Sevilla. Presupuesto cerrado ante el calor extremo del verano.",
+  "heroSubtitle": "Mantén tu piscina de comunidad o negocio en Sevilla en perfecto estado durante el verano más caluroso de España.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Sevilla, con veranos muy largos y extremadamente calurosos, la clave del mantenimiento de una piscina es anticiparse: revisar la depuradora en primavera, antes de que el uso intensivo de julio y agosto la ponga a prueba. Es habitual que las averías aparezcan justo en pleno verano, cuando la instalación lleva semanas trabajando a máximo rendimiento.\n\nEl calor extremo también acelera la evaporación, así que conviene distinguir bien una pérdida de agua normal de una fuga real. Hacemos pruebas de presión y, si hace falta, detección con gas trazador para localizar el punto exacto sin necesidad de vaciar la piscina.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Sevilla, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Sevilla tiene uno de los climas más extremos de España durante el verano: temperaturas que superan con frecuencia los 40°C entre junio y septiembre, con jornadas prolongadas por encima de ese umbral en pleno julio y agosto. Este calor continental-mediterráneo tan intenso, propio del valle del Guadalquivir, convierte a la piscina en un elemento absolutamente esencial para comunidades de vecinos, hoteles y negocios de la ciudad, pero también somete al agua y a las instalaciones a un desgaste muy superior al de otras zonas del país.\n\nEl uso de las piscinas en Sevilla durante los meses de calor extremo es prácticamente constante, desde primera hora de la mañana hasta última hora de la tarde, lo que exige un sistema de filtración capaz de aguantar una demanda continua y un control del cloro mucho más frecuente que en climas templados. La evaporación del agua bajo temperaturas tan altas es notable, y la radiación solar intensa degrada el cloro con una rapidez que obliga a revisiones diarias o casi diarias en las piscinas comunitarias de mayor tamaño durante la temporada alta.\n\nA esto se suma un factor propio de Sevilla: los periodos de calima y polvo en suspensión procedentes del norte de África, que en determinadas épocas del año pueden depositar partículas sobre el agua y enturbiarla en cuestión de horas. Para hoteles y negocios de la ciudad, donde la piscina es un reclamo clave frente al calor sevillano, ofrecer un agua siempre cristalina en estas condiciones exige un servicio técnico riguroso y una planificación que anticipe los picos de mayor exigencia del verano andaluz.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y tratamiento de agua para piscinas comunitarias, de hotel y de negocio en Sevilla.",
+  "processIntro": "Un proceso ágil, diseñado para responder a la exigencia del verano sevillano sin dejar la piscina fuera de servicio.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas tu caso",
+      "body": "Nos explicas el tipo de instalación y su uso, muy intenso durante buena parte del año en Sevilla."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Preparamos una propuesta detallada, fácil de aprobar en junta de propietarios o por la dirección del negocio."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación",
+      "body": "Iniciamos el trabajo cuando das tu aprobación, coordinando la fecha para minimizar el tiempo sin piscina."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el mantenimiento o la reparación con la rapidez que exige el calor extremo del verano andaluz."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Seguimiento en temporada alta",
+      "body": "Establecemos revisiones más frecuentes durante los meses de mayor calor para garantizar la calidad del agua en todo momento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Sevilla generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El calor extremo del verano sevillano y los episodios de calima generan problemas muy exigentes en las piscinas de la ciudad.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Consumo muy elevado de cloro por calor extremo",
+      "body": "Las temperaturas por encima de 40°C degradan el cloro con una rapidez muy superior a la de otras zonas de España. Ajustamos la dosificación y recomendamos sistemas de control automático para no disparar el gasto."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Evaporación acelerada del agua",
+      "body": "El calor extremo del verano andaluz provoca una evaporación notable. Recomendamos revisar el nivel de agua con mucha frecuencia durante julio y agosto."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "Agua turbia por episodios de calima",
+      "body": "El polvo en suspensión procedente del norte de África puede enturbiar el agua en pocas horas. Aplicamos tratamientos específicos para recuperar la claridad con rapidez."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
+      "title": "Sobrecarga extrema de la depuradora",
+      "body": "El uso casi constante de las piscinas comunitarias durante el verano sevillano exige un sistema de filtración muy exigido. Revisamos bombas y filtros con frecuencia para evitar averías en pleno pico de calor."
     },
     {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Proliferación rápida de algas si baja el cloro",
+      "body": "El calor extremo acelera cualquier desequilibrio químico, y una bajada puntual del cloro puede derivar en agua verde en muy poco tiempo. Mantenemos un control estricto durante toda la temporada alta."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Especialistas en calor extremo",
+      "body": "Sabemos gestionar el mantenimiento de piscinas sometidas a las temperaturas más altas de España, ajustando la frecuencia de revisión en consecuencia."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Respuesta rápida en temporada alta",
+      "body": "Priorizamos las incidencias urgentes durante julio y agosto, cuando la piscina es más necesaria que nunca."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuestos cerrados para comunidades",
+      "body": "Preparamos propuestas claras y fáciles de aprobar en junta de propietarios."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Atención al sector hotelero sevillano",
+      "body": "Coordinamos las intervenciones para no interferir con la experiencia de huéspedes y clientes en plena temporada turística."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Seguimiento técnico constante",
+      "body": "Un mismo profesional conoce el historial de tu piscina, clave para anticipar problemas en un clima tan exigente."
     }
   ],
-  "zoneText": "Damos servicio a Sevilla y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades de vecinos, hoteles y negocios en toda la ciudad de Sevilla y su área metropolitana.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Sevilla?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué el mantenimiento en Sevilla es más exigente que en otras ciudades?",
+      "a": "Las temperaturas que superan con frecuencia los 40°C entre junio y septiembre aceleran mucho la evaporación y la degradación del cloro, lo que exige revisiones más frecuentes que en climas más templados."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Qué es la calima y cómo afecta a mi piscina en Sevilla?",
+      "a": "La calima trae polvo en suspensión procedente del norte de África y puede enturbiar el agua en pocas horas. Aplicamos tratamientos específicos para recuperar la claridad cuando ocurre."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Con qué frecuencia hay que revisar una piscina comunitaria en pleno verano sevillano?",
+      "a": "En los meses de mayor calor recomendamos revisiones muy frecuentes, casi diarias en piscinas comunitarias grandes, para mantener el agua en condiciones óptimas."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿Trabajáis con hoteles que necesitan la piscina siempre impecable en temporada alta?",
+      "a": "Sí, es una parte importante de nuestro trabajo en Sevilla, con planes de mantenimiento reforzado durante los meses de mayor afluencia turística."
     }
   ],
-  "closingHeadline": "Tu piscina en Sevilla, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Sevilla y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina, lista frente al calor de Sevilla",
+  "closingCta": "Contáctanos para un presupuesto cerrado de mantenimiento en Sevilla, preparado para el verano más exigente de España."
 }

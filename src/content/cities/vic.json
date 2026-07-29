@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 39844,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Vic | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Vic. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Vic y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Vic — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y viviendas en Vic, Osona. Presupuesto cerrado, factura y garantía. Solicita presupuesto.",
+  "heroSubtitle": "Cuidamos tu piscina en Vic frente a la humedad y los contrastes térmicos de la Plana d'Osona.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Vic, con el clima más seco y continental propio del interior catalán, el reto principal en verano es mantener el agua en condiciones pese a la fuerte radiación solar, que degrada el cloro con rapidez. Revisamos y ajustamos los sistemas de dosificación automática para que no haga falta estar pendiente del tratamiento cada dos días.\n\nMuchas piscinas de la zona, sobre todo las de construcción más antigua, tienen filtros de arena que con los años acumulan cal y pierden capacidad de filtración. La solución más duradera suele ser sustituir la arena por vidrio filtrante, que aguanta mucho mejor la dureza del agua local.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Vic, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Vic, capital de la comarca de Osona, tiene un clima interior particular dentro de Cataluña: veranos calurosos pero con noches frescas, e inviernos fríos marcados por nieblas persistentes y una humedad ambiental notable, especialmente en la Plana que rodea la ciudad. Esta combinación de calor seco en verano y humedad fría en invierno exige un mantenimiento que se adapte a dos realidades muy distintas a lo largo del año.\n\nLa ciudad combina comunidades de vecinos con piscina compartida en su zona urbana con numerosas viviendas unifamiliares en las urbanizaciones periféricas, donde el uso familiar y estacional predomina. En ambos casos, el reto principal suele situarse en los extremos de la temporada: una correcta puesta a punto en primavera, cuando aún puede haber niebla y frío residual, y un invernaje riguroso en otoño, antes de que lleguen las heladas propias del interior de Osona.",
+  "servicesIntro": "En Vic ofrecemos mantenimiento, reparación, puesta a punto e invernaje para comunidades y viviendas particulares.",
+  "processIntro": "Trabajamos con un proceso claro y sin sorpresas, adaptado a las dos caras del clima de Osona.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos explicas tu situación",
+      "body": "Nos cuentas el tipo de instalación y el estado actual de la piscina, ya sea una vivienda o una comunidad de Vic."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Valoramos lo necesario y te entregamos una propuesta detallada antes de iniciar cualquier trabajo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación previa",
+      "body": "El servicio comienza únicamente cuando apruebas el presupuesto, sin compromisos previos."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el trabajo acordado, con especial atención a la humedad y los contrastes térmicos propios de la zona."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Cierre y recomendaciones",
+      "body": "Te dejamos indicaciones para el cuidado del agua hasta la siguiente revisión, adaptadas a la temporada."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Vic generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La humedad, las nieblas y los contrastes térmicos propios de la Plana d'Osona provocan averías particulares en las piscinas de Vic.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Retraso en la puesta a punto por frío y niebla",
+      "body": "La humedad y las nieblas primaverales del interior de Osona hacen que el agua tarde más en estar lista. Planificamos la apertura de temporada con margen suficiente."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Fisuras por heladas invernales",
+      "body": "Los inviernos fríos de Vic pueden dañar tuberías y skimmers si el invernaje no se hace correctamente. Aplicamos un protocolo completo cada otoño."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "Proliferación de moho y hongos en zonas húmedas",
+      "body": "La humedad ambiental de la comarca favorece la aparición de moho en el entorno de la piscina, especialmente en superficies poco soleadas. Recomendamos tratamientos específicos para estas zonas."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
-    },
-    {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Variaciones de pH por el contraste térmico diario",
+      "body": "La diferencia entre el calor del día y el fresco de la noche, muy marcada en la Plana, provoca oscilaciones de pH más frecuentes que en zonas de clima estable. Ajustamos los niveles con revisiones periódicas."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocimiento del clima de Osona",
+      "body": "Adaptamos el mantenimiento a la humedad, las nieblas y los contrastes térmicos propios de Vic y su comarca."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuesto cerrado y claro",
+      "body": "Sabes exactamente qué vas a pagar antes de que empecemos cualquier trabajo en tu piscina."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Invernaje riguroso",
+      "body": "Protegemos la instalación frente a las heladas del interior de Osona, evitando reparaciones costosas en primavera."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Atención a comunidades y viviendas particulares",
+      "body": "Trabajamos tanto con comunidades de vecinos como con propietarios individuales en Vic."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Trato cercano y directo",
+      "body": "Cuidamos la comunicación con cada cliente, ya sea un particular o un administrador de fincas."
     }
   ],
-  "zoneText": "Damos servicio a Vic y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en toda la ciudad de Vic y su entorno en la Plana d'Osona, tanto a comunidades de vecinos como a viviendas unifamiliares.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Vic?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿La humedad de Vic afecta al mantenimiento de la piscina?",
+      "a": "Sí, la humedad ambiental y las nieblas frecuentes de la Plana d'Osona pueden favorecer la aparición de moho en el entorno de la piscina y retrasar la puesta a punto en primavera."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Las heladas de Vic son un problema real para una piscina mal invernada?",
+      "a": "Sí, el interior de Osona sufre heladas invernales que pueden dañar tuberías y skimmers si no se protegen adecuadamente. Recomendamos un invernaje completo cada otoño."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con comunidades de vecinos en el centro de Vic?",
+      "a": "Sí, damos servicio tanto a comunidades urbanas con piscina compartida como a viviendas unifamiliares en las urbanizaciones periféricas de la ciudad."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿Cuándo conviene empezar la puesta a punto en una zona con nieblas primaverales como Vic?",
+      "a": "Recomendamos anticipar la puesta a punto unas semanas respecto a zonas de clima más estable, ya que la humedad y el frío residual de la primavera pueden retrasar el proceso."
     }
   ],
-  "closingHeadline": "Tu piscina en Vic, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Vic y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Vic, cuidada frente a cada extremo del clima",
+  "closingCta": "Solicita un presupuesto cerrado para tu piscina en Vic, adaptado al clima de la Plana d'Osona."
 }

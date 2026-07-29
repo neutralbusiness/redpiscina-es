@@ -1,12 +1,12 @@
 {
   "slug": "vilaseca",
   "name": "Vilaseca",
-  "province": "Barcelona",
+  "province": "Tarragona",
   "ccaa": "Cataluña",
   "population": 17305,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Vilaseca | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Vilaseca. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Vilaseca y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Vilaseca — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en Vilaseca, Costa Daurada. Presupuesto cerrado y garantía. Pide presupuesto.",
+  "heroSubtitle": "Piscinas en Vilaseca cuidadas frente al salitre y el ritmo turístico de la Costa Daurada.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Vilaseca combinamos el mantenimiento de piscinas de uso permanente con el de segundas residencias, muy habituales en esta zona de la costa tarraconense. Para estas últimas ofrecemos planes de mantenimiento que garantizan que la piscina esté lista para el primer baño sin que el propietario tenga que preocuparse durante el resto del año.\n\nEl calor intenso del verano en la costa de Tarragona acelera el consumo de cloro y exige ajustar el tratamiento del agua a la temporada alta. Revisamos también con frecuencia el estado de depuradoras y filtros, que trabajan más horas al día durante los meses de más calor.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Vilaseca, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Vilaseca forma parte de la Costa Daurada, una de las zonas turísticas más activas de Cataluña, con un tejido residencial que combina apartamentos y comunidades cercanas a la playa con urbanizaciones de vivienda unifamiliar algo más alejadas del mar. La brisa marina, presente prácticamente todo el año, aporta salitre al ambiente y acelera el desgaste de elementos metálicos en cualquier piscina, además de influir en el equilibrio químico del agua.\n\nComo destino turístico consolidado, Vilaseca vive una temporada de uso muy concentrada e intensa entre finales de primavera y principios de otoño, cuando muchas piscinas comunitarias pasan de un uso moderado a recibir a decenas de usuarios diarios. Esta variación brusca exige anticiparse antes de que llegue la ocupación alta, en lugar de reaccionar cuando el agua ya muestra signos de saturación o turbidez.",
+  "servicesIntro": "En Vilaseca ofrecemos mantenimiento, reparación y puesta a punto para comunidades, negocios turísticos y viviendas particulares.",
+  "processIntro": "Trabajamos con un proceso claro, pensado para el ritmo intenso de una zona turística de la Costa Daurada.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas tu caso",
+      "body": "Nos explicas el tipo de instalación, su ubicación en Vilaseca y su nivel de uso habitual, sobre todo en temporada alta."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Valoramos la instalación y te entregamos una propuesta detallada antes de empezar cualquier trabajo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación previa",
+      "body": "El servicio comienza únicamente cuando das tu aprobación al presupuesto."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el mantenimiento acordado con materiales adecuados para el ambiente salino de la costa."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Cierre y seguimiento",
+      "body": "Te dejamos recomendaciones para sostener la calidad del agua durante los picos de mayor uso."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Vilaseca generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El salitre marino y la fuerte estacionalidad turística generan averías propias de las piscinas de Vilaseca.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Corrosión de elementos metálicos por salitre",
+      "body": "La brisa marina constante acelera el deterioro de escaleras y focos de baja calidad. Recomendamos y aplicamos materiales resistentes a la corrosión costera."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Saturación de filtros en temporada alta",
+      "body": "El salto de uso moderado a uso intensivo en los meses turísticos colapsa filtros mal dimensionados. Ajustamos los ciclos de limpieza al pico de afluencia."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Agua turbia al inicio de temporada",
+      "body": "En apartamentos y viviendas de uso vacacional, el agua acumula desequilibrio tras meses de baja actividad. Aplicamos un tratamiento de choque antes de la llegada de la temporada alta."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Evaporación elevada por sol y viento costero",
+      "body": "El calor y el viento del litoral aumentan la pérdida de agua. Reponemos el nivel y reequilibramos el tratamiento con revisiones periódicas."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Materiales adecuados para el litoral",
+      "body": "Trabajamos con componentes resistentes a la corrosión salina, pensados para las condiciones de la Costa Daurada."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Preparación para la temporada turística",
+      "body": "Anticipamos el mantenimiento antes de que llegue la ocupación alta, evitando sorpresas en pleno verano."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuesto cerrado y sin sorpresas",
+      "body": "Recibes una propuesta detallada antes de que empecemos a trabajar en tu piscina."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Experiencia con negocios turísticos",
+      "body": "Conocemos las necesidades de apartamentos, comunidades y establecimientos con fuerte estacionalidad."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de toda la zona",
+      "body": "Damos servicio tanto cerca de la playa como en las urbanizaciones más alejadas del frente marítimo."
     }
   ],
-  "zoneText": "Damos servicio a Vilaseca y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Cubrimos todo Vilaseca y su entorno en la Costa Daurada, atendiendo comunidades, negocios turísticos y viviendas particulares.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Vilaseca?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿El salitre de la Costa Daurada afecta mucho al mantenimiento en Vilaseca?",
+      "a": "Sí, la brisa marina acelera la corrosión de elementos metálicos y afecta al equilibrio químico del agua con más frecuencia que en zonas de interior."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "Mi apartamento solo se usa en temporada turística, ¿podéis prepararlo antes de la llegada de huéspedes?",
+      "a": "Sí, es un servicio muy habitual en Vilaseca. Hacemos la puesta a punto con antelación para que el agua esté en condiciones óptimas antes de la temporada alta."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con comunidades que reciben mucha ocupación en verano?",
+      "a": "Sí, adaptamos el mantenimiento al salto de uso propio de las zonas turísticas, reforzando la frecuencia de visitas durante los meses de mayor afluencia."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Qué diferencia hay entre mantener una piscina cerca de la playa y otra más alejada del mar?",
+      "a": "La principal diferencia es la exposición al salitre. En piscinas próximas al litoral recomendamos materiales más resistentes a la corrosión y revisiones algo más frecuentes del equilibrio químico."
     }
   ],
-  "closingHeadline": "Tu piscina en Vilaseca, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Vilaseca y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Vilaseca, lista para cada temporada turística",
+  "closingCta": "Solicita un presupuesto cerrado para tu piscina en Vilaseca, adaptado al ritmo de la Costa Daurada."
 }

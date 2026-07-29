@@ -4,9 +4,9 @@
   "province": "Islas Baleares",
   "ccaa": "Islas Baleares",
   "population": 438234,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Palma | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Palma. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Palma y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Palma — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas en Palma para hoteles, comunidades y viviendas. Presupuesto cerrado, garantía y experiencia en clima insular.",
+  "heroSubtitle": "Mantenemos tu piscina en Palma en perfecto estado, frente a la exigencia del turismo y el clima mediterráneo insular.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Palma, en Mallorca, combina el clima mediterráneo típico de las islas —veranos largos y calurosos, inviernos suaves— con una alta proporción de segundas residencias y viviendas vacacionales con piscina. Esto hace que el mantenimiento deba adaptarse a dos realidades muy distintas: la vivienda de uso permanente y la casa que se usa principalmente en los meses de verano, para la que ofrecemos planes que garantizan que la piscina esté lista sin que el propietario tenga que ocuparse de ella el resto del año.\n\nLa humedad salina del entorno insular acelera la corrosión de elementos metálicos, un factor a tener en cuenta tanto en el mantenimiento habitual como en cualquier rehabilitación, priorizando materiales más resistentes a la sal.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Palma, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Palma combina un clima mediterráneo cálido y seco con la particularidad insular: la brisa marina está presente en toda la ciudad, incluso en las zonas más alejadas de la costa, aportando una salinidad constante que afecta a los equipos de piscina de forma distinta a como lo hace en el interior peninsular. Los veranos son largos y muy calurosos, con una temporada turística que multiplica el uso de piscinas de hoteles y apartamentos desde mayo hasta octubre, muy por encima de lo que soportaría una instalación de uso puramente residencial.\n\nEsta intensidad turística convierte a Palma en un caso particular dentro de la isla: las piscinas de hoteles y complejos turísticos, especialmente en zonas cercanas a Playa de Palma y el Arenal, reciben un uso diario de cientos de bañistas, lo que exige un control químico extremadamente riguroso y una disponibilidad de mantenimiento constante para cumplir con la normativa sanitaria balear. Al mismo tiempo, las viviendas particulares y comunidades de las zonas residenciales de la ciudad, como Son Vida o Génova, mantienen piscinas privadas que, aunque con menos presión de uso, siguen expuestas al mismo desgaste salino propio de la isla.\n\nLa temporada baja en Palma, aunque más tranquila, no significa inactividad: muchas piscinas de hoteles se mantienen operativas o en semi-uso durante todo el año gracias al clima suave del invierno mallorquín, con heladas prácticamente inexistentes en la ciudad. Esto obliga a plantear el mantenimiento como una actividad continuada durante los doce meses, muy distinta a la lógica de apertura y cierre estacional habitual en el interior peninsular, y con una atención constante a la corrosión salina en escaleras, barandillas y equipos metálicos.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto de piscinas de hoteles, comunidades y viviendas particulares en Palma, adaptados al desgaste salino y a la intensidad turística de la isla.",
+  "processIntro": "Nuestro proceso de trabajo en Palma da prioridad a la disponibilidad y a la fiabilidad, especialmente para instalaciones hoteleras con exigencias normativas estrictas.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos explicas la instalación",
+      "body": "Nos explicas el tipo de instalación en Palma, ya sea hotelera, comunitaria o particular, y su nivel de uso."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Inspección técnica",
+      "body": "Revisamos el vaso, la depuradora y el estado de los elementos metálicos, prestando atención al desgaste propio del ambiente salino insular."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Presupuesto cerrado y detallado",
+      "body": "Te entregamos una propuesta detallada, adaptada a la normativa balear y al nivel de uso de tu instalación."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Tu aprobación",
+      "body": "El trabajo comienza solo cuando confirmas el presupuesto, coordinando la intervención con tu operativa."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Ejecución y seguimiento continuado",
+      "body": "Realizamos el servicio acordado y, si tu instalación lo requiere, establecemos un plan de mantenimiento activo durante todo el año."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Palma generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La salinidad marina constante y la intensidad de la temporada turística generan en Palma problemas específicos del entorno insular.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Corrosión salina de elementos metálicos",
+      "body": "La brisa marina presente en toda la ciudad acelera la corrosión de escaleras, barandillas y anclajes. Recomendamos materiales resistentes al ambiente insular y revisiones periódicas."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Sobrecarga de equipos por uso turístico intensivo",
+      "body": "En hoteles y apartamentos cercanos a zonas turísticas, la afluencia diaria somete a los sistemas de filtración a un desgaste muy superior al de una piscina residencial. Programamos revisiones preventivas frecuentes en temporada alta."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Incumplimiento normativo en piscinas de uso turístico",
+      "body": "La normativa balear para piscinas de establecimientos turísticos es especialmente estricta. Un control deficiente de cloro y pH puede derivar en sanciones o cierres temporales. Garantizamos el cumplimiento normativo constante."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
+      "title": "Alto consumo de cloro por sol y temporada larga",
+      "body": "La combinación de fuerte insolación y una temporada de uso muy extendida dispara el consumo de productos químicos. Optimizamos la dosificación para controlar costes sin comprometer la calidad del agua."
     },
     {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Desgaste continuado por uso durante todo el año",
+      "body": "A diferencia del interior peninsular, muchas piscinas de Palma están activas o semiactivas durante los doce meses, lo que exige un mantenimiento continuado en lugar de una lógica de apertura y cierre estacional."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con el ambiente salino insular",
+      "body": "Sabemos cómo afecta la brisa marina constante de Palma a los equipos de piscina y ajustamos el mantenimiento en consecuencia."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Conocimiento de la normativa turística balear",
+      "body": "Operamos con pleno conocimiento de las exigencias sanitarias aplicables a hoteles y apartamentos turísticos en Baleares."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Disponibilidad para instalaciones de uso intensivo",
+      "body": "Nos adaptamos a las necesidades de hoteles y complejos con alta afluencia diaria de bañistas."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Presupuesto sin cambios a última hora",
+      "body": "El precio acordado tras la visita técnica es el que verás en la factura final."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Mantenimiento adaptado a la actividad durante todo el año",
+      "body": "Planteamos planes continuados para instalaciones que no cierran en invierno, algo habitual en el clima de Palma."
     }
   ],
-  "zoneText": "Damos servicio a Palma y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en toda la ciudad de Palma, incluyendo zonas turísticas como Playa de Palma y el Arenal, así como en las zonas residenciales de Son Vida, Génova y el resto de la ciudad.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Palma?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué se corroe tan rápido el equipamiento metálico de mi piscina en Palma?",
+      "a": "La brisa marina, presente en toda la ciudad por su condición insular, acelera la corrosión de escaleras y anclajes incluso en zonas alejadas de la costa. Recomendamos materiales de calidad marina y revisiones periódicas."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "Gestiono un hotel en Palma, ¿cumplís con la normativa sanitaria específica de Baleares?",
+      "a": "Sí, conocemos y cumplimos la normativa balear aplicable a piscinas de uso turístico, que es especialmente exigente. Garantizamos un control constante de los parámetros del agua para evitar sanciones."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Necesito mantenimiento en invierno si mi piscina en Palma está semiabierta?",
+      "a": "Sí, el clima suave de la isla permite que muchas piscinas se mantengan activas o semiactivas todo el año, por lo que recomendamos un plan de mantenimiento continuado en lugar de un cierre estacional completo."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Podéis dar servicio a un apartamento turístico con alta rotación de huéspedes?",
+      "a": "Sí, estamos habituados a trabajar con instalaciones de uso turístico intensivo, ajustando la frecuencia de mantenimiento a la afluencia real y garantizando el cumplimiento normativo en todo momento."
     }
   ],
-  "closingHeadline": "Tu piscina en Palma, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Palma y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "El mantenimiento que exige el clima insular de Palma",
+  "closingCta": "Contacta con nosotros y te preparamos un presupuesto cerrado para tu hotel, comunidad o vivienda en Palma."
 }

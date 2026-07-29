@@ -4,9 +4,9 @@
   "province": "Burgos",
   "ccaa": "Castilla y León",
   "population": 176418,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Burgos | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Burgos. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Burgos y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Burgos — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en Burgos. Presupuesto cerrado, factura y garantía. Solicita información.",
+  "heroSubtitle": "Protege tu piscina comunitaria o de negocio en Burgos frente al clima continental más frío de la Meseta.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Burgos, en plena meseta castellana, tiene un clima continental extremo: veranos cortos pero muy calurosos, e inviernos largos y fríos que obligan a un invernaje cuidadoso de la instalación para evitar daños por heladas en tuberías y equipos. La temporada de baño es más corta que en la costa, lo que hace aún más importante que la piscina esté lista y sin averías desde el primer día de calor.\n\nEl agua de la zona suele ser de dureza media-alta, lo que con los años deja cal en el sistema de filtración y en las células de los cloradores salinos. En las piscinas más antiguas de la comarca, muchas construidas hace 30 o 40 años, la rehabilitación integral —nuevo revestimiento, depuradora eficiente y protección frente al frío invernal— suele ser la opción más rentable a largo plazo.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Burgos, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Burgos, a más de 850 metros de altitud en pleno corazón de la Meseta Norte, tiene uno de los climas más fríos de las capitales de provincia españolas: inviernos largos y duros, con heladas muy frecuentes entre noviembre y marzo, y veranos cortos pero con días de calor notable. Para las comunidades de propietarios y negocios de la ciudad, este perfil invierte el orden habitual de prioridades: el invernaje es aquí el punto más crítico del mantenimiento, más incluso que en la mayoría de ciudades de interior.\n\nUn invernaje incompleto en Burgos puede tener consecuencias severas: las heladas prolongadas de enero y febrero fisuran con facilidad tuberías, skimmers y filtros que no hayan sido purgados y protegidos correctamente, generando reparaciones costosas que solo se descubren al reabrir la piscina, con una temporada de baño ya de por sí más corta que en el sur o el litoral. En comunidades de barrios como Gamonal o el entorno del Parque Fuentes Blancas, este factor condiciona todo el calendario de trabajo anual.\n\nDurante el verano, aunque más breve, las temperaturas pueden subir con fuerza durante el día, lo que exige un control químico activo en las semanas de mayor uso, aunque sin la exigencia de climas del sur peninsular. Nuestro servicio en Burgos pone el foco en un invernaje riguroso y en una puesta a punto de primavera exhaustiva, además de un mantenimiento estival ajustado a una temporada de baño más corta pero igualmente intensa en sus semanas centrales.",
+  "servicesIntro": "Ofrecemos mantenimiento integral, reparación y puesta a punto de piscinas para comunidades y negocios en Burgos.",
+  "processIntro": "Un proceso transparente, con presupuesto cerrado antes de comenzar cualquier trabajo.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto inicial",
+      "body": "Nos cuentas el tipo de instalación en Burgos y el servicio que necesitas."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Evaluamos la piscina si es necesario y te enviamos una propuesta detallada, sin costes ocultos."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Tu aprobación",
+      "body": "Solo empezamos a trabajar con tu confirmación, coordinando la fecha con tu comunidad o negocio."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el trabajo acordado con protocolos de seguridad adaptados al clima frío de la zona."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe final",
+      "body": "Entregamos un parte de las tareas realizadas y quedamos disponibles para el mantenimiento continuado."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Burgos generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El clima continental frío de Burgos, con inviernos largos y duros, provoca problemas muy específicos que hay que anticipar.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Daños severos por heladas prolongadas",
+      "body": "Los inviernos de Burgos son de los más fríos de España. Un invernaje incompleto fisura con facilidad tuberías y filtros, generando averías costosas."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Temporada de baño más corta y concentrada",
+      "body": "El verano breve concentra el uso de la piscina en pocas semanas, lo que exige un control químico activo en ese periodo intenso."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Puesta a punto de primavera exigente",
+      "body": "Tras inviernos tan duros, la reapertura requiere una revisión más completa de estructura y equipos que en climas más suaves."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
+      "title": "Congelación de equipos mal purgados",
+      "body": "Bombas y depuradoras sin purgar correctamente antes del frío pueden agrietarse con las heladas de la Meseta Norte."
     },
     {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Cal por dureza del agua",
+      "body": "El agua de la zona puede presentar dureza que favorece depósitos calcáreos si no se controla de forma periódica."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Especializados en invernaje riguroso",
+      "body": "Adaptamos el protocolo de invernaje a uno de los climas más fríos de España, protegiendo cada componente de la instalación."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos claros para comunidades",
+      "body": "Entregamos propuestas detalladas y cerradas, listas para su aprobación en junta de propietarios."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Puesta a punto exhaustiva en primavera",
+      "body": "Revisamos a fondo la instalación tras el invierno para garantizar una reapertura sin sorpresas."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Conocimiento del clima de la Meseta Norte",
+      "body": "Adaptamos cada intervención a los extremos térmicos propios de Burgos."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Técnico de referencia único",
+      "body": "La misma persona sigue el historial de tu piscina en cada visita."
     }
   ],
-  "zoneText": "Damos servicio a Burgos y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades y negocios en toda la ciudad de Burgos y municipios cercanos como Villafría y Cardeñajimeno.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Burgos?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué el invernaje es tan importante en Burgos?",
+      "a": "El clima continental de Burgos trae inviernos largos y muy fríos, entre los más duros de las capitales españolas. Un invernaje incompleto puede fisurar tuberías y equipos con facilidad."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿La temporada de baño es más corta que en otras ciudades?",
+      "a": "Sí, el verano en Burgos es más breve que en el sur o la costa, lo que concentra el uso y el mantenimiento en menos semanas del año."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Qué incluye vuestra puesta a punto de primavera?",
+      "a": "Tras un invierno tan duro, revisamos a fondo tuberías, filtros y estructura antes de la reapertura, para detectar cualquier daño derivado del frío."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Ofrecéis presupuesto cerrado para comunidades de propietarios?",
+      "a": "Sí, elaboramos propuestas detalladas y cerradas, pensadas para su presentación y aprobación en junta de vecinos."
     }
   ],
-  "closingHeadline": "Tu piscina en Burgos, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Burgos y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas preparadas para el clima más frío de la Meseta",
+  "closingCta": "Solicita presupuesto cerrado para el mantenimiento de tu piscina comunitaria o de negocio en Burgos."
 }

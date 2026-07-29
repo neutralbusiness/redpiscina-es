@@ -4,9 +4,9 @@
   "province": "Valladolid",
   "ccaa": "Castilla y León",
   "population": 300618,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Valladolid | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Valladolid. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Valladolid y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Valladolid — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en Valladolid. Presupuesto cerrado, factura y garantía. Solicita tu presupuesto.",
+  "heroSubtitle": "Piscinas en Valladolid preparadas para el clima extremo de la meseta castellana.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Valladolid, en plena meseta castellana, tiene un clima continental extremo: veranos cortos pero muy calurosos, e inviernos largos y fríos que obligan a un invernaje cuidadoso de la instalación para evitar daños por heladas en tuberías y equipos. La temporada de baño es más corta que en la costa, lo que hace aún más importante que la piscina esté lista y sin averías desde el primer día de calor.\n\nEl agua de la zona suele ser de dureza media-alta, lo que con los años deja cal en el sistema de filtración y en las células de los cloradores salinos. En las piscinas más antiguas de la comarca, muchas construidas hace 30 o 40 años, la rehabilitación integral —nuevo revestimiento, depuradora eficiente y protección frente al frío invernal— suele ser la opción más rentable a largo plazo.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Valladolid, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Valladolid se asienta en pleno centro de la meseta castellana, uno de los puntos de España con un clima continental más marcado: veranos secos y muy calurosos, con temperaturas que superan con facilidad los 35 grados durante julio y agosto, e inviernos largos y fríos con heladas frecuentes y, en algunos años, nevadas. Esta amplitud térmica entre estaciones convierte la gestión de una piscina, ya sea comunitaria o de negocio, en un ejercicio de planificación mucho más exigente que en zonas de clima suavizado por el mar.\n\nEn verano, la sequedad ambiental de la meseta acelera la evaporación del agua y degrada el cloro con rapidez, especialmente en las horas centrales del día, cuando la radiación solar es más intensa. Para una comunidad de propietarios en cualquiera de los barrios con piscina compartida, esto significa que un control químico poco frecuente puede desembocar en agua turbia o desequilibrada en cuestión de días, justo cuando más vecinos están utilizando la instalación.\n\nEl otro extremo del año es igual de determinante. Los inviernos vallisoletanos, con heladas que se prolongan durante semanas, exigen un invernaje riguroso: proteger tuberías, skimmers y el propio vaso frente a la congelación no es opcional, es la diferencia entre una reapertura de temporada sencilla y una reparación estructural costosa en primavera. Nuestro trabajo en Valladolid se adapta a esta doble exigencia, con un enfoque que cubre tanto el pico de calor estival como la protección invernal frente al frío castellano.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación, puesta a punto e invernaje para comunidades, negocios y viviendas particulares en Valladolid.",
+  "processIntro": "Trabajamos con un proceso transparente, pensado para que sepas en todo momento qué se hace en tu piscina y a qué coste.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Primer contacto",
+      "body": "Nos explicas el tipo de instalación, su tamaño y la situación actual del agua y los equipos."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Evaluamos lo que hace falta y te entregamos una propuesta detallada, sin sorpresas posteriores."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Tu confirmación",
+      "body": "Solo empezamos a trabajar cuando apruebas el presupuesto, algo especialmente importante para juntas de propietarios."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el mantenimiento o la reparación acordada, adaptando el trabajo a la temporada, ya sea puesta a punto de verano o invernaje."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe y seguimiento",
+      "body": "Entregamos un resumen de la intervención y recomendaciones para la siguiente fase del año."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Valladolid generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El clima extremo de la meseta, con veranos muy calurosos e inviernos fríos, genera averías muy características en Valladolid.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Consumo acelerado de cloro por calor seco",
+      "body": "La combinación de altas temperaturas y baja humedad de la meseta degrada el desinfectante mucho más rápido de lo habitual. Ajustamos la dosificación en los picos de calor de julio y agosto."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Fisuras por heladas invernales",
+      "body": "Los inviernos largos y fríos de Valladolid pueden dañar seriamente una piscina mal invernada. Aplicamos un protocolo de invernaje riguroso para proteger tuberías, skimmers y el vaso."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Evaporación intensa en verano",
+      "body": "La sequedad ambiental de la meseta provoca una pérdida de agua notable en los meses de más calor, afectando al equilibrio de pH y alcalinidad. Reponemos y reequilibramos con revisiones frecuentes."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
+      "title": "Retraso en la puesta a punto por frío persistente",
+      "body": "Los inviernos largos hacen que el agua tarde más en alcanzar temperatura agradable en primavera. Planificamos la apertura de temporada con margen suficiente para que la piscina esté lista a tiempo."
     },
     {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Incumplimientos sanitarios en piscinas comunitarias",
+      "body": "El uso intensivo en las semanas de más calor puede derivar en problemas si el control químico no es constante. Diseñamos planes de mantenimiento ajustados a la normativa vigente."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con el clima extremo de la meseta",
+      "body": "Adaptamos el mantenimiento tanto a los picos de calor del verano como a los inviernos largos y fríos de Valladolid."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos aptos para junta de propietarios",
+      "body": "Preparamos propuestas claras y detalladas, fáciles de aprobar en una reunión de comunidad."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Invernaje riguroso",
+      "body": "Nuestro protocolo de protección invernal está pensado para climas con heladas prolongadas, no solo para inviernos suaves."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Cumplimiento normativo",
+      "body": "Nuestros procedimientos se ajustan a la normativa sanitaria vigente para piscinas de uso colectivo."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de toda la ciudad",
+      "body": "Damos servicio en los distintos barrios de Valladolid, tanto a comunidades como a negocios y viviendas particulares."
     }
   ],
-  "zoneText": "Damos servicio a Valladolid y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Cubrimos toda la ciudad de Valladolid y su área metropolitana, atendiendo comunidades de propietarios, negocios y viviendas particulares con piscina.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Valladolid?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Cómo afecta el clima extremo de Valladolid al mantenimiento de una piscina?",
+      "a": "Los veranos muy calurosos y secos aceleran la evaporación y el consumo de cloro, mientras que los inviernos largos y fríos exigen un invernaje riguroso. Adaptamos la frecuencia y el tipo de servicio a cada estación."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Qué incluye vuestro protocolo de invernaje para el clima de la meseta?",
+      "a": "Incluye el ajuste del nivel de agua, la protección de skimmers y boquillas frente a la congelación, la purga de tuberías y equipos, y la aplicación de un producto invernador adecuado a heladas prolongadas."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Preparáis presupuestos para presentar en junta de propietarios?",
+      "a": "Sí, es habitual en nuestro trabajo con comunidades de Valladolid. Entregamos propuestas claras y desglosadas, pensadas para facilitar su aprobación por parte de los vecinos."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Cuándo conviene empezar la puesta a punto de la piscina en Valladolid?",
+      "a": "Debido a los inviernos largos, recomendamos iniciar la puesta a punto con cierta antelación respecto a zonas de clima más suave, para que el agua esté lista cuando realmente empiece a hacer calor."
     }
   ],
-  "closingHeadline": "Tu piscina en Valladolid, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Valladolid y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "El mantenimiento que tu piscina necesita frente al clima de Valladolid",
+  "closingCta": "Solicita un presupuesto cerrado para tu piscina en Valladolid, adaptado a los veranos calurosos y los inviernos fríos de la meseta."
 }

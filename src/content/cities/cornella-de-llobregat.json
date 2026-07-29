@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 87173,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Cornellà de Llobregat | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Cornellà de Llobregat. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Cornellà de Llobregat y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Cornellà de Llobregat",
+  "metaDescription": "Mantenimiento y reparación de piscinas comunitarias en Cornellà de Llobregat. Presupuesto cerrado para comunidades y negocios.",
+  "heroSubtitle": "Piscinas comunitarias en orden en Cornellà de Llobregat, con presupuesto cerrado y trato directo.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Cornellà de Llobregat, en el Baix Llobregat, damos servicio tanto a chalets particulares como a piscinas comunitarias, muy habituales en las urbanizaciones de la comarca. El uso intensivo de las piscinas comunitarias en temporada alta exige un mantenimiento más frecuente y un control estricto de los parámetros del agua, mientras que en las piscinas privadas el reto suele ser distinto: mantenerlas en buen estado con visitas más espaciadas durante el resto del año.\n\nLa cercanía al Llobregat y la humedad de la zona hacen que el gresite y las juntas de piscinas antiguas se degraden con el tiempo, provocando fugas difíciles de localizar a simple vista. Usamos equipos de detección profesional para dar con el punto exacto sin necesidad de obras innecesarias.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Cornellà de Llobregat, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Cornellà de Llobregat forma parte del área metropolitana densa de Barcelona, muy próxima a la capital catalana y bien comunicada por el eje del Llobregat. Su clima mediterráneo es similar al de Barcelona ciudad, con veranos calurosos y húmedos, algo atemperados por la cercanía al mar, e inviernos suaves con heladas poco frecuentes pero no descartables en las noches más frías de enero. La densidad urbana del municipio, con numerosos bloques de vecinos, hace que la piscina comunitaria sea la modalidad más habitual, con una afluencia de usuarios muy alta durante los fines de semana de verano.\n\nEsa combinación de uso intensivo en poco espacio y humedad ambiental propia del área metropolitana exige un control del agua muy constante: el cloro se consume rápido tanto por el calor como por la carga de bañistas, y la humedad favorece la aparición de algas si baja el nivel de desinfección. Para las comunidades de Cornellà, el reto principal es sostener una calidad de agua estable durante toda la temporada alta, con revisiones que no dejen margen a que el problema se note antes de la siguiente visita.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto de piscinas comunitarias para Cornellà de Llobregat.",
+  "processIntro": "Un proceso sencillo, con presupuesto cerrado, pensado para comunidades de vecinos con alta afluencia en verano.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto con la comunidad",
+      "body": "Nos explicas el estado de la piscina y el servicio que necesita tu comunidad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Evaluamos la instalación y entregamos una propuesta detallada, lista para junta de propietarios."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Aprobación",
+      "body": "Solo actuamos cuando la comunidad da su conformidad al presupuesto."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el trabajo coordinándonos con los horarios de uso de los vecinos."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe para la comunidad",
+      "body": "Entregamos un parte de trabajo claro, útil para el administrador de fincas."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Cornellà de Llobregat generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La alta densidad de uso y la humedad del área metropolitana generan problemas recurrentes en las piscinas de Cornellà.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Agua turbia por afluencia masiva de fin de semana",
+      "body": "Las piscinas comunitarias reciben un pico de usuarios muy alto los sábados y domingos de verano. Reforzamos la revisión de cloro antes y después de estos días."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Algas favorecidas por la humedad metropolitana",
+      "body": "La humedad relativa propia del área de Barcelona facilita la proliferación de algas si el cloro baja de nivel. Mantenemos un control estricto en los meses centrales del verano."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Filtros saturados por uso intensivo en poco espacio",
+      "body": "La alta densidad de bañistas en piscinas de tamaño limitado satura los filtros con rapidez. Programamos contralavados frecuentes en temporada alta."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Desgaste de equipos por funcionamiento continuo",
+      "body": "El uso prolongado del sistema de filtración durante toda la temporada exige revisiones preventivas para evitar averías en pleno agosto."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con piscinas comunitarias de alta afluencia",
+      "body": "Sabemos gestionar el reto de un uso muy intenso en espacios compartidos."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos claros para juntas de propietarios",
+      "body": "Documentación detallada y fácil de aprobar por la comunidad."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Refuerzo de control en fines de semana de verano",
+      "body": "Adaptamos la frecuencia de revisión a los picos de uso reales de la piscina."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Técnico de referencia para la comunidad",
+      "body": "La misma persona sigue el historial de la instalación cada temporada."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Buena logística en el área metropolitana",
+      "body": "Nuestra planificación de rutas nos permite ser puntuales pese al tráfico de la zona."
     }
   ],
-  "zoneText": "Damos servicio a Cornellà de Llobregat y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades de vecinos y negocios en Cornellà de Llobregat y su entorno metropolitano.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Cornellà de Llobregat?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Cómo gestionáis el aumento de usuarios los fines de semana?",
+      "a": "Reforzamos la revisión de cloro y pH antes de los fines de semana de verano, cuando la piscina comunitaria recibe el mayor pico de afluencia."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿La humedad de la zona metropolitana afecta a la aparición de algas?",
+      "a": "Sí, la humedad relativa propia del área de Barcelona favorece las algas si el nivel de cloro baja, por lo que mantenemos un control más estricto en los meses centrales del verano."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Podéis presentar el presupuesto para la junta de propietarios?",
+      "a": "Sí, elaboramos presupuestos cerrados y desglosados, pensados para facilitar su aprobación en junta."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Atendéis averías puntuales fuera del mantenimiento programado?",
+      "a": "Sí, atendemos incidencias puntuales con presupuesto previo, sin necesidad de contrato continuado."
     }
   ],
-  "closingHeadline": "Tu piscina en Cornellà de Llobregat, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Cornellà de Llobregat y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas comunitarias en orden en Cornellà de Llobregat",
+  "closingCta": "Pide presupuesto para la piscina de tu comunidad en Cornellà de Llobregat."
 }

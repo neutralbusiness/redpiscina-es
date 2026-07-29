@@ -4,9 +4,9 @@
   "province": "Bizkaia",
   "ccaa": "País Vasco",
   "population": 347342,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Bilbao | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Bilbao. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Bilbao y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Bilbao — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades, hoteles y negocios en Bilbao. Presupuesto cerrado, factura y garantía. Contáctanos.",
+  "heroSubtitle": "Cuidamos tu piscina comunitaria o de negocio en Bilbao frente a la humedad y las lluvias del clima atlántico vasco.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Bilbao, en la cornisa atlántica, tiene un clima muy distinto al del resto de España: veranos suaves, sin los picos de calor extremo de la meseta o el sur, pero con humedad e inviernos más lluviosos. La temporada de baño natural es más corta, lo que hace que cada vez más propietarios opten por una bomba de calor para poder disfrutar de la piscina con un margen más amplio, de mayo a septiembre.\n\nLa humedad constante de la zona favorece el crecimiento de algas y musgo en los bordes y la coronación de la piscina si no se hace un mantenimiento regular, incluso fuera de temporada. También es un factor a tener en cuenta en la elección de materiales para la rehabilitación, priorizando los que mejor resisten la humedad prolongada.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Bilbao, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Bilbao tiene un clima oceánico húmedo, con precipitaciones abundantes repartidas a lo largo de todo el año y una humedad relativa alta de forma casi constante. Para una piscina comunitaria, de hotel o de un gimnasio en la ciudad, esto significa que el reto principal no es tanto el calor extremo como en el interior peninsular, sino la proliferación de algas y hongos favorecida por la escasa insolación directa y el ambiente húmedo, especialmente en piscinas exteriores de comunidades del Ensanche o zonas próximas a la ría.\n\nLas lluvias frecuentes, muy habituales entre otoño e invierno pero presentes también en verano, exigen un control del agua más regular que en climas secos: cada episodio de lluvia intensa puede alterar el pH y aportar materia orgánica que desestabiliza el tratamiento. En las piscinas interiores de gimnasios y hoteles, la humedad ambiental alta obliga además a vigilar de cerca la ventilación y la corrosión de equipos y cuadros eléctricos en salas de máquinas.\n\nEl clima suave de Bilbao, sin apenas heladas severas, permite un invernaje menos exigente frente al frío que en zonas de interior, pero no elimina la necesidad de proteger la instalación durante los meses de menor uso frente a la humedad constante. Nuestro servicio en Bilbao prioriza el control preventivo de algas y hongos, la protección de equipos frente a la humedad, y un mantenimiento adaptado a un clima donde la lluvia, más que el calor, marca el calendario de trabajo.",
+  "servicesIntro": "Ofrecemos mantenimiento integral, reparación y puesta a punto de piscinas para comunidades, hoteles y negocios en Bilbao.",
+  "processIntro": "Un proceso transparente, con presupuesto cerrado antes de iniciar cualquier trabajo.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto inicial",
+      "body": "Nos cuentas el tipo de instalación en Bilbao y qué servicio necesitas."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Evaluamos la piscina si es necesario y te enviamos una propuesta detallada, sin costes ocultos."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Tu confirmación",
+      "body": "Empezamos a trabajar solo con tu aprobación, coordinando la fecha con tu comunidad o negocio."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el trabajo acordado con protocolos de seguridad adaptados al clima húmedo de la zona."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe y seguimiento",
+      "body": "Entregamos un parte de las tareas realizadas y quedamos disponibles para el mantenimiento continuado."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Bilbao generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La humedad constante y las lluvias frecuentes del clima atlántico vasco generan en Bilbao problemas distintos a los de una ciudad de interior.",
   "commonIssues": [
     {
-      "title": "Algas y moho por la humedad constante",
-      "body": "La humedad de la zona favorece el crecimiento de algas y moho en el vaso y en la coronación si no hay un mantenimiento regular, incluso fuera de temporada. Recomendamos un tratamiento de choque antes de cada apertura."
+      "title": "Algas por humedad y baja insolación",
+      "body": "La escasa insolación directa en comparación con el interior, junto a la humedad constante, favorece la aparición de algas en zonas de sombra del vaso."
     },
     {
-      "title": "Temporada de baño corta sin climatización",
-      "body": "El clima suave pero fresco de la zona acorta la temporada de baño natural. Instalamos bombas de calor dimensionadas para alargarla varios meses sin disparar el consumo eléctrico."
+      "title": "Desequilibrio del agua tras lluvias intensas",
+      "body": "Las lluvias frecuentes en Bilbao aportan agua de escorrentía que altera el pH. Reaccionamos con analíticas y correcciones tras cada episodio de lluvia fuerte."
     },
     {
-      "title": "Corrosión por humedad prolongada",
-      "body": "La humedad constante, más que el calor, es el principal desgaste para los elementos metálicos de la instalación. Usamos materiales pensados para resistir la humedad todo el año."
+      "title": "Humedad en salas de máquinas",
+      "body": "La humedad relativa alta favorece la corrosión de cuadros eléctricos y bombas en salas técnicas mal ventiladas de hoteles y gimnasios."
     },
     {
-      "title": "Filtros de arena con moho o suciedad",
-      "body": "La combinación de humedad y poco sol directo favorece la aparición de suciedad orgánica en el sistema de filtración. Revisamos y limpiamos a fondo en cada mantenimiento."
+      "title": "Hongos en piscinas cubiertas",
+      "body": "Las piscinas interiores de gimnasios y hoteles bilbaínos son especialmente sensibles a la humedad si la ventilación no es adecuada, favoreciendo la aparición de hongos."
     },
     {
-      "title": "Fugas enmascaradas por la lluvia",
-      "body": "En una zona lluviosa es más difícil detectar a simple vista una pérdida de agua real. Hacemos pruebas de presión para confirmar si existe una fuga antes de actuar."
+      "title": "Deterioro de cubiertas por humedad constante",
+      "body": "Las cubiertas de piscinas exteriores sufren un desgaste mayor por la humedad casi permanente si no se revisan e impermeabilizan con regularidad."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia en clima atlántico húmedo",
+      "body": "Adaptamos el tratamiento del agua al perfil de humedad y lluvias propio de Bilbao, distinto al de climas secos de interior."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos claros para comunidades y negocios",
+      "body": "Entregamos propuestas detalladas y cerradas, adaptadas a cada tipo de instalación."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Especializados en piscinas cubiertas",
+      "body": "Prestamos especial atención a la ventilación y humedad en las piscinas interiores de gimnasios y hoteles."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Control preventivo de algas y hongos",
+      "body": "Reforzamos la vigilancia en las zonas más expuestas a la humedad y a la falta de sol directo."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Técnico de referencia único",
+      "body": "La misma persona sigue el historial de tu piscina en cada visita."
     }
   ],
-  "zoneText": "Damos servicio a Bilbao y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Atendemos comunidades, hoteles y negocios en toda la ciudad de Bilbao y su área metropolitana, incluidos municipios cercanos como Getxo, Barakaldo y Leioa.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Bilbao?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué salen algas en mi piscina en Bilbao si no hace tanto calor?",
+      "a": "La humedad constante y la menor insolación directa propias del clima atlántico favorecen la aparición de algas, incluso sin temperaturas extremas. Ajustamos el tratamiento a este perfil."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Cómo afectan las lluvias frecuentes al agua de la piscina?",
+      "a": "Cada episodio de lluvia intensa puede alterar el pH y aportar materia orgánica. Revisamos el agua tras las lluvias más fuertes para corregir cualquier desequilibrio."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Es necesario un invernaje severo en Bilbao?",
+      "a": "No tanto por el frío, ya que las heladas graves no son habituales, pero sí conviene proteger la instalación frente a la humedad constante durante los meses de cierre."
     },
     {
-      "q": "¿Merece la pena instalar una bomba de calor con este clima?",
-      "a": "Sí, es la forma más habitual de alargar una temporada de baño que aquí es más corta que en el resto de España. Con el dimensionado adecuado, se puede disfrutar de la piscina varios meses más al año sin disparar el consumo eléctrico."
+      "q": "¿Trabajáis con piscinas cubiertas de hoteles y gimnasios?",
+      "a": "Sí, prestamos especial atención a la ventilación y el control de humedad en piscinas interiores, un punto crítico en el clima bilbaíno."
     }
   ],
-  "closingHeadline": "Tu piscina en Bilbao, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Bilbao y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "El socio técnico para tu piscina en Bilbao",
+  "closingCta": "Solicita presupuesto cerrado para el mantenimiento de tu piscina comunitaria o de negocio en Bilbao."
 }

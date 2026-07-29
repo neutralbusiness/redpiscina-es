@@ -4,9 +4,9 @@
   "province": "Álava",
   "ccaa": "País Vasco",
   "population": 257407,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Vitoria-Gasteiz | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Vitoria-Gasteiz. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Vitoria-Gasteiz y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Vitoria-Gasteiz",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en Vitoria-Gasteiz. Presupuesto cerrado, clima atlántico.",
+  "heroSubtitle": "Piscinas preparadas para el clima cambiante de Vitoria-Gasteiz, con mantenimiento profesional todo el año.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Vitoria-Gasteiz, con el clima húmedo y templado propio de la cornisa atlántica, el reto no es tanto el calor extremo como la humedad constante, que favorece la aparición de algas y moho en zonas del vaso y del entorno de la piscina que no reciben suficiente sol. Recomendamos un tratamiento de choque antes de cada apertura de temporada para partir de cero.\n\nLa temporada de baño natural aquí es más corta que en el resto de España, así que muchos propietarios de la zona nos piden instalar una bomba de calor para alargarla. Con el aislamiento adecuado y un buen dimensionado del equipo, es perfectamente viable disfrutar de la piscina varios meses más al año.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Vitoria-Gasteiz, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Vitoria-Gasteiz es la capital de Álava y se sitúa en un altiplano a más de 500 metros de altitud, lo que le da un clima muy distinto al mediterráneo del resto de España: veranos suaves, con temperaturas moderadas que rara vez alcanzan los extremos de calor de otras ciudades, e inviernos fríos y húmedos, con lluvias frecuentes durante buena parte del año y heladas habituales entre noviembre y marzo. Esta influencia atlántica y de altiplano cambia por completo las prioridades de mantenimiento respecto a otras ciudades: el problema no es tanto el consumo acelerado de cloro por calor extremo, sino la gestión de una temporada de baño más corta y un invernaje mucho más exigente por el frío persistente.\n\nLa ciudad, muy reconocida por su apuesta por las zonas verdes y el anillo verde que la rodea, combina comunidades de vecinos consolidadas en el ensanche con zonas residenciales más recientes en los barrios periféricos. Para las piscinas comunitarias de Vitoria-Gasteiz, la temporada de uso se concentra en un periodo más corto que en el sur o el levante, entre junio y primeros de septiembre, lo que exige concentrar el esfuerzo de mantenimiento en esas semanas, mientras que el resto del año la prioridad pasa a ser la protección de la instalación frente a la humedad y el frío atlántico.",
+  "servicesIntro": "Ofrecemos mantenimiento, invernaje reforzado y reparación de piscinas comunitarias y de negocio en Vitoria-Gasteiz.",
+  "processIntro": "Un proceso claro con presupuesto cerrado, adaptado a una temporada de baño más corta y a un clima húmedo gran parte del año.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos explicas tu caso",
+      "body": "Nos cuentas el tipo de instalación y el servicio que necesitas."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Evaluación y presupuesto",
+      "body": "Visitamos la piscina y entregamos un presupuesto cerrado y detallado."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Tu aprobación",
+      "body": "Solo iniciamos el servicio cuando confirmas la propuesta."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del trabajo",
+      "body": "Realizamos la intervención coordinándonos con los horarios de la comunidad o negocio."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe y seguimiento",
+      "body": "Entregamos un parte de trabajo con los parámetros del agua y quedamos disponibles para el resto del año."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Vitoria-Gasteiz generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El clima atlántico y húmedo de Vitoria-Gasteiz, con una temporada de baño más corta, genera averías distintas a las de otras zonas de España.",
   "commonIssues": [
     {
-      "title": "Algas y moho por la humedad constante",
-      "body": "La humedad de la zona favorece el crecimiento de algas y moho en el vaso y en la coronación si no hay un mantenimiento regular, incluso fuera de temporada. Recomendamos un tratamiento de choque antes de cada apertura."
+      "title": "Roturas por heladas prolongadas de otoño e invierno",
+      "body": "El frío húmedo del altiplano alavés se extiende varios meses. Aplicamos un invernaje reforzado y de larga duración para proteger tuberías y equipos."
     },
     {
-      "title": "Temporada de baño corta sin climatización",
-      "body": "El clima suave pero fresco de la zona acorta la temporada de baño natural. Instalamos bombas de calor dimensionadas para alargarla varios meses sin disparar el consumo eléctrico."
+      "title": "Algas por humedad constante",
+      "body": "Las frecuentes lluvias y la humedad ambiental favorecen la aparición de algas si el cloro no se controla bien, incluso fuera de los meses más calurosos."
     },
     {
-      "title": "Corrosión por humedad prolongada",
-      "body": "La humedad constante, más que el calor, es el principal desgaste para los elementos metálicos de la instalación. Usamos materiales pensados para resistir la humedad todo el año."
+      "title": "Corrosión por humedad persistente en equipos",
+      "body": "El clima húmedo puede acelerar el desgaste de componentes metálicos de la depuradora durante todo el año, no solo en invierno. Revisamos estos elementos con regularidad."
     },
     {
-      "title": "Filtros de arena con moho o suciedad",
-      "body": "La combinación de humedad y poco sol directo favorece la aparición de suciedad orgánica en el sistema de filtración. Revisamos y limpiamos a fondo en cada mantenimiento."
-    },
-    {
-      "title": "Fugas enmascaradas por la lluvia",
-      "body": "En una zona lluviosa es más difícil detectar a simple vista una pérdida de agua real. Hacemos pruebas de presión para confirmar si existe una fuga antes de actuar."
+      "title": "Temporada de uso concentrada en pocas semanas",
+      "body": "Con veranos más cortos que en el resto de España, la piscina se usa de forma intensa en un periodo breve, lo que exige una preparación previa muy ajustada para no perder ni una semana de temporada."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Especialización en clima atlántico",
+      "body": "Adaptamos el mantenimiento a un clima muy distinto del mediterráneo, con más humedad y frío durante más meses."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Invernaje de larga duración",
+      "body": "Preparamos la instalación para un periodo sin uso más extenso que en otras ciudades de España."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuestos claros para comunidades",
+      "body": "Documentación detallada y fácil de aprobar en junta de propietarios."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Técnico de referencia estable",
+      "body": "La misma persona sigue el historial de tu piscina durante todo el año."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de toda la ciudad",
+      "body": "Atendemos tanto el ensanche consolidado como los barrios periféricos de Vitoria-Gasteiz."
     }
   ],
-  "zoneText": "Damos servicio a Vitoria-Gasteiz y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en toda la ciudad de Vitoria-Gasteiz, desde el ensanche hasta los barrios residenciales periféricos.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Vitoria-Gasteiz?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué la temporada de baño es tan corta en Vitoria-Gasteiz?",
+      "a": "El clima atlántico y la altitud del altiplano alavés hacen que los veranos sean más suaves y cortos que en el resto de España, concentrando el uso de la piscina en pocas semanas entre junio y septiembre."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es más importante el invernaje aquí que en otras ciudades?",
+      "a": "Sí, el frío húmedo se extiende varios meses en Vitoria-Gasteiz, por lo que aplicamos un invernaje reforzado y de mayor duración que en zonas de clima mediterráneo."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿La humedad de Vitoria favorece las algas incluso fuera de verano?",
+      "a": "Puede hacerlo, ya que las lluvias frecuentes mantienen una humedad ambiental elevada gran parte del año, por lo que vigilamos el nivel de cloro también en temporada baja."
     },
     {
-      "q": "¿Merece la pena instalar una bomba de calor con este clima?",
-      "a": "Sí, es la forma más habitual de alargar una temporada de baño que aquí es más corta que en el resto de España. Con el dimensionado adecuado, se puede disfrutar de la piscina varios meses más al año sin disparar el consumo eléctrico."
+      "q": "¿Trabajáis con comunidades de vecinos en los barrios periféricos?",
+      "a": "Sí, cubrimos tanto el ensanche consolidado como los desarrollos residenciales más recientes de la ciudad."
     }
   ],
-  "closingHeadline": "Tu piscina en Vitoria-Gasteiz, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Vitoria-Gasteiz y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas preparadas para el clima de Vitoria-Gasteiz",
+  "closingCta": "Solicita presupuesto para tu comunidad o negocio en Vitoria-Gasteiz, sin compromiso."
 }

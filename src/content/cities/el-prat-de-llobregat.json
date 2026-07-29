@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 63418,
-  "metaTitle": "Mantenimiento y reparación de piscinas en El Prat de Llobregat | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en El Prat de Llobregat. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en El Prat de Llobregat y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en El Prat de Llobregat",
+  "metaDescription": "Mantenimiento y reparación de piscinas comunitarias y de negocio en El Prat de Llobregat. Presupuesto cerrado y garantía.",
+  "heroSubtitle": "Piscinas cuidadas en El Prat de Llobregat, con presupuesto cerrado y conocimiento del delta.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En El Prat de Llobregat, en el Baix Llobregat, damos servicio tanto a chalets particulares como a piscinas comunitarias, muy habituales en las urbanizaciones de la comarca. El uso intensivo de las piscinas comunitarias en temporada alta exige un mantenimiento más frecuente y un control estricto de los parámetros del agua, mientras que en las piscinas privadas el reto suele ser distinto: mantenerlas en buen estado con visitas más espaciadas durante el resto del año.\n\nLa cercanía al Llobregat y la humedad de la zona hacen que el gresite y las juntas de piscinas antiguas se degraden con el tiempo, provocando fugas difíciles de localizar a simple vista. Usamos equipos de detección profesional para dar con el punto exacto sin necesidad de obras innecesarias.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en El Prat de Llobregat, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "El Prat de Llobregat se asienta sobre el delta del río Llobregat, junto al aeropuerto de Barcelona, en una zona baja y llana con un nivel freático muy alto y una humedad ambiental notable durante buena parte del año. Este entorno de delta condiciona de forma directa el mantenimiento de las piscinas del municipio: la humedad favorece la proliferación de algas si el cloro no se mantiene en niveles correctos, y la cercanía al mar y a la propia desembocadura añade un punto de salitre en las zonas más próximas a la costa que acelera el desgaste de elementos metálicos.\n\nEl municipio combina zonas residenciales de bloques con comunidades de vecinos y piscina compartida, junto a un tejido de negocios e industria vinculado a su proximidad con el aeropuerto y el puerto de Barcelona. Para las comunidades del Prat, el reto principal es mantener el equilibrio del agua frente a una humedad ambiental más alta que en municipios de interior, mientras que los negocios de la zona valoran especialmente una gestión ágil y presupuestos claros que no interfieran con su actividad.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto de piscinas para comunidades y negocios en El Prat de Llobregat.",
+  "processIntro": "Un proceso transparente, con presupuesto cerrado, adaptado al entorno de delta propio del municipio.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto",
+      "body": "Nos explicas el tipo de instalación y el servicio que necesitas."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita y presupuesto",
+      "body": "Evaluamos la piscina, considerando su exposición a la humedad del delta, y entregamos un presupuesto cerrado."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Aprobación",
+      "body": "Solo empezamos a trabajar cuando confirmas la propuesta."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos la intervención acordada, coordinándonos con los horarios de la comunidad o negocio."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe final",
+      "body": "Entregamos un resumen de lo realizado y quedamos disponibles para el seguimiento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en El Prat de Llobregat generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El entorno de delta y la humedad de El Prat de Llobregat generan problemas específicos en sus piscinas.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Algas favorecidas por la humedad del delta",
+      "body": "El ambiente húmedo propio de la zona facilita la proliferación de algas si el cloro baja de nivel. Mantenemos un control más estricto durante los meses cálidos."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Corrosión en instalaciones próximas a la costa",
+      "body": "Las piscinas más cercanas al litoral sufren el efecto del salitre en escaleras y equipos metálicos. Revisamos estos elementos con atención en cada visita."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Desequilibrio de pH por humedad constante",
+      "body": "La humedad ambiental elevada altera el pH del agua con más frecuencia que en zonas de interior. Realizamos controles periódicos para mantenerlo estable."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Filtros saturados por uso intensivo en comunidades densas",
+      "body": "Las zonas residenciales con más población concentran una afluencia importante en verano, saturando los filtros. Programamos contralavados frecuentes."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocimiento del entorno de delta",
+      "body": "Adaptamos el mantenimiento a la humedad y las condiciones propias de la zona del Llobregat."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Experiencia con negocios y comunidades",
+      "body": "Atendemos tanto piscinas comunitarias como instalaciones vinculadas a negocios de la zona."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Sin sorpresas, ideal para juntas de propietarios y gestores de negocio."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Técnico de referencia estable",
+      "body": "La misma persona sigue el historial de tu piscina."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Respuesta ágil ante averías",
+      "body": "Atendemos incidencias puntuales con rapidez, siempre con presupuesto previo."
     }
   ],
-  "zoneText": "Damos servicio a El Prat de Llobregat y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en El Prat de Llobregat, tanto en las zonas residenciales del delta como en el entorno próximo a la costa.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en El Prat de Llobregat?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿La humedad del delta favorece las algas en mi piscina?",
+      "a": "Sí, el ambiente húmedo propio de El Prat facilita su aparición si el cloro baja de nivel, por lo que reforzamos el control durante los meses cálidos."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿El salitre afecta a las piscinas más cercanas a la costa del Prat?",
+      "a": "Sí, en esas instalaciones revisamos con más atención escaleras y equipos metálicos por el desgaste que provoca el ambiente marino."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con negocios además de comunidades de vecinos?",
+      "a": "Sí, atendemos tanto comunidades como negocios vinculados a la actividad económica de la zona del delta."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Podéis venir con rapidez ante una avería puntual?",
+      "a": "Sí, atendemos incidencias puntuales con presupuesto cerrado previo a la intervención."
     }
   ],
-  "closingHeadline": "Tu piscina en El Prat de Llobregat, sin sorpresas",
-  "closingCta": "Si tienes una piscina en El Prat de Llobregat y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas en orden en El Prat de Llobregat",
+  "closingCta": "Solicita presupuesto para tu piscina en El Prat de Llobregat, sin compromiso."
 }

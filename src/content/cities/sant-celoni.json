@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 16860,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Sant Celoni | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Sant Celoni. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Sant Celoni y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Sant Celoni — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas de chalet y comunidad en Sant Celoni, al pie del Montseny. Presupuesto cerrado. Solicita información.",
+  "heroSubtitle": "Cuidamos tu piscina en Sant Celoni, a los pies del macizo del Montseny, con un servicio adaptado a la zona.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Sant Celoni, en pleno Vallès, el verano aprieta de verdad: temperaturas que superan con frecuencia los 32-33°C y una demanda de baño concentrada en pocos meses que pone a prueba la instalación. No es raro que la depuradora, tras años de uso, empiece a fallar justo quiere en pleno julio o agosto, cuando más se necesita. Por eso recomendamos siempre una revisión preventiva en primavera, antes de que arranque la temporada fuerte.\n\nTrabajamos tanto en piscinas particulares de las urbanizaciones periféricas como en piscinas comunitarias de las zonas más densas del municipio, con protocolos distintos según el uso: una comunitaria necesita un control más frecuente de los parámetros del agua por la normativa sanitaria y el mayor número de bañistas.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Sant Celoni, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Sant Celoni se encuentra en el Vallès Oriental, justo al pie del macizo del Montseny, una ubicación que le otorga un clima algo más fresco por las noches que el de otras zonas del Vallès, gracias a la influencia de la montaña cercana. Los veranos son calurosos durante el día pero con un descenso térmico apreciable al anochecer, mientras que los inviernos pueden ser fríos, con heladas más frecuentes que en municipios de la llanura.\n\nLa proximidad al Montseny, un espacio natural protegido con alto riesgo de incendio en verano, también influye indirectamente en el mantenimiento: en los periodos de mayor sequía y viento, es habitual que ceniza y partículas en suspensión lleguen hasta las piscinas de las urbanizaciones cercanas al parque natural. Con un buen número de viviendas unifamiliares en las zonas próximas al bosque, el mantenimiento aquí combina la atención al calor estival con una vigilancia especial de la limpieza superficial del agua.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación e invernaje para piscinas de chalet y comunidad en Sant Celoni.",
+  "processIntro": "Un proceso directo, adaptado a las viviendas cercanas al Montseny y al núcleo urbano de Sant Celoni.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas tu situación",
+      "body": "Nos explicas dónde está tu piscina en Sant Celoni y si se encuentra cerca de zona forestal."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te presentamos una propuesta detallada, sin cargos añadidos posteriores."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación de fecha",
+      "body": "Acordamos el día de la visita una vez apruebas el presupuesto."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Trabajo en la piscina",
+      "body": "Realizamos el mantenimiento o la reparación acordados con atención a la limpieza superficial del agua."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Recomendaciones de cierre",
+      "body": "Te dejamos indicaciones para mantener el agua en buen estado hasta la siguiente visita."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Sant Celoni generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La cercanía al Montseny y el contraste térmico entre el día y la noche generan problemas particulares en las piscinas de Sant Celoni.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Ceniza y partículas en épocas de sequía",
+      "body": "En los periodos de mayor riesgo de incendio, el viento puede arrastrar ceniza y partículas hasta piscinas cercanas al Montseny. Reforzamos la limpieza superficial en esas fechas."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Agua fría por el descenso térmico nocturno",
+      "body": "La proximidad a la montaña hace que las noches sean más frescas que en otras zonas del Vallès, lo que puede ralentizar el calentamiento natural del agua en primavera."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "Acumulación de hojas en entorno forestal",
+      "body": "Las viviendas cercanas al bosque reciben más restos vegetales de lo habitual. Reforzamos la limpieza de skimmers en las urbanizaciones próximas al Montseny."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
-    },
-    {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Daños por heladas más intensas que en la llanura",
+      "body": "El clima algo más frío de esta zona del Vallès Oriental exige un invernaje cuidadoso para evitar daños en tuberías y vaso."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocemos la zona del Montseny",
+      "body": "Sabemos cómo la cercanía a la montaña afecta al mantenimiento y adaptamos el servicio en consecuencia."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Atención especial en épocas de sequía",
+      "body": "Reforzamos la limpieza cuando el riesgo de incendio y el viento afectan a la calidad del agua."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuestos cerrados y claros",
+      "body": "Ofrecemos precios detallados desde el primer momento, sin sorpresas."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Servicio para chalets y comunidades",
+      "body": "Nos adaptamos tanto a piscinas privadas como comunitarias del municipio."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Trato cercano",
+      "body": "Un mismo técnico sigue el historial de tu piscina en cada visita."
     }
   ],
-  "zoneText": "Damos servicio a Sant Celoni y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Atendemos chalets, comunidades y negocios en Sant Celoni y las urbanizaciones cercanas al Montseny.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Sant Celoni?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué mi piscina recibe ceniza en verano?",
+      "a": "En los periodos de mayor riesgo de incendio forestal en el Montseny, el viento puede arrastrar ceniza y partículas hasta las piscinas de las zonas próximas al parque natural."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Hace más frío en Sant Celoni que en otras zonas del Vallès?",
+      "a": "Por la cercanía a la montaña, las noches suelen ser algo más frescas y los inviernos algo más fríos que en municipios de la llanura del Vallès."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Es necesario reforzar el invernaje por el clima de la zona?",
+      "a": "Sí, recomendamos un invernaje cuidadoso, ya que las heladas pueden ser algo más intensas que en zonas más próximas a Barcelona."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿Trabajáis con piscinas cercanas a zona forestal?",
+      "a": "Sí, es habitual que atendamos viviendas próximas al Montseny, donde reforzamos la limpieza superficial por la caída de hojas y partículas."
     }
   ],
-  "closingHeadline": "Tu piscina en Sant Celoni, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Sant Celoni y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina, cuidada al pie del Montseny",
+  "closingCta": "Escríbenos para un presupuesto cerrado de mantenimiento en Sant Celoni."
 }

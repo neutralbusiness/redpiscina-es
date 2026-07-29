@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 27850,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Martorell | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Martorell. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Martorell y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Martorell — Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y puesta a punto de piscinas para viviendas y comunidades en Martorell. Presupuesto cerrado, técnico de referencia y garantía.",
+  "heroSubtitle": "Cuidamos la piscina de tu vivienda o comunidad en Martorell durante todo el año, desde la confluencia del Llobregat hasta las urbanizaciones del Anoia.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Martorell, en el Baix Llobregat, damos servicio tanto a chalets particulares como a piscinas comunitarias, muy habituales en las urbanizaciones de la comarca. El uso intensivo de las piscinas comunitarias en temporada alta exige un mantenimiento más frecuente y un control estricto de los parámetros del agua, mientras que en las piscinas privadas el reto suele ser distinto: mantenerlas en buen estado con visitas más espaciadas durante el resto del año.\n\nLa cercanía al Llobregat y la humedad de la zona hacen que el gresite y las juntas de piscinas antiguas se degraden con el tiempo, provocando fugas difíciles de localizar a simple vista. Usamos equipos de detección profesional para dar con el punto exacto sin necesidad de obras innecesarias.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Martorell, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Martorell ocupa un punto singular del territorio: la confluencia de los ríos Llobregat y Anoia, rodeada de sierras que encajonan el valle y generan un microclima algo más húmedo que el de otras zonas del interior catalán. Esa humedad ambiental, sumada a los veranos calurosos propios del Baix Llobregat, favorece la proliferación de algas y hace que el agua de las piscinas particulares pierda claridad con más rapidez de lo que muchos propietarios esperan. En las urbanizaciones con vivienda unifamiliar que rodean el núcleo urbano y se extienden hacia Sant Esteve Sesrovires y Abrera, la piscina privada es habitual, y su mantenimiento correcto exige tener en cuenta esa combinación de calor y humedad de valle.\n\nEl carácter industrial y logístico de Martorell, con importante actividad empresarial en su entorno, convive con barrios residenciales de casas con jardín y piscina construidos en las últimas décadas. Muchas de estas piscinas fueron instaladas hace quince o veinte años y arrastran instalaciones eléctricas o de filtración que ya no cumplen los estándares actuales. Nuestro trabajo empieza siempre por entender el estado real de cada vaso y equipo antes de proponer cualquier actuación, evitando así intervenciones innecesarias y ajustando el presupuesto a lo que la piscina realmente necesita.",
+  "servicesIntro": "Ofrecemos mantenimiento periódico, reparaciones y puesta a punto de piscinas particulares y comunitarias en Martorell y su entorno.",
+  "processIntro": "Trabajamos con un proceso sencillo y transparente, pensado para que sepas en todo momento qué se va a hacer y cuánto va a costar.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos escribes o llamas",
+      "body": "Nos cuentas cómo está tu piscina en Martorell y qué necesitas: mantenimiento regular, una reparación puntual o la puesta a punto de temporada."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita técnica",
+      "body": "Un técnico se desplaza a tu vivienda o comunidad para revisar el vaso, la depuradora y los parámetros del agua, y detectar cualquier incidencia antes de presupuestar."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Propuesta sin letra pequeña",
+      "body": "Te entregamos una propuesta cerrada con el detalle de las tareas y materiales. No añadimos costes adicionales una vez aceptado el trabajo."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Luz verde por tu parte",
+      "body": "No movemos nada hasta que nos das el visto bueno. Coordinamos la fecha según tu disponibilidad y la de la comunidad si procede."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Trabajo y cierre",
+      "body": "Realizamos el servicio, dejamos el agua y los equipos en condiciones óptimas y te explicamos cualquier recomendación de cara al mantenimiento futuro."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Martorell generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La combinación de calor estival y humedad propia del valle del Llobregat en Martorell provoca averías e incidencias que se repiten cada temporada.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Agua turbia por humedad ambiental",
+      "body": "La humedad que arrastra el valle favorece el crecimiento de algas incluso con un tratamiento de cloro aparentemente correcto. Ajustamos la dosificación y el filtrado según la climatología real de cada semana."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Instalaciones eléctricas anticuadas",
+      "body": "En viviendas construidas hace más de quince años es frecuente encontrar cuadros eléctricos de la piscina sin la protección diferencial adecuada. Revisamos y, si hace falta, adaptamos la instalación a la normativa vigente."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Filtros saturados en verano",
+      "body": "El uso intensivo en los meses de calor, junto con el polvo que llega desde las zonas industriales cercanas, satura los filtros de arena más rápido de lo habitual. Programamos limpiezas de contralavado antes de que el agua pierda transparencia."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Fugas en juntas y skimmers",
+      "body": "El terreno de la zona, con cierta inestabilidad por la proximidad de los ríos, puede provocar pequeños movimientos que abren fisuras en juntas y skimmers. Las localizamos con prueba de presión antes de que se conviertan en una fuga importante."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocemos el valle del Llobregat",
+      "body": "Trabajamos habitualmente en Martorell y los municipios vecinos, así que entendemos cómo afecta la humedad de la zona al mantenimiento del agua."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Sin cargos de última hora",
+      "body": "La cifra que te damos tras la valoración es la que facturamos, sin añadidos que aparezcan a mitad de trabajo."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Un técnico que conoce tu piscina",
+      "body": "Procuramos que sea siempre la misma persona quien atienda tu instalación, para que conozca su historial y sus particularidades."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Diagnóstico antes que sustitución",
+      "body": "No proponemos cambiar equipos que aún funcionan; primero comprobamos qué falla realmente y solo actuamos donde hace falta."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Reacción rápida ante urgencias",
+      "body": "Si una avería te deja la piscina inutilizable en plena temporada, priorizamos tu visita para minimizar el tiempo sin uso."
     }
   ],
-  "zoneText": "Damos servicio a Martorell y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Martorell y en los municipios cercanos del Baix Llobregat y l'Anoia, incluyendo Sant Esteve Sesrovires, Abrera y Castellbisbal, adaptando la ruta según la ubicación de cada vivienda o comunidad.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Martorell?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué mi piscina en Martorell coge algas aunque le echo cloro con regularidad?",
+      "a": "La humedad ambiental de la zona, por la confluencia de los ríos Llobregat y Anoia, favorece el crecimiento de algas incluso con un cloro correcto si el pH o el filtrado no están bien ajustados. Revisamos ambos parámetros juntos, no solo el nivel de cloro."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "Mi piscina tiene más de quince años, ¿merece la pena repararla o es mejor renovarla?",
+      "a": "Depende del estado real del vaso y de los equipos, que es justo lo que valoramos en la primera visita. Muchas veces basta con renovar la instalación eléctrica y el sistema de filtración para alargar varios años más la vida de la piscina."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis también en comunidades de propietarios de Martorell?",
+      "a": "Sí, atendemos tanto viviendas unifamiliares como comunidades, y adaptamos los horarios de intervención a las normas de uso de cada urbanización."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Cuánto tardáis en venir si tengo una avería urgente en temporada alta?",
+      "a": "Intentamos priorizar las averías que dejan la piscina fuera de uso, normalmente con una visita en pocos días laborables, según la carga de trabajo de la zona en ese momento."
     }
   ],
-  "closingHeadline": "Tu piscina en Martorell, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Martorell y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Martorell, en buenas manos",
+  "closingCta": "Cuéntanos el estado de tu piscina en Martorell y te preparamos una valoración sin compromiso."
 }

@@ -4,9 +4,9 @@
   "province": "Lleida",
   "ccaa": "Cataluña",
   "population": 140797,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Lleida | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Lleida. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Lleida y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Lleida — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en Lleida. Presupuesto cerrado y garantía. Solicita información.",
+  "heroSubtitle": "Piscinas preparadas para el clima más extremo de Cataluña: el calor abrasador y la boira de Lleida.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Lleida, con el clima más seco y continental propio del interior catalán, el reto principal en verano es mantener el agua en condiciones pese a la fuerte radiación solar, que degrada el cloro con rapidez. Revisamos y ajustamos los sistemas de dosificación automática para que no haga falta estar pendiente del tratamiento cada dos días.\n\nMuchas piscinas de la zona, sobre todo las de construcción más antigua, tienen filtros de arena que con los años acumulan cal y pierden capacidad de filtración. La solución más duradera suele ser sustituir la arena por vidrio filtrante, que aguanta mucho mejor la dureza del agua local.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Lleida, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Lleida tiene el clima más continental de toda Cataluña, con un rango térmico anual que no tiene comparación con ninguna otra capital de la comunidad. En verano, la ciudad registra habitualmente algunas de las temperaturas más altas de España, con jornadas que superan con facilidad los 38-40°C en julio y agosto, propias de su situación en el interior del valle del Ebro, lejos de cualquier suavizante influencia marina. Para las comunidades de vecinos de barrios como Cappont o la Bordeta, esto significa una presión constante sobre la piscina comunitaria durante toda la temporada estival.\n\nEl invierno leridano es la otra cara de esta moneda: fríos intensos, heladas frecuentes y, sobre todo, la boira, la niebla persistente que puede cubrir la ciudad durante días en diciembre y enero, característica del clima de la depresión del Ebro. Aunque la boira no afecta directamente a una piscina cerrada por temporada, sí es indicativa de la humedad y las bajas temperaturas sostenidas que hacen del invernaje una fase absolutamente crítica en Lleida, mucho más que en cualquier ciudad de costa catalana.\n\nEl agua de la zona, procedente en gran parte del Segre, puede presentar variaciones de dureza según la época del año, y la combinación de calor extremo y baja humedad relativa en verano acelera tanto la evaporación como la degradación del cloro de una forma que pocas ciudades de la península experimentan con tanta intensidad. Diseñamos el mantenimiento en Lleida para este contraste tan marcado entre un verano abrasador y un invierno de niebla y hielo.",
+  "servicesIntro": "Ofrecemos mantenimiento adaptado al clima más extremo de Cataluña, entre el calor de Lleida en verano y la boira en invierno.",
+  "processIntro": "Un proceso claro, con presupuesto cerrado antes de cualquier intervención.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto inicial",
+      "body": "Nos cuentas el tipo de instalación y el uso habitual, un dato clave dado el nivel de exigencia del verano leridano."
+    },
+    {
+      "title": "Revisión técnica",
+      "body": "Comprobamos el vaso, la dureza del agua y los equipos antes de cerrar la propuesta."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te presentamos una propuesta clara y detallada, lista para la junta de propietarios o tu decisión directa."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Ejecución programada",
+      "body": "Realizamos el trabajo en la fecha acordada, coordinando con la comunidad o el negocio."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
-    },
-    {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Invernaje riguroso al cierre",
+      "body": "Aplicamos un protocolo de invernaje completo, imprescindible dado el frío y la humedad del invierno leridano."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Lleida generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El contraste extremo entre el calor del verano y el frío húmedo del invierno genera averías muy particulares en las piscinas de Lleida.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Evaporación extrema en pleno verano",
+      "body": "Las temperaturas que superan los 38-40°C en Lleida durante julio y agosto aceleran la pérdida de agua mucho más que en cualquier otra capital catalana."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Daños por heladas en piscinas mal invernadas",
+      "body": "El frío intenso del invierno leridano, acompañado de la boira característica de la depresión del Ebro, exige un invernaje mucho más riguroso que en ciudades de costa."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "Degradación acelerada del cloro por calor extremo",
+      "body": "El calor abrasador del verano en Lleida consume el cloro con una rapidez que obliga a ajustar la dosificación de forma constante."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
+      "title": "Variaciones de dureza del agua del Segre",
+      "body": "El agua de la zona puede presentar cambios de dureza según la época, lo que conviene comprobar antes de cada apertura de temporada."
     },
     {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Polvo agrícola en el filtro durante el verano",
+      "body": "El entorno agrícola de la comarca del Segrià aporta más partículas en suspensión de lo habitual en los meses de mayor actividad del campo."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Especialización en el clima más extremo de Cataluña",
+      "body": "Ajustamos el mantenimiento al contraste real entre el verano abrasador y el invierno de niebla y hielo de Lleida."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Invernaje riguroso, no simbólico",
+      "body": "Protegemos la instalación frente a un frío que en Lleida es de los más intensos de Cataluña."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Control específico frente a la evaporación extrema",
+      "body": "Ajustamos la frecuencia de revisión del nivel de agua a las temperaturas más altas de la comunidad."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Presupuestos claros para comunidades y negocios",
+      "body": "Propuestas desglosadas, fáciles de aprobar sin letra pequeña."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Conocimiento del entorno del Segrià",
+      "body": "Adaptamos el mantenimiento al polvo agrícola y a las características del agua del Segre."
     }
   ],
-  "zoneText": "Damos servicio a Lleida y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Lleida capital, incluyendo Cappont, la Bordeta, el centro histórico y las urbanizaciones cercanas, con especial atención al contraste climático entre verano e invierno.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Lleida?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué hace tanto más calor en Lleida que en Barcelona en verano?",
+      "a": "Lleida tiene el clima más continental de Cataluña, alejado de la influencia suavizante del mar, lo que provoca temperaturas de verano notablemente más altas que en cualquier ciudad de costa de la comunidad."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es realmente tan importante el invernaje en Lleida?",
+      "a": "Sí, el invierno leridano es frío y húmedo, con episodios de boira frecuentes, y un invernaje incompleto puede acabar en daños estructurales que solo se detectan en primavera."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Con qué frecuencia hay que revisar el nivel de agua en pleno verano?",
+      "a": "Dado el calor extremo de Lleida, recomendamos revisar el nivel de agua con más frecuencia que en otras ciudades catalanas, especialmente en episodios de temperaturas superiores a 38°C."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿El agua del Segre necesita un tratamiento distinto al de otras ciudades?",
+      "a": "Puede presentar variaciones de dureza según la época del año, por lo que comprobamos los parámetros antes de cada apertura de temporada para ajustar el tratamiento."
     }
   ],
-  "closingHeadline": "Tu piscina en Lleida, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Lleida y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas preparadas para el clima extremo de Lleida",
+  "closingCta": "Solicita presupuesto para tu comunidad o negocio en Lleida y te proponemos un plan adaptado tanto al calor abrasador como a la boira invernal."
 }

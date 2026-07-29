@@ -4,9 +4,9 @@
   "province": "Alicante",
   "ccaa": "Comunidad Valenciana",
   "population": 348901,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Alicante | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Alicante. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Alicante y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Alicante — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades, hoteles y negocios en Alicante. Presupuesto cerrado, factura y garantía. Contáctanos.",
+  "heroSubtitle": "Mantenimiento profesional para tu piscina comunitaria o de negocio en Alicante, frente al sol y el salitre de la Costa Blanca.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Alicante, en el Levante mediterráneo, tiene un clima cálido y seco con una de las temporadas de baño más largas de la España peninsular, que en años cálidos se extiende de abril a octubre sin necesidad de climatizar. El agua de la zona suele ser de dureza media, lo que con los años deja cal en juntas, tuberías y sistemas de cloración salina si no se hace un mantenimiento adecuado.\n\nEn las urbanizaciones de chalets tan habituales en el área, conviven piscinas de construcción reciente con otras de varias décadas que necesitan una puesta al día: nuevo revestimiento, sistema de filtración más eficiente y, cada vez más, protección adicional frente a la corrosión en las zonas más próximas a la costa.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Alicante, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Alicante goza de uno de los climas más soleados de España, con más de 300 días de sol al año y un régimen de lluvias muy escaso. Para las numerosas comunidades de propietarios, hoteles y complejos turísticos de la ciudad, esto significa piscinas en uso prácticamente todo el año, con una radiación ultravioleta constante que degrada el cloro a un ritmo mucho mayor que en climas de interior o del norte peninsular.\n\nLa condición costera de Alicante añade otro factor determinante: el salitre. En zonas como la Playa de San Juan o el Postiguet, el aerosol marino ataca con rapidez escaleras, cercados y equipos metálicos si no reciben un mantenimiento anticorrosión periódico. A esto se suma una humedad relativa alta en los meses de verano, que junto al calor favorece la proliferación de algas si el tratamiento del agua no se ajusta con frecuencia suficiente.\n\nLos inviernos en Alicante son suaves, con heladas prácticamente inexistentes, lo que permite mantener muchas piscinas operativas casi todo el año, especialmente en hoteles y clubes deportivos. Nuestro servicio se adapta a esta realidad: control químico reforzado en los meses de mayor insolación y uso, protección anticorrosión constante frente al salitre, y un mantenimiento de baja intensidad pero continuo durante el resto del año, en lugar de un invernaje tradicional como el de zonas de interior.",
+  "servicesIntro": "Ofrecemos mantenimiento integral, reparación y puesta a punto de piscinas para comunidades, hoteles y negocios en Alicante.",
+  "processIntro": "Un proceso transparente, con presupuesto cerrado antes de comenzar cualquier trabajo.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto inicial",
+      "body": "Nos cuentas el tipo de instalación en Alicante —comunidad, hotel o negocio— y qué necesitas."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Evaluamos la piscina si es necesario y te enviamos una propuesta detallada, sin cargos añadidos posteriores."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Tu confirmación",
+      "body": "Solo comenzamos a trabajar con tu aprobación, coordinando la visita con la actividad de tu instalación."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el trabajo acordado con materiales resistentes al ambiente costero y protocolos de seguridad."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe y seguimiento",
+      "body": "Entregamos un parte de las tareas realizadas y quedamos disponibles para el mantenimiento continuado."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Alicante generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El sol casi constante, el salitre y la humedad costera generan en Alicante problemas recurrentes que conviene anticipar.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Alto consumo de cloro por insolación",
+      "body": "Los más de 300 días de sol al año degradan el cloro con rapidez. Optimizamos la dosificación y recomendamos sistemas de control automático."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Corrosión por salitre costero",
+      "body": "El aerosol marino ataca escaleras y equipos metálicos en las piscinas próximas a la costa. Incluimos revisión anticorrosión periódica."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Algas por calor y humedad combinados",
+      "body": "La humedad del verano alicantino, sumada al calor, favorece la aparición de algas si el tratamiento no se refuerza en los meses críticos."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
+      "title": "Uso intensivo casi todo el año",
+      "body": "El clima suave permite el uso de la piscina fuera de la temporada estival estricta, lo que exige un mantenimiento continuado en vez de un cierre prolongado."
     },
     {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Saturación de filtros en temporada turística",
+      "body": "El pico de afluencia turística en hoteles y complejos satura los equipos de filtración sin un mantenimiento preventivo adecuado."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia en clima mediterráneo intenso",
+      "body": "Adaptamos el tratamiento a la altísima insolación y al salitre propios de la Costa Blanca."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos claros para comunidades y hoteles",
+      "body": "Entregamos propuestas detalladas y cerradas, adaptadas a cada tipo de instalación."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Protección anticorrosión constante",
+      "body": "Revisamos con especial atención los elementos metálicos expuestos al ambiente marino."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Adaptabilidad a horarios turísticos",
+      "body": "Coordinamos las visitas para minimizar el impacto en hoteles y negocios con alta afluencia."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Técnico de referencia único",
+      "body": "La misma persona sigue el historial de tu piscina durante todo el año."
     }
   ],
-  "zoneText": "Damos servicio a Alicante y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Atendemos comunidades, hoteles y negocios en toda la ciudad de Alicante, incluidas zonas como la Playa de San Juan y el Postiguet, así como municipios cercanos de la comarca.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Alicante?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué se gasta tanto cloro en las piscinas de Alicante?",
+      "a": "La altísima insolación de la Costa Blanca, con más de 300 días de sol al año, degrada el cloro con rapidez. Ajustamos la dosificación en cada visita."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Cómo protegéis las piscinas del salitre marino?",
+      "a": "Incluimos revisiones periódicas de escaleras, cercados y equipos metálicos, aplicando tratamientos anticorrosión para frenar el desgaste del aerosol marino."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Es necesario cerrar la piscina en invierno en Alicante?",
+      "a": "No siempre. El clima suave permite mantener muchas piscinas operativas fuera de temporada, especialmente en hoteles, con un mantenimiento continuado de menor intensidad."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Trabajáis con hoteles y complejos turísticos de la ciudad?",
+      "a": "Sí, adaptamos horarios y protocolos para minimizar el impacto en huéspedes y clientes durante la temporada de mayor afluencia."
     }
   ],
-  "closingHeadline": "Tu piscina en Alicante, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Alicante y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "El socio técnico para tu piscina en Alicante",
+  "closingCta": "Solicita presupuesto cerrado para el mantenimiento de tu piscina comunitaria, hotelera o de negocio en Alicante."
 }

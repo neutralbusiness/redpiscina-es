@@ -4,9 +4,9 @@
   "province": "Pontevedra",
   "ccaa": "Galicia",
   "population": 293642,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Vigo | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Vigo. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Vigo y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Vigo — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en Vigo. Presupuesto cerrado, factura y garantía. Solicita tu presupuesto.",
+  "heroSubtitle": "Piscinas en Vigo cuidadas frente a la humedad atlántica de Galicia.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Vigo, en la cornisa atlántica, tiene un clima muy distinto al del resto de España: veranos suaves, sin los picos de calor extremo de la meseta o el sur, pero con humedad e inviernos más lluviosos. La temporada de baño natural es más corta, lo que hace que cada vez más propietarios opten por una bomba de calor para poder disfrutar de la piscina con un margen más amplio, de mayo a septiembre.\n\nLa humedad constante de la zona favorece el crecimiento de algas y musgo en los bordes y la coronación de la piscina si no se hace un mantenimiento regular, incluso fuera de temporada. También es un factor a tener en cuenta en la elección de materiales para la rehabilitación, priorizando los que mejor resisten la humedad prolongada.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Vigo, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Vigo tiene un clima atlántico húmedo muy distinto al del resto de las ciudades donde trabajamos: temperaturas suaves durante buena parte del año, precipitaciones frecuentes y una humedad ambiental constante que condiciona el mantenimiento de cualquier piscina de la ciudad. A diferencia del calor seco del interior peninsular, en Vigo el reto no suele ser tanto la evaporación como el equilibrio entre la lluvia, que diluye y desestabiliza el agua tratada, y la humedad, que favorece la aparición de moho y algas en superficies poco expuestas al sol.\n\nLa temporada de baño en Vigo es más corta y menos predecible que en zonas de clima mediterráneo, con jornadas de sol intercaladas con periodos de lluvia incluso en pleno verano. Para las comunidades de vecinos con piscina compartida, esto implica un mantenimiento que no puede relajarse simplemente porque haya pasado un día nublado: la lluvia arrastra materia orgánica y reduce la concentración de cloro con rapidez, por lo que un control irregular puede dejar el agua turbia justo cuando vuelve a salir el sol y los vecinos quieren usarla.\n\nAdemás, muchas piscinas de la ciudad, especialmente las de comunidades y negocios cerca de la ría, están expuestas a cierta brisa marina que, aunque menos intensa que en zonas mediterráneas, también contribuye al desgaste de elementos metálicos con el tiempo. Nuestro trabajo en Vigo combina la atención a la humedad y la lluvia gallega con la vigilancia de esa exposición costera, ajustando cada visita a las condiciones reales de la semana en lugar de aplicar una pauta genérica pensada para climas más secos.",
+  "servicesIntro": "En Vigo ofrecemos mantenimiento, reparación y puesta a punto para comunidades, negocios y viviendas particulares.",
+  "processIntro": "Trabajamos con un proceso claro, adaptado a un clima donde la lluvia y la humedad exigen un seguimiento constante.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos explicas tu caso",
+      "body": "Nos cuentas el tipo de instalación y el estado actual del agua, especialmente si ha habido periodos recientes de lluvia intensa."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Evaluamos lo necesario y te entregamos una propuesta detallada, sin cargos añadidos posteriores."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación por tu parte",
+      "body": "El trabajo empieza únicamente cuando das tu aprobación, sin compromisos previos."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el mantenimiento o la reparación acordada, con atención a la humedad ambiental y a la exposición costera de la instalación."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Seguimiento tras la lluvia",
+      "body": "Si el periodo incluye jornadas de lluvia, ajustamos la dosificación y el filtrado para recuperar rápidamente la calidad del agua."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Vigo generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La humedad atlántica y la lluvia frecuente de Vigo provocan problemas muy distintos a los del resto de España en el mantenimiento de piscinas.",
   "commonIssues": [
     {
-      "title": "Algas y moho por la humedad constante",
-      "body": "La humedad de la zona favorece el crecimiento de algas y moho en el vaso y en la coronación si no hay un mantenimiento regular, incluso fuera de temporada. Recomendamos un tratamiento de choque antes de cada apertura."
+      "title": "Dilución del cloro tras episodios de lluvia",
+      "body": "La lluvia frecuente en Vigo reduce la concentración de desinfectante y arrastra materia orgánica al agua. Reforzamos el control químico tras cada episodio para evitar que el agua se enturbie."
     },
     {
-      "title": "Temporada de baño corta sin climatización",
-      "body": "El clima suave pero fresco de la zona acorta la temporada de baño natural. Instalamos bombas de calor dimensionadas para alargarla varios meses sin disparar el consumo eléctrico."
+      "title": "Moho y algas en zonas poco soleadas",
+      "body": "La humedad constante favorece la aparición de moho en el entorno de la piscina, especialmente en zonas con menos horas de sol directo. Aplicamos tratamientos específicos para estas superficies."
     },
     {
-      "title": "Corrosión por humedad prolongada",
-      "body": "La humedad constante, más que el calor, es el principal desgaste para los elementos metálicos de la instalación. Usamos materiales pensados para resistir la humedad todo el año."
+      "title": "Temporada de baño irregular",
+      "body": "Los cambios frecuentes entre sol y lluvia, incluso en verano, hacen que el uso de la piscina sea menos predecible. Mantenemos un control regular independientemente de si la piscina se está usando esa semana."
     },
     {
-      "title": "Filtros de arena con moho o suciedad",
-      "body": "La combinación de humedad y poco sol directo favorece la aparición de suciedad orgánica en el sistema de filtración. Revisamos y limpiamos a fondo en cada mantenimiento."
+      "title": "Corrosión moderada por brisa marina",
+      "body": "Las piscinas cercanas a la ría reciben cierta exposición a la brisa del mar, que con el tiempo desgasta elementos metálicos de baja calidad. Revisamos estos componentes con atención en revisiones periódicas."
     },
     {
-      "title": "Fugas enmascaradas por la lluvia",
-      "body": "En una zona lluviosa es más difícil detectar a simple vista una pérdida de agua real. Hacemos pruebas de presión para confirmar si existe una fuga antes de actuar."
+      "title": "Acumulación de humedad en cubiertas y equipos",
+      "body": "El ambiente húmedo de Galicia puede favorecer la corrosión y el deterioro de cubiertas y equipos técnicos si no se revisan con regularidad. Incluimos esta comprobación en el mantenimiento habitual."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Adaptación al clima atlántico",
+      "body": "Ajustamos el mantenimiento a la lluvia y la humedad constante de Vigo, en lugar de aplicar pautas pensadas para climas secos."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Atención tras episodios de lluvia",
+      "body": "Reforzamos el control químico cuando ha llovido, evitando que el agua se enturbie justo cuando vuelve a hacer sol."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Recibes una propuesta detallada antes de empezar, útil tanto para propietarios particulares como para comunidades."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Vigilancia de la exposición costera",
+      "body": "Revisamos con atención los elementos metálicos en piscinas cercanas a la ría, expuestos a la brisa marina."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Un técnico de referencia para tu piscina",
+      "body": "Mantenemos continuidad en el seguimiento para que quien te atiende conozca el historial de tu instalación."
     }
   ],
-  "zoneText": "Damos servicio a Vigo y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Cubrimos toda la ciudad de Vigo, desde las zonas próximas a la ría hasta los barrios y urbanizaciones más alejados de la costa.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Vigo?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿La lluvia frecuente de Vigo estropea el tratamiento del agua de la piscina?",
+      "a": "Puede diluir el cloro y arrastrar materia orgánica al agua. Por eso reforzamos el control químico después de periodos de lluvia intensa, para evitar que el agua se enturbie."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es normal que en Vigo aparezca moho alrededor de la piscina?",
+      "a": "Sí, la humedad ambiental de Galicia favorece su aparición, sobre todo en zonas con poca exposición al sol. Aplicamos tratamientos específicos para controlarlo."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "Con un clima tan cambiante, ¿tiene sentido un mantenimiento regular en Vigo?",
+      "a": "Sí, precisamente porque el tiempo puede cambiar de un día para otro, conviene mantener un control constante en lugar de reaccionar solo cuando el agua ya se ha enturbiado."
     },
     {
-      "q": "¿Merece la pena instalar una bomba de calor con este clima?",
-      "a": "Sí, es la forma más habitual de alargar una temporada de baño que aquí es más corta que en el resto de España. Con el dimensionado adecuado, se puede disfrutar de la piscina varios meses más al año sin disparar el consumo eléctrico."
+      "q": "¿La cercanía a la ría afecta a los equipos de la piscina?",
+      "a": "En cierta medida, la brisa marina puede acelerar el desgaste de elementos metálicos con el tiempo. Prestamos atención especial a estos componentes en las piscinas más próximas a la costa."
     }
   ],
-  "closingHeadline": "Tu piscina en Vigo, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Vigo y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Vigo, cuidada pase lo que pase con el tiempo",
+  "closingCta": "Solicita un presupuesto cerrado para tu piscina en Vigo, adaptado al clima atlántico de Galicia."
 }

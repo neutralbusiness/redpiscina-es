@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 188425,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Leganés | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Leganés. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Leganés y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Leganés — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y negocios en Leganés. Presupuesto cerrado, factura y garantía.",
+  "heroSubtitle": "Piscinas comunitarias listas para el calor seco del sur de Madrid en Leganés.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Leganés, con el calor seco y extremo del verano madrileño, el mayor reto para una piscina es mantener el agua en condiciones pese a la evaporación y al consumo acelerado de cloro por la fuerte radiación solar. Ajustamos los sistemas de dosificación automática para reducir el mantenimiento manual en los meses de más calor.\n\nLa dureza del agua en buena parte de la Comunidad de Madrid es uno de los factores que más acorta la vida útil de depuradoras y cloradores salinos si no se hace un mantenimiento adecuado. Recomendamos equipos con función de autolimpieza y un control periódico del pH para minimizar este efecto.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Leganés, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Leganés, uno de los municipios más poblados del sur de la Comunidad de Madrid, comparte el clima continental de la meseta: veranos secos y muy calurosos, con temperaturas que en julio y agosto superan con frecuencia los 35°C, e inviernos fríos con heladas habituales entre diciembre y febrero. La densidad de comunidades de vecinos en barrios como San Nicasio, Zarzaquemada o Vereda de Estudiantes hace que la piscina comunitaria sea, para muchas familias, el principal recurso de refresco durante el verano madrileño.\n\nEsta alta concentración de usuarios por instalación, unida a la sequedad ambiental típica del clima continental, provoca una evaporación notable y un consumo de cloro más alto de lo habitual en los fines de semana de mayor afluencia. El invierno, por su parte, exige un invernaje riguroso: las heladas en Leganés no son un fenómeno raro, y una piscina mal protegida puede sufrir daños estructurales que solo se hacen visibles en la puesta a punto de primavera, generando un gasto imprevisto para la comunidad.",
+  "servicesIntro": "Ofrecemos mantenimiento e invernaje adaptado al clima continental y al uso intensivo de las piscinas comunitarias de Leganés.",
+  "processIntro": "Un proceso claro, con presupuesto cerrado antes de cualquier intervención.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto con la comunidad",
+      "body": "Nos cuentas el tipo de instalación y el número aproximado de usuarios habituales en Leganés."
+    },
+    {
+      "title": "Revisión técnica",
+      "body": "Comprobamos el estado del vaso, el filtro y la bomba antes de preparar la propuesta."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te enviamos una propuesta clara y detallada, lista para llevar a junta de propietarios."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Ejecución acordada",
+      "body": "Realizamos el trabajo en la fecha pactada, coordinando horarios con la comunidad."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
-    },
-    {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe y seguimiento",
+      "body": "Entregamos un documento con los parámetros del agua y proponemos el siguiente paso de mantenimiento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Leganés generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El contraste entre el calor seco del verano y las heladas del invierno deja averías recurrentes en las comunidades de Leganés.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Evaporación rápida por sequedad ambiental",
+      "body": "El aire seco propio del clima continental de Leganés hace bajar el nivel del vaso con rapidez en pleno verano, descompensando el skimmer."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Fisuras por heladas en piscinas mal invernadas",
+      "body": "Las heladas del sur de Madrid dañan tuberías y boquillas cuando el invernaje no se ha hecho a tiempo o de forma completa."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Cloro insuficiente en fines de semana",
+      "body": "El uso masivo de sábado y domingo en las comunidades de Zarzaquemada o San Nicasio agota el cloro libre antes de lo previsto."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Filtros saturados por polvo ambiental",
+      "body": "El polvo en suspensión, habitual en el entorno urbano del sur de Madrid, obliga a limpiezas de filtro más frecuentes en temporada alta."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Presupuestos pensados para juntas de vecinos",
+      "body": "Entregamos propuestas claras y desglosadas, fáciles de votar sin necesidad de aclaraciones posteriores."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Conocimiento del clima continental madrileño",
+      "body": "Ajustamos el calendario de tratamiento e invernaje a la realidad de Leganés, no a un genérico de manual."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Coordinación con administradores de fincas",
+      "body": "Facilitamos toda la documentación necesaria para justificar el gasto ante la comunidad."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Un técnico de referencia para tu instalación",
+      "body": "La misma persona da seguimiento a tu piscina, lo que evita explicaciones repetidas cada visita."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Respuesta ágil en el sur de Madrid",
+      "body": "Nuestra logística cubre Leganés y los municipios colindantes con tiempos de respuesta cortos."
     }
   ],
-  "zoneText": "Damos servicio a Leganés y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades y negocios en todo Leganés, incluyendo San Nicasio, Zarzaquemada, Vereda de Estudiantes y el centro urbano, con desplazamientos frecuentes por la A-42 y la M-425.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Leganés?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Con qué antelación conviene reservar la puesta a punto de primavera en Leganés?",
+      "a": "Recomendamos contactar en marzo, antes de que suba la demanda, para garantizar que la piscina esté lista antes del repunte de temperaturas de mayo."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es necesario un invernaje completo si el invierno en Leganés no parece extremo?",
+      "a": "Sí. Las heladas nocturnas del sur de Madrid son suficientes para dañar tuberías y boquillas si el vaso no está bien protegido, aunque las temperaturas diurnas parezcan suaves."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Podéis atender una incidencia urgente en fin de semana?",
+      "a": "Sí, ofrecemos respuesta prioritaria para averías que afecten al uso de la piscina en los momentos de mayor afluencia."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Trabajáis con comunidades de cualquier tamaño en Leganés?",
+      "a": "Sí, desde un bloque con piscina compartida hasta grandes urbanizaciones del municipio."
     }
   ],
   "closingHeadline": "Tu piscina en Leganés, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Leganés y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingCta": "Escríbenos y te preparamos un presupuesto cerrado para tu comunidad o negocio en Leganés, adaptado al clima seco y a las heladas del sur de Madrid."
 }

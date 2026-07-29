@@ -4,9 +4,9 @@
   "province": "Santa Cruz de Tenerife",
   "ccaa": "Canarias",
   "population": 211359,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Santa Cruz de Tenerife | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Santa Cruz de Tenerife. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Santa Cruz de Tenerife y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Santa Cruz de Tenerife",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades, hoteles y negocios en Santa Cruz de Tenerife. Presupuesto cerrado todo el año.",
+  "heroSubtitle": "Cuidamos tu piscina en Santa Cruz de Tenerife durante los doce meses del año, con el clima subtropical canario como aliado.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Santa Cruz de Tenerife, en Canarias, disfruta de un clima subtropical prácticamente constante durante todo el año, lo que hace que las piscinas estén en uso permanente, sin una temporada de cierre real como en el resto de España. Esto cambia por completo el enfoque del mantenimiento: no hablamos de apertura y cierre de temporada, sino de un cuidado continuo durante los doce meses.\n\nLa proximidad al mar y la calima ocasional son dos factores propios de la zona que afectan a la instalación: la humedad salina acelera la corrosión de elementos metálicos, y el polvo en suspensión de la calima puede ensuciar el agua con rapidez tras estos episodios. Ajustamos el tratamiento del agua y revisamos los filtros con más frecuencia cuando se produce este fenómeno.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Santa Cruz de Tenerife, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Santa Cruz de Tenerife disfruta de un clima subtropical prácticamente sin estaciones marcadas, con temperaturas suaves durante todo el año que rara vez bajan de los 15°C en invierno ni superan de forma sostenida los 30°C en verano. Esta estabilidad térmica, poco habitual en el resto de España, tiene una consecuencia directa: las piscinas de la ciudad, ya sean comunitarias, de hotel o de negocio, se mantienen operativas y en uso durante todo el año, sin el cierre estacional que sí existe en la península.\n\nEse uso continuo cambia por completo la lógica del mantenimiento. No existe una temporada de invernaje como tal, sino un cuidado constante que debe adaptarse a variaciones puntuales, como los episodios de calima procedente del Sahara, frecuentes especialmente entre finales de invierno y primavera, que depositan polvo mineral en suspensión sobre el agua y pueden alterar su claridad en cuestión de horas. Para hoteles y comunidades con alta afluencia turística, mantener el agua impecable durante estos episodios es clave para la experiencia de huéspedes y residentes.\n\nOtro factor propio de la isla es la dureza del agua, condicionada por el origen volcánico del terreno y por el suministro hídrico local, que puede favorecer la formación de cal e incrustaciones en tuberías y elementos de filtración si no se controla adecuadamente. En una ciudad con un sector hotelero y de negocios muy activo, donde la piscina forma parte de la oferta durante los doce meses, un mantenimiento técnico riguroso y continuo, y no estacional, es la base de un servicio realmente fiable.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y tratamiento de agua para piscinas de uso continuo en comunidades, hoteles y negocios de Santa Cruz de Tenerife.",
+  "processIntro": "Un proceso pensado para instalaciones que funcionan los doce meses del año, sin temporada de cierre.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas tu caso",
+      "body": "Nos explicas el tipo de instalación y su uso, habitualmente continuo durante todo el año en Santa Cruz de Tenerife."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Preparamos una propuesta detallada, ya sea para un mantenimiento puntual o para un plan anual continuo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación",
+      "body": "Iniciamos el trabajo cuando das tu aprobación, coordinando la intervención con tu actividad."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el mantenimiento o la reparación con especial atención a la calima y a la dureza del agua propias de la isla."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Seguimiento continuo",
+      "body": "Establecemos un calendario de revisiones adaptado al uso permanente de tu piscina."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Santa Cruz de Tenerife generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El clima subtropical, la calima sahariana y la dureza del agua generan problemas muy específicos en las piscinas de Santa Cruz de Tenerife.",
   "commonIssues": [
     {
-      "title": "Uso continuo durante todo el año",
-      "body": "Sin temporada de cierre, la instalación trabaja los doce meses. Ajustamos el plan de mantenimiento a un uso constante, no a una temporada concreta."
+      "title": "Agua turbia por episodios de calima",
+      "body": "El polvo en suspensión procedente del Sahara puede enturbiar el agua en pocas horas durante los episodios de calima. Aplicamos tratamientos específicos para recuperar la claridad con rapidez."
     },
     {
-      "title": "Corrosión por la humedad salina marina",
-      "body": "La proximidad al mar acelera la oxidación de escaleras, barandillas y carcasas metálicas. Usamos materiales con mayor resistencia a la corrosión."
+      "title": "Incrustaciones de cal por dureza del agua",
+      "body": "La dureza propia del agua local favorece la formación de cal en tuberías y filtros. Realizamos revisiones periódicas para prevenir obstrucciones y alargar la vida útil de los equipos."
     },
     {
-      "title": "Agua turbia tras episodios de calima",
-      "body": "El polvo en suspensión de la calima puede ensuciar el agua con rapidez. Revisamos el filtro y ajustamos el tratamiento tras estos episodios."
+      "title": "Desgaste por uso ininterrumpido",
+      "body": "Al no existir temporada de cierre, los equipos de filtración trabajan todo el año sin descanso. Programamos revisiones preventivas más frecuentes que en zonas con temporada estacional."
     },
     {
-      "title": "Depuradoras con desgaste por uso continuo",
-      "body": "Al no haber pausa de temporada, los equipos acumulan más horas de funcionamiento al año que en el resto de España. Recomendamos revisiones más frecuentes."
+      "title": "Alta demanda en instalaciones hoteleras",
+      "body": "El uso turístico constante de muchas piscinas de la ciudad exige una calidad de agua impecable en todo momento. Priorizamos revisiones frecuentes en instalaciones hoteleras."
     },
     {
-      "title": "Filtros de arena con menor rendimiento",
-      "body": "El uso constante compacta antes el lecho filtrante. Valoramos la sustitución por vidrio filtrante cuando el rendimiento baja de forma notable."
+      "title": "Corrosión por ambiente marino y volcánico",
+      "body": "La combinación de salitre y minerales propios del entorno acelera el desgaste de ciertos elementos metálicos. Los revisamos con regularidad."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Especialistas en uso continuo todo el año",
+      "body": "Sabemos gestionar piscinas que no cierran en ningún momento del año, adaptando el mantenimiento a esa realidad."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Experiencia con episodios de calima",
+      "body": "Actuamos con rapidez cuando el polvo sahariano afecta a la calidad del agua."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Control de la dureza del agua canaria",
+      "body": "Prevenimos incrustaciones de cal propias del agua local con revisiones periódicas de tuberías y filtros."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Atención al sector hotelero",
+      "body": "Coordinamos las intervenciones para minimizar cualquier impacto en la experiencia de los huéspedes."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Presupuestos cerrados, sin sorpresas",
+      "body": "Ofrecemos propuestas claras, ya sea para un servicio puntual o para un plan de mantenimiento anual."
     }
   ],
-  "zoneText": "Damos servicio a Santa Cruz de Tenerife y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades, hoteles y negocios en toda la ciudad de Santa Cruz de Tenerife y su área metropolitana.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Santa Cruz de Tenerife?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Es cierto que las piscinas en Santa Cruz de Tenerife se usan todo el año?",
+      "a": "Sí, el clima subtropical de la isla mantiene temperaturas suaves durante los doce meses, por lo que las piscinas comunitarias, de hotel y de negocio permanecen operativas todo el año, sin el cierre estacional habitual en la península."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Qué es la calima y cómo afecta a mi piscina?",
+      "a": "La calima es un fenómeno meteorológico con origen en el desierto del Sahara que trae polvo mineral en suspensión, frecuente sobre todo entre finales de invierno y primavera. Puede enturbiar el agua de la piscina en pocas horas, por lo que aplicamos tratamientos específicos cuando ocurre."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿El agua de Tenerife es especialmente dura?",
+      "a": "Sí, por el origen volcánico de la isla y el suministro hídrico local, el agua tiende a ser dura, lo que puede favorecer incrustaciones de cal en tuberías y filtros si no se controla."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
-    },
-    {
-      "q": "¿Hay que cerrar la piscina en algún momento del año?",
-      "a": "No, con el clima de las islas la mayoría de piscinas están en uso todo el año. El mantenimiento se planifica de forma continua, sin una temporada de cierre como en el resto de España."
+      "q": "¿Trabajáis con hoteles que necesitan la piscina siempre en perfecto estado?",
+      "a": "Sí, es una parte importante de nuestro trabajo en la ciudad, con revisiones frecuentes pensadas para garantizar una calidad de agua constante ante el uso turístico continuo."
     }
   ],
-  "closingHeadline": "Tu piscina en Santa Cruz de Tenerife, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Santa Cruz de Tenerife y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina, a punto los doce meses del año",
+  "closingCta": "Contáctanos para un presupuesto cerrado de mantenimiento continuo en Santa Cruz de Tenerife."
 }

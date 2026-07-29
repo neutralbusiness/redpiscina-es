@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 15509,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Montornès del Vallès | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Montornès del Vallès. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Montornès del Vallès y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Montornès del Vallès — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas en Montornès del Vallès. Presupuesto cerrado, garantía y técnico de confianza en cada visita.",
+  "heroSubtitle": "Cuidamos tu piscina en Montornès del Vallès, junto al río Congost, durante todo el año.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Montornès del Vallès, en pleno Vallès, el verano aprieta de verdad: temperaturas que superan con frecuencia los 32-33°C y una demanda de baño concentrada en pocos meses que pone a prueba la instalación. No es raro que la depuradora, tras años de uso, empiece a fallar justo quiere en pleno julio o agosto, cuando más se necesita. Por eso recomendamos siempre una revisión preventiva en primavera, antes de que arranque la temporada fuerte.\n\nTrabajamos tanto en piscinas particulares de las urbanizaciones periféricas como en piscinas comunitarias de las zonas más densas del municipio, con protocolos distintos según el uso: una comunitaria necesita un control más frecuente de los parámetros del agua por la normativa sanitaria y el mayor número de bañistas.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Montornès del Vallès, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Montornès del Vallès se sitúa en el Vallès Oriental, atravesado por el río Congost, con un clima de interior marcado por veranos calurosos y secos e inviernos con heladas ocasionales que sorprenden por su intensidad a quienes vienen de zonas costeras cercanas. La proximidad del aeropuerto de Barcelona-El Prat y de importantes polígonos industriales convive con barrios residenciales donde la vivienda unifamiliar con piscina es habitual, sobre todo en las zonas más alejadas del centro urbano.\n\nEn estas viviendas, el reto principal del mantenimiento suele ser doble: por un lado, el calor seco del verano acelera la evaporación y la degradación del cloro con rapidez; por otro, la actividad industrial y de tráfico de la zona genera algo más de polvo en suspensión que en municipios puramente residenciales, lo que se traduce en filtros que se ensucian antes de lo habitual. Conocer estas dos particularidades es clave para ajustar correctamente el mantenimiento en Montornès.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparaciones y puesta a punto de piscinas particulares en Montornès del Vallès.",
+  "processIntro": "Nuestro proceso está pensado para que tengas control total sobre las tareas y el coste de cada intervención.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Primer contacto",
+      "body": "Nos cuentas el estado de tu piscina en Montornès del Vallès y qué necesitas, y valoramos si conviene una visita técnica previa."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita técnica a domicilio",
+      "body": "Revisamos el vaso, la depuradora y los principales parámetros del agua en la propia instalación."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Propuesta cerrada por escrito",
+      "body": "Te entregamos una propuesta con el detalle de tareas y materiales, sin costes añadidos después."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Confirmas y coordinamos fecha",
+      "body": "Empezamos a trabajar únicamente cuando confirmas el presupuesto, ajustando el día a tu disponibilidad."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Servicio y entrega final",
+      "body": "Realizamos el servicio acordado y te dejamos indicaciones para mantener el agua en buenas condiciones."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Montornès del Vallès generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El calor seco del interior del Vallès Oriental y el polvo del entorno industrial provocan en Montornès problemas específicos en las piscinas.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Evaporación por el calor del aeropuerto y polígonos",
+      "body": "El calor seco propio del interior del Vallès hace bajar el nivel del agua con rapidez en los meses centrales del verano, lo que puede dejar la bomba trabajando en vacío si no se controla."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Filtros sucios por polvo industrial",
+      "body": "La proximidad de polígonos y vías de tráfico intenso genera algo más de polvo en suspensión que en zonas puramente residenciales, saturando los filtros antes de lo esperado."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "El cloro se degrada con el sol directo",
+      "body": "La fuerte insolación directa de los veranos de interior consume el cloro más rápido de lo habitual. Revisamos la dosis semana a semana según la previsión de calor."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
-    },
-    {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Frío invernal que puede dañar tuberías",
+      "body": "Aunque menos intensas que en zonas de sierra, las heladas de interior pueden dañar tuberías si el invernaje no es correcto. Aplicamos un protocolo adaptado a estas temperaturas."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocemos el clima de interior del Vallès",
+      "body": "Ajustamos el mantenimiento a las particularidades de calor seco y polvo ambiental de la zona de Montornès."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "El precio que ves es el que pagas",
+      "body": "La cifra acordada tras la visita técnica se mantiene igual hasta el final del trabajo."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Comunidades y viviendas unifamiliares",
+      "body": "Trabajamos con particulares y comunidades de propietarios en Montornès del Vallès."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "No cambiamos equipos sin necesidad",
+      "body": "No proponemos sustituir equipos que aún pueden repararse; primero valoramos el estado real de cada componente."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Disponibles tras cada visita",
+      "body": "Quedamos disponibles para resolver dudas sobre el mantenimiento continuado de tu piscina."
     }
   ],
-  "zoneText": "Damos servicio a Montornès del Vallès y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Montornès del Vallès y en los municipios cercanos del Vallès Oriental, incluyendo las zonas próximas al río Congost.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Montornès del Vallès?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué mi piscina en Montornès pierde tanta agua en verano?",
+      "a": "El calor seco propio del interior del Vallès Oriental acelera la evaporación en los meses centrales del verano. Aconsejamos revisar el nivel del agua con regularidad durante las olas de calor."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿El polvo de los polígonos cercanos afecta a mi piscina?",
+      "a": "Puede acumularse algo más de polvo en el filtro que en zonas puramente residenciales, dada la cercanía del aeropuerto y los polígonos. Recomendamos limpiezas de filtro algo más frecuentes en estas viviendas."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con comunidades de vecinos en Montornès del Vallès?",
+      "a": "Sí, atendemos tanto viviendas unifamiliares como comunidades, adaptando presupuesto y horarios a cada caso."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿Hace falta invernar la piscina en esta zona?",
+      "a": "Sí, aunque las heladas de interior en Montornès son menos severas que en zonas de sierra, siguen pudiendo dañar tuberías sin un invernaje adecuado antes del frío."
     }
   ],
-  "closingHeadline": "Tu piscina en Montornès del Vallès, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Montornès del Vallès y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscina cuidada todo el año en Montornès del Vallès",
+  "closingCta": "Escríbenos y te preparamos un presupuesto cerrado para tu piscina en Montornès del Vallès."
 }

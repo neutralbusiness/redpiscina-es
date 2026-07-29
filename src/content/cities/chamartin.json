@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 140000,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Chamartín | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Chamartín. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Chamartín y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Chamartín, Madrid",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades, oficinas y viviendas en el distrito de Chamartín, Madrid. Presupuesto cerrado.",
+  "heroSubtitle": "Piscinas cuidadas en Chamartín, el distrito residencial y de negocios de Madrid, con presupuesto cerrado.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Chamartín, en el área metropolitana de Madrid, tiene un clima continental marcado: veranos muy calurosos y secos, con temperaturas que superan con frecuencia los 35°C en julio y agosto, e inviernos fríos que exigen un buen invernaje de la instalación. Esa amplitud térmica desgasta los equipos más que en zonas costeras, y el agua de la red, de dureza considerable en buena parte de la Comunidad de Madrid, deja cal con rapidez en tuberías, juntas de gresite y células de cloradores salinos.\n\nEn las urbanizaciones de chalets y adosados tan habituales en la zona, es frecuente encontrar piscinas de los años 80 y 90 que necesitan una puesta al día completa: nuevo revestimiento, depuradora más eficiente y, cada vez más, una bomba de calor para alargar la temporada de baño más allá de septiembre.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Chamartín, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Chamartín es uno de los distritos más consolidados de Madrid, con un carácter marcadamente residencial y de oficinas, donde conviven comunidades de edificios de nivel alto con zonas de chalets y torres que cuentan con piscina propia o comunitaria, especialmente en el entorno del Paseo de la Castellana y hacia El Viso. El clima de Madrid capital, continental y seco, se deja sentir con fuerza en las piscinas del distrito: veranos con jornadas superiores a 35°C que aceleran la evaporación y el consumo de cloro, e inviernos con heladas frecuentes que exigen un invernaje bien ejecutado para no dañar la instalación entre diciembre y febrero.\n\nPor su perfil, en Chamartín es habitual encontrar tanto piscinas de comunidades de propietarios de edificios de oficinas y residencial de alto standing, como piscinas privadas en las zonas de vivienda unifamiliar de El Viso o Nueva España. Para las primeras, la exigencia pasa por presupuestos claros y documentados que faciliten la aprobación en junta; para las segundas, el reto principal es sostener la calidad del agua durante el intenso calor estival madrileño y proteger bien el vaso durante los meses fríos, cuando muchas de estas viviendas quedan sin uso.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto de piscinas para comunidades, negocios y viviendas del distrito de Chamartín.",
+  "processIntro": "Un proceso claro y con presupuesto cerrado, adaptado a comunidades y negocios que necesitan gestionar bien cada gasto.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto",
+      "body": "Nos explicas el tipo de instalación —comunidad, oficina o vivienda— y el servicio que necesitas."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Evaluamos la piscina y te entregamos una propuesta detallada, sin costes ocultos."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación",
+      "body": "El trabajo arranca solo cuando das tu aprobación al presupuesto."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución",
+      "body": "Realizamos el servicio coordinándonos con los horarios de la comunidad o el negocio."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe de cierre",
+      "body": "Entregamos un parte con lo realizado y quedamos disponibles para próximas revisiones."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Chamartín generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El clima continental de Madrid y el perfil residencial de alto nivel de Chamartín generan averías recurrentes en sus piscinas.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Consumo elevado de cloro en verano",
+      "body": "Las altas temperaturas y la fuerte radiación solar de julio y agosto degradan el cloro con rapidez. Optimizamos la dosificación para controlar el gasto sin perder calidad del agua."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Roturas por heladas invernales",
+      "body": "Las noches frías de Madrid en diciembre y enero dañan tuberías mal protegidas. Aplicamos un invernaje completo para evitar reparaciones costosas en primavera."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Exigencia de imagen en edificios de oficinas",
+      "body": "En los edificios corporativos del distrito, cualquier incidencia visible en la piscina afecta a la imagen del negocio. Priorizamos revisiones preventivas frecuentes."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Piscinas privadas sin uso en temporada baja",
+      "body": "Muchas viviendas de El Viso y Nueva España quedan sin actividad en invierno, lo que exige un mantenimiento mínimo programado para evitar sorpresas al abrir en primavera."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Presupuestos listos para juntas de propietarios",
+      "body": "Documentación clara y desglosada, fácil de aprobar en comunidades de alto nivel."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Discreción en entornos corporativos",
+      "body": "Coordinamos las visitas para no interferir con la actividad de oficinas y negocios del distrito."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Conocimiento del clima madrileño",
+      "body": "Ajustamos el mantenimiento a los extremos de calor y frío propios de Madrid capital."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Técnico de referencia fijo",
+      "body": "La misma persona conoce el historial de tu piscina en cada visita."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Logística eficiente por la Castellana",
+      "body": "Planificamos rutas que nos permiten ser puntuales pese al tráfico del distrito."
     }
   ],
-  "zoneText": "Damos servicio a Chamartín y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en todo el distrito de Chamartín, desde el entorno de la Castellana hasta las zonas de El Viso y Nueva España.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Chamartín?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Adaptáis el servicio a comunidades de edificios de oficinas con piscina?",
+      "a": "Sí, coordinamos las visitas con la actividad del edificio para minimizar cualquier interferencia y priorizamos la imagen impecable de la instalación."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es necesario invernar la piscina en Chamartín?",
+      "a": "Sí, las heladas de diciembre y enero en Madrid son frecuentes y pueden dañar tuberías y equipos si no se protegen adecuadamente antes del frío."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con piscinas privadas de vivienda unifamiliar en El Viso?",
+      "a": "Sí, es un tipo de instalación habitual en esa zona del distrito y contamos con experiencia en su mantenimiento."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Podéis venir fuera de horario laboral para no molestar en un edificio de oficinas?",
+      "a": "Sí, adaptamos los horarios de intervención a las necesidades de cada comunidad o negocio del distrito."
     }
   ],
-  "closingHeadline": "Tu piscina en Chamartín, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Chamartín y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas a la altura de Chamartín",
+  "closingCta": "Solicita presupuesto para tu piscina en Chamartín, Madrid, sin compromiso."
 }

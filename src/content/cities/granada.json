@@ -4,9 +4,9 @@
   "province": "Granada",
   "ccaa": "Andalucía",
   "population": 233532,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Granada | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Granada. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Granada y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Granada — Red Piscina",
+  "metaDescription": "Mantenimiento, reparación y puesta a punto de piscinas para comunidades y negocios en Granada. Presupuesto cerrado y garantía.",
+  "heroSubtitle": "Piscinas listas para los veranos de más de 40°C y los inviernos fríos de Granada.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,95 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Granada, con veranos muy largos y extremadamente calurosos, la clave del mantenimiento de una piscina es anticiparse: revisar la depuradora en primavera, antes de que el uso intensivo de julio y agosto la ponga a prueba. Es habitual que las averías aparezcan justo en pleno verano, cuando la instalación lleva semanas trabajando a máximo rendimiento.\n\nEl calor extremo también acelera la evaporación, así que conviene distinguir bien una pérdida de agua normal de una fuga real. Hacemos pruebas de presión y, si hace falta, detección con gas trazador para localizar el punto exacto sin necesidad de vaciar la piscina.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Granada, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Granada tiene uno de los climas más extremos de Andalucía por su posición entre la Vega y Sierra Nevada: veranos secos y muy calurosos, con temperaturas que superan con facilidad los 38-40°C en julio y agosto, e inviernos claramente fríos para tratarse de una capital andaluza, con heladas habituales entre diciembre y febrero por la influencia de la cercanía a la montaña. Esta amplitud térmica tan marcada exige un enfoque de mantenimiento distinto al de una ciudad costera de la misma comunidad autónoma.\n\nEn verano, comunidades de zonas como el Zaidín, Chana o Ronda tienen piscinas sometidas a una evaporación intensa y a una degradación acelerada del cloro por la fuerte radiación solar, característica de un clima con muy poca nubosidad estival. El agua de Granada, además, suele presentar cierta dureza, algo habitual en la cuenca del Genil, lo que favorece la formación de cal en boquillas, escaleras y en el propio sistema de filtración si no se controla la alcalinidad de forma regular.\n\nEl invierno granadino, con noches que bajan de cero grados con frecuencia, especialmente en las zonas más elevadas del área metropolitana o en urbanizaciones cercanas a la Vega, hace del invernaje una fase tan importante como la del mantenimiento estival. No es raro encontrar piscinas de comunidades que sufren fisuras por hielo cuando el invernaje se ha hecho de forma incompleta, algo que en ciudades de costa andaluzas apenas se plantea. Diseñamos nuestro calendario de intervenciones en Granada teniendo en cuenta ambos extremos del año, no solo el verano.",
+  "servicesIntro": "Cubrimos mantenimiento, tratamiento del agua dura, reparaciones e invernaje adaptado al clima continental de Granada.",
+  "processIntro": "Un proceso ordenado, con presupuesto cerrado antes de cualquier intervención.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto inicial",
+      "body": "Nos cuentas el tipo de instalación y su ubicación en la ciudad, un dato relevante por la variabilidad térmica entre zonas de Granada."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Revisión técnica",
+      "body": "Comprobamos el estado del vaso, la dureza del agua y los equipos antes de cerrar la propuesta."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Presupuesto detallado",
+      "body": "Te presentamos una propuesta cerrada y clara, sin ambigüedades, lista para la junta de propietarios o para tu decisión directa."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución programada",
+      "body": "Realizamos el trabajo en la fecha acordada, coordinando con la comunidad o el negocio para minimizar molestias."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe y seguimiento",
+      "body": "Entregamos un documento con los parámetros del agua y las actuaciones realizadas, y proponemos el siguiente paso de mantenimiento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Granada generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La combinación de veranos abrasadores e inviernos fríos genera averías muy particulares en las piscinas de Granada.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Cal en boquillas y escaleras por dureza del agua",
+      "body": "La dureza del agua de la zona favorece los depósitos calcáreos, que reducen el caudal de las boquillas y dejan marcas blancas en escaleras y gresite si no se corrige el equilibrio químico."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Daños por heladas en piscinas mal invernadas",
+      "body": "Las noches frías del invierno granadino, más intensas que en cualquier capital de costa andaluza, provocan fisuras en tuberías cuando el invernaje no se ha hecho a fondo."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "Evaporación extrema en pleno julio y agosto",
+      "body": "La sequedad ambiental y las altas temperaturas de la Vega de Granada aceleran la pérdida de agua, obligando a un control de nivel más frecuente del habitual."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
+      "title": "Degradación rápida del cloro por radiación solar",
+      "body": "La intensa insolación estival, típica de un clima con muy pocos días nublados en verano, consume el cloro con rapidez y exige ajustar la dosificación o valorar estabilizadores."
     },
     {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Cambios bruscos de pH tras tormentas de otoño",
+      "body": "Las lluvias de septiembre y octubre, a veces intensas, arrastran polvo y materia orgánica que desestabilizan el pH en pocas horas."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocimiento del clima continental granadino",
+      "body": "Ajustamos el mantenimiento a la amplitud térmica real de Granada, no a un protocolo genérico de costa."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Tratamiento específico para agua dura",
+      "body": "Aplicamos correctores de dureza y alcalinidad pensados para evitar la formación de cal en tus instalaciones."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Invernaje serio, no simbólico",
+      "body": "Protegemos tuberías y vaso frente a heladas reales, no ante un riesgo teórico."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Presupuestos claros para comunidades",
+      "body": "Facilitamos la toma de decisiones en junta con propuestas desglosadas."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de toda el área metropolitana",
+      "body": "Atendemos el centro, la Vega y las urbanizaciones periféricas de Granada."
     }
   ],
-  "zoneText": "Damos servicio a Granada y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Granada capital y su área metropolitana, incluyendo Zaidín, Chana, Ronda y las urbanizaciones de la Vega, con especial atención a las diferencias climáticas entre el centro y las zonas más altas.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Granada?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué mi piscina en Granada acumula cal aunque el cloro esté bien?",
+      "a": "La dureza del agua de la zona no depende del cloro, sino de la alcalinidad y el calcio disuelto. Corregimos ese equilibrio específicamente para reducir los depósitos calcáreos."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es realmente necesario invernar la piscina en una ciudad andaluza como Granada?",
+      "a": "Sí, y mucho más que en ciudades de costa de la misma comunidad. Las heladas invernales en Granada son frecuentes y pueden dañar seriamente una instalación sin proteger."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Con qué antelación debo pedir la puesta a punto de primavera?",
+      "a": "Recomendamos contactar a finales de marzo, antes del repunte de temperaturas de mayo, para tener tiempo de resolver cualquier incidencia detectada en la revisión."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿El calor extremo de julio y agosto exige más visitas de mantenimiento?",
+      "a": "En la mayoría de instalaciones sí. La evaporación y la degradación del cloro se aceleran tanto que muchas comunidades pasan a un ritmo de visitas más frecuente durante esos dos meses."
     }
   ],
-  "closingHeadline": "Tu piscina en Granada, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Granada y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas preparadas para el clima extremo de Granada",
+  "closingCta": "Solicita presupuesto para tu comunidad o negocio en Granada y te proponemos un plan adaptado tanto al calor de julio como a las heladas de enero."
 }

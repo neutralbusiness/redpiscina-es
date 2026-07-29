@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 10877,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Sant Andreu de Llavaneres | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Sant Andreu de Llavaneres. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Sant Andreu de Llavaneres y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Sant Andreu de Llavaneres",
+  "metaDescription": "Mantenimiento y reparación de piscinas de chalet en Sant Andreu de Llavaneres, Maresme. Presupuesto cerrado, sin sorpresas. Infórmate ahora.",
+  "heroSubtitle": "Cuidamos la piscina de tu chalet en Sant Andreu de Llavaneres, en las colinas del Maresme frente al mar.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Sant Andreu de Llavaneres, en plena comarca del Maresme, combina el clima suave de la costa catalana con una alta densidad de viviendas unifamiliares con piscina, sobre todo en las zonas más alejadas del núcleo urbano. La proximidad al mar es una ventaja para el clima, pero también un desafío técnico: la brisa marina cargada de sal acelera la corrosión de escaleras, barandillas y carcasas metálicas de las depuradoras peor protegidas. En las viviendas más próximas al litoral prestamos especial atención a estos elementos en cada revisión.\n\nEl verano en el Maresme es largo y húmedo, lo que exige un tratamiento del agua constante para evitar algas y turbidez. Muchas piscinas de la zona, construidas hace décadas, siguen teniendo gresite y depuradoras poco eficientes: renovar el sistema de filtración con una bomba de velocidad variable suele ser la mejora que más se nota, tanto en la factura eléctrica como en la calidad del agua.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Sant Andreu de Llavaneres, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Sant Andreu de Llavaneres, en la comarca del Maresme, se extiende entre la costa y las primeras estribaciones de la sierra litoral catalana, con un urbanismo dominado por la vivienda unifamiliar en zonas elevadas y arboladas. Esta combinación de altitud moderada y proximidad al mar genera un microclima particular: veranos cálidos suavizados por la brisa marina durante el día, pero con una humedad ambiental notable que se deja sentir en el mantenimiento del agua.\n\nLa alta proporción de chalets con piscina propia en las zonas más elevadas del municipio implica un mantenimiento mayoritariamente privado y personalizado, muy distinto al de una piscina comunitaria de bloque de pisos. El entorno arbolado, característico de estas urbanizaciones del Maresme, aporta sombra y frescor, pero también una cantidad considerable de hojas y restos vegetales que acaban en el vaso, especialmente en otoño, cuando muchas piscinas ya se están preparando para el invernaje.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación e invernaje para piscinas de chalet en Sant Andreu de Llavaneres.",
+  "processIntro": "Un servicio de trato directo, pensado para propietarios de vivienda unifamiliar en zonas arboladas del Maresme.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas cómo está tu piscina",
+      "body": "Nos explicas el estado y el entorno de tu piscina en Sant Andreu de Llavaneres, incluyendo si está muy expuesta a arbolado."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te presentamos una propuesta clara, con precio final y sin cargos ocultos."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmas la fecha",
+      "body": "Con tu aprobación, acordamos el día de la visita según tu disponibilidad."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Intervención en tu chalet",
+      "body": "Ejecutamos el servicio con cuidado del entorno ajardinado propio de estas urbanizaciones."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Recomendaciones finales",
+      "body": "Te dejamos indicaciones concretas para el cuidado de la piscina hasta la próxima visita."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Sant Andreu de Llavaneres generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La combinación de brisa marina, altitud y entorno arbolado da lugar a problemas propios de las piscinas de chalet en Sant Andreu de Llavaneres.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Acumulación de hojas y restos vegetales",
+      "body": "El entorno arbolado típico de las urbanizaciones del municipio hace que hojas y ramas caigan con frecuencia al vaso. Reforzamos la limpieza de skimmers y fondo en otoño."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Humedad ambiental que altera el pH",
+      "body": "La cercanía al mar y la vegetación del entorno mantienen una humedad constante que puede desestabilizar el equilibrio químico. Ajustamos el tratamiento con revisiones periódicas."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Corrosión leve por brisa marina",
+      "body": "Aunque la altitud suaviza el efecto de la sal, los elementos metálicos de piscinas más próximas a la costa pueden mostrar signos de desgaste. Los revisamos en cada visita."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Invernaje complejo por vegetación cercana",
+      "body": "Antes del invernaje es habitual retirar una cantidad importante de hojas acumuladas. Incluimos esta limpieza a fondo dentro de nuestro protocolo de cierre de temporada."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Especialistas en piscinas de chalet",
+      "body": "La mayoría de nuestro trabajo en Sant Andreu de Llavaneres es con viviendas unifamiliares, y conocemos bien sus necesidades."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Atención al entorno arbolado",
+      "body": "Adaptamos la frecuencia de limpieza a la cantidad de vegetación alrededor de tu piscina."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuestos claros para particulares",
+      "body": "Ofrecemos precios cerrados y sin sorpresas, pensados para propietarios individuales."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Conocimiento del Maresme",
+      "body": "Sabemos cómo la combinación de mar y altitud afecta al mantenimiento en esta zona."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Trato cercano y directo",
+      "body": "Un mismo profesional atiende tu piscina de forma continuada, conociendo su historial."
     }
   ],
-  "zoneText": "Damos servicio a Sant Andreu de Llavaneres y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Atendemos chalets y urbanizaciones en todo el término municipal de Sant Andreu de Llavaneres.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Sant Andreu de Llavaneres?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué cae tanta hoja en mi piscina en otoño?",
+      "a": "Las urbanizaciones de Sant Andreu de Llavaneres suelen tener un entorno muy arbolado, lo que hace habitual la caída de hojas al vaso, especialmente antes del invernaje."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿La cercanía al mar afecta a mi piscina aunque esté en zona alta?",
+      "a": "En menor medida que en primera línea de costa, pero la brisa marina puede seguir afectando ligeramente a elementos metálicos, por lo que los revisamos en cada visita."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Hacéis limpieza a fondo antes del invernaje?",
+      "a": "Sí, es especialmente importante en piscinas rodeadas de vegetación, donde retiramos hojas y restos acumulados antes de proteger la instalación para el invierno."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Trabajáis con piscinas particulares o solo comunidades?",
+      "a": "En Sant Andreu de Llavaneres trabajamos sobre todo con piscinas privadas de chalet, dado el perfil de vivienda unifamiliar predominante en el municipio."
     }
   ],
-  "closingHeadline": "Tu piscina en Sant Andreu de Llavaneres, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Sant Andreu de Llavaneres y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina de chalet, cuidada todo el año",
+  "closingCta": "Contacta con nosotros para un presupuesto cerrado de mantenimiento en Sant Andreu de Llavaneres."
 }

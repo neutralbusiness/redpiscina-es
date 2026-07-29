@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 72987,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Rubí | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Rubí. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Rubí y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Rubí — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas en Rubí, Vallès Occidental, para viviendas y comunidades. Presupuesto cerrado y trato directo.",
+  "heroSubtitle": "Cuidamos tu piscina en Rubí, a los pies de Sant Llorenç del Munt, durante todo el año.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Rubí, en el Vallès, tiene un clima algo más continental que el litoral: veranos más calurosos y secos, e inviernos más fríos, lo que se traduce en una temporada de baño intensa pero concentrada entre junio y septiembre. Esa intensidad de uso desgasta antes las depuradoras y exige un tratamiento de agua más constante en los meses de más calor, cuando el cloro se consume mucho más rápido por la radiación solar.\n\nEn las urbanizaciones y viviendas unifamiliares de la zona, muchas piscinas llevan ya varias décadas de uso y empiezan a mostrar los signos típicos del paso del tiempo: gresite que se desprende, filtros de arena con menos rendimiento y depuradoras ruidosas que consumen más de lo que deberían. Adaptamos cada mantenimiento y cada rehabilitación a ese uso intensivo de temporada alta, no a una tabla genérica.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Rubí, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Rubí se extiende en el Vallès Occidental, con el macizo de Sant Llorenç del Munt i l'Obac como telón de fondo, lo que le confiere zonas de mayor altitud dentro del propio municipio con oscilaciones térmicas más marcadas que en el llano. Los veranos son calurosos y secos, propios del interior de la comarca, mientras que en invierno las heladas pueden ser algo más intensas en las urbanizaciones situadas en las cotas más altas, cercanas a la sierra, que en el núcleo urbano más próximo al río Rubí.\n\nEl municipio combina un importante tejido industrial con barrios residenciales de vivienda unifamiliar, muchos de ellos en las zonas elevadas hacia la sierra, donde la piscina privada es habitual. Para estas viviendas, el mantenimiento debe tener en cuenta tanto el calor seco del verano en el llano como el viento y las oscilaciones térmicas propias de las zonas más próximas a Sant Llorenç del Munt, que arrastran polvo y hojarasca con más facilidad hacia las piscinas situadas en las cotas altas.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparaciones y puesta a punto de piscinas particulares y comunitarias en Rubí.",
+  "processIntro": "Nuestro proceso está pensado para darte claridad total sobre las tareas y el coste de cada intervención en tu piscina.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Arrancamos con tus datos",
+      "body": "Nos explicas el estado de tu piscina en Rubí y qué servicio necesitas, y valoramos si conviene una visita técnica."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Revisión según tu ubicación",
+      "body": "Inspeccionamos el vaso, la depuradora y los parámetros del agua, teniendo en cuenta la altitud concreta de tu ubicación en el municipio."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Presupuesto claro y sin sorpresas",
+      "body": "Te presentamos el precio final desglosado por tareas, sin costes que aparezcan después."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Empezamos tras tu confirmación",
+      "body": "Solo iniciamos el trabajo cuando apruebas el presupuesto, ajustando la fecha a tu disponibilidad."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Servicio y pautas según la zona",
+      "body": "Realizamos el servicio acordado y te explicamos cómo proteger mejor la piscina según la zona del municipio en la que te encuentres."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Rubí generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La cercanía de Sant Llorenç del Munt y las diferencias de altitud dentro de Rubí generan incidencias distintas según la zona del municipio.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Filtros saturados por viento y polvo de sierra",
+      "body": "Las viviendas en las cotas más altas, próximas a Sant Llorenç del Munt, reciben más viento que arrastra polvo y hojarasca hacia las piscinas. Ajustamos la frecuencia de limpieza de filtro según la altitud."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Heladas más intensas en zonas elevadas",
+      "body": "Las urbanizaciones más próximas a la sierra pueden sufrir heladas algo más intensas que el núcleo urbano. Adaptamos el protocolo de invernaje a la altitud concreta de cada vivienda."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "El calor seco vacía la piscina más rápido",
+      "body": "El calor seco propio del interior del Vallès hace bajar el nivel del agua con rapidez en los meses centrales del verano, tanto en el llano como en las zonas altas."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
-    },
-    {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Lluvias de verano que desequilibran el pH",
+      "body": "Las tormentas de verano, más intensas en las zonas próximas a la sierra, alteran rápidamente el equilibrio químico del agua. Aplicamos correcciones específicas tras cada episodio."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocemos las diferencias de altitud en Rubí",
+      "body": "Sabemos que una piscina en el llano no tiene las mismas necesidades que una en las cotas altas cercanas a Sant Llorenç del Munt."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "El precio acordado no cambia",
+      "body": "El importe que fijamos tras la visita es el que aparece en la factura al terminar el trabajo."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Viviendas y comunidades por igual",
+      "body": "Trabajamos tanto con particulares como con comunidades de propietarios en Rubí."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Invernaje adaptado a la altitud",
+      "body": "Ajustamos la protección frente al frío según la zona concreta del municipio en la que se encuentra tu piscina."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Respuesta rápida en plena temporada",
+      "body": "Damos preferencia a las averías que dejan la piscina inutilizable en plena temporada de calor."
     }
   ],
-  "zoneText": "Damos servicio a Rubí y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Rubí y en los municipios cercanos del Vallès Occidental, adaptando el mantenimiento tanto a las zonas del llano como a las urbanizaciones próximas a Sant Llorenç del Munt.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Rubí?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué mi piscina en las zonas altas de Rubí acumula tanto polvo y hojas?",
+      "a": "Las viviendas más próximas a Sant Llorenç del Munt reciben más viento que arrastra polvo y hojarasca desde la sierra. Recomendamos limpiezas de filtro más frecuentes en estas ubicaciones."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Necesito un invernaje distinto si mi piscina está en la parte alta del municipio?",
+      "a": "Sí, las heladas pueden ser algo más intensas en las urbanizaciones cercanas a la sierra que en el núcleo urbano de Rubí, por lo que adaptamos el protocolo de invernaje a la altitud concreta de tu vivienda."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con comunidades de propietarios en Rubí?",
+      "a": "Sí, atendemos tanto viviendas unifamiliares como comunidades en Rubí, adaptando el servicio a la altitud y las características de cada instalación."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿Qué diferencia hay entre mantener una piscina en el llano y una cerca de Sant Llorenç del Munt?",
+      "a": "La principal diferencia es la exposición al viento y las oscilaciones térmicas más marcadas en las zonas altas, lo que afecta tanto a la limpieza de filtros en verano como al invernaje en invierno."
     }
   ],
-  "closingHeadline": "Tu piscina en Rubí, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Rubí y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina cuidada en cada zona de Rubí",
+  "closingCta": "Cuéntanos el estado de tu piscina en Rubí y te preparamos un presupuesto cerrado."
 }

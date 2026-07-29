@@ -4,9 +4,9 @@
   "province": "Tarragona",
   "ccaa": "Cataluña",
   "population": 141542,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Tarragona | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Tarragona. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Tarragona y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Tarragona — Red Piscina",
+  "metaDescription": "Servicio profesional de mantenimiento y reparación de piscinas para comunidades y negocios en Tarragona. Presupuesto cerrado, factura y garantía.",
+  "heroSubtitle": "Mantén tu piscina en Tarragona en perfecto estado durante los largos y calurosos veranos mediterráneos.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "En Tarragona combinamos el mantenimiento de piscinas de uso permanente con el de segundas residencias, muy habituales en esta zona de la costa tarraconense. Para estas últimas ofrecemos planes de mantenimiento que garantizan que la piscina esté lista para el primer baño sin que el propietario tenga que preocuparse durante el resto del año.\n\nEl calor intenso del verano en la costa de Tarragona acelera el consumo de cloro y exige ajustar el tratamiento del agua a la temporada alta. Revisamos también con frecuencia el estado de depuradoras y filtros, que trabajan más horas al día durante los meses de más calor.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Tarragona, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Tarragona combina un núcleo histórico junto al mar con una ciudad que se ha extendido tierra adentro, hacia barrios y urbanizaciones donde el calor del verano se siente con más intensidad que en el frente marítimo. Los meses de julio y agosto traen temperaturas elevadas y sostenidas, con jornadas de sol prácticamente ininterrumpido que aceleran la evaporación del agua y degradan el cloro más rápido de lo habitual, un factor que cualquier comunidad de propietarios debe tener en cuenta en su plan de mantenimiento.\n\nA la vez, Tarragona conserva su condición de ciudad portuaria y costera, por lo que las piscinas más próximas al litoral, en zonas como Llevant o el entorno de la Part Alta, también reciben cierta influencia de la brisa marina, aunque de forma más moderada que en los municipios de playa. Esa combinación de calor interior y proximidad al mar exige un tratamiento del agua flexible, capaz de responder tanto a la sequedad ambiental como a la humedad puntual de los días de levante.\n\nPara instalaciones de uso comunitario o comercial, la exigencia normativa añade otra capa de responsabilidad. Una comunidad de vecinos o un hotel de la ciudad necesita un mantenimiento continuado que garantice tanto la calidad del agua como el cumplimiento sanitario, especialmente durante los meses de máxima ocupación, cuando cualquier incidencia se detecta de inmediato por el número de usuarios.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto de piscinas para comunidades, hoteles y viviendas particulares en Tarragona.",
+  "processIntro": "Nuestro método está pensado para que sepas en todo momento qué se va a hacer y cuánto va a costar, sin sorpresas.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Consulta inicial",
+      "body": "Nos cuentas el tipo de instalación, su tamaño y el problema o necesidad concreta. Con esos datos preparamos la visita técnica si es necesaria."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Diagnóstico y presupuesto",
+      "body": "Evaluamos el estado del agua y del equipo de filtración, y te entregamos una propuesta cerrada, detallada partida por partida."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Tu aprobación",
+      "body": "El servicio no empieza hasta que confirmas el presupuesto, para que tanto propietarios particulares como juntas de comunidad tengan plena seguridad sobre el gasto."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el trabajo con los materiales y protocolos acordados, cuidando la instalación y minimizando molestias a los residentes o clientes."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe final",
+      "body": "Cerramos la intervención con un resumen de lo realizado y, si procede, un calendario recomendado para el siguiente mantenimiento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Tarragona generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El calor intenso del verano tarraconense y la doble influencia de interior y costa generan averías recurrentes en la ciudad.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Degradación rápida del cloro por calor extremo",
+      "body": "Las jornadas de sol continuo de julio y agosto consumen el desinfectante mucho más rápido de lo habitual. Ajustamos la dosificación para mantener el agua en condiciones incluso en los picos de calor."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Evaporación elevada y desajuste de niveles",
+      "body": "El calor seco de los días de más calor provoca una pérdida de agua notable, lo que afecta al equilibrio de pH y alcalinidad. Reponemos y reequilibramos con revisiones periódicas."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Incidencias sanitarias en piscinas comunitarias",
+      "body": "El alto número de bañistas en comunidades de la ciudad durante el verano puede derivar en incumplimientos si el control químico no es constante. Diseñamos planes de mantenimiento alineados con la normativa vigente."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Suciedad por polvo y polen en zonas próximas a la ronda",
+      "body": "Las piscinas cercanas a vías con más tráfico acumulan partículas en suspensión que enturbian el agua. Reforzamos el filtrado en esas franjas para mantener la transparencia."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con comunidades de la ciudad",
+      "body": "Conocemos las particularidades de gestionar piscinas comunitarias en Tarragona, desde el reparto de responsabilidades hasta la comunicación con la junta."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuesto cerrado y trazable",
+      "body": "Cada propuesta detalla materiales y tiempos, facilitando su aprobación en junta o por parte de gestores de negocio."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Adaptación al calor del verano",
+      "body": "Ajustamos frecuencias y dosificación a las condiciones reales de cada verano, en lugar de aplicar una pauta genérica que no responde a los picos de calor."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Un solo técnico de referencia",
+      "body": "Mantenemos continuidad para que la persona que atiende tu piscina conozca su historial y sus particularidades."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de toda la ciudad",
+      "body": "Nos desplazamos tanto al centro histórico como a las zonas de expansión y urbanizaciones periféricas de Tarragona."
     }
   ],
-  "zoneText": "Damos servicio a Tarragona y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Cubrimos toda la ciudad de Tarragona, desde el entorno de la Part Alta y Llevant hasta las urbanizaciones y zonas de expansión más alejadas del frente marítimo.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Tarragona?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Cómo afecta el verano tarraconense al consumo de cloro de mi piscina?",
+      "a": "El calor intenso y las horas de sol continuado aceleran la degradación del desinfectante. Ajustamos la dosificación en función de la temperatura real de cada semana para mantener el agua estable."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "Mi piscina está cerca del mar, ¿necesita un tratamiento distinto al de una piscina de interior?",
+      "a": "Sí, en menor medida que en municipios de playa, pero la brisa marina también influye. Revisamos el equilibrio químico con algo más de frecuencia en las zonas próximas al litoral."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Podéis encargaros del mantenimiento de una comunidad de vecinos durante todo el año?",
+      "a": "Sí, ofrecemos contratos anuales que incluyen mantenimiento en temporada de baño e invernaje fuera de ella, con informes para la junta de propietarios."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Cumplís la normativa sanitaria para piscinas comunitarias en Cataluña?",
+      "a": "Sí, nuestros protocolos y productos cumplen la normativa sanitaria aplicable a piscinas de uso colectivo, lo que aporta tranquilidad ante cualquier inspección."
     }
   ],
-  "closingHeadline": "Tu piscina en Tarragona, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Tarragona y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "El mantenimiento que tu piscina necesita en Tarragona",
+  "closingCta": "Cuéntanos el estado de tu piscina en Tarragona y te preparamos un presupuesto cerrado, sin compromiso."
 }

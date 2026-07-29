@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 14991,
-  "metaTitle": "Mantenimiento y reparación de piscinas en la Garriga | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en la Garriga. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en la Garriga y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en la Garriga — Red Piscina",
+  "metaDescription": "Mantenimiento de piscinas de vivienda unifamiliar y comunidades en la Garriga. Presupuesto cerrado, factura y garantía. Infórmate.",
+  "heroSubtitle": "Piscinas cuidadas en la Garriga, en el corazón del Vallès Oriental.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "la Garriga, en el Vallès, tiene un clima algo más continental que el litoral: veranos más calurosos y secos, e inviernos más fríos, lo que se traduce en una temporada de baño intensa pero concentrada entre junio y septiembre. Esa intensidad de uso desgasta antes las depuradoras y exige un tratamiento de agua más constante en los meses de más calor, cuando el cloro se consume mucho más rápido por la radiación solar.\n\nEn las urbanizaciones y viviendas unifamiliares de la zona, muchas piscinas llevan ya varias décadas de uso y empiezan a mostrar los signos típicos del paso del tiempo: gresite que se desprende, filtros de arena con menos rendimiento y depuradoras ruidosas que consumen más de lo que deberían. Adaptamos cada mantenimiento y cada rehabilitación a ese uso intensivo de temporada alta, no a una tabla genérica.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en la Garriga, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "La Garriga, conocida por sus aguas termales, se sitúa en el interior del Vallès Oriental, en un entorno de bosque y colinas que le da un clima algo más fresco por las noches que otras zonas cercanas a la costa, con una amplitud térmica notable entre el día y la noche especialmente en primavera y otoño. El municipio combina un núcleo urbano compacto con numerosas urbanizaciones de vivienda unifamiliar rodeadas de vegetación, donde la piscina privada es habitual.\n\nEn estas viviendas con jardín y arbolado cercano, el reto más recurrente no es tanto el calor extremo como la cantidad de materia orgánica que cae al agua: hojas, polen y ramas pequeñas que exigen una limpieza de skimmer y fondo más frecuente que en una piscina urbana sin vegetación alrededor. El invierno en la Garriga trae heladas con cierta regularidad, por lo que el invernaje debe tomarse en serio, igual que en el resto de municipios de interior de la comarca.",
+  "servicesIntro": "Ofrecemos mantenimiento e invernaje para piscinas de vivienda unifamiliar y comunidades en la Garriga.",
+  "processIntro": "Un proceso simple, con presupuesto cerrado antes de empezar el trabajo.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto inicial",
+      "body": "Nos cuentas el tipo de piscina, su entorno de jardín o vegetación cercana, y el uso habitual."
+    },
+    {
+      "title": "Revisión del estado",
+      "body": "Comprobamos el vaso, el filtro y los equipos, prestando atención a la acumulación de materia orgánica."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Te enviamos una propuesta clara y detallada, sin sorpresas."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el trabajo acordado, adaptándonos a la disponibilidad de la vivienda o comunidad."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
-    },
-    {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Recomendaciones finales",
+      "body": "Te dejamos pautas concretas para reducir la entrada de hojas y ramas en el agua entre visitas."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en la Garriga generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El entorno de jardín y bosque propio de la Garriga y las heladas de interior generan problemas particulares.",
   "commonIssues": [
     {
-      "title": "Agua turbia por el calor intenso",
-      "body": "En los meses de más calor, el cloro se consume mucho más rápido por la radiación solar. Ajustamos el tratamiento a la temporada alta para evitar que el agua se enturbie."
+      "title": "Acumulación de hojas y polen en el skimmer",
+      "body": "La vegetación cercana a muchas viviendas de la Garriga aporta materia orgánica constante, que satura el filtro si no se limpia con regularidad."
     },
     {
-      "title": "Depuradoras que se averían en pleno verano",
-      "body": "El uso intensivo concentrado en pocos meses desgasta antes los equipos. Una revisión preventiva en primavera evita quedarte sin depuradora justo cuando más calor hace."
+      "title": "Fisuras por heladas en piscinas mal protegidas",
+      "body": "Los inviernos de interior del Vallès Oriental traen heladas suficientes para dañar tuberías si el invernaje no se hace a fondo."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona hace que, con los años, la arena del filtro se compacte y pierda capacidad de filtración. Recomendamos sustituirla por vidrio filtrante, más resistente a la cal."
+      "title": "Agua verde tras varios días sin revisión",
+      "body": "En viviendas de segunda residencia o uso intermitente, unos días sin control químico pueden bastar para que el agua pierda claridad."
     },
     {
-      "title": "Cloradores salinos con menor rendimiento",
-      "body": "La cal se adhiere a las células de los cloradores salinos, reduciendo su capacidad de generar cloro. Instalamos equipos con función de autolimpieza para minimizar este efecto."
-    },
-    {
-      "title": "Fisuras y fugas en piscinas antiguas",
-      "body": "Con el paso de los años, las juntas de gresite se degradan y pueden aparecer fisuras en el vaso. Usamos equipos de detección profesional para localizar la fuga exacta antes de proponer una reparación."
+      "title": "Diferencias de temperatura entre día y noche",
+      "body": "La amplitud térmica del entorno de bosque de la Garriga puede desestabilizar el pH si el tratamiento no se ajusta con regularidad."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con piscinas rodeadas de vegetación",
+      "body": "Sabemos gestionar el aporte constante de hojas y polen propio de las urbanizaciones de la Garriga."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Invernaje adaptado al clima de interior",
+      "body": "Protegemos la instalación frente a heladas reales de la comarca, no ante un riesgo teórico."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Atención a viviendas de uso intermitente",
+      "body": "Ajustamos el ritmo de visitas para segundas residencias que no se usan a diario."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Presupuestos claros y sin sorpresas",
+      "body": "Propuestas cerradas y detalladas antes de intervenir."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Conocimiento del Vallès Oriental",
+      "body": "Trabajamos habitualmente en la comarca y conocemos sus particularidades climáticas."
     }
   ],
-  "zoneText": "Damos servicio a la Garriga y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Atendemos la Garriga y su entorno de urbanizaciones y vivienda unifamiliar en el Vallès Oriental, con desplazamientos habituales por toda la comarca.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en la Garriga?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Con qué frecuencia hay que limpiar el skimmer si hay árboles cerca de la piscina?",
+      "a": "En viviendas con vegetación abundante, como es habitual en la Garriga, recomendamos revisar el skimmer al menos dos veces por semana durante la temporada de más caída de hojas y polen."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Hace falta invernar la piscina si solo la uso los fines de semana?",
+      "a": "Sí, el invernaje protege la instalación de las heladas independientemente de la frecuencia de uso, y es especialmente importante en segundas residencias."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Trabajáis con piscinas de urbanizaciones alejadas del centro de la Garriga?",
+      "a": "Sí, damos servicio en todo el término municipal, incluyendo las urbanizaciones más alejadas del núcleo urbano."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
+      "q": "¿Podéis encargaros solo de la puesta a punto de primavera?",
+      "a": "Sí, ofrecemos tanto mantenimiento continuo como intervenciones puntuales como la apertura de temporada."
     }
   ],
   "closingHeadline": "Tu piscina en la Garriga, sin sorpresas",
-  "closingCta": "Si tienes una piscina en la Garriga y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingCta": "Escríbenos y te preparamos un presupuesto cerrado para tu piscina en la Garriga, adaptado al entorno de jardín y al clima de interior de la comarca."
 }

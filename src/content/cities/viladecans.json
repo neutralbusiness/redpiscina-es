@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 66168,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Viladecans | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Viladecans. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Viladecans y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Viladecans — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas para comunidades y viviendas en Viladecans. Presupuesto cerrado, factura y garantía. Solicita presupuesto.",
+  "heroSubtitle": "Mantenimiento de piscinas en Viladecans, entre el área metropolitana de Barcelona y el delta del Llobregat.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Viladecans, en el Baix Llobregat, reúne tanto zonas muy próximas a la costa como áreas más interiores junto al río, con piscinas tanto en viviendas unifamiliares como en comunidades de vecinos. El clima mediterráneo húmedo de la comarca favorece una temporada de baño larga, pero también un crecimiento más rápido de algas si el tratamiento de agua no se ajusta bien a la humedad ambiente.\n\nMuchas urbanizaciones de la zona se construyeron en los años 80 y 90, con piscinas de gresite y sistemas de filtración que hoy resultan poco eficientes energéticamente. Sustituir una bomba de filtración antigua por una de velocidad variable es, en la mayoría de los casos, la mejora que antes se amortiza, con ahorros eléctricos de hasta el 80% en la depuración.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Viladecans, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Viladecans forma parte del área metropolitana sur de Barcelona, en la comarca del Baix Llobregat, con un tejido urbano que combina bloques de comunidades de vecinos con piscina compartida y zonas de vivienda unifamiliar en los barrios más residenciales. Su cercanía al delta del Llobregat y a la costa aporta un clima mediterráneo suave, con veranos calurosos pero algo más templados que en el interior de la comarca gracias a la proximidad al mar.\n\nPara las comunidades de vecinos, que representan buena parte de las piscinas del municipio, el reto principal suele ser gestionar un uso intensivo y muy concentrado en los meses de verano, cuando decenas de familias comparten la misma instalación. En las viviendas unifamiliares de las zonas residenciales, en cambio, el patrón es distinto: uso más estacional y familiar, con los momentos críticos habituales de la puesta a punto en primavera y el invernaje en otoño.",
+  "servicesIntro": "En Viladecans ofrecemos mantenimiento, reparación y puesta a punto para comunidades de vecinos y viviendas particulares.",
+  "processIntro": "Seguimos un proceso claro, adaptado tanto a comunidades con uso intensivo como a viviendas de uso familiar.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas tu caso",
+      "body": "Nos explicas si se trata de una comunidad o una vivienda particular, y el estado actual de la piscina."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Valoramos lo necesario y te entregamos una propuesta detallada antes de empezar cualquier trabajo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmación previa",
+      "body": "El servicio arranca únicamente cuando das tu aprobación, sin compromisos previos."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el mantenimiento o la reparación acordada, coordinándonos con el administrador o el propietario según el caso."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Cierre e informe",
+      "body": "Entregamos un resumen de lo realizado y recomendaciones para el siguiente periodo."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Viladecans generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El uso intensivo de las piscinas comunitarias y el clima suave del área metropolitana sur de Barcelona generan averías propias de Viladecans.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Turbidez por uso masivo en comunidades",
+      "body": "Las piscinas comunitarias con muchas familias usuarias en verano acumulan materia orgánica con rapidez. Reforzamos el filtrado y la dosificación en los días de mayor afluencia."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Saturación de filtros en temporada alta",
+      "body": "El salto de uso ocasional a uso intensivo en julio y agosto puede colapsar sistemas de filtración mal dimensionados. Ajustamos los ciclos de limpieza según la afluencia real."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Agua turbia al abrir la temporada en viviendas particulares",
+      "body": "En chalets de uso estacional, es habitual encontrar el agua con algas tras meses de baja actividad. Aplicamos un tratamiento de choque para recuperar la claridad antes del verano."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Daños por invernaje incompleto",
+      "body": "Un invernaje mal hecho puede provocar fisuras en tuberías y skimmers durante el invierno. Aplicamos un protocolo completo cada otoño en viviendas particulares."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con comunidades de uso intensivo",
+      "body": "Sabemos gestionar piscinas comunitarias con mucha afluencia en verano, típicas del área metropolitana sur de Barcelona."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos claros para comunidades y particulares",
+      "body": "Preparamos propuestas cerradas, igual de válidas para una junta de vecinos que para un propietario individual."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Cumplimiento normativo",
+      "body": "Nuestros protocolos se ajustan a la normativa sanitaria vigente para piscinas de uso colectivo."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Atención a viviendas unifamiliares",
+      "body": "También cuidamos las piscinas de uso familiar en los barrios residenciales de Viladecans."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de todo el municipio",
+      "body": "Nos desplazamos a cualquier zona de Viladecans, tanto a comunidades como a viviendas particulares."
     }
   ],
-  "zoneText": "Damos servicio a Viladecans y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en todo el municipio de Viladecans, tanto en comunidades de vecinos como en viviendas unifamiliares de las zonas residenciales.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Viladecans?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Podéis gestionar el mantenimiento de la piscina de nuestra comunidad de vecinos?",
+      "a": "Sí, es uno de nuestros servicios más habituales en Viladecans. Preparamos presupuestos cerrados fáciles de presentar en junta y nos coordinamos con el administrador de fincas."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "En verano la piscina comunitaria se llena de vecinos, ¿eso complica el mantenimiento?",
+      "a": "Sí, el uso intensivo acelera el consumo de cloro y la aparición de turbidez. Reforzamos las visitas y la dosificación en las semanas de mayor afluencia."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "Mi chalet solo se usa en verano, ¿podéis prepararlo antes de la temporada?",
+      "a": "Sí, hacemos la puesta a punto con antelación para que el agua esté lista cuando quieras empezar a usar la piscina."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Cumplís la normativa sanitaria para piscinas comunitarias?",
+      "a": "Sí, nuestros protocolos y productos cumplen la normativa sanitaria aplicable a piscinas de uso colectivo en Cataluña."
     }
   ],
-  "closingHeadline": "Tu piscina en Viladecans, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Viladecans y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Viladecans, lista para cada verano",
+  "closingCta": "Solicita un presupuesto cerrado para tu piscina en Viladecans, sea de comunidad o vivienda particular."
 }

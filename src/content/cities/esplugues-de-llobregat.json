@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 46355,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Esplugues de Llobregat | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Esplugues de Llobregat. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Esplugues de Llobregat y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Esplugues de Llobregat",
+  "metaDescription": "Mantenimiento y reparación de piscinas comunitarias en Esplugues de Llobregat, junto a Collserola. Presupuesto cerrado.",
+  "heroSubtitle": "Piscinas de comunidad en orden en Esplugues de Llobregat, con presupuesto cerrado y trato cercano.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Esplugues de Llobregat, en el Baix Llobregat, reúne tanto zonas muy próximas a la costa como áreas más interiores junto al río, con piscinas tanto en viviendas unifamiliares como en comunidades de vecinos. El clima mediterráneo húmedo de la comarca favorece una temporada de baño larga, pero también un crecimiento más rápido de algas si el tratamiento de agua no se ajusta bien a la humedad ambiente.\n\nMuchas urbanizaciones de la zona se construyeron en los años 80 y 90, con piscinas de gresite y sistemas de filtración que hoy resultan poco eficientes energéticamente. Sustituir una bomba de filtración antigua por una de velocidad variable es, en la mayoría de los casos, la mejora que antes se amortiza, con ahorros eléctricos de hasta el 80% en la depuración.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Esplugues de Llobregat, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Esplugues de Llobregat forma parte del área metropolitana densa de Barcelona, pegada a la sierra de Collserola y muy próxima a la capital catalana. Esa doble condición, ciudad metropolitana y a la vez lindante con un espacio natural, le da un clima mediterráneo con veranos calurosos y húmedos, algo atemperados por la cercanía a Collserola en las zonas más altas del municipio, y con vegetación que aporta hojas y restos orgánicos a las piscinas situadas junto a la sierra. Los inviernos son suaves, con heladas puntuales que no deben descuidarse en las zonas más elevadas del término.\n\nLa ciudad tiene una fuerte densidad residencial, con numerosas comunidades de vecinos de piscina compartida, muy utilizadas durante el verano por una población amplia y estable. Esa alta densidad de uso, combinada con la humedad propia del área metropolitana, exige un control del agua constante durante toda la temporada, con especial atención a los fines de semana de mayor afluencia.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto de piscinas comunitarias para Esplugues de Llobregat.",
+  "processIntro": "Un proceso claro y con presupuesto cerrado, pensado para comunidades de alta densidad residencial.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto con la comunidad",
+      "body": "Nos explicas el estado de la piscina comunitaria y el servicio que necesita tu comunidad."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Evaluamos la instalación y entregamos una propuesta detallada, lista para junta de propietarios."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Aprobación",
+      "body": "Solo actuamos cuando la comunidad da su conformidad al presupuesto."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos el trabajo coordinándonos con los horarios de uso de los vecinos."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe para la comunidad",
+      "body": "Entregamos un parte de trabajo claro, útil para el administrador de fincas."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Esplugues de Llobregat generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "La alta densidad residencial y la cercanía a Collserola generan problemas recurrentes en las piscinas de Esplugues.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Agua turbia por afluencia elevada en verano",
+      "body": "Las comunidades del municipio reciben una afluencia alta y constante en los meses de calor. Reforzamos la revisión de cloro en los fines de semana de mayor uso."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Hojarasca en piscinas próximas a Collserola",
+      "body": "Las instalaciones más cercanas a la sierra reciben más restos vegetales que en el resto de la ciudad. Reforzamos la limpieza de skimmer y fondo en estos casos."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Algas por humedad metropolitana",
+      "body": "La humedad relativa del área de Barcelona favorece las algas si el cloro baja de nivel. Mantenemos un control estricto en los meses centrales del verano."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Filtros saturados por uso intensivo",
+      "body": "La alta densidad de bañistas en las piscinas comunitarias satura los filtros con rapidez. Programamos contralavados frecuentes en temporada alta."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con piscinas comunitarias densas",
+      "body": "Sabemos gestionar el reto de un uso muy intenso propio de comunidades numerosas."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Atención especial a piscinas próximas a Collserola",
+      "body": "Reforzamos la limpieza en las instalaciones más expuestas a la vegetación de la sierra."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuestos claros para juntas de propietarios",
+      "body": "Documentación detallada y fácil de aprobar por la comunidad."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Técnico de referencia para la comunidad",
+      "body": "La misma persona sigue el historial de la instalación cada temporada."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Buena logística en el área metropolitana",
+      "body": "Planificamos rutas eficientes para ser puntuales pese al tráfico de la zona."
     }
   ],
-  "zoneText": "Damos servicio a Esplugues de Llobregat y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades de vecinos en Esplugues de Llobregat, incluidas las zonas más próximas a Collserola.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Esplugues de Llobregat?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Cómo gestionáis la alta afluencia en las piscinas comunitarias de Esplugues?",
+      "a": "Reforzamos la revisión de cloro y pH en los fines de semana de verano, cuando la piscina comunitaria recibe más usuarios en menos horas."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Por qué mi piscina recibe tantas hojas si está cerca de Collserola?",
+      "a": "Las instalaciones próximas a la sierra reciben más restos vegetales que el resto de la ciudad, por lo que reforzamos la limpieza de skimmer y fondo en esos casos."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Podéis presentar el presupuesto en junta de propietarios?",
+      "a": "Sí, elaboramos presupuestos cerrados y desglosados, pensados para facilitar su aprobación en junta."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Atendéis averías puntuales fuera del mantenimiento programado?",
+      "a": "Sí, atendemos incidencias puntuales con presupuesto previo, sin necesidad de contrato continuado."
     }
   ],
-  "closingHeadline": "Tu piscina en Esplugues de Llobregat, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Esplugues de Llobregat y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas comunitarias en orden en Esplugues de Llobregat",
+  "closingCta": "Pide presupuesto para la piscina de tu comunidad en Esplugues de Llobregat."
 }

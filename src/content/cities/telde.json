@@ -4,9 +4,9 @@
   "province": "Las Palmas",
   "ccaa": "Canarias",
   "population": 123265,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Telde | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Telde. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Telde y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Telde — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas en Telde, Gran Canaria. Presupuesto cerrado, factura y garantía. Solicita tu visita sin compromiso.",
+  "heroSubtitle": "Disfruta tu piscina en Telde todo el año, con el clima suave de Gran Canaria de tu parte.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Telde, en Canarias, disfruta de un clima subtropical prácticamente constante durante todo el año, lo que hace que las piscinas estén en uso permanente, sin una temporada de cierre real como en el resto de España. Esto cambia por completo el enfoque del mantenimiento: no hablamos de apertura y cierre de temporada, sino de un cuidado continuo durante los doce meses.\n\nLa proximidad al mar y la calima ocasional son dos factores propios de la zona que afectan a la instalación: la humedad salina acelera la corrosión de elementos metálicos, y el polvo en suspensión de la calima puede ensuciar el agua con rapidez tras estos episodios. Ajustamos el tratamiento del agua y revisamos los filtros con más frecuencia cuando se produce este fenómeno.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Telde, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Telde disfruta de un clima subtropical prácticamente constante gracias a los alisios, lo que en principio parece una ventaja para cualquier piscina: temperaturas suaves durante todo el año y ausencia de heladas que obliguen a un invernaje severo. Pero esa misma estabilidad térmica tiene su contrapartida, porque muchas piscinas en Telde están en uso o expuestas al sol prácticamente los doce meses, sin la pausa invernal que en otras zonas de España da un respiro al equipo de filtración y permite reducir el consumo de producto.\n\nA esto se suma un fenómeno muy propio de Canarias: la calima, esas invasiones periódicas de polvo en suspensión procedente del Sahara que tiñen el aire de un tono ocre y depositan una fina capa de partículas sobre cualquier superficie exterior, incluida el agua de la piscina. Tras un episodio de calima, no es raro que el agua pierda claridad y el filtro se sature antes de lo previsto. A eso se une la calidad del agua de suministro en la isla, con una dureza que conviene vigilar para evitar incrustaciones calcáreas en las paredes del vaso y en los equipos.",
+  "servicesIntro": "En Telde ofrecemos mantenimiento continuo, reparaciones y tratamientos adaptados al clima subtropical de Gran Canaria.",
+  "processIntro": "Trabajamos con un proceso sencillo y transparente, pensado para que sepas en todo momento qué esperar.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Nos cuentas tu caso",
+      "body": "Nos explicas el tipo de piscina, su ubicación en Telde y el problema o necesidad que tienes, ya sea mantenimiento regular o una avería puntual."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Presupuesto sin sorpresas",
+      "body": "Valoramos la instalación y te enviamos una propuesta cerrada, clara y desglosada, antes de mover un solo dedo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Confirmas cuando quieras",
+      "body": "Solo empezamos a trabajar cuando das el visto bueno, sin presión ni plazos artificiales."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Intervención técnica",
+      "body": "Realizamos el servicio acordado con atención especial a los efectos de la calima y la dureza del agua local sobre el vaso y los equipos."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Seguimiento posterior",
+      "body": "Te dejamos recomendaciones concretas para mantener el agua en condiciones entre visitas, especialmente tras episodios de calima."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Telde generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El clima subtropical y los episodios de calima de Gran Canaria dan lugar a problemas muy característicos en las piscinas de Telde.",
   "commonIssues": [
     {
-      "title": "Uso continuo durante todo el año",
-      "body": "Sin temporada de cierre, la instalación trabaja los doce meses. Ajustamos el plan de mantenimiento a un uso constante, no a una temporada concreta."
+      "title": "Enturbiamiento tras episodios de calima",
+      "body": "El polvo en suspensión se deposita en el agua y satura los filtros en pocas horas. Aplicamos un protocolo de limpieza intensiva tras cada episodio para recuperar la transparencia rápidamente."
     },
     {
-      "title": "Corrosión por la humedad salina marina",
-      "body": "La proximidad al mar acelera la oxidación de escaleras, barandillas y carcasas metálicas. Usamos materiales con mayor resistencia a la corrosión."
+      "title": "Incrustaciones calcáreas por dureza del agua",
+      "body": "El agua de suministro en Gran Canaria tiende a ser dura, lo que favorece depósitos blanquecinos en paredes y equipos. Controlamos la dureza y aplicamos tratamientos correctores periódicos."
     },
     {
-      "title": "Agua turbia tras episodios de calima",
-      "body": "El polvo en suspensión de la calima puede ensuciar el agua con rapidez. Revisamos el filtro y ajustamos el tratamiento tras estos episodios."
+      "title": "Desgaste acelerado del equipo por uso continuo",
+      "body": "Al no existir una parada invernal clara, bombas y filtros trabajan casi todo el año sin descanso. Recomendamos revisiones preventivas más frecuentes que en climas con temporada marcada."
     },
     {
-      "title": "Depuradoras con desgaste por uso continuo",
-      "body": "Al no haber pausa de temporada, los equipos acumulan más horas de funcionamiento al año que en el resto de España. Recomendamos revisiones más frecuentes."
-    },
-    {
-      "title": "Filtros de arena con menor rendimiento",
-      "body": "El uso constante compacta antes el lecho filtrante. Valoramos la sustitución por vidrio filtrante cuando el rendimiento baja de forma notable."
+      "title": "Proliferación de algas por temperatura estable",
+      "body": "Las temperaturas suaves y constantes favorecen el desarrollo de algas si el cloro baja de nivel. Mantenemos un control regular para anticiparnos antes de que el problema sea visible."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Conocimiento del clima subtropical canario",
+      "body": "Adaptamos el mantenimiento a un uso prácticamente continuo, sin la pausa invernal habitual en la Península."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Respuesta rápida tras episodios de calima",
+      "body": "Sabemos cómo actuar cuando el polvo en suspensión afecta al agua, con protocolos específicos de limpieza."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuesto cerrado y claro",
+      "body": "Recibes una propuesta detallada antes de empezar cualquier trabajo, sin costes ocultos."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Atención a la dureza del agua local",
+      "body": "Vigilamos y corregimos la mineralización del agua para evitar incrustaciones en el vaso y los equipos."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura en todo Telde",
+      "body": "Nos desplazamos a cualquier zona del municipio, tanto a viviendas particulares como a comunidades."
     }
   ],
-  "zoneText": "Damos servicio a Telde y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en todo el municipio de Telde y sus núcleos residenciales, adaptando el mantenimiento al clima suave y constante de Gran Canaria.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Telde?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Cómo afecta la calima a mi piscina en Telde?",
+      "a": "El polvo en suspensión se deposita en el agua y puede saturar el filtro con rapidez. Tras un episodio de calima recomendamos una limpieza reforzada para recuperar la claridad del agua cuanto antes."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "Con un clima tan estable, ¿mi piscina necesita mantenimiento durante todo el año?",
+      "a": "Sí, precisamente por no existir una parada invernal marcada, muchas piscinas en Telde se usan o están expuestas al sol los doce meses, por lo que recomendamos revisiones continuas en lugar de concentrar el servicio solo en verano."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "El agua de mi piscina deja manchas blanquecinas, ¿es normal en Gran Canaria?",
+      "a": "Es un problema habitual relacionado con la dureza del agua de suministro en la isla. Podemos corregirla con tratamientos específicos para reducir las incrustaciones calcáreas."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
-    },
-    {
-      "q": "¿Hay que cerrar la piscina en algún momento del año?",
-      "a": "No, con el clima de las islas la mayoría de piscinas están en uso todo el año. El mantenimiento se planifica de forma continua, sin una temporada de cierre como en el resto de España."
+      "q": "¿Hacéis mantenimiento en comunidades de vecinos además de en viviendas particulares?",
+      "a": "Sí, trabajamos tanto con propietarios particulares como con comunidades en Telde, adaptando la frecuencia de visitas al tamaño y uso de cada instalación."
     }
   ],
-  "closingHeadline": "Tu piscina en Telde, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Telde y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu piscina en Telde, cuidada durante todo el año",
+  "closingCta": "Contacta con nosotros para un presupuesto cerrado adaptado a tu piscina en Telde, tenga o no una parada de temporada."
 }

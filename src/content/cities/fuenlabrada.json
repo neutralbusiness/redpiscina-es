@@ -4,9 +4,9 @@
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
   "population": 190496,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Fuenlabrada | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Fuenlabrada. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Fuenlabrada y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Fuenlabrada, Madrid",
+  "metaDescription": "Mantenimiento y reparación de piscinas comunitarias y de negocio en Fuenlabrada, sur de Madrid. Presupuesto cerrado.",
+  "heroSubtitle": "Piscinas siempre listas en Fuenlabrada, con presupuesto cerrado y respuesta ágil.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,99 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Fuenlabrada, en el área metropolitana de Madrid, tiene un clima continental marcado: veranos muy calurosos y secos, con temperaturas que superan con frecuencia los 35°C en julio y agosto, e inviernos fríos que exigen un buen invernaje de la instalación. Esa amplitud térmica desgasta los equipos más que en zonas costeras, y el agua de la red, de dureza considerable en buena parte de la Comunidad de Madrid, deja cal con rapidez en tuberías, juntas de gresite y células de cloradores salinos.\n\nEn las urbanizaciones de chalets y adosados tan habituales en la zona, es frecuente encontrar piscinas de los años 80 y 90 que necesitan una puesta al día completa: nuevo revestimiento, depuradora más eficiente y, cada vez más, una bomba de calor para alargar la temporada de baño más allá de septiembre.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Fuenlabrada, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Fuenlabrada es una de las grandes ciudades del sur de Madrid, con un desarrollo urbano consolidado en torno a amplias promociones de vivienda de las últimas décadas del siglo pasado y desarrollos más recientes. El clima continental madrileño se manifiesta aquí con veranos secos y muy calurosos, con jornadas por encima de los 35°C entre julio y agosto, y con inviernos fríos donde las heladas son frecuentes y prolongadas. Esa combinación exige un mantenimiento exigente en ambos extremos del año: control constante del agua durante el calor extremo y un invernaje riguroso antes de que llegue el frío.\n\nLa ciudad tiene una densidad residencial muy alta, con numerosas comunidades de vecinos de piscina compartida que reciben una afluencia considerable durante los meses de verano. También cuenta con un tejido industrial y comercial relevante en el sur de Madrid, con negocios que valoran presupuestos claros y una gestión ágil que no interfiera con su actividad diaria. Para las comunidades de Fuenlabrada, el reto principal es sostener la calidad del agua durante una temporada de calor muy exigente en instalaciones de uso intensivo.",
+  "servicesIntro": "Ofrecemos mantenimiento, reparación y puesta a punto de piscinas para comunidades y negocios en Fuenlabrada.",
+  "processIntro": "Un proceso claro y con presupuesto cerrado, pensado para comunidades de alta densidad y negocios del sur de Madrid.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto",
+      "body": "Nos explicas el tipo de instalación y el servicio que necesitas."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "body": "Evaluamos la piscina y entregamos una propuesta detallada, lista para junta de propietarios si aplica."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Aprobación",
+      "body": "Iniciamos el trabajo solo cuando confirmas el presupuesto."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos la intervención coordinándonos con los horarios de la comunidad o negocio."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe final",
+      "body": "Entregamos un parte de trabajo claro y quedamos disponibles para próximas revisiones."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Fuenlabrada generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El calor extremo del verano madrileño y la alta densidad residencial de Fuenlabrada generan averías recurrentes.",
   "commonIssues": [
     {
-      "title": "Daños por heladas mal prevenidas",
-      "body": "Un invernaje incorrecto puede provocar roturas en tuberías y equipos durante el invierno. Ofrecemos un servicio de puesta a punto tanto al cerrar como al abrir la temporada."
+      "title": "Consumo elevado de cloro en verano",
+      "body": "Las temperaturas por encima de 35°C degradan el cloro con rapidez. Ajustamos la dosificación en los meses de más calor."
     },
     {
-      "title": "Agua turbia por el calor seco del verano",
-      "body": "El calor extremo y seco de la meseta degrada el cloro con rapidez. Ajustamos los sistemas de dosificación automática a la temporada alta."
+      "title": "Agua turbia por uso masivo en comunidades grandes",
+      "body": "Las urbanizaciones con más viviendas concentran un uso intenso de la piscina en verano. Reforzamos el control de cloro en los días de mayor afluencia."
     },
     {
-      "title": "Depuradoras que fallan en pleno verano",
-      "body": "La temporada de uso es corta pero muy intensa, lo que desgasta antes los equipos. Recomendamos revisar la instalación antes de que arranque el calor fuerte."
+      "title": "Roturas por heladas prolongadas",
+      "body": "Los inviernos fríos del sur de Madrid pueden dañar tuberías mal protegidas. Aplicamos un invernaje completo antes de que llegue el frío serio."
     },
     {
-      "title": "Filtros de arena calcificados",
-      "body": "La dureza del agua de la zona compacta con el tiempo la arena del filtro. Sustituirla por vidrio filtrante es la solución más duradera."
-    },
-    {
-      "title": "Fugas difíciles de localizar",
-      "body": "En piscinas con años de uso, las fugas pueden estar en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para dar con el punto exacto sin obras innecesarias."
+      "title": "Filtros saturados por temporada de alta ocupación",
+      "body": "El uso intensivo de julio y agosto satura los sistemas de filtración de las comunidades más grandes. Programamos contralavados frecuentes para evitar averías."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con grandes comunidades residenciales",
+      "body": "Sabemos gestionar el uso intensivo propio de las urbanizaciones de Fuenlabrada."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Presupuestos claros para juntas de propietarios",
+      "body": "Documentación detallada y fácil de aprobar en comunidad."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Invernaje adaptado al frío del sur de Madrid",
+      "body": "Protegemos la instalación de las heladas propias del invierno de la zona."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Atención también a negocios del entorno industrial",
+      "body": "Coordinamos las intervenciones para no interferir con la actividad de negocios de la ciudad."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Técnico de referencia estable",
+      "body": "La misma persona sigue el historial de tu piscina en cada visita."
     }
   ],
-  "zoneText": "Damos servicio a Fuenlabrada y a su entorno, tanto para piscinas particulares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio a comunidades de vecinos y negocios en Fuenlabrada y su entorno en el sur de Madrid.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Fuenlabrada?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿Por qué mi piscina en Fuenlabrada pierde tanto cloro en verano?",
+      "a": "Las temperaturas por encima de 35°C propias del verano madrileño degradan el cloro con rapidez, por lo que ajustamos la dosificación en los meses de más calor."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Es necesario invernar la piscina en Fuenlabrada?",
+      "a": "Sí, los inviernos del sur de Madrid registran heladas frecuentes y prolongadas que pueden dañar tuberías si no se protege bien la instalación."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Podéis presentar el presupuesto en junta de propietarios?",
+      "a": "Sí, elaboramos presupuestos cerrados y desglosados, pensados para facilitar la aprobación en comunidad."
     },
     {
-      "q": "¿El agua de mi zona es muy dura para la piscina?",
-      "a": "Suele ser de dureza media-alta, lo que con los años deja cal en juntas, tuberías y células de cloradores salinos. Recomendamos un control periódico del pH y equipos con función de autolimpieza para minimizar el efecto."
-    },
-    {
-      "q": "¿Hace falta invernar la piscina en zonas con heladas?",
-      "a": "Sí, un invernaje correcto evita daños por heladas en tuberías y equipos. Ofrecemos el servicio tanto al cerrar la temporada como al reabrirla en primavera."
+      "q": "¿Trabajáis también con negocios además de comunidades de vecinos?",
+      "a": "Sí, atendemos negocios del entorno industrial y comercial de Fuenlabrada, coordinando los trabajos con su actividad."
     }
   ],
-  "closingHeadline": "Tu piscina en Fuenlabrada, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Fuenlabrada y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas de comunidad en orden en Fuenlabrada",
+  "closingCta": "Pide presupuesto para tu piscina en Fuenlabrada, Madrid, sin compromiso."
 }

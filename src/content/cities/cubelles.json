@@ -4,9 +4,9 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 13711,
-  "metaTitle": "Mantenimiento y reparación de piscinas en Cubelles | Red Piscina",
-  "metaDescription": "Mantenimiento, reparación y rehabilitación de piscinas en Cubelles. Presupuesto cerrado, sin sorpresas, con disponibilidad en temporada alta.",
-  "heroSubtitle": "¿Tienes una piscina en Cubelles y no sabes a quién llamar cuando algo falla? Nosotros nos encargamos, con presupuesto cerrado y sin sorpresas.",
+  "metaTitle": "Mantenimiento de Piscinas en Cubelles — Red Piscina",
+  "metaDescription": "Mantenimiento y reparación de piscinas frente al salitre en Cubelles, costa del Garraf. Presupuesto cerrado.",
+  "heroSubtitle": "Piscinas protegidas del salitre en Cubelles, con mantenimiento profesional todo el año.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -29,95 +29,91 @@
       "text": "Materiales profesionales"
     }
   ],
-  "introLocal": "Cubelles, entre el Penedès, el Garraf y l'Anoia, combina zonas de costa con un interior más agrícola y vitivinícola, lo que se traduce en piscinas muy distintas según la zona: desde chalets en urbanizaciones cercanas al mar hasta masías y casas de campo con piscinas más grandes y alejadas de una depuradora fácilmente accesible. Adaptamos la logística del servicio a cada caso, incluidas las visitas a fincas algo más apartadas.\n\nEl clima mediterráneo de la comarca, con veranos calurosos y secos, favorece un desgaste rápido del cloro y exige un tratamiento de agua bien ajustado a la temporada alta. En las piscinas más antiguas de la zona, con gresite y filtros de arena de hace décadas, la rehabilitación integral suele ser más rentable a largo plazo que ir parcheando averías sueltas.",
-  "servicesIntro": "Ofrecemos soluciones integrales para tu piscina en Cubelles, desde el mantenimiento periódico hasta proyectos completos de rehabilitación o construcción.",
-  "processIntro": "Trabajamos con total transparencia. Recibirás un presupuesto cerrado y detallado, sin costes ocultos ni sorpresas de última hora.",
+  "introLocal": "Cubelles es un municipio costero de la comarca del Garraf, con playa propia y un desarrollo urbano que combina el núcleo histórico con urbanizaciones residenciales próximas al litoral. El clima mediterráneo suave, atemperado por el mar, hace que los veranos sean calurosos pero soportables gracias a la brisa marina, mientras que los inviernos son templados, con heladas poco frecuentes. El factor determinante para las piscinas de Cubelles es el ambiente salino: el aire cargado de sal corroe con rapidez elementos metálicos, escaleras y equipos de la depuradora en las instalaciones más próximas a la costa.\n\nEl municipio tiene un buen número de urbanizaciones de vivienda unifamiliar con piscina propia, muchas de ellas ocupadas de forma estacional como segunda residencia, junto a algunas comunidades más próximas al núcleo urbano. Para las piscinas de Cubelles, el reto principal combina la protección frente al salitre con la gestión de un uso que en muchos casos se concentra en los meses de verano, dejando la instalación varios meses sin actividad diaria.",
+  "servicesIntro": "Ofrecemos mantenimiento, protección frente al salitre y reparación de piscinas privadas y comunitarias en Cubelles.",
+  "processIntro": "Un proceso sencillo, con presupuesto cerrado, adaptado a piscinas de uso estacional y ambiente costero.",
   "processSteps": [
     {
-      "title": "Visita de valoración",
-      "body": "Nos desplazamos a tu vivienda para analizar el estado del vaso, la depuradora y el resto de la instalación, y te explicamos las opciones con claridad."
+      "title": "Contacto",
+      "body": "Nos explicas la ubicación de tu piscina y el servicio que necesitas."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás una propuesta detallada con cada partida, material y mano de obra desglosada. Sin sorpresas ni compromiso por tu parte hasta que lo confirmes."
+      "title": "Visita y presupuesto",
+      "body": "Evaluamos la instalación, considerando su exposición al salitre, y entregamos un presupuesto cerrado."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ningún trabajo sin tu confirmación explícita. Si surge un imprevisto durante la intervención, te contactamos antes de continuar."
+      "title": "Aprobación",
+      "body": "Solo iniciamos el trabajo cuando confirmas la propuesta."
     },
     {
-      "title": "Ejecución profesional",
-      "body": "Nuestro equipo técnico ejecuta el trabajo con materiales de calidad, minimizando molestias y con un acabado pensado para durar varias temporadas."
+      "title": "Ejecución del servicio",
+      "body": "Realizamos la intervención acordada, adaptándonos a un uso estacional de la vivienda si aplica."
     },
     {
-      "title": "Seguimiento y garantía",
-      "body": "Hacemos seguimiento tras el servicio para asegurar que todo funciona correctamente. Todos nuestros trabajos cuentan con garantía."
+      "title": "Informe final",
+      "body": "Entregamos un resumen de lo realizado y quedamos disponibles para el seguimiento."
     }
   ],
-  "commonIssuesIntro": "El clima y las condiciones del agua en Cubelles generan averías características en las piscinas de la zona. Estas son las que más vemos.",
+  "commonIssuesIntro": "El ambiente marino y el uso estacional de muchas viviendas de Cubelles generan averías propias de la zona.",
   "commonIssues": [
     {
-      "title": "Corrosión en escaleras y elementos metálicos",
-      "body": "La humedad salina del ambiente costero acelera la oxidación de escaleras, barandillas y carcasas de bombas. Usamos materiales con mayor resistencia a la corrosión y revisamos estos puntos en cada mantenimiento."
+      "title": "Corrosión de elementos metálicos por salitre",
+      "body": "Escaleras, barandillas y componentes de la bomba se oxidan con más rapidez cerca de la costa. Los revisamos en cada visita para anticipar el desgaste."
     },
     {
-      "title": "Agua turbia en pleno verano",
-      "body": "Con el calor y la radiación solar intensa, el cloro se degrada mucho más rápido. Si el tratamiento no se ajusta a la temporada alta, el agua puede enturbiarse en cuestión de días. Ajustamos la dosificación a las condiciones reales de cada mes."
+      "title": "Descuido en piscinas de segunda residencia",
+      "body": "Muchas viviendas de Cubelles se usan solo en verano, lo que puede dejar la piscina sin control varios meses. Programamos un mantenimiento adaptado a este uso intermitente."
     },
     {
-      "title": "Depuradoras que fallan en temporada alta",
-      "body": "El uso intensivo de los meses de más calor desgasta antes bombas y motores que ya llevan años funcionando. Recomendamos una revisión preventiva en primavera para evitar averías justo cuando más se necesita la piscina."
+      "title": "Algas por humedad y calor combinados en verano",
+      "body": "La combinación de calor estival y humedad marina favorece la aparición de algas si el cloro baja de nivel. Reforzamos el control en los meses de más uso."
     },
     {
-      "title": "Fugas de agua difíciles de localizar",
-      "body": "Si notas que tienes que rellenar la piscina con más frecuencia de lo normal, puede haber una fuga en el vaso o en las tuberías enterradas. Usamos equipos de detección profesional para localizar el punto exacto sin obras innecesarias."
-    },
-    {
-      "title": "Filtros de arena con menos rendimiento por la cal",
-      "body": "Con los años, la cal del agua se acumula en el lecho filtrante y reduce su capacidad de retener partículas. La solución más duradera suele ser sustituir la arena por vidrio filtrante."
+      "title": "Arena y partículas del litoral en el filtro",
+      "body": "El viento de la zona costera arrastra arena hacia las piscinas más próximas a la playa, saturando los filtros. Ajustamos la frecuencia de limpieza en consecuencia."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico técnico honesto",
-      "body": "No vendemos por vender. Te explicamos la causa real de cada problema y te presentamos opciones para que elijas la que mejor encaja con tu presupuesto."
+      "title": "Experiencia con ambiente marino",
+      "body": "Sabemos cómo el salitre afecta a las instalaciones cercanas a la costa del Garraf."
     },
     {
-      "title": "Adaptado al clima y al agua de tu zona",
-      "body": "Ajustamos tratamientos y equipos a las condiciones reales de tu municipio, no a una tabla genérica, para que el mantenimiento sea más sencillo y económico a largo plazo."
+      "title": "Adaptación a viviendas de segunda residencia",
+      "body": "Programamos visitas pensadas para un uso concentrado en verano."
     },
     {
-      "title": "Presupuestos cerrados",
-      "body": "El precio que acordamos es el que pagas. Si durante el trabajo aparece algo imprevisto, te lo explicamos y decides tú antes de seguir."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Sin costes ocultos, sabes desde el inicio qué vas a pagar."
     },
     {
-      "title": "Equipo técnico propio",
-      "body": "No subcontratamos las partes críticas del trabajo. Nuestro personal cualificado ejecuta cada servicio con el mismo control de calidad."
+      "title": "Técnico de referencia estable",
+      "body": "La misma persona sigue el historial de tu piscina."
     },
     {
-      "title": "Disponibilidad en temporada alta",
-      "body": "Mantenemos equipo suficiente para dar respuesta también en los meses de mayor demanda, cuando más falta hace un mantenimiento rápido."
+      "title": "Cobertura de todo el municipio",
+      "body": "Atendemos tanto el núcleo urbano como las urbanizaciones más próximas al litoral."
     }
   ],
-  "zoneText": "Damos servicio a Cubelles y a los municipios cercanos, tanto para piscinas particulares en viviendas unifamiliares como para piscinas comunitarias. Nos desplazamos para mantenimientos programados y también para atender urgencias en la propia temporada alta.",
+  "zoneText": "Damos servicio en Cubelles y sus urbanizaciones, con atención especial a las instalaciones más próximas a la costa del Garraf.",
   "faqLocal": [
     {
-      "q": "¿Cuánto cuesta el mantenimiento mensual de una piscina en Cubelles?",
-      "a": "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración, sin compromiso."
+      "q": "¿El salitre afecta mucho a mi piscina en Cubelles?",
+      "a": "Sí, especialmente si está cerca de la playa. Corroe escaleras, barandillas y componentes metálicos de la depuradora con más rapidez, por lo que los revisamos en cada visita."
     },
     {
-      "q": "Mi piscina pierde agua pero no veo ninguna grieta, ¿cómo lo detectáis?",
-      "a": "Primero hacemos pruebas de presión en el circuito de tuberías para saber si la fuga es hidráulica o del propio vaso. Si está en las tuberías, usamos gas trazador para localizar el punto exacto bajo tierra; si está en el vaso, detectores de ultrasonidos y colorante, sin necesidad de vaciarla por completo en la mayoría de los casos."
+      "q": "¿Podéis hacer el mantenimiento si solo uso la casa en verano?",
+      "a": "Sí, es una situación muy habitual en Cubelles. Adaptamos la frecuencia de visitas a un uso estacional de la vivienda."
     },
     {
-      "q": "¿Hacéis piscinas nuevas o solo mantenimiento y reparación?",
-      "a": "Hacemos las tres cosas: mantenimiento periódico, reparaciones puntuales y proyectos completos de construcción o rehabilitación integral, con presupuesto cerrado en todos los casos."
+      "q": "¿Hacéis invernaje de piscinas en Cubelles?",
+      "a": "Sí, aunque el invierno es suave en la zona, aplicamos un invernaje adecuado para proteger la instalación durante los meses sin uso."
     },
     {
-      "q": "Vivo cerca de la costa, ¿afecta la humedad salina a mi piscina?",
-      "a": "Sí, sobre todo a elementos metálicos: escaleras, barandillas y carcasas de bombas se oxidan antes que en zonas de interior. Usamos materiales con mayor resistencia a la corrosión en estas instalaciones."
+      "q": "¿Trabajáis con urbanizaciones de vivienda unifamiliar?",
+      "a": "Sí, es el tipo de instalación más habitual en Cubelles y contamos con amplia experiencia en su mantenimiento."
     }
   ],
-  "closingHeadline": "Tu piscina en Cubelles, sin sorpresas",
-  "closingCta": "Si tienes una piscina en Cubelles y necesitas mantenimiento, una reparación o un proyecto nuevo, contacta con nosotros. Te damos un presupuesto claro y sin compromiso."
+  "closingHeadline": "Piscinas protegidas del salitre en Cubelles",
+  "closingCta": "Solicita presupuesto para tu piscina en Cubelles y prepárala para la temporada."
 }
