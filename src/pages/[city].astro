@@ -196,15 +196,26 @@ const autoRepair = {
   url: canonical,
   telephone: phone,
   email: email,
-  address: {
-    "@type": "PostalAddress",
-    ...(addrStreet ? { streetAddress: addrStreet } : {}),
-    ...(addrPostal ? { postalCode: addrPostal } : {}),
-    addressLocality: city.name,
-    addressRegion: city.province,
-    addressCountry: "ES",
-  },
-  ...(geoLat && geoLng ? { geo: { "@type": "GeoCoordinates", latitude: geoLat, longitude: geoLng } } : {}),
+  // Direccion y coordenadas SOLO si hay un taller de verdad en esa ciudad.
+  // Antes se declaraban siempre, con el nombre del municipio y las coordenadas
+  // de su centro, aunque el negocio no estuviera alli: le decia a Google que
+  // hay un taller en cada municipio de la red. `areaServed` si es cierto y se
+  // queda: se presta servicio a esa ciudad sin fingir estar en ella.
+  ...(addrStreet
+    ? {
+        address: {
+          "@type": "PostalAddress",
+          streetAddress: addrStreet,
+          ...(addrPostal ? { postalCode: addrPostal } : {}),
+          addressLocality: city.name,
+          addressRegion: city.province,
+          addressCountry: "ES",
+        },
+        ...(geoLat && geoLng
+          ? { geo: { "@type": "GeoCoordinates", latitude: geoLat, longitude: geoLng } }
+          : {}),
+      }
+    : {}),
   areaServed: { "@type": "City", name: city.name },
   image: `https://${city.slug}.${NETWORK.domain}${heroImage}`,
   priceRange: "€€",
