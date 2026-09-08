@@ -888,7 +888,19 @@ const { title, description, canonical, schema, ogImage = `https://${NETWORK.doma
         .vs-table th, .vs-table td { padding: 0.6rem 0.5rem; }
       }
 
-    </style>
+    
+/* nb-ancho-pantalla */
+/* Ancho de pantalla: el contenedor deja de tener tope fijo y el margen pasa a
+   ser un carril proporcional (96px a 1920, 72 a 1440, 64 a 1280). El texto no
+   se estira: el titular se queda en medida de lectura. Por debajo de 1280 no
+   cambia nada. */
+@media(min-width:1280px){
+.container{max-width:none;width:auto;padding-inline:clamp(1rem,5vw,6rem);margin-inline:auto}
+h1{max-width:961px}
+.container p{max-width:72ch}
+.contact-card h1,.contact-card p,.trust-chip-text h1,.trust-chip-text p{margin-inline:auto}
+}
+</style>
   <!-- Neutral B contact tracker -->
   <script async src="https://panel.neutralb.es/track.js"></script>
   </head>
