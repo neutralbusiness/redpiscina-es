@@ -73,6 +73,12 @@ export async function getStaticPaths() {
 }
 
 const { city } = Astro.props as { city: CityContent };
+// Testimonios retirados el 08-sep-2026: se generaban por ciudad (nombre, barrio,
+// vehículo) sin ninguna reseña real detrás, y la valoración del JSON-LD salía de
+// su media. No se publican opiniones sin fuente verificable. Los datos siguen en
+// el JSON por si algún día hay reseñas reales que los sustituyan.
+const testimoniosVisibles = undefined as Testimonial[] | undefined;
+
 const canonical = `https://${city.slug}.${NETWORK.domain}/`;
 // Últimas 3 entradas del blog visibles en este subdominio (ciudad o globales)
 type BlogPost = CollectionEntry<"blog">;
@@ -253,16 +259,16 @@ const autoRepair = {
     })),
   },
   ...(gbpUrl ? { sameAs: [gbpUrl] } : {}),
-  ...(city.testimonials && city.testimonials.length > 0
+  ...(testimoniosVisibles && testimoniosVisibles.length > 0
     ? {
         aggregateRating: {
           "@type": "AggregateRating",
-          ratingValue: (city.testimonials.reduce((s, ti) => s + (ti.rating || 5), 0) / city.testimonials.length).toFixed(1),
-          reviewCount: city.testimonials.length,
+          ratingValue: (testimoniosVisibles.reduce((s, ti) => s + (ti.rating || 5), 0) / testimoniosVisibles.length).toFixed(1),
+          reviewCount: testimoniosVisibles.length,
           bestRating: 5,
           worstRating: 1,
         },
-        review: city.testimonials.map(t => ({
+        review: testimoniosVisibles.map(t => ({
           "@type": "Review",
           author: { "@type": "Person", name: t.name },
           reviewRating: {
@@ -521,16 +527,16 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
   </section>
 
   {/* ─────────────────────── TESTIMONIOS ─────────────────────── */}
-  {city.testimonials && city.testimonials.length > 0 && (
+  {testimoniosVisibles && testimoniosVisibles.length > 0 && (
     <section id="opiniones" class="testi-section">
       <div class="container">
         <div class="section-head">
           <span class="section-eyebrow"><span class="num">05</span> Opiniones</span>
           <h2>Lo que dicen clientes en {city.name}</h2>
-          {city.testimonialsIntro && <p class="section-lead">{city.testimonialsIntro}</p>}
+          {testimoniosVisiblesIntro && <p class="section-lead">{testimoniosVisiblesIntro}</p>}
         </div>
         <div class="testi-grid">
-          {city.testimonials.map(t => {
+          {testimoniosVisibles.map(t => {
             const stars = Math.min(5, Math.max(0, Math.round(t.rating || 5)));
             return (
               <article class="testi-card">
