@@ -9,6 +9,7 @@
  */
 import type { APIRoute } from "astro";
 import { NETWORK, SERVICES, FAQ_BASE } from "../lib/network.ts";
+import { POSTS } from "../lib/wwwblog.ts";
 
 interface CityRef {
   slug: string;
@@ -57,6 +58,16 @@ export const GET: APIRoute = async () => {
   lines.push("");
   for (const s of SERVICES) {
     lines.push(`- **${s.title}**: ${s.summary}`);
+  }
+  lines.push("");
+
+  // ───── Blog ─────
+  lines.push("## Blog");
+  lines.push("");
+  lines.push(`Índice: ${base}/blog/ (listado en JSON: ${base}/blog/posts.json)`);
+  lines.push("");
+  for (const p of POSTS) {
+    lines.push(`- [${p.title}](${base}/blog/${p.slug}/): ${p.excerpt}`);
   }
   lines.push("");
 

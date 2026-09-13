@@ -41,7 +41,9 @@ export async function onRequest(context) {
       // Assets puros (.css/.webp/.js/.svg/etc) → servir tal cual.
       // NO incluimos .txt/.xml aquí porque /llms.txt, /robots.txt, /sitemap.xml
       // deben reescribirse a /<slug>/* para servir contenido específico de ciudad.
-      if (/\.(css|js|mjs|map|webp|avif|jpe?g|png|svg|gif|ico|woff2?|ttf|otf|eot|webmanifest|json)$/i.test(url.pathname)) {
+      // /blog/* es solo de la www (incluido /blog/posts.json): en una ciudad se
+      // reescribe a /<slug>/blog/... y da 404 si no existe.
+      if (!url.pathname.startsWith("/blog/") && /\.(css|js|mjs|map|webp|avif|jpe?g|png|svg|gif|ico|woff2?|ttf|otf|eot|webmanifest|json)$/i.test(url.pathname)) {
         return env.ASSETS.fetch(request);
       }
 

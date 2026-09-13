@@ -36,8 +36,9 @@ const posts: Post[] = all
   .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
 
 const canonical = `https://${city.slug}.${NETWORK.domain}/blog/`;
-const title = `Blog · Taller en ${city.name}`;
-const description = `Artículos y guías sobre mantenimiento, frenos, motor, ITV y más. Información práctica para conductores de ${city.name}.`;
+const title = `Blog · Piscinas en ${city.name}`;
+const rootBlog = `https://www.${NETWORK.domain}/blog/`;
+const description = `Artículos sobre mantenimiento, puesta a punto, depuradoras y normativa de piscinas. Se publican en el blog de ${NETWORK.brand}.`;
 
 function formatDate(d: Date): string {
   return d.toLocaleDateString("es-ES", { day: "2-digit", month: "short", year: "numeric" });
@@ -49,7 +50,7 @@ function postUrl(id: string): string {
 }
 ---
 
-<Layout title={title} description={description} canonical={canonical}>
+<Layout noindex={true} title={title} description={description} canonical={canonical}>
   <nav class="nav">
     <div class="container nav-inner">
       <a href={`/`} class="nav-brand">{NETWORK.brand}</a>
@@ -62,15 +63,15 @@ function postUrl(id: string): string {
 
   <header class="blog-header">
     <div class="container">
-      <p class="breadcrumb"><a href={`/`}>← Volver a Taller en {city.name}</a></p>
+      <p class="breadcrumb"><a href={`/`}>← Volver a Piscinas en {city.name}</a></p>
       <h1>Blog · {city.name}</h1>
-      <p class="lead">Guías y consejos prácticos para tu coche.</p>
+      <p class="lead">Guías sobre mantenimiento y reparación de piscinas.</p>
     </div>
   </header>
 
   <main class="container" style="padding: 2rem 1rem;">
     {posts.length === 0 ? (
-      <p style="color: var(--muted); padding: 2rem 0;">Próximamente publicaremos artículos sobre mantenimiento, frenos, motor, ITV y más.</p>
+      <p style="color: var(--muted); padding: 2rem 0;">Publicamos los artículos sobre mantenimiento, puesta a punto, depuradoras y normativa de piscinas una sola vez, en el <a href={rootBlog}>blog de {NETWORK.brand}</a>.</p>
     ) : (
       <ul class="post-list">
         {posts.map((p) => (

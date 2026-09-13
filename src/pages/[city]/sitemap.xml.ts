@@ -1,5 +1,4 @@
 import type { APIRoute, GetStaticPaths } from "astro";
-import { getCollection } from "astro:content";
 import { NETWORK } from "../../lib/network.ts";
 
 interface CityRef { slug: string; }
@@ -13,24 +12,8 @@ export const GET: APIRoute = async ({ params }) => {
   const base = `https://${params.city}.${NETWORK.domain}`;
   const lastmod = new Date().toISOString().slice(0, 10);
 
-  // Blog posts visibles para esta ciudad = específicos de la ciudad + globales
-  const all = await getCollection("blog");
-  const cityPosts = all.filter(p => {
-    const parts = p.id.split("/");
-    if (parts.length === 1) return true;     // global
-    return parts[0] === params.city;          // city-specific
-  });
-
-  const blogUrls = cityPosts.map(p => {
-    const slug = p.id.split("/").pop();
-    const last = (p.data.updatedDate || p.data.publishDate).toISOString().slice(0, 10);
-    return `  <url>
-    <loc>${base}/blog/${slug}/</loc>
-    <lastmod>${last}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>`;
-  }).join("\n");
+  // El blog de ciudad no entra en el sitemap: los artículos se publican una sola
+  // vez en el blog de la www (www.<dominio>/blog/) y /blog/ de cada ciudad es noindex.
 
   const body = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -40,13 +23,6 @@ export const GET: APIRoute = async ({ params }) => {
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
-  <url>
-    <loc>${base}/blog/</loc>
-    <lastmod>${lastmod}</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-${blogUrls}
   <url>
     <loc>${base}/llms.txt</loc>
     <lastmod>${lastmod}</lastmod>

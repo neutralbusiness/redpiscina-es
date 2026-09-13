@@ -1,10 +1,13 @@
 import type { APIRoute } from "astro";
 import { NETWORK } from "../lib/network.ts";
+import { POSTS } from "../lib/wwwblog.ts";
 
 export const GET: APIRoute = () => {
   const base = `https://www.${NETWORK.domain}`;
   const urls = [
     { loc: `${base}/`, changefreq: "weekly", priority: "1.0" },
+    { loc: `${base}/blog/`, changefreq: "weekly", priority: "0.7" },
+    ...POSTS.map(p => ({ loc: `${base}/blog/${p.slug}/`, changefreq: "monthly", priority: "0.6" })),
   ];
 
   const body = `<?xml version="1.0" encoding="UTF-8"?>

@@ -376,7 +376,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
         <a href="#problemas">Problemas</a>
         <a href="#opiniones">Opiniones</a>
         <a href="#zona">Zona</a>
-        <a href={`/blog/`}>Blog</a>
+        <a href={`https://www.${NETWORK.domain}/blog/`}>Blog</a>
         <a href="#faq">FAQ</a>
         <a href="#contacto">Contacto</a>
       </div>
@@ -721,7 +721,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
           ))}
         </ul>
         <p class="blog-preview-cta">
-          <a href={`/blog/`} class="btn btn-ghost">Ver todos los artículos →</a>
+          <a href={`https://www.${NETWORK.domain}/blog/`} class="btn btn-ghost">Ver todos los artículos →</a>
         </p>
       </div>
 
@@ -792,7 +792,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
             <li><a href={`tel:${phone}`}>{phoneDisplay}</a></li>
             <li><a href={waUrl} target="_blank" rel="noopener">WhatsApp</a></li>
             <li><a href={mailtoUrl}>{email}</a></li>
-            <li><a href={`/blog/`}>Blog</a></li>
+            <li><a href={`https://www.${NETWORK.domain}/blog/`}>Blog</a></li>
             <li style="margin-top: 0.75rem; color: rgba(255,255,255,0.45);">Lun–Sáb · 08:00–20:00</li>
           </ul>
         </div>

@@ -25,7 +25,7 @@ export const GET: APIRoute = async () => {
   const base = `https://www.${NETWORK.domain}`;
 
   const entries = [
-    `  <sitemap>\n    <loc>${base}/sitemap.xml</loc>\n  </sitemap>`,
+    `  <sitemap>\n    <loc>${base}/sitemap-www.xml</loc>\n  </sitemap>`,
     ...cities.map(
       c =>
         `  <sitemap>\n    <loc>https://${c.slug}.${NETWORK.domain}/sitemap.xml</loc>\n  </sitemap>`,

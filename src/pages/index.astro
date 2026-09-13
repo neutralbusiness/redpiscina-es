@@ -44,7 +44,7 @@ const schema = {
 
 <Layout
   title={`${NETWORK.brand} · ${NETWORK.tagline}`}
-  description={`Encuentra taller mecánico en tu ciudad. ${totalCities} talleres en toda España.`}
+  description={`Mantenimiento, reparación y construcción de piscinas en tu ciudad. ${totalCities} ciudades en toda España.`}
   canonical={canonical}
   schema={schema}
 >
@@ -54,6 +54,7 @@ const schema = {
       <div class="nav-links">
         <a href="/">Inicio</a>
         <a href="#directorio">Directorio</a>
+        <a href="/blog/">Blog</a>
         <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay}</a>
       </div>
     </div>
@@ -63,7 +64,7 @@ const schema = {
     <img src={NETWORK.heroImage} alt={NETWORK.brand} class="hero-img" />
     <div class="container hero-content">
       <h1>{NETWORK.brand}</h1>
-      <p class="lead">{NETWORK.tagline}. Encuentra el taller más cercano a ti — {totalCities} ciudades en España.</p>
+      <p class="lead">{NETWORK.tagline}. Encuentra el servicio de piscinas más cercano — {totalCities} ciudades en España.</p>
       <div class="hero-ctas">
         <a href="#directorio" class="cta-phone">📍 Buscar mi ciudad</a>
         <a href={`tel:${NETWORK.phone}`} class="cta-wa">📞 {NETWORK.phoneDisplay}</a>
@@ -73,8 +74,8 @@ const schema = {
 
   <section id="directorio">
     <div class="container">
-      <h2>Directorio de talleres por comunidad y provincia</h2>
-      <p style="max-width: 700px;">Pulsa en tu ciudad para acceder al taller asociado y ver sus servicios, horario y forma de contacto.</p>
+      <h2>Directorio de piscinas por comunidad y provincia</h2>
+      <p style="max-width: 700px;">Pulsa en tu ciudad para ver los servicios de piscinas de la zona, el horario y la forma de contacto.</p>
 
       {ccaas.length === 0 ? (
         <p style="padding: 2rem 0; color: #666;">Aún no hay ciudades activas. Vuelve pronto.</p>
@@ -111,7 +112,7 @@ const schema = {
     <div class="container">
       <p style="margin: 0; color: white; font-weight: 700;">{NETWORK.brand}</p>
       <p style="margin: 0.5rem 0; font-size: 0.85rem;">{NETWORK.tagline} · {NETWORK.email}</p>
-      <p style="margin: 0.5rem 0 0; font-size: 0.8rem;"><a href="/llms.txt" style="color: rgba(255,255,255,0.6);">llms.txt</a></p>
+      <p style="margin: 0.5rem 0 0; font-size: 0.8rem;"><a href="/blog/" style="color: rgba(255,255,255,0.6);">Blog</a> · <a href="/llms.txt" style="color: rgba(255,255,255,0.6);">llms.txt</a></p>
     </div>
   </footer>
 

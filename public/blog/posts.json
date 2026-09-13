@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "puesta-a-punto-piscina-primavera",
+    "title": "Puesta a punto de la piscina en primavera: el orden de trabajo que evita vaciarla",
+    "excerpt": "Quitar el cobertor, arrancar la depuradora sin quemar la bomba y recuperar un agua verde o turbia sin tirarla: el orden en que lo hacemos y cuándo sí conviene llamar.",
+    "category": "Puesta a punto",
+    "publishDate": "2026-09-02",
+    "readTime": 7,
+    "image": "/img/blog/puesta-a-punto-piscina-primavera.webp",
+    "author": "Red Piscina"
+  },
+  {
+    "slug": "depuradora-ph-cloro-piscina-verano",
+    "title": "Depuradora, pH y cloro en pleno verano: cuántas horas filtrar y por qué el agua se enturbia",
+    "excerpt": "Horas de filtración según la temperatura, por qué el pH va antes que el cloro, el manómetro del filtro y el problema de abusar de las pastillas estabilizadas.",
+    "category": "Mantenimiento",
+    "publishDate": "2026-09-06",
+    "readTime": 6,
+    "image": "/img/blog/depuradora-ph-cloro-piscina-verano.webp",
+    "author": "Red Piscina"
+  },
+  {
+    "slug": "piscina-comunidad-normativa-legionela-quimicos",
+    "title": "Piscina de comunidad de vecinos: controles del Real Decreto 742/2013, legionela y productos químicos",
+    "excerpt": "Qué valores de pH y cloro exige la norma a una piscina comunitaria, qué pasa con la legionela en vasos climatizados o con chorros y cómo guardar los productos sin sustos.",
+    "category": "Normativa",
+    "publishDate": "2026-09-10",
+    "readTime": 8,
+    "image": "/img/blog/piscina-comunidad-normativa-legionela-quimicos.webp",
+    "author": "Red Piscina"
+  }
+]

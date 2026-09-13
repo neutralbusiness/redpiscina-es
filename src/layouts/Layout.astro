@@ -7,9 +7,10 @@ interface Props {
   canonical: string;
   schema?: object;
   ogImage?: string;
+  noindex?: boolean;
 }
 
-const { title, description, canonical, schema, ogImage = `https://${NETWORK.domain}${NETWORK.heroImage}` } = Astro.props;
+const { title, description, canonical, schema, noindex, ogImage = `https://${NETWORK.domain}${NETWORK.heroImage}` } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -20,6 +21,7 @@ const { title, description, canonical, schema, ogImage = `https://${NETWORK.doma
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
 
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />

@@ -1,0 +1,104 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { NETWORK } from "../../lib/network.ts";
+import { POSTS, formatDate } from "../../lib/wwwblog.ts";
+import { BLOG_TEXT } from "../../lib/wwwblog-text.ts";
+
+const base = `https://www.${NETWORK.domain}`;
+const canonical = `${base}/blog/`;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  name: `Blog de ${NETWORK.brand}`,
+  url: canonical,
+  description: BLOG_TEXT.description,
+  publisher: { "@type": "Organization", name: NETWORK.brand, url: `${base}/` },
+  blogPost: POSTS.map((p) => ({
+    "@type": "BlogPosting",
+    headline: p.title,
+    url: `${base}/blog/${p.slug}/`,
+    datePublished: p.publishDate,
+    image: `${base}${p.image}`,
+  })),
+};
+---
+
+<Layout
+  title={`Blog · ${NETWORK.brand}`}
+  description={BLOG_TEXT.description}
+  canonical={canonical}
+  schema={schema}
+>
+  <nav class="nav">
+    <div class="container nav-inner">
+      <a href="/" class="nav-brand">{NETWORK.brand}</a>
+      <div class="nav-links">
+        <a href="/">Inicio</a>
+        <a href="/#directorio">Directorio</a>
+        <a href="/blog/" aria-current="page">Blog</a>
+        <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay}</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="hero wb-hero">
+    <img src={NETWORK.heroImage} alt="" class="hero-img" width="1920" height="1080" />
+    <div class="container hero-content">
+      <p class="wb-crumbs"><a href="/">Inicio</a> › Blog</p>
+      <h1>Blog de {NETWORK.brand}</h1>
+      <p class="lead">{BLOG_TEXT.lead}</p>
+    </div>
+  </header>
+
+  <section>
+    <div class="container">
+      <ul class="wb-list">
+        {POSTS.map((p) => (
+          <li class="wb-card">
+            <a href={`/blog/${p.slug}/`}>
+              <img src={p.image} alt="" width="1200" height="675" loading="lazy" />
+              <div class="wb-card-body">
+                <p class="wb-meta">
+                  <span class="wb-cat">{p.category}</span>
+                  <time datetime={p.publishDate}>{formatDate(p.publishDate)}</time>
+                  <span>· {p.readTime} min</span>
+                </p>
+                <h2>{p.title}</h2>
+                <p class="wb-excerpt">{p.excerpt}</p>
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+      <p class="wb-dir">{BLOG_TEXT.directoryCta} <a href="/#directorio">Ver el directorio de ciudades →</a></p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p style="margin: 0; color: white; font-weight: 700;">{NETWORK.brand}</p>
+      <p style="margin: 0.5rem 0; font-size: 0.85rem;">{BLOG_TEXT.footerLine} · {NETWORK.email}</p>
+      <p style="margin: 0.5rem 0 0; font-size: 0.8rem;"><a href="/blog/" style="color: rgba(255,255,255,0.6);">Blog</a> · <a href="/llms.txt" style="color: rgba(255,255,255,0.6);">llms.txt</a></p>
+    </div>
+  </footer>
+
+  <style>
+    .wb-hero { min-height: 0; padding: 4.5rem 0 3.5rem; }
+    .wb-crumbs { color: rgba(255,255,255,0.75); font-size: 0.9rem; margin: 0 0 0.75rem; }
+    .wb-crumbs a { color: white; text-decoration: underline; }
+    .wb-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 1.5rem; }
+    @media (min-width: 900px) { .wb-list { grid-template-columns: repeat(3, 1fr); } }
+    .wb-card { background: white; border: 1px solid rgba(0,0,0,0.08); border-radius: 12px; overflow: hidden; transition: box-shadow .2s, transform .2s; }
+    .wb-card:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
+    .wb-card a { display: block; color: inherit; }
+    .wb-card img { width: 100%; height: auto; aspect-ratio: 16/9; object-fit: cover; }
+    .wb-card-body { padding: 1.1rem 1.25rem 1.4rem; }
+    .wb-card h2 { font-size: 1.2rem; line-height: 1.3; margin: 0.5rem 0; }
+    .wb-meta { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; color: var(--muted); font-size: 0.8rem; margin: 0; }
+    .wb-cat { background: var(--amber-100); color: var(--amber-800); padding: 0.1rem 0.6rem; border-radius: 999px; font-weight: 600; font-size: 0.75rem; }
+    .wb-excerpt { color: var(--ink-700); font-size: 0.95rem; line-height: 1.55; margin: 0; }
+    .wb-dir { margin-top: 2rem; color: var(--ink-700); }
+    .wb-dir a { color: var(--amber-800); font-weight: 700; }
+  </style>
+</Layout>
