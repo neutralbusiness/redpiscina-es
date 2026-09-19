@@ -55,6 +55,11 @@ const { city, cityName, networkDomain, endpoint = "https://panel.neutralb.es/api
         <textarea name="message" rows="4" maxlength="5000" placeholder={`Ej. revisión pre-ITV en ${cityName}, ruido en frenada, cambio de aceite…`}></textarea>
       </label>
 
+      <label>
+      <span>Ciudad (opcional)</span>
+      <input type="text" name="city" maxlength="200" autocomplete="address-level2" placeholder="Ej. Madrid" />
+    </label>
+
       {/* Honeypot: invisible para humanos, rellenado por bots */}
       <label class="hp" aria-hidden="true" tabindex="-1">
         Website
@@ -96,6 +101,7 @@ const { city, cityName, networkDomain, endpoint = "https://panel.neutralb.es/api
         source: String(fd.get("source") || "web_form"),
         page: location.pathname,
         hp: String(fd.get("hp") || ""),
+        city: String(fd.get("city") || "").trim(),
       };
 
       if (!payload.name || payload.name.length < 2) {
