@@ -8,6 +8,7 @@
  * carga vía import.meta.glob en [city].astro.
  */
 export const NETWORK = {
+  gtmId: "GTM-W8BNHVSV",
   slug: "redpiscina",
   domain: "redpiscina.es",
   brand: "Red Piscina",

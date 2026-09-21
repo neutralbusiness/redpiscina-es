@@ -905,6 +905,21 @@ h1{max-width:961px}
 </style>
   <!-- Neutral B contact tracker -->
   <script async src="https://panel.neutralb.es/track.js"></script>
+    <!-- GTM: carga diferida para no bloquear LCP/FCP -->
+  {NETWORK.gtmId && (
+    <script define:vars={{ gtmId: NETWORK.gtmId }}>
+      addEventListener('DOMContentLoaded', () => {
+        (window.requestIdleCallback || ((f) => setTimeout(f, 1)))(() => {
+          const s = document.createElement('script');
+          s.src = `https://www.googletagmanager.com/gtm.js?id=${gtmId}`;
+          s.async = true;
+          window.dataLayer = window.dataLayer || [];
+          window.dataLayer.push({ 'gtm.start': Date.now(), event: 'gtm.js' });
+          document.head.appendChild(s);
+        }, { timeout: 3000 });
+      });
+    </script>
+  )}
   </head>
   <body>
     <!-- Navigation progress bar -->
