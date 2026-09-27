@@ -174,7 +174,7 @@ Os escribo desde ${canonical}
 
 Gracias,
 `;
-const mailtoUrl = `mailto:${email}?subject=${encodeURIComponent(mailSubject)}&body=${encodeURIComponent(mailBody)}`;
+const mailtoUrl = "#contacto";
 const waMsg = `IMPORTANTE: Envía este mensaje sin editarlo para hablar con nosotros: ${city.slug}.${NETWORK.domain}`;
 const waUrl = `https://wa.me/${whatsapp}?text=${encodeURIComponent(waMsg)}`;
 
@@ -419,7 +419,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
         </a>
         <a href={mailtoUrl} class="btn btn-ghost">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
-          Email
+          Formulario
         </a>
       </div>
     </div>
@@ -647,11 +647,11 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
           </a>
           <a href={mailtoUrl} class="btn btn-ghost">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
-            Email
+            Formulario
           </a>
         </div>
         <p class="contact-email-note">
-          O escríbenos a <a href={mailtoUrl}>{email}</a>.
+          Escríbenos por nuestro <a href={mailtoUrl}>formulario de contacto</a>.
         </p>
       </div>
     </div>
@@ -791,7 +791,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
           <ul>
             <li><a href={`tel:${phone}`}>{phoneDisplay}</a></li>
             <li><a href={waUrl} target="_blank" rel="noopener">WhatsApp</a></li>
-            <li><a href={mailtoUrl}>{email}</a></li>
+            <li><a href={mailtoUrl}>Formulario de contacto</a></li>
             <li><a href={`https://www.${NETWORK.domain}/blog/`}>Blog</a></li>
             <li style="margin-top: 0.75rem; color: rgba(255,255,255,0.45);">Lun–Sáb · 08:00–20:00</li>
           </ul>
