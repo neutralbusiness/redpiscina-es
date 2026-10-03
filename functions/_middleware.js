@@ -14,6 +14,29 @@
  * CF detecta loop → 403. ASSETS sirve directamente los archivos estáticos
  * construidos por el build.
  */
+/**
+ * Ciudades retiradas (03-oct-2026): más de 28 días con 0 impresiones en
+ * Google, sin ningún lead y sin socio ni teléfono propio. Su página ya no se
+ * construye (se borró su src/content/cities/<slug>.json) y el subdominio
+ * entero responde 301 a la www, conservando la ruta solo si existe allí
+ * (RETIRED_KEEP_PATHS); si no, a la portada. Reduce la huella de páginas de
+ * ciudad casi idénticas (doorway pages).
+ * Para reactivar una ciudad hay que quitarla también de esta lista.
+ */
+const RETIRED_CITIES = new Set([
+  "barakaldo",
+  "ciudad-lineal",
+  "fuenlabrada",
+  "getafe",
+  "jaen",
+  "les-cabanyes",
+  "palma",
+  "parla",
+  "torrejon-de-ardoz",
+  "vigo",
+]);
+const RETIRED_KEEP_PATHS = new Set(["/", "/blog/", "/llms.txt", "/robots.txt", "/sitemap.xml"]);
+
 export async function onRequest(context) {
   const { request, next, env } = context;
   const url = new URL(request.url);
@@ -38,6 +61,14 @@ export async function onRequest(context) {
   if (hostname.endsWith(".redpiscina.es")) {
     const subdomain = hostname.replace(/\.redpiscina\.es$/, "");
     if (subdomain && !subdomain.includes(".") && subdomain !== "www") {
+      // Ciudad retirada → 301 a la www (ver RETIRED_CITIES arriba).
+      if (RETIRED_CITIES.has(subdomain)) {
+        let p = url.pathname || "/";
+        if (!p.endsWith("/") && !/\.\w+$/.test(p)) p += "/";
+        const dest = RETIRED_KEEP_PATHS.has(p) ? p : "/";
+        return Response.redirect(`https://www.redpiscina.es${dest}`, 301);
+      }
+
       // Assets puros (.css/.webp/.js/.svg/etc) → servir tal cual.
       // NO incluimos .txt/.xml aquí porque /llms.txt, /robots.txt, /sitemap.xml
       // deben reescribirse a /<slug>/* para servir contenido específico de ciudad.
