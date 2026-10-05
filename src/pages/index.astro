@@ -1,5 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import { heroMovil } from "../lib/heroMovil.ts";
 import { NETWORK } from "../lib/network.ts";
 
 // Carga todas las ciudades activas y las agrupa por CCAA → provincia
@@ -61,7 +62,10 @@ const schema = {
   </nav>
 
   <header id="top" class="hero">
-    <img src={NETWORK.heroImage} alt={NETWORK.brand} class="hero-img" />
+    <picture>
+      {heroMovil(NETWORK.heroImage) && <source srcset={heroMovil(NETWORK.heroImage)!} media="(max-width: 799px)" type="image/webp" />}
+      <img src={NETWORK.heroImage} alt={NETWORK.brand} class="hero-img" width="1920" height="1080" loading="eager" fetchpriority="high" />
+    </picture>
     <div class="container hero-content">
       <h1>{NETWORK.brand}</h1>
       <p class="lead">{NETWORK.tagline}. Encuentra el servicio de piscinas más cercano — {totalCities} ciudades en España.</p>

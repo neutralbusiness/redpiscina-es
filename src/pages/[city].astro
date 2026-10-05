@@ -1,5 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import { heroMovil } from "../lib/heroMovil.ts";
 import { NETWORK, SERVICES, FAQ_BASE } from "../lib/network.ts";
 import { getCollection, type CollectionEntry } from "astro:content";
 
@@ -99,6 +100,7 @@ function _fmtDate(d: Date): string {
 }
 // Hero image: override por ciudad si lo hay (subido desde panel), si no el global de la red.
 const heroImage = city.heroImage || NETWORK.heroImage;
+const heroSmCity = heroMovil(heroImage);
 
 /* ──────────────────────────────────────────────────────────
    Tenant resolution: si el subdominio está contratado por un
@@ -355,7 +357,7 @@ const introParagraphs = city.introLocal.split("\n\n").filter(Boolean);
 const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
 ---
 
-<Layout title={city.metaTitle} description={city.metaDescription} canonical={canonical} schema={schemaGraph}>
+<Layout heroImage={heroImage} title={city.metaTitle} description={city.metaDescription} canonical={canonical} schema={schemaGraph}>
 
   {/* ─────────────────────── NAV ─────────────────────── */}
   <nav class="nav">
@@ -391,16 +393,18 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
 
   {/* ─────────────────────── HERO ─────────────────────── */}
   <header id="top" class="hero">
-    <img
-      src={heroImage}
-      alt={`Mantenimiento y construcción de piscinas en ${city.name}`}
-      class="hero-img"
-      width="1920"
-      height="1080"
-      loading="eager"
-      decoding="async"
-      fetchpriority="high"
-    />
+    <picture>
+      {heroSmCity && <source srcset={heroSmCity} media="(max-width: 799px)" type="image/webp" />}
+      <img
+        src={heroImage}
+        alt={`Mantenimiento y construcción de piscinas en ${city.name}`}
+        class="hero-img"
+        width="1920"
+        height="1080"
+        loading="eager"
+        fetchpriority="high"
+      />
+    </picture>
     <div class="container hero-content">
       <span class="hero-eyebrow">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
