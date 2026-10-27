@@ -97,23 +97,6 @@
       "body": "Resolvemos la avería con rapidez, tanto en verano como frente a las heladas invernales."
     }
   ],
-  "testimonialsIntro": "Así valoran nuestro servicio administradores de fincas en Ourense.",
-  "testimonials": [
-    {
-      "name": "Xosé",
-      "neighborhood": "O Couto",
-      "service": "Mantenimiento anual comunidad",
-      "body": "No sabíamos que la humedad de Ourense afectaba tanto a las escaleras metálicas de la piscina hasta que nos lo explicaron. Desde que ajustaron el mantenimiento a este factor, la instalación se conserva mucho mejor.",
-      "rating": 5
-    },
-    {
-      "name": "Carmen",
-      "neighborhood": "A Ponte",
-      "service": "Revisión anticorrosión",
-      "body": "Vivimos muy cerca del Miño y la humedad siempre había sido un problema para la piscina de la comunidad. El servicio que nos dieron tiene en cuenta esto desde el principio, y se nota la diferencia.",
-      "rating": 4
-    }
-  ],
   "zoneText": "Atendemos comunidades, hoteles y gimnasios en Ourense capital y los municipios cercanos de la provincia.",
   "zoneNeighborhoods": [
     "O Couto",

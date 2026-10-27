@@ -101,37 +101,6 @@
       "body": "Planificamos las visitas para interferir lo mínimo en tu rutina. Nuestros técnicos son discretos, limpios y trabajan con el máximo respeto por tu propiedad y tu privacidad."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de situaciones que resolvemos a diario. Reflejan la experiencia de propietarios como tú en la zona de Alella.",
-  "testimonials": [
-    {
-      "name": "Anna",
-      "neighborhood": "Alella Parc",
-      "pool": "Piscina de gresite 10×5, mantenimiento anual",
-      "body": "Contraté el mantenimiento anual y ha sido la mejor decisión. Antes perdía todos los sábados por la mañana limpiando la piscina. Ahora llego del trabajo el viernes y está perfecta, lista para disfrutarla con los niños. Conocen muy bien los problemas de las hojas de los pinos y la cal. Un servicio impecable y muy profesional.",
-      "rating": 5
-    },
-    {
-      "name": "Marc",
-      "neighborhood": "Can Comulada",
-      "pool": "Piscina de liner 8×4, reparación depuradora",
-      "body": "Se me estropeó la bomba en pleno agosto. Llamé a varios sitios y nadie podía venir. Ellos me dieron cita para el día siguiente. Vinieron, detectaron que el motor se había quemado y en 48 horas tenía una bomba nueva instalada y funcionando. Me salvaron las vacaciones. Muy eficientes y transparentes con el presupuesto.",
-      "rating": 5
-    },
-    {
-      "name": "David",
-      "neighborhood": "Nucli Urbà",
-      "pool": "Piscina comunitaria, cambio de filtro y clorador",
-      "body": "En la comunidad de vecinos teníamos problemas constantes con el agua turbia. Nos asesoraron y vimos que el filtro de arena era demasiado pequeño para el volumen de la piscina. Nos instalaron uno nuevo y un sistema de cloración salina. El cambio ha sido espectacular. El agua está cristalina y el mantenimiento es mucho más sencillo.",
-      "rating": 5
-    },
-    {
-      "name": "Sophie",
-      "neighborhood": "Mas Coll",
-      "pool": "Piscina de obra 9x4, instalación de cubierta de seguridad",
-      "body": "Tenemos niños pequeños y la seguridad era mi máxima prioridad. Nos explicaron los distintos tipos de cubiertas y nos instalaron un cobertor de seguridad que aguanta el peso de un adulto. Ahora estoy mucho más tranquila. El trato fue muy bueno y cumplieron los plazos que nos dieron.",
-      "rating": 4
-    }
-  ],
   "zoneText": "Nuestro equipo técnico da servicio a toda la localidad de Alella, desde las urbanizaciones de la montaña como Alella Parc y Mas Coll hasta el núcleo urbano y las zonas más cercanas al mar como El Rengle. Gracias a nuestra ubicación estratégica y el fácil acceso a las principales vías, como la autopista C-32 y la carretera N-II, nos desplazamos con agilidad por toda la comarca. También cubrimos municipios colindantes como El Masnou, Teià y Tiana, ofreciendo la misma calidad de servicio y rapidez de respuesta. Si tienes tu chalet o comunidad en esta zona del Maresme, podemos ayudarte.",
   "zoneNeighborhoods": [
     "Alella Parc",

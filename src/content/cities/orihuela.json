@@ -97,23 +97,6 @@
       "body": "Resolvemos la avería con rapidez, tanto en el casco histórico como en las pedanías de la costa."
     }
   ],
-  "testimonialsIntro": "Así valoran nuestro servicio administradores de fincas en Orihuela.",
-  "testimonials": [
-    {
-      "name": "Vicente",
-      "neighborhood": "Casco histórico",
-      "service": "Mantenimiento anual comunidad",
-      "body": "Nuestra comunidad en el centro de Orihuela usa la piscina de forma habitual todo el año que hace buen tiempo. El servicio se ha adaptado bien a nuestro ritmo de uso, distinto al de las urbanizaciones de la costa.",
-      "rating": 5
-    },
-    {
-      "name": "Michael",
-      "neighborhood": "Playa Flamenca",
-      "service": "Puesta a punto de temporada",
-      "body": "Somos una comunidad con muchos propietarios extranjeros que solo vienen parte del año. Nos avisan y preparan la piscina antes de que lleguemos, así que siempre la encontramos lista sin tener que estar pendientes nosotros.",
-      "rating": 5
-    }
-  ],
   "zoneText": "Atendemos comunidades, hoteles y gimnasios en todo el municipio de Orihuela, desde el casco histórico hasta las pedanías de Orihuela Costa como Playa Flamenca y Cabo Roig.",
   "zoneNeighborhoods": [
     "Casco histórico",

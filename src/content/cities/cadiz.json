@@ -97,23 +97,6 @@
       "body": "Sabemos que una piscina de comunidad o negocio fuera de servicio en Cádiz no puede esperar."
     }
   ],
-  "testimonialsIntro": "Así valoran nuestro servicio administradores de fincas y responsables de instalaciones en Cádiz.",
-  "testimonials": [
-    {
-      "name": "Marisa",
-      "neighborhood": "Puertatierra",
-      "service": "Mantenimiento anual comunidad",
-      "body": "Llevo la administración de varias comunidades en Cádiz y la corrosión por la humedad del mar era un problema constante en la piscina. Desde que trabajamos con ellos, las escaleras y la maquinaria duran mucho más. Se nota que conocen bien lo que exige esta ciudad.",
-      "rating": 5
-    },
-    {
-      "name": "Antonio",
-      "neighborhood": "El Pópulo",
-      "service": "Reparación de bomba de filtración",
-      "body": "La bomba se estropeó en pleno verano, con la piscina llena de gente. Vinieron rápido, diagnosticaron el problema y lo solucionaron sin tener que cerrar la instalación más de un día. Muy profesionales.",
-      "rating": 5
-    }
-  ],
   "zoneText": "Atendemos comunidades, hoteles y gimnasios en Cádiz capital y en los municipios cercanos de la bahía, adaptándonos a las particularidades de cada zona frente a la humedad marina.",
   "zoneNeighborhoods": [
     "El Pópulo",

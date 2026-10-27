@@ -97,23 +97,6 @@
       "body": "Sabemos que una avería en pleno verano gerundense, con la piscina en máximo uso, no puede esperar."
     }
   ],
-  "testimonialsIntro": "Así valoran nuestro servicio administradores de fincas en Girona.",
-  "testimonials": [
-    {
-      "name": "Marta",
-      "neighborhood": "Eixample gerundense",
-      "service": "Invernaje de piscina comunitaria",
-      "body": "Pensábamos que en Girona, tan cerca de la Costa Brava, no hacía falta un invernaje tan riguroso. Nos explicaron que el clima de la capital es distinto al de la costa y desde entonces protegemos mejor la instalación cada invierno.",
-      "rating": 5
-    },
-    {
-      "name": "Pere",
-      "neighborhood": "Santa Eugènia",
-      "service": "Mantenimiento anual comunidad",
-      "body": "Nuestra piscina se usa muy poco fuera de julio y agosto, pero cuando llega el calor la afluencia es alta. Se han adaptado bien a este uso tan concentrado en pocas semanas.",
-      "rating": 4
-    }
-  ],
   "zoneText": "Atendemos comunidades, hoteles y gimnasios en Girona capital y los municipios cercanos de la comarca del Gironès.",
   "zoneNeighborhoods": [
     "Eixample gerundense",

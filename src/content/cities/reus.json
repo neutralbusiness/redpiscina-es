@@ -97,23 +97,6 @@
       "body": "Resolvemos la avería con rapidez, tanto en temporada alta como en los meses de menor uso."
     }
   ],
-  "testimonialsIntro": "Así valoran nuestro servicio administradores de fincas y responsables de instalaciones en Reus.",
-  "testimonials": [
-    {
-      "name": "Núria",
-      "neighborhood": "Centre",
-      "service": "Mantenimiento piscina en azotea",
-      "body": "Nuestra comunidad tiene la piscina en la azotea de un edificio modernista del centro, con un acceso complicado. Se adaptaron perfectamente a las limitaciones de espacio y siempre han hecho un trabajo cuidadoso.",
-      "rating": 5
-    },
-    {
-      "name": "Jordi",
-      "neighborhood": "Mas Iglesias",
-      "service": "Revisión de filtración",
-      "body": "Vivimos en una comunidad nueva cerca del aeropuerto y el sistema de filtración es bastante moderno. Han sabido trabajar con él sin problemas y siempre nos avisan antes de que algo dé fallos.",
-      "rating": 5
-    }
-  ],
   "zoneText": "Atendemos comunidades, hoteles y gimnasios en Reus capital y los municipios cercanos del Baix Camp.",
   "zoneNeighborhoods": [
     "Centre",

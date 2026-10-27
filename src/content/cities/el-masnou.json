@@ -105,37 +105,6 @@
       "body": "Solo trabajamos con proveedores y materiales de calidad contrastada. La durabilidad de nuestras rehabilitaciones e instalaciones es nuestra mejor carta de presentación."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que hemos resuelto para propietarios de piscinas en El Masnou y su entorno.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "Ocata",
-      "pool": "Piscina de obra de los 80, rehabilitación completa",
-      "body": "Compramos la casa y la piscina era un desastre. El gresite se caía a trozos y la depuradora hacía un ruido infernal. El equipo de Red Piscina nos hizo un proyecto integral. Cambiaron todo el revestimiento, la coronación y montaron una sala técnica nueva. Ahora parece una piscina nueva, y el sistema de sal es comodísimo.",
-      "rating": 5
-    },
-    {
-      "name": "Marta",
-      "neighborhood": "Bellresguard",
-      "pool": "Piscina de gresite 9x4, cambio de depuradora e instalación de cubierta",
-      "body": "Estaba harta de la cal y de limpiar hojas cada dos por tres. Me recomendaron una bomba nueva de velocidad variable y una cubierta telescópica. El cambio ha sido espectacular. El agua está mucho más limpia, gasto menos en productos y la cubierta me ha permitido alargar el baño casi dos meses. Muy profesionales.",
-      "rating": 5
-    },
-    {
-      "name": "Carles",
-      "neighborhood": "Masnou Alt",
-      "pool": "Piscina 10x5, detección y reparación de fuga",
-      "body": "La piscina perdía muchísima agua y la factura era un disparate. No sabíamos por dónde se iba. Vinieron con sus equipos y en una mañana localizaron la fuga en una tubería bajo la terraza. La reparación fue limpia y rápida. Me ahorraron tener que levantar todo el suelo. Un servicio técnico impecable.",
-      "rating": 5
-    },
-    {
-      "name": "Laura",
-      "neighborhood": "Casc Antic",
-      "pool": "Piscina comunitaria, mantenimiento anual",
-      "body": "En nuestra comunidad de vecinos teníamos problemas todos los veranos. Desde que contratamos el mantenimiento con ellos, nos hemos olvidado. Vienen puntualmente cada semana, el agua está siempre perfecta y nos informan de todo. Si hay que cambiar algo, nos presentan un presupuesto antes. Da mucha tranquilidad.",
-      "rating": 4
-    }
-  ],
   "zoneText": "Nuestro servicio técnico tiene su base de operaciones en el Maresme, lo que nos permite ofrecer una respuesta rápida y eficiente en todo El Masnou. Cubrimos todos los barrios, desde el núcleo del Casc Antic y la zona de Ocata, hasta las urbanizaciones de Masnou Alt y Bellresguard. Nuestra proximidad a vías principales como la N-II y la autopista C-32 nos facilita el desplazamiento a municipios colindantes como Teià, Alella, Montgat y Premià de Mar. Si tienes una piscina en esta área y buscas un servicio profesional y de confianza para una rehabilitación, reparación o mantenimiento, estamos a tu disposición.",
   "zoneNeighborhoods": [
     "Ocata",

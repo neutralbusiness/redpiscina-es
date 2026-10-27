@@ -11,7 +11,6 @@ interface TrustChip { icon: string; text: string; }
 interface ProcessStep { title: string; body: string; }
 interface CommonIssue { title: string; body: string; }
 interface WhyUsItem { title: string; body: string; }
-interface Testimonial { name: string; neighborhood?: string; car?: string; body: string; rating?: number; }
 interface FaqItem { q: string; a: string; }
 
 interface TenantConfig {
@@ -53,8 +52,6 @@ interface CityContent {
   commonIssuesIntro?: string;
   commonIssues?: CommonIssue[];
   whyUs: WhyUsItem[];
-  testimonialsIntro?: string;
-  testimonials?: Testimonial[];
   zoneText: string;
   zoneNeighborhoods?: string[];
   zoneAccessRoutes?: string[];
@@ -74,11 +71,6 @@ export async function getStaticPaths() {
 }
 
 const { city } = Astro.props as { city: CityContent };
-// Testimonios retirados el 08-sep-2026: se generaban por ciudad (nombre, barrio,
-// vehículo) sin ninguna reseña real detrás, y la valoración del JSON-LD salía de
-// su media. No se publican opiniones sin fuente verificable. Los datos siguen en
-// el JSON por si algún día hay reseñas reales que los sustituyan.
-const testimoniosVisibles = undefined as Testimonial[] | undefined;
 
 const canonical = `https://${city.slug}.${NETWORK.domain}/`;
 // Últimas 3 entradas del blog visibles en este subdominio (ciudad o globales)
@@ -261,28 +253,6 @@ const autoRepair = {
     })),
   },
   ...(gbpUrl ? { sameAs: [gbpUrl] } : {}),
-  ...(testimoniosVisibles && testimoniosVisibles.length > 0
-    ? {
-        aggregateRating: {
-          "@type": "AggregateRating",
-          ratingValue: (testimoniosVisibles.reduce((s, ti) => s + (ti.rating || 5), 0) / testimoniosVisibles.length).toFixed(1),
-          reviewCount: testimoniosVisibles.length,
-          bestRating: 5,
-          worstRating: 1,
-        },
-        review: testimoniosVisibles.map(t => ({
-          "@type": "Review",
-          author: { "@type": "Person", name: t.name },
-          reviewRating: {
-            "@type": "Rating",
-            ratingValue: t.rating || 5,
-            bestRating: 5,
-            worstRating: 1,
-          },
-          reviewBody: t.body,
-        })),
-      }
-    : {}),
 };
 
 const organization = {
@@ -353,8 +323,6 @@ const schemaGraph = {
 
 const introParagraphs = city.introLocal.split("\n\n").filter(Boolean);
 
-/* Initials del primer nombre para el avatar de los testimonios. */
-const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
 ---
 
 <Layout heroImage={heroImage} title={city.metaTitle} description={city.metaDescription} canonical={canonical} schema={schemaGraph}>
@@ -376,7 +344,6 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
         <a href="#servicios">Servicios</a>
         <a href="#proceso">Proceso</a>
         <a href="#problemas">Problemas</a>
-        <a href="#opiniones">Opiniones</a>
         <a href="#zona">Zona</a>
         <a href={`https://www.${NETWORK.domain}/blog/`}>Blog</a>
         <a href="#faq">FAQ</a>
@@ -530,48 +497,6 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
       </div>
     </div>
   </section>
-
-  {/* ─────────────────────── TESTIMONIOS ─────────────────────── */}
-  {testimoniosVisibles && testimoniosVisibles.length > 0 && (
-    <section id="opiniones" class="testi-section">
-      <div class="container">
-        <div class="section-head">
-          <span class="section-eyebrow"><span class="num">05</span> Opiniones</span>
-          <h2>Lo que dicen clientes en {city.name}</h2>
-          {testimoniosVisiblesIntro && <p class="section-lead">{testimoniosVisiblesIntro}</p>}
-        </div>
-        <div class="testi-grid">
-          {testimoniosVisibles.map(t => {
-            const stars = Math.min(5, Math.max(0, Math.round(t.rating || 5)));
-            return (
-              <article class="testi-card">
-                <span class="testi-quote" aria-hidden="true">
-                  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M9 7H5a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2v3a2 2 0 0 1-2 2H4v2h1a4 4 0 0 0 4-4V9a2 2 0 0 0 0-2zm12 0h-4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2v3a2 2 0 0 1-2 2h-1v2h1a4 4 0 0 0 4-4V9a2 2 0 0 0 0-2z"/></svg>
-                </span>
-                <span class="testi-stars" role="img" aria-label={`${stars} de 5 estrellas`}>
-                  {Array.from({ length: stars }).map(() => (
-                    <svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
-                  ))}
-                </span>
-                <p class="testi-body">«{t.body}»</p>
-                <div class="testi-meta">
-                  <span class="testi-avatar" aria-hidden="true">{initial(t.name)}</span>
-                  <div class="testi-author">
-                    <strong>{t.name}</strong>
-                    <span>
-                      {t.neighborhood ? `${t.neighborhood}` : ""}
-                      {t.neighborhood && t.car ? " · " : ""}
-                      {t.car || ""}
-                    </span>
-                  </div>
-                </div>
-              </article>
-            );
-          })}
-        </div>
-      </div>
-    </section>
-  )}
 
   {/* ─────────────────────── ZONA ─────────────────────── */}
   <section id="zona">

@@ -101,37 +101,6 @@
       "body": "Sabemos que los problemas no eligen fecha. Por eso, reforzamos nuestro equipo en temporada alta para atender urgencias y asegurar que una avería no te arruine el fin de semana de más calor del verano."
     }
   ],
-  "testimonialsIntro": "No tenemos clientes, tenemos vecinos satisfechos. Aquí puedes ver algunos ejemplos de situaciones reales que hemos resuelto en Barcelona.",
-  "testimonials": [
-    {
-      "name": "Anna",
-      "neighborhood": "Sarrià",
-      "pool": "Piscina de obra 9×4, instalación de bomba de calor",
-      "body": "Estaba harta de tener una piscina preciosa que solo usábamos en julio y agosto. Los técnicos de Red Piscina me asesoraron sobre qué bomba de calor se adaptaba mejor a mi instalación. El presupuesto fue muy claro y la instalación rápida y limpia. Este año nos hemos estado bañando hasta mediados de octubre. ¡Un cambio radical!",
-      "rating": 5
-    },
-    {
-      "name": "Jordi",
-      "neighborhood": "Castelldefels",
-      "pool": "Piscina de gresite 10x5, instalación de cubierta telescópica",
-      "body": "Con la brisa del mar, la piscina se enfriaba mucho por la noche y siempre estaba llena de hojas y arena. La cubierta telescópica ha sido la mejor inversión. Mantiene el calor, el agua está impecable y la seguridad con los niños es total. El montaje fue muy profesional y se nota la calidad del material.",
-      "rating": 5
-    },
-    {
-      "name": "Marta y David",
-      "neighborhood": "Sant Cugat del Vallès",
-      "pool": "Comunidad de vecinos, mantenimiento anual",
-      "body": "En la comunidad teníamos problemas constantes con la empresa anterior: agua turbia, retrasos... Con Red Piscina el cambio ha sido de la noche al día. Son puntuales, dejan un informe en cada visita y el agua está perfecta siempre. Se nota que saben lo que hacen. La comunicación con ellos es muy fácil.",
-      "rating": 5
-    },
-    {
-      "name": "Carlos",
-      "neighborhood": "Eixample",
-      "pool": "Piscina de liner en ático 5x2, reparación de fuga",
-      "body": "Tenía una pequeña fuga en la piscina del ático y me preocupaba por las humedades al vecino de abajo. Vinieron rápido, utilizaron una máquina para localizar el punto exacto sin tener que vaciarla entera y lo sellaron. Me explicaron todo el proceso. Un servicio muy profesional y resolutivo.",
-      "rating": 4
-    }
-  ],
   "zoneText": "Nuestro equipo técnico ofrece cobertura en toda la ciudad de Barcelona y su área metropolitana. Desde los barrios residenciales de la zona alta como Sarrià-Sant Gervasi, Pedralbes y Les Corts, hasta zonas con piscinas comunitarias o en áticos como el Eixample o Poblenou. Nos desplazamos con agilidad gracias a un profundo conocimiento de las vías principales como la Ronda de Dalt (B-20) y la Ronda Litoral (B-10). Además, nuestra área de servicio se extiende a los principales municipios con viviendas unifamiliares de los alrededores, cubriendo el Baix Llobregat (Castelldefels, Gavà Mar) a través de la C-32 y el Vallès Occidental (Sant Cugat, Bellaterra) por la C-58 y la AP-7.",
   "zoneNeighborhoods": [
     "Sarrià-Sant Gervasi",
