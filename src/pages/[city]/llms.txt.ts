@@ -8,7 +8,7 @@
  * tener que parsear el HTML renderizado.
  */
 import type { APIRoute, GetStaticPaths } from "astro";
-import { NETWORK, SERVICES, FAQ_BASE } from "../../lib/network.ts";
+import { NETWORK, servicesFor, FAQ_BASE } from "../../lib/network.ts";
 
 interface CityContent {
   slug: string;
@@ -49,6 +49,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const GET: APIRoute = ({ props }) => {
   const city = props.city as CityContent;
+  const SERVICES = servicesFor(city.slug);
   const canonical = `https://${city.slug}.${NETWORK.domain}`;
   const allFaqs = [...city.faqLocal, ...FAQ_BASE];
 

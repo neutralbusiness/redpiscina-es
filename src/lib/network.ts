@@ -7,6 +7,8 @@
  * El contenido IA por ciudad vive en src/content/cities/<slug>.json y se
  * carga vía import.meta.glob en [city].astro.
  */
+import servicesData from "../data/services.json";
+
 export const NETWORK = {
   gtmId: "GTM-W8BNHVSV",
   slug: "redpiscina",
@@ -24,50 +26,20 @@ export const NETWORK = {
 
 // Servicios (cards en #servicios). Texto base — el copy de cada
 // ciudad puede sobreescribir vía content/cities/<slug>.json.
-export const SERVICES = [
-  {
-    id: "mantenimiento",
-    title: "Mantenimiento de piscinas",
-    icon: "🧪",
-    summary:
-      "Mantenimiento periódico y puntual: tratamiento del agua, limpieza de filtros, análisis químico, control de pH/cloro, aspirado de fondo y paredes, y puesta a punto de temporada. Servicio disponible durante todo el año.",
-  },
-  {
-    id: "reparacion",
-    title: "Reparación y averías",
-    icon: "🔧",
-    summary:
-      "Reparación de fugas, grietas en el vaso, problemas de impermeabilización, sustitución de gresite o liner, reparación de skimmers, boquillas de impulsión, sumideros y rejillas. Diagnóstico antes de presupuestar.",
-  },
-  {
-    id: "depuradoras",
-    title: "Depuradoras y filtración",
-    icon: "⚙️",
-    summary:
-      "Instalación, reparación y sustitución de depuradoras, filtros de arena, filtros de cartucho, bombas de recirculación, cloración salina, dosificadores automáticos y sistemas de filtración de alto rendimiento.",
-  },
-  {
-    id: "cubiertas",
-    title: "Cubiertas de piscina",
-    icon: "🏠",
-    summary:
-      "Cubiertas telescópicas, cubiertas planas, enrolladores, cobertores de invierno y de seguridad, lonas térmicas y cubiertas a medida. Instalación, reparación y mantenimiento de mecanismos.",
-  },
-  {
-    id: "climatizacion",
-    title: "Bombas de calor y climatización",
-    icon: "🌡️",
-    summary:
-      "Instalación y mantenimiento de bombas de calor, intercambiadores, calentadores solares y eléctricos. Alarga la temporada de baño de abril a octubre — o disfruta de tu piscina todo el año.",
-  },
-  {
-    id: "construccion",
-    title: "Construcción y rehabilitación",
-    icon: "🏗️",
-    summary:
-      "Construcción de piscinas de obra (hormigón gunitado), piscinas de liner, piscinas naturales y biopiscinas. Rehabilitación integral de piscinas antiguas: nuevo gresite, coronación, playa y equipamiento.",
-  },
-] as const;
+// Los servicios se gestionan en el panel (Redes › Servicios), que escribe
+// src/data/services.json: ahí se añaden, se editan, se ordenan y se ocultan,
+// para toda la red o ciudad por ciudad. Un servicio oculto no llega al HTML.
+type ServiceItem = { id: string; title: string; icon: string; summary: string; hidden?: boolean };
+const SERVICES_DATA = servicesData as { services: ServiceItem[]; cities?: Record<string, string[]> };
+
+/** Servicios visibles en toda la red. */
+export const SERVICES: ServiceItem[] = SERVICES_DATA.services.filter((s) => !s.hidden);
+
+/** Servicios visibles en una ciudad: los de la red menos los ocultos en esa ciudad. */
+export function servicesFor(citySlug?: string): ServiceItem[] {
+  const off = new Set((citySlug && SERVICES_DATA.cities?.[citySlug]) || []);
+  return SERVICES.filter((s) => !off.has(s.id));
+}
 
 export const FAQ_BASE = [
   {

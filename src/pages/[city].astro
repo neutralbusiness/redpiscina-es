@@ -1,7 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import { heroMovil } from "../lib/heroMovil.ts";
-import { NETWORK, SERVICES, FAQ_BASE } from "../lib/network.ts";
+import { NETWORK, servicesFor, FAQ_BASE } from "../lib/network.ts";
 import { getCollection, type CollectionEntry } from "astro:content";
 
 /* ──────────────────────────────────────────────────────────
@@ -71,6 +71,7 @@ export async function getStaticPaths() {
 }
 
 const { city } = Astro.props as { city: CityContent };
+const SERVICES = servicesFor(city.slug);
 
 const canonical = `https://${city.slug}.${NETWORK.domain}/`;
 // Últimas 3 entradas del blog visibles en este subdominio (ciudad o globales)

@@ -1,0 +1,47 @@
+{
+  "services": [
+    {
+      "id": "mantenimiento",
+      "title": "Mantenimiento de piscinas",
+      "icon": "🧪",
+      "summary": "Mantenimiento periódico y puntual: tratamiento del agua, limpieza de filtros, análisis químico, control de pH/cloro, aspirado de fondo y paredes, y puesta a punto de temporada. Servicio disponible durante todo el año.",
+      "hidden": false
+    },
+    {
+      "id": "reparacion",
+      "title": "Reparación y averías",
+      "icon": "🔧",
+      "summary": "Reparación de fugas, grietas en el vaso, problemas de impermeabilización, sustitución de gresite o liner, reparación de skimmers, boquillas de impulsión, sumideros y rejillas. Diagnóstico antes de presupuestar.",
+      "hidden": false
+    },
+    {
+      "id": "depuradoras",
+      "title": "Depuradoras y filtración",
+      "icon": "⚙️",
+      "summary": "Instalación, reparación y sustitución de depuradoras, filtros de arena, filtros de cartucho, bombas de recirculación, cloración salina, dosificadores automáticos y sistemas de filtración de alto rendimiento.",
+      "hidden": false
+    },
+    {
+      "id": "cubiertas",
+      "title": "Cubiertas de piscina",
+      "icon": "🏠",
+      "summary": "Cubiertas telescópicas, cubiertas planas, enrolladores, cobertores de invierno y de seguridad, lonas térmicas y cubiertas a medida. Instalación, reparación y mantenimiento de mecanismos.",
+      "hidden": false
+    },
+    {
+      "id": "climatizacion",
+      "title": "Bombas de calor y climatización",
+      "icon": "🌡️",
+      "summary": "Instalación y mantenimiento de bombas de calor, intercambiadores, calentadores solares y eléctricos. Alarga la temporada de baño de abril a octubre — o disfruta de tu piscina todo el año.",
+      "hidden": false
+    },
+    {
+      "id": "construccion",
+      "title": "Construcción y rehabilitación",
+      "icon": "🏗️",
+      "summary": "Construcción de piscinas de obra (hormigón gunitado), piscinas de liner, piscinas naturales y biopiscinas. Rehabilitación integral de piscinas antiguas: nuevo gresite, coronación, playa y equipamiento.",
+      "hidden": false
+    }
+  ],
+  "cities": {}
+}
