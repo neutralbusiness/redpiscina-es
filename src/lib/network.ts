@@ -15,10 +15,10 @@ export const NETWORK = {
   sector: "piscina",
   tagline:
     "Mantenimiento, reparación, cubiertas, climatización y construcción de piscinas en toda España. Servicio profesional todo el año con amplia disponibilidad en temporada alta.",
-  phone: "+34641161771",
-  phoneDisplay: "641 161 771",
-  whatsapp: "34641161771",
-  email: "info@redpiscina.es",
+  phone: "",
+  phoneDisplay: "",
+  whatsapp: "",
+  email: "",
   heroImage: "/img/hero.webp", // se sube vía panel /webs/redes/redpiscina
 } as const;
 

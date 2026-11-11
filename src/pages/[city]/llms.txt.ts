@@ -94,13 +94,16 @@ export const GET: APIRoute = ({ props }) => {
 
   lines.push("## Contacto");
   lines.push("");
-  lines.push(`- Email: ${NETWORK.email}`);
-  lines.push(`- Teléfono: ${NETWORK.phoneDisplay} (${NETWORK.phone})`);
-  lines.push(`- WhatsApp: +${NETWORK.whatsapp}`);
+  const tenant = (city as any).tenant?.active ? (city as any).tenant : null;
+  const phone: string = tenant?.phone || NETWORK.phone;
+  const phoneDisplay: string = (tenant?.phone ? tenant?.phoneDisplay : "") || NETWORK.phoneDisplay || phone;
+  const whatsapp: string = (tenant?.whatsapp || NETWORK.whatsapp).replace(/\D/g, "");
+  const email: string = tenant?.email || NETWORK.email;
+  lines.push(`- Formulario de contacto: ${canonical}/#formulario (indicar tipo de piscina, medidas aproximadas y descripción del servicio o problema)`);
+  if (email) lines.push(`- Email: ${email}`);
+  if (phone) lines.push(`- Teléfono: ${phoneDisplay} (${phone})`);
+  if (whatsapp) lines.push(`- WhatsApp: +${whatsapp}`);
   lines.push(`- Horario: Lunes a Sábado · 08:00–20:00`);
-  lines.push(
-    `- Formulario de contacto recomendado: enviar email a ${NETWORK.email} con asunto "Consulta desde ${city.name}" indicando tipo de piscina, medidas aproximadas y descripción del servicio o problema.`,
-  );
   lines.push("");
 
   lines.push("## Servicios ofrecidos");
@@ -169,7 +172,7 @@ export const GET: APIRoute = ({ props }) => {
     `Esta web publica un JSON-LD de tipo LocalBusiness con id ${canonical}/, ` +
     `accesible incrustado en la página principal. Incluye dirección (localidad ${city.name}, ` +
     `región ${city.province}, país ES)${city.lat && city.lng ? `, coordenadas geo (${city.lat}, ${city.lng})` : ""}, ` +
-    `teléfono, email y área servida.`,
+    `${phone ? "teléfono, " : ""}${email ? "email, " : ""}área servida y catálogo de servicios.`,
   );
   lines.push("");
 

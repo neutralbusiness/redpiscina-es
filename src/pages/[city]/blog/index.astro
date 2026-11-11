@@ -56,7 +56,8 @@ function postUrl(id: string): string {
       <a href={`/`} class="nav-brand">{NETWORK.brand}</a>
       <div class="nav-links">
         <a href={`/`}>Inicio</a>
-        <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay}</a>
+        <a href="/#formulario">Contacto</a>
+        {NETWORK.phone && <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay || NETWORK.phone}</a>}
       </div>
     </div>
   </nav>

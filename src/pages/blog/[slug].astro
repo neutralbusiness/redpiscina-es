@@ -56,7 +56,8 @@ const schema = [
         <a href="/">Inicio</a>
         <a href="/#directorio">Directorio</a>
         <a href="/blog/">Blog</a>
-        <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay}</a>
+        <a href="#formulario">Contacto</a>
+        {NETWORK.phone && <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay || NETWORK.phone}</a>}
       </div>
     </div>
   </nav>
@@ -82,7 +83,7 @@ const schema = [
       </div>
       <aside class="wa-cta">
         <p><strong>{BLOG_TEXT.articleCtaTitle}</strong> {BLOG_TEXT.articleCtaText}</p>
-        <p><a href="/#directorio">Buscar mi ciudad en el directorio →</a> · <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay}</a></p>
+        <p><a href="/#directorio">Buscar mi ciudad en el directorio →</a> · <a href="#formulario">Pedir presupuesto por el formulario</a>{NETWORK.phone && (<> · <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay || NETWORK.phone}</a></>)}</p>
       </aside>
       {others.length > 0 && (
         <nav class="wa-more" aria-label="Más artículos">
@@ -98,13 +99,13 @@ const schema = [
   <footer>
     <div class="container">
       <p style="margin: 0; color: white; font-weight: 700;">{NETWORK.brand}</p>
-      <p style="margin: 0.5rem 0; font-size: 0.85rem;">{BLOG_TEXT.footerLine} · {NETWORK.email}</p>
+      <p style="margin: 0.5rem 0; font-size: 0.85rem;">{BLOG_TEXT.footerLine}{NETWORK.email && (<> · <a href={`mailto:${NETWORK.email}`} style="color: inherit;">{NETWORK.email}</a></>)}</p>
       <p style="margin: 0.5rem 0 0; font-size: 0.8rem;"><a href="/blog/" style="color: rgba(255,255,255,0.6);">Blog</a> · <a href="/llms.txt" style="color: rgba(255,255,255,0.6);">llms.txt</a> · <a href="https://www.redpiscina.es/cookies/" style="color: rgba(255,255,255,0.6);">Cookies</a></p>
     </div>
   </footer>
 
 <!-- formulario-neutralb -->
-<section class="nb-form-sec" style="padding:clamp(2.5rem,6vw,4.5rem) 1.2rem">
+<section id="formulario" class="nb-form-sec" style="padding:clamp(2.5rem,6vw,4.5rem) 1.2rem">
   <div style="max-width:1100px;margin-inline:auto"><div data-nb-form></div></div>
 </section>
 <script defer src="https://panel.neutralb.es/formulario.js"></script>

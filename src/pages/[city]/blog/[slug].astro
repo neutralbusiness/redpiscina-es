@@ -86,7 +86,8 @@ function formatDate(d: Date): string {
       <div class="nav-links">
         <a href={`/`}>Inicio</a>
         <a href={`/blog/`}>Blog</a>
-        <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay}</a>
+        <a href="#contacto">Contacto</a>
+        {NETWORK.phone && <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay || NETWORK.phone}</a>}
       </div>
     </div>
   </nav>

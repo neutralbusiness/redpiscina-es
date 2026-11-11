@@ -48,9 +48,10 @@ export const GET: APIRoute = async () => {
   // ───── Contacto ─────
   lines.push("## Contacto");
   lines.push("");
-  lines.push(`- Email: ${NETWORK.email}`);
-  lines.push(`- Teléfono: ${NETWORK.phoneDisplay} (${NETWORK.phone})`);
-  lines.push(`- WhatsApp: +${NETWORK.whatsapp}`);
+  lines.push(`- Formulario de contacto: ${base}/#formulario`);
+  if (NETWORK.email) lines.push(`- Email: ${NETWORK.email}`);
+  if (NETWORK.phone) lines.push(`- Teléfono: ${NETWORK.phoneDisplay || NETWORK.phone} (${NETWORK.phone})`);
+  if (NETWORK.whatsapp) lines.push(`- WhatsApp: +${NETWORK.whatsapp}`);
   lines.push("");
 
   // ───── Servicios ─────

@@ -75,8 +75,8 @@ const heroSm = heroMovil(heroImg);
         --green-600: #16a34a;
         --green-500: #22c55e;
 
-        --whatsapp:       #075E54;   /* WhatsApp dark (AAA 7.8:1 con texto blanco) */
-        --whatsapp-bright:#25D366;   /* WhatsApp green clásico (sólo para iconos/decoración) */
+        --wa-dark:        #075E54;   /* verde oscuro de mensajería (AAA 7.8:1 con texto blanco) */
+        --wa-bright:      #25D366;   /* verde claro (sólo para iconos/decoración) */
 
         --bg:        #ffffff;
         --surface:   #ffffff;
@@ -316,12 +316,12 @@ const heroSm = heroMovil(heroImg);
         box-shadow: 0 6px 18px rgba(245, 158, 11, 0.35);
       }
       .btn-primary:hover { background: var(--accent-dark); }
-      .btn-whatsapp {
-        background: var(--whatsapp);
+      .btn-wa {
+        background: var(--wa-dark);
         color: white;
         box-shadow: 0 6px 18px rgba(7, 94, 84, 0.4);
       }
-      .btn-whatsapp:hover { background: #0a4d45; }
+      .btn-wa:hover { background: #0a4d45; }
       .btn-ghost {
         background: transparent;
         color: white;
@@ -939,7 +939,7 @@ h1{max-width:961px}
       let t;
       document.addEventListener("click",e=>{
         const a=e.target.closest("a[href]");
-        if(!a||a.target==="_blank"||a.href.startsWith("tel:")||a.href.startsWith("mailto:")||a.href.startsWith("https://wa.me"))return;
+        if(!a||a.target==="_blank"||!/^https?:$/.test(a.protocol))return;
         if(new URL(a.href,location.origin).origin!==location.origin)return;
         b.style.transition="width .3s ease";
         b.style.width="30%";
