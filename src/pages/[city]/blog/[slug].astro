@@ -1,7 +1,7 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
 import { NETWORK } from "../../../lib/network.ts";
-import ContactForm from "../../../components/ContactForm.astro";
+import NbForm from "../../../components/NbForm.astro";
 import { getCollection, render } from "astro:content";
 
 interface CityRef {
@@ -86,7 +86,7 @@ function formatDate(d: Date): string {
       <div class="nav-links">
         <a href={`/`}>Inicio</a>
         <a href={`/blog/`}>Blog</a>
-        <a href="#contacto">Contacto</a>
+        <a href="#formulario">Contacto</a>
         {NETWORK.phone && <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay || NETWORK.phone}</a>}
       </div>
     </div>
@@ -126,7 +126,7 @@ function formatDate(d: Date): string {
     )}
   </article>
 
-  <ContactForm city={city.slug} cityName={city.name} networkDomain={NETWORK.domain} />
+  <NbForm />
 
   <style>
     .post { padding: 0 0 3rem; }
