@@ -69,6 +69,14 @@ export async function onRequest(context) {
         return Response.redirect(`https://www.redpiscina.es${dest}`, 301);
       }
 
+      // Legales y blog solo existen en la www: en una ciudad daban 404 o una
+      // copia vacía con noindex, enlazadas desde el pie de todas las ciudades.
+      const p0 = url.pathname;
+      if (/^\/(aviso-legal|privacidad|cookies)\/?$/.test(p0) || p0 === "/blog" || p0.startsWith("/blog/")) {
+        let dest = p0.endsWith("/") || /\.\w+$/.test(p0) ? p0 : `${p0}/`;
+        return Response.redirect(`https://www.redpiscina.es${dest}`, 301);
+      }
+
       // Assets puros (.css/.webp/.js/.svg/etc) → servir tal cual.
       // NO incluimos .txt/.xml aquí porque /llms.txt, /robots.txt, /sitemap.xml
       // deben reescribirse a /<slug>/* para servir contenido específico de ciudad.

@@ -10,24 +10,14 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const GET: APIRoute = async ({ params }) => {
   const base = `https://${params.city}.${NETWORK.domain}`;
-  const lastmod = new Date().toISOString().slice(0, 10);
 
-  // El blog de ciudad no entra en el sitemap: los artículos se publican una sola
-  // vez en el blog de la www (www.<dominio>/blog/) y /blog/ de cada ciudad es noindex.
+  // Sin lastmod: la página no tiene una fecha de cambio fiable (antes se ponía
+  // la del día de compilación). El blog solo existe en la www.
 
   const body = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>${base}/</loc>
-    <lastmod>${lastmod}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>${base}/llms.txt</loc>
-    <lastmod>${lastmod}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
 `;

@@ -7,7 +7,7 @@
   "lat": 41.98311,
   "lng": 2.82493,
   "metaTitle": "Mantenimiento de Piscinas para Negocios en Girona — Red Piscina",
-  "metaDescription": "Servicio profesional de mantenimiento y reparación de piscinas para comunidades, hoteles y gimnasios en Girona. Presupuesto cerrado y garantía. Escríbenos.",
+  "metaDescription": "Servicio profesional de mantenimiento y reparación de piscinas para comunidades, hoteles y gimnasios en Girona. Presupuesto cerrado. Escríbenos.",
   "heroSubtitle": "Garantiza el perfecto estado de la piscina de tu comunidad, hotel o gimnasio en Girona durante toda la temporada de baño.",
   "trustChips": [
     {
@@ -15,16 +15,8 @@
       "text": "Presupuesto cerrado"
     },
     {
-      "icon": "⭐",
-      "text": "Profesional certificado"
-    },
-    {
       "icon": "⚡",
       "text": "Respuesta rápida"
-    },
-    {
-      "icon": "📋",
-      "text": "Factura y garantía"
     }
   ],
   "introLocal": "Girona, con su icónico Barri Vell de casas coloridas asomadas al río Onyar y sus murallas medievales que rodean uno de los cascos históricos mejor conservados de Cataluña, tiene un clima de interior más continental que el de la costa catalana cercana, con inviernos notablemente más fríos que en poblaciones costeras a pocos kilómetros de distancia, y heladas frecuentes entre diciembre y febrero. Esta diferencia sorprende a quien no conoce bien la geografía de la provincia, ya que Girona capital está más alejada del efecto moderador del mar que la Costa Brava, lo que exige un invernaje de piscinas más cuidadoso del que muchas comunidades esperan por la cercanía de la ciudad a la costa.\n\nEl Barri Vell, con sus edificios medievales y renacentistas de varias plantas construidos junto a las estrechas calles empedradas del casco antiguo, tiene pocas piscinas comunitarias por las limitaciones de espacio propias de un entorno tan protegido, mientras que los barrios más modernos de la ciudad, surgidos del crecimiento urbanístico de las últimas décadas hacia el Eixample gerundense, concentran la mayoría de comunidades de vecinos con piscina propia, con instalaciones de diseño más estandarizado y sistemas de filtración más recientes.\n\nEl verano gerundense, con temperaturas notablemente más altas que en invierno debido a este mismo carácter de interior, hace que la temporada de uso de las piscinas comunitarias sea intensa pero relativamente corta comparada con zonas de clima más suave. El agua de Girona, de dureza moderada procedente de la cuenca del Ter y el Onyar, con los años también deja incrustaciones de cal en filtros y elementos de la instalación si no reciben mantenimiento adecuado. Trabajamos ajustando el mantenimiento tanto a la necesidad real de un invernaje cuidadoso, un factor que muchos subestiman por la cercanía de Girona a la Costa Brava, como al uso intensivo que concentran las piscinas comunitarias durante los meses de verano.",
@@ -127,5 +119,5 @@
     }
   ],
   "closingHeadline": "Tu piscina en Girona, lista para el verano",
-  "closingCta": "Si gestionas una comunidad, hotel o gimnasio en Girona, contacta con nosotros. Presupuesto cerrado y garantía."
+  "closingCta": "Si gestionas una comunidad, hotel o gimnasio en Girona, contacta con nosotros. Presupuesto cerrado."
 }

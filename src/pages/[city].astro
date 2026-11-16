@@ -2,8 +2,8 @@
 import Layout from "../layouts/Layout.astro";
 import NbForm from "../components/NbForm.astro";
 import { heroMovil } from "../lib/heroMovil.ts";
-import { NETWORK, servicesFor, FAQ_BASE } from "../lib/network.ts";
-import { getCollection, type CollectionEntry } from "astro:content";
+import { NETWORK, servicesFor } from "../lib/network.ts";
+import { POSTS, formatDate } from "../lib/wwwblog.ts";
 
 /* ──────────────────────────────────────────────────────────
    Interfaces — definimos aquí el shape v2 del JSON por ciudad.
@@ -75,23 +75,8 @@ const { city } = Astro.props as { city: CityContent };
 const SERVICES = servicesFor(city.slug);
 
 const canonical = `https://${city.slug}.${NETWORK.domain}/`;
-// Últimas 3 entradas del blog visibles en este subdominio (ciudad o globales)
-type BlogPost = CollectionEntry<"blog">;
-const _allBlog = await getCollection("blog");
-const latestPosts: BlogPost[] = _allBlog
-  .filter((p) => {
-    const parts = p.id.split("/");
-    if (parts.length === 1) return true;
-    return parts[0] === city.slug;
-  })
-  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime())
-  .slice(0, 3);
-function _postUrl(id: string): string {
-  return `/blog/${id.split("/").pop()}/`;
-}
-function _fmtDate(d: Date): string {
-  return d.toLocaleDateString("es-ES", { day: "2-digit", month: "short", year: "numeric" });
-}
+const wwwBase = `https://www.${NETWORK.domain}`;
+const latestPosts = POSTS.slice(0, 3);
 // Hero image: override por ciudad si lo hay (subido desde panel), si no el global de la red.
 const heroImage = city.heroImage || NETWORK.heroImage;
 const heroSmCity = heroMovil(heroImage);
@@ -109,7 +94,7 @@ const phoneDisplay: string = (t?.phone ? t?.phoneDisplay : "") || NETWORK.phoneD
 const whatsapp: string = (t?.whatsapp || NETWORK.whatsapp).replace(/\D/g, "");
 const email: string = t?.email || NETWORK.email;
 const businessName = t?.businessName ?? `${NETWORK.brand} · ${city.name}`;
-const hours = t?.hours ?? "Lunes a Sábado · 08:00–20:00";
+const hours = t?.hours ?? "";
 const addrStreet = t?.addressStreet;
 const addrPostal = t?.addressPostalCode;
 const geoLat = t?.lat ?? city.lat;
@@ -167,7 +152,9 @@ const formUrl = "#formulario";
 const waMsg = `IMPORTANTE: Envía este mensaje sin editarlo para hablar con nosotros: ${city.slug}.${NETWORK.domain}`;
 const waUrl = whatsapp ? `https://wa.me/${whatsapp}?text=${encodeURIComponent(waMsg)}` : "";
 
-const allFaqs = [...city.faqLocal, ...FAQ_BASE];
+const allFaqs = city.faqLocal;
+const CHIP_BLOCK = /certificad|garant[ií]a|homologad/i;
+const trustChips = (city.trustChips || []).filter((c) => !CHIP_BLOCK.test(c.text));
 
 /* ──────────────────────────────────────────────────────────
    Schema.org @graph — paquete completo de entidades:
@@ -182,86 +169,67 @@ const networkOrgId = `https://www.${NETWORK.domain}/#organization`;
 const businessId = `${canonical}#business`;
 const webpageId = `${canonical}#webpage`;
 
-const autoRepair = {
-  "@type": "LocalBusiness",
-  "@id": businessId,
-  name: t ? t.businessName : `Piscinas en ${city.name} — Red Piscina`,
-  alternateName: t ? `${t.businessName} · ${city.name}` : undefined,
-  description: city.metaDescription,
-  url: canonical,
-  ...(phone ? { telephone: phone } : {}),
-  ...(email ? { email } : {}),
-  // Direccion y coordenadas SOLO si hay un taller de verdad en esa ciudad.
-  // Antes se declaraban siempre, con el nombre del municipio y las coordenadas
-  // de su centro, aunque el negocio no estuviera alli: le decia a Google que
-  // hay un taller en cada municipio de la red. `areaServed` si es cierto y se
-  // queda: se presta servicio a esa ciudad sin fingir estar en ella.
-  ...(addrStreet
-    ? {
-        address: {
-          "@type": "PostalAddress",
-          streetAddress: addrStreet,
-          ...(addrPostal ? { postalCode: addrPostal } : {}),
-          addressLocality: city.name,
-          addressRegion: city.province,
-          addressCountry: "ES",
-        },
-        ...(geoLat && geoLng
-          ? { geo: { "@type": "GeoCoordinates", latitude: geoLat, longitude: geoLng } }
-          : {}),
-      }
-    : {}),
-  areaServed: { "@type": "City", name: city.name },
-  image: `https://${city.slug}.${NETWORK.domain}${heroImage}`,
-  priceRange: "€€",
-  currenciesAccepted: "EUR",
-  paymentAccepted: "Cash, Credit Card, Bank Transfer",
-  availableLanguage: "es-ES",
-  openingHoursSpecification: [
-    {
-      "@type": "OpeningHoursSpecification",
-      dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-      opens: "09:00",
-      closes: "18:00",
+const offerCatalog = {
+  "@type": "OfferCatalog",
+  name: `Servicios de piscinas en ${city.name}`,
+  itemListElement: SERVICES.map((s, idx) => ({
+    "@type": "Offer",
+    position: idx + 1,
+    itemOffered: {
+      "@type": "Service",
+      name: s.title,
+      description: city.servicesOverrides?.[s.id] || s.summary,
+      areaServed: { "@type": "City", name: city.name },
     },
-    {
-      "@type": "OpeningHoursSpecification",
-      dayOfWeek: ["Saturday"],
-      opens: "09:00",
-      closes: "13:00",
-    },
-  ],
-  parentOrganization: { "@id": networkOrgId },
-  hasOfferCatalog: {
-    "@type": "OfferCatalog",
-    name: `Servicios del taller en ${city.name}`,
-    itemListElement: SERVICES.map((s, idx) => ({
-      "@type": "Offer",
-      position: idx + 1,
-      itemOffered: {
-        "@type": "Service",
-        name: s.title,
-        description: city.servicesOverrides?.[s.id] || s.summary,
-        areaServed: { "@type": "City", name: city.name },
-        provider: { "@id": businessId },
-      },
-    })),
-  },
-  ...(gbpUrl ? { sameAs: [gbpUrl] } : {}),
+  })),
 };
-
+// Sin dirección real en la ciudad no se declara un LocalBusiness: Google lo
+// valida contra su ficha de negocio local y exige `address`. Se describe el
+// servicio que la red presta en la ciudad, con la red como proveedor.
+const cityEntity = addrStreet
+  ? {
+      "@type": "LocalBusiness",
+      "@id": businessId,
+      name: t!.businessName,
+      description: city.metaDescription,
+      url: canonical,
+      ...(phone ? { telephone: phone } : {}),
+      ...(email ? { email } : {}),
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: addrStreet,
+        ...(addrPostal ? { postalCode: addrPostal } : {}),
+        addressLocality: city.name,
+        addressRegion: city.province,
+        addressCountry: "ES",
+      },
+      ...(geoLat && geoLng ? { geo: { "@type": "GeoCoordinates", latitude: geoLat, longitude: geoLng } } : {}),
+      areaServed: { "@type": "City", name: city.name },
+      image: `https://${city.slug}.${NETWORK.domain}${heroImage}`,
+      parentOrganization: { "@id": networkOrgId },
+      hasOfferCatalog: offerCatalog,
+      ...(gbpUrl ? { sameAs: [gbpUrl] } : {}),
+    }
+  : {
+      "@type": "Service",
+      "@id": businessId,
+      name: `Mantenimiento, reparación y construcción de piscinas en ${city.name}`,
+      serviceType: "Mantenimiento, reparación y construcción de piscinas",
+      description: city.metaDescription,
+      url: canonical,
+      provider: { "@id": networkOrgId },
+      areaServed: { "@type": "City", name: city.name, containedInPlace: { "@type": "AdministrativeArea", name: city.province } },
+      hasOfferCatalog: offerCatalog,
+    };
 const organization = {
   "@type": "Organization",
   "@id": networkOrgId,
   name: NETWORK.brand,
-  alternateName: "Red Piscina — Mantenimiento, reparación y construcción de piscinas",
   url: `https://www.${NETWORK.domain}/`,
-  logo: `https://${NETWORK.domain}/favicon.svg`,
-  slogan: NETWORK.tagline,
-  description: `Red de profesionales del mantenimiento, reparación, cubiertas, climatización y construcción de piscinas en toda España. Presupuesto sin compromiso.`,
+  logo: `https://www.${NETWORK.domain}/favicon.svg`,
+  description: NETWORK.tagline,
   areaServed: { "@type": "Country", name: "España" },
 };
-
 /**
  * BreadcrumbList simplificado a 2 niveles (Red → Ciudad) porque CCAA y
  * Provincia no tienen URL propia. Google requiere `item` URL en TODOS los
@@ -313,7 +281,7 @@ const faqEntity = {
 
 const schemaGraph = {
   "@context": "https://schema.org",
-  "@graph": [autoRepair, organization, webPage, breadcrumb, faqEntity],
+  "@graph": [cityEntity, organization, webPage, breadcrumb, ...(allFaqs.length ? [faqEntity] : [])],
 };
 
 const introParagraphs = city.introLocal.split("\n\n").filter(Boolean);
@@ -379,7 +347,7 @@ const introParagraphs = city.introLocal.split("\n\n").filter(Boolean);
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
         Piscinas en {city.name}, {city.province}
       </span>
-      <h1>Tu empresa de piscinas en {city.name} — mantenimiento, reparación y construcción con profesionales de confianza.</h1>
+      <h1>Piscinas en {city.name}: mantenimiento, reparación y construcción</h1>
       <p class="lead">{city.heroSubtitle}</p>
       <div class="hero-ctas">
         {phone && (
@@ -403,11 +371,11 @@ const introParagraphs = city.introLocal.split("\n\n").filter(Boolean);
   </header>
 
   {/* ─────────────────────── TRUST STRIP ─────────────────────── */}
-  {city.trustChips && city.trustChips.length > 0 && (
-    <aside class="trust-strip" aria-label="Garantías del servicio de piscinas">
+  {trustChips.length > 0 && (
+    <aside class="trust-strip" aria-label="Cómo trabajamos">
       <div class="container">
         <ul class="trust-strip-list">
-          {city.trustChips.map(t => (
+          {trustChips.map(t => (
             <li class="trust-chip">
               <span class="trust-chip-icon" aria-hidden="true" set:html={trustIconFor(t.text)} />
               <span class="trust-chip-text">{t.text}</span>
@@ -429,7 +397,7 @@ const introParagraphs = city.introLocal.split("\n\n").filter(Boolean);
       <div class="services-grid">
         {SERVICES.map(s => (
           <article class="service-card">
-            <span class="service-icon" set:html={SERVICE_ICONS[s.id] || SERVICE_ICONS.revision} />
+            <span class="service-icon" set:html={SERVICE_ICONS[s.id] || SERVICE_ICONS.mantenimiento} />
             <h3>{s.title}</h3>
             <p>{city.servicesOverrides?.[s.id] || s.summary}</p>
           </article>
@@ -491,7 +459,7 @@ const introParagraphs = city.introLocal.split("\n\n").filter(Boolean);
     <div class="container">
       <div class="section-head">
         <span class="section-eyebrow"><span class="num">04</span> Por qué nosotros</span>
-        <h2>Por qué somos la empresa de piscinas a la que se vuelve.</h2>
+        <h2>Lo que puedes esperar de nosotros en {city.name}</h2>
       </div>
       <div class="why-grid">
         {city.whyUs.map(w => (
@@ -508,7 +476,7 @@ const introParagraphs = city.introLocal.split("\n\n").filter(Boolean);
   <section id="zona">
     <div class="container">
       <div class="section-head">
-        <span class="section-eyebrow"><span class="num">06</span> Cobertura</span>
+        <span class="section-eyebrow"><span class="num">05</span> Cobertura</span>
         <h2>Atendemos en {city.name} y alrededores</h2>
       </div>
       <p class="zone-text">{city.zoneText}</p>
@@ -532,10 +500,11 @@ const introParagraphs = city.introLocal.split("\n\n").filter(Boolean);
   </section>
 
   {/* ─────────────────────── FAQ ─────────────────────── */}
+  {allFaqs.length > 0 && (
   <section id="faq">
     <div class="container">
       <div class="section-head">
-        <span class="section-eyebrow"><span class="num">07</span> Preguntas frecuentes</span>
+        <span class="section-eyebrow"><span class="num">06</span> Preguntas frecuentes</span>
         <h2>Lo que más nos preguntan</h2>
       </div>
       <ul class="faq-list">
@@ -553,12 +522,13 @@ const introParagraphs = city.introLocal.split("\n\n").filter(Boolean);
       </ul>
     </div>
   </section>
+  )}
 
   {/* ─────────────────────── CONTACTO ─────────────────────── */}
   <section id="contacto" class="contact-section">
     <div class="container">
       <div class="section-head" style="text-align: center; margin-left: auto; margin-right: auto;">
-        <span class="section-eyebrow"><span class="num">08</span> Pide cita</span>
+        <span class="section-eyebrow"><span class="num">07</span> Presupuesto</span>
         <h2>{city.closingHeadline || `Cuida tu piscina en ${city.name}`}</h2>
         <p class="section-lead" style="margin-left: auto; margin-right: auto;">{city.closingCta}</p>
       </div>
@@ -569,7 +539,7 @@ const introParagraphs = city.introLocal.split("\n\n").filter(Boolean);
         ) : (
           <a href={formUrl} class="phone-big" style="font-size: clamp(1.6rem, 4.5vw, 2.3rem);">Cuéntanos qué necesitas</a>
         )}
-        <p class="hours">{hours}</p>
+        {hours && <p class="hours">{hours}</p>}
         {addrStreet && (
           <p style="margin: 0.85rem 0 0; color: rgba(255,255,255,0.85); font-size: 0.95rem;">
             📍 {addrStreet}{addrPostal ? `, ${addrPostal}` : ""}, {city.name}
@@ -605,7 +575,7 @@ const introParagraphs = city.introLocal.split("\n\n").filter(Boolean);
   <section id="contexto" class="context-section">
     <div class="container">
       <div class="section-head">
-        <span class="section-eyebrow"><span class="num">09</span> Contexto local</span>
+        <span class="section-eyebrow"><span class="num">08</span> Contexto local</span>
         <h2>Por qué las piscinas en {city.name} necesitan un profesional que conozca la zona</h2>
         <p class="section-lead">Lo que tienes que saber sobre el clima, el agua, la normativa y el cuidado de las piscinas en {city.name}, {city.province}.</p>
       </div>
@@ -640,35 +610,31 @@ const introParagraphs = city.introLocal.split("\n\n").filter(Boolean);
     <section id="blog-preview" class="section-pad section-alt">
       <div class="container">
         <header class="section-head">
-          <span class="eyebrow">Consejos para tu piscina</span>
-          <h2>Últimos artículos del blog</h2>
-          <p>Guías prácticas redactadas por nuestro equipo para propietarios de piscinas en {city.name}.</p>
+          <span class="eyebrow">Guías para tu piscina</span>
+          <h2>Del blog de {NETWORK.brand}</h2>
+          <p>Guías prácticas para propietarios y comunidades: mantenimiento, averías, obras y normativa.</p>
         </header>
         <ul class="blog-preview-list">
           {latestPosts.map((p) => (
             <li>
-              <a href={_postUrl(p.id)} class="blog-card">
-                {p.data.image && (
-                  <img src={p.data.image} alt={p.data.title} loading="lazy" width="600" height="338" class="blog-card-img" />
-                )}
+              <a href={`${wwwBase}/blog/${p.slug}/`} class="blog-card">
+                <img src={p.image} alt={p.imageAlt || ""} loading="lazy" width="600" height="338" class="blog-card-img" />
                 <div class="blog-card-body">
-                  <span class="blog-card-cat">{p.data.category}</span>
-                  <h3>{p.data.title}</h3>
+                  <span class="blog-card-cat">{p.category}</span>
+                  <h3>{p.title}</h3>
                   <p class="blog-card-meta">
-                    <time datetime={p.data.publishDate.toISOString()}>{_fmtDate(p.data.publishDate)}</time>
-                    <span>· {p.data.readTime} min</span>
+                    <time datetime={p.publishDate}>{formatDate(p.publishDate)}</time>
+                    <span>· {p.readTime} min</span>
                   </p>
-                  <p class="blog-card-excerpt">{p.data.excerpt}</p>
                 </div>
               </a>
             </li>
           ))}
         </ul>
         <p class="blog-preview-cta">
-          <a href={`https://www.${NETWORK.domain}/blog/`} class="btn btn-ghost">Ver todos los artículos →</a>
+          <a href={`${wwwBase}/blog/`} class="btn btn-dark">Ver todas las guías →</a>
         </p>
       </div>
-
       <style>
         .blog-preview-list { list-style: none; padding: 0; display: grid; gap: 1.5rem; }
         @media (min-width: 768px) { .blog-preview-list { grid-template-columns: repeat(3, 1fr); } }
@@ -687,14 +653,11 @@ const introParagraphs = city.introLocal.split("\n\n").filter(Boolean);
           margin-bottom: 0.5rem;
         }
         .blog-card h3 { font-size: 1.1rem; margin: 0 0 0.25rem; line-height: 1.35; }
-        .blog-card-meta { color: var(--muted); font-size: 0.8125rem; display: flex; gap: 0.5rem; margin: 0 0 0.5rem; }
-        .blog-card-excerpt { color: var(--muted); font-size: 0.92rem; line-height: 1.5; margin: 0; }
+        .blog-card-meta { color: var(--muted); font-size: 0.8125rem; display: flex; gap: 0.5rem; margin: 0; }
         .blog-preview-cta { text-align: center; margin-top: 1.5rem; }
       </style>
     </section>
   )}
-
-  
 <NbForm />
 </main>
 
@@ -732,17 +695,16 @@ const introParagraphs = city.introLocal.split("\n\n").filter(Boolean);
             {waUrl && <li><a href={waUrl} target="_blank" rel="noopener">WhatsApp</a></li>}
             {email && <li><a href={`mailto:${email}`}>{email}</a></li>}
             <li><a href={formUrl}>Formulario de contacto</a></li>
-            <li><a href={`https://www.${NETWORK.domain}/blog/`}>Blog</a></li>
-            <li style="margin-top: 0.75rem; color: rgba(255,255,255,0.45);">Lun–Sáb · 08:00–20:00</li>
+            <li><a href={`${wwwBase}/blog/`}>Guías del blog</a></li>
           </ul>
         </div>
       </div>
       <div class="footer-legal">
-        <span>© {new Date().getFullYear()} {NETWORK.brand}. Hecho en {city.name}.</span>
+        <span>© {new Date().getFullYear()} {NETWORK.brand}</span>
         <div class="footer-legal-links">
           <a href="https://www.redpiscina.es/">Red completa</a>
-          <a href="/aviso-legal/">Aviso legal</a>
-          <a href="/privacidad/">Privacidad</a>
+          <a href={`${wwwBase}/aviso-legal/`}>Aviso legal</a>
+          <a href={`${wwwBase}/privacidad/`}>Privacidad</a>
           <a href="https://www.redpiscina.es/cookies/">Cookies</a>
           <a href="/llms.txt">llms.txt</a>
         </div>

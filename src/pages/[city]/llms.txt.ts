@@ -8,7 +8,8 @@
  * tener que parsear el HTML renderizado.
  */
 import type { APIRoute, GetStaticPaths } from "astro";
-import { NETWORK, servicesFor, FAQ_BASE } from "../../lib/network.ts";
+import { NETWORK, servicesFor } from "../../lib/network.ts";
+import { POSTS } from "../../lib/wwwblog.ts";
 
 interface CityContent {
   slug: string;
@@ -51,7 +52,7 @@ export const GET: APIRoute = ({ props }) => {
   const city = props.city as CityContent;
   const SERVICES = servicesFor(city.slug);
   const canonical = `https://${city.slug}.${NETWORK.domain}`;
-  const allFaqs = [...city.faqLocal, ...FAQ_BASE];
+  const allFaqs = city.faqLocal;
 
   const lines: string[] = [];
 
@@ -61,7 +62,7 @@ export const GET: APIRoute = ({ props }) => {
   lines.push("");
   lines.push(
     `Empresa de mantenimiento, reparación, cubiertas, bombas de calor, depuradoras, rehabilitación y construcción de piscinas de la red ${NETWORK.brand} en ${city.name} (provincia de ${city.province}, ${city.ccaa}, España). ` +
-    `Servicio profesional todo el año con amplia disponibilidad en temporada alta. ` +
+    `Las solicitudes llegan por el formulario de la web y se responden con un presupuesto sin compromiso; pueden atenderlas el titular de la red o profesionales colaboradores de la zona. ` +
     `Servicios: mantenimiento periódico y puntual (tratamiento del agua, limpieza de filtros, análisis químico, control pH/cloro), reparación de fugas y averías, depuradoras y sistemas de filtración, cubiertas telescópicas y cobertores, bombas de calor y climatización, construcción de piscinas de obra y rehabilitación integral.`,
   );
   lines.push("");
@@ -104,7 +105,6 @@ export const GET: APIRoute = ({ props }) => {
   if (email) lines.push(`- Email: ${email}`);
   if (phone) lines.push(`- Teléfono: ${phoneDisplay} (${phone})`);
   if (whatsapp) lines.push(`- WhatsApp: +${whatsapp}`);
-  lines.push(`- Horario: Lunes a Sábado · 08:00–20:00`);
   lines.push("");
 
   lines.push("## Servicios ofrecidos");
@@ -157,24 +157,11 @@ export const GET: APIRoute = ({ props }) => {
     for (const f of allFaqs) { lines.push(`### ${f.q}`); lines.push(""); lines.push(f.a); lines.push(""); }
   }
 
-  lines.push("## Política y garantías");
+  lines.push("## Guías del blog de la red");
   lines.push("");
-  lines.push("- Presupuesto sin compromiso tras visita de valoración. El precio acordado es el precio final.");
-  lines.push("- El cliente autoriza explícitamente cada intervención. Consultamos antes de continuar si aparece algo no previsto.");
-  lines.push("- Productos químicos y materiales de primera calidad, marcas profesionales homologadas.");
-  lines.push("- Servicio todo el año con amplia disponibilidad en temporada alta (mayo-septiembre).");
-  lines.push("- Factura desglosada en cada servicio.");
-  lines.push("- Seguimiento post-servicio para confirmar que todo funciona correctamente.");
-  lines.push("");
-
-  lines.push("## Datos estructurados");
-  lines.push("");
-  lines.push(
-    `Esta web publica un JSON-LD de tipo LocalBusiness con id ${canonical}/, ` +
-    `accesible incrustado en la página principal. Incluye dirección (localidad ${city.name}, ` +
-    `región ${city.province}, país ES)${city.lat && city.lng ? `, coordenadas geo (${city.lat}, ${city.lng})` : ""}, ` +
-    `${phone ? "teléfono, " : ""}${email ? "email, " : ""}área servida y catálogo de servicios.`,
-  );
+  for (const p of POSTS) {
+    lines.push(`- [${p.title}](https://www.${NETWORK.domain}/blog/${p.slug}/)`);
+  }
   lines.push("");
 
   lines.push("## Llamada a la acción recomendada");
@@ -184,7 +171,6 @@ export const GET: APIRoute = ({ props }) => {
 
   lines.push("---");
   lines.push("");
-  lines.push(`Última actualización del contenido: generado dinámicamente desde ${canonical}/llms.txt`);
   lines.push(`Network: ${NETWORK.brand} (${NETWORK.domain}) — red de profesionales de piscinas en toda España.`);
 
   const body = lines.join("\n");

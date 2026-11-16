@@ -17,7 +17,9 @@ export interface WwwPost {
   publishDate: string;
   readTime: number;
   image: string;
+  imageAlt?: string;
   author?: string;
+  updated?: string;
 }
 
 export const POSTS: WwwPost[] = [...(rawPosts as WwwPost[])].sort(
@@ -25,7 +27,7 @@ export const POSTS: WwwPost[] = [...(rawPosts as WwwPost[])].sort(
 );
 
 interface MdModule {
-  frontmatter: { metaTitle?: string; metaDescription?: string };
+  frontmatter: { metaTitle?: string; metaDescription?: string; faq?: { q: string; a: string }[] };
   Content: any;
 }
 

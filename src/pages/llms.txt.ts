@@ -42,7 +42,18 @@ export const GET: APIRoute = async () => {
   lines.push(`- Nombre comercial: ${NETWORK.brand}`);
   lines.push(`- Dominio: ${NETWORK.domain}`);
   lines.push(`- Web de la red: ${base}/`);
-  lines.push(`- Ciudades con centro propio: ${cities.length}`);
+  lines.push(`- Ciudades con página propia: ${cities.length}`);
+  lines.push("");
+
+  lines.push("## Cómo funciona");
+  lines.push("");
+  lines.push(
+    "Red Piscina atiende solicitudes de mantenimiento, reparación, climatización, cubiertas, rehabilitación y construcción de piscinas " +
+    "de particulares, comunidades de vecinos y negocios. El contacto es solo por formulario (sin teléfono ni WhatsApp públicos): " +
+    "la persona indica ciudad, tipo de piscina, medidas aproximadas y qué necesita, y recibe respuesta con un presupuesto sin compromiso. " +
+    "Las solicitudes pueden atenderlas el titular de la red o profesionales colaboradores de la zona, que informan de sus condiciones antes de contratar. " +
+    "La web no publica tarifas cerradas: el precio depende del vaso, del acceso y del estado de los equipos.",
+  );
   lines.push("");
 
   // ───── Contacto ─────
@@ -68,16 +79,16 @@ export const GET: APIRoute = async () => {
   lines.push(`Índice: ${base}/blog/ (listado en JSON: ${base}/blog/posts.json)`);
   lines.push("");
   for (const p of POSTS) {
-    lines.push(`- [${p.title}](${base}/blog/${p.slug}/): ${p.excerpt}`);
+    lines.push(`- [${p.title}](${base}/blog/${p.slug}/) (${p.publishDate}): ${p.excerpt}`);
   }
   lines.push("");
 
   // ───── Cobertura ─────
-  lines.push("## Ciudades con centro propio");
+  lines.push("## Ciudades con página propia");
   lines.push("");
   lines.push(
-    "Cada ciudad tiene su propia web con información local (dirección, horario, contexto de la zona) " +
-    "y su propio /llms.txt con el detalle completo:",
+    "Cada ciudad tiene una página con los servicios, los problemas de piscinas más habituales en la zona y preguntas frecuentes locales, " +
+    "y su propio /llms.txt. No son oficinas físicas: son zonas de servicio.",
   );
   lines.push("");
   for (const c of cities) {
@@ -100,7 +111,6 @@ export const GET: APIRoute = async () => {
   // ───── Pie ─────
   lines.push("---");
   lines.push("");
-  lines.push(`Última actualización del contenido: generado dinámicamente desde ${base}/llms.txt`);
   lines.push(`Network: ${NETWORK.brand} (${NETWORK.domain}).`);
 
   const body = lines.join("\n");

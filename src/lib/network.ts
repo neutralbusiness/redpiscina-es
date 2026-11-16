@@ -16,7 +16,7 @@ export const NETWORK = {
   brand: "Red Piscina",
   sector: "piscina",
   tagline:
-    "Mantenimiento, reparación, cubiertas, climatización y construcción de piscinas en toda España. Servicio profesional todo el año con amplia disponibilidad en temporada alta.",
+    "Mantenimiento, reparación, cubiertas, climatización y construcción de piscinas en toda España. Servicio profesional durante todo el año, con presupuesto sin compromiso.",
   phone: "",
   phoneDisplay: "",
   whatsapp: "",
@@ -43,27 +43,23 @@ export function servicesFor(citySlug?: string): ServiceItem[] {
 
 export const FAQ_BASE = [
   {
-    q: "¿Cuánto cuesta el mantenimiento mensual de una piscina?",
-    a: "Depende del tamaño del vaso, el sistema de filtración y la frecuencia de visitas. Te damos presupuesto cerrado tras una primera visita de valoración — sin compromiso ni coste. Un mantenimiento típico para una piscina residencial de 8×4 m parte de unos 80-120 €/mes con visita semanal.",
+    q: "¿Cuánto cuesta el mantenimiento de una piscina?",
+    a: "Depende del tamaño del vaso, del sistema de filtración y de cuántas visitas necesite: no es lo mismo una piscina privada de 8×4 m con visita quincenal que una comunitaria con controles diarios. Por eso no publicamos una tarifa cerrada; cuéntanos por el formulario medidas, tipo de piscina y qué quieres que hagamos, y te preparamos un presupuesto sin compromiso.",
   },
   {
-    q: "¿Trabajáis durante todo el año o solo en verano?",
-    a: "Todo el año. En temporada baja hacemos invernaje, mantenimiento preventivo, reparaciones, rehabilitaciones y construcción. La temporada alta (mayo-septiembre) la reservamos con prioridad para mantenimiento y puestas a punto. Te recomendamos reservar tu cita con antelación en primavera.",
+    q: "¿Trabajáis todo el año o solo en verano?",
+    a: "Todo el año. Fuera de temporada se hacen el invernaje, las reparaciones, las rehabilitaciones y las obras nuevas, que en verano dejan la piscina sin uso. De mayo a septiembre la demanda de mantenimiento y puestas a punto se dispara, así que conviene pedirlo con antelación, en marzo o abril.",
   },
   {
     q: "¿Hacéis piscinas de obra nuevas?",
-    a: "Sí. Construimos piscinas de hormigón gunitado, de liner y piscinas naturales. El proceso incluye proyecto, movimiento de tierras, estructura, impermeabilización, acabados (gresite, coronación, playa) e instalación de todos los equipos (depuradora, iluminación, climatización). Plazo orientativo: 6-10 semanas según tamaño.",
+    a: "Sí: piscinas de hormigón gunitado, de liner y piscinas naturales. Una obra pasa por proyecto y licencia, movimiento de tierras, estructura, impermeabilización, acabados (gresite, coronación y playa) e instalación de los equipos. El plazo depende del tamaño, del acceso para la maquinaria y de lo que tarde el ayuntamiento en dar la licencia.",
   },
   {
     q: "Mi piscina pierde agua, ¿puede ser una fuga?",
-    a: "Es muy probable. Una piscina puede perder 3-5 mm al día por evaporación, pero si baja más, hay fuga. Hacemos prueba de estanqueidad, detección de fugas con equipos profesionales y reparación sin necesidad de vaciar el vaso en la mayoría de casos.",
+    a: "Una piscina al aire libre pierde unos milímetros al día por evaporación, más en días de calor y viento. Si el nivel baja bastante más, o baja igual con la depuradora parada, lo normal es que haya una fuga en el vaso, en las tuberías o en las piezas empotradas. Se localiza con pruebas de presión y de estanqueidad y, en la mayoría de casos, se repara sin vaciar la piscina.",
   },
   {
     q: "¿Instaláis bombas de calor para alargar la temporada?",
-    a: "Sí. Instalamos bombas de calor inverter de alta eficiencia que permiten usar la piscina desde abril hasta octubre, o incluso todo el año en zonas de clima suave. Te dimensionamos el equipo según el volumen de tu piscina y la temperatura objetivo.",
-  },
-  {
-    q: "¿Tenéis disponibilidad en temporada alta?",
-    a: "Sí, mantenemos un equipo amplio precisamente para dar servicio en los meses de máxima demanda. Aun así, te recomendamos contratar el mantenimiento de temporada entre marzo y abril para garantizar plaza y tener la piscina lista para el primer baño.",
+    a: "Sí. Una bomba de calor bien dimensionada para el volumen de la piscina permite bañarse desde la primavera hasta bien entrado el otoño, y en zonas de clima suave casi todo el año si se combina con una cubierta. El equipo se elige según los metros cúbicos, la temperatura que quieras y si la piscina está cubierta o no.",
   },
 ] as const;

@@ -13,7 +13,7 @@ interface Props {
   heroImage?: string;
 }
 
-const { title, description, canonical, schema, noindex, ogImage = `https://${NETWORK.domain}${NETWORK.heroImage}` } = Astro.props;
+const { title, description, canonical, schema, noindex, ogImage = `https://www.${NETWORK.domain}${NETWORK.heroImage}` } = Astro.props;
 const heroImg = Astro.props.heroImage ?? NETWORK.heroImage;
 const heroSm = heroMovil(heroImg);
 ---
@@ -26,7 +26,12 @@ const heroSm = heroMovil(heroImg);
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
-    {noindex && <meta name="robots" content="noindex, follow" />}
+    {noindex ? <meta name="robots" content="noindex, follow" /> : (
+      <>
+        <link rel="alternate" hreflang="es-ES" href={canonical} />
+        <link rel="alternate" hreflang="x-default" href={canonical} />
+      </>
+    )}
 
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
@@ -35,6 +40,7 @@ const heroSm = heroMovil(heroImg);
     <meta property="og:locale" content="es_ES" />
     <meta property="og:image" content={ogImage} />
 
+    <meta property="og:site_name" content={NETWORK.brand} />
     <meta name="twitter:card" content="summary_large_image" />
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />

@@ -7,7 +7,7 @@
   "lat": 41.15612,
   "lng": 1.10687,
   "metaTitle": "Mantenimiento de Piscinas para Negocios en Reus — Red Piscina",
-  "metaDescription": "Servicio profesional de mantenimiento y reparación de piscinas para comunidades, hoteles y gimnasios en Reus. Presupuesto cerrado y garantía. Escríbenos.",
+  "metaDescription": "Servicio profesional de mantenimiento y reparación de piscinas para comunidades, hoteles y gimnasios en Reus. Presupuesto cerrado. Escríbenos.",
   "heroSubtitle": "Garantiza el perfecto estado de la piscina de tu comunidad, hotel o gimnasio en Reus durante toda la temporada de baño.",
   "trustChips": [
     {
@@ -15,16 +15,8 @@
       "text": "Presupuesto cerrado"
     },
     {
-      "icon": "⭐",
-      "text": "Profesional certificado"
-    },
-    {
       "icon": "⚡",
       "text": "Respuesta rápida"
-    },
-    {
-      "icon": "📋",
-      "text": "Factura y garantía"
     }
   ],
   "introLocal": "Reus, cuna del modernismo catalán junto con Barcelona y ciudad natal de Gaudí, tiene un casco histórico repleto de edificios modernistas de finales del XIX y principios del XX, herencia de la próspera burguesía industrial y comercial ligada al comercio del vino y los frutos secos que marcó la ciudad en aquella época. Muchas de las comunidades de vecinos de este entorno tienen piscinas más recientes, incorporadas en patios interiores o azoteas durante reformas posteriores, lo que exige a veces adaptar el mantenimiento a instalaciones con espacio reducido y accesos particulares.\n\nEl clima mediterráneo de Reus, con veranos largos y calurosos e inviernos suaves, hace que la temporada real de uso de las piscinas comunitarias sea bastante amplia, desde finales de primavera hasta bien entrado el otoño en los años más cálidos. La proximidad al aeropuerto de Reus y su notable desarrollo logístico e industrial en la periferia también han marcado el crecimiento de barrios residenciales más modernos, con comunidades de construcción reciente que tienen piscinas de diseño más estandarizado y sistemas de filtración más actuales que los del centro histórico.\n\nEl agua de la zona, de dureza moderada, con los años también deja incrustaciones de cal en filtros y elementos de la instalación si no reciben mantenimiento adecuado. Trabajamos adaptando el servicio tanto a las particularidades de las piscinas del entorno modernista del centro, con sus limitaciones de espacio y acceso, como a las instalaciones más recientes de los barrios surgidos del desarrollo logístico reusense, ofreciendo un mantenimiento ajustado a la temporada larga que permite el clima mediterráneo de la ciudad.",
@@ -127,5 +119,5 @@
     }
   ],
   "closingHeadline": "Tu piscina en Reus, lista para toda la temporada",
-  "closingCta": "Si gestionas una comunidad, hotel o gimnasio en Reus, contacta con nosotros. Presupuesto cerrado y garantía."
+  "closingCta": "Si gestionas una comunidad, hotel o gimnasio en Reus, contacta con nosotros. Presupuesto cerrado."
 }
