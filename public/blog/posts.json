@@ -7,7 +7,8 @@
     "publishDate": "2026-09-02",
     "readTime": 7,
     "image": "/img/blog/puesta-a-punto-piscina-primavera.webp",
-    "author": "Red Piscina"
+    "author": "Red Piscina",
+    "imageAlt": "Ilustración de una piscina con su depuradora preparada para la temporada"
   },
   {
     "slug": "depuradora-ph-cloro-piscina-verano",
@@ -17,7 +18,8 @@
     "publishDate": "2026-09-06",
     "readTime": 6,
     "image": "/img/blog/depuradora-ph-cloro-piscina-verano.webp",
-    "author": "Red Piscina"
+    "author": "Red Piscina",
+    "imageAlt": "Ilustración de un filtro de arena con manómetro, una bomba de depuradora y un termómetro"
   },
   {
     "slug": "piscina-comunidad-normativa-legionela-quimicos",
@@ -27,6 +29,62 @@
     "publishDate": "2026-09-10",
     "readTime": 8,
     "image": "/img/blog/piscina-comunidad-normativa-legionela-quimicos.webp",
+    "author": "Red Piscina",
+    "imageAlt": "Ilustración sobre el control del agua en una piscina de comunidad"
+  },
+  {
+    "slug": "clorador-salino-no-produce-cloro",
+    "title": "El clorador salino no produce cloro: qué revisar antes de cambiar la célula",
+    "excerpt": "El equipo está encendido y el cloro libre sigue a cero. El orden en que lo revisamos, del pH a la cal de la célula, y cómo saber si de verdad está gastada.",
+    "category": "Averías",
+    "publishDate": "2026-11-16",
+    "readTime": 6,
+    "image": "/img/blog/clorador-salino-no-produce-cloro.webp",
+    "imageAlt": "Termómetro flotante en el agua de una piscina, junto al borde y la rejilla de rebosadero",
+    "author": "Red Piscina"
+  },
+  {
+    "slug": "piscina-pierde-agua-detectar-fuga",
+    "title": "Mi piscina pierde agua: cómo saber si es una fuga y dónde está",
+    "excerpt": "La prueba del cubo para separar evaporación y fuga, qué indica el punto donde se para el nivel y cómo se localiza la pérdida sin vaciar la piscina.",
+    "category": "Reparación",
+    "publishDate": "2026-11-16",
+    "readTime": 6,
+    "image": "/img/blog/piscina-pierde-agua-detectar-fuga.webp",
+    "imageAlt": "Piscina de gresite casi vacía, con poca agua y hojas secas en el fondo",
+    "author": "Red Piscina"
+  },
+  {
+    "slug": "rehabilitar-piscina-antigua-gresite-liner",
+    "title": "Rehabilitar una piscina antigua: cuándo toca y qué revestimiento elegir",
+    "excerpt": "Las señales de que ya no basta con parchear, cómo se comparan gresite y liner con el poliéster y la pintura, y qué debe incluir un presupuesto de rehabilitación.",
+    "category": "Rehabilitación",
+    "publishDate": "2026-11-16",
+    "readTime": 6,
+    "image": "/img/blog/rehabilitar-piscina-antigua-gresite-liner.webp",
+    "imageAlt": "Escalera de acero inoxidable sobre las paredes de gresite azul de una piscina",
+    "author": "Red Piscina"
+  },
+  {
+    "slug": "invernaje-piscina-activo-pasivo",
+    "title": "Invernaje de la piscina: activo o pasivo según el clima de tu zona",
+    "excerpt": "Por qué no se vacía, cuándo conviene dejar la depuradora en marcha y cuándo apagarla, y los pasos del invernaje pasivo para que el hielo no rompa nada.",
+    "category": "Mantenimiento",
+    "publishDate": "2026-11-16",
+    "readTime": 6,
+    "image": "/img/blog/invernaje-piscina-activo-pasivo.webp",
+    "imageAlt": "Piscina en otoño con el agua oscura y hojas secas en el fondo",
+    "author": "Red Piscina"
+  },
+  {
+    "slug": "construir-piscina-licencia-fases-plazos",
+    "title": "Construir una piscina en casa: permisos y fases de la obra",
+    "excerpt": "La licencia y el ICIO, las distancias a linderos y el Catastro, los tipos de piscina y la obra fase a fase, con lo que más hace variar el precio.",
+    "category": "Construcción",
+    "publishDate": "2026-11-16",
+    "readTime": 6,
+    "image": "/img/blog/construir-piscina-licencia-fases-plazos.webp",
+    "imageAlt": "Operarios trabajando en una piscina en construcción con el vaso impermeabilizado en azul",
     "author": "Red Piscina"
   }
 ]
